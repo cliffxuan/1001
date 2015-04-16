@@ -1,0 +1,515 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5JZCCzamSeSAzsePPi632S"
+  }, 
+  "release_date": "2009-04-13", 
+  "popularity": 18, 
+  "genres": [], 
+  "uri": "spotify:album:5JZCCzamSeSAzsePPi632S", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Kentucky - The Original Album", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/18VE2MErYsDlbqTiePClj2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/db776e84292bb8ae5b5259b5786bd23cfef679bb", 
+        "is_playable": true, 
+        "uri": "spotify:track:18VE2MErYsDlbqTiePClj2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/18VE2MErYsDlbqTiePClj2", 
+        "artists": [
+          {
+            "name": "The Louvin Brothers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TUYqYNCqgqeqkBZVyxEi6"
+            }, 
+            "uri": "spotify:artist:3TUYqYNCqgqeqkBZVyxEi6", 
+            "href": "https://api.spotify.com/v1/artists/3TUYqYNCqgqeqkBZVyxEi6", 
+            "type": "artist", 
+            "id": "3TUYqYNCqgqeqkBZVyxEi6"
+          }
+        ], 
+        "duration_ms": 159520, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "18VE2MErYsDlbqTiePClj2"
+      }, 
+      {
+        "name": "I'll Be All Smiles Tonight - The Original Album", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6QL5lF1FMgyTicMlkMTRN8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5ba061acf9789b6a0761400f51335fba79f680d3", 
+        "is_playable": true, 
+        "uri": "spotify:track:6QL5lF1FMgyTicMlkMTRN8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6QL5lF1FMgyTicMlkMTRN8", 
+        "artists": [
+          {
+            "name": "The Louvin Brothers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TUYqYNCqgqeqkBZVyxEi6"
+            }, 
+            "uri": "spotify:artist:3TUYqYNCqgqeqkBZVyxEi6", 
+            "href": "https://api.spotify.com/v1/artists/3TUYqYNCqgqeqkBZVyxEi6", 
+            "type": "artist", 
+            "id": "3TUYqYNCqgqeqkBZVyxEi6"
+          }
+        ], 
+        "duration_ms": 194066, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "6QL5lF1FMgyTicMlkMTRN8"
+      }, 
+      {
+        "name": "Let Her Go, God Bless Her - The Original Album", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/340SE8qqkJXrEgDDdEuXyO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/99df8ef454c6d35396d7a20a9219794938bcf1d9", 
+        "is_playable": true, 
+        "uri": "spotify:track:340SE8qqkJXrEgDDdEuXyO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/340SE8qqkJXrEgDDdEuXyO", 
+        "artists": [
+          {
+            "name": "The Louvin Brothers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TUYqYNCqgqeqkBZVyxEi6"
+            }, 
+            "uri": "spotify:artist:3TUYqYNCqgqeqkBZVyxEi6", 
+            "href": "https://api.spotify.com/v1/artists/3TUYqYNCqgqeqkBZVyxEi6", 
+            "type": "artist", 
+            "id": "3TUYqYNCqgqeqkBZVyxEi6"
+          }
+        ], 
+        "duration_ms": 175120, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "340SE8qqkJXrEgDDdEuXyO"
+      }, 
+      {
+        "name": "What is Home Without Love - The Original Album", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3mSzukREhpAESXYnQKOWwS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0a409e6febba314070e873196752367cd1d58b35", 
+        "is_playable": true, 
+        "uri": "spotify:track:3mSzukREhpAESXYnQKOWwS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3mSzukREhpAESXYnQKOWwS", 
+        "artists": [
+          {
+            "name": "The Louvin Brothers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TUYqYNCqgqeqkBZVyxEi6"
+            }, 
+            "uri": "spotify:artist:3TUYqYNCqgqeqkBZVyxEi6", 
+            "href": "https://api.spotify.com/v1/artists/3TUYqYNCqgqeqkBZVyxEi6", 
+            "type": "artist", 
+            "id": "3TUYqYNCqgqeqkBZVyxEi6"
+          }
+        ], 
+        "duration_ms": 180786, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "3mSzukREhpAESXYnQKOWwS"
+      }, 
+      {
+        "name": "A Tiny Broken Heart - The Original Album", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4EzlkC0XwUgZTwKggHu4rL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/62ef16ddee0c7e5f549e9c7644e6ab2300dd6b60", 
+        "is_playable": true, 
+        "uri": "spotify:track:4EzlkC0XwUgZTwKggHu4rL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4EzlkC0XwUgZTwKggHu4rL", 
+        "artists": [
+          {
+            "name": "The Louvin Brothers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TUYqYNCqgqeqkBZVyxEi6"
+            }, 
+            "uri": "spotify:artist:3TUYqYNCqgqeqkBZVyxEi6", 
+            "href": "https://api.spotify.com/v1/artists/3TUYqYNCqgqeqkBZVyxEi6", 
+            "type": "artist", 
+            "id": "3TUYqYNCqgqeqkBZVyxEi6"
+          }
+        ], 
+        "duration_ms": 153200, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "4EzlkC0XwUgZTwKggHu4rL"
+      }, 
+      {
+        "name": "In The Pines - The Original Album", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1msMyI3Sb1XbImnPccAJna"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/294a02b67d2e809bd269c19ef489419a953ca2c4", 
+        "is_playable": true, 
+        "uri": "spotify:track:1msMyI3Sb1XbImnPccAJna", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1msMyI3Sb1XbImnPccAJna", 
+        "artists": [
+          {
+            "name": "The Louvin Brothers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TUYqYNCqgqeqkBZVyxEi6"
+            }, 
+            "uri": "spotify:artist:3TUYqYNCqgqeqkBZVyxEi6", 
+            "href": "https://api.spotify.com/v1/artists/3TUYqYNCqgqeqkBZVyxEi6", 
+            "type": "artist", 
+            "id": "3TUYqYNCqgqeqkBZVyxEi6"
+          }
+        ], 
+        "duration_ms": 194906, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "1msMyI3Sb1XbImnPccAJna"
+      }, 
+      {
+        "name": "Alabama - The Original Album", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0R9q3VJTqkmwcmHuvtLCW0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a2405845834bbd0b442155bd49f2d811eda979bf", 
+        "is_playable": true, 
+        "uri": "spotify:track:0R9q3VJTqkmwcmHuvtLCW0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0R9q3VJTqkmwcmHuvtLCW0", 
+        "artists": [
+          {
+            "name": "The Louvin Brothers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TUYqYNCqgqeqkBZVyxEi6"
+            }, 
+            "uri": "spotify:artist:3TUYqYNCqgqeqkBZVyxEi6", 
+            "href": "https://api.spotify.com/v1/artists/3TUYqYNCqgqeqkBZVyxEi6", 
+            "type": "artist", 
+            "id": "3TUYqYNCqgqeqkBZVyxEi6"
+          }
+        ], 
+        "duration_ms": 164253, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "0R9q3VJTqkmwcmHuvtLCW0"
+      }, 
+      {
+        "name": "Katie Dear - The Original Album", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/36TaeR6qFVaGdkwIHE8hiP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/911f9e4f978cbe7c047ef7dd6d2c3875172a49aa", 
+        "is_playable": true, 
+        "uri": "spotify:track:36TaeR6qFVaGdkwIHE8hiP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/36TaeR6qFVaGdkwIHE8hiP", 
+        "artists": [
+          {
+            "name": "The Louvin Brothers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TUYqYNCqgqeqkBZVyxEi6"
+            }, 
+            "uri": "spotify:artist:3TUYqYNCqgqeqkBZVyxEi6", 
+            "href": "https://api.spotify.com/v1/artists/3TUYqYNCqgqeqkBZVyxEi6", 
+            "type": "artist", 
+            "id": "3TUYqYNCqgqeqkBZVyxEi6"
+          }
+        ], 
+        "duration_ms": 154320, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "36TaeR6qFVaGdkwIHE8hiP"
+      }, 
+      {
+        "name": "My Brother's Will - The Original Album", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0GX9GC0YXWZzM4RSkMo8Hq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/47ea1b865c9861769042c1091fdfaa6d51801ccd", 
+        "is_playable": true, 
+        "uri": "spotify:track:0GX9GC0YXWZzM4RSkMo8Hq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0GX9GC0YXWZzM4RSkMo8Hq", 
+        "artists": [
+          {
+            "name": "The Louvin Brothers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TUYqYNCqgqeqkBZVyxEi6"
+            }, 
+            "uri": "spotify:artist:3TUYqYNCqgqeqkBZVyxEi6", 
+            "href": "https://api.spotify.com/v1/artists/3TUYqYNCqgqeqkBZVyxEi6", 
+            "type": "artist", 
+            "id": "3TUYqYNCqgqeqkBZVyxEi6"
+          }
+        ], 
+        "duration_ms": 195746, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "0GX9GC0YXWZzM4RSkMo8Hq"
+      }, 
+      {
+        "name": "Knoxville Girl - The Original Album", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3zV94TUGPDOsFeOqoEbQxb"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/20c0b1fbc2f15a4aba1d76121771f8cca547b7aa", 
+        "is_playable": true, 
+        "uri": "spotify:track:3zV94TUGPDOsFeOqoEbQxb", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3zV94TUGPDOsFeOqoEbQxb", 
+        "artists": [
+          {
+            "name": "The Louvin Brothers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TUYqYNCqgqeqkBZVyxEi6"
+            }, 
+            "uri": "spotify:artist:3TUYqYNCqgqeqkBZVyxEi6", 
+            "href": "https://api.spotify.com/v1/artists/3TUYqYNCqgqeqkBZVyxEi6", 
+            "type": "artist", 
+            "id": "3TUYqYNCqgqeqkBZVyxEi6"
+          }
+        ], 
+        "duration_ms": 229266, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "3zV94TUGPDOsFeOqoEbQxb"
+      }, 
+      {
+        "name": "Take the News to Mother - The Original Album", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0SXBpT16N9c48WWOtjYq7A"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/252885eba51642e4151980d3a6bd91d9562d4bbd", 
+        "is_playable": true, 
+        "uri": "spotify:track:0SXBpT16N9c48WWOtjYq7A", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0SXBpT16N9c48WWOtjYq7A", 
+        "artists": [
+          {
+            "name": "The Louvin Brothers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TUYqYNCqgqeqkBZVyxEi6"
+            }, 
+            "uri": "spotify:artist:3TUYqYNCqgqeqkBZVyxEi6", 
+            "href": "https://api.spotify.com/v1/artists/3TUYqYNCqgqeqkBZVyxEi6", 
+            "type": "artist", 
+            "id": "3TUYqYNCqgqeqkBZVyxEi6"
+          }
+        ], 
+        "duration_ms": 168066, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "0SXBpT16N9c48WWOtjYq7A"
+      }, 
+      {
+        "name": "Mary of the Wild Moor - The Original Album", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7EohHH5BROPHkwgfcn3Ycs"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5a2e9f775d2cf2cb1f4d0a8a3d30bdb6fcfb5ea5", 
+        "is_playable": true, 
+        "uri": "spotify:track:7EohHH5BROPHkwgfcn3Ycs", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7EohHH5BROPHkwgfcn3Ycs", 
+        "artists": [
+          {
+            "name": "The Louvin Brothers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TUYqYNCqgqeqkBZVyxEi6"
+            }, 
+            "uri": "spotify:artist:3TUYqYNCqgqeqkBZVyxEi6", 
+            "href": "https://api.spotify.com/v1/artists/3TUYqYNCqgqeqkBZVyxEi6", 
+            "type": "artist", 
+            "id": "3TUYqYNCqgqeqkBZVyxEi6"
+          }
+        ], 
+        "duration_ms": 193413, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "7EohHH5BROPHkwgfcn3Ycs"
+      }, 
+      {
+        "name": "Satan Lied to Me - Religous Overtones", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3diZu6j23JzYPzgWsjMlCc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3f99f4117e5e9c74a3a29f2e397517a280739fd3", 
+        "is_playable": true, 
+        "uri": "spotify:track:3diZu6j23JzYPzgWsjMlCc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3diZu6j23JzYPzgWsjMlCc", 
+        "artists": [
+          {
+            "name": "The Louvin Brothers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TUYqYNCqgqeqkBZVyxEi6"
+            }, 
+            "uri": "spotify:artist:3TUYqYNCqgqeqkBZVyxEi6", 
+            "href": "https://api.spotify.com/v1/artists/3TUYqYNCqgqeqkBZVyxEi6", 
+            "type": "artist", 
+            "id": "3TUYqYNCqgqeqkBZVyxEi6"
+          }
+        ], 
+        "duration_ms": 141306, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "3diZu6j23JzYPzgWsjMlCc"
+      }, 
+      {
+        "name": "Pray for Me - Religous Overtones", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2MLL4c2VHQJigbc95mAb51"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2867d221d82a3e843a0463f7f133bb42b40d415f", 
+        "is_playable": true, 
+        "uri": "spotify:track:2MLL4c2VHQJigbc95mAb51", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2MLL4c2VHQJigbc95mAb51", 
+        "artists": [
+          {
+            "name": "The Louvin Brothers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TUYqYNCqgqeqkBZVyxEi6"
+            }, 
+            "uri": "spotify:artist:3TUYqYNCqgqeqkBZVyxEi6", 
+            "href": "https://api.spotify.com/v1/artists/3TUYqYNCqgqeqkBZVyxEi6", 
+            "type": "artist", 
+            "id": "3TUYqYNCqgqeqkBZVyxEi6"
+          }
+        ], 
+        "duration_ms": 172520, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "2MLL4c2VHQJigbc95mAb51"
+      }, 
+      {
+        "name": "Lord, I'm Coming Home - Religous Overtones", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3pm9C4behWc5oXKKj2gU6s"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/10650952eb3aa37249a983d105f7e99319d490af", 
+        "is_playable": true, 
+        "uri": "spotify:track:3pm9C4behWc5oXKKj2gU6s", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3pm9C4behWc5oXKKj2gU6s", 
+        "artists": [
+          {
+            "name": "The Louvin Brothers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TUYqYNCqgqeqkBZVyxEi6"
+            }, 
+            "uri": "spotify:artist:3TUYqYNCqgqeqkBZVyxEi6", 
+            "href": "https://api.spotify.com/v1/artists/3TUYqYNCqgqeqkBZVyxEi6", 
+            "type": "artist", 
+            "id": "3TUYqYNCqgqeqkBZVyxEi6"
+          }
+        ], 
+        "duration_ms": 194626, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "3pm9C4behWc5oXKKj2gU6s"
+      }, 
+      {
+        "name": "Thankful - Religous Overtones", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/19UjAe6UYgl1eRf07iTohB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/db478f96ac6d2f11dbd4caddafc8d0cc38eb4e00", 
+        "is_playable": true, 
+        "uri": "spotify:track:19UjAe6UYgl1eRf07iTohB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/19UjAe6UYgl1eRf07iTohB", 
+        "artists": [
+          {
+            "name": "The Louvin Brothers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TUYqYNCqgqeqkBZVyxEi6"
+            }, 
+            "uri": "spotify:artist:3TUYqYNCqgqeqkBZVyxEi6", 
+            "href": "https://api.spotify.com/v1/artists/3TUYqYNCqgqeqkBZVyxEi6", 
+            "type": "artist", 
+            "id": "3TUYqYNCqgqeqkBZVyxEi6"
+          }
+        ], 
+        "duration_ms": 175533, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "19UjAe6UYgl1eRf07iTohB"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/5JZCCzamSeSAzsePPi632S/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 16, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/5JZCCzamSeSAzsePPi632S", 
+  "copyrights": [
+    {
+      "text": "2009 Righteous Records", 
+      "type": "C"
+    }, 
+    {
+      "text": "2009 Righteous Records", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "The Louvin Brothers", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3TUYqYNCqgqeqkBZVyxEi6"
+      }, 
+      "uri": "spotify:artist:3TUYqYNCqgqeqkBZVyxEi6", 
+      "href": "https://api.spotify.com/v1/artists/3TUYqYNCqgqeqkBZVyxEi6", 
+      "type": "artist", 
+      "id": "3TUYqYNCqgqeqkBZVyxEi6"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/29b144427a883d03f652060d289ed42e1da2bbc7", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/6d6398773348dc270f36896520192630d7b92e5b", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/4c06a528a1c045ae93e277d889cd1445c09cabb6", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "5013929980624"
+  }, 
+  "type": "album", 
+  "id": "5JZCCzamSeSAzsePPi632S", 
+  "name": "Tragic Songs of Life"
+}

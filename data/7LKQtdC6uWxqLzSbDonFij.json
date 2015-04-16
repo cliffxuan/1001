@@ -1,0 +1,347 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7LKQtdC6uWxqLzSbDonFij"
+  }, 
+  "release_date": "1999", 
+  "popularity": 60, 
+  "genres": [], 
+  "uri": "spotify:album:7LKQtdC6uWxqLzSbDonFij", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Intro", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1cjl3D2qxel7NA3S0qepAJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/578114985ccd6575fdd2a6e28daf307e621a4c0f", 
+        "is_playable": true, 
+        "uri": "spotify:track:1cjl3D2qxel7NA3S0qepAJ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1cjl3D2qxel7NA3S0qepAJ", 
+        "artists": [
+          {
+            "name": "Sigur R\u00f3s", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
+            }, 
+            "uri": "spotify:artist:6UUrUCIZtQeOf8tC0WuzRy", 
+            "href": "https://api.spotify.com/v1/artists/6UUrUCIZtQeOf8tC0WuzRy", 
+            "type": "artist", 
+            "id": "6UUrUCIZtQeOf8tC0WuzRy"
+          }
+        ], 
+        "duration_ms": 97093, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "1cjl3D2qxel7NA3S0qepAJ"
+      }, 
+      {
+        "name": "Svefn-g-englar", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2fkPXXnPh0jhtwcTxLobqd"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/61ddf3ee733613f5177bcc01e33efac0b3948b2b", 
+        "is_playable": true, 
+        "uri": "spotify:track:2fkPXXnPh0jhtwcTxLobqd", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2fkPXXnPh0jhtwcTxLobqd", 
+        "artists": [
+          {
+            "name": "Sigur R\u00f3s", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
+            }, 
+            "uri": "spotify:artist:6UUrUCIZtQeOf8tC0WuzRy", 
+            "href": "https://api.spotify.com/v1/artists/6UUrUCIZtQeOf8tC0WuzRy", 
+            "type": "artist", 
+            "id": "6UUrUCIZtQeOf8tC0WuzRy"
+          }
+        ], 
+        "duration_ms": 604266, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "2fkPXXnPh0jhtwcTxLobqd"
+      }, 
+      {
+        "name": "Star\u00e1lfur", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4iVKvR6Y3LwBaOBSQKsqj0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5072fb45b7ec383efe801eca13564442145d8fae", 
+        "is_playable": true, 
+        "uri": "spotify:track:4iVKvR6Y3LwBaOBSQKsqj0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4iVKvR6Y3LwBaOBSQKsqj0", 
+        "artists": [
+          {
+            "name": "Sigur R\u00f3s", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
+            }, 
+            "uri": "spotify:artist:6UUrUCIZtQeOf8tC0WuzRy", 
+            "href": "https://api.spotify.com/v1/artists/6UUrUCIZtQeOf8tC0WuzRy", 
+            "type": "artist", 
+            "id": "6UUrUCIZtQeOf8tC0WuzRy"
+          }
+        ], 
+        "duration_ms": 406266, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "4iVKvR6Y3LwBaOBSQKsqj0"
+      }, 
+      {
+        "name": "Flugufrelsarinn", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7rbllPSJ7BI3EG6FqxKvgj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/39ff9d922901671f2b6dd8be4af210ac18027def", 
+        "is_playable": true, 
+        "uri": "spotify:track:7rbllPSJ7BI3EG6FqxKvgj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7rbllPSJ7BI3EG6FqxKvgj", 
+        "artists": [
+          {
+            "name": "Sigur R\u00f3s", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
+            }, 
+            "uri": "spotify:artist:6UUrUCIZtQeOf8tC0WuzRy", 
+            "href": "https://api.spotify.com/v1/artists/6UUrUCIZtQeOf8tC0WuzRy", 
+            "type": "artist", 
+            "id": "6UUrUCIZtQeOf8tC0WuzRy"
+          }
+        ], 
+        "duration_ms": 468506, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "7rbllPSJ7BI3EG6FqxKvgj"
+      }, 
+      {
+        "name": "N\u00fd batter\u00ed", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1O3g5Z3mZkQ5ud460FWeDE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/992d49ebd139e6cb19d2b43eb198726b553f3a4a", 
+        "is_playable": true, 
+        "uri": "spotify:track:1O3g5Z3mZkQ5ud460FWeDE", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1O3g5Z3mZkQ5ud460FWeDE", 
+        "artists": [
+          {
+            "name": "Sigur R\u00f3s", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
+            }, 
+            "uri": "spotify:artist:6UUrUCIZtQeOf8tC0WuzRy", 
+            "href": "https://api.spotify.com/v1/artists/6UUrUCIZtQeOf8tC0WuzRy", 
+            "type": "artist", 
+            "id": "6UUrUCIZtQeOf8tC0WuzRy"
+          }
+        ], 
+        "duration_ms": 490266, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "1O3g5Z3mZkQ5ud460FWeDE"
+      }, 
+      {
+        "name": "Hjarta\u00f0 hamast", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7a3KAxwAi2JXrrCvSfmkwT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d8e723547236f3edb9441d479de0b3557ca1c2ce", 
+        "is_playable": true, 
+        "uri": "spotify:track:7a3KAxwAi2JXrrCvSfmkwT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7a3KAxwAi2JXrrCvSfmkwT", 
+        "artists": [
+          {
+            "name": "Sigur R\u00f3s", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
+            }, 
+            "uri": "spotify:artist:6UUrUCIZtQeOf8tC0WuzRy", 
+            "href": "https://api.spotify.com/v1/artists/6UUrUCIZtQeOf8tC0WuzRy", 
+            "type": "artist", 
+            "id": "6UUrUCIZtQeOf8tC0WuzRy"
+          }
+        ], 
+        "duration_ms": 430226, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "7a3KAxwAi2JXrrCvSfmkwT"
+      }, 
+      {
+        "name": "Vi\u00f0rar Vel Til Loft\u00e1r\u00e1sa", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/74IEOxfTZrZbC78v4ObfyK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/753dc2883eea58844770cc1a1b90315b0479777a", 
+        "is_playable": true, 
+        "uri": "spotify:track:74IEOxfTZrZbC78v4ObfyK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/74IEOxfTZrZbC78v4ObfyK", 
+        "artists": [
+          {
+            "name": "Sigur R\u00f3s", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
+            }, 
+            "uri": "spotify:artist:6UUrUCIZtQeOf8tC0WuzRy", 
+            "href": "https://api.spotify.com/v1/artists/6UUrUCIZtQeOf8tC0WuzRy", 
+            "type": "artist", 
+            "id": "6UUrUCIZtQeOf8tC0WuzRy"
+          }
+        ], 
+        "duration_ms": 617666, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "74IEOxfTZrZbC78v4ObfyK"
+      }, 
+      {
+        "name": "Olsen Olsen", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3d4Le1etBUAAsbldCcaWeq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/26d3a9a1264d187c6ebb946031ebe7a23cc87198", 
+        "is_playable": true, 
+        "uri": "spotify:track:3d4Le1etBUAAsbldCcaWeq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3d4Le1etBUAAsbldCcaWeq", 
+        "artists": [
+          {
+            "name": "Sigur R\u00f3s", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
+            }, 
+            "uri": "spotify:artist:6UUrUCIZtQeOf8tC0WuzRy", 
+            "href": "https://api.spotify.com/v1/artists/6UUrUCIZtQeOf8tC0WuzRy", 
+            "type": "artist", 
+            "id": "6UUrUCIZtQeOf8tC0WuzRy"
+          }
+        ], 
+        "duration_ms": 483133, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "3d4Le1etBUAAsbldCcaWeq"
+      }, 
+      {
+        "name": "\u00c1g\u00e6tis Byrjun", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1V8APWDwv2XUfLi5G6UEpH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/84dcc5341ea6b8a67ee93a126ba04bfca52af3d9", 
+        "is_playable": true, 
+        "uri": "spotify:track:1V8APWDwv2XUfLi5G6UEpH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1V8APWDwv2XUfLi5G6UEpH", 
+        "artists": [
+          {
+            "name": "Sigur R\u00f3s", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
+            }, 
+            "uri": "spotify:artist:6UUrUCIZtQeOf8tC0WuzRy", 
+            "href": "https://api.spotify.com/v1/artists/6UUrUCIZtQeOf8tC0WuzRy", 
+            "type": "artist", 
+            "id": "6UUrUCIZtQeOf8tC0WuzRy"
+          }
+        ], 
+        "duration_ms": 475840, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "1V8APWDwv2XUfLi5G6UEpH"
+      }, 
+      {
+        "name": "Avalon", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Ziuw5rmOsMtXW58zIBAC4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a2bbd08a60c1b6a137dcfcd21a8972c70e632d92", 
+        "is_playable": true, 
+        "uri": "spotify:track:3Ziuw5rmOsMtXW58zIBAC4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3Ziuw5rmOsMtXW58zIBAC4", 
+        "artists": [
+          {
+            "name": "Sigur R\u00f3s", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
+            }, 
+            "uri": "spotify:artist:6UUrUCIZtQeOf8tC0WuzRy", 
+            "href": "https://api.spotify.com/v1/artists/6UUrUCIZtQeOf8tC0WuzRy", 
+            "type": "artist", 
+            "id": "6UUrUCIZtQeOf8tC0WuzRy"
+          }
+        ], 
+        "duration_ms": 244266, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "3Ziuw5rmOsMtXW58zIBAC4"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/7LKQtdC6uWxqLzSbDonFij/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 10, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/7LKQtdC6uWxqLzSbDonFij", 
+  "copyrights": [
+    {
+      "text": "1999 Sigur R\u00f3s under exclusive license to XL Recordings Ltd.", 
+      "type": "C"
+    }, 
+    {
+      "text": "1999 Sigur R\u00f3s under exclusive license to XL Recordings Ltd.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Sigur R\u00f3s", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
+      }, 
+      "uri": "spotify:artist:6UUrUCIZtQeOf8tC0WuzRy", 
+      "href": "https://api.spotify.com/v1/artists/6UUrUCIZtQeOf8tC0WuzRy", 
+      "type": "artist", 
+      "id": "6UUrUCIZtQeOf8tC0WuzRy"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/53b38840e696a9332e64612e611691a2f3bfcf83", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/14f52d613a1f0525e2bc213388496b6173112088", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/4251e620acee1552a503fb98ec796cf4d487dce6", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "634904061067"
+  }, 
+  "type": "album", 
+  "id": "7LKQtdC6uWxqLzSbDonFij", 
+  "name": "\u00c1g\u00e6tis Byrjun"
+}

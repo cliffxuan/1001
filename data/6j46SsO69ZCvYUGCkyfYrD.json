@@ -1,0 +1,969 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6j46SsO69ZCvYUGCkyfYrD"
+  }, 
+  "release_date": "1966-07-22", 
+  "popularity": 47, 
+  "genres": [], 
+  "uri": "spotify:album:6j46SsO69ZCvYUGCkyfYrD", 
+  "tracks": {
+    "items": [
+      {
+        "name": "All Your Love - Mono", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3FVBOuiSks5oYN5dTt0JZN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8adf58a0b41eb310a7c6c824dfbc885b21ee7537", 
+        "is_playable": true, 
+        "uri": "spotify:track:3FVBOuiSks5oYN5dTt0JZN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3FVBOuiSks5oYN5dTt0JZN", 
+        "artists": [
+          {
+            "name": "John Mayall & The Bluesbreakers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+            }, 
+            "uri": "spotify:artist:2ScuQMRWThcifBRIvNDFDC", 
+            "href": "https://api.spotify.com/v1/artists/2ScuQMRWThcifBRIvNDFDC", 
+            "type": "artist", 
+            "id": "2ScuQMRWThcifBRIvNDFDC"
+          }, 
+          {
+            "name": "Eric Clapton", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+            }, 
+            "uri": "spotify:artist:6PAt558ZEZl0DmdXlnjMgD", 
+            "href": "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD", 
+            "type": "artist", 
+            "id": "6PAt558ZEZl0DmdXlnjMgD"
+          }
+        ], 
+        "duration_ms": 215026, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "3FVBOuiSks5oYN5dTt0JZN"
+      }, 
+      {
+        "name": "Hideaway - Mono Instrumental", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7jrCqijug2AMBPgLB5QDiD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/39258cbb0499bbbda52affd4469d2fe7ad6f999d", 
+        "is_playable": true, 
+        "uri": "spotify:track:7jrCqijug2AMBPgLB5QDiD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7jrCqijug2AMBPgLB5QDiD", 
+        "artists": [
+          {
+            "name": "John Mayall & The Bluesbreakers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+            }, 
+            "uri": "spotify:artist:2ScuQMRWThcifBRIvNDFDC", 
+            "href": "https://api.spotify.com/v1/artists/2ScuQMRWThcifBRIvNDFDC", 
+            "type": "artist", 
+            "id": "2ScuQMRWThcifBRIvNDFDC"
+          }, 
+          {
+            "name": "Eric Clapton", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+            }, 
+            "uri": "spotify:artist:6PAt558ZEZl0DmdXlnjMgD", 
+            "href": "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD", 
+            "type": "artist", 
+            "id": "6PAt558ZEZl0DmdXlnjMgD"
+          }
+        ], 
+        "duration_ms": 193560, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "7jrCqijug2AMBPgLB5QDiD"
+      }, 
+      {
+        "name": "Little Girl - Mono", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2TOzVeahwd1V94S7Vpt4bM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9bcd3d2a8b5ea3a27e95e235d9e5a4a26eafa1b1", 
+        "is_playable": true, 
+        "uri": "spotify:track:2TOzVeahwd1V94S7Vpt4bM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2TOzVeahwd1V94S7Vpt4bM", 
+        "artists": [
+          {
+            "name": "John Mayall & The Bluesbreakers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+            }, 
+            "uri": "spotify:artist:2ScuQMRWThcifBRIvNDFDC", 
+            "href": "https://api.spotify.com/v1/artists/2ScuQMRWThcifBRIvNDFDC", 
+            "type": "artist", 
+            "id": "2ScuQMRWThcifBRIvNDFDC"
+          }
+        ], 
+        "duration_ms": 153400, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "2TOzVeahwd1V94S7Vpt4bM"
+      }, 
+      {
+        "name": "Another Man - Mono", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7dtdzB7yn3AMfwmDqhnWrC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f01118762e2c94833714aece673ef8561de0da35", 
+        "is_playable": true, 
+        "uri": "spotify:track:7dtdzB7yn3AMfwmDqhnWrC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7dtdzB7yn3AMfwmDqhnWrC", 
+        "artists": [
+          {
+            "name": "John Mayall & The Bluesbreakers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+            }, 
+            "uri": "spotify:artist:2ScuQMRWThcifBRIvNDFDC", 
+            "href": "https://api.spotify.com/v1/artists/2ScuQMRWThcifBRIvNDFDC", 
+            "type": "artist", 
+            "id": "2ScuQMRWThcifBRIvNDFDC"
+          }, 
+          {
+            "name": "Eric Clapton", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+            }, 
+            "uri": "spotify:artist:6PAt558ZEZl0DmdXlnjMgD", 
+            "href": "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD", 
+            "type": "artist", 
+            "id": "6PAt558ZEZl0DmdXlnjMgD"
+          }
+        ], 
+        "duration_ms": 104960, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "7dtdzB7yn3AMfwmDqhnWrC"
+      }, 
+      {
+        "name": "Double Crossing Time - Mono", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1xiC0S5ArI50Rnson6KOcE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/dec04c9756c564a887b8475b5e2b3839aa5a6ec2", 
+        "is_playable": true, 
+        "uri": "spotify:track:1xiC0S5ArI50Rnson6KOcE", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1xiC0S5ArI50Rnson6KOcE", 
+        "artists": [
+          {
+            "name": "John Mayall & The Bluesbreakers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+            }, 
+            "uri": "spotify:artist:2ScuQMRWThcifBRIvNDFDC", 
+            "href": "https://api.spotify.com/v1/artists/2ScuQMRWThcifBRIvNDFDC", 
+            "type": "artist", 
+            "id": "2ScuQMRWThcifBRIvNDFDC"
+          }, 
+          {
+            "name": "Eric Clapton", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+            }, 
+            "uri": "spotify:artist:6PAt558ZEZl0DmdXlnjMgD", 
+            "href": "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD", 
+            "type": "artist", 
+            "id": "6PAt558ZEZl0DmdXlnjMgD"
+          }
+        ], 
+        "duration_ms": 180693, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "1xiC0S5ArI50Rnson6KOcE"
+      }, 
+      {
+        "name": "What'd I Say - Mono", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4PyuPcG1CPABSGk9KElBbb"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4e8bb41bcbc4bcc7b9bcd5f6497e121799797dae", 
+        "is_playable": true, 
+        "uri": "spotify:track:4PyuPcG1CPABSGk9KElBbb", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4PyuPcG1CPABSGk9KElBbb", 
+        "artists": [
+          {
+            "name": "John Mayall & The Bluesbreakers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+            }, 
+            "uri": "spotify:artist:2ScuQMRWThcifBRIvNDFDC", 
+            "href": "https://api.spotify.com/v1/artists/2ScuQMRWThcifBRIvNDFDC", 
+            "type": "artist", 
+            "id": "2ScuQMRWThcifBRIvNDFDC"
+          }, 
+          {
+            "name": "Eric Clapton", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+            }, 
+            "uri": "spotify:artist:6PAt558ZEZl0DmdXlnjMgD", 
+            "href": "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD", 
+            "type": "artist", 
+            "id": "6PAt558ZEZl0DmdXlnjMgD"
+          }
+        ], 
+        "duration_ms": 265666, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "4PyuPcG1CPABSGk9KElBbb"
+      }, 
+      {
+        "name": "Key To Love - Mono", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2g9kTQg1rbOnOM7H5hoyJf"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/73a115a2905cb9d65a08660e00a23801f25ea37f", 
+        "is_playable": true, 
+        "uri": "spotify:track:2g9kTQg1rbOnOM7H5hoyJf", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2g9kTQg1rbOnOM7H5hoyJf", 
+        "artists": [
+          {
+            "name": "John Mayall & The Bluesbreakers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+            }, 
+            "uri": "spotify:artist:2ScuQMRWThcifBRIvNDFDC", 
+            "href": "https://api.spotify.com/v1/artists/2ScuQMRWThcifBRIvNDFDC", 
+            "type": "artist", 
+            "id": "2ScuQMRWThcifBRIvNDFDC"
+          }, 
+          {
+            "name": "Eric Clapton", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+            }, 
+            "uri": "spotify:artist:6PAt558ZEZl0DmdXlnjMgD", 
+            "href": "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD", 
+            "type": "artist", 
+            "id": "6PAt558ZEZl0DmdXlnjMgD"
+          }
+        ], 
+        "duration_ms": 125666, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "2g9kTQg1rbOnOM7H5hoyJf"
+      }, 
+      {
+        "name": "Parchman Farm - Mono", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3s8LPp3dVCrIWtuieUWoS1"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/94500d31d370347307c95551ef696fbfa4de32b2", 
+        "is_playable": true, 
+        "uri": "spotify:track:3s8LPp3dVCrIWtuieUWoS1", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3s8LPp3dVCrIWtuieUWoS1", 
+        "artists": [
+          {
+            "name": "John Mayall & The Bluesbreakers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+            }, 
+            "uri": "spotify:artist:2ScuQMRWThcifBRIvNDFDC", 
+            "href": "https://api.spotify.com/v1/artists/2ScuQMRWThcifBRIvNDFDC", 
+            "type": "artist", 
+            "id": "2ScuQMRWThcifBRIvNDFDC"
+          }, 
+          {
+            "name": "Eric Clapton", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+            }, 
+            "uri": "spotify:artist:6PAt558ZEZl0DmdXlnjMgD", 
+            "href": "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD", 
+            "type": "artist", 
+            "id": "6PAt558ZEZl0DmdXlnjMgD"
+          }
+        ], 
+        "duration_ms": 138840, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "3s8LPp3dVCrIWtuieUWoS1"
+      }, 
+      {
+        "name": "Have You Heard - Mono", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2N2rTjLY4OOmKwFKQuidTH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/89199318e1b87dec1841b67b0007c9c9d5173685", 
+        "is_playable": true, 
+        "uri": "spotify:track:2N2rTjLY4OOmKwFKQuidTH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2N2rTjLY4OOmKwFKQuidTH", 
+        "artists": [
+          {
+            "name": "John Mayall & The Bluesbreakers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+            }, 
+            "uri": "spotify:artist:2ScuQMRWThcifBRIvNDFDC", 
+            "href": "https://api.spotify.com/v1/artists/2ScuQMRWThcifBRIvNDFDC", 
+            "type": "artist", 
+            "id": "2ScuQMRWThcifBRIvNDFDC"
+          }, 
+          {
+            "name": "Eric Clapton", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+            }, 
+            "uri": "spotify:artist:6PAt558ZEZl0DmdXlnjMgD", 
+            "href": "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD", 
+            "type": "artist", 
+            "id": "6PAt558ZEZl0DmdXlnjMgD"
+          }
+        ], 
+        "duration_ms": 353306, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "2N2rTjLY4OOmKwFKQuidTH"
+      }, 
+      {
+        "name": "Ramblin' On My Mind - Mono", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1fEEaS6UpoAV9mnA1zDq2U"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/24699ee5eb04025d23f9d4ecac5ec7d5b05e8335", 
+        "is_playable": true, 
+        "uri": "spotify:track:1fEEaS6UpoAV9mnA1zDq2U", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1fEEaS6UpoAV9mnA1zDq2U", 
+        "artists": [
+          {
+            "name": "John Mayall & The Bluesbreakers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+            }, 
+            "uri": "spotify:artist:2ScuQMRWThcifBRIvNDFDC", 
+            "href": "https://api.spotify.com/v1/artists/2ScuQMRWThcifBRIvNDFDC", 
+            "type": "artist", 
+            "id": "2ScuQMRWThcifBRIvNDFDC"
+          }, 
+          {
+            "name": "Eric Clapton", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+            }, 
+            "uri": "spotify:artist:6PAt558ZEZl0DmdXlnjMgD", 
+            "href": "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD", 
+            "type": "artist", 
+            "id": "6PAt558ZEZl0DmdXlnjMgD"
+          }
+        ], 
+        "duration_ms": 186240, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "1fEEaS6UpoAV9mnA1zDq2U"
+      }, 
+      {
+        "name": "Steppin' Out - Mono Instrumental", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0skdaw1cSXUPOttuWlyxgz"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/dc0cbf0ee8206186fb43d33a562a29e5f0049cae", 
+        "is_playable": true, 
+        "uri": "spotify:track:0skdaw1cSXUPOttuWlyxgz", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0skdaw1cSXUPOttuWlyxgz", 
+        "artists": [
+          {
+            "name": "John Mayall & The Bluesbreakers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+            }, 
+            "uri": "spotify:artist:2ScuQMRWThcifBRIvNDFDC", 
+            "href": "https://api.spotify.com/v1/artists/2ScuQMRWThcifBRIvNDFDC", 
+            "type": "artist", 
+            "id": "2ScuQMRWThcifBRIvNDFDC"
+          }, 
+          {
+            "name": "Eric Clapton", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+            }, 
+            "uri": "spotify:artist:6PAt558ZEZl0DmdXlnjMgD", 
+            "href": "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD", 
+            "type": "artist", 
+            "id": "6PAt558ZEZl0DmdXlnjMgD"
+          }
+        ], 
+        "duration_ms": 147560, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "0skdaw1cSXUPOttuWlyxgz"
+      }, 
+      {
+        "name": "It Ain't Right - Mono", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2FLQXcD9YByBqMu2xuPAW6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e9370a3c858b3dd2d88cf59df89e1603e1f28a43", 
+        "is_playable": true, 
+        "uri": "spotify:track:2FLQXcD9YByBqMu2xuPAW6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2FLQXcD9YByBqMu2xuPAW6", 
+        "artists": [
+          {
+            "name": "John Mayall & The Bluesbreakers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+            }, 
+            "uri": "spotify:artist:2ScuQMRWThcifBRIvNDFDC", 
+            "href": "https://api.spotify.com/v1/artists/2ScuQMRWThcifBRIvNDFDC", 
+            "type": "artist", 
+            "id": "2ScuQMRWThcifBRIvNDFDC"
+          }, 
+          {
+            "name": "Eric Clapton", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+            }, 
+            "uri": "spotify:artist:6PAt558ZEZl0DmdXlnjMgD", 
+            "href": "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD", 
+            "type": "artist", 
+            "id": "6PAt558ZEZl0DmdXlnjMgD"
+          }
+        ], 
+        "duration_ms": 158960, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "2FLQXcD9YByBqMu2xuPAW6"
+      }, 
+      {
+        "name": "All Your Love - Stereo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6hwGMk1NUqOomS795gWqfs"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e1945f3cd575e1f41ea2ee2e76836e8899e91dce", 
+        "is_playable": true, 
+        "uri": "spotify:track:6hwGMk1NUqOomS795gWqfs", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6hwGMk1NUqOomS795gWqfs", 
+        "artists": [
+          {
+            "name": "John Mayall & The Bluesbreakers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+            }, 
+            "uri": "spotify:artist:2ScuQMRWThcifBRIvNDFDC", 
+            "href": "https://api.spotify.com/v1/artists/2ScuQMRWThcifBRIvNDFDC", 
+            "type": "artist", 
+            "id": "2ScuQMRWThcifBRIvNDFDC"
+          }
+        ], 
+        "duration_ms": 212600, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "6hwGMk1NUqOomS795gWqfs"
+      }, 
+      {
+        "name": "Hideaway - Stereo Instrumental", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Dox2uYrlr1rfS0ebpE2nm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d2bc2f08fdbebc79fa229d8135371ab2d568f16b", 
+        "is_playable": true, 
+        "uri": "spotify:track:4Dox2uYrlr1rfS0ebpE2nm", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4Dox2uYrlr1rfS0ebpE2nm", 
+        "artists": [
+          {
+            "name": "John Mayall & The Bluesbreakers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+            }, 
+            "uri": "spotify:artist:2ScuQMRWThcifBRIvNDFDC", 
+            "href": "https://api.spotify.com/v1/artists/2ScuQMRWThcifBRIvNDFDC", 
+            "type": "artist", 
+            "id": "2ScuQMRWThcifBRIvNDFDC"
+          }, 
+          {
+            "name": "Eric Clapton", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+            }, 
+            "uri": "spotify:artist:6PAt558ZEZl0DmdXlnjMgD", 
+            "href": "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD", 
+            "type": "artist", 
+            "id": "6PAt558ZEZl0DmdXlnjMgD"
+          }
+        ], 
+        "duration_ms": 193573, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "4Dox2uYrlr1rfS0ebpE2nm"
+      }, 
+      {
+        "name": "Little Girl - Stereo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7npAmlFTM59YP0MK4FpERv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f2f7c42e8dba8af2e9e74addf525d2df994ca5de", 
+        "is_playable": true, 
+        "uri": "spotify:track:7npAmlFTM59YP0MK4FpERv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7npAmlFTM59YP0MK4FpERv", 
+        "artists": [
+          {
+            "name": "John Mayall & The Bluesbreakers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+            }, 
+            "uri": "spotify:artist:2ScuQMRWThcifBRIvNDFDC", 
+            "href": "https://api.spotify.com/v1/artists/2ScuQMRWThcifBRIvNDFDC", 
+            "type": "artist", 
+            "id": "2ScuQMRWThcifBRIvNDFDC"
+          }, 
+          {
+            "name": "Eric Clapton", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+            }, 
+            "uri": "spotify:artist:6PAt558ZEZl0DmdXlnjMgD", 
+            "href": "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD", 
+            "type": "artist", 
+            "id": "6PAt558ZEZl0DmdXlnjMgD"
+          }
+        ], 
+        "duration_ms": 153066, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "7npAmlFTM59YP0MK4FpERv"
+      }, 
+      {
+        "name": "Another Man - Stereo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/133wDIRVQ42d7sclwdsuZ1"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/90adeac473344372c6fdab3bf4eba54a9d61c3ac", 
+        "is_playable": true, 
+        "uri": "spotify:track:133wDIRVQ42d7sclwdsuZ1", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/133wDIRVQ42d7sclwdsuZ1", 
+        "artists": [
+          {
+            "name": "John Mayall & The Bluesbreakers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+            }, 
+            "uri": "spotify:artist:2ScuQMRWThcifBRIvNDFDC", 
+            "href": "https://api.spotify.com/v1/artists/2ScuQMRWThcifBRIvNDFDC", 
+            "type": "artist", 
+            "id": "2ScuQMRWThcifBRIvNDFDC"
+          }, 
+          {
+            "name": "Eric Clapton", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+            }, 
+            "uri": "spotify:artist:6PAt558ZEZl0DmdXlnjMgD", 
+            "href": "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD", 
+            "type": "artist", 
+            "id": "6PAt558ZEZl0DmdXlnjMgD"
+          }
+        ], 
+        "duration_ms": 103640, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "133wDIRVQ42d7sclwdsuZ1"
+      }, 
+      {
+        "name": "Double Crossing Time - Stereo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1sjHNMbvA7MGMebNjpN6s9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f3e42f19aacb9ed700fdf9f620a55f511d998211", 
+        "is_playable": true, 
+        "uri": "spotify:track:1sjHNMbvA7MGMebNjpN6s9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1sjHNMbvA7MGMebNjpN6s9", 
+        "artists": [
+          {
+            "name": "John Mayall & The Bluesbreakers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+            }, 
+            "uri": "spotify:artist:2ScuQMRWThcifBRIvNDFDC", 
+            "href": "https://api.spotify.com/v1/artists/2ScuQMRWThcifBRIvNDFDC", 
+            "type": "artist", 
+            "id": "2ScuQMRWThcifBRIvNDFDC"
+          }, 
+          {
+            "name": "Eric Clapton", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+            }, 
+            "uri": "spotify:artist:6PAt558ZEZl0DmdXlnjMgD", 
+            "href": "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD", 
+            "type": "artist", 
+            "id": "6PAt558ZEZl0DmdXlnjMgD"
+          }
+        ], 
+        "duration_ms": 180666, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "1sjHNMbvA7MGMebNjpN6s9"
+      }, 
+      {
+        "name": "What'd I Say - Stereo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4C3f0bYAQ01k6IauoNPJm9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7bb756751a6109fe9353a294e82e80c4764cff2d", 
+        "is_playable": true, 
+        "uri": "spotify:track:4C3f0bYAQ01k6IauoNPJm9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4C3f0bYAQ01k6IauoNPJm9", 
+        "artists": [
+          {
+            "name": "John Mayall & The Bluesbreakers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+            }, 
+            "uri": "spotify:artist:2ScuQMRWThcifBRIvNDFDC", 
+            "href": "https://api.spotify.com/v1/artists/2ScuQMRWThcifBRIvNDFDC", 
+            "type": "artist", 
+            "id": "2ScuQMRWThcifBRIvNDFDC"
+          }, 
+          {
+            "name": "Eric Clapton", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+            }, 
+            "uri": "spotify:artist:6PAt558ZEZl0DmdXlnjMgD", 
+            "href": "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD", 
+            "type": "artist", 
+            "id": "6PAt558ZEZl0DmdXlnjMgD"
+          }
+        ], 
+        "duration_ms": 265306, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "4C3f0bYAQ01k6IauoNPJm9"
+      }, 
+      {
+        "name": "Key To Love - Stereo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0kbbvHb34jTmH9qaKpZkKu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b4c0be5f9922ac08adc4f5b26b5cbbeb586735fb", 
+        "is_playable": true, 
+        "uri": "spotify:track:0kbbvHb34jTmH9qaKpZkKu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0kbbvHb34jTmH9qaKpZkKu", 
+        "artists": [
+          {
+            "name": "John Mayall & The Bluesbreakers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+            }, 
+            "uri": "spotify:artist:2ScuQMRWThcifBRIvNDFDC", 
+            "href": "https://api.spotify.com/v1/artists/2ScuQMRWThcifBRIvNDFDC", 
+            "type": "artist", 
+            "id": "2ScuQMRWThcifBRIvNDFDC"
+          }, 
+          {
+            "name": "Eric Clapton", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+            }, 
+            "uri": "spotify:artist:6PAt558ZEZl0DmdXlnjMgD", 
+            "href": "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD", 
+            "type": "artist", 
+            "id": "6PAt558ZEZl0DmdXlnjMgD"
+          }
+        ], 
+        "duration_ms": 125360, 
+        "track_number": 19, 
+        "type": "track", 
+        "id": "0kbbvHb34jTmH9qaKpZkKu"
+      }, 
+      {
+        "name": "Parchman Farm - Stereo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4jQ4K2Kg80oavD2QIsRbib"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7841e1cbb3618c36857ea25df63aec2d4be220b2", 
+        "is_playable": true, 
+        "uri": "spotify:track:4jQ4K2Kg80oavD2QIsRbib", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4jQ4K2Kg80oavD2QIsRbib", 
+        "artists": [
+          {
+            "name": "John Mayall & The Bluesbreakers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+            }, 
+            "uri": "spotify:artist:2ScuQMRWThcifBRIvNDFDC", 
+            "href": "https://api.spotify.com/v1/artists/2ScuQMRWThcifBRIvNDFDC", 
+            "type": "artist", 
+            "id": "2ScuQMRWThcifBRIvNDFDC"
+          }, 
+          {
+            "name": "Eric Clapton", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+            }, 
+            "uri": "spotify:artist:6PAt558ZEZl0DmdXlnjMgD", 
+            "href": "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD", 
+            "type": "artist", 
+            "id": "6PAt558ZEZl0DmdXlnjMgD"
+          }
+        ], 
+        "duration_ms": 140200, 
+        "track_number": 20, 
+        "type": "track", 
+        "id": "4jQ4K2Kg80oavD2QIsRbib"
+      }, 
+      {
+        "name": "Have You Heard - Stereo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/34UH9fBORBIQUXHPieIydm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/eb711a9870a58c4989644054747a34e2e27ab321", 
+        "is_playable": true, 
+        "uri": "spotify:track:34UH9fBORBIQUXHPieIydm", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/34UH9fBORBIQUXHPieIydm", 
+        "artists": [
+          {
+            "name": "John Mayall & The Bluesbreakers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+            }, 
+            "uri": "spotify:artist:2ScuQMRWThcifBRIvNDFDC", 
+            "href": "https://api.spotify.com/v1/artists/2ScuQMRWThcifBRIvNDFDC", 
+            "type": "artist", 
+            "id": "2ScuQMRWThcifBRIvNDFDC"
+          }, 
+          {
+            "name": "Eric Clapton", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+            }, 
+            "uri": "spotify:artist:6PAt558ZEZl0DmdXlnjMgD", 
+            "href": "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD", 
+            "type": "artist", 
+            "id": "6PAt558ZEZl0DmdXlnjMgD"
+          }
+        ], 
+        "duration_ms": 353200, 
+        "track_number": 21, 
+        "type": "track", 
+        "id": "34UH9fBORBIQUXHPieIydm"
+      }, 
+      {
+        "name": "Ramblin' On My Mind - Stereo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1zHxhqZZ9eOju22K8dS1JV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/905a92efdf217126d19ebe8bd0405142b2eaedaf", 
+        "is_playable": true, 
+        "uri": "spotify:track:1zHxhqZZ9eOju22K8dS1JV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1zHxhqZZ9eOju22K8dS1JV", 
+        "artists": [
+          {
+            "name": "John Mayall & The Bluesbreakers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+            }, 
+            "uri": "spotify:artist:2ScuQMRWThcifBRIvNDFDC", 
+            "href": "https://api.spotify.com/v1/artists/2ScuQMRWThcifBRIvNDFDC", 
+            "type": "artist", 
+            "id": "2ScuQMRWThcifBRIvNDFDC"
+          }, 
+          {
+            "name": "Eric Clapton", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+            }, 
+            "uri": "spotify:artist:6PAt558ZEZl0DmdXlnjMgD", 
+            "href": "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD", 
+            "type": "artist", 
+            "id": "6PAt558ZEZl0DmdXlnjMgD"
+          }
+        ], 
+        "duration_ms": 185640, 
+        "track_number": 22, 
+        "type": "track", 
+        "id": "1zHxhqZZ9eOju22K8dS1JV"
+      }, 
+      {
+        "name": "Steppin' Out - Stereo Instrumental", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0UpZ66XMM0xmLkncEs5fZi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/33d0168a457399ff283a1a5f471bbab798104ed9", 
+        "is_playable": true, 
+        "uri": "spotify:track:0UpZ66XMM0xmLkncEs5fZi", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0UpZ66XMM0xmLkncEs5fZi", 
+        "artists": [
+          {
+            "name": "John Mayall & The Bluesbreakers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+            }, 
+            "uri": "spotify:artist:2ScuQMRWThcifBRIvNDFDC", 
+            "href": "https://api.spotify.com/v1/artists/2ScuQMRWThcifBRIvNDFDC", 
+            "type": "artist", 
+            "id": "2ScuQMRWThcifBRIvNDFDC"
+          }, 
+          {
+            "name": "Eric Clapton", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+            }, 
+            "uri": "spotify:artist:6PAt558ZEZl0DmdXlnjMgD", 
+            "href": "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD", 
+            "type": "artist", 
+            "id": "6PAt558ZEZl0DmdXlnjMgD"
+          }
+        ], 
+        "duration_ms": 146933, 
+        "track_number": 23, 
+        "type": "track", 
+        "id": "0UpZ66XMM0xmLkncEs5fZi"
+      }, 
+      {
+        "name": "It Ain't Right - Stereo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6bLnP7DwrU9RJkKZBc6W3P"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/50357b07ad07fa9d97dba5fd0b2e9eee25a967ce", 
+        "is_playable": true, 
+        "uri": "spotify:track:6bLnP7DwrU9RJkKZBc6W3P", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6bLnP7DwrU9RJkKZBc6W3P", 
+        "artists": [
+          {
+            "name": "John Mayall & The Bluesbreakers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+            }, 
+            "uri": "spotify:artist:2ScuQMRWThcifBRIvNDFDC", 
+            "href": "https://api.spotify.com/v1/artists/2ScuQMRWThcifBRIvNDFDC", 
+            "type": "artist", 
+            "id": "2ScuQMRWThcifBRIvNDFDC"
+          }, 
+          {
+            "name": "Eric Clapton", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+            }, 
+            "uri": "spotify:artist:6PAt558ZEZl0DmdXlnjMgD", 
+            "href": "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD", 
+            "type": "artist", 
+            "id": "6PAt558ZEZl0DmdXlnjMgD"
+          }
+        ], 
+        "duration_ms": 160306, 
+        "track_number": 24, 
+        "type": "track", 
+        "id": "6bLnP7DwrU9RJkKZBc6W3P"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/6j46SsO69ZCvYUGCkyfYrD/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 24, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/6j46SsO69ZCvYUGCkyfYrD", 
+  "copyrights": [
+    {
+      "text": "(C) 1998 Decca Music Group Limited", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1966 Decca Music Group Limited", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "John Mayall & The Bluesbreakers", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+      }, 
+      "uri": "spotify:artist:2ScuQMRWThcifBRIvNDFDC", 
+      "href": "https://api.spotify.com/v1/artists/2ScuQMRWThcifBRIvNDFDC", 
+      "type": "artist", 
+      "id": "2ScuQMRWThcifBRIvNDFDC"
+    }, 
+    {
+      "name": "Eric Clapton", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+      }, 
+      "uri": "spotify:artist:6PAt558ZEZl0DmdXlnjMgD", 
+      "href": "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD", 
+      "type": "artist", 
+      "id": "6PAt558ZEZl0DmdXlnjMgD"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/70f2f462189caadcc23c0bf0e5c560f32db84c7c", 
+      "width": 632, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/b3c95eeecec5e65c5fcc6fdf1fd8fe7f4d081921", 
+      "width": 296, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/197f5ef97158ed7060659cec9bd5d526afbc9a73", 
+      "width": 63, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00042284482721"
+  }, 
+  "type": "album", 
+  "id": "6j46SsO69ZCvYUGCkyfYrD", 
+  "name": "Bluesbreakers"
+}

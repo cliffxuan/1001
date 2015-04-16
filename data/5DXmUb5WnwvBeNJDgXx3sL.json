@@ -1,0 +1,151 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5DXmUb5WnwvBeNJDgXx3sL"
+  }, 
+  "release_date": "1965", 
+  "popularity": 35, 
+  "genres": [], 
+  "uri": "spotify:album:5DXmUb5WnwvBeNJDgXx3sL", 
+  "tracks": {
+    "items": [
+      {
+        "name": "A Love Supreme Part I: Acknowledgement", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7dHbhD9YXvd9Xi8BXhaP8Y"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/88120cb77e4920112451d4db308b6a7474a293fe", 
+        "is_playable": true, 
+        "uri": "spotify:track:7dHbhD9YXvd9Xi8BXhaP8Y", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7dHbhD9YXvd9Xi8BXhaP8Y", 
+        "artists": [
+          {
+            "name": "John Coltrane Quartet", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
+            }, 
+            "uri": "spotify:artist:67PZTxaHKMZBFRUh8wIzCy", 
+            "href": "https://api.spotify.com/v1/artists/67PZTxaHKMZBFRUh8wIzCy", 
+            "type": "artist", 
+            "id": "67PZTxaHKMZBFRUh8wIzCy"
+          }
+        ], 
+        "duration_ms": 470296, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "7dHbhD9YXvd9Xi8BXhaP8Y"
+      }, 
+      {
+        "name": "A Love Supreme Part II - Resolution", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5ehWfTirh2HBUvGPi2reNQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c1ba553515daee3193082d7535c4e558e5bf3e18", 
+        "is_playable": true, 
+        "uri": "spotify:track:5ehWfTirh2HBUvGPi2reNQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5ehWfTirh2HBUvGPi2reNQ", 
+        "artists": [
+          {
+            "name": "John Coltrane Quartet", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
+            }, 
+            "uri": "spotify:artist:67PZTxaHKMZBFRUh8wIzCy", 
+            "href": "https://api.spotify.com/v1/artists/67PZTxaHKMZBFRUh8wIzCy", 
+            "type": "artist", 
+            "id": "67PZTxaHKMZBFRUh8wIzCy"
+          }
+        ], 
+        "duration_ms": 442626, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "5ehWfTirh2HBUvGPi2reNQ"
+      }, 
+      {
+        "name": "A Love Supreme, Part III: Pursuance", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4sj20zTx65sjDD2Jmk6vPN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d81141c72ea84ad166b31df0e538faddd727dc20", 
+        "is_playable": true, 
+        "uri": "spotify:track:4sj20zTx65sjDD2Jmk6vPN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4sj20zTx65sjDD2Jmk6vPN", 
+        "artists": [
+          {
+            "name": "John Coltrane Quartet", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
+            }, 
+            "uri": "spotify:artist:67PZTxaHKMZBFRUh8wIzCy", 
+            "href": "https://api.spotify.com/v1/artists/67PZTxaHKMZBFRUh8wIzCy", 
+            "type": "artist", 
+            "id": "67PZTxaHKMZBFRUh8wIzCy"
+          }
+        ], 
+        "duration_ms": 1073906, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "4sj20zTx65sjDD2Jmk6vPN"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/5DXmUb5WnwvBeNJDgXx3sL/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 3, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/5DXmUb5WnwvBeNJDgXx3sL", 
+  "copyrights": [
+    {
+      "text": "(C) 1995 GRP Records Inc.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1995 UMG Recordings, Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "John Coltrane", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+      }, 
+      "uri": "spotify:artist:2hGh5VOeeqimQFxqXvfCUf", 
+      "href": "https://api.spotify.com/v1/artists/2hGh5VOeeqimQFxqXvfCUf", 
+      "type": "artist", 
+      "id": "2hGh5VOeeqimQFxqXvfCUf"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/6464a0a863598ff8af2e281375d0217ec33347c7", 
+      "width": 640, 
+      "height": 639
+    }, 
+    {
+      "url": "https://i.scdn.co/image/5727cd4a065e14ecbb410a3c7141aff4629c58e9", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/14f7e39ffe67f8111c119c5d9502c7db3e445e17", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00011105115520"
+  }, 
+  "type": "album", 
+  "id": "5DXmUb5WnwvBeNJDgXx3sL", 
+  "name": "A Love Supreme"
+}

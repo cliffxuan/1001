@@ -1,0 +1,135 @@
+{
+  "album_type": "single", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3W6dGZZiH1GxBiQWE5CjzK"
+  }, 
+  "release_date": "2015-01-25", 
+  "popularity": 91, 
+  "genres": [], 
+  "uri": "spotify:album:3W6dGZZiH1GxBiQWE5CjzK", 
+  "tracks": {
+    "items": [
+      {
+        "name": "FourFiveSeconds", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5XzmZjXhMjDHr7ZfJ6DELQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/af8c17ffd0a68bf377f8dc77b7b2b75e39475f47", 
+        "is_playable": true, 
+        "uri": "spotify:track:5XzmZjXhMjDHr7ZfJ6DELQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5XzmZjXhMjDHr7ZfJ6DELQ", 
+        "artists": [
+          {
+            "name": "Rihanna", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+            }, 
+            "uri": "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H", 
+            "href": "https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H", 
+            "type": "artist", 
+            "id": "5pKCCKE2ajJHZ9KAiaK11H"
+          }, 
+          {
+            "name": "Kanye West", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+            }, 
+            "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x", 
+            "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x", 
+            "type": "artist", 
+            "id": "5K4W6rqBFWDnAN6FQUkS6x"
+          }, 
+          {
+            "name": "Paul McCartney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+            }, 
+            "uri": "spotify:artist:4STHEaNw4mPZ2tzheohgXB", 
+            "href": "https://api.spotify.com/v1/artists/4STHEaNw4mPZ2tzheohgXB", 
+            "type": "artist", 
+            "id": "4STHEaNw4mPZ2tzheohgXB"
+          }
+        ], 
+        "duration_ms": 188238, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "5XzmZjXhMjDHr7ZfJ6DELQ"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/3W6dGZZiH1GxBiQWE5CjzK/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 1, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/3W6dGZZiH1GxBiQWE5CjzK", 
+  "copyrights": [
+    {
+      "text": "(C) 2015 Westbury Road Entertainment, Distributed by Roc Nation Records", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 2015 Westbury Road Entertainment, Distributed by Roc Nation Records", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Rihanna", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+      }, 
+      "uri": "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H", 
+      "href": "https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H", 
+      "type": "artist", 
+      "id": "5pKCCKE2ajJHZ9KAiaK11H"
+    }, 
+    {
+      "name": "Paul McCartney", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+      }, 
+      "uri": "spotify:artist:4STHEaNw4mPZ2tzheohgXB", 
+      "href": "https://api.spotify.com/v1/artists/4STHEaNw4mPZ2tzheohgXB", 
+      "type": "artist", 
+      "id": "4STHEaNw4mPZ2tzheohgXB"
+    }, 
+    {
+      "name": "Kanye West", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+      }, 
+      "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x", 
+      "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x", 
+      "type": "artist", 
+      "id": "5K4W6rqBFWDnAN6FQUkS6x"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/130984e4659a23b16b43ff234cb9be1cf1ed0eb5", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/1dd75fe38b211d56a31e14cbf73824e5e9100435", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/22d77a9787ab1dc2f1977757375498b3796d708b", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00602547235404"
+  }, 
+  "type": "album", 
+  "id": "3W6dGZZiH1GxBiQWE5CjzK", 
+  "name": "FourFiveSeconds"
+}

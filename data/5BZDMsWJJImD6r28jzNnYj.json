@@ -1,0 +1,487 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5BZDMsWJJImD6r28jzNnYj"
+  }, 
+  "release_date": "1994", 
+  "popularity": 31, 
+  "genres": [], 
+  "uri": "spotify:album:5BZDMsWJJImD6r28jzNnYj", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Pony St.", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3hUCgz7wl8i7HTTUgAqKfK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f7004e470d4ab615b0211e75466694e26ddef17a", 
+        "is_playable": true, 
+        "uri": "spotify:track:3hUCgz7wl8i7HTTUgAqKfK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3hUCgz7wl8i7HTTUgAqKfK", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 203600, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "3hUCgz7wl8i7HTTUgAqKfK"
+      }, 
+      {
+        "name": "Kinder Murder", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Nkk5VymFPFtPBcMiLbHKr"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d5f298b2a25a4b6b8b156f45c602fcc82aad2118", 
+        "is_playable": true, 
+        "uri": "spotify:track:1Nkk5VymFPFtPBcMiLbHKr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1Nkk5VymFPFtPBcMiLbHKr", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 204906, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "1Nkk5VymFPFtPBcMiLbHKr"
+      }, 
+      {
+        "name": "13 Steps Lead Down", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5amg5GeWdom1hLwSwyvGoW"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3c13df86627c150df599117d558eeda093a382d6", 
+        "is_playable": true, 
+        "uri": "spotify:track:5amg5GeWdom1hLwSwyvGoW", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5amg5GeWdom1hLwSwyvGoW", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 198133, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "5amg5GeWdom1hLwSwyvGoW"
+      }, 
+      {
+        "name": "This Is Hell", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4HqraNuWtJieXGuE7nAhEp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fbac04bd8e3fbc0e7770bc2b417ab38ed958e3a7", 
+        "is_playable": true, 
+        "uri": "spotify:track:4HqraNuWtJieXGuE7nAhEp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4HqraNuWtJieXGuE7nAhEp", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 267106, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "4HqraNuWtJieXGuE7nAhEp"
+      }, 
+      {
+        "name": "Clown Strike", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4L2IPVnSzoXDUfXyUf5x0P"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/396aea6651dbcb335993d4bae6c4602b883baa46", 
+        "is_playable": true, 
+        "uri": "spotify:track:4L2IPVnSzoXDUfXyUf5x0P", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4L2IPVnSzoXDUfXyUf5x0P", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 245266, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "4L2IPVnSzoXDUfXyUf5x0P"
+      }, 
+      {
+        "name": "You Tripped At Every Step", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0DLgovYgJiTQBAS9z5eFPo"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cad7acf53c3853631f93899b3a577c06b6b1b616", 
+        "is_playable": true, 
+        "uri": "spotify:track:0DLgovYgJiTQBAS9z5eFPo", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0DLgovYgJiTQBAS9z5eFPo", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 251293, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "0DLgovYgJiTQBAS9z5eFPo"
+      }, 
+      {
+        "name": "Still Too Soon To Know", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1LbhQnHt8X9sIwpWyq0rv7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0f09fefec77e6e7ad24bf6ac315344944a4ae27f", 
+        "is_playable": true, 
+        "uri": "spotify:track:1LbhQnHt8X9sIwpWyq0rv7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1LbhQnHt8X9sIwpWyq0rv7", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 142066, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "1LbhQnHt8X9sIwpWyq0rv7"
+      }, 
+      {
+        "name": "20% Amnesia", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4UzngRV3TMjJRGhSEVwtYm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/aaafdd75ccd78dd09948bf9bd15307b0d15b6660", 
+        "is_playable": true, 
+        "uri": "spotify:track:4UzngRV3TMjJRGhSEVwtYm", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4UzngRV3TMjJRGhSEVwtYm", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 205826, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "4UzngRV3TMjJRGhSEVwtYm"
+      }, 
+      {
+        "name": "Sulky Girl", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/331NOHv2sSHnaHA5DIL729"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7e0ba33e6f7010bec3f48d6d6844b4b8b414c5c1", 
+        "is_playable": true, 
+        "uri": "spotify:track:331NOHv2sSHnaHA5DIL729", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/331NOHv2sSHnaHA5DIL729", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 306306, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "331NOHv2sSHnaHA5DIL729"
+      }, 
+      {
+        "name": "London's Brilliant Parade", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1THpi8TojL2L8HaVq12aov"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/addcd31f5de06aa3baba6ca71835ea39b5b3b819", 
+        "is_playable": true, 
+        "uri": "spotify:track:1THpi8TojL2L8HaVq12aov", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1THpi8TojL2L8HaVq12aov", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 262946, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "1THpi8TojL2L8HaVq12aov"
+      }, 
+      {
+        "name": "My Science Fiction Twin", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1vKxZ8LFgymkkEFLVZNK58"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9530368965e97f56181e9136f8bd64f7d41e8e8f", 
+        "is_playable": true, 
+        "uri": "spotify:track:1vKxZ8LFgymkkEFLVZNK58", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1vKxZ8LFgymkkEFLVZNK58", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 250640, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "1vKxZ8LFgymkkEFLVZNK58"
+      }, 
+      {
+        "name": "Rocking Horse Road", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1m8xg8ETJClT9Wdv53iea3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4da31a8eab154cc5b49f64716fa9c7269b7bf73c", 
+        "is_playable": true, 
+        "uri": "spotify:track:1m8xg8ETJClT9Wdv53iea3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1m8xg8ETJClT9Wdv53iea3", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 244293, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "1m8xg8ETJClT9Wdv53iea3"
+      }, 
+      {
+        "name": "Just About Glad", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/78NFNCiFvRWOFCFQFfuMdn"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/49f05667e994aab3cbc7a02880ccfb0be7791f58", 
+        "is_playable": true, 
+        "uri": "spotify:track:78NFNCiFvRWOFCFQFfuMdn", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/78NFNCiFvRWOFCFQFfuMdn", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 194800, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "78NFNCiFvRWOFCFQFfuMdn"
+      }, 
+      {
+        "name": "All The Rage", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/01cuI0ymxQlPsWrs6T9XYK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3c389e5a7799b3642b8918da9a4198a52904bdeb", 
+        "is_playable": true, 
+        "uri": "spotify:track:01cuI0ymxQlPsWrs6T9XYK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/01cuI0ymxQlPsWrs6T9XYK", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 232840, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "01cuI0ymxQlPsWrs6T9XYK"
+      }, 
+      {
+        "name": "Favourite Hour", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2PbklZXd1mtF8bvAb0XOTE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fb43ee2ccbc27fe57ed1a1e6355a55ee561730c1", 
+        "is_playable": true, 
+        "uri": "spotify:track:2PbklZXd1mtF8bvAb0XOTE", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2PbklZXd1mtF8bvAb0XOTE", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 211400, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "2PbklZXd1mtF8bvAb0XOTE"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/5BZDMsWJJImD6r28jzNnYj/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 15, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/5BZDMsWJJImD6r28jzNnYj", 
+  "copyrights": [
+    {
+      "text": "1995 Warner Bros. Records Inc.", 
+      "type": "C"
+    }, 
+    {
+      "text": "1995 Warner Bros. Records Inc. Marketed by Rhino Entertainment Company, a Warner Music Group Company.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Elvis Costello", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+      }, 
+      "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+      "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+      "type": "artist", 
+      "id": "2BGRfQgtzikz1pzAD0kaEn"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/3343bc0065f2f20da09a80b21a241ea1aeeb67fe", 
+      "width": 640, 
+      "height": 637
+    }, 
+    {
+      "url": "https://i.scdn.co/image/187e0c14d2781a5017e6750d4f37f35ea4dca05d", 
+      "width": 300, 
+      "height": 299
+    }, 
+    {
+      "url": "https://i.scdn.co/image/788b4b0a579b9149831b16b25ce48a786368ddce", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "603497078264"
+  }, 
+  "type": "album", 
+  "id": "5BZDMsWJJImD6r28jzNnYj", 
+  "name": "Brutal Youth"
+}

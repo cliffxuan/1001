@@ -1,0 +1,403 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2Xvjx615PC94mB2z5MqdKF"
+  }, 
+  "release_date": "1968", 
+  "popularity": 25, 
+  "genres": [], 
+  "uri": "spotify:album:2Xvjx615PC94mB2z5MqdKF", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Jackie", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5wL2QaXVAw0ZZvxjx4retw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8611056f4f094ac45100e1a8eeda3ae729afc076", 
+        "is_playable": true, 
+        "uri": "spotify:track:5wL2QaXVAw0ZZvxjx4retw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5wL2QaXVAw0ZZvxjx4retw", 
+        "artists": [
+          {
+            "name": "Scott Walker", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq"
+            }, 
+            "uri": "spotify:artist:04tBaW21jyUfeP5iqiKBVq", 
+            "href": "https://api.spotify.com/v1/artists/04tBaW21jyUfeP5iqiKBVq", 
+            "type": "artist", 
+            "id": "04tBaW21jyUfeP5iqiKBVq"
+          }
+        ], 
+        "duration_ms": 201306, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "5wL2QaXVAw0ZZvxjx4retw"
+      }, 
+      {
+        "name": "Best Of Both Worlds", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/199l0TPWi131t9gPRWyKqC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7ce0b4d72781dc83f4adf822fb8ff078905fe5e5", 
+        "is_playable": true, 
+        "uri": "spotify:track:199l0TPWi131t9gPRWyKqC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/199l0TPWi131t9gPRWyKqC", 
+        "artists": [
+          {
+            "name": "Scott Walker", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq"
+            }, 
+            "uri": "spotify:artist:04tBaW21jyUfeP5iqiKBVq", 
+            "href": "https://api.spotify.com/v1/artists/04tBaW21jyUfeP5iqiKBVq", 
+            "type": "artist", 
+            "id": "04tBaW21jyUfeP5iqiKBVq"
+          }
+        ], 
+        "duration_ms": 192586, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "199l0TPWi131t9gPRWyKqC"
+      }, 
+      {
+        "name": "Black Sheep Boy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2NdYZ9JD76DL6c5ZjTcV6m"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bb65f9f3a0a4b7acd05a33b0d59112c07bd7c730", 
+        "is_playable": true, 
+        "uri": "spotify:track:2NdYZ9JD76DL6c5ZjTcV6m", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2NdYZ9JD76DL6c5ZjTcV6m", 
+        "artists": [
+          {
+            "name": "Scott Walker", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq"
+            }, 
+            "uri": "spotify:artist:04tBaW21jyUfeP5iqiKBVq", 
+            "href": "https://api.spotify.com/v1/artists/04tBaW21jyUfeP5iqiKBVq", 
+            "type": "artist", 
+            "id": "04tBaW21jyUfeP5iqiKBVq"
+          }
+        ], 
+        "duration_ms": 156866, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "2NdYZ9JD76DL6c5ZjTcV6m"
+      }, 
+      {
+        "name": "The Amorous Humphrey Plugg", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2ZfgX3xEmc89zPY8gKe8Tw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/467a276da83126ed82516d3fc19e0e9d30da0f66", 
+        "is_playable": true, 
+        "uri": "spotify:track:2ZfgX3xEmc89zPY8gKe8Tw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2ZfgX3xEmc89zPY8gKe8Tw", 
+        "artists": [
+          {
+            "name": "Scott Walker", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq"
+            }, 
+            "uri": "spotify:artist:04tBaW21jyUfeP5iqiKBVq", 
+            "href": "https://api.spotify.com/v1/artists/04tBaW21jyUfeP5iqiKBVq", 
+            "type": "artist", 
+            "id": "04tBaW21jyUfeP5iqiKBVq"
+          }
+        ], 
+        "duration_ms": 268666, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "2ZfgX3xEmc89zPY8gKe8Tw"
+      }, 
+      {
+        "name": "Next", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Cmj70RZPseKDrOiu6B01V"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/670f448a600ca25c531d01639f31d6c3d3f3bf2c", 
+        "is_playable": true, 
+        "uri": "spotify:track:2Cmj70RZPseKDrOiu6B01V", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2Cmj70RZPseKDrOiu6B01V", 
+        "artists": [
+          {
+            "name": "Scott Walker", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq"
+            }, 
+            "uri": "spotify:artist:04tBaW21jyUfeP5iqiKBVq", 
+            "href": "https://api.spotify.com/v1/artists/04tBaW21jyUfeP5iqiKBVq", 
+            "type": "artist", 
+            "id": "04tBaW21jyUfeP5iqiKBVq"
+          }
+        ], 
+        "duration_ms": 168506, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "2Cmj70RZPseKDrOiu6B01V"
+      }, 
+      {
+        "name": "The Girls From The Streets", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2fqxGWQZ4GUWrFaHtcRTwp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8c3f5a00805bdc3790550c2aa1580b937cc70fb7", 
+        "is_playable": true, 
+        "uri": "spotify:track:2fqxGWQZ4GUWrFaHtcRTwp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2fqxGWQZ4GUWrFaHtcRTwp", 
+        "artists": [
+          {
+            "name": "Scott Walker", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq"
+            }, 
+            "uri": "spotify:artist:04tBaW21jyUfeP5iqiKBVq", 
+            "href": "https://api.spotify.com/v1/artists/04tBaW21jyUfeP5iqiKBVq", 
+            "type": "artist", 
+            "id": "04tBaW21jyUfeP5iqiKBVq"
+          }
+        ], 
+        "duration_ms": 249373, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "2fqxGWQZ4GUWrFaHtcRTwp"
+      }, 
+      {
+        "name": "Plastic Palace People", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7CmHH3ibOHYWCzuJqDkvAw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/776a47e2d60dbebda7b912d5b47bab7700ace25b", 
+        "is_playable": true, 
+        "uri": "spotify:track:7CmHH3ibOHYWCzuJqDkvAw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7CmHH3ibOHYWCzuJqDkvAw", 
+        "artists": [
+          {
+            "name": "Scott Walker", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq"
+            }, 
+            "uri": "spotify:artist:04tBaW21jyUfeP5iqiKBVq", 
+            "href": "https://api.spotify.com/v1/artists/04tBaW21jyUfeP5iqiKBVq", 
+            "type": "artist", 
+            "id": "04tBaW21jyUfeP5iqiKBVq"
+          }
+        ], 
+        "duration_ms": 364240, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "7CmHH3ibOHYWCzuJqDkvAw"
+      }, 
+      {
+        "name": "Wait Until Dark", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4g5PQ6WqKDt9K7O7bfYLLz"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/be772f3a479fb43cf4d9ac1d0420ee704b0f74d6", 
+        "is_playable": true, 
+        "uri": "spotify:track:4g5PQ6WqKDt9K7O7bfYLLz", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4g5PQ6WqKDt9K7O7bfYLLz", 
+        "artists": [
+          {
+            "name": "Scott Walker", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq"
+            }, 
+            "uri": "spotify:artist:04tBaW21jyUfeP5iqiKBVq", 
+            "href": "https://api.spotify.com/v1/artists/04tBaW21jyUfeP5iqiKBVq", 
+            "type": "artist", 
+            "id": "04tBaW21jyUfeP5iqiKBVq"
+          }
+        ], 
+        "duration_ms": 177093, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "4g5PQ6WqKDt9K7O7bfYLLz"
+      }, 
+      {
+        "name": "The Girls And The Dogs", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3MfjVq7LZ7NnVSwzK2bSXX"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/776871ab54b266194112491229164fef46d46732", 
+        "is_playable": true, 
+        "uri": "spotify:track:3MfjVq7LZ7NnVSwzK2bSXX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3MfjVq7LZ7NnVSwzK2bSXX", 
+        "artists": [
+          {
+            "name": "Scott Walker", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq"
+            }, 
+            "uri": "spotify:artist:04tBaW21jyUfeP5iqiKBVq", 
+            "href": "https://api.spotify.com/v1/artists/04tBaW21jyUfeP5iqiKBVq", 
+            "type": "artist", 
+            "id": "04tBaW21jyUfeP5iqiKBVq"
+          }
+        ], 
+        "duration_ms": 188253, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "3MfjVq7LZ7NnVSwzK2bSXX"
+      }, 
+      {
+        "name": "Windows Of The World", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0FEK0EQ3WBstAJuMBs6WSm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fdce1875606de36c230f1ab5155c207693e5b69d", 
+        "is_playable": true, 
+        "uri": "spotify:track:0FEK0EQ3WBstAJuMBs6WSm", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0FEK0EQ3WBstAJuMBs6WSm", 
+        "artists": [
+          {
+            "name": "Scott Walker", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq"
+            }, 
+            "uri": "spotify:artist:04tBaW21jyUfeP5iqiKBVq", 
+            "href": "https://api.spotify.com/v1/artists/04tBaW21jyUfeP5iqiKBVq", 
+            "type": "artist", 
+            "id": "04tBaW21jyUfeP5iqiKBVq"
+          }
+        ], 
+        "duration_ms": 262760, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "0FEK0EQ3WBstAJuMBs6WSm"
+      }, 
+      {
+        "name": "The Bridge", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6JfksmVV7oseZ03iNLDCgv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b2bd5cdf11b80e92911f9c95f1e89b4c1676e6de", 
+        "is_playable": true, 
+        "uri": "spotify:track:6JfksmVV7oseZ03iNLDCgv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6JfksmVV7oseZ03iNLDCgv", 
+        "artists": [
+          {
+            "name": "Scott Walker", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq"
+            }, 
+            "uri": "spotify:artist:04tBaW21jyUfeP5iqiKBVq", 
+            "href": "https://api.spotify.com/v1/artists/04tBaW21jyUfeP5iqiKBVq", 
+            "type": "artist", 
+            "id": "04tBaW21jyUfeP5iqiKBVq"
+          }
+        ], 
+        "duration_ms": 167026, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "6JfksmVV7oseZ03iNLDCgv"
+      }, 
+      {
+        "name": "Come Next Spring", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3uEvqxAIOCI5Z2fN3u9Cgt"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ec25df8d6859fac8757b75007fee1e8a0358d927", 
+        "is_playable": true, 
+        "uri": "spotify:track:3uEvqxAIOCI5Z2fN3u9Cgt", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3uEvqxAIOCI5Z2fN3u9Cgt", 
+        "artists": [
+          {
+            "name": "Scott Walker", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq"
+            }, 
+            "uri": "spotify:artist:04tBaW21jyUfeP5iqiKBVq", 
+            "href": "https://api.spotify.com/v1/artists/04tBaW21jyUfeP5iqiKBVq", 
+            "type": "artist", 
+            "id": "04tBaW21jyUfeP5iqiKBVq"
+          }
+        ], 
+        "duration_ms": 207440, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "3uEvqxAIOCI5Z2fN3u9Cgt"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/2Xvjx615PC94mB2z5MqdKF/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 12, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/2Xvjx615PC94mB2z5MqdKF", 
+  "copyrights": [
+    {
+      "text": "(C) 2013 Mercury Records Limited", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 2013 Mercury Records Limited", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Scott Walker", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq"
+      }, 
+      "uri": "spotify:artist:04tBaW21jyUfeP5iqiKBVq", 
+      "href": "https://api.spotify.com/v1/artists/04tBaW21jyUfeP5iqiKBVq", 
+      "type": "artist", 
+      "id": "04tBaW21jyUfeP5iqiKBVq"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/0915e4cf964dbbb1e5ccab703a53f24dd6b3dfc0", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/21d04abf3d76604f794bab54f19436280eab523a", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/9ff245a9f2ebe1e0a95a45022f906ea4031f244d", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00602537438884"
+  }, 
+  "type": "album", 
+  "id": "2Xvjx615PC94mB2z5MqdKF", 
+  "name": "Scott 2"
+}

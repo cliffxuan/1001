@@ -1,0 +1,427 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r"
+  }, 
+  "release_date": "1967-12-01", 
+  "popularity": 64, 
+  "genres": [], 
+  "uri": "spotify:album:3uFZf8rykoHo7XMIQVYW6r", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Exp", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/11tIPf6hU1RF5Z3gm2o2rU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0c3f62870a7549690dddc2266834ba639df442e6", 
+        "is_playable": true, 
+        "uri": "spotify:track:11tIPf6hU1RF5Z3gm2o2rU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/11tIPf6hU1RF5Z3gm2o2rU", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 115031, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "11tIPf6hU1RF5Z3gm2o2rU"
+      }, 
+      {
+        "name": "Up From The Skies", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4oarDDCWsSnX2WOIRKuQo1"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1b644fab7a2da31b00e4cb89c5e467f454567c4e", 
+        "is_playable": true, 
+        "uri": "spotify:track:4oarDDCWsSnX2WOIRKuQo1", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4oarDDCWsSnX2WOIRKuQo1", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 177864, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "4oarDDCWsSnX2WOIRKuQo1"
+      }, 
+      {
+        "name": "Spanish Castle Magic", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2KFE98Iw0X23sf4vJYcbLH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c8e225c75a95052ccbee97dcf8bc0dd41e8b5275", 
+        "is_playable": true, 
+        "uri": "spotify:track:2KFE98Iw0X23sf4vJYcbLH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2KFE98Iw0X23sf4vJYcbLH", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 182833, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "2KFE98Iw0X23sf4vJYcbLH"
+      }, 
+      {
+        "name": "Wait Until Tomorrow", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2YtVzmZzew1ILUdNueyWd7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/31289420520ee59a9b44acdb1e28be4d6525fa43", 
+        "is_playable": true, 
+        "uri": "spotify:track:2YtVzmZzew1ILUdNueyWd7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2YtVzmZzew1ILUdNueyWd7", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 182369, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "2YtVzmZzew1ILUdNueyWd7"
+      }, 
+      {
+        "name": "Ain't No Telling", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1ToNKcpVRTxzAgRiywifMt"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/70b0cd94732ea1394d07192781c32e72144418fe", 
+        "is_playable": true, 
+        "uri": "spotify:track:1ToNKcpVRTxzAgRiywifMt", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1ToNKcpVRTxzAgRiywifMt", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 108019, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "1ToNKcpVRTxzAgRiywifMt"
+      }, 
+      {
+        "name": "Little Wing", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Eolhana7nKHYpcYpdVcT5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a1c678fe22f1b15a545fed177d454b6d984103d1", 
+        "is_playable": true, 
+        "uri": "spotify:track:1Eolhana7nKHYpcYpdVcT5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1Eolhana7nKHYpcYpdVcT5", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 145217, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "1Eolhana7nKHYpcYpdVcT5"
+      }, 
+      {
+        "name": "If 6 Was 9", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0J3CHAStO3pNGTnYnxKZod"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3ecb32a55faa2f61c4f22b2fa3a0843fb4b0fc52", 
+        "is_playable": true, 
+        "uri": "spotify:track:0J3CHAStO3pNGTnYnxKZod", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0J3CHAStO3pNGTnYnxKZod", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 334367, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "0J3CHAStO3pNGTnYnxKZod"
+      }, 
+      {
+        "name": "You Got Me Floatin'", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Fu2CXFkfiKKXPGtbDDlvj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/eda51b7b5196c5287de0cb08b51d9c2387a738bf", 
+        "is_playable": true, 
+        "uri": "spotify:track:2Fu2CXFkfiKKXPGtbDDlvj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2Fu2CXFkfiKKXPGtbDDlvj", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 167508, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "2Fu2CXFkfiKKXPGtbDDlvj"
+      }, 
+      {
+        "name": "Castles Made of Sand", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3qebSLgUwaEqbwCM5sj5Kh"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0257185ea223be0815055d16162fa8da1c09e7ce", 
+        "is_playable": true, 
+        "uri": "spotify:track:3qebSLgUwaEqbwCM5sj5Kh", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3qebSLgUwaEqbwCM5sj5Kh", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 168920, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "3qebSLgUwaEqbwCM5sj5Kh"
+      }, 
+      {
+        "name": "She's So Fine", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5r97cYQ6UtqKMWV3bUwHRU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/26119d8c6c83646ecd3170dca25eb1bf5717e86f", 
+        "is_playable": true, 
+        "uri": "spotify:track:5r97cYQ6UtqKMWV3bUwHRU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5r97cYQ6UtqKMWV3bUwHRU", 
+        "artists": [
+          {
+            "name": "Noel Redding", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3ltVUR5mzyaLZMoCdo26qT"
+            }, 
+            "uri": "spotify:artist:3ltVUR5mzyaLZMoCdo26qT", 
+            "href": "https://api.spotify.com/v1/artists/3ltVUR5mzyaLZMoCdo26qT", 
+            "type": "artist", 
+            "id": "3ltVUR5mzyaLZMoCdo26qT"
+          }
+        ], 
+        "duration_ms": 158313, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "5r97cYQ6UtqKMWV3bUwHRU"
+      }, 
+      {
+        "name": "One Rainy Wish", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Zyv0v4rPcrXjkaeImuodv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1ad34dcd4a62302301dd2492bc11c88298608b0f", 
+        "is_playable": true, 
+        "uri": "spotify:track:5Zyv0v4rPcrXjkaeImuodv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5Zyv0v4rPcrXjkaeImuodv", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 221704, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "5Zyv0v4rPcrXjkaeImuodv"
+      }, 
+      {
+        "name": "Little Miss Lover", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4pvY1WQBeAgPGMnWglrWY4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/47c5e78af8eec2b43662f0958b31419b0ceb77ac", 
+        "is_playable": true, 
+        "uri": "spotify:track:4pvY1WQBeAgPGMnWglrWY4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4pvY1WQBeAgPGMnWglrWY4", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 141130, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "4pvY1WQBeAgPGMnWglrWY4"
+      }, 
+      {
+        "name": "Bold as Love", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0uco0wQkB909zpPlHvu5Cc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d7a6c719c15d528a1558d44161c5caeab7dc15b4", 
+        "is_playable": true, 
+        "uri": "spotify:track:0uco0wQkB909zpPlHvu5Cc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0uco0wQkB909zpPlHvu5Cc", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 251013, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "0uco0wQkB909zpPlHvu5Cc"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/3uFZf8rykoHo7XMIQVYW6r/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 13, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/3uFZf8rykoHo7XMIQVYW6r", 
+  "copyrights": [
+    {
+      "text": "(P) 2009 Experience Hendrix L.L.C., under exclusive license to Sony Music Entertainment", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Jimi Hendrix", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+      }, 
+      "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+      "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+      "type": "artist", 
+      "id": "776Uo845nYHJpNaStv1Ds4"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/7727ed79cfb246f9a1f706d3583b5b259a099a7f", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/4b9994763bc8efbd74bd6b6429e111ad167523b7", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/d1211cda3ed4af2fac83212a5c08b19bf5013e37", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "884977412833"
+  }, 
+  "type": "album", 
+  "id": "3uFZf8rykoHo7XMIQVYW6r", 
+  "name": "Axis: Bold As Love"
+}

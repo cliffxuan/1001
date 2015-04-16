@@ -1,0 +1,683 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0615zW4ha5elrV5f7TB8Yq"
+  }, 
+  "release_date": "2010-10-29", 
+  "popularity": 49, 
+  "genres": [], 
+  "uri": "spotify:album:0615zW4ha5elrV5f7TB8Yq", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Tyler - 2010 Digital Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2MQV7qnlDpUc6Bk3lJwqzA"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fd43cc353cc785816e0c497e9e8ddae893b1090b", 
+        "is_playable": true, 
+        "uri": "spotify:track:2MQV7qnlDpUc6Bk3lJwqzA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2MQV7qnlDpUc6Bk3lJwqzA", 
+        "artists": [
+          {
+            "name": "UB40", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+            }, 
+            "uri": "spotify:artist:69MEO1AADKg1IZrq2XLzo5", 
+            "href": "https://api.spotify.com/v1/artists/69MEO1AADKg1IZrq2XLzo5", 
+            "type": "artist", 
+            "id": "69MEO1AADKg1IZrq2XLzo5"
+          }
+        ], 
+        "duration_ms": 351693, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "2MQV7qnlDpUc6Bk3lJwqzA"
+      }, 
+      {
+        "name": "King - 2010 - Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1nzG8B50XSRhKdDjjuOtKk"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/70bd4c8210138f6e7ce2a471899e4abc9977015e", 
+        "is_playable": true, 
+        "uri": "spotify:track:1nzG8B50XSRhKdDjjuOtKk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1nzG8B50XSRhKdDjjuOtKk", 
+        "artists": [
+          {
+            "name": "UB40", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+            }, 
+            "uri": "spotify:artist:69MEO1AADKg1IZrq2XLzo5", 
+            "href": "https://api.spotify.com/v1/artists/69MEO1AADKg1IZrq2XLzo5", 
+            "type": "artist", 
+            "id": "69MEO1AADKg1IZrq2XLzo5"
+          }
+        ], 
+        "duration_ms": 274293, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "1nzG8B50XSRhKdDjjuOtKk"
+      }, 
+      {
+        "name": "12 Bar - 2010 Digital Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6KrkUKI2H3LSOPz7dX5PGg"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5d202bfd05fd1ac682a495a304f9dd3a8c37f13f", 
+        "is_playable": true, 
+        "uri": "spotify:track:6KrkUKI2H3LSOPz7dX5PGg", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6KrkUKI2H3LSOPz7dX5PGg", 
+        "artists": [
+          {
+            "name": "UB40", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+            }, 
+            "uri": "spotify:artist:69MEO1AADKg1IZrq2XLzo5", 
+            "href": "https://api.spotify.com/v1/artists/69MEO1AADKg1IZrq2XLzo5", 
+            "type": "artist", 
+            "id": "69MEO1AADKg1IZrq2XLzo5"
+          }
+        ], 
+        "duration_ms": 263013, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "6KrkUKI2H3LSOPz7dX5PGg"
+      }, 
+      {
+        "name": "Burden Of Shame - 2010 Digital Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/24ggbZouqJUj3TFLBfvZa8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/791237cd551713b46c647c9662f76efbb297aa26", 
+        "is_playable": true, 
+        "uri": "spotify:track:24ggbZouqJUj3TFLBfvZa8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/24ggbZouqJUj3TFLBfvZa8", 
+        "artists": [
+          {
+            "name": "UB40", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+            }, 
+            "uri": "spotify:artist:69MEO1AADKg1IZrq2XLzo5", 
+            "href": "https://api.spotify.com/v1/artists/69MEO1AADKg1IZrq2XLzo5", 
+            "type": "artist", 
+            "id": "69MEO1AADKg1IZrq2XLzo5"
+          }
+        ], 
+        "duration_ms": 389333, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "24ggbZouqJUj3TFLBfvZa8"
+      }, 
+      {
+        "name": "Adella - 2010 Digital Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/75qCKiZ83AtjD3PuIB7RMC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cdb15d9b09adf9c32b1c3db809a21c983861dc44", 
+        "is_playable": true, 
+        "uri": "spotify:track:75qCKiZ83AtjD3PuIB7RMC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/75qCKiZ83AtjD3PuIB7RMC", 
+        "artists": [
+          {
+            "name": "UB40", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+            }, 
+            "uri": "spotify:artist:69MEO1AADKg1IZrq2XLzo5", 
+            "href": "https://api.spotify.com/v1/artists/69MEO1AADKg1IZrq2XLzo5", 
+            "type": "artist", 
+            "id": "69MEO1AADKg1IZrq2XLzo5"
+          }
+        ], 
+        "duration_ms": 206066, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "75qCKiZ83AtjD3PuIB7RMC"
+      }, 
+      {
+        "name": "I Think It's Going to Rain Today - 2010 - Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1nj6PUVsMMqGurs9lmDHWD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9ac89c74545ea9813c7cdc39963905d42b730f87", 
+        "is_playable": true, 
+        "uri": "spotify:track:1nj6PUVsMMqGurs9lmDHWD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1nj6PUVsMMqGurs9lmDHWD", 
+        "artists": [
+          {
+            "name": "UB40", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+            }, 
+            "uri": "spotify:artist:69MEO1AADKg1IZrq2XLzo5", 
+            "href": "https://api.spotify.com/v1/artists/69MEO1AADKg1IZrq2XLzo5", 
+            "type": "artist", 
+            "id": "69MEO1AADKg1IZrq2XLzo5"
+          }
+        ], 
+        "duration_ms": 222080, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "1nj6PUVsMMqGurs9lmDHWD"
+      }, 
+      {
+        "name": "25% - 2010 - Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6UzETfnVR6oPfpjURaSTcl"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d90df545ea7b7e1254ce960e8a2494227c016671", 
+        "is_playable": true, 
+        "uri": "spotify:track:6UzETfnVR6oPfpjURaSTcl", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6UzETfnVR6oPfpjURaSTcl", 
+        "artists": [
+          {
+            "name": "UB40", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+            }, 
+            "uri": "spotify:artist:69MEO1AADKg1IZrq2XLzo5", 
+            "href": "https://api.spotify.com/v1/artists/69MEO1AADKg1IZrq2XLzo5", 
+            "type": "artist", 
+            "id": "69MEO1AADKg1IZrq2XLzo5"
+          }
+        ], 
+        "duration_ms": 211506, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "6UzETfnVR6oPfpjURaSTcl"
+      }, 
+      {
+        "name": "Food for Thought - 2010 - Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/25AOf6lLJuP1BmI0kJL34Y"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9fe2f1941d83e276f3fdaa699b99bdae7e12a7c1", 
+        "is_playable": true, 
+        "uri": "spotify:track:25AOf6lLJuP1BmI0kJL34Y", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/25AOf6lLJuP1BmI0kJL34Y", 
+        "artists": [
+          {
+            "name": "UB40", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+            }, 
+            "uri": "spotify:artist:69MEO1AADKg1IZrq2XLzo5", 
+            "href": "https://api.spotify.com/v1/artists/69MEO1AADKg1IZrq2XLzo5", 
+            "type": "artist", 
+            "id": "69MEO1AADKg1IZrq2XLzo5"
+          }
+        ], 
+        "duration_ms": 250133, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "25AOf6lLJuP1BmI0kJL34Y"
+      }, 
+      {
+        "name": "Little By Little - 2010 - Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0OmbT9Xb3wgPIzff5YRRZp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9abd5957fb531af26364ae60fbce462f9e6fb67e", 
+        "is_playable": true, 
+        "uri": "spotify:track:0OmbT9Xb3wgPIzff5YRRZp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0OmbT9Xb3wgPIzff5YRRZp", 
+        "artists": [
+          {
+            "name": "UB40", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+            }, 
+            "uri": "spotify:artist:69MEO1AADKg1IZrq2XLzo5", 
+            "href": "https://api.spotify.com/v1/artists/69MEO1AADKg1IZrq2XLzo5", 
+            "type": "artist", 
+            "id": "69MEO1AADKg1IZrq2XLzo5"
+          }
+        ], 
+        "duration_ms": 220800, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "0OmbT9Xb3wgPIzff5YRRZp"
+      }, 
+      {
+        "name": "Signing Off - 2010 Digital Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2TVtnQcIEWYB8z5KpNrjHt"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0f6cfbf4acbbe636070b49c8fbf60059986fa7db", 
+        "is_playable": true, 
+        "uri": "spotify:track:2TVtnQcIEWYB8z5KpNrjHt", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2TVtnQcIEWYB8z5KpNrjHt", 
+        "artists": [
+          {
+            "name": "UB40", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+            }, 
+            "uri": "spotify:artist:69MEO1AADKg1IZrq2XLzo5", 
+            "href": "https://api.spotify.com/v1/artists/69MEO1AADKg1IZrq2XLzo5", 
+            "type": "artist", 
+            "id": "69MEO1AADKg1IZrq2XLzo5"
+          }
+        ], 
+        "duration_ms": 266946, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "2TVtnQcIEWYB8z5KpNrjHt"
+      }, 
+      {
+        "name": "Madam Medusa - 2010 Digital Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1PUBfaE9oxUWQVP8b0Wrfm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/94d715bbb81bea9f10e53a63b4481d5980f93273", 
+        "is_playable": true, 
+        "uri": "spotify:track:1PUBfaE9oxUWQVP8b0Wrfm", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1PUBfaE9oxUWQVP8b0Wrfm", 
+        "artists": [
+          {
+            "name": "UB40", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+            }, 
+            "uri": "spotify:artist:69MEO1AADKg1IZrq2XLzo5", 
+            "href": "https://api.spotify.com/v1/artists/69MEO1AADKg1IZrq2XLzo5", 
+            "type": "artist", 
+            "id": "69MEO1AADKg1IZrq2XLzo5"
+          }
+        ], 
+        "duration_ms": 776293, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "1PUBfaE9oxUWQVP8b0Wrfm"
+      }, 
+      {
+        "name": "Strange Fruit - 2010 Digital Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Wx2i6ekcWbPS0fLkau7lT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/db18cbe65bf88680e93fccac17a76d61f7613d48", 
+        "is_playable": true, 
+        "uri": "spotify:track:6Wx2i6ekcWbPS0fLkau7lT", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6Wx2i6ekcWbPS0fLkau7lT", 
+        "artists": [
+          {
+            "name": "UB40", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+            }, 
+            "uri": "spotify:artist:69MEO1AADKg1IZrq2XLzo5", 
+            "href": "https://api.spotify.com/v1/artists/69MEO1AADKg1IZrq2XLzo5", 
+            "type": "artist", 
+            "id": "69MEO1AADKg1IZrq2XLzo5"
+          }
+        ], 
+        "duration_ms": 246560, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "6Wx2i6ekcWbPS0fLkau7lT"
+      }, 
+      {
+        "name": "Reefer Madness - 2010 Digital Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6yejdLsXic4ghKPflAoYvO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/12b32ea16e578afcaf0414f94bd21d1028eefb22", 
+        "is_playable": true, 
+        "uri": "spotify:track:6yejdLsXic4ghKPflAoYvO", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6yejdLsXic4ghKPflAoYvO", 
+        "artists": [
+          {
+            "name": "UB40", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+            }, 
+            "uri": "spotify:artist:69MEO1AADKg1IZrq2XLzo5", 
+            "href": "https://api.spotify.com/v1/artists/69MEO1AADKg1IZrq2XLzo5", 
+            "type": "artist", 
+            "id": "69MEO1AADKg1IZrq2XLzo5"
+          }
+        ], 
+        "duration_ms": 307773, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "6yejdLsXic4ghKPflAoYvO"
+      }, 
+      {
+        "name": "My Way of Thinking - 12\" Version;2010 - Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2C5m00cNlEwT8sH9YMDLdz"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c0b985978d79640e36b60a8bdb1ea784af3f31c3", 
+        "is_playable": true, 
+        "uri": "spotify:track:2C5m00cNlEwT8sH9YMDLdz", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/2C5m00cNlEwT8sH9YMDLdz", 
+        "artists": [
+          {
+            "name": "UB40", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+            }, 
+            "uri": "spotify:artist:69MEO1AADKg1IZrq2XLzo5", 
+            "href": "https://api.spotify.com/v1/artists/69MEO1AADKg1IZrq2XLzo5", 
+            "type": "artist", 
+            "id": "69MEO1AADKg1IZrq2XLzo5"
+          }
+        ], 
+        "duration_ms": 410333, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "2C5m00cNlEwT8sH9YMDLdz"
+      }, 
+      {
+        "name": "I Think It's Going To Rain Today - 12\" Version;2010 Digital Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3pobKyNVzrOqAoAN6aO3r1"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/37f515b1fbe48fec090afd704099a2cdd115949a", 
+        "is_playable": true, 
+        "uri": "spotify:track:3pobKyNVzrOqAoAN6aO3r1", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/3pobKyNVzrOqAoAN6aO3r1", 
+        "artists": [
+          {
+            "name": "UB40", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+            }, 
+            "uri": "spotify:artist:69MEO1AADKg1IZrq2XLzo5", 
+            "href": "https://api.spotify.com/v1/artists/69MEO1AADKg1IZrq2XLzo5", 
+            "type": "artist", 
+            "id": "69MEO1AADKg1IZrq2XLzo5"
+          }
+        ], 
+        "duration_ms": 451773, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "3pobKyNVzrOqAoAN6aO3r1"
+      }, 
+      {
+        "name": "The Earth Dies Screaming - 12\" Version;2010 Digital Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0fxUOsVw29I7yRxnCrHoYa"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d47662b5127b38ae513cda02bf51347744f17295", 
+        "is_playable": true, 
+        "uri": "spotify:track:0fxUOsVw29I7yRxnCrHoYa", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/0fxUOsVw29I7yRxnCrHoYa", 
+        "artists": [
+          {
+            "name": "UB40", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+            }, 
+            "uri": "spotify:artist:69MEO1AADKg1IZrq2XLzo5", 
+            "href": "https://api.spotify.com/v1/artists/69MEO1AADKg1IZrq2XLzo5", 
+            "type": "artist", 
+            "id": "69MEO1AADKg1IZrq2XLzo5"
+          }
+        ], 
+        "duration_ms": 500573, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "0fxUOsVw29I7yRxnCrHoYa"
+      }, 
+      {
+        "name": "Dream A Lie - 12\" Version;2010 Digital Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/32kSw2DpDqfN4PpaYNaCVK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/08e2e8007be1d21e37752f85d5bc5a4aa8504234", 
+        "is_playable": true, 
+        "uri": "spotify:track:32kSw2DpDqfN4PpaYNaCVK", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/32kSw2DpDqfN4PpaYNaCVK", 
+        "artists": [
+          {
+            "name": "UB40", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+            }, 
+            "uri": "spotify:artist:69MEO1AADKg1IZrq2XLzo5", 
+            "href": "https://api.spotify.com/v1/artists/69MEO1AADKg1IZrq2XLzo5", 
+            "type": "artist", 
+            "id": "69MEO1AADKg1IZrq2XLzo5"
+          }
+        ], 
+        "duration_ms": 473560, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "32kSw2DpDqfN4PpaYNaCVK"
+      }, 
+      {
+        "name": "Food For Thought - BBC Radio One John Peel Session", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0d2S2A9XToreh7Zt3H72EH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/15fcbee55735ee5e3563d40d4d3effda5083cc9c", 
+        "is_playable": true, 
+        "uri": "spotify:track:0d2S2A9XToreh7Zt3H72EH", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/0d2S2A9XToreh7Zt3H72EH", 
+        "artists": [
+          {
+            "name": "UB40", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+            }, 
+            "uri": "spotify:artist:69MEO1AADKg1IZrq2XLzo5", 
+            "href": "https://api.spotify.com/v1/artists/69MEO1AADKg1IZrq2XLzo5", 
+            "type": "artist", 
+            "id": "69MEO1AADKg1IZrq2XLzo5"
+          }
+        ], 
+        "duration_ms": 288773, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "0d2S2A9XToreh7Zt3H72EH"
+      }, 
+      {
+        "name": "25% - BBC Radio One John Peel Session", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3edCUyafU1OQ48bFB6ajAX"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a50509f53bf9da65779801a2eddd8cffff58961d", 
+        "is_playable": true, 
+        "uri": "spotify:track:3edCUyafU1OQ48bFB6ajAX", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/3edCUyafU1OQ48bFB6ajAX", 
+        "artists": [
+          {
+            "name": "UB40", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+            }, 
+            "uri": "spotify:artist:69MEO1AADKg1IZrq2XLzo5", 
+            "href": "https://api.spotify.com/v1/artists/69MEO1AADKg1IZrq2XLzo5", 
+            "type": "artist", 
+            "id": "69MEO1AADKg1IZrq2XLzo5"
+          }
+        ], 
+        "duration_ms": 244653, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "3edCUyafU1OQ48bFB6ajAX"
+      }, 
+      {
+        "name": "King - BBC Radio One John Peel Session", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2eLV5LJk4ITszeWqYyDihQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/31885935b3cbfb63efc5268366d3647f8a09dff5", 
+        "is_playable": true, 
+        "uri": "spotify:track:2eLV5LJk4ITszeWqYyDihQ", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/2eLV5LJk4ITszeWqYyDihQ", 
+        "artists": [
+          {
+            "name": "UB40", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+            }, 
+            "uri": "spotify:artist:69MEO1AADKg1IZrq2XLzo5", 
+            "href": "https://api.spotify.com/v1/artists/69MEO1AADKg1IZrq2XLzo5", 
+            "type": "artist", 
+            "id": "69MEO1AADKg1IZrq2XLzo5"
+          }
+        ], 
+        "duration_ms": 337506, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "2eLV5LJk4ITszeWqYyDihQ"
+      }, 
+      {
+        "name": "I Think It's Going To Rain Today - BBC Radio One Kid Jensen Session", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/539gsoj9tMNyqrQkLMbpyi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/69b31c0fd970d7b675fea5463f6bf8f829c4ff68", 
+        "is_playable": true, 
+        "uri": "spotify:track:539gsoj9tMNyqrQkLMbpyi", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/539gsoj9tMNyqrQkLMbpyi", 
+        "artists": [
+          {
+            "name": "UB40", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+            }, 
+            "uri": "spotify:artist:69MEO1AADKg1IZrq2XLzo5", 
+            "href": "https://api.spotify.com/v1/artists/69MEO1AADKg1IZrq2XLzo5", 
+            "type": "artist", 
+            "id": "69MEO1AADKg1IZrq2XLzo5"
+          }
+        ], 
+        "duration_ms": 281586, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "539gsoj9tMNyqrQkLMbpyi"
+      }, 
+      {
+        "name": "My Way Of Thinking - BBC Radio One Kid Jensen Session", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0FZU6C1DbbkznvexslQi8c"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8e2a54ba88a97fdfabd6ae9c1a3b7ad7992d3bec", 
+        "is_playable": true, 
+        "uri": "spotify:track:0FZU6C1DbbkznvexslQi8c", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/0FZU6C1DbbkznvexslQi8c", 
+        "artists": [
+          {
+            "name": "UB40", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+            }, 
+            "uri": "spotify:artist:69MEO1AADKg1IZrq2XLzo5", 
+            "href": "https://api.spotify.com/v1/artists/69MEO1AADKg1IZrq2XLzo5", 
+            "type": "artist", 
+            "id": "69MEO1AADKg1IZrq2XLzo5"
+          }
+        ], 
+        "duration_ms": 173746, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "0FZU6C1DbbkznvexslQi8c"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/0615zW4ha5elrV5f7TB8Yq/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 22, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/0615zW4ha5elrV5f7TB8Yq", 
+  "copyrights": [
+    {
+      "text": "(C) 2010 Reflex Recordings Ltd under exclusive licence to Virgin Records Ltd This label copy information is the subject of copyright protection. All rights reserved. (C) 2010 EMI Records Ltd", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 2010 The copyright in this sound recording is owned by Virgin Records Ltd", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "UB40", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+      }, 
+      "uri": "spotify:artist:69MEO1AADKg1IZrq2XLzo5", 
+      "href": "https://api.spotify.com/v1/artists/69MEO1AADKg1IZrq2XLzo5", 
+      "type": "artist", 
+      "id": "69MEO1AADKg1IZrq2XLzo5"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/e3a851084c4b4c9208a56ff70c65669801639861", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/ffb108fef464b19db06ab3bf6acde28b733cf890", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/20cf7c51c9e2e838f6b198cccb6651ca6721b55b", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "05099991776358"
+  }, 
+  "type": "album", 
+  "id": "0615zW4ha5elrV5f7TB8Yq", 
+  "name": "Signing Off"
+}

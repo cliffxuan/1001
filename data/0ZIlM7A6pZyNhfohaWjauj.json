@@ -1,0 +1,403 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0ZIlM7A6pZyNhfohaWjauj"
+  }, 
+  "release_date": "1998-01-01", 
+  "popularity": 56, 
+  "genres": [], 
+  "uri": "spotify:album:0ZIlM7A6pZyNhfohaWjauj", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Celebrity Skin", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2VTQAjZr7FPoEJD2sNoH3o"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/eb2d218a310db67c1398702899ce042d756d6bc4", 
+        "is_playable": true, 
+        "uri": "spotify:track:2VTQAjZr7FPoEJD2sNoH3o", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2VTQAjZr7FPoEJD2sNoH3o", 
+        "artists": [
+          {
+            "name": "Hole", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+            }, 
+            "uri": "spotify:artist:5SHQUMAmEK5KmuSb0aDvsn", 
+            "href": "https://api.spotify.com/v1/artists/5SHQUMAmEK5KmuSb0aDvsn", 
+            "type": "artist", 
+            "id": "5SHQUMAmEK5KmuSb0aDvsn"
+          }
+        ], 
+        "duration_ms": 162493, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "2VTQAjZr7FPoEJD2sNoH3o"
+      }, 
+      {
+        "name": "Awful", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2cvysHS2HxWGMArLwCDeb2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/213aa0b8bd61461f75a9a5bda16897b0aed9d4b9", 
+        "is_playable": true, 
+        "uri": "spotify:track:2cvysHS2HxWGMArLwCDeb2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2cvysHS2HxWGMArLwCDeb2", 
+        "artists": [
+          {
+            "name": "Hole", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+            }, 
+            "uri": "spotify:artist:5SHQUMAmEK5KmuSb0aDvsn", 
+            "href": "https://api.spotify.com/v1/artists/5SHQUMAmEK5KmuSb0aDvsn", 
+            "type": "artist", 
+            "id": "5SHQUMAmEK5KmuSb0aDvsn"
+          }
+        ], 
+        "duration_ms": 196000, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "2cvysHS2HxWGMArLwCDeb2"
+      }, 
+      {
+        "name": "Hit So Hard", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5QAetdzPnPNgP1qgvXfWmA"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e406977588fbf62341214068eb31a4fb35ab8541", 
+        "is_playable": true, 
+        "uri": "spotify:track:5QAetdzPnPNgP1qgvXfWmA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5QAetdzPnPNgP1qgvXfWmA", 
+        "artists": [
+          {
+            "name": "Hole", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+            }, 
+            "uri": "spotify:artist:5SHQUMAmEK5KmuSb0aDvsn", 
+            "href": "https://api.spotify.com/v1/artists/5SHQUMAmEK5KmuSb0aDvsn", 
+            "type": "artist", 
+            "id": "5SHQUMAmEK5KmuSb0aDvsn"
+          }
+        ], 
+        "duration_ms": 240933, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "5QAetdzPnPNgP1qgvXfWmA"
+      }, 
+      {
+        "name": "Malibu", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1FLxW6LI6PZK8InYyYFULw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/43b2251bfd07acbfe60e5ca9b9da4cfa03f921ff", 
+        "is_playable": true, 
+        "uri": "spotify:track:1FLxW6LI6PZK8InYyYFULw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1FLxW6LI6PZK8InYyYFULw", 
+        "artists": [
+          {
+            "name": "Hole", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+            }, 
+            "uri": "spotify:artist:5SHQUMAmEK5KmuSb0aDvsn", 
+            "href": "https://api.spotify.com/v1/artists/5SHQUMAmEK5KmuSb0aDvsn", 
+            "type": "artist", 
+            "id": "5SHQUMAmEK5KmuSb0aDvsn"
+          }
+        ], 
+        "duration_ms": 230106, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "1FLxW6LI6PZK8InYyYFULw"
+      }, 
+      {
+        "name": "Reasons To Be Beautiful", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0692dUQOanD1wsB4y4C9nz"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6c3b2c65a25f76a066fa573b1000944ecf4acf02", 
+        "is_playable": true, 
+        "uri": "spotify:track:0692dUQOanD1wsB4y4C9nz", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0692dUQOanD1wsB4y4C9nz", 
+        "artists": [
+          {
+            "name": "Hole", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+            }, 
+            "uri": "spotify:artist:5SHQUMAmEK5KmuSb0aDvsn", 
+            "href": "https://api.spotify.com/v1/artists/5SHQUMAmEK5KmuSb0aDvsn", 
+            "type": "artist", 
+            "id": "5SHQUMAmEK5KmuSb0aDvsn"
+          }
+        ], 
+        "duration_ms": 319400, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "0692dUQOanD1wsB4y4C9nz"
+      }, 
+      {
+        "name": "Dying", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Lh4csC0XF8tXRQShl8uxO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f754be5e05423988499b6108c9fc3851c9a1dd58", 
+        "is_playable": true, 
+        "uri": "spotify:track:3Lh4csC0XF8tXRQShl8uxO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3Lh4csC0XF8tXRQShl8uxO", 
+        "artists": [
+          {
+            "name": "Hole", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+            }, 
+            "uri": "spotify:artist:5SHQUMAmEK5KmuSb0aDvsn", 
+            "href": "https://api.spotify.com/v1/artists/5SHQUMAmEK5KmuSb0aDvsn", 
+            "type": "artist", 
+            "id": "5SHQUMAmEK5KmuSb0aDvsn"
+          }
+        ], 
+        "duration_ms": 224866, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "3Lh4csC0XF8tXRQShl8uxO"
+      }, 
+      {
+        "name": "Use Once & Destroy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7KdZ14kvTIGO6Im6ZyEf5t"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/abad2d2917249d4833fe3f1caa999badfa228c3e", 
+        "is_playable": true, 
+        "uri": "spotify:track:7KdZ14kvTIGO6Im6ZyEf5t", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7KdZ14kvTIGO6Im6ZyEf5t", 
+        "artists": [
+          {
+            "name": "Hole", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+            }, 
+            "uri": "spotify:artist:5SHQUMAmEK5KmuSb0aDvsn", 
+            "href": "https://api.spotify.com/v1/artists/5SHQUMAmEK5KmuSb0aDvsn", 
+            "type": "artist", 
+            "id": "5SHQUMAmEK5KmuSb0aDvsn"
+          }
+        ], 
+        "duration_ms": 304933, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "7KdZ14kvTIGO6Im6ZyEf5t"
+      }, 
+      {
+        "name": "Northern Star", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1NqBK2rjURu3OqaoJaZi6o"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/80f2c5896c06562f3b0742dc53f5348a1de75966", 
+        "is_playable": true, 
+        "uri": "spotify:track:1NqBK2rjURu3OqaoJaZi6o", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1NqBK2rjURu3OqaoJaZi6o", 
+        "artists": [
+          {
+            "name": "Hole", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+            }, 
+            "uri": "spotify:artist:5SHQUMAmEK5KmuSb0aDvsn", 
+            "href": "https://api.spotify.com/v1/artists/5SHQUMAmEK5KmuSb0aDvsn", 
+            "type": "artist", 
+            "id": "5SHQUMAmEK5KmuSb0aDvsn"
+          }
+        ], 
+        "duration_ms": 298026, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "1NqBK2rjURu3OqaoJaZi6o"
+      }, 
+      {
+        "name": "Boys On The Radio", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3jQQu0445b34H2bjezhfXi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e8a51b8cbdc75e268bb2558688d7153e60f912f0", 
+        "is_playable": true, 
+        "uri": "spotify:track:3jQQu0445b34H2bjezhfXi", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3jQQu0445b34H2bjezhfXi", 
+        "artists": [
+          {
+            "name": "Hole", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+            }, 
+            "uri": "spotify:artist:5SHQUMAmEK5KmuSb0aDvsn", 
+            "href": "https://api.spotify.com/v1/artists/5SHQUMAmEK5KmuSb0aDvsn", 
+            "type": "artist", 
+            "id": "5SHQUMAmEK5KmuSb0aDvsn"
+          }
+        ], 
+        "duration_ms": 309600, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "3jQQu0445b34H2bjezhfXi"
+      }, 
+      {
+        "name": "Heaven Tonight", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1kDQcODuNeIPq2HEM6NiI5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/42b487ebd46b99705a7e412fb54afaeedfe44225", 
+        "is_playable": true, 
+        "uri": "spotify:track:1kDQcODuNeIPq2HEM6NiI5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1kDQcODuNeIPq2HEM6NiI5", 
+        "artists": [
+          {
+            "name": "Hole", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+            }, 
+            "uri": "spotify:artist:5SHQUMAmEK5KmuSb0aDvsn", 
+            "href": "https://api.spotify.com/v1/artists/5SHQUMAmEK5KmuSb0aDvsn", 
+            "type": "artist", 
+            "id": "5SHQUMAmEK5KmuSb0aDvsn"
+          }
+        ], 
+        "duration_ms": 210973, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "1kDQcODuNeIPq2HEM6NiI5"
+      }, 
+      {
+        "name": "Playing Your Song", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/58VBNuvLVYdhZHrqstocjv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5c3dbadb1bff0734f60597ba225600442e24ce45", 
+        "is_playable": true, 
+        "uri": "spotify:track:58VBNuvLVYdhZHrqstocjv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/58VBNuvLVYdhZHrqstocjv", 
+        "artists": [
+          {
+            "name": "Hole", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+            }, 
+            "uri": "spotify:artist:5SHQUMAmEK5KmuSb0aDvsn", 
+            "href": "https://api.spotify.com/v1/artists/5SHQUMAmEK5KmuSb0aDvsn", 
+            "type": "artist", 
+            "id": "5SHQUMAmEK5KmuSb0aDvsn"
+          }
+        ], 
+        "duration_ms": 201466, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "58VBNuvLVYdhZHrqstocjv"
+      }, 
+      {
+        "name": "Petals", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1KPDFd8sPUzFv8jjg60K4q"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/361377d3d6c1b8c66ffb76b5b892a84beffded05", 
+        "is_playable": true, 
+        "uri": "spotify:track:1KPDFd8sPUzFv8jjg60K4q", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1KPDFd8sPUzFv8jjg60K4q", 
+        "artists": [
+          {
+            "name": "Hole", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+            }, 
+            "uri": "spotify:artist:5SHQUMAmEK5KmuSb0aDvsn", 
+            "href": "https://api.spotify.com/v1/artists/5SHQUMAmEK5KmuSb0aDvsn", 
+            "type": "artist", 
+            "id": "5SHQUMAmEK5KmuSb0aDvsn"
+          }
+        ], 
+        "duration_ms": 328800, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "1KPDFd8sPUzFv8jjg60K4q"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/0ZIlM7A6pZyNhfohaWjauj/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 12, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/0ZIlM7A6pZyNhfohaWjauj", 
+  "copyrights": [
+    {
+      "text": "(C) 1998 Geffen Records Inc.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1998 UMG Recordings, Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Hole", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+      }, 
+      "uri": "spotify:artist:5SHQUMAmEK5KmuSb0aDvsn", 
+      "href": "https://api.spotify.com/v1/artists/5SHQUMAmEK5KmuSb0aDvsn", 
+      "type": "artist", 
+      "id": "5SHQUMAmEK5KmuSb0aDvsn"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/c73d28fd77c1293a25700d24638bdc09b5c22be9", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/ef5dd7e57f88fc9266f6c713f83eddbc3067b810", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/7d8085272160f81644c9bda7750096dbdc7eabc0", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00720642516423"
+  }, 
+  "type": "album", 
+  "id": "0ZIlM7A6pZyNhfohaWjauj", 
+  "name": "Celebrity Skin"
+}

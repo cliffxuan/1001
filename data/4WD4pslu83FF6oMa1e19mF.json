@@ -1,0 +1,343 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
+  }, 
+  "release_date": "1975-01-17", 
+  "popularity": 63, 
+  "genres": [], 
+  "uri": "spotify:album:4WD4pslu83FF6oMa1e19mF", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Tangled up in Blue", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Vcwr9tb3ZLO63F8DL8cqu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/860eee7fdb88eb6f3ec79e7ce9bdee9a3b295780", 
+        "is_playable": true, 
+        "uri": "spotify:track:6Vcwr9tb3ZLO63F8DL8cqu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6Vcwr9tb3ZLO63F8DL8cqu", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 341626, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "6Vcwr9tb3ZLO63F8DL8cqu"
+      }, 
+      {
+        "name": "Simple Twist of Fate", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3wAX3qn53iQUFE84hpfeen"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5d00d80fd3d9ad33bea774a61f0603e7d4426535", 
+        "is_playable": true, 
+        "uri": "spotify:track:3wAX3qn53iQUFE84hpfeen", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3wAX3qn53iQUFE84hpfeen", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 256800, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "3wAX3qn53iQUFE84hpfeen"
+      }, 
+      {
+        "name": "You're a Big Girl Now", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4ukHl5HFRNARRnIWc4Oj83"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/90feb2ab6130b444dfe98a11739de1ecfed3be9e", 
+        "is_playable": true, 
+        "uri": "spotify:track:4ukHl5HFRNARRnIWc4Oj83", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4ukHl5HFRNARRnIWc4Oj83", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 272200, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "4ukHl5HFRNARRnIWc4Oj83"
+      }, 
+      {
+        "name": "Idiot Wind", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1nbGN4N63uCQq0pCIs3kIf"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/814cff3ce3ca62841044e0e348f789a0b81f09b9", 
+        "is_playable": true, 
+        "uri": "spotify:track:1nbGN4N63uCQq0pCIs3kIf", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1nbGN4N63uCQq0pCIs3kIf", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 467493, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "1nbGN4N63uCQq0pCIs3kIf"
+      }, 
+      {
+        "name": "You're Gonna Make Me Lonesome When You Go", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/64MISVB9IIchhOKmWHftoz"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6ff3ee40e18c6557e245dc5145088f5416ff92e0", 
+        "is_playable": true, 
+        "uri": "spotify:track:64MISVB9IIchhOKmWHftoz", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/64MISVB9IIchhOKmWHftoz", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 174733, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "64MISVB9IIchhOKmWHftoz"
+      }, 
+      {
+        "name": "Meet Me in the Morning", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/53ygARQf1f30Z0EmXPHWGT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/905fb43383704565609ca2da476ca69fb6f57a81", 
+        "is_playable": true, 
+        "uri": "spotify:track:53ygARQf1f30Z0EmXPHWGT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/53ygARQf1f30Z0EmXPHWGT", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 258973, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "53ygARQf1f30Z0EmXPHWGT"
+      }, 
+      {
+        "name": "Lily, Rosemary and the Jack of Hearts", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4MKun9QQhoapVvhp2uxJif"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3eb837f8a8275e0d792d2746cfc1f68496e33ae9", 
+        "is_playable": true, 
+        "uri": "spotify:track:4MKun9QQhoapVvhp2uxJif", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4MKun9QQhoapVvhp2uxJif", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 531160, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "4MKun9QQhoapVvhp2uxJif"
+      }, 
+      {
+        "name": "If You See Her, Say Hello", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3xNO6JUk9ySYjxuqzcZYRB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0d04dceed94a67bfbc62dd95aeae3dc6d25474e8", 
+        "is_playable": true, 
+        "uri": "spotify:track:3xNO6JUk9ySYjxuqzcZYRB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3xNO6JUk9ySYjxuqzcZYRB", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 288000, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "3xNO6JUk9ySYjxuqzcZYRB"
+      }, 
+      {
+        "name": "Shelter from the Storm", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3y4Uza6K58JXQ7RYya8ZI5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f5dac6a382599863c6c05d5599fc8aaaef294c16", 
+        "is_playable": true, 
+        "uri": "spotify:track:3y4Uza6K58JXQ7RYya8ZI5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3y4Uza6K58JXQ7RYya8ZI5", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 301133, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "3y4Uza6K58JXQ7RYya8ZI5"
+      }, 
+      {
+        "name": "Buckets of Rain", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5eVjE8FDSDXQLSbTZSA5Qv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5054ff7d5c64833aef54a332f20b7bd65224dc98", 
+        "is_playable": true, 
+        "uri": "spotify:track:5eVjE8FDSDXQLSbTZSA5Qv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5eVjE8FDSDXQLSbTZSA5Qv", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 203506, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "5eVjE8FDSDXQLSbTZSA5Qv"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/4WD4pslu83FF6oMa1e19mF/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 10, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/4WD4pslu83FF6oMa1e19mF", 
+  "copyrights": [
+    {
+      "text": "(P) 1974 Sony Music Entertainment Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Bob Dylan", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+      }, 
+      "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+      "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+      "type": "artist", 
+      "id": "74ASZWbe4lXaubB36ztrGX"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/21bd4f522ccd535141aec00dc9b333bfb1ff03d4", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/755a11cfa36419d006b1482feba5799cbcf1c2d8", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/70b2722690d70a25f7b14323afc3809a54d476a6", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "074643323529"
+  }, 
+  "type": "album", 
+  "id": "4WD4pslu83FF6oMa1e19mF", 
+  "name": "Blood On The Tracks"
+}

@@ -1,0 +1,515 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5naX4skWwnHntwMccG7Omn"
+  }, 
+  "release_date": "1985", 
+  "popularity": 33, 
+  "genres": [], 
+  "uri": "spotify:album:5naX4skWwnHntwMccG7Omn", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Mansion", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4FjDx4dqw1yWVDvfBsnF7D"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f9580b30edf774dbb1aa1213857afd4d9f8a71cd", 
+        "is_playable": true, 
+        "uri": "spotify:track:4FjDx4dqw1yWVDvfBsnF7D", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4FjDx4dqw1yWVDvfBsnF7D", 
+        "artists": [
+          {
+            "name": "The Fall", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6"
+            }, 
+            "uri": "spotify:artist:6WoTvA9qinpHtSRJuldYh6", 
+            "href": "https://api.spotify.com/v1/artists/6WoTvA9qinpHtSRJuldYh6", 
+            "type": "artist", 
+            "id": "6WoTvA9qinpHtSRJuldYh6"
+          }
+        ], 
+        "duration_ms": 81133, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "4FjDx4dqw1yWVDvfBsnF7D"
+      }, 
+      {
+        "name": "Bombast", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/624XshvXzSRpjDCi5M5NhE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/97358db9c53b0b1c2b47f51eb39d752cbd89e19e", 
+        "is_playable": true, 
+        "uri": "spotify:track:624XshvXzSRpjDCi5M5NhE", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/624XshvXzSRpjDCi5M5NhE", 
+        "artists": [
+          {
+            "name": "The Fall", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6"
+            }, 
+            "uri": "spotify:artist:6WoTvA9qinpHtSRJuldYh6", 
+            "href": "https://api.spotify.com/v1/artists/6WoTvA9qinpHtSRJuldYh6", 
+            "type": "artist", 
+            "id": "6WoTvA9qinpHtSRJuldYh6"
+          }
+        ], 
+        "duration_ms": 188133, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "624XshvXzSRpjDCi5M5NhE"
+      }, 
+      {
+        "name": "Barmy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2mx5sEaqeb8k9RqzyQDx8D"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/255796b7c5f66e28697374d8dad290a9a447f11d", 
+        "is_playable": true, 
+        "uri": "spotify:track:2mx5sEaqeb8k9RqzyQDx8D", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2mx5sEaqeb8k9RqzyQDx8D", 
+        "artists": [
+          {
+            "name": "The Fall", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6"
+            }, 
+            "uri": "spotify:artist:6WoTvA9qinpHtSRJuldYh6", 
+            "href": "https://api.spotify.com/v1/artists/6WoTvA9qinpHtSRJuldYh6", 
+            "type": "artist", 
+            "id": "6WoTvA9qinpHtSRJuldYh6"
+          }
+        ], 
+        "duration_ms": 320666, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "2mx5sEaqeb8k9RqzyQDx8D"
+      }, 
+      {
+        "name": "What You Need", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5wCzZrYMKSZSTRa9oQYB1v"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/877a4bc3adab6c65bb881c9e2564fa0a30140cf6", 
+        "is_playable": true, 
+        "uri": "spotify:track:5wCzZrYMKSZSTRa9oQYB1v", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5wCzZrYMKSZSTRa9oQYB1v", 
+        "artists": [
+          {
+            "name": "The Fall", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6"
+            }, 
+            "uri": "spotify:artist:6WoTvA9qinpHtSRJuldYh6", 
+            "href": "https://api.spotify.com/v1/artists/6WoTvA9qinpHtSRJuldYh6", 
+            "type": "artist", 
+            "id": "6WoTvA9qinpHtSRJuldYh6"
+          }
+        ], 
+        "duration_ms": 289600, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "5wCzZrYMKSZSTRa9oQYB1v"
+      }, 
+      {
+        "name": "Spoilt Victorian Child", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3fOnLcCkqA7uwSAVXtbpMf"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e4069dc10290aba62eefac0ff69115ed21b87008", 
+        "is_playable": true, 
+        "uri": "spotify:track:3fOnLcCkqA7uwSAVXtbpMf", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3fOnLcCkqA7uwSAVXtbpMf", 
+        "artists": [
+          {
+            "name": "The Fall", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6"
+            }, 
+            "uri": "spotify:artist:6WoTvA9qinpHtSRJuldYh6", 
+            "href": "https://api.spotify.com/v1/artists/6WoTvA9qinpHtSRJuldYh6", 
+            "type": "artist", 
+            "id": "6WoTvA9qinpHtSRJuldYh6"
+          }
+        ], 
+        "duration_ms": 253200, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "3fOnLcCkqA7uwSAVXtbpMf"
+      }, 
+      {
+        "name": "L.A.", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/16TMJv44QQTQ2EJdGVFd1l"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/85f391bf35782659f89e076e95dddd7d8e12739a", 
+        "is_playable": true, 
+        "uri": "spotify:track:16TMJv44QQTQ2EJdGVFd1l", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/16TMJv44QQTQ2EJdGVFd1l", 
+        "artists": [
+          {
+            "name": "The Fall", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6"
+            }, 
+            "uri": "spotify:artist:6WoTvA9qinpHtSRJuldYh6", 
+            "href": "https://api.spotify.com/v1/artists/6WoTvA9qinpHtSRJuldYh6", 
+            "type": "artist", 
+            "id": "6WoTvA9qinpHtSRJuldYh6"
+          }
+        ], 
+        "duration_ms": 249973, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "16TMJv44QQTQ2EJdGVFd1l"
+      }, 
+      {
+        "name": "Vixen", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6KGUtYM8Ui5NCyw1LU7cnm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c5f5a5b25a5c2181531693e237801e766c45b556", 
+        "is_playable": true, 
+        "uri": "spotify:track:6KGUtYM8Ui5NCyw1LU7cnm", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6KGUtYM8Ui5NCyw1LU7cnm", 
+        "artists": [
+          {
+            "name": "The Fall", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6"
+            }, 
+            "uri": "spotify:artist:6WoTvA9qinpHtSRJuldYh6", 
+            "href": "https://api.spotify.com/v1/artists/6WoTvA9qinpHtSRJuldYh6", 
+            "type": "artist", 
+            "id": "6WoTvA9qinpHtSRJuldYh6"
+          }
+        ], 
+        "duration_ms": 241200, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "6KGUtYM8Ui5NCyw1LU7cnm"
+      }, 
+      {
+        "name": "Couldn\u2019t Get Ahead", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4aUIGeTJaOME5hnnH85pwI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9be335e4c8636d8838875a8418cddf1da4ac9ebc", 
+        "is_playable": true, 
+        "uri": "spotify:track:4aUIGeTJaOME5hnnH85pwI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4aUIGeTJaOME5hnnH85pwI", 
+        "artists": [
+          {
+            "name": "The Fall", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6"
+            }, 
+            "uri": "spotify:artist:6WoTvA9qinpHtSRJuldYh6", 
+            "href": "https://api.spotify.com/v1/artists/6WoTvA9qinpHtSRJuldYh6", 
+            "type": "artist", 
+            "id": "6WoTvA9qinpHtSRJuldYh6"
+          }
+        ], 
+        "duration_ms": 156026, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "4aUIGeTJaOME5hnnH85pwI"
+      }, 
+      {
+        "name": "Gut Of The Quantifier", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/66c9HKzyC8k1f6dDwIqYQN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e6d51504df62012f6c451f73e778f90bd2d4f408", 
+        "is_playable": true, 
+        "uri": "spotify:track:66c9HKzyC8k1f6dDwIqYQN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/66c9HKzyC8k1f6dDwIqYQN", 
+        "artists": [
+          {
+            "name": "The Fall", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6"
+            }, 
+            "uri": "spotify:artist:6WoTvA9qinpHtSRJuldYh6", 
+            "href": "https://api.spotify.com/v1/artists/6WoTvA9qinpHtSRJuldYh6", 
+            "type": "artist", 
+            "id": "6WoTvA9qinpHtSRJuldYh6"
+          }
+        ], 
+        "duration_ms": 315506, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "66c9HKzyC8k1f6dDwIqYQN"
+      }, 
+      {
+        "name": "My New House", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Z6yjnia7BEJSNhDibzrRD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/89c1fb7904994e5061858f15e3fdad9e9849de2b", 
+        "is_playable": true, 
+        "uri": "spotify:track:4Z6yjnia7BEJSNhDibzrRD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4Z6yjnia7BEJSNhDibzrRD", 
+        "artists": [
+          {
+            "name": "The Fall", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6"
+            }, 
+            "uri": "spotify:artist:6WoTvA9qinpHtSRJuldYh6", 
+            "href": "https://api.spotify.com/v1/artists/6WoTvA9qinpHtSRJuldYh6", 
+            "type": "artist", 
+            "id": "6WoTvA9qinpHtSRJuldYh6"
+          }
+        ], 
+        "duration_ms": 315933, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "4Z6yjnia7BEJSNhDibzrRD"
+      }, 
+      {
+        "name": "Paintwork", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7m5CyJJUOK51Lzg79IQBng"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/282203bc4cb12df66641f07a2a80ce42b59e72f2", 
+        "is_playable": true, 
+        "uri": "spotify:track:7m5CyJJUOK51Lzg79IQBng", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7m5CyJJUOK51Lzg79IQBng", 
+        "artists": [
+          {
+            "name": "The Fall", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6"
+            }, 
+            "uri": "spotify:artist:6WoTvA9qinpHtSRJuldYh6", 
+            "href": "https://api.spotify.com/v1/artists/6WoTvA9qinpHtSRJuldYh6", 
+            "type": "artist", 
+            "id": "6WoTvA9qinpHtSRJuldYh6"
+          }
+        ], 
+        "duration_ms": 398200, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "7m5CyJJUOK51Lzg79IQBng"
+      }, 
+      {
+        "name": "I Am Damo Suzuki", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7e8TY9GM2RyIQZOVsCLz1f"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4b0c0fb51d60fa68f4e98e0dc74aad95bddc9d39", 
+        "is_playable": true, 
+        "uri": "spotify:track:7e8TY9GM2RyIQZOVsCLz1f", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7e8TY9GM2RyIQZOVsCLz1f", 
+        "artists": [
+          {
+            "name": "The Fall", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6"
+            }, 
+            "uri": "spotify:artist:6WoTvA9qinpHtSRJuldYh6", 
+            "href": "https://api.spotify.com/v1/artists/6WoTvA9qinpHtSRJuldYh6", 
+            "type": "artist", 
+            "id": "6WoTvA9qinpHtSRJuldYh6"
+          }
+        ], 
+        "duration_ms": 341000, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "7e8TY9GM2RyIQZOVsCLz1f"
+      }, 
+      {
+        "name": "To Nk Roachment: Yarbles", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3sBDXnXFOxq6sJLiAsYLNM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b7e652998f2bab1f0b2e1a3bf59076c8ca71f910", 
+        "is_playable": true, 
+        "uri": "spotify:track:3sBDXnXFOxq6sJLiAsYLNM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3sBDXnXFOxq6sJLiAsYLNM", 
+        "artists": [
+          {
+            "name": "The Fall", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6"
+            }, 
+            "uri": "spotify:artist:6WoTvA9qinpHtSRJuldYh6", 
+            "href": "https://api.spotify.com/v1/artists/6WoTvA9qinpHtSRJuldYh6", 
+            "type": "artist", 
+            "id": "6WoTvA9qinpHtSRJuldYh6"
+          }
+        ], 
+        "duration_ms": 82866, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "3sBDXnXFOxq6sJLiAsYLNM"
+      }, 
+      {
+        "name": "Petty (thief) Lout", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3RmG08Q3x9T9QBRePOBDa6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5ef09e247fb33a9842b2024345fdf26c7717bab0", 
+        "is_playable": true, 
+        "uri": "spotify:track:3RmG08Q3x9T9QBRePOBDa6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3RmG08Q3x9T9QBRePOBDa6", 
+        "artists": [
+          {
+            "name": "The Fall", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6"
+            }, 
+            "uri": "spotify:artist:6WoTvA9qinpHtSRJuldYh6", 
+            "href": "https://api.spotify.com/v1/artists/6WoTvA9qinpHtSRJuldYh6", 
+            "type": "artist", 
+            "id": "6WoTvA9qinpHtSRJuldYh6"
+          }
+        ], 
+        "duration_ms": 320693, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "3RmG08Q3x9T9QBRePOBDa6"
+      }, 
+      {
+        "name": "Rollin\u2019 Dany", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5QEvDVa8cIrDwb0obRZvHL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e8eefbd87030664c1cdf97bfd189298469850491", 
+        "is_playable": true, 
+        "uri": "spotify:track:5QEvDVa8cIrDwb0obRZvHL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5QEvDVa8cIrDwb0obRZvHL", 
+        "artists": [
+          {
+            "name": "The Fall", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6"
+            }, 
+            "uri": "spotify:artist:6WoTvA9qinpHtSRJuldYh6", 
+            "href": "https://api.spotify.com/v1/artists/6WoTvA9qinpHtSRJuldYh6", 
+            "type": "artist", 
+            "id": "6WoTvA9qinpHtSRJuldYh6"
+          }
+        ], 
+        "duration_ms": 143600, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "5QEvDVa8cIrDwb0obRZvHL"
+      }, 
+      {
+        "name": "Cruiser\u2019s Creek", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Z1vq802cFYhapyqBobDrD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c04a832fb61f90bd519e12ef074b963319b3653e", 
+        "is_playable": true, 
+        "uri": "spotify:track:5Z1vq802cFYhapyqBobDrD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5Z1vq802cFYhapyqBobDrD", 
+        "artists": [
+          {
+            "name": "The Fall", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6"
+            }, 
+            "uri": "spotify:artist:6WoTvA9qinpHtSRJuldYh6", 
+            "href": "https://api.spotify.com/v1/artists/6WoTvA9qinpHtSRJuldYh6", 
+            "type": "artist", 
+            "id": "6WoTvA9qinpHtSRJuldYh6"
+          }
+        ], 
+        "duration_ms": 255733, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "5Z1vq802cFYhapyqBobDrD"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/5naX4skWwnHntwMccG7Omn/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 16, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/5naX4skWwnHntwMccG7Omn", 
+  "copyrights": [
+    {
+      "text": "1988 Beggars Banquet Records Ltd.", 
+      "type": "C"
+    }, 
+    {
+      "text": "1985 Beggars Banquet Records Ltd.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "The Fall", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6"
+      }, 
+      "uri": "spotify:artist:6WoTvA9qinpHtSRJuldYh6", 
+      "href": "https://api.spotify.com/v1/artists/6WoTvA9qinpHtSRJuldYh6", 
+      "type": "artist", 
+      "id": "6WoTvA9qinpHtSRJuldYh6"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/eaab627e7d29fa90e43c8d1b3952414523fc39c7", 
+      "width": 600, 
+      "height": 580
+    }, 
+    {
+      "url": "https://i.scdn.co/image/754e338835d1d07d609b1ad7806ca3c1f92d182c", 
+      "width": 300, 
+      "height": 290
+    }, 
+    {
+      "url": "https://i.scdn.co/image/851e8894cc3e365abc5ccdb28ba2fe7eb5444f4e", 
+      "width": 64, 
+      "height": 62
+    }
+  ], 
+  "external_ids": {
+    "upc": "607618006723"
+  }, 
+  "type": "album", 
+  "id": "5naX4skWwnHntwMccG7Omn", 
+  "name": "This Nation\u2019s Saving Grace"
+}

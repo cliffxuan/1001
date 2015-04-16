@@ -1,0 +1,767 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3q8y9MBuOdOzwJb8QJfwBG"
+  }, 
+  "release_date": "1977-01-01", 
+  "popularity": 54, 
+  "genres": [], 
+  "uri": "spotify:album:3q8y9MBuOdOzwJb8QJfwBG", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Natural Mystic", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/76O0RqUHIKG7jq3LwBTUgS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ba237b6362fa8ea60782d7553af305c05e1657aa", 
+        "is_playable": true, 
+        "uri": "spotify:track:76O0RqUHIKG7jq3LwBTUgS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/76O0RqUHIKG7jq3LwBTUgS", 
+        "artists": [
+          {
+            "name": "Bob Marley & The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+            }, 
+            "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD", 
+            "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD", 
+            "type": "artist", 
+            "id": "2QsynagSdAqZj3U9HgDzjD"
+          }
+        ], 
+        "duration_ms": 207733, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "76O0RqUHIKG7jq3LwBTUgS"
+      }, 
+      {
+        "name": "So Much Things To Say", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0EXAAL03dUBbmfdI3TI5sv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8ec096b7f35df546d3182e895f4f60d5b9ec4158", 
+        "is_playable": true, 
+        "uri": "spotify:track:0EXAAL03dUBbmfdI3TI5sv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0EXAAL03dUBbmfdI3TI5sv", 
+        "artists": [
+          {
+            "name": "Bob Marley & The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+            }, 
+            "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD", 
+            "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD", 
+            "type": "artist", 
+            "id": "2QsynagSdAqZj3U9HgDzjD"
+          }
+        ], 
+        "duration_ms": 188026, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "0EXAAL03dUBbmfdI3TI5sv"
+      }, 
+      {
+        "name": "Guiltiness", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7eVsj62t4DGxE9YYUpyL4p"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0e8dee906cc7408162e8a0ce12676f11450c17b9", 
+        "is_playable": true, 
+        "uri": "spotify:track:7eVsj62t4DGxE9YYUpyL4p", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7eVsj62t4DGxE9YYUpyL4p", 
+        "artists": [
+          {
+            "name": "Bob Marley & The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+            }, 
+            "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD", 
+            "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD", 
+            "type": "artist", 
+            "id": "2QsynagSdAqZj3U9HgDzjD"
+          }
+        ], 
+        "duration_ms": 199973, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "7eVsj62t4DGxE9YYUpyL4p"
+      }, 
+      {
+        "name": "The Heathen", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0OFvHJIDk7tzfbdRpSbBWt"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/187869e9a0e8e750c4329aaad598ae19409089b7", 
+        "is_playable": true, 
+        "uri": "spotify:track:0OFvHJIDk7tzfbdRpSbBWt", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0OFvHJIDk7tzfbdRpSbBWt", 
+        "artists": [
+          {
+            "name": "Bob Marley & The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+            }, 
+            "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD", 
+            "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD", 
+            "type": "artist", 
+            "id": "2QsynagSdAqZj3U9HgDzjD"
+          }
+        ], 
+        "duration_ms": 152066, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "0OFvHJIDk7tzfbdRpSbBWt"
+      }, 
+      {
+        "name": "Exodus", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1fQxtJ2yrBn6l20VVuGuJF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/49100976da10aabf5029031e14e7e33012135751", 
+        "is_playable": true, 
+        "uri": "spotify:track:1fQxtJ2yrBn6l20VVuGuJF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1fQxtJ2yrBn6l20VVuGuJF", 
+        "artists": [
+          {
+            "name": "Bob Marley & The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+            }, 
+            "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD", 
+            "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD", 
+            "type": "artist", 
+            "id": "2QsynagSdAqZj3U9HgDzjD"
+          }
+        ], 
+        "duration_ms": 460226, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "1fQxtJ2yrBn6l20VVuGuJF"
+      }, 
+      {
+        "name": "Jamming", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6gOirCUz62z0mFhCJ6P5KC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6e3158c6c4206f8321ff228ee385b99c6c34c19d", 
+        "is_playable": true, 
+        "uri": "spotify:track:6gOirCUz62z0mFhCJ6P5KC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6gOirCUz62z0mFhCJ6P5KC", 
+        "artists": [
+          {
+            "name": "Bob Marley & The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+            }, 
+            "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD", 
+            "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD", 
+            "type": "artist", 
+            "id": "2QsynagSdAqZj3U9HgDzjD"
+          }
+        ], 
+        "duration_ms": 211000, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "6gOirCUz62z0mFhCJ6P5KC"
+      }, 
+      {
+        "name": "Waiting In Vain", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/54BA9VfKHAj61wOITNnw1W"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9ad051b0701ace9150a196c95bfad8aeadb90a8c", 
+        "is_playable": true, 
+        "uri": "spotify:track:54BA9VfKHAj61wOITNnw1W", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/54BA9VfKHAj61wOITNnw1W", 
+        "artists": [
+          {
+            "name": "Bob Marley & The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+            }, 
+            "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD", 
+            "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD", 
+            "type": "artist", 
+            "id": "2QsynagSdAqZj3U9HgDzjD"
+          }
+        ], 
+        "duration_ms": 256240, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "54BA9VfKHAj61wOITNnw1W"
+      }, 
+      {
+        "name": "Turn Your Lights Down Low", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4xawyfn8RT0QJxUYPFgW9q"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8fcdc045ebad3f8d44eff2a0d3bb490af00f5f74", 
+        "is_playable": true, 
+        "uri": "spotify:track:4xawyfn8RT0QJxUYPFgW9q", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4xawyfn8RT0QJxUYPFgW9q", 
+        "artists": [
+          {
+            "name": "Bob Marley & The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+            }, 
+            "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD", 
+            "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD", 
+            "type": "artist", 
+            "id": "2QsynagSdAqZj3U9HgDzjD"
+          }
+        ], 
+        "duration_ms": 219360, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "4xawyfn8RT0QJxUYPFgW9q"
+      }, 
+      {
+        "name": "Three Little Birds", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4efoEY8iDBzUqitjmNDhpN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a3a9f43272f6c317913f405166efda13ebe47d56", 
+        "is_playable": true, 
+        "uri": "spotify:track:4efoEY8iDBzUqitjmNDhpN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4efoEY8iDBzUqitjmNDhpN", 
+        "artists": [
+          {
+            "name": "Bob Marley & The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+            }, 
+            "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD", 
+            "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD", 
+            "type": "artist", 
+            "id": "2QsynagSdAqZj3U9HgDzjD"
+          }
+        ], 
+        "duration_ms": 180266, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "4efoEY8iDBzUqitjmNDhpN"
+      }, 
+      {
+        "name": "One Love / People Get Ready", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4OsZ1vrenrtSbqLJxOceKl"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/266ff66c9c14f452daa4c6ad7dd441f1b5d822e2", 
+        "is_playable": true, 
+        "uri": "spotify:track:4OsZ1vrenrtSbqLJxOceKl", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4OsZ1vrenrtSbqLJxOceKl", 
+        "artists": [
+          {
+            "name": "Bob Marley & The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+            }, 
+            "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD", 
+            "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD", 
+            "type": "artist", 
+            "id": "2QsynagSdAqZj3U9HgDzjD"
+          }
+        ], 
+        "duration_ms": 172933, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "4OsZ1vrenrtSbqLJxOceKl"
+      }, 
+      {
+        "name": "Roots", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6WPvM4zXfM0T4ViTE1JSvE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ebf72fdd5d416f6fcd0f393304e5bf0e6377963c", 
+        "is_playable": true, 
+        "uri": "spotify:track:6WPvM4zXfM0T4ViTE1JSvE", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6WPvM4zXfM0T4ViTE1JSvE", 
+        "artists": [
+          {
+            "name": "Bob Marley & The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+            }, 
+            "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD", 
+            "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD", 
+            "type": "artist", 
+            "id": "2QsynagSdAqZj3U9HgDzjD"
+          }
+        ], 
+        "duration_ms": 223466, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "6WPvM4zXfM0T4ViTE1JSvE"
+      }, 
+      {
+        "name": "Waiting In Vain - Alternate Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6PxzyzibuYB28I32MK4MWs"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/658e5f717fd1ea8292c19ff5923ca7bf2c5b127a", 
+        "is_playable": true, 
+        "uri": "spotify:track:6PxzyzibuYB28I32MK4MWs", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6PxzyzibuYB28I32MK4MWs", 
+        "artists": [
+          {
+            "name": "Bob Marley & The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+            }, 
+            "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD", 
+            "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD", 
+            "type": "artist", 
+            "id": "2QsynagSdAqZj3U9HgDzjD"
+          }
+        ], 
+        "duration_ms": 284266, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "6PxzyzibuYB28I32MK4MWs"
+      }, 
+      {
+        "name": "Jamming - Long Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7aXv0Em3w0QsUG5DqpzCoI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7929099f9fa970e3ad9b824ab0be2b9b51176e1b", 
+        "is_playable": true, 
+        "uri": "spotify:track:7aXv0Em3w0QsUG5DqpzCoI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7aXv0Em3w0QsUG5DqpzCoI", 
+        "artists": [
+          {
+            "name": "Bob Marley & The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+            }, 
+            "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD", 
+            "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD", 
+            "type": "artist", 
+            "id": "2QsynagSdAqZj3U9HgDzjD"
+          }
+        ], 
+        "duration_ms": 352266, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "7aXv0Em3w0QsUG5DqpzCoI"
+      }, 
+      {
+        "name": "Jammin'", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1XJepkKCBYOuaDgmfHJgpR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/252344517ac577a9fdde219e44f8c5d447f44467", 
+        "is_playable": true, 
+        "uri": "spotify:track:1XJepkKCBYOuaDgmfHJgpR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1XJepkKCBYOuaDgmfHJgpR", 
+        "artists": [
+          {
+            "name": "Bob Marley & The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+            }, 
+            "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD", 
+            "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD", 
+            "type": "artist", 
+            "id": "2QsynagSdAqZj3U9HgDzjD"
+          }
+        ], 
+        "duration_ms": 184226, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "1XJepkKCBYOuaDgmfHJgpR"
+      }, 
+      {
+        "name": "Exodus", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4eqqOuDBaJoyapblW2y5Ae"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c173e365884bfdf0b11e3010eff837816361a359", 
+        "is_playable": true, 
+        "uri": "spotify:track:4eqqOuDBaJoyapblW2y5Ae", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4eqqOuDBaJoyapblW2y5Ae", 
+        "artists": [
+          {
+            "name": "Bob Marley & The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+            }, 
+            "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD", 
+            "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD", 
+            "type": "artist", 
+            "id": "2QsynagSdAqZj3U9HgDzjD"
+          }
+        ], 
+        "duration_ms": 188267, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "4eqqOuDBaJoyapblW2y5Ae"
+      }, 
+      {
+        "name": "The Heathen - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1pCI5QzYDyjF9nJNZC2m2P"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3274d11608246ef9dbed15103d79cf62237e14eb", 
+        "is_playable": true, 
+        "uri": "spotify:track:1pCI5QzYDyjF9nJNZC2m2P", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1pCI5QzYDyjF9nJNZC2m2P", 
+        "artists": [
+          {
+            "name": "Bob Marley & The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+            }, 
+            "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD", 
+            "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD", 
+            "type": "artist", 
+            "id": "2QsynagSdAqZj3U9HgDzjD"
+          }
+        ], 
+        "duration_ms": 408200, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "1pCI5QzYDyjF9nJNZC2m2P"
+      }, 
+      {
+        "name": "Crazy Baldhead / Running Away - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1z7DEP5af8U3ADmaj0eUn1"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/514754ecea0189114e0343a4c1df1146afebf839", 
+        "is_playable": true, 
+        "uri": "spotify:track:1z7DEP5af8U3ADmaj0eUn1", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1z7DEP5af8U3ADmaj0eUn1", 
+        "artists": [
+          {
+            "name": "Bob Marley & The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+            }, 
+            "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD", 
+            "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD", 
+            "type": "artist", 
+            "id": "2QsynagSdAqZj3U9HgDzjD"
+          }
+        ], 
+        "duration_ms": 561597, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "1z7DEP5af8U3ADmaj0eUn1"
+      }, 
+      {
+        "name": "War / No More Trouble - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0ldVvIGrEXbIglTTtM5eop"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ad122ffa3d7578f069c322ecef98caa985622f81", 
+        "is_playable": true, 
+        "uri": "spotify:track:0ldVvIGrEXbIglTTtM5eop", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/0ldVvIGrEXbIglTTtM5eop", 
+        "artists": [
+          {
+            "name": "Bob Marley & The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+            }, 
+            "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD", 
+            "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD", 
+            "type": "artist", 
+            "id": "2QsynagSdAqZj3U9HgDzjD"
+          }
+        ], 
+        "duration_ms": 464333, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "0ldVvIGrEXbIglTTtM5eop"
+      }, 
+      {
+        "name": "Jammin' - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6RhTYWSHoAXF41XOAqxcQw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/dca2f645fdcb7fa7aa329d6d082fd3af4e5a6a2c", 
+        "is_playable": true, 
+        "uri": "spotify:track:6RhTYWSHoAXF41XOAqxcQw", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6RhTYWSHoAXF41XOAqxcQw", 
+        "artists": [
+          {
+            "name": "Bob Marley & The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+            }, 
+            "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD", 
+            "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD", 
+            "type": "artist", 
+            "id": "2QsynagSdAqZj3U9HgDzjD"
+          }
+        ], 
+        "duration_ms": 427247, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "6RhTYWSHoAXF41XOAqxcQw"
+      }, 
+      {
+        "name": "Exodus - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/59XUcT2xT8ZR5tqrBVOMsl"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6d6ecb7e5143932ab418a377c83b2e8eb3327606", 
+        "is_playable": true, 
+        "uri": "spotify:track:59XUcT2xT8ZR5tqrBVOMsl", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/59XUcT2xT8ZR5tqrBVOMsl", 
+        "artists": [
+          {
+            "name": "Bob Marley & The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+            }, 
+            "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD", 
+            "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD", 
+            "type": "artist", 
+            "id": "2QsynagSdAqZj3U9HgDzjD"
+          }
+        ], 
+        "duration_ms": 706258, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "59XUcT2xT8ZR5tqrBVOMsl"
+      }, 
+      {
+        "name": "Punky Reggae Party - Jamaican 12\" Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1z08HOSzAdhl99dgrOhEoO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/21bd2f41c87d9c65c8ab48f653d062a15a667dda", 
+        "is_playable": true, 
+        "uri": "spotify:track:1z08HOSzAdhl99dgrOhEoO", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1z08HOSzAdhl99dgrOhEoO", 
+        "artists": [
+          {
+            "name": "Bob Marley & The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+            }, 
+            "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD", 
+            "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD", 
+            "type": "artist", 
+            "id": "2QsynagSdAqZj3U9HgDzjD"
+          }
+        ], 
+        "duration_ms": 558533, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "1z08HOSzAdhl99dgrOhEoO"
+      }, 
+      {
+        "name": "Punky Reggae Party - Dub: B-side Jamaican 12\" version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6cx0WvOivL0ELIU6ZAxtZ6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c17e16e6b10e2af652893aa761e75fb0354fd80d", 
+        "is_playable": true, 
+        "uri": "spotify:track:6cx0WvOivL0ELIU6ZAxtZ6", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6cx0WvOivL0ELIU6ZAxtZ6", 
+        "artists": [
+          {
+            "name": "Bob Marley & The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+            }, 
+            "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD", 
+            "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD", 
+            "type": "artist", 
+            "id": "2QsynagSdAqZj3U9HgDzjD"
+          }
+        ], 
+        "duration_ms": 528021, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "6cx0WvOivL0ELIU6ZAxtZ6"
+      }, 
+      {
+        "name": "Keep On Moving", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4FqqmfLzioMNH7MJR60tYy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/93e888c7f7765f1ce257dd3394715c0fb4ee6b4a", 
+        "is_playable": true, 
+        "uri": "spotify:track:4FqqmfLzioMNH7MJR60tYy", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4FqqmfLzioMNH7MJR60tYy", 
+        "artists": [
+          {
+            "name": "Bob Marley & The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+            }, 
+            "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD", 
+            "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD", 
+            "type": "artist", 
+            "id": "2QsynagSdAqZj3U9HgDzjD"
+          }
+        ], 
+        "duration_ms": 385822, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "4FqqmfLzioMNH7MJR60tYy"
+      }, 
+      {
+        "name": "Keep On Moving", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/68N8bnxiXmTPf4bTXbkuFm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6c4546f1becf3e9c3d173940e919fede1aba0b42", 
+        "is_playable": true, 
+        "uri": "spotify:track:68N8bnxiXmTPf4bTXbkuFm", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/68N8bnxiXmTPf4bTXbkuFm", 
+        "artists": [
+          {
+            "name": "Bob Marley & The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+            }, 
+            "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD", 
+            "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD", 
+            "type": "artist", 
+            "id": "2QsynagSdAqZj3U9HgDzjD"
+          }
+        ], 
+        "duration_ms": 435133, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "68N8bnxiXmTPf4bTXbkuFm"
+      }, 
+      {
+        "name": "Exodus", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5JoHZmeFdMqWfv70MwPnmS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a71ba6762444dc3dacd153390cff991b7ec4bc49", 
+        "is_playable": true, 
+        "uri": "spotify:track:5JoHZmeFdMqWfv70MwPnmS", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5JoHZmeFdMqWfv70MwPnmS", 
+        "artists": [
+          {
+            "name": "Bob Marley & The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+            }, 
+            "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD", 
+            "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD", 
+            "type": "artist", 
+            "id": "2QsynagSdAqZj3U9HgDzjD"
+          }
+        ], 
+        "duration_ms": 67893, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "5JoHZmeFdMqWfv70MwPnmS"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/3q8y9MBuOdOzwJb8QJfwBG/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 25, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/3q8y9MBuOdOzwJb8QJfwBG", 
+  "copyrights": [
+    {
+      "text": "(C) 2001 Island Records Inc.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1977 UMG Recordings, Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Bob Marley & The Wailers", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+      }, 
+      "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD", 
+      "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD", 
+      "type": "artist", 
+      "id": "2QsynagSdAqZj3U9HgDzjD"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/1c2aa6ec6575e087ee42abd8e664d1c676a911a5", 
+      "width": 640, 
+      "height": 582
+    }, 
+    {
+      "url": "https://i.scdn.co/image/ce4719bc6bb02940cd5323a18f55b0e61e74f973", 
+      "width": 300, 
+      "height": 273
+    }, 
+    {
+      "url": "https://i.scdn.co/image/eb97c7ff38093c4b98e48f8c86a094a05def5b53", 
+      "width": 64, 
+      "height": 58
+    }
+  ], 
+  "external_ids": {
+    "upc": "00731458640820"
+  }, 
+  "type": "album", 
+  "id": "3q8y9MBuOdOzwJb8QJfwBG", 
+  "name": "Exodus"
+}

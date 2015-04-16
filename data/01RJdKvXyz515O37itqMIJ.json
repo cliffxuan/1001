@@ -1,0 +1,487 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/01RJdKvXyz515O37itqMIJ"
+  }, 
+  "release_date": "1978-07-14", 
+  "popularity": 49, 
+  "genres": [], 
+  "uri": "spotify:album:01RJdKvXyz515O37itqMIJ", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Thank You For Sending Me An Angel - 2005 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6aotqfVLywWWF4ZqdmLmig"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1be937e68bf55501dce725d392ae5dd13c6a36c2", 
+        "is_playable": true, 
+        "uri": "spotify:track:6aotqfVLywWWF4ZqdmLmig", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6aotqfVLywWWF4ZqdmLmig", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 131560, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "6aotqfVLywWWF4ZqdmLmig"
+      }, 
+      {
+        "name": "With Our Love - 2005 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7y0sJmJv3ZtDeeHnPlCHEe"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/dd58d459bed4e0d2a93725be68906360c972803f", 
+        "is_playable": true, 
+        "uri": "spotify:track:7y0sJmJv3ZtDeeHnPlCHEe", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7y0sJmJv3ZtDeeHnPlCHEe", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 210800, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "7y0sJmJv3ZtDeeHnPlCHEe"
+      }, 
+      {
+        "name": "The Good Thing - 2005 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5KRtiPYvYDqE8MysJmDOut"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/eb904794fa5dd6112f004e8ba7941fdc379e0be5", 
+        "is_playable": true, 
+        "uri": "spotify:track:5KRtiPYvYDqE8MysJmDOut", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5KRtiPYvYDqE8MysJmDOut", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 183186, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "5KRtiPYvYDqE8MysJmDOut"
+      }, 
+      {
+        "name": "Warning Sign - 2005 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7iVvBKwYlXvDbc3mKzccjq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7fc4b7edfc50169360e2d377d164b44bd3f842ca", 
+        "is_playable": true, 
+        "uri": "spotify:track:7iVvBKwYlXvDbc3mKzccjq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7iVvBKwYlXvDbc3mKzccjq", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 234120, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "7iVvBKwYlXvDbc3mKzccjq"
+      }, 
+      {
+        "name": "The Girl Wants To Be With The Girls", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3tAFhUlDu5rRmpKDsw0oCn"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/92eb50c02f0fdb411414729e68a0151524d241dd", 
+        "is_playable": true, 
+        "uri": "spotify:track:3tAFhUlDu5rRmpKDsw0oCn", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3tAFhUlDu5rRmpKDsw0oCn", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 158106, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "3tAFhUlDu5rRmpKDsw0oCn"
+      }, 
+      {
+        "name": "Found A Job - 2005 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2apaMCyIgaoADhLyHKD0qS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e1c706c3fb1b46cff6e439120757182182357c5f", 
+        "is_playable": true, 
+        "uri": "spotify:track:2apaMCyIgaoADhLyHKD0qS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2apaMCyIgaoADhLyHKD0qS", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 301066, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "2apaMCyIgaoADhLyHKD0qS"
+      }, 
+      {
+        "name": "Artists Only - 2005 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/18VUNjOq2uRYxZP6nQGJva"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b1552b8df328622e2f78b95b7ec8a896ed394470", 
+        "is_playable": true, 
+        "uri": "spotify:track:18VUNjOq2uRYxZP6nQGJva", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/18VUNjOq2uRYxZP6nQGJva", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 214800, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "18VUNjOq2uRYxZP6nQGJva"
+      }, 
+      {
+        "name": "I'm Not In Love - 2005 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/32zRqFKTUle2TW1kUPbYpq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2f550b612bfda67d5dbf175ab10bed2b99b12211", 
+        "is_playable": true, 
+        "uri": "spotify:track:32zRqFKTUle2TW1kUPbYpq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/32zRqFKTUle2TW1kUPbYpq", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 274133, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "32zRqFKTUle2TW1kUPbYpq"
+      }, 
+      {
+        "name": "Stay Hungry - 2005 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3PFWYIrlbpBZq7ytWVjCQt"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5f8d4d448edd57b1a21aae0cd85e296eb544e22f", 
+        "is_playable": true, 
+        "uri": "spotify:track:3PFWYIrlbpBZq7ytWVjCQt", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3PFWYIrlbpBZq7ytWVjCQt", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 159933, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "3PFWYIrlbpBZq7ytWVjCQt"
+      }, 
+      {
+        "name": "Take Me To The River - 2005 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1oV1tu8utgHQjLJsEK9sVl"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4b6c3e27bb5347f56efedddce7f61f9b45756560", 
+        "is_playable": true, 
+        "uri": "spotify:track:1oV1tu8utgHQjLJsEK9sVl", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1oV1tu8utgHQjLJsEK9sVl", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 302520, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "1oV1tu8utgHQjLJsEK9sVl"
+      }, 
+      {
+        "name": "The Big Country - 2005 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6jvNnYLscndCf0fPJB1pms"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/043f30b9fe8e68ddbc372cb095a4d9cf4c1e2425", 
+        "is_playable": true, 
+        "uri": "spotify:track:6jvNnYLscndCf0fPJB1pms", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6jvNnYLscndCf0fPJB1pms", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 333386, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "6jvNnYLscndCf0fPJB1pms"
+      }, 
+      {
+        "name": "Stay Hungry - Remastered 1977 Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4IED16tkbYyvxJOL7m0sFR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6687b752381a58fb0e16ce3ffe43dcb5accb6ca9", 
+        "is_playable": true, 
+        "uri": "spotify:track:4IED16tkbYyvxJOL7m0sFR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4IED16tkbYyvxJOL7m0sFR", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 224720, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "4IED16tkbYyvxJOL7m0sFR"
+      }, 
+      {
+        "name": "I'm Not In Love - Alternate Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5oPDlBLj3uG1ceqF6KETSA"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3443bc37ffef03a7d54cefbd108c7d87a8978952", 
+        "is_playable": true, 
+        "uri": "spotify:track:5oPDlBLj3uG1ceqF6KETSA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5oPDlBLj3uG1ceqF6KETSA", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 315386, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "5oPDlBLj3uG1ceqF6KETSA"
+      }, 
+      {
+        "name": "The Big Country - Alternate Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/44EJYe0cXrC23209DUkuxf"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/71af4bb217ca61b228dce598b905eba047df755c", 
+        "is_playable": true, 
+        "uri": "spotify:track:44EJYe0cXrC23209DUkuxf", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/44EJYe0cXrC23209DUkuxf", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 301466, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "44EJYe0cXrC23209DUkuxf"
+      }, 
+      {
+        "name": "Thank You For Sending Me An Angel - Country Angel Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3zKDtOWLdWO31W4RhehHet"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f76574ec93086f0044e9ce8c6aedae789c97eb9b", 
+        "is_playable": true, 
+        "uri": "spotify:track:3zKDtOWLdWO31W4RhehHet", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3zKDtOWLdWO31W4RhehHet", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 131906, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "3zKDtOWLdWO31W4RhehHet"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/01RJdKvXyz515O37itqMIJ/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 15, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/01RJdKvXyz515O37itqMIJ", 
+  "copyrights": [
+    {
+      "text": "2006 Sire Records. Manufactured & Marketed by Rhino Entertainment Group. A Warner Music Group Co.", 
+      "type": "C"
+    }, 
+    {
+      "text": "2006 Sire Records. Manufactured & Marketed by Rhino Entertainment Group. A Warner Music Group Co.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Talking Heads", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+      }, 
+      "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+      "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+      "type": "artist", 
+      "id": "2x9SpqnPi8rlE9pjHBwmSC"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/9b19bd8cefe70de0c037f1160f3f4d86d5e411de", 
+      "width": 640, 
+      "height": 570
+    }, 
+    {
+      "url": "https://i.scdn.co/image/678a80a619331b59ade8edadf206ece884089e1f", 
+      "width": 300, 
+      "height": 267
+    }, 
+    {
+      "url": "https://i.scdn.co/image/6f450052953db227d096fc1cbdf01fa42c26b035", 
+      "width": 64, 
+      "height": 57
+    }
+  ], 
+  "external_ids": {
+    "upc": "603497146666"
+  }, 
+  "type": "album", 
+  "id": "01RJdKvXyz515O37itqMIJ", 
+  "name": "More Songs About Buildings And Food (Deluxe Version)"
+}

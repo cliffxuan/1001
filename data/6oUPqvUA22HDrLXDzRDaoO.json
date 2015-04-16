@@ -1,0 +1,545 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6oUPqvUA22HDrLXDzRDaoO"
+  }, 
+  "release_date": "1963", 
+  "popularity": 33, 
+  "genres": [], 
+  "uri": "spotify:album:6oUPqvUA22HDrLXDzRDaoO", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Sambalero", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7utCAAkskiEo2k6ZtFwBMh"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e6eebac2c22e21d5441bc18d05c1ce9b4a935245", 
+        "is_playable": true, 
+        "uri": "spotify:track:7utCAAkskiEo2k6ZtFwBMh", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7utCAAkskiEo2k6ZtFwBMh", 
+        "artists": [
+          {
+            "name": "Stan Getz", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+            }, 
+            "uri": "spotify:artist:0FMucZsEnCxs5pqBjHjIc8", 
+            "href": "https://api.spotify.com/v1/artists/0FMucZsEnCxs5pqBjHjIc8", 
+            "type": "artist", 
+            "id": "0FMucZsEnCxs5pqBjHjIc8"
+          }, 
+          {
+            "name": "Luiz Bonfa", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
+            }, 
+            "uri": "spotify:artist:174ThXFgQg2VCq9r3m8ceb", 
+            "href": "https://api.spotify.com/v1/artists/174ThXFgQg2VCq9r3m8ceb", 
+            "type": "artist", 
+            "id": "174ThXFgQg2VCq9r3m8ceb"
+          }, 
+          {
+            "name": "Maria Helena Toledo", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5Ud1Fh5rCf6hGjAn4SyFEn"
+            }, 
+            "uri": "spotify:artist:5Ud1Fh5rCf6hGjAn4SyFEn", 
+            "href": "https://api.spotify.com/v1/artists/5Ud1Fh5rCf6hGjAn4SyFEn", 
+            "type": "artist", 
+            "id": "5Ud1Fh5rCf6hGjAn4SyFEn"
+          }
+        ], 
+        "duration_ms": 128160, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "7utCAAkskiEo2k6ZtFwBMh"
+      }, 
+      {
+        "name": "S\u00f3 Dan\u00e7o Samba", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0YnxW17RadORMe1TLJjAeU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/186b9d961080b018faa525faa6c0430c8ca65030", 
+        "is_playable": true, 
+        "uri": "spotify:track:0YnxW17RadORMe1TLJjAeU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0YnxW17RadORMe1TLJjAeU", 
+        "artists": [
+          {
+            "name": "Stan Getz", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+            }, 
+            "uri": "spotify:artist:0FMucZsEnCxs5pqBjHjIc8", 
+            "href": "https://api.spotify.com/v1/artists/0FMucZsEnCxs5pqBjHjIc8", 
+            "type": "artist", 
+            "id": "0FMucZsEnCxs5pqBjHjIc8"
+          }, 
+          {
+            "name": "Luiz Bonfa", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
+            }, 
+            "uri": "spotify:artist:174ThXFgQg2VCq9r3m8ceb", 
+            "href": "https://api.spotify.com/v1/artists/174ThXFgQg2VCq9r3m8ceb", 
+            "type": "artist", 
+            "id": "174ThXFgQg2VCq9r3m8ceb"
+          }
+        ], 
+        "duration_ms": 216226, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "0YnxW17RadORMe1TLJjAeU"
+      }, 
+      {
+        "name": "Insensatez", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5CL6cKNL4PSs0yKTRDdVia"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ed21e1348d1d40389a25bc1fbfc58d998d028ed4", 
+        "is_playable": true, 
+        "uri": "spotify:track:5CL6cKNL4PSs0yKTRDdVia", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5CL6cKNL4PSs0yKTRDdVia", 
+        "artists": [
+          {
+            "name": "Stan Getz", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+            }, 
+            "uri": "spotify:artist:0FMucZsEnCxs5pqBjHjIc8", 
+            "href": "https://api.spotify.com/v1/artists/0FMucZsEnCxs5pqBjHjIc8", 
+            "type": "artist", 
+            "id": "0FMucZsEnCxs5pqBjHjIc8"
+          }, 
+          {
+            "name": "Luiz Bonfa", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
+            }, 
+            "uri": "spotify:artist:174ThXFgQg2VCq9r3m8ceb", 
+            "href": "https://api.spotify.com/v1/artists/174ThXFgQg2VCq9r3m8ceb", 
+            "type": "artist", 
+            "id": "174ThXFgQg2VCq9r3m8ceb"
+          }
+        ], 
+        "duration_ms": 201093, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "5CL6cKNL4PSs0yKTRDdVia"
+      }, 
+      {
+        "name": "O Morro Nao Tem Vez", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3cI3j6VndWP6lnnSiuPRiK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/aac8f0ff63ad2b440dbf7ae67d5228fd4e59325c", 
+        "is_playable": true, 
+        "uri": "spotify:track:3cI3j6VndWP6lnnSiuPRiK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3cI3j6VndWP6lnnSiuPRiK", 
+        "artists": [
+          {
+            "name": "Stan Getz", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+            }, 
+            "uri": "spotify:artist:0FMucZsEnCxs5pqBjHjIc8", 
+            "href": "https://api.spotify.com/v1/artists/0FMucZsEnCxs5pqBjHjIc8", 
+            "type": "artist", 
+            "id": "0FMucZsEnCxs5pqBjHjIc8"
+          }, 
+          {
+            "name": "Luiz Bonfa", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
+            }, 
+            "uri": "spotify:artist:174ThXFgQg2VCq9r3m8ceb", 
+            "href": "https://api.spotify.com/v1/artists/174ThXFgQg2VCq9r3m8ceb", 
+            "type": "artist", 
+            "id": "174ThXFgQg2VCq9r3m8ceb"
+          }
+        ], 
+        "duration_ms": 413466, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "3cI3j6VndWP6lnnSiuPRiK"
+      }, 
+      {
+        "name": "Samba De Duas Notas (Two Note Samba)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7EmoUqjHbzALtdfElCmSNd"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/095bf1675feca4c609e5b35d3cb6231949774c30", 
+        "is_playable": true, 
+        "uri": "spotify:track:7EmoUqjHbzALtdfElCmSNd", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7EmoUqjHbzALtdfElCmSNd", 
+        "artists": [
+          {
+            "name": "Stan Getz", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+            }, 
+            "uri": "spotify:artist:0FMucZsEnCxs5pqBjHjIc8", 
+            "href": "https://api.spotify.com/v1/artists/0FMucZsEnCxs5pqBjHjIc8", 
+            "type": "artist", 
+            "id": "0FMucZsEnCxs5pqBjHjIc8"
+          }, 
+          {
+            "name": "Luiz Bonfa", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
+            }, 
+            "uri": "spotify:artist:174ThXFgQg2VCq9r3m8ceb", 
+            "href": "https://api.spotify.com/v1/artists/174ThXFgQg2VCq9r3m8ceb", 
+            "type": "artist", 
+            "id": "174ThXFgQg2VCq9r3m8ceb"
+          }, 
+          {
+            "name": "Maria Helena Toledo", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5Ud1Fh5rCf6hGjAn4SyFEn"
+            }, 
+            "uri": "spotify:artist:5Ud1Fh5rCf6hGjAn4SyFEn", 
+            "href": "https://api.spotify.com/v1/artists/5Ud1Fh5rCf6hGjAn4SyFEn", 
+            "type": "artist", 
+            "id": "5Ud1Fh5rCf6hGjAn4SyFEn"
+          }
+        ], 
+        "duration_ms": 258533, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "7EmoUqjHbzALtdfElCmSNd"
+      }, 
+      {
+        "name": "Menina Flor", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Cqrn6sKeF18Wq6wq2Xq26"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1046aa3420f7f0f871c7b45af5a9dd5215565eda", 
+        "is_playable": true, 
+        "uri": "spotify:track:2Cqrn6sKeF18Wq6wq2Xq26", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2Cqrn6sKeF18Wq6wq2Xq26", 
+        "artists": [
+          {
+            "name": "Stan Getz", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+            }, 
+            "uri": "spotify:artist:0FMucZsEnCxs5pqBjHjIc8", 
+            "href": "https://api.spotify.com/v1/artists/0FMucZsEnCxs5pqBjHjIc8", 
+            "type": "artist", 
+            "id": "0FMucZsEnCxs5pqBjHjIc8"
+          }, 
+          {
+            "name": "Luiz Bonfa", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
+            }, 
+            "uri": "spotify:artist:174ThXFgQg2VCq9r3m8ceb", 
+            "href": "https://api.spotify.com/v1/artists/174ThXFgQg2VCq9r3m8ceb", 
+            "type": "artist", 
+            "id": "174ThXFgQg2VCq9r3m8ceb"
+          }, 
+          {
+            "name": "Maria Helena Toledo", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5Ud1Fh5rCf6hGjAn4SyFEn"
+            }, 
+            "uri": "spotify:artist:5Ud1Fh5rCf6hGjAn4SyFEn", 
+            "href": "https://api.spotify.com/v1/artists/5Ud1Fh5rCf6hGjAn4SyFEn", 
+            "type": "artist", 
+            "id": "5Ud1Fh5rCf6hGjAn4SyFEn"
+          }
+        ], 
+        "duration_ms": 248560, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "2Cqrn6sKeF18Wq6wq2Xq26"
+      }, 
+      {
+        "name": "Mania De Maria", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/56OXqDMHDiZk8YWDMLadS1"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bf0bf2eae31c72fde81fe644c6a6200bb19c8797", 
+        "is_playable": true, 
+        "uri": "spotify:track:56OXqDMHDiZk8YWDMLadS1", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/56OXqDMHDiZk8YWDMLadS1", 
+        "artists": [
+          {
+            "name": "Stan Getz", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+            }, 
+            "uri": "spotify:artist:0FMucZsEnCxs5pqBjHjIc8", 
+            "href": "https://api.spotify.com/v1/artists/0FMucZsEnCxs5pqBjHjIc8", 
+            "type": "artist", 
+            "id": "0FMucZsEnCxs5pqBjHjIc8"
+          }, 
+          {
+            "name": "Luiz Bonfa", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
+            }, 
+            "uri": "spotify:artist:174ThXFgQg2VCq9r3m8ceb", 
+            "href": "https://api.spotify.com/v1/artists/174ThXFgQg2VCq9r3m8ceb", 
+            "type": "artist", 
+            "id": "174ThXFgQg2VCq9r3m8ceb"
+          }, 
+          {
+            "name": "Maria Helena Toledo", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5Ud1Fh5rCf6hGjAn4SyFEn"
+            }, 
+            "uri": "spotify:artist:5Ud1Fh5rCf6hGjAn4SyFEn", 
+            "href": "https://api.spotify.com/v1/artists/5Ud1Fh5rCf6hGjAn4SyFEn", 
+            "type": "artist", 
+            "id": "5Ud1Fh5rCf6hGjAn4SyFEn"
+          }
+        ], 
+        "duration_ms": 163200, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "56OXqDMHDiZk8YWDMLadS1"
+      }, 
+      {
+        "name": "Saudade Vem Correndo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7enNWdXc1YdtbM5J2NL6Oc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c775ef1633777b67dc65774c742d6bad76b61a2a", 
+        "is_playable": true, 
+        "uri": "spotify:track:7enNWdXc1YdtbM5J2NL6Oc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7enNWdXc1YdtbM5J2NL6Oc", 
+        "artists": [
+          {
+            "name": "Stan Getz", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+            }, 
+            "uri": "spotify:artist:0FMucZsEnCxs5pqBjHjIc8", 
+            "href": "https://api.spotify.com/v1/artists/0FMucZsEnCxs5pqBjHjIc8", 
+            "type": "artist", 
+            "id": "0FMucZsEnCxs5pqBjHjIc8"
+          }, 
+          {
+            "name": "Luiz Bonfa", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
+            }, 
+            "uri": "spotify:artist:174ThXFgQg2VCq9r3m8ceb", 
+            "href": "https://api.spotify.com/v1/artists/174ThXFgQg2VCq9r3m8ceb", 
+            "type": "artist", 
+            "id": "174ThXFgQg2VCq9r3m8ceb"
+          }, 
+          {
+            "name": "Maria Helena Toledo", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5Ud1Fh5rCf6hGjAn4SyFEn"
+            }, 
+            "uri": "spotify:artist:5Ud1Fh5rCf6hGjAn4SyFEn", 
+            "href": "https://api.spotify.com/v1/artists/5Ud1Fh5rCf6hGjAn4SyFEn", 
+            "type": "artist", 
+            "id": "5Ud1Fh5rCf6hGjAn4SyFEn"
+          }
+        ], 
+        "duration_ms": 219057, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "7enNWdXc1YdtbM5J2NL6Oc"
+      }, 
+      {
+        "name": "Um Abraco No Getz (A Tribute To Getz)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0O45Ll17zMoxf3rCuuTM4P"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0ffb41c38bccf9f9bb7357756b6b3babf83dae67", 
+        "is_playable": true, 
+        "uri": "spotify:track:0O45Ll17zMoxf3rCuuTM4P", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0O45Ll17zMoxf3rCuuTM4P", 
+        "artists": [
+          {
+            "name": "Stan Getz", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+            }, 
+            "uri": "spotify:artist:0FMucZsEnCxs5pqBjHjIc8", 
+            "href": "https://api.spotify.com/v1/artists/0FMucZsEnCxs5pqBjHjIc8", 
+            "type": "artist", 
+            "id": "0FMucZsEnCxs5pqBjHjIc8"
+          }, 
+          {
+            "name": "Luiz Bonfa", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
+            }, 
+            "uri": "spotify:artist:174ThXFgQg2VCq9r3m8ceb", 
+            "href": "https://api.spotify.com/v1/artists/174ThXFgQg2VCq9r3m8ceb", 
+            "type": "artist", 
+            "id": "174ThXFgQg2VCq9r3m8ceb"
+          }
+        ], 
+        "duration_ms": 263266, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "0O45Ll17zMoxf3rCuuTM4P"
+      }, 
+      {
+        "name": "Ebony Samba - Alternate Take", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0W367eglvBLZYiODYzPhg5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1a4090ce68a185fb7b457c867237e9ad682e5950", 
+        "is_playable": true, 
+        "uri": "spotify:track:0W367eglvBLZYiODYzPhg5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0W367eglvBLZYiODYzPhg5", 
+        "artists": [
+          {
+            "name": "Stan Getz", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+            }, 
+            "uri": "spotify:artist:0FMucZsEnCxs5pqBjHjIc8", 
+            "href": "https://api.spotify.com/v1/artists/0FMucZsEnCxs5pqBjHjIc8", 
+            "type": "artist", 
+            "id": "0FMucZsEnCxs5pqBjHjIc8"
+          }, 
+          {
+            "name": "Luiz Bonfa", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
+            }, 
+            "uri": "spotify:artist:174ThXFgQg2VCq9r3m8ceb", 
+            "href": "https://api.spotify.com/v1/artists/174ThXFgQg2VCq9r3m8ceb", 
+            "type": "artist", 
+            "id": "174ThXFgQg2VCq9r3m8ceb"
+          }
+        ], 
+        "duration_ms": 273960, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "0W367eglvBLZYiODYzPhg5"
+      }, 
+      {
+        "name": "Ebony Samba", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Z3E6PbkKvTITaSBT5MTIj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/17c9ed59c7c2dfc8c67b898be29d8c3c9d2c90b8", 
+        "is_playable": true, 
+        "uri": "spotify:track:1Z3E6PbkKvTITaSBT5MTIj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1Z3E6PbkKvTITaSBT5MTIj", 
+        "artists": [
+          {
+            "name": "Stan Getz", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+            }, 
+            "uri": "spotify:artist:0FMucZsEnCxs5pqBjHjIc8", 
+            "href": "https://api.spotify.com/v1/artists/0FMucZsEnCxs5pqBjHjIc8", 
+            "type": "artist", 
+            "id": "0FMucZsEnCxs5pqBjHjIc8"
+          }, 
+          {
+            "name": "Luiz Bonfa", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
+            }, 
+            "uri": "spotify:artist:174ThXFgQg2VCq9r3m8ceb", 
+            "href": "https://api.spotify.com/v1/artists/174ThXFgQg2VCq9r3m8ceb", 
+            "type": "artist", 
+            "id": "174ThXFgQg2VCq9r3m8ceb"
+          }
+        ], 
+        "duration_ms": 228773, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "1Z3E6PbkKvTITaSBT5MTIj"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/6oUPqvUA22HDrLXDzRDaoO/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 11, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/6oUPqvUA22HDrLXDzRDaoO", 
+  "copyrights": [
+    {
+      "text": "(C) 1963 The Verve Music Group, a Division of UMG Recordings, Inc.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1963 The Verve Music Group, a Division of UMG Recordings, Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Stan Getz", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+      }, 
+      "uri": "spotify:artist:0FMucZsEnCxs5pqBjHjIc8", 
+      "href": "https://api.spotify.com/v1/artists/0FMucZsEnCxs5pqBjHjIc8", 
+      "type": "artist", 
+      "id": "0FMucZsEnCxs5pqBjHjIc8"
+    }, 
+    {
+      "name": "Luiz Bonfa", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
+      }, 
+      "uri": "spotify:artist:174ThXFgQg2VCq9r3m8ceb", 
+      "href": "https://api.spotify.com/v1/artists/174ThXFgQg2VCq9r3m8ceb", 
+      "type": "artist", 
+      "id": "174ThXFgQg2VCq9r3m8ceb"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/b16bed49124e605e601de0b8c85fa49e25f55c8e", 
+      "width": 640, 
+      "height": 634
+    }, 
+    {
+      "url": "https://i.scdn.co/image/18d16ed8a089b2e4ac23a436ee6d68e2eace23c3", 
+      "width": 300, 
+      "height": 297
+    }, 
+    {
+      "url": "https://i.scdn.co/image/feccf4a6a8fcbf51b4a4b15bae3a397575007783", 
+      "width": 64, 
+      "height": 63
+    }
+  ], 
+  "external_ids": {
+    "upc": "00042282361325"
+  }, 
+  "type": "album", 
+  "id": "6oUPqvUA22HDrLXDzRDaoO", 
+  "name": "Jazz Samba Encore!"
+}

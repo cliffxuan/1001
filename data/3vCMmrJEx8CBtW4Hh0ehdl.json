@@ -1,0 +1,467 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3vCMmrJEx8CBtW4Hh0ehdl"
+  }, 
+  "release_date": "1974", 
+  "popularity": 31, 
+  "genres": [], 
+  "uri": "spotify:album:3vCMmrJEx8CBtW4Hh0ehdl", 
+  "tracks": {
+    "items": [
+      {
+        "name": "When I Get To The Border", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4RUfZBGuiA79ETYeOhis00"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/918616fc555f1f0e1a7ab056970c4aefa8012feb", 
+        "is_playable": true, 
+        "uri": "spotify:track:4RUfZBGuiA79ETYeOhis00", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4RUfZBGuiA79ETYeOhis00", 
+        "artists": [
+          {
+            "name": "Richard Thompson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz"
+            }, 
+            "uri": "spotify:artist:5w75MoT8FfcGOMgjgrj1cz", 
+            "href": "https://api.spotify.com/v1/artists/5w75MoT8FfcGOMgjgrj1cz", 
+            "type": "artist", 
+            "id": "5w75MoT8FfcGOMgjgrj1cz"
+          }, 
+          {
+            "name": "Linda Thompson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ktfLBwmywJsDFeBsce3F6"
+            }, 
+            "uri": "spotify:artist:4ktfLBwmywJsDFeBsce3F6", 
+            "href": "https://api.spotify.com/v1/artists/4ktfLBwmywJsDFeBsce3F6", 
+            "type": "artist", 
+            "id": "4ktfLBwmywJsDFeBsce3F6"
+          }
+        ], 
+        "duration_ms": 206000, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "4RUfZBGuiA79ETYeOhis00"
+      }, 
+      {
+        "name": "The Calvary Cross", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2KxU9rHEXeQSYJxiYzVy2B"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c4eae02aab955eda59709ec424abfdc583dc11b0", 
+        "is_playable": true, 
+        "uri": "spotify:track:2KxU9rHEXeQSYJxiYzVy2B", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2KxU9rHEXeQSYJxiYzVy2B", 
+        "artists": [
+          {
+            "name": "Richard Thompson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz"
+            }, 
+            "uri": "spotify:artist:5w75MoT8FfcGOMgjgrj1cz", 
+            "href": "https://api.spotify.com/v1/artists/5w75MoT8FfcGOMgjgrj1cz", 
+            "type": "artist", 
+            "id": "5w75MoT8FfcGOMgjgrj1cz"
+          }, 
+          {
+            "name": "Linda Thompson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ktfLBwmywJsDFeBsce3F6"
+            }, 
+            "uri": "spotify:artist:4ktfLBwmywJsDFeBsce3F6", 
+            "href": "https://api.spotify.com/v1/artists/4ktfLBwmywJsDFeBsce3F6", 
+            "type": "artist", 
+            "id": "4ktfLBwmywJsDFeBsce3F6"
+          }
+        ], 
+        "duration_ms": 230666, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "2KxU9rHEXeQSYJxiYzVy2B"
+      }, 
+      {
+        "name": "Withered And Died", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3H5KrjD6dKdeNG3iOtaOR6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f1bd7daadbcc4a247471f00b65ee6d67343cb7d8", 
+        "is_playable": true, 
+        "uri": "spotify:track:3H5KrjD6dKdeNG3iOtaOR6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3H5KrjD6dKdeNG3iOtaOR6", 
+        "artists": [
+          {
+            "name": "Richard Thompson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz"
+            }, 
+            "uri": "spotify:artist:5w75MoT8FfcGOMgjgrj1cz", 
+            "href": "https://api.spotify.com/v1/artists/5w75MoT8FfcGOMgjgrj1cz", 
+            "type": "artist", 
+            "id": "5w75MoT8FfcGOMgjgrj1cz"
+          }, 
+          {
+            "name": "Linda Thompson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ktfLBwmywJsDFeBsce3F6"
+            }, 
+            "uri": "spotify:artist:4ktfLBwmywJsDFeBsce3F6", 
+            "href": "https://api.spotify.com/v1/artists/4ktfLBwmywJsDFeBsce3F6", 
+            "type": "artist", 
+            "id": "4ktfLBwmywJsDFeBsce3F6"
+          }
+        ], 
+        "duration_ms": 204666, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "3H5KrjD6dKdeNG3iOtaOR6"
+      }, 
+      {
+        "name": "I Want To See The Bright Lights Tonight", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2MFORnxJtvb5T71LDA7GzD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/976ccd544c2c6d082f97ff7cefebb8c03d66ac67", 
+        "is_playable": true, 
+        "uri": "spotify:track:2MFORnxJtvb5T71LDA7GzD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2MFORnxJtvb5T71LDA7GzD", 
+        "artists": [
+          {
+            "name": "Richard Thompson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz"
+            }, 
+            "uri": "spotify:artist:5w75MoT8FfcGOMgjgrj1cz", 
+            "href": "https://api.spotify.com/v1/artists/5w75MoT8FfcGOMgjgrj1cz", 
+            "type": "artist", 
+            "id": "5w75MoT8FfcGOMgjgrj1cz"
+          }, 
+          {
+            "name": "Linda Thompson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ktfLBwmywJsDFeBsce3F6"
+            }, 
+            "uri": "spotify:artist:4ktfLBwmywJsDFeBsce3F6", 
+            "href": "https://api.spotify.com/v1/artists/4ktfLBwmywJsDFeBsce3F6", 
+            "type": "artist", 
+            "id": "4ktfLBwmywJsDFeBsce3F6"
+          }
+        ], 
+        "duration_ms": 187333, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "2MFORnxJtvb5T71LDA7GzD"
+      }, 
+      {
+        "name": "Down Where The Drunkards Roll", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2BFvJnuCXwCLp2DRY2nmf7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/65aac8eafce70c04b7d4ecebc7bddb51c4049ed3", 
+        "is_playable": true, 
+        "uri": "spotify:track:2BFvJnuCXwCLp2DRY2nmf7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2BFvJnuCXwCLp2DRY2nmf7", 
+        "artists": [
+          {
+            "name": "Richard Thompson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz"
+            }, 
+            "uri": "spotify:artist:5w75MoT8FfcGOMgjgrj1cz", 
+            "href": "https://api.spotify.com/v1/artists/5w75MoT8FfcGOMgjgrj1cz", 
+            "type": "artist", 
+            "id": "5w75MoT8FfcGOMgjgrj1cz"
+          }, 
+          {
+            "name": "Linda Thompson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ktfLBwmywJsDFeBsce3F6"
+            }, 
+            "uri": "spotify:artist:4ktfLBwmywJsDFeBsce3F6", 
+            "href": "https://api.spotify.com/v1/artists/4ktfLBwmywJsDFeBsce3F6", 
+            "type": "artist", 
+            "id": "4ktfLBwmywJsDFeBsce3F6"
+          }
+        ], 
+        "duration_ms": 244333, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "2BFvJnuCXwCLp2DRY2nmf7"
+      }, 
+      {
+        "name": "We Sing Hallelujah", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3SwrturrMzcZCoqHpUGCzs"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/332c98810021145a130b62a52220df8677303f07", 
+        "is_playable": true, 
+        "uri": "spotify:track:3SwrturrMzcZCoqHpUGCzs", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3SwrturrMzcZCoqHpUGCzs", 
+        "artists": [
+          {
+            "name": "Richard Thompson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz"
+            }, 
+            "uri": "spotify:artist:5w75MoT8FfcGOMgjgrj1cz", 
+            "href": "https://api.spotify.com/v1/artists/5w75MoT8FfcGOMgjgrj1cz", 
+            "type": "artist", 
+            "id": "5w75MoT8FfcGOMgjgrj1cz"
+          }, 
+          {
+            "name": "Linda Thompson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ktfLBwmywJsDFeBsce3F6"
+            }, 
+            "uri": "spotify:artist:4ktfLBwmywJsDFeBsce3F6", 
+            "href": "https://api.spotify.com/v1/artists/4ktfLBwmywJsDFeBsce3F6", 
+            "type": "artist", 
+            "id": "4ktfLBwmywJsDFeBsce3F6"
+          }
+        ], 
+        "duration_ms": 170173, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "3SwrturrMzcZCoqHpUGCzs"
+      }, 
+      {
+        "name": "Has He Got A Friend For Me", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3MNUE7zobWk1ufwYlbY1E1"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b96aba450342566430f3dbcc69b5c9106fea55ff", 
+        "is_playable": true, 
+        "uri": "spotify:track:3MNUE7zobWk1ufwYlbY1E1", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3MNUE7zobWk1ufwYlbY1E1", 
+        "artists": [
+          {
+            "name": "Richard Thompson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz"
+            }, 
+            "uri": "spotify:artist:5w75MoT8FfcGOMgjgrj1cz", 
+            "href": "https://api.spotify.com/v1/artists/5w75MoT8FfcGOMgjgrj1cz", 
+            "type": "artist", 
+            "id": "5w75MoT8FfcGOMgjgrj1cz"
+          }, 
+          {
+            "name": "Linda Thompson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ktfLBwmywJsDFeBsce3F6"
+            }, 
+            "uri": "spotify:artist:4ktfLBwmywJsDFeBsce3F6", 
+            "href": "https://api.spotify.com/v1/artists/4ktfLBwmywJsDFeBsce3F6", 
+            "type": "artist", 
+            "id": "4ktfLBwmywJsDFeBsce3F6"
+          }
+        ], 
+        "duration_ms": 211840, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "3MNUE7zobWk1ufwYlbY1E1"
+      }, 
+      {
+        "name": "The Little Beggar Girl", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2dHillERMLIaOa1wrI3Fd7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5eb99c88b2d37b91a8d9cc7501b22391640b540e", 
+        "is_playable": true, 
+        "uri": "spotify:track:2dHillERMLIaOa1wrI3Fd7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2dHillERMLIaOa1wrI3Fd7", 
+        "artists": [
+          {
+            "name": "Richard Thompson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz"
+            }, 
+            "uri": "spotify:artist:5w75MoT8FfcGOMgjgrj1cz", 
+            "href": "https://api.spotify.com/v1/artists/5w75MoT8FfcGOMgjgrj1cz", 
+            "type": "artist", 
+            "id": "5w75MoT8FfcGOMgjgrj1cz"
+          }, 
+          {
+            "name": "Linda Thompson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ktfLBwmywJsDFeBsce3F6"
+            }, 
+            "uri": "spotify:artist:4ktfLBwmywJsDFeBsce3F6", 
+            "href": "https://api.spotify.com/v1/artists/4ktfLBwmywJsDFeBsce3F6", 
+            "type": "artist", 
+            "id": "4ktfLBwmywJsDFeBsce3F6"
+          }
+        ], 
+        "duration_ms": 204160, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "2dHillERMLIaOa1wrI3Fd7"
+      }, 
+      {
+        "name": "The End Of The Rainbow", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5bpqHOtrWG18FxSfA7Jzsb"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9a36df0c784e955dcf7ef259ee5c08a504d9afa7", 
+        "is_playable": true, 
+        "uri": "spotify:track:5bpqHOtrWG18FxSfA7Jzsb", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5bpqHOtrWG18FxSfA7Jzsb", 
+        "artists": [
+          {
+            "name": "Richard Thompson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz"
+            }, 
+            "uri": "spotify:artist:5w75MoT8FfcGOMgjgrj1cz", 
+            "href": "https://api.spotify.com/v1/artists/5w75MoT8FfcGOMgjgrj1cz", 
+            "type": "artist", 
+            "id": "5w75MoT8FfcGOMgjgrj1cz"
+          }, 
+          {
+            "name": "Linda Thompson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ktfLBwmywJsDFeBsce3F6"
+            }, 
+            "uri": "spotify:artist:4ktfLBwmywJsDFeBsce3F6", 
+            "href": "https://api.spotify.com/v1/artists/4ktfLBwmywJsDFeBsce3F6", 
+            "type": "artist", 
+            "id": "4ktfLBwmywJsDFeBsce3F6"
+          }
+        ], 
+        "duration_ms": 235000, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "5bpqHOtrWG18FxSfA7Jzsb"
+      }, 
+      {
+        "name": "The Great Valerio", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2mwJxRU2FGrjFBVdWzpSSt"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2da7091cbbf50664f08dd175c4a14fb08fdc50d2", 
+        "is_playable": true, 
+        "uri": "spotify:track:2mwJxRU2FGrjFBVdWzpSSt", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2mwJxRU2FGrjFBVdWzpSSt", 
+        "artists": [
+          {
+            "name": "Richard Thompson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz"
+            }, 
+            "uri": "spotify:artist:5w75MoT8FfcGOMgjgrj1cz", 
+            "href": "https://api.spotify.com/v1/artists/5w75MoT8FfcGOMgjgrj1cz", 
+            "type": "artist", 
+            "id": "5w75MoT8FfcGOMgjgrj1cz"
+          }, 
+          {
+            "name": "Linda Thompson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ktfLBwmywJsDFeBsce3F6"
+            }, 
+            "uri": "spotify:artist:4ktfLBwmywJsDFeBsce3F6", 
+            "href": "https://api.spotify.com/v1/artists/4ktfLBwmywJsDFeBsce3F6", 
+            "type": "artist", 
+            "id": "4ktfLBwmywJsDFeBsce3F6"
+          }
+        ], 
+        "duration_ms": 322666, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "2mwJxRU2FGrjFBVdWzpSSt"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/3vCMmrJEx8CBtW4Hh0ehdl/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 10, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/3vCMmrJEx8CBtW4Hh0ehdl", 
+  "copyrights": [
+    {
+      "text": "(C) 1974 Island Records Ltd.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1974 Island Records Ltd.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Richard Thompson", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz"
+      }, 
+      "uri": "spotify:artist:5w75MoT8FfcGOMgjgrj1cz", 
+      "href": "https://api.spotify.com/v1/artists/5w75MoT8FfcGOMgjgrj1cz", 
+      "type": "artist", 
+      "id": "5w75MoT8FfcGOMgjgrj1cz"
+    }, 
+    {
+      "name": "Linda Thompson", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4ktfLBwmywJsDFeBsce3F6"
+      }, 
+      "uri": "spotify:artist:4ktfLBwmywJsDFeBsce3F6", 
+      "href": "https://api.spotify.com/v1/artists/4ktfLBwmywJsDFeBsce3F6", 
+      "type": "artist", 
+      "id": "4ktfLBwmywJsDFeBsce3F6"
+    }, 
+    {
+      "name": "Richard And Linda Thompson", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4hw4TPMyAzHqNBcWtoDrK5"
+      }, 
+      "uri": "spotify:artist:4hw4TPMyAzHqNBcWtoDrK5", 
+      "href": "https://api.spotify.com/v1/artists/4hw4TPMyAzHqNBcWtoDrK5", 
+      "type": "artist", 
+      "id": "4hw4TPMyAzHqNBcWtoDrK5"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/1bfdeeeb0860a445a366f8f3bf977732bd5f1a36", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/feaa0e0ea13916adde4335a4c794c84e9dd77f64", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/e09825051ef8ecf1e6ebfb4c1e01baa6a4a4bb9f", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00042284636223"
+  }, 
+  "type": "album", 
+  "id": "3vCMmrJEx8CBtW4Hh0ehdl", 
+  "name": "I Want To See The Bright Lights Tonight"
+}

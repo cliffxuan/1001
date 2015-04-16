@@ -1,0 +1,431 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0cJAiqO1obIJQGf4YI31q4"
+  }, 
+  "release_date": "2000-10-15", 
+  "popularity": 40, 
+  "genres": [], 
+  "uri": "spotify:album:0cJAiqO1obIJQGf4YI31q4", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Big Exit", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5W3RdykOaokM7gvCoFaNiO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5b71f58c09e936ee08d804e4b8b88132dbf82ea1", 
+        "is_playable": true, 
+        "uri": "spotify:track:5W3RdykOaokM7gvCoFaNiO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5W3RdykOaokM7gvCoFaNiO", 
+        "artists": [
+          {
+            "name": "PJ Harvey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+            }, 
+            "uri": "spotify:artist:12VaqyEhgwDRuFfEqbnrpz", 
+            "href": "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz", 
+            "type": "artist", 
+            "id": "12VaqyEhgwDRuFfEqbnrpz"
+          }
+        ], 
+        "duration_ms": 233533, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "5W3RdykOaokM7gvCoFaNiO"
+      }, 
+      {
+        "name": "Good Fortune", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7hEnqdq7DwBCJxjDd7xMKP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ecfb5d83c80bfc9d7427a0c0059f0c8d4e964f54", 
+        "is_playable": true, 
+        "uri": "spotify:track:7hEnqdq7DwBCJxjDd7xMKP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7hEnqdq7DwBCJxjDd7xMKP", 
+        "artists": [
+          {
+            "name": "PJ Harvey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+            }, 
+            "uri": "spotify:artist:12VaqyEhgwDRuFfEqbnrpz", 
+            "href": "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz", 
+            "type": "artist", 
+            "id": "12VaqyEhgwDRuFfEqbnrpz"
+          }
+        ], 
+        "duration_ms": 200200, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "7hEnqdq7DwBCJxjDd7xMKP"
+      }, 
+      {
+        "name": "A Place Called Home", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/32AjpZZ2ntPPNjUZB7YBYa"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9e19d5d624fd47871b6104befb76a98e65506084", 
+        "is_playable": true, 
+        "uri": "spotify:track:32AjpZZ2ntPPNjUZB7YBYa", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/32AjpZZ2ntPPNjUZB7YBYa", 
+        "artists": [
+          {
+            "name": "PJ Harvey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+            }, 
+            "uri": "spotify:artist:12VaqyEhgwDRuFfEqbnrpz", 
+            "href": "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz", 
+            "type": "artist", 
+            "id": "12VaqyEhgwDRuFfEqbnrpz"
+          }
+        ], 
+        "duration_ms": 222293, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "32AjpZZ2ntPPNjUZB7YBYa"
+      }, 
+      {
+        "name": "One Line", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7jrEeskVT3OvvtupXfgctI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1273b13e73222a2c2d849556687892cf6c0e6ed0", 
+        "is_playable": true, 
+        "uri": "spotify:track:7jrEeskVT3OvvtupXfgctI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7jrEeskVT3OvvtupXfgctI", 
+        "artists": [
+          {
+            "name": "PJ Harvey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+            }, 
+            "uri": "spotify:artist:12VaqyEhgwDRuFfEqbnrpz", 
+            "href": "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz", 
+            "type": "artist", 
+            "id": "12VaqyEhgwDRuFfEqbnrpz"
+          }
+        ], 
+        "duration_ms": 193800, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "7jrEeskVT3OvvtupXfgctI"
+      }, 
+      {
+        "name": "Beautiful Feeling", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/32FUHxCdb7eCD388XB4d0M"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ffeae1cda51f7d16b9466a704a77a6e14641c495", 
+        "is_playable": true, 
+        "uri": "spotify:track:32FUHxCdb7eCD388XB4d0M", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/32FUHxCdb7eCD388XB4d0M", 
+        "artists": [
+          {
+            "name": "PJ Harvey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+            }, 
+            "uri": "spotify:artist:12VaqyEhgwDRuFfEqbnrpz", 
+            "href": "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz", 
+            "type": "artist", 
+            "id": "12VaqyEhgwDRuFfEqbnrpz"
+          }
+        ], 
+        "duration_ms": 240306, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "32FUHxCdb7eCD388XB4d0M"
+      }, 
+      {
+        "name": "The Whores Hustle And The Hustlers Whore", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/22lTMdKzEwcwYfDfU94Jjd"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2176470925884fd744996dfc2ac353df5b0e4999", 
+        "is_playable": true, 
+        "uri": "spotify:track:22lTMdKzEwcwYfDfU94Jjd", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/22lTMdKzEwcwYfDfU94Jjd", 
+        "artists": [
+          {
+            "name": "PJ Harvey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+            }, 
+            "uri": "spotify:artist:12VaqyEhgwDRuFfEqbnrpz", 
+            "href": "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz", 
+            "type": "artist", 
+            "id": "12VaqyEhgwDRuFfEqbnrpz"
+          }
+        ], 
+        "duration_ms": 238960, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "22lTMdKzEwcwYfDfU94Jjd"
+      }, 
+      {
+        "name": "This Mess We're In", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6B883Q5YfLvb79uqB5g6YO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5d0f5670e52434fbc531b9c2aad5b5c39b198210", 
+        "is_playable": true, 
+        "uri": "spotify:track:6B883Q5YfLvb79uqB5g6YO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6B883Q5YfLvb79uqB5g6YO", 
+        "artists": [
+          {
+            "name": "PJ Harvey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+            }, 
+            "uri": "spotify:artist:12VaqyEhgwDRuFfEqbnrpz", 
+            "href": "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz", 
+            "type": "artist", 
+            "id": "12VaqyEhgwDRuFfEqbnrpz"
+          }
+        ], 
+        "duration_ms": 238106, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "6B883Q5YfLvb79uqB5g6YO"
+      }, 
+      {
+        "name": "You Said Something", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1EQBy9gTZFl0HdfcI7h7oT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/88c5c0d7b02d3ad8f6c7f61bf8f505158f1ff945", 
+        "is_playable": true, 
+        "uri": "spotify:track:1EQBy9gTZFl0HdfcI7h7oT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1EQBy9gTZFl0HdfcI7h7oT", 
+        "artists": [
+          {
+            "name": "PJ Harvey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+            }, 
+            "uri": "spotify:artist:12VaqyEhgwDRuFfEqbnrpz", 
+            "href": "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz", 
+            "type": "artist", 
+            "id": "12VaqyEhgwDRuFfEqbnrpz"
+          }
+        ], 
+        "duration_ms": 199960, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "1EQBy9gTZFl0HdfcI7h7oT"
+      }, 
+      {
+        "name": "Kamikaze", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2ldaIDFggoUhuLC10gumHe"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9591fff8db017662eaa45b4fcd72e357c401b445", 
+        "is_playable": true, 
+        "uri": "spotify:track:2ldaIDFggoUhuLC10gumHe", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2ldaIDFggoUhuLC10gumHe", 
+        "artists": [
+          {
+            "name": "PJ Harvey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+            }, 
+            "uri": "spotify:artist:12VaqyEhgwDRuFfEqbnrpz", 
+            "href": "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz", 
+            "type": "artist", 
+            "id": "12VaqyEhgwDRuFfEqbnrpz"
+          }
+        ], 
+        "duration_ms": 143573, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "2ldaIDFggoUhuLC10gumHe"
+      }, 
+      {
+        "name": "This Is Love", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5H5Ts04goEtHQ205LejQZX"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1f9d285b391c57d67f0c8c9c9c95183590e62a06", 
+        "is_playable": true, 
+        "uri": "spotify:track:5H5Ts04goEtHQ205LejQZX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5H5Ts04goEtHQ205LejQZX", 
+        "artists": [
+          {
+            "name": "PJ Harvey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+            }, 
+            "uri": "spotify:artist:12VaqyEhgwDRuFfEqbnrpz", 
+            "href": "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz", 
+            "type": "artist", 
+            "id": "12VaqyEhgwDRuFfEqbnrpz"
+          }
+        ], 
+        "duration_ms": 227533, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "5H5Ts04goEtHQ205LejQZX"
+      }, 
+      {
+        "name": "Horses In My Dreams", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1JhoLDSibkiFXnZPeSBb4U"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7d3b36378565283ed5fa9efd7240e5d9bc75e367", 
+        "is_playable": true, 
+        "uri": "spotify:track:1JhoLDSibkiFXnZPeSBb4U", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1JhoLDSibkiFXnZPeSBb4U", 
+        "artists": [
+          {
+            "name": "PJ Harvey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+            }, 
+            "uri": "spotify:artist:12VaqyEhgwDRuFfEqbnrpz", 
+            "href": "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz", 
+            "type": "artist", 
+            "id": "12VaqyEhgwDRuFfEqbnrpz"
+          }
+        ], 
+        "duration_ms": 337493, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "1JhoLDSibkiFXnZPeSBb4U"
+      }, 
+      {
+        "name": "We Float", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2fbjavDL2SjdEJBYa0hu8r"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ccc7bad91253476522a544dc05060bbedb378c0e", 
+        "is_playable": true, 
+        "uri": "spotify:track:2fbjavDL2SjdEJBYa0hu8r", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2fbjavDL2SjdEJBYa0hu8r", 
+        "artists": [
+          {
+            "name": "PJ Harvey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+            }, 
+            "uri": "spotify:artist:12VaqyEhgwDRuFfEqbnrpz", 
+            "href": "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz", 
+            "type": "artist", 
+            "id": "12VaqyEhgwDRuFfEqbnrpz"
+          }
+        ], 
+        "duration_ms": 369173, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "2fbjavDL2SjdEJBYa0hu8r"
+      }, 
+      {
+        "name": "This Wicked Tongue", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5XlLm7JzQuuJnIRuFlZqud"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7e9d05d1f4c582318cd93b6bb3f059929d715fd9", 
+        "is_playable": true, 
+        "uri": "spotify:track:5XlLm7JzQuuJnIRuFlZqud", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5XlLm7JzQuuJnIRuFlZqud", 
+        "artists": [
+          {
+            "name": "PJ Harvey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+            }, 
+            "uri": "spotify:artist:12VaqyEhgwDRuFfEqbnrpz", 
+            "href": "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz", 
+            "type": "artist", 
+            "id": "12VaqyEhgwDRuFfEqbnrpz"
+          }
+        ], 
+        "duration_ms": 353066, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "5XlLm7JzQuuJnIRuFlZqud"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/0cJAiqO1obIJQGf4YI31q4/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 13, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/0cJAiqO1obIJQGf4YI31q4", 
+  "copyrights": [
+    {
+      "text": "(C) 2000 Universal Island Records Ltd. A Universal Music Company.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 2000 Universal Island Records Ltd. A Universal Music Company.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "PJ Harvey", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+      }, 
+      "uri": "spotify:artist:12VaqyEhgwDRuFfEqbnrpz", 
+      "href": "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz", 
+      "type": "artist", 
+      "id": "12VaqyEhgwDRuFfEqbnrpz"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/f1dd7827d0bbb75d69b82081c8049311b27ca371", 
+      "width": 640, 
+      "height": 634
+    }, 
+    {
+      "url": "https://i.scdn.co/image/d666c791fcc9f8e13842a5026e2d1eab672c7f77", 
+      "width": 300, 
+      "height": 297
+    }, 
+    {
+      "url": "https://i.scdn.co/image/4b898181c9da832fe919059f084da76d75d6628d", 
+      "width": 64, 
+      "height": 63
+    }
+  ], 
+  "external_ids": {
+    "upc": "00731454814522"
+  }, 
+  "type": "album", 
+  "id": "0cJAiqO1obIJQGf4YI31q4", 
+  "name": "Stories From The City, Stories From The Sea"
+}

@@ -1,0 +1,431 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3QyqhSxACBlGzsai7TqB1G"
+  }, 
+  "release_date": "1978-01-01", 
+  "popularity": 44, 
+  "genres": [], 
+  "uri": "spotify:album:3QyqhSxACBlGzsai7TqB1G", 
+  "tracks": {
+    "items": [
+      {
+        "name": "No Action", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0k82VIkfiWXRTO92vf4K0h"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/85dd46ae0adb93dcd99acdf28c484a111c5440ad", 
+        "is_playable": true, 
+        "uri": "spotify:track:0k82VIkfiWXRTO92vf4K0h", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0k82VIkfiWXRTO92vf4K0h", 
+        "artists": [
+          {
+            "name": "Elvis Costello & The Attractions", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+            }, 
+            "uri": "spotify:artist:4qmHkMxr6pTWh5Zo74odpH", 
+            "href": "https://api.spotify.com/v1/artists/4qmHkMxr6pTWh5Zo74odpH", 
+            "type": "artist", 
+            "id": "4qmHkMxr6pTWh5Zo74odpH"
+          }
+        ], 
+        "duration_ms": 121093, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "0k82VIkfiWXRTO92vf4K0h"
+      }, 
+      {
+        "name": "This Year's Girl", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5snebosbAFqfMINQmrjLjf"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e5f4e87861ff3b70de5dfaf13841de35558fc01a", 
+        "is_playable": true, 
+        "uri": "spotify:track:5snebosbAFqfMINQmrjLjf", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5snebosbAFqfMINQmrjLjf", 
+        "artists": [
+          {
+            "name": "Elvis Costello & The Attractions", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+            }, 
+            "uri": "spotify:artist:4qmHkMxr6pTWh5Zo74odpH", 
+            "href": "https://api.spotify.com/v1/artists/4qmHkMxr6pTWh5Zo74odpH", 
+            "type": "artist", 
+            "id": "4qmHkMxr6pTWh5Zo74odpH"
+          }
+        ], 
+        "duration_ms": 200853, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "5snebosbAFqfMINQmrjLjf"
+      }, 
+      {
+        "name": "The Beat", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5XwUkaGG0QoPTuc1vsiRjs"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/92800cbed049021b9680b9cf4f0550d9cc082427", 
+        "is_playable": true, 
+        "uri": "spotify:track:5XwUkaGG0QoPTuc1vsiRjs", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5XwUkaGG0QoPTuc1vsiRjs", 
+        "artists": [
+          {
+            "name": "Elvis Costello & The Attractions", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+            }, 
+            "uri": "spotify:artist:4qmHkMxr6pTWh5Zo74odpH", 
+            "href": "https://api.spotify.com/v1/artists/4qmHkMxr6pTWh5Zo74odpH", 
+            "type": "artist", 
+            "id": "4qmHkMxr6pTWh5Zo74odpH"
+          }
+        ], 
+        "duration_ms": 228973, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "5XwUkaGG0QoPTuc1vsiRjs"
+      }, 
+      {
+        "name": "Pump It Up", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4bFm79yfwt8CLDFpuBELtP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/dd90c2d232e3bc37d154916af244dca8ecb02e65", 
+        "is_playable": true, 
+        "uri": "spotify:track:4bFm79yfwt8CLDFpuBELtP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4bFm79yfwt8CLDFpuBELtP", 
+        "artists": [
+          {
+            "name": "Elvis Costello & The Attractions", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+            }, 
+            "uri": "spotify:artist:4qmHkMxr6pTWh5Zo74odpH", 
+            "href": "https://api.spotify.com/v1/artists/4qmHkMxr6pTWh5Zo74odpH", 
+            "type": "artist", 
+            "id": "4qmHkMxr6pTWh5Zo74odpH"
+          }
+        ], 
+        "duration_ms": 196680, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "4bFm79yfwt8CLDFpuBELtP"
+      }, 
+      {
+        "name": "Little Triggers", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5ffjDgMMFMULL7vP0x3Hmd"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/53af80f3da71cb75985d9dbc7e86e6ca2fc17160", 
+        "is_playable": true, 
+        "uri": "spotify:track:5ffjDgMMFMULL7vP0x3Hmd", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5ffjDgMMFMULL7vP0x3Hmd", 
+        "artists": [
+          {
+            "name": "Elvis Costello & The Attractions", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+            }, 
+            "uri": "spotify:artist:4qmHkMxr6pTWh5Zo74odpH", 
+            "href": "https://api.spotify.com/v1/artists/4qmHkMxr6pTWh5Zo74odpH", 
+            "type": "artist", 
+            "id": "4qmHkMxr6pTWh5Zo74odpH"
+          }
+        ], 
+        "duration_ms": 163640, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "5ffjDgMMFMULL7vP0x3Hmd"
+      }, 
+      {
+        "name": "You Belong To Me", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4XdhUOJAZfkKu8PKANIwVD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/094506c6a5c071280881b0450bae5172189ad59e", 
+        "is_playable": true, 
+        "uri": "spotify:track:4XdhUOJAZfkKu8PKANIwVD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4XdhUOJAZfkKu8PKANIwVD", 
+        "artists": [
+          {
+            "name": "Elvis Costello & The Attractions", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+            }, 
+            "uri": "spotify:artist:4qmHkMxr6pTWh5Zo74odpH", 
+            "href": "https://api.spotify.com/v1/artists/4qmHkMxr6pTWh5Zo74odpH", 
+            "type": "artist", 
+            "id": "4qmHkMxr6pTWh5Zo74odpH"
+          }
+        ], 
+        "duration_ms": 143120, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "4XdhUOJAZfkKu8PKANIwVD"
+      }, 
+      {
+        "name": "Hand In Hand", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/32NtXK4ImUZpOzb7Eiz0gE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/515a20c04523245586209e3c9bf19a51b729ab1d", 
+        "is_playable": true, 
+        "uri": "spotify:track:32NtXK4ImUZpOzb7Eiz0gE", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/32NtXK4ImUZpOzb7Eiz0gE", 
+        "artists": [
+          {
+            "name": "Elvis Costello & The Attractions", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+            }, 
+            "uri": "spotify:artist:4qmHkMxr6pTWh5Zo74odpH", 
+            "href": "https://api.spotify.com/v1/artists/4qmHkMxr6pTWh5Zo74odpH", 
+            "type": "artist", 
+            "id": "4qmHkMxr6pTWh5Zo74odpH"
+          }
+        ], 
+        "duration_ms": 156653, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "32NtXK4ImUZpOzb7Eiz0gE"
+      }, 
+      {
+        "name": "(I Don't Want To Go To) Chelsea", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/57AcKHujEpdhXayUDuGj6n"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/641c4ddf82390c77ede7c0dc776a7f24fb0043d5", 
+        "is_playable": true, 
+        "uri": "spotify:track:57AcKHujEpdhXayUDuGj6n", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/57AcKHujEpdhXayUDuGj6n", 
+        "artists": [
+          {
+            "name": "Elvis Costello & The Attractions", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+            }, 
+            "uri": "spotify:artist:4qmHkMxr6pTWh5Zo74odpH", 
+            "href": "https://api.spotify.com/v1/artists/4qmHkMxr6pTWh5Zo74odpH", 
+            "type": "artist", 
+            "id": "4qmHkMxr6pTWh5Zo74odpH"
+          }
+        ], 
+        "duration_ms": 190306, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "57AcKHujEpdhXayUDuGj6n"
+      }, 
+      {
+        "name": "Lip Service", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7Du1KzjxQKjk0qBYNsMtC0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/85b8cd930c7a450d8c7b46dc15203c1322b5a248", 
+        "is_playable": true, 
+        "uri": "spotify:track:7Du1KzjxQKjk0qBYNsMtC0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7Du1KzjxQKjk0qBYNsMtC0", 
+        "artists": [
+          {
+            "name": "Elvis Costello & The Attractions", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+            }, 
+            "uri": "spotify:artist:4qmHkMxr6pTWh5Zo74odpH", 
+            "href": "https://api.spotify.com/v1/artists/4qmHkMxr6pTWh5Zo74odpH", 
+            "type": "artist", 
+            "id": "4qmHkMxr6pTWh5Zo74odpH"
+          }
+        ], 
+        "duration_ms": 159213, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "7Du1KzjxQKjk0qBYNsMtC0"
+      }, 
+      {
+        "name": "Living In Paradise", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1giT2jLrje6LmcxkhdVt4C"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0fb751ea047ac913897f6a4ac1da98a3d168a3ca", 
+        "is_playable": true, 
+        "uri": "spotify:track:1giT2jLrje6LmcxkhdVt4C", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1giT2jLrje6LmcxkhdVt4C", 
+        "artists": [
+          {
+            "name": "Elvis Costello & The Attractions", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+            }, 
+            "uri": "spotify:artist:4qmHkMxr6pTWh5Zo74odpH", 
+            "href": "https://api.spotify.com/v1/artists/4qmHkMxr6pTWh5Zo74odpH", 
+            "type": "artist", 
+            "id": "4qmHkMxr6pTWh5Zo74odpH"
+          }
+        ], 
+        "duration_ms": 227080, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "1giT2jLrje6LmcxkhdVt4C"
+      }, 
+      {
+        "name": "Lipstick Vogue", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2cEmwsy6c9qDdO8LaH7fSL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/839346803b7c5d5fc992f320f0c2ecf0ce20a4b0", 
+        "is_playable": true, 
+        "uri": "spotify:track:2cEmwsy6c9qDdO8LaH7fSL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2cEmwsy6c9qDdO8LaH7fSL", 
+        "artists": [
+          {
+            "name": "Elvis Costello & The Attractions", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+            }, 
+            "uri": "spotify:artist:4qmHkMxr6pTWh5Zo74odpH", 
+            "href": "https://api.spotify.com/v1/artists/4qmHkMxr6pTWh5Zo74odpH", 
+            "type": "artist", 
+            "id": "4qmHkMxr6pTWh5Zo74odpH"
+          }
+        ], 
+        "duration_ms": 213413, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "2cEmwsy6c9qDdO8LaH7fSL"
+      }, 
+      {
+        "name": "Night Rally", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5DrN0Lmaphcsj4ppfgNKUW"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/518ca3c88bad57f96af98440cd65869275be0c95", 
+        "is_playable": true, 
+        "uri": "spotify:track:5DrN0Lmaphcsj4ppfgNKUW", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5DrN0Lmaphcsj4ppfgNKUW", 
+        "artists": [
+          {
+            "name": "Elvis Costello & The Attractions", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+            }, 
+            "uri": "spotify:artist:4qmHkMxr6pTWh5Zo74odpH", 
+            "href": "https://api.spotify.com/v1/artists/4qmHkMxr6pTWh5Zo74odpH", 
+            "type": "artist", 
+            "id": "4qmHkMxr6pTWh5Zo74odpH"
+          }
+        ], 
+        "duration_ms": 162506, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "5DrN0Lmaphcsj4ppfgNKUW"
+      }, 
+      {
+        "name": "Radio, Radio", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5id89YEeE3dRcUlHuovFEz"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/846159d89640749e8ec744940099c940aabd68cb", 
+        "is_playable": true, 
+        "uri": "spotify:track:5id89YEeE3dRcUlHuovFEz", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5id89YEeE3dRcUlHuovFEz", 
+        "artists": [
+          {
+            "name": "Elvis Costello & The Attractions", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+            }, 
+            "uri": "spotify:artist:4qmHkMxr6pTWh5Zo74odpH", 
+            "href": "https://api.spotify.com/v1/artists/4qmHkMxr6pTWh5Zo74odpH", 
+            "type": "artist", 
+            "id": "4qmHkMxr6pTWh5Zo74odpH"
+          }
+        ], 
+        "duration_ms": 186213, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "5id89YEeE3dRcUlHuovFEz"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/3QyqhSxACBlGzsai7TqB1G/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 13, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/3QyqhSxACBlGzsai7TqB1G", 
+  "copyrights": [
+    {
+      "text": "(C) 2007 Elvis Costello", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1978 Elvis Costello", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Elvis Costello & The Attractions", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+      }, 
+      "uri": "spotify:artist:4qmHkMxr6pTWh5Zo74odpH", 
+      "href": "https://api.spotify.com/v1/artists/4qmHkMxr6pTWh5Zo74odpH", 
+      "type": "artist", 
+      "id": "4qmHkMxr6pTWh5Zo74odpH"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/a904df3c8a5b4ade5e465b7fd7037335a46a4a0f", 
+      "width": 640, 
+      "height": 576
+    }, 
+    {
+      "url": "https://i.scdn.co/image/317126abc2cd089cfc2d9446b202a93d20edc790", 
+      "width": 300, 
+      "height": 270
+    }, 
+    {
+      "url": "https://i.scdn.co/image/07a2c8513acaca142707ab47d158557cd115759a", 
+      "width": 64, 
+      "height": 58
+    }
+  ], 
+  "external_ids": {
+    "upc": "00602517260894"
+  }, 
+  "type": "album", 
+  "id": "3QyqhSxACBlGzsai7TqB1G", 
+  "name": "This Year's Model"
+}

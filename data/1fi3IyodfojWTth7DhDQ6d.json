@@ -1,0 +1,399 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1fi3IyodfojWTth7DhDQ6d"
+  }, 
+  "release_date": "1996-04-20", 
+  "popularity": 49, 
+  "genres": [], 
+  "uri": "spotify:album:1fi3IyodfojWTth7DhDQ6d", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Elvis Impersonator: Blackpool Pier", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6QN0JoTCJktAjVbikvUva2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e607e32fabba233cbf53af05cac02154e4b377dd", 
+        "is_playable": true, 
+        "uri": "spotify:track:6QN0JoTCJktAjVbikvUva2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6QN0JoTCJktAjVbikvUva2", 
+        "artists": [
+          {
+            "name": "Manic Street Preachers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
+            }, 
+            "uri": "spotify:artist:2uH0RyPcX7fnCcT90HFDQX", 
+            "href": "https://api.spotify.com/v1/artists/2uH0RyPcX7fnCcT90HFDQX", 
+            "type": "artist", 
+            "id": "2uH0RyPcX7fnCcT90HFDQX"
+          }
+        ], 
+        "duration_ms": 209400, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "6QN0JoTCJktAjVbikvUva2"
+      }, 
+      {
+        "name": "A Design for Life", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7KxK13xRxTz6JlDtGG9GzL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4f7bb74d4550f1408742abc1c69244965f4720ed", 
+        "is_playable": true, 
+        "uri": "spotify:track:7KxK13xRxTz6JlDtGG9GzL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7KxK13xRxTz6JlDtGG9GzL", 
+        "artists": [
+          {
+            "name": "Manic Street Preachers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
+            }, 
+            "uri": "spotify:artist:2uH0RyPcX7fnCcT90HFDQX", 
+            "href": "https://api.spotify.com/v1/artists/2uH0RyPcX7fnCcT90HFDQX", 
+            "type": "artist", 
+            "id": "2uH0RyPcX7fnCcT90HFDQX"
+          }
+        ], 
+        "duration_ms": 256933, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "7KxK13xRxTz6JlDtGG9GzL"
+      }, 
+      {
+        "name": "Kevin Carter", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5YfxqyhDiXTGC0b1KWHmJ4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1a080a38cf757ca88c2ab017a800ee676c7b39a8", 
+        "is_playable": true, 
+        "uri": "spotify:track:5YfxqyhDiXTGC0b1KWHmJ4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5YfxqyhDiXTGC0b1KWHmJ4", 
+        "artists": [
+          {
+            "name": "Manic Street Preachers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
+            }, 
+            "uri": "spotify:artist:2uH0RyPcX7fnCcT90HFDQX", 
+            "href": "https://api.spotify.com/v1/artists/2uH0RyPcX7fnCcT90HFDQX", 
+            "type": "artist", 
+            "id": "2uH0RyPcX7fnCcT90HFDQX"
+          }
+        ], 
+        "duration_ms": 204800, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "5YfxqyhDiXTGC0b1KWHmJ4"
+      }, 
+      {
+        "name": "Enola/Alone", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6uh0GkTcRMd38Yhm356YDA"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c91beb7a1b96d2c54231c1b8d581d5054c78d5d6", 
+        "is_playable": true, 
+        "uri": "spotify:track:6uh0GkTcRMd38Yhm356YDA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6uh0GkTcRMd38Yhm356YDA", 
+        "artists": [
+          {
+            "name": "Manic Street Preachers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
+            }, 
+            "uri": "spotify:artist:2uH0RyPcX7fnCcT90HFDQX", 
+            "href": "https://api.spotify.com/v1/artists/2uH0RyPcX7fnCcT90HFDQX", 
+            "type": "artist", 
+            "id": "2uH0RyPcX7fnCcT90HFDQX"
+          }
+        ], 
+        "duration_ms": 247733, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "6uh0GkTcRMd38Yhm356YDA"
+      }, 
+      {
+        "name": "Everything Must Go", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0mX3QD1FSB6a55vDmS78kZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/01550e4b2d7ede503b30d8a2699206f55667edb3", 
+        "is_playable": true, 
+        "uri": "spotify:track:0mX3QD1FSB6a55vDmS78kZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0mX3QD1FSB6a55vDmS78kZ", 
+        "artists": [
+          {
+            "name": "Manic Street Preachers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
+            }, 
+            "uri": "spotify:artist:2uH0RyPcX7fnCcT90HFDQX", 
+            "href": "https://api.spotify.com/v1/artists/2uH0RyPcX7fnCcT90HFDQX", 
+            "type": "artist", 
+            "id": "2uH0RyPcX7fnCcT90HFDQX"
+          }
+        ], 
+        "duration_ms": 221226, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "0mX3QD1FSB6a55vDmS78kZ"
+      }, 
+      {
+        "name": "Small Black Flowers That Grow In the Sky", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1zsbdNmMTUxG3h6Bx763un"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4961e41a703edb4f278ec6563ee827931167d7c5", 
+        "is_playable": true, 
+        "uri": "spotify:track:1zsbdNmMTUxG3h6Bx763un", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1zsbdNmMTUxG3h6Bx763un", 
+        "artists": [
+          {
+            "name": "Manic Street Preachers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
+            }, 
+            "uri": "spotify:artist:2uH0RyPcX7fnCcT90HFDQX", 
+            "href": "https://api.spotify.com/v1/artists/2uH0RyPcX7fnCcT90HFDQX", 
+            "type": "artist", 
+            "id": "2uH0RyPcX7fnCcT90HFDQX"
+          }
+        ], 
+        "duration_ms": 182240, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "1zsbdNmMTUxG3h6Bx763un"
+      }, 
+      {
+        "name": "The Girl Who Wanted To Be God", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3WjHrEOMVsjketfMEdC2Jr"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ed3d562f7be8339b25371153aaa004e1b2b33d1f", 
+        "is_playable": true, 
+        "uri": "spotify:track:3WjHrEOMVsjketfMEdC2Jr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3WjHrEOMVsjketfMEdC2Jr", 
+        "artists": [
+          {
+            "name": "Manic Street Preachers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
+            }, 
+            "uri": "spotify:artist:2uH0RyPcX7fnCcT90HFDQX", 
+            "href": "https://api.spotify.com/v1/artists/2uH0RyPcX7fnCcT90HFDQX", 
+            "type": "artist", 
+            "id": "2uH0RyPcX7fnCcT90HFDQX"
+          }
+        ], 
+        "duration_ms": 215133, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "3WjHrEOMVsjketfMEdC2Jr"
+      }, 
+      {
+        "name": "Removables", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0KPCCsHdhNeEDQoTFblyQH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f0e139e4d043a14a3c66a777bbbe2f89910632df", 
+        "is_playable": true, 
+        "uri": "spotify:track:0KPCCsHdhNeEDQoTFblyQH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0KPCCsHdhNeEDQoTFblyQH", 
+        "artists": [
+          {
+            "name": "Manic Street Preachers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
+            }, 
+            "uri": "spotify:artist:2uH0RyPcX7fnCcT90HFDQX", 
+            "href": "https://api.spotify.com/v1/artists/2uH0RyPcX7fnCcT90HFDQX", 
+            "type": "artist", 
+            "id": "2uH0RyPcX7fnCcT90HFDQX"
+          }
+        ], 
+        "duration_ms": 211426, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "0KPCCsHdhNeEDQoTFblyQH"
+      }, 
+      {
+        "name": "Australia", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3hSfp5mSf8DDxTD1SzhSVu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/62f5bdf5eeb853f4b251fc81045bb93b0712fea5", 
+        "is_playable": true, 
+        "uri": "spotify:track:3hSfp5mSf8DDxTD1SzhSVu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3hSfp5mSf8DDxTD1SzhSVu", 
+        "artists": [
+          {
+            "name": "Manic Street Preachers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
+            }, 
+            "uri": "spotify:artist:2uH0RyPcX7fnCcT90HFDQX", 
+            "href": "https://api.spotify.com/v1/artists/2uH0RyPcX7fnCcT90HFDQX", 
+            "type": "artist", 
+            "id": "2uH0RyPcX7fnCcT90HFDQX"
+          }
+        ], 
+        "duration_ms": 244333, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "3hSfp5mSf8DDxTD1SzhSVu"
+      }, 
+      {
+        "name": "Interiors (Song For Willem De Kooning)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4XKTF0ZMSeMPI3smmCz2f5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4b9632c26549336028f18d6d257e35401211a711", 
+        "is_playable": true, 
+        "uri": "spotify:track:4XKTF0ZMSeMPI3smmCz2f5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4XKTF0ZMSeMPI3smmCz2f5", 
+        "artists": [
+          {
+            "name": "Manic Street Preachers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
+            }, 
+            "uri": "spotify:artist:2uH0RyPcX7fnCcT90HFDQX", 
+            "href": "https://api.spotify.com/v1/artists/2uH0RyPcX7fnCcT90HFDQX", 
+            "type": "artist", 
+            "id": "2uH0RyPcX7fnCcT90HFDQX"
+          }
+        ], 
+        "duration_ms": 257466, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "4XKTF0ZMSeMPI3smmCz2f5"
+      }, 
+      {
+        "name": "Further Away", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/49VZ4VsE6GhVfDAYHeySgP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ceeb7c8773fa1ec583933cfd9e77c145f25520d4", 
+        "is_playable": true, 
+        "uri": "spotify:track:49VZ4VsE6GhVfDAYHeySgP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/49VZ4VsE6GhVfDAYHeySgP", 
+        "artists": [
+          {
+            "name": "Manic Street Preachers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
+            }, 
+            "uri": "spotify:artist:2uH0RyPcX7fnCcT90HFDQX", 
+            "href": "https://api.spotify.com/v1/artists/2uH0RyPcX7fnCcT90HFDQX", 
+            "type": "artist", 
+            "id": "2uH0RyPcX7fnCcT90HFDQX"
+          }
+        ], 
+        "duration_ms": 218733, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "49VZ4VsE6GhVfDAYHeySgP"
+      }, 
+      {
+        "name": "No Surface All Feeling", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4L86Us0bgO34gGrj07fku6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/86ab05c390a73c3b2638c54e90564114e444bf37", 
+        "is_playable": true, 
+        "uri": "spotify:track:4L86Us0bgO34gGrj07fku6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4L86Us0bgO34gGrj07fku6", 
+        "artists": [
+          {
+            "name": "Manic Street Preachers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
+            }, 
+            "uri": "spotify:artist:2uH0RyPcX7fnCcT90HFDQX", 
+            "href": "https://api.spotify.com/v1/artists/2uH0RyPcX7fnCcT90HFDQX", 
+            "type": "artist", 
+            "id": "2uH0RyPcX7fnCcT90HFDQX"
+          }
+        ], 
+        "duration_ms": 254440, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "4L86Us0bgO34gGrj07fku6"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/1fi3IyodfojWTth7DhDQ6d/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 12, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/1fi3IyodfojWTth7DhDQ6d", 
+  "copyrights": [
+    {
+      "text": "1996 Sony Music Entertainment (UK) Ltd.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Manic Street Preachers", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
+      }, 
+      "uri": "spotify:artist:2uH0RyPcX7fnCcT90HFDQX", 
+      "href": "https://api.spotify.com/v1/artists/2uH0RyPcX7fnCcT90HFDQX", 
+      "type": "artist", 
+      "id": "2uH0RyPcX7fnCcT90HFDQX"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/65615a2453abf1c3e683029d52d256ff184269e7", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/9c6236cea357a98050dca85035efa7ed4a8db58a", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/82ca8d7b3badae3bf9c2363a645921abdc0da2bf", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "5099748393029"
+  }, 
+  "type": "album", 
+  "id": "1fi3IyodfojWTth7DhDQ6d", 
+  "name": "Everything Must Go"
+}

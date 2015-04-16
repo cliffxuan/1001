@@ -1,0 +1,347 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/010qZDvXVmszJv4ncbEZBh"
+  }, 
+  "release_date": "1985-01-01", 
+  "popularity": 13, 
+  "genres": [], 
+  "uri": "spotify:album:010qZDvXVmszJv4ncbEZBh", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Chivalry", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1CKMa75H8QjoF14mnZi49H"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4ad1ce9b60d07af1b4fda7229666a4d96d8f515e", 
+        "is_playable": true, 
+        "uri": "spotify:track:1CKMa75H8QjoF14mnZi49H", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1CKMa75H8QjoF14mnZi49H", 
+        "artists": [
+          {
+            "name": "Mekons", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Ag6UM6dow2OH9V06mxzV5"
+            }, 
+            "uri": "spotify:artist:1Ag6UM6dow2OH9V06mxzV5", 
+            "href": "https://api.spotify.com/v1/artists/1Ag6UM6dow2OH9V06mxzV5", 
+            "type": "artist", 
+            "id": "1Ag6UM6dow2OH9V06mxzV5"
+          }
+        ], 
+        "duration_ms": 243840, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "1CKMa75H8QjoF14mnZi49H"
+      }, 
+      {
+        "name": "Trouble Down South", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0SH7PtY8MqyPNmTDHnRDnn"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2812fe8af20f9c034c4443ccaa4f08d653215df4", 
+        "is_playable": true, 
+        "uri": "spotify:track:0SH7PtY8MqyPNmTDHnRDnn", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0SH7PtY8MqyPNmTDHnRDnn", 
+        "artists": [
+          {
+            "name": "Mekons", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Ag6UM6dow2OH9V06mxzV5"
+            }, 
+            "uri": "spotify:artist:1Ag6UM6dow2OH9V06mxzV5", 
+            "href": "https://api.spotify.com/v1/artists/1Ag6UM6dow2OH9V06mxzV5", 
+            "type": "artist", 
+            "id": "1Ag6UM6dow2OH9V06mxzV5"
+          }
+        ], 
+        "duration_ms": 255106, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "0SH7PtY8MqyPNmTDHnRDnn"
+      }, 
+      {
+        "name": "Hard to Be Human Again", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0jxCafBfPsykVdEnmIzj46"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fa54c5154cd5753e627b681b426861a1d014fcdc", 
+        "is_playable": true, 
+        "uri": "spotify:track:0jxCafBfPsykVdEnmIzj46", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0jxCafBfPsykVdEnmIzj46", 
+        "artists": [
+          {
+            "name": "Mekons", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Ag6UM6dow2OH9V06mxzV5"
+            }, 
+            "uri": "spotify:artist:1Ag6UM6dow2OH9V06mxzV5", 
+            "href": "https://api.spotify.com/v1/artists/1Ag6UM6dow2OH9V06mxzV5", 
+            "type": "artist", 
+            "id": "1Ag6UM6dow2OH9V06mxzV5"
+          }
+        ], 
+        "duration_ms": 238813, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "0jxCafBfPsykVdEnmIzj46"
+      }, 
+      {
+        "name": "Darkness and Doubt", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6stlp5kVXRVf8g11vPnitX"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/dce5a95ab8a109607749d189b69489f16b5d6f06", 
+        "is_playable": true, 
+        "uri": "spotify:track:6stlp5kVXRVf8g11vPnitX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6stlp5kVXRVf8g11vPnitX", 
+        "artists": [
+          {
+            "name": "Mekons", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Ag6UM6dow2OH9V06mxzV5"
+            }, 
+            "uri": "spotify:artist:1Ag6UM6dow2OH9V06mxzV5", 
+            "href": "https://api.spotify.com/v1/artists/1Ag6UM6dow2OH9V06mxzV5", 
+            "type": "artist", 
+            "id": "1Ag6UM6dow2OH9V06mxzV5"
+          }
+        ], 
+        "duration_ms": 315680, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "6stlp5kVXRVf8g11vPnitX"
+      }, 
+      {
+        "name": "Psycho Cupid - Danceband On the Edge of Time", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6P2GoCmDF8i8SaBWM0HkmL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1d2cdd88ce6af2bd7f2784a7332e7d7dc4fcba85", 
+        "is_playable": true, 
+        "uri": "spotify:track:6P2GoCmDF8i8SaBWM0HkmL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6P2GoCmDF8i8SaBWM0HkmL", 
+        "artists": [
+          {
+            "name": "Mekons", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Ag6UM6dow2OH9V06mxzV5"
+            }, 
+            "uri": "spotify:artist:1Ag6UM6dow2OH9V06mxzV5", 
+            "href": "https://api.spotify.com/v1/artists/1Ag6UM6dow2OH9V06mxzV5", 
+            "type": "artist", 
+            "id": "1Ag6UM6dow2OH9V06mxzV5"
+          }
+        ], 
+        "duration_ms": 172133, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "6P2GoCmDF8i8SaBWM0HkmL"
+      }, 
+      {
+        "name": "Flitcraft", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5BfG2hPbgdmCcMWKrp95H0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/07845ae7d1e39250e62fc9f552830cb0d29d0e36", 
+        "is_playable": true, 
+        "uri": "spotify:track:5BfG2hPbgdmCcMWKrp95H0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5BfG2hPbgdmCcMWKrp95H0", 
+        "artists": [
+          {
+            "name": "Mekons", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Ag6UM6dow2OH9V06mxzV5"
+            }, 
+            "uri": "spotify:artist:1Ag6UM6dow2OH9V06mxzV5", 
+            "href": "https://api.spotify.com/v1/artists/1Ag6UM6dow2OH9V06mxzV5", 
+            "type": "artist", 
+            "id": "1Ag6UM6dow2OH9V06mxzV5"
+          }
+        ], 
+        "duration_ms": 203213, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "5BfG2hPbgdmCcMWKrp95H0"
+      }, 
+      {
+        "name": "Country", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/35IxleE4XlZjKcQHUnBU45"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f8c32beb87b3c919e226c37f823e2a3bce9391e1", 
+        "is_playable": true, 
+        "uri": "spotify:track:35IxleE4XlZjKcQHUnBU45", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/35IxleE4XlZjKcQHUnBU45", 
+        "artists": [
+          {
+            "name": "Mekons", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Ag6UM6dow2OH9V06mxzV5"
+            }, 
+            "uri": "spotify:artist:1Ag6UM6dow2OH9V06mxzV5", 
+            "href": "https://api.spotify.com/v1/artists/1Ag6UM6dow2OH9V06mxzV5", 
+            "type": "artist", 
+            "id": "1Ag6UM6dow2OH9V06mxzV5"
+          }
+        ], 
+        "duration_ms": 174560, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "35IxleE4XlZjKcQHUnBU45"
+      }, 
+      {
+        "name": "Abernant 1984/5", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2kkUZ3JhJvWJXseeDgbY2P"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a175aeb6cf20b5079480df87cd8b0cce6b1d6b43", 
+        "is_playable": true, 
+        "uri": "spotify:track:2kkUZ3JhJvWJXseeDgbY2P", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2kkUZ3JhJvWJXseeDgbY2P", 
+        "artists": [
+          {
+            "name": "Mekons", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Ag6UM6dow2OH9V06mxzV5"
+            }, 
+            "uri": "spotify:artist:1Ag6UM6dow2OH9V06mxzV5", 
+            "href": "https://api.spotify.com/v1/artists/1Ag6UM6dow2OH9V06mxzV5", 
+            "type": "artist", 
+            "id": "1Ag6UM6dow2OH9V06mxzV5"
+          }
+        ], 
+        "duration_ms": 141080, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "2kkUZ3JhJvWJXseeDgbY2P"
+      }, 
+      {
+        "name": "Last Dance", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6wjSaqf7EgGnkMlue9qvjD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2815eda020f17d388928487044f3265c975e11fc", 
+        "is_playable": true, 
+        "uri": "spotify:track:6wjSaqf7EgGnkMlue9qvjD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6wjSaqf7EgGnkMlue9qvjD", 
+        "artists": [
+          {
+            "name": "Mekons", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Ag6UM6dow2OH9V06mxzV5"
+            }, 
+            "uri": "spotify:artist:1Ag6UM6dow2OH9V06mxzV5", 
+            "href": "https://api.spotify.com/v1/artists/1Ag6UM6dow2OH9V06mxzV5", 
+            "type": "artist", 
+            "id": "1Ag6UM6dow2OH9V06mxzV5"
+          }
+        ], 
+        "duration_ms": 193306, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "6wjSaqf7EgGnkMlue9qvjD"
+      }, 
+      {
+        "name": "Lost Highway", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2xMAzV3HSzsvZMvvFnT3fb"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/be5e43e16dd5edbb9935329532d2e83d9f989f8f", 
+        "is_playable": true, 
+        "uri": "spotify:track:2xMAzV3HSzsvZMvvFnT3fb", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2xMAzV3HSzsvZMvvFnT3fb", 
+        "artists": [
+          {
+            "name": "Mekons", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Ag6UM6dow2OH9V06mxzV5"
+            }, 
+            "uri": "spotify:artist:1Ag6UM6dow2OH9V06mxzV5", 
+            "href": "https://api.spotify.com/v1/artists/1Ag6UM6dow2OH9V06mxzV5", 
+            "type": "artist", 
+            "id": "1Ag6UM6dow2OH9V06mxzV5"
+          }
+        ], 
+        "duration_ms": 179693, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "2xMAzV3HSzsvZMvvFnT3fb"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/010qZDvXVmszJv4ncbEZBh/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 10, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/010qZDvXVmszJv4ncbEZBh", 
+  "copyrights": [
+    {
+      "text": "2002 Quarterstick Records", 
+      "type": "C"
+    }, 
+    {
+      "text": "2002 Quarterstick Records", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Mekons", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Ag6UM6dow2OH9V06mxzV5"
+      }, 
+      "uri": "spotify:artist:1Ag6UM6dow2OH9V06mxzV5", 
+      "href": "https://api.spotify.com/v1/artists/1Ag6UM6dow2OH9V06mxzV5", 
+      "type": "artist", 
+      "id": "1Ag6UM6dow2OH9V06mxzV5"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/6e3369454c0f218a0c84a275c7762eab0e0ae2e2", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/add1a760f0b7814dcd3bac18eb980025ae4c011e", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/e0e981d38520f80f601e747f482c8af71ed82fa9", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "036172008063"
+  }, 
+  "type": "album", 
+  "id": "010qZDvXVmszJv4ncbEZBh", 
+  "name": "Fear and Whiskey"
+}

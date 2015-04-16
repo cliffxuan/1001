@@ -1,0 +1,565 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2wOWfpfLWKlMQDsyM5UqqE"
+  }, 
+  "release_date": "2002-11-26", 
+  "popularity": 60, 
+  "genres": [], 
+  "uri": "spotify:album:2wOWfpfLWKlMQDsyM5UqqE", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Phrentrow", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2A38Zg3ShVMwlPKCnSx5lM"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c19a2e681e84fc650b995486e4b80900c1bc8a44", 
+        "is_playable": true, 
+        "uri": "spotify:track:2A38Zg3ShVMwlPKCnSx5lM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2A38Zg3ShVMwlPKCnSx5lM", 
+        "artists": [
+          {
+            "name": "The Roots", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+            }, 
+            "uri": "spotify:artist:78xUyw6FkVZrRAtziFdtdu", 
+            "href": "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu", 
+            "type": "artist", 
+            "id": "78xUyw6FkVZrRAtziFdtdu"
+          }, 
+          {
+            "name": "Ursula Rucker", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HVMTISidSkv0TNur6fmkj"
+            }, 
+            "uri": "spotify:artist:3HVMTISidSkv0TNur6fmkj", 
+            "href": "https://api.spotify.com/v1/artists/3HVMTISidSkv0TNur6fmkj", 
+            "type": "artist", 
+            "id": "3HVMTISidSkv0TNur6fmkj"
+          }
+        ], 
+        "duration_ms": 20626, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "2A38Zg3ShVMwlPKCnSx5lM"
+      }, 
+      {
+        "name": "Rock You", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2ZTbr0dFG5sdCLM9B8W9AO"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f33840d5495afb8bcbd49ba04e02fa5a7908659e", 
+        "is_playable": true, 
+        "uri": "spotify:track:2ZTbr0dFG5sdCLM9B8W9AO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2ZTbr0dFG5sdCLM9B8W9AO", 
+        "artists": [
+          {
+            "name": "The Roots", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+            }, 
+            "uri": "spotify:artist:78xUyw6FkVZrRAtziFdtdu", 
+            "href": "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu", 
+            "type": "artist", 
+            "id": "78xUyw6FkVZrRAtziFdtdu"
+          }
+        ], 
+        "duration_ms": 192786, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "2ZTbr0dFG5sdCLM9B8W9AO"
+      }, 
+      {
+        "name": "!!!!!!!", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2i0gNbCr1S9eyf4Cj1Nr5i"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d2da5dfbfdc143c28f69b29da28eff1f14ca7164", 
+        "is_playable": true, 
+        "uri": "spotify:track:2i0gNbCr1S9eyf4Cj1Nr5i", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2i0gNbCr1S9eyf4Cj1Nr5i", 
+        "artists": [
+          {
+            "name": "The Roots", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+            }, 
+            "uri": "spotify:artist:78xUyw6FkVZrRAtziFdtdu", 
+            "href": "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu", 
+            "type": "artist", 
+            "id": "78xUyw6FkVZrRAtziFdtdu"
+          }
+        ], 
+        "duration_ms": 24653, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "2i0gNbCr1S9eyf4Cj1Nr5i"
+      }, 
+      {
+        "name": "Sacrifice", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5k4O8gWp3g9Ca15qD8Drsb"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3582489f50ff2413fba150d8c1ad8bc51addaf64", 
+        "is_playable": true, 
+        "uri": "spotify:track:5k4O8gWp3g9Ca15qD8Drsb", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5k4O8gWp3g9Ca15qD8Drsb", 
+        "artists": [
+          {
+            "name": "The Roots", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+            }, 
+            "uri": "spotify:artist:78xUyw6FkVZrRAtziFdtdu", 
+            "href": "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu", 
+            "type": "artist", 
+            "id": "78xUyw6FkVZrRAtziFdtdu"
+          }, 
+          {
+            "name": "Nelly Furtado", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+            }, 
+            "uri": "spotify:artist:2jw70GZXlAI8QzWeY2bgRc", 
+            "href": "https://api.spotify.com/v1/artists/2jw70GZXlAI8QzWeY2bgRc", 
+            "type": "artist", 
+            "id": "2jw70GZXlAI8QzWeY2bgRc"
+          }
+        ], 
+        "duration_ms": 284506, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "5k4O8gWp3g9Ca15qD8Drsb"
+      }, 
+      {
+        "name": "Rolling With Heat", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6l3NK0NnnsBIkwBgQSf9pp"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4c53ae08c49192124be7e76219136bd2a8288c94", 
+        "is_playable": true, 
+        "uri": "spotify:track:6l3NK0NnnsBIkwBgQSf9pp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6l3NK0NnnsBIkwBgQSf9pp", 
+        "artists": [
+          {
+            "name": "The Roots", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+            }, 
+            "uri": "spotify:artist:78xUyw6FkVZrRAtziFdtdu", 
+            "href": "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu", 
+            "type": "artist", 
+            "id": "78xUyw6FkVZrRAtziFdtdu"
+          }
+        ], 
+        "duration_ms": 222080, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "6l3NK0NnnsBIkwBgQSf9pp"
+      }, 
+      {
+        "name": "WAOK (Ay) Rollcall", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/322fzyuWMvPISg3uQwFLps"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ceeec6f6bea966e7f408cf4c7b1e499495a4c898", 
+        "is_playable": true, 
+        "uri": "spotify:track:322fzyuWMvPISg3uQwFLps", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/322fzyuWMvPISg3uQwFLps", 
+        "artists": [
+          {
+            "name": "The Roots", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+            }, 
+            "uri": "spotify:artist:78xUyw6FkVZrRAtziFdtdu", 
+            "href": "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu", 
+            "type": "artist", 
+            "id": "78xUyw6FkVZrRAtziFdtdu"
+          }
+        ], 
+        "duration_ms": 60040, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "322fzyuWMvPISg3uQwFLps"
+      }, 
+      {
+        "name": "Thought @ Work", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2ORJz9WZYzwSmAbVYryEOc"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fa7e8ebba6224470c10b8f60184a8131bec7bc3a", 
+        "is_playable": true, 
+        "uri": "spotify:track:2ORJz9WZYzwSmAbVYryEOc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2ORJz9WZYzwSmAbVYryEOc", 
+        "artists": [
+          {
+            "name": "The Roots", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+            }, 
+            "uri": "spotify:artist:78xUyw6FkVZrRAtziFdtdu", 
+            "href": "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu", 
+            "type": "artist", 
+            "id": "78xUyw6FkVZrRAtziFdtdu"
+          }
+        ], 
+        "duration_ms": 283786, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "2ORJz9WZYzwSmAbVYryEOc"
+      }, 
+      {
+        "name": "The Seed (2.0)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0W0BDGgVnwWwMEaWwEZntk"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/427fb246e3b1d429d6ccc5ef79d4c580f501c161", 
+        "is_playable": true, 
+        "uri": "spotify:track:0W0BDGgVnwWwMEaWwEZntk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0W0BDGgVnwWwMEaWwEZntk", 
+        "artists": [
+          {
+            "name": "The Roots", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+            }, 
+            "uri": "spotify:artist:78xUyw6FkVZrRAtziFdtdu", 
+            "href": "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu", 
+            "type": "artist", 
+            "id": "78xUyw6FkVZrRAtziFdtdu"
+          }, 
+          {
+            "name": "Cody Chesnutt", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3sO8muEXafy2NGwUZByrTr"
+            }, 
+            "uri": "spotify:artist:3sO8muEXafy2NGwUZByrTr", 
+            "href": "https://api.spotify.com/v1/artists/3sO8muEXafy2NGwUZByrTr", 
+            "type": "artist", 
+            "id": "3sO8muEXafy2NGwUZByrTr"
+          }
+        ], 
+        "duration_ms": 267933, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "0W0BDGgVnwWwMEaWwEZntk"
+      }, 
+      {
+        "name": "Break You Off", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2rWXpcM2lmlf2i7qCNaXHM"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bb54733dd0375a3de14361b587724025bf560acb", 
+        "is_playable": true, 
+        "uri": "spotify:track:2rWXpcM2lmlf2i7qCNaXHM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2rWXpcM2lmlf2i7qCNaXHM", 
+        "artists": [
+          {
+            "name": "The Roots", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+            }, 
+            "uri": "spotify:artist:78xUyw6FkVZrRAtziFdtdu", 
+            "href": "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu", 
+            "type": "artist", 
+            "id": "78xUyw6FkVZrRAtziFdtdu"
+          }, 
+          {
+            "name": "Musiq Soulchild", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+            }, 
+            "uri": "spotify:artist:3UVRliakQfa1pMWIsNuiZ8", 
+            "href": "https://api.spotify.com/v1/artists/3UVRliakQfa1pMWIsNuiZ8", 
+            "type": "artist", 
+            "id": "3UVRliakQfa1pMWIsNuiZ8"
+          }
+        ], 
+        "duration_ms": 447440, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "2rWXpcM2lmlf2i7qCNaXHM"
+      }, 
+      {
+        "name": "Water", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4aaLLRGK6QcWJaRe8Raqp6"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c290dd5e1ad154d1b7dbd4f2cac12ada268713cf", 
+        "is_playable": true, 
+        "uri": "spotify:track:4aaLLRGK6QcWJaRe8Raqp6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4aaLLRGK6QcWJaRe8Raqp6", 
+        "artists": [
+          {
+            "name": "The Roots", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+            }, 
+            "uri": "spotify:artist:78xUyw6FkVZrRAtziFdtdu", 
+            "href": "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu", 
+            "type": "artist", 
+            "id": "78xUyw6FkVZrRAtziFdtdu"
+          }
+        ], 
+        "duration_ms": 624293, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "4aaLLRGK6QcWJaRe8Raqp6"
+      }, 
+      {
+        "name": "Quills", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/45uTwpW6QajzqYLXYZNGpa"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/59f2dd1c12499e769273bba6e325b3b2fe38f440", 
+        "is_playable": true, 
+        "uri": "spotify:track:45uTwpW6QajzqYLXYZNGpa", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/45uTwpW6QajzqYLXYZNGpa", 
+        "artists": [
+          {
+            "name": "The Roots", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+            }, 
+            "uri": "spotify:artist:78xUyw6FkVZrRAtziFdtdu", 
+            "href": "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu", 
+            "type": "artist", 
+            "id": "78xUyw6FkVZrRAtziFdtdu"
+          }
+        ], 
+        "duration_ms": 226160, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "45uTwpW6QajzqYLXYZNGpa"
+      }, 
+      {
+        "name": "Pussy Galore", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/39W0RWsbTWqcJSuirgwJF4"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f8f89509613b887937342e78a6ef6a1c010be3fe", 
+        "is_playable": true, 
+        "uri": "spotify:track:39W0RWsbTWqcJSuirgwJF4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/39W0RWsbTWqcJSuirgwJF4", 
+        "artists": [
+          {
+            "name": "The Roots", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+            }, 
+            "uri": "spotify:artist:78xUyw6FkVZrRAtziFdtdu", 
+            "href": "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu", 
+            "type": "artist", 
+            "id": "78xUyw6FkVZrRAtziFdtdu"
+          }
+        ], 
+        "duration_ms": 269280, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "39W0RWsbTWqcJSuirgwJF4"
+      }, 
+      {
+        "name": "Complexity", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7xtVHOdq1JfEYDVc6v1gBl"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/64b00bdcb141f35bb7bdf75a81b474bf9c26acf3", 
+        "is_playable": true, 
+        "uri": "spotify:track:7xtVHOdq1JfEYDVc6v1gBl", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7xtVHOdq1JfEYDVc6v1gBl", 
+        "artists": [
+          {
+            "name": "The Roots", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+            }, 
+            "uri": "spotify:artist:78xUyw6FkVZrRAtziFdtdu", 
+            "href": "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu", 
+            "type": "artist", 
+            "id": "78xUyw6FkVZrRAtziFdtdu"
+          }, 
+          {
+            "name": "Jill Scott", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+            }, 
+            "uri": "spotify:artist:6AVLthptCPhfrxlHadOBJD", 
+            "href": "https://api.spotify.com/v1/artists/6AVLthptCPhfrxlHadOBJD", 
+            "type": "artist", 
+            "id": "6AVLthptCPhfrxlHadOBJD"
+          }
+        ], 
+        "duration_ms": 287520, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "7xtVHOdq1JfEYDVc6v1gBl"
+      }, 
+      {
+        "name": "Something In The Way Of Things (In Town) - Vinyl Album Version (Explicit)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/138EHTiD4ahML1RC6vVTCQ"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5887251317331a03a84544d177ba0bb2ee33bbbc", 
+        "is_playable": true, 
+        "uri": "spotify:track:138EHTiD4ahML1RC6vVTCQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/138EHTiD4ahML1RC6vVTCQ", 
+        "artists": [
+          {
+            "name": "The Roots", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+            }, 
+            "uri": "spotify:artist:78xUyw6FkVZrRAtziFdtdu", 
+            "href": "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu", 
+            "type": "artist", 
+            "id": "78xUyw6FkVZrRAtziFdtdu"
+          }
+        ], 
+        "duration_ms": 406333, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "138EHTiD4ahML1RC6vVTCQ"
+      }, 
+      {
+        "name": "Rhymes And Ammo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0LQdayoWY3adY2tLuWA41o"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/50b1bba633341dac19471a1a488c7b1a59116e02", 
+        "is_playable": true, 
+        "uri": "spotify:track:0LQdayoWY3adY2tLuWA41o", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0LQdayoWY3adY2tLuWA41o", 
+        "artists": [
+          {
+            "name": "The Roots", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+            }, 
+            "uri": "spotify:artist:78xUyw6FkVZrRAtziFdtdu", 
+            "href": "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu", 
+            "type": "artist", 
+            "id": "78xUyw6FkVZrRAtziFdtdu"
+          }
+        ], 
+        "duration_ms": 270946, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "0LQdayoWY3adY2tLuWA41o"
+      }, 
+      {
+        "name": "Thirsty! - CD Album Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/30kJB8GLIQyOWc2B5nzslg"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1e6033e483a22f02f6b3d92d08cbeddd27309abe", 
+        "is_playable": true, 
+        "uri": "spotify:track:30kJB8GLIQyOWc2B5nzslg", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/30kJB8GLIQyOWc2B5nzslg", 
+        "artists": [
+          {
+            "name": "The Roots", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+            }, 
+            "uri": "spotify:artist:78xUyw6FkVZrRAtziFdtdu", 
+            "href": "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu", 
+            "type": "artist", 
+            "id": "78xUyw6FkVZrRAtziFdtdu"
+          }
+        ], 
+        "duration_ms": 168133, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "30kJB8GLIQyOWc2B5nzslg"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/2wOWfpfLWKlMQDsyM5UqqE/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 16, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/2wOWfpfLWKlMQDsyM5UqqE", 
+  "copyrights": [
+    {
+      "text": "(C) 2008 Geffen Records", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 2008 Geffen Records", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "The Roots", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+      }, 
+      "uri": "spotify:artist:78xUyw6FkVZrRAtziFdtdu", 
+      "href": "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu", 
+      "type": "artist", 
+      "id": "78xUyw6FkVZrRAtziFdtdu"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/192cf02f76a79c91e1c33b510096582d0e0e3469", 
+      "width": 640, 
+      "height": 634
+    }, 
+    {
+      "url": "https://i.scdn.co/image/ab13f3bb03bf4459db052d2163e2dcf4613bbfb0", 
+      "width": 300, 
+      "height": 297
+    }, 
+    {
+      "url": "https://i.scdn.co/image/0cf27fbbfc6bf49c6988da99fa3d0732d98eccd4", 
+      "width": 64, 
+      "height": 63
+    }
+  ], 
+  "external_ids": {
+    "upc": "00602517737068"
+  }, 
+  "type": "album", 
+  "id": "2wOWfpfLWKlMQDsyM5UqqE", 
+  "name": "Phrenology"
+}

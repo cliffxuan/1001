@@ -1,0 +1,403 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5"
+  }, 
+  "release_date": "1987", 
+  "popularity": 76, 
+  "genres": [], 
+  "uri": "spotify:album:3I9Z1nDCL4E0cP62flcbI5", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Welcome To The Jungle", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0bVtevEgtDIeRjCJbK3Lmv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fce123cfaaf622d4936f6b064857f3f13b25203b", 
+        "is_playable": true, 
+        "uri": "spotify:track:0bVtevEgtDIeRjCJbK3Lmv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0bVtevEgtDIeRjCJbK3Lmv", 
+        "artists": [
+          {
+            "name": "Guns N' Roses", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+            }, 
+            "uri": "spotify:artist:3qm84nBOXUEQ2vnTfUTTFC", 
+            "href": "https://api.spotify.com/v1/artists/3qm84nBOXUEQ2vnTfUTTFC", 
+            "type": "artist", 
+            "id": "3qm84nBOXUEQ2vnTfUTTFC"
+          }
+        ], 
+        "duration_ms": 274026, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "0bVtevEgtDIeRjCJbK3Lmv"
+      }, 
+      {
+        "name": "It's So Easy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/63HA3dpnOmdDcazJ9sDfrh"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4bdb9cafde6dcc4477de5d010b3b5949031d09d8", 
+        "is_playable": true, 
+        "uri": "spotify:track:63HA3dpnOmdDcazJ9sDfrh", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/63HA3dpnOmdDcazJ9sDfrh", 
+        "artists": [
+          {
+            "name": "Guns N' Roses", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+            }, 
+            "uri": "spotify:artist:3qm84nBOXUEQ2vnTfUTTFC", 
+            "href": "https://api.spotify.com/v1/artists/3qm84nBOXUEQ2vnTfUTTFC", 
+            "type": "artist", 
+            "id": "3qm84nBOXUEQ2vnTfUTTFC"
+          }
+        ], 
+        "duration_ms": 203733, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "63HA3dpnOmdDcazJ9sDfrh"
+      }, 
+      {
+        "name": "Nightrain", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2vNw57KPaYDzkyPxXYUORX"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/14b34feb2f6981121f044148a7db3132de3bb0d3", 
+        "is_playable": true, 
+        "uri": "spotify:track:2vNw57KPaYDzkyPxXYUORX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2vNw57KPaYDzkyPxXYUORX", 
+        "artists": [
+          {
+            "name": "Guns N' Roses", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+            }, 
+            "uri": "spotify:artist:3qm84nBOXUEQ2vnTfUTTFC", 
+            "href": "https://api.spotify.com/v1/artists/3qm84nBOXUEQ2vnTfUTTFC", 
+            "type": "artist", 
+            "id": "3qm84nBOXUEQ2vnTfUTTFC"
+          }
+        ], 
+        "duration_ms": 267706, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "2vNw57KPaYDzkyPxXYUORX"
+      }, 
+      {
+        "name": "Out Ta Get Me", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0OgjX682GaRCIdbqerNL6g"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/01063f08539f7551a810a336348fc4d630561137", 
+        "is_playable": true, 
+        "uri": "spotify:track:0OgjX682GaRCIdbqerNL6g", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0OgjX682GaRCIdbqerNL6g", 
+        "artists": [
+          {
+            "name": "Guns N' Roses", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+            }, 
+            "uri": "spotify:artist:3qm84nBOXUEQ2vnTfUTTFC", 
+            "href": "https://api.spotify.com/v1/artists/3qm84nBOXUEQ2vnTfUTTFC", 
+            "type": "artist", 
+            "id": "3qm84nBOXUEQ2vnTfUTTFC"
+          }
+        ], 
+        "duration_ms": 262426, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "0OgjX682GaRCIdbqerNL6g"
+      }, 
+      {
+        "name": "Mr. Brownstone", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4DnEyHNO8MdhFYFrDq73BV"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/189e0b4b918b4df2ec5bb3806d8bd6c64086956b", 
+        "is_playable": true, 
+        "uri": "spotify:track:4DnEyHNO8MdhFYFrDq73BV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4DnEyHNO8MdhFYFrDq73BV", 
+        "artists": [
+          {
+            "name": "Guns N' Roses", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+            }, 
+            "uri": "spotify:artist:3qm84nBOXUEQ2vnTfUTTFC", 
+            "href": "https://api.spotify.com/v1/artists/3qm84nBOXUEQ2vnTfUTTFC", 
+            "type": "artist", 
+            "id": "3qm84nBOXUEQ2vnTfUTTFC"
+          }
+        ], 
+        "duration_ms": 229440, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "4DnEyHNO8MdhFYFrDq73BV"
+      }, 
+      {
+        "name": "Paradise City", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3YBZIN3rekqsKxbJc9FZko"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f1a29168a20b3a376380893a4a5083486e07ca9e", 
+        "is_playable": true, 
+        "uri": "spotify:track:3YBZIN3rekqsKxbJc9FZko", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3YBZIN3rekqsKxbJc9FZko", 
+        "artists": [
+          {
+            "name": "Guns N' Roses", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+            }, 
+            "uri": "spotify:artist:3qm84nBOXUEQ2vnTfUTTFC", 
+            "href": "https://api.spotify.com/v1/artists/3qm84nBOXUEQ2vnTfUTTFC", 
+            "type": "artist", 
+            "id": "3qm84nBOXUEQ2vnTfUTTFC"
+          }
+        ], 
+        "duration_ms": 408906, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "3YBZIN3rekqsKxbJc9FZko"
+      }, 
+      {
+        "name": "My Michelle", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2dyfo7lqKI7NtSAhUZwnoJ"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/877f6fdf44409e53b32bb5c0a4e4d1ec24dad5c6", 
+        "is_playable": true, 
+        "uri": "spotify:track:2dyfo7lqKI7NtSAhUZwnoJ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2dyfo7lqKI7NtSAhUZwnoJ", 
+        "artists": [
+          {
+            "name": "Guns N' Roses", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+            }, 
+            "uri": "spotify:artist:3qm84nBOXUEQ2vnTfUTTFC", 
+            "href": "https://api.spotify.com/v1/artists/3qm84nBOXUEQ2vnTfUTTFC", 
+            "type": "artist", 
+            "id": "3qm84nBOXUEQ2vnTfUTTFC"
+          }
+        ], 
+        "duration_ms": 219293, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "2dyfo7lqKI7NtSAhUZwnoJ"
+      }, 
+      {
+        "name": "Think About You", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3N0QIWlUDUsQJ3UDhKtMRC"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/aad5b00b3a77c4ae177f46d76fe31230a8399635", 
+        "is_playable": true, 
+        "uri": "spotify:track:3N0QIWlUDUsQJ3UDhKtMRC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3N0QIWlUDUsQJ3UDhKtMRC", 
+        "artists": [
+          {
+            "name": "Guns N' Roses", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+            }, 
+            "uri": "spotify:artist:3qm84nBOXUEQ2vnTfUTTFC", 
+            "href": "https://api.spotify.com/v1/artists/3qm84nBOXUEQ2vnTfUTTFC", 
+            "type": "artist", 
+            "id": "3qm84nBOXUEQ2vnTfUTTFC"
+          }
+        ], 
+        "duration_ms": 231333, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "3N0QIWlUDUsQJ3UDhKtMRC"
+      }, 
+      {
+        "name": "Sweet Child O' Mine", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7o2CTH4ctstm8TNelqjb51"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d60e195c264a34a378850e278ae62d9753ae253e", 
+        "is_playable": true, 
+        "uri": "spotify:track:7o2CTH4ctstm8TNelqjb51", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7o2CTH4ctstm8TNelqjb51", 
+        "artists": [
+          {
+            "name": "Guns N' Roses", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+            }, 
+            "uri": "spotify:artist:3qm84nBOXUEQ2vnTfUTTFC", 
+            "href": "https://api.spotify.com/v1/artists/3qm84nBOXUEQ2vnTfUTTFC", 
+            "type": "artist", 
+            "id": "3qm84nBOXUEQ2vnTfUTTFC"
+          }
+        ], 
+        "duration_ms": 356080, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "7o2CTH4ctstm8TNelqjb51"
+      }, 
+      {
+        "name": "You're Crazy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1kuL80G4YwSbuGGNPLRFWF"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/18a2b7f1fb441e6df3760e203528b6fc2369f09e", 
+        "is_playable": true, 
+        "uri": "spotify:track:1kuL80G4YwSbuGGNPLRFWF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1kuL80G4YwSbuGGNPLRFWF", 
+        "artists": [
+          {
+            "name": "Guns N' Roses", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+            }, 
+            "uri": "spotify:artist:3qm84nBOXUEQ2vnTfUTTFC", 
+            "href": "https://api.spotify.com/v1/artists/3qm84nBOXUEQ2vnTfUTTFC", 
+            "type": "artist", 
+            "id": "3qm84nBOXUEQ2vnTfUTTFC"
+          }
+        ], 
+        "duration_ms": 197680, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "1kuL80G4YwSbuGGNPLRFWF"
+      }, 
+      {
+        "name": "Anything Goes", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2seAsYG2FiexpXj8UhG9Zk"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1cd62caff9b4b9340e38db0fb6f38761a43a449d", 
+        "is_playable": true, 
+        "uri": "spotify:track:2seAsYG2FiexpXj8UhG9Zk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2seAsYG2FiexpXj8UhG9Zk", 
+        "artists": [
+          {
+            "name": "Guns N' Roses", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+            }, 
+            "uri": "spotify:artist:3qm84nBOXUEQ2vnTfUTTFC", 
+            "href": "https://api.spotify.com/v1/artists/3qm84nBOXUEQ2vnTfUTTFC", 
+            "type": "artist", 
+            "id": "3qm84nBOXUEQ2vnTfUTTFC"
+          }
+        ], 
+        "duration_ms": 207000, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "2seAsYG2FiexpXj8UhG9Zk"
+      }, 
+      {
+        "name": "Rocket Queen", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6v5VsfCYKdrkQBTMhAlkDr"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/139b8290aed553e7418371ce45e49cc2e4a6d3a5", 
+        "is_playable": true, 
+        "uri": "spotify:track:6v5VsfCYKdrkQBTMhAlkDr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6v5VsfCYKdrkQBTMhAlkDr", 
+        "artists": [
+          {
+            "name": "Guns N' Roses", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+            }, 
+            "uri": "spotify:artist:3qm84nBOXUEQ2vnTfUTTFC", 
+            "href": "https://api.spotify.com/v1/artists/3qm84nBOXUEQ2vnTfUTTFC", 
+            "type": "artist", 
+            "id": "3qm84nBOXUEQ2vnTfUTTFC"
+          }
+        ], 
+        "duration_ms": 374240, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "6v5VsfCYKdrkQBTMhAlkDr"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/3I9Z1nDCL4E0cP62flcbI5/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 12, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/3I9Z1nDCL4E0cP62flcbI5", 
+  "copyrights": [
+    {
+      "text": "(C) 1987 The David Geffen Company", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1987 UMG Recordings, Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Guns N' Roses", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+      }, 
+      "uri": "spotify:artist:3qm84nBOXUEQ2vnTfUTTFC", 
+      "href": "https://api.spotify.com/v1/artists/3qm84nBOXUEQ2vnTfUTTFC", 
+      "type": "artist", 
+      "id": "3qm84nBOXUEQ2vnTfUTTFC"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/9161b5e282bbe652c80d7a364a6af8871a7a4d4e", 
+      "width": 640, 
+      "height": 634
+    }, 
+    {
+      "url": "https://i.scdn.co/image/257237fe469affd86b4d18bb3f81ee5ad2839159", 
+      "width": 300, 
+      "height": 297
+    }, 
+    {
+      "url": "https://i.scdn.co/image/d9503afbbd8f9a2580ff0bcc3437bf7b68fc016c", 
+      "width": 64, 
+      "height": 63
+    }
+  ], 
+  "external_ids": {
+    "upc": "00008811928629"
+  }, 
+  "type": "album", 
+  "id": "3I9Z1nDCL4E0cP62flcbI5", 
+  "name": "Appetite For Destruction"
+}

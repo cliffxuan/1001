@@ -1,0 +1,679 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/07Fr36M0hRPJrSJMFWGnvD"
+  }, 
+  "release_date": "1994", 
+  "popularity": 70, 
+  "genres": [], 
+  "uri": "spotify:album:07Fr36M0hRPJrSJMFWGnvD", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Mojo Pin", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2sFEhnEqiCMWSXfyGHjkas"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2fca4bec158c33e76db5afdd25898f39df244f2c", 
+        "is_playable": true, 
+        "uri": "spotify:track:2sFEhnEqiCMWSXfyGHjkas", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2sFEhnEqiCMWSXfyGHjkas", 
+        "artists": [
+          {
+            "name": "Jeff Buckley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+            }, 
+            "uri": "spotify:artist:3nnQpaTvKb5jCQabZefACI", 
+            "href": "https://api.spotify.com/v1/artists/3nnQpaTvKb5jCQabZefACI", 
+            "type": "artist", 
+            "id": "3nnQpaTvKb5jCQabZefACI"
+          }
+        ], 
+        "duration_ms": 342840, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "2sFEhnEqiCMWSXfyGHjkas"
+      }, 
+      {
+        "name": "Grace", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/113VT0dXCsqDAAfe8JQ2xm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fe8f2a02b310642bd09658053acf00ae07e25222", 
+        "is_playable": true, 
+        "uri": "spotify:track:113VT0dXCsqDAAfe8JQ2xm", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/113VT0dXCsqDAAfe8JQ2xm", 
+        "artists": [
+          {
+            "name": "Jeff Buckley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+            }, 
+            "uri": "spotify:artist:3nnQpaTvKb5jCQabZefACI", 
+            "href": "https://api.spotify.com/v1/artists/3nnQpaTvKb5jCQabZefACI", 
+            "type": "artist", 
+            "id": "3nnQpaTvKb5jCQabZefACI"
+          }
+        ], 
+        "duration_ms": 322146, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "113VT0dXCsqDAAfe8JQ2xm"
+      }, 
+      {
+        "name": "Last Goodbye", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4xqw8JSmfNdHLCuT23pHiv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/36110b5fa2f7d70281ddccd99399caa0369f6211", 
+        "is_playable": true, 
+        "uri": "spotify:track:4xqw8JSmfNdHLCuT23pHiv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4xqw8JSmfNdHLCuT23pHiv", 
+        "artists": [
+          {
+            "name": "Jeff Buckley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+            }, 
+            "uri": "spotify:artist:3nnQpaTvKb5jCQabZefACI", 
+            "href": "https://api.spotify.com/v1/artists/3nnQpaTvKb5jCQabZefACI", 
+            "type": "artist", 
+            "id": "3nnQpaTvKb5jCQabZefACI"
+          }
+        ], 
+        "duration_ms": 275493, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "4xqw8JSmfNdHLCuT23pHiv"
+      }, 
+      {
+        "name": "Lilac Wine", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/458GmxjPVi59LiHMAeGU9j"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f88b9455a257e51c977a9601860a1ff5f40f8a8d", 
+        "is_playable": true, 
+        "uri": "spotify:track:458GmxjPVi59LiHMAeGU9j", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/458GmxjPVi59LiHMAeGU9j", 
+        "artists": [
+          {
+            "name": "Jeff Buckley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+            }, 
+            "uri": "spotify:artist:3nnQpaTvKb5jCQabZefACI", 
+            "href": "https://api.spotify.com/v1/artists/3nnQpaTvKb5jCQabZefACI", 
+            "type": "artist", 
+            "id": "3nnQpaTvKb5jCQabZefACI"
+          }
+        ], 
+        "duration_ms": 272320, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "458GmxjPVi59LiHMAeGU9j"
+      }, 
+      {
+        "name": "So Real", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7qnEChnmqWmGGqWgK7ffqS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/88a51fa6dcff2ecc49faaa4e1c9e13545ca1aa51", 
+        "is_playable": true, 
+        "uri": "spotify:track:7qnEChnmqWmGGqWgK7ffqS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7qnEChnmqWmGGqWgK7ffqS", 
+        "artists": [
+          {
+            "name": "Jeff Buckley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+            }, 
+            "uri": "spotify:artist:3nnQpaTvKb5jCQabZefACI", 
+            "href": "https://api.spotify.com/v1/artists/3nnQpaTvKb5jCQabZefACI", 
+            "type": "artist", 
+            "id": "3nnQpaTvKb5jCQabZefACI"
+          }
+        ], 
+        "duration_ms": 279786, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "7qnEChnmqWmGGqWgK7ffqS"
+      }, 
+      {
+        "name": "Hallelujah", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/74X1epeRufHckhuX1KFD04"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/70ca286235a0887a57fa64d32e428a84e473d6d5", 
+        "is_playable": true, 
+        "uri": "spotify:track:74X1epeRufHckhuX1KFD04", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/74X1epeRufHckhuX1KFD04", 
+        "artists": [
+          {
+            "name": "Jeff Buckley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+            }, 
+            "uri": "spotify:artist:3nnQpaTvKb5jCQabZefACI", 
+            "href": "https://api.spotify.com/v1/artists/3nnQpaTvKb5jCQabZefACI", 
+            "type": "artist", 
+            "id": "3nnQpaTvKb5jCQabZefACI"
+          }
+        ], 
+        "duration_ms": 413320, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "74X1epeRufHckhuX1KFD04"
+      }, 
+      {
+        "name": "Lover, You Should've Come Over", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7iSyaNhLcjwuO22QuRYHsM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/93eddc895178266e920ae87093e2374134d59541", 
+        "is_playable": true, 
+        "uri": "spotify:track:7iSyaNhLcjwuO22QuRYHsM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7iSyaNhLcjwuO22QuRYHsM", 
+        "artists": [
+          {
+            "name": "Jeff Buckley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+            }, 
+            "uri": "spotify:artist:3nnQpaTvKb5jCQabZefACI", 
+            "href": "https://api.spotify.com/v1/artists/3nnQpaTvKb5jCQabZefACI", 
+            "type": "artist", 
+            "id": "3nnQpaTvKb5jCQabZefACI"
+          }
+        ], 
+        "duration_ms": 403186, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "7iSyaNhLcjwuO22QuRYHsM"
+      }, 
+      {
+        "name": "Corpus Christi Carol", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/35znHfH681qdLCyVZZsAce"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a717a3304c848c6b3b332474132ef73d560f9ec3", 
+        "is_playable": true, 
+        "uri": "spotify:track:35znHfH681qdLCyVZZsAce", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/35znHfH681qdLCyVZZsAce", 
+        "artists": [
+          {
+            "name": "Jeff Buckley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+            }, 
+            "uri": "spotify:artist:3nnQpaTvKb5jCQabZefACI", 
+            "href": "https://api.spotify.com/v1/artists/3nnQpaTvKb5jCQabZefACI", 
+            "type": "artist", 
+            "id": "3nnQpaTvKb5jCQabZefACI"
+          }
+        ], 
+        "duration_ms": 177146, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "35znHfH681qdLCyVZZsAce"
+      }, 
+      {
+        "name": "Eternal Life", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Yf1I12YMJThIjJG1EQnPL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/24901ea98df021fa0bd8b39ac14b2aeb6ee343e1", 
+        "is_playable": true, 
+        "uri": "spotify:track:0Yf1I12YMJThIjJG1EQnPL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0Yf1I12YMJThIjJG1EQnPL", 
+        "artists": [
+          {
+            "name": "Jeff Buckley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+            }, 
+            "uri": "spotify:artist:3nnQpaTvKb5jCQabZefACI", 
+            "href": "https://api.spotify.com/v1/artists/3nnQpaTvKb5jCQabZefACI", 
+            "type": "artist", 
+            "id": "3nnQpaTvKb5jCQabZefACI"
+          }
+        ], 
+        "duration_ms": 292666, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "0Yf1I12YMJThIjJG1EQnPL"
+      }, 
+      {
+        "name": "Dream Brother", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2RxSeN6VTD0qubcGX6JL65"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c95c2ba7075e87184f3756978369300bcc2de98a", 
+        "is_playable": true, 
+        "uri": "spotify:track:2RxSeN6VTD0qubcGX6JL65", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2RxSeN6VTD0qubcGX6JL65", 
+        "artists": [
+          {
+            "name": "Jeff Buckley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+            }, 
+            "uri": "spotify:artist:3nnQpaTvKb5jCQabZefACI", 
+            "href": "https://api.spotify.com/v1/artists/3nnQpaTvKb5jCQabZefACI", 
+            "type": "artist", 
+            "id": "3nnQpaTvKb5jCQabZefACI"
+          }
+        ], 
+        "duration_ms": 325373, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "2RxSeN6VTD0qubcGX6JL65"
+      }, 
+      {
+        "name": "Forget Her", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4QUzPwEXqErm7PqsofTrBY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/48af2a2747f856e8d1be0942c54444f7190c7e93", 
+        "is_playable": true, 
+        "uri": "spotify:track:4QUzPwEXqErm7PqsofTrBY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4QUzPwEXqErm7PqsofTrBY", 
+        "artists": [
+          {
+            "name": "Jeff Buckley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+            }, 
+            "uri": "spotify:artist:3nnQpaTvKb5jCQabZefACI", 
+            "href": "https://api.spotify.com/v1/artists/3nnQpaTvKb5jCQabZefACI", 
+            "type": "artist", 
+            "id": "3nnQpaTvKb5jCQabZefACI"
+          }
+        ], 
+        "duration_ms": 311373, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "4QUzPwEXqErm7PqsofTrBY"
+      }, 
+      {
+        "name": "Dream Brother - (Alternate Take)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3hL2l08vdlabY8Q2RE6U6p"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8b80027dc00f6fa142c014bd40be55ac4882f5b7", 
+        "is_playable": true, 
+        "uri": "spotify:track:3hL2l08vdlabY8Q2RE6U6p", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3hL2l08vdlabY8Q2RE6U6p", 
+        "artists": [
+          {
+            "name": "Jeff Buckley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+            }, 
+            "uri": "spotify:artist:3nnQpaTvKb5jCQabZefACI", 
+            "href": "https://api.spotify.com/v1/artists/3nnQpaTvKb5jCQabZefACI", 
+            "type": "artist", 
+            "id": "3nnQpaTvKb5jCQabZefACI"
+          }
+        ], 
+        "duration_ms": 295773, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "3hL2l08vdlabY8Q2RE6U6p"
+      }, 
+      {
+        "name": "Lost Highway", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7gBlfxgjFPF5Erx64A1cGu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3d38d52fc8606beff9052c6f7cc0a0f87f597400", 
+        "is_playable": true, 
+        "uri": "spotify:track:7gBlfxgjFPF5Erx64A1cGu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7gBlfxgjFPF5Erx64A1cGu", 
+        "artists": [
+          {
+            "name": "Jeff Buckley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+            }, 
+            "uri": "spotify:artist:3nnQpaTvKb5jCQabZefACI", 
+            "href": "https://api.spotify.com/v1/artists/3nnQpaTvKb5jCQabZefACI", 
+            "type": "artist", 
+            "id": "3nnQpaTvKb5jCQabZefACI"
+          }
+        ], 
+        "duration_ms": 262920, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "7gBlfxgjFPF5Erx64A1cGu"
+      }, 
+      {
+        "name": "Alligator Wine", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/368eXDUWSND8USvj5nzfnc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c1d63f68f95ebaccf9d8a355d6bbbb1f5eab2ada", 
+        "is_playable": true, 
+        "uri": "spotify:track:368eXDUWSND8USvj5nzfnc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/368eXDUWSND8USvj5nzfnc", 
+        "artists": [
+          {
+            "name": "Jeff Buckley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+            }, 
+            "uri": "spotify:artist:3nnQpaTvKb5jCQabZefACI", 
+            "href": "https://api.spotify.com/v1/artists/3nnQpaTvKb5jCQabZefACI", 
+            "type": "artist", 
+            "id": "3nnQpaTvKb5jCQabZefACI"
+          }
+        ], 
+        "duration_ms": 198613, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "368eXDUWSND8USvj5nzfnc"
+      }, 
+      {
+        "name": "Mama, You Been on My Mind", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0qUged3a0Bk6l5rtYGMsYn"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9412e5d7f71eb67a584f4a44ec77f85766b1108e", 
+        "is_playable": true, 
+        "uri": "spotify:track:0qUged3a0Bk6l5rtYGMsYn", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0qUged3a0Bk6l5rtYGMsYn", 
+        "artists": [
+          {
+            "name": "Jeff Buckley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+            }, 
+            "uri": "spotify:artist:3nnQpaTvKb5jCQabZefACI", 
+            "href": "https://api.spotify.com/v1/artists/3nnQpaTvKb5jCQabZefACI", 
+            "type": "artist", 
+            "id": "3nnQpaTvKb5jCQabZefACI"
+          }
+        ], 
+        "duration_ms": 205586, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "0qUged3a0Bk6l5rtYGMsYn"
+      }, 
+      {
+        "name": "Parchman Farm Blues/ Preachin' Blues (Up Jumped The Devil)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2D1lBSqeCGHOhCXN4xD7RT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a2667292fb3a813359ad3874fd0d3c5360216d08", 
+        "is_playable": true, 
+        "uri": "spotify:track:2D1lBSqeCGHOhCXN4xD7RT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2D1lBSqeCGHOhCXN4xD7RT", 
+        "artists": [
+          {
+            "name": "Jeff Buckley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+            }, 
+            "uri": "spotify:artist:3nnQpaTvKb5jCQabZefACI", 
+            "href": "https://api.spotify.com/v1/artists/3nnQpaTvKb5jCQabZefACI", 
+            "type": "artist", 
+            "id": "3nnQpaTvKb5jCQabZefACI"
+          }
+        ], 
+        "duration_ms": 377186, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "2D1lBSqeCGHOhCXN4xD7RT"
+      }, 
+      {
+        "name": "The Other Woman", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6OYWNSxFgUx1udwR76RBD1"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2a235338e4f450d04dd93155eee8bc1d5781b5b3", 
+        "is_playable": true, 
+        "uri": "spotify:track:6OYWNSxFgUx1udwR76RBD1", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6OYWNSxFgUx1udwR76RBD1", 
+        "artists": [
+          {
+            "name": "Jeff Buckley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+            }, 
+            "uri": "spotify:artist:3nnQpaTvKb5jCQabZefACI", 
+            "href": "https://api.spotify.com/v1/artists/3nnQpaTvKb5jCQabZefACI", 
+            "type": "artist", 
+            "id": "3nnQpaTvKb5jCQabZefACI"
+          }
+        ], 
+        "duration_ms": 183093, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "6OYWNSxFgUx1udwR76RBD1"
+      }, 
+      {
+        "name": "Kanga-Roo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0DN7iImb6alSKLsUr8hpwL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f1c80b7ebd865cb6a59f8c5d59e2523f84172219", 
+        "is_playable": true, 
+        "uri": "spotify:track:0DN7iImb6alSKLsUr8hpwL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0DN7iImb6alSKLsUr8hpwL", 
+        "artists": [
+          {
+            "name": "Jeff Buckley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+            }, 
+            "uri": "spotify:artist:3nnQpaTvKb5jCQabZefACI", 
+            "href": "https://api.spotify.com/v1/artists/3nnQpaTvKb5jCQabZefACI", 
+            "type": "artist", 
+            "id": "3nnQpaTvKb5jCQabZefACI"
+          }
+        ], 
+        "duration_ms": 848640, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "0DN7iImb6alSKLsUr8hpwL"
+      }, 
+      {
+        "name": "I Want Someone Badly", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/20yvqA7FyGhpiaAVffO2ty"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8c223ff229e9c982852e5ba76072ea761ee80fb3", 
+        "is_playable": true, 
+        "uri": "spotify:track:20yvqA7FyGhpiaAVffO2ty", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/20yvqA7FyGhpiaAVffO2ty", 
+        "artists": [
+          {
+            "name": "Jeff Buckley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+            }, 
+            "uri": "spotify:artist:3nnQpaTvKb5jCQabZefACI", 
+            "href": "https://api.spotify.com/v1/artists/3nnQpaTvKb5jCQabZefACI", 
+            "type": "artist", 
+            "id": "3nnQpaTvKb5jCQabZefACI"
+          }
+        ], 
+        "duration_ms": 155226, 
+        "track_number": 19, 
+        "type": "track", 
+        "id": "20yvqA7FyGhpiaAVffO2ty"
+      }, 
+      {
+        "name": "Eternal Life - Road Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1WmFLuqpU7NgV1tvMewBVa"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/566017c03a70c635a310eb4aef18b5cf9be15de3", 
+        "is_playable": true, 
+        "uri": "spotify:track:1WmFLuqpU7NgV1tvMewBVa", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1WmFLuqpU7NgV1tvMewBVa", 
+        "artists": [
+          {
+            "name": "Jeff Buckley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+            }, 
+            "uri": "spotify:artist:3nnQpaTvKb5jCQabZefACI", 
+            "href": "https://api.spotify.com/v1/artists/3nnQpaTvKb5jCQabZefACI", 
+            "type": "artist", 
+            "id": "3nnQpaTvKb5jCQabZefACI"
+          }
+        ], 
+        "duration_ms": 286973, 
+        "track_number": 20, 
+        "type": "track", 
+        "id": "1WmFLuqpU7NgV1tvMewBVa"
+      }, 
+      {
+        "name": "Kick out the Jams - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2rPtzl9VB2otfJHddfdLm5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a1e9db0251f1a9cdcb9031650818eb2f40d72850", 
+        "is_playable": true, 
+        "uri": "spotify:track:2rPtzl9VB2otfJHddfdLm5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2rPtzl9VB2otfJHddfdLm5", 
+        "artists": [
+          {
+            "name": "Jeff Buckley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+            }, 
+            "uri": "spotify:artist:3nnQpaTvKb5jCQabZefACI", 
+            "href": "https://api.spotify.com/v1/artists/3nnQpaTvKb5jCQabZefACI", 
+            "type": "artist", 
+            "id": "3nnQpaTvKb5jCQabZefACI"
+          }
+        ], 
+        "duration_ms": 183586, 
+        "track_number": 21, 
+        "type": "track", 
+        "id": "2rPtzl9VB2otfJHddfdLm5"
+      }, 
+      {
+        "name": "Dream Brother - Nag Champa Mix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Ur7g4v6jS5m9ioWpsMXmU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7eefd07e53bac727282a29cdd5ae05bb4453887b", 
+        "is_playable": true, 
+        "uri": "spotify:track:3Ur7g4v6jS5m9ioWpsMXmU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3Ur7g4v6jS5m9ioWpsMXmU", 
+        "artists": [
+          {
+            "name": "Jeff Buckley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+            }, 
+            "uri": "spotify:artist:3nnQpaTvKb5jCQabZefACI", 
+            "href": "https://api.spotify.com/v1/artists/3nnQpaTvKb5jCQabZefACI", 
+            "type": "artist", 
+            "id": "3nnQpaTvKb5jCQabZefACI"
+          }
+        ], 
+        "duration_ms": 321613, 
+        "track_number": 22, 
+        "type": "track", 
+        "id": "3Ur7g4v6jS5m9ioWpsMXmU"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/07Fr36M0hRPJrSJMFWGnvD/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 22, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/07Fr36M0hRPJrSJMFWGnvD", 
+  "copyrights": [
+    {
+      "text": "(P) 1994, 1995, 1998, 2002, 2004 Sony Music Entertainment", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Jeff Buckley", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+      }, 
+      "uri": "spotify:artist:3nnQpaTvKb5jCQabZefACI", 
+      "href": "https://api.spotify.com/v1/artists/3nnQpaTvKb5jCQabZefACI", 
+      "type": "artist", 
+      "id": "3nnQpaTvKb5jCQabZefACI"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/5b5f5bea7a6eead5c8711105d399ed5fe33b220b", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/da852872ac5bae43d2d39557a5db2f8fd8aac5b3", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/60bc4509e36ad9b9c21a2ea12a0e538b238176ff", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "884977717808"
+  }, 
+  "type": "album", 
+  "id": "07Fr36M0hRPJrSJMFWGnvD", 
+  "name": "Grace (Legacy Edition)"
+}

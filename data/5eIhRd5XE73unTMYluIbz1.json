@@ -1,0 +1,235 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5eIhRd5XE73unTMYluIbz1"
+  }, 
+  "release_date": "1974", 
+  "popularity": 31, 
+  "genres": [], 
+  "uri": "spotify:album:5eIhRd5XE73unTMYluIbz1", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Sea Song", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/69PnRmKD9Izk8CSg4l9xW9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6cfe6315b10d7816b07d11a9563c0918aa18c8da", 
+        "is_playable": true, 
+        "uri": "spotify:track:69PnRmKD9Izk8CSg4l9xW9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/69PnRmKD9Izk8CSg4l9xW9", 
+        "artists": [
+          {
+            "name": "Robert Wyatt", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5iksmHDN2qZQcgFfXqIXtT"
+            }, 
+            "uri": "spotify:artist:5iksmHDN2qZQcgFfXqIXtT", 
+            "href": "https://api.spotify.com/v1/artists/5iksmHDN2qZQcgFfXqIXtT", 
+            "type": "artist", 
+            "id": "5iksmHDN2qZQcgFfXqIXtT"
+          }
+        ], 
+        "duration_ms": 391440, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "69PnRmKD9Izk8CSg4l9xW9"
+      }, 
+      {
+        "name": "A Last Straw", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/78kevtnlBO8fVaD1yTYaU3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/33ebdf4ffc569076abca2b60ee3921ced5903843", 
+        "is_playable": true, 
+        "uri": "spotify:track:78kevtnlBO8fVaD1yTYaU3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/78kevtnlBO8fVaD1yTYaU3", 
+        "artists": [
+          {
+            "name": "Robert Wyatt", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5iksmHDN2qZQcgFfXqIXtT"
+            }, 
+            "uri": "spotify:artist:5iksmHDN2qZQcgFfXqIXtT", 
+            "href": "https://api.spotify.com/v1/artists/5iksmHDN2qZQcgFfXqIXtT", 
+            "type": "artist", 
+            "id": "5iksmHDN2qZQcgFfXqIXtT"
+          }
+        ], 
+        "duration_ms": 346653, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "78kevtnlBO8fVaD1yTYaU3"
+      }, 
+      {
+        "name": "Little Red Riding Hood Hit The Road", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3SyV8KrPjiT96isiLyAPD9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/07dd671867054a6466219f723ba10e7c9ebfb725", 
+        "is_playable": true, 
+        "uri": "spotify:track:3SyV8KrPjiT96isiLyAPD9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3SyV8KrPjiT96isiLyAPD9", 
+        "artists": [
+          {
+            "name": "Robert Wyatt", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5iksmHDN2qZQcgFfXqIXtT"
+            }, 
+            "uri": "spotify:artist:5iksmHDN2qZQcgFfXqIXtT", 
+            "href": "https://api.spotify.com/v1/artists/5iksmHDN2qZQcgFfXqIXtT", 
+            "type": "artist", 
+            "id": "5iksmHDN2qZQcgFfXqIXtT"
+          }
+        ], 
+        "duration_ms": 460600, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "3SyV8KrPjiT96isiLyAPD9"
+      }, 
+      {
+        "name": "Alifib", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5jPqhrOeC5E1f6yGCIEHCq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b7633267dc448cdbd3f0d48d06399131a91f4561", 
+        "is_playable": true, 
+        "uri": "spotify:track:5jPqhrOeC5E1f6yGCIEHCq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5jPqhrOeC5E1f6yGCIEHCq", 
+        "artists": [
+          {
+            "name": "Robert Wyatt", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5iksmHDN2qZQcgFfXqIXtT"
+            }, 
+            "uri": "spotify:artist:5iksmHDN2qZQcgFfXqIXtT", 
+            "href": "https://api.spotify.com/v1/artists/5iksmHDN2qZQcgFfXqIXtT", 
+            "type": "artist", 
+            "id": "5iksmHDN2qZQcgFfXqIXtT"
+          }
+        ], 
+        "duration_ms": 415306, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "5jPqhrOeC5E1f6yGCIEHCq"
+      }, 
+      {
+        "name": "Alife", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4zfRewE3SWDjdFCdqm15xV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1ff14e08e8c67e6a21ad64ecce2aab0e11528eba", 
+        "is_playable": true, 
+        "uri": "spotify:track:4zfRewE3SWDjdFCdqm15xV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4zfRewE3SWDjdFCdqm15xV", 
+        "artists": [
+          {
+            "name": "Robert Wyatt", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5iksmHDN2qZQcgFfXqIXtT"
+            }, 
+            "uri": "spotify:artist:5iksmHDN2qZQcgFfXqIXtT", 
+            "href": "https://api.spotify.com/v1/artists/5iksmHDN2qZQcgFfXqIXtT", 
+            "type": "artist", 
+            "id": "5iksmHDN2qZQcgFfXqIXtT"
+          }
+        ], 
+        "duration_ms": 391866, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "4zfRewE3SWDjdFCdqm15xV"
+      }, 
+      {
+        "name": "Little Red Robin Hood Hit The Road", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4udLZWtMDJknCazzlA0Psh"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/21a4e637cb162df5324fa00314eb0e420d86764a", 
+        "is_playable": true, 
+        "uri": "spotify:track:4udLZWtMDJknCazzlA0Psh", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4udLZWtMDJknCazzlA0Psh", 
+        "artists": [
+          {
+            "name": "Robert Wyatt", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5iksmHDN2qZQcgFfXqIXtT"
+            }, 
+            "uri": "spotify:artist:5iksmHDN2qZQcgFfXqIXtT", 
+            "href": "https://api.spotify.com/v1/artists/5iksmHDN2qZQcgFfXqIXtT", 
+            "type": "artist", 
+            "id": "5iksmHDN2qZQcgFfXqIXtT"
+          }
+        ], 
+        "duration_ms": 368866, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "4udLZWtMDJknCazzlA0Psh"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/5eIhRd5XE73unTMYluIbz1/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 6, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/5eIhRd5XE73unTMYluIbz1", 
+  "copyrights": [
+    {
+      "text": "2008 Domino Recording Co Ltd", 
+      "type": "C"
+    }, 
+    {
+      "text": "1974 Robert Wyatt under exclusive licence to Domino Recording Co Ltd", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Robert Wyatt", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5iksmHDN2qZQcgFfXqIXtT"
+      }, 
+      "uri": "spotify:artist:5iksmHDN2qZQcgFfXqIXtT", 
+      "href": "https://api.spotify.com/v1/artists/5iksmHDN2qZQcgFfXqIXtT", 
+      "type": "artist", 
+      "id": "5iksmHDN2qZQcgFfXqIXtT"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/917297cffe45ef46bd41819435cf4e6bd9082814", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/faef50596089bcae17e3fd6074147653eb42bc7f", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/38c6215a3d69c5c1a87f9a01b2da9c4614dac7f7", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "5034202204053"
+  }, 
+  "type": "album", 
+  "id": "5eIhRd5XE73unTMYluIbz1", 
+  "name": "Rock Bottom"
+}

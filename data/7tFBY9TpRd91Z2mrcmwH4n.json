@@ -1,0 +1,515 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7tFBY9TpRd91Z2mrcmwH4n"
+  }, 
+  "release_date": "1992-09-08", 
+  "popularity": 43, 
+  "genres": [], 
+  "uri": "spotify:album:7tFBY9TpRd91Z2mrcmwH4n", 
+  "tracks": {
+    "items": [
+      {
+        "name": "The Earth Died Screaming", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Jysc2HqvEgPSuXPtDsGtC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/112f6ec88b2cb018708f3a275ec27ef3f2c268a4", 
+        "is_playable": true, 
+        "uri": "spotify:track:1Jysc2HqvEgPSuXPtDsGtC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1Jysc2HqvEgPSuXPtDsGtC", 
+        "artists": [
+          {
+            "name": "Tom Waits", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+            }, 
+            "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM", 
+            "href": "https://api.spotify.com/v1/artists/7x83XhcMbOTl1UdYsPTuZM", 
+            "type": "artist", 
+            "id": "7x83XhcMbOTl1UdYsPTuZM"
+          }
+        ], 
+        "duration_ms": 217750, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "1Jysc2HqvEgPSuXPtDsGtC"
+      }, 
+      {
+        "name": "Dirt In The Ground", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2rZ4OyFZbYrlgvNJtMK0qI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a31274e7eeb2753aeaa578c1b4070b2805fb77e7", 
+        "is_playable": true, 
+        "uri": "spotify:track:2rZ4OyFZbYrlgvNJtMK0qI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2rZ4OyFZbYrlgvNJtMK0qI", 
+        "artists": [
+          {
+            "name": "Tom Waits", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+            }, 
+            "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM", 
+            "href": "https://api.spotify.com/v1/artists/7x83XhcMbOTl1UdYsPTuZM", 
+            "type": "artist", 
+            "id": "7x83XhcMbOTl1UdYsPTuZM"
+          }
+        ], 
+        "duration_ms": 247573, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "2rZ4OyFZbYrlgvNJtMK0qI"
+      }, 
+      {
+        "name": "Such A Scream", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0ljCtT8MK8bSAZWHl2KGXu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5173e62d34042d93f1426d23590781b88d147965", 
+        "is_playable": true, 
+        "uri": "spotify:track:0ljCtT8MK8bSAZWHl2KGXu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0ljCtT8MK8bSAZWHl2KGXu", 
+        "artists": [
+          {
+            "name": "Tom Waits", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+            }, 
+            "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM", 
+            "href": "https://api.spotify.com/v1/artists/7x83XhcMbOTl1UdYsPTuZM", 
+            "type": "artist", 
+            "id": "7x83XhcMbOTl1UdYsPTuZM"
+          }
+        ], 
+        "duration_ms": 128666, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "0ljCtT8MK8bSAZWHl2KGXu"
+      }, 
+      {
+        "name": "All Stripped Down", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7E1drfvZ2aTLOm1Xt4SFrD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/833072e3de04f576defd1ae4d5a6909f952e6604", 
+        "is_playable": true, 
+        "uri": "spotify:track:7E1drfvZ2aTLOm1Xt4SFrD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7E1drfvZ2aTLOm1Xt4SFrD", 
+        "artists": [
+          {
+            "name": "Tom Waits", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+            }, 
+            "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM", 
+            "href": "https://api.spotify.com/v1/artists/7x83XhcMbOTl1UdYsPTuZM", 
+            "type": "artist", 
+            "id": "7x83XhcMbOTl1UdYsPTuZM"
+          }
+        ], 
+        "duration_ms": 183066, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "7E1drfvZ2aTLOm1Xt4SFrD"
+      }, 
+      {
+        "name": "Who Are You This Time", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7tSPNr1tdxAQw7hBiPXAmy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b5ca63e26c0dac47353120951d165e3fed46c3fc", 
+        "is_playable": true, 
+        "uri": "spotify:track:7tSPNr1tdxAQw7hBiPXAmy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7tSPNr1tdxAQw7hBiPXAmy", 
+        "artists": [
+          {
+            "name": "Tom Waits", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+            }, 
+            "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM", 
+            "href": "https://api.spotify.com/v1/artists/7x83XhcMbOTl1UdYsPTuZM", 
+            "type": "artist", 
+            "id": "7x83XhcMbOTl1UdYsPTuZM"
+          }
+        ], 
+        "duration_ms": 235293, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "7tSPNr1tdxAQw7hBiPXAmy"
+      }, 
+      {
+        "name": "The Ocean", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5AFNYoAhXRse8aF8qTXd7D"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e87adb8348f71d0cb1c0e7c0f9c17d518328ee19", 
+        "is_playable": true, 
+        "uri": "spotify:track:5AFNYoAhXRse8aF8qTXd7D", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5AFNYoAhXRse8aF8qTXd7D", 
+        "artists": [
+          {
+            "name": "Tom Waits", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+            }, 
+            "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM", 
+            "href": "https://api.spotify.com/v1/artists/7x83XhcMbOTl1UdYsPTuZM", 
+            "type": "artist", 
+            "id": "7x83XhcMbOTl1UdYsPTuZM"
+          }
+        ], 
+        "duration_ms": 111173, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "5AFNYoAhXRse8aF8qTXd7D"
+      }, 
+      {
+        "name": "Jesus Gonna Be Here", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2ZCirChoUtowZryYHdA6lB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7cc04d7a401866fb78e43f9a81e35a8033003831", 
+        "is_playable": true, 
+        "uri": "spotify:track:2ZCirChoUtowZryYHdA6lB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2ZCirChoUtowZryYHdA6lB", 
+        "artists": [
+          {
+            "name": "Tom Waits", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+            }, 
+            "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM", 
+            "href": "https://api.spotify.com/v1/artists/7x83XhcMbOTl1UdYsPTuZM", 
+            "type": "artist", 
+            "id": "7x83XhcMbOTl1UdYsPTuZM"
+          }
+        ], 
+        "duration_ms": 198800, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "2ZCirChoUtowZryYHdA6lB"
+      }, 
+      {
+        "name": "A Little Rain", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1eTPaVFCjW7gnk2IONbRXu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2ad0c4c89e0f8b318b8b1141836ed650d50386ea", 
+        "is_playable": true, 
+        "uri": "spotify:track:1eTPaVFCjW7gnk2IONbRXu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1eTPaVFCjW7gnk2IONbRXu", 
+        "artists": [
+          {
+            "name": "Tom Waits", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+            }, 
+            "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM", 
+            "href": "https://api.spotify.com/v1/artists/7x83XhcMbOTl1UdYsPTuZM", 
+            "type": "artist", 
+            "id": "7x83XhcMbOTl1UdYsPTuZM"
+          }
+        ], 
+        "duration_ms": 178933, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "1eTPaVFCjW7gnk2IONbRXu"
+      }, 
+      {
+        "name": "In The Colosseum", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4LQaxZsCuyNWMaK2TBdeaH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/65608777c806a030e762268867cc411c899bbbd1", 
+        "is_playable": true, 
+        "uri": "spotify:track:4LQaxZsCuyNWMaK2TBdeaH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4LQaxZsCuyNWMaK2TBdeaH", 
+        "artists": [
+          {
+            "name": "Tom Waits", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+            }, 
+            "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM", 
+            "href": "https://api.spotify.com/v1/artists/7x83XhcMbOTl1UdYsPTuZM", 
+            "type": "artist", 
+            "id": "7x83XhcMbOTl1UdYsPTuZM"
+          }
+        ], 
+        "duration_ms": 290250, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "4LQaxZsCuyNWMaK2TBdeaH"
+      }, 
+      {
+        "name": "Goin' Out West", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/76U5Ivrp3qBPknIOx7kOOm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a6a277b2c823c5839c106922e90abd0698106237", 
+        "is_playable": true, 
+        "uri": "spotify:track:76U5Ivrp3qBPknIOx7kOOm", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/76U5Ivrp3qBPknIOx7kOOm", 
+        "artists": [
+          {
+            "name": "Tom Waits", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+            }, 
+            "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM", 
+            "href": "https://api.spotify.com/v1/artists/7x83XhcMbOTl1UdYsPTuZM", 
+            "type": "artist", 
+            "id": "7x83XhcMbOTl1UdYsPTuZM"
+          }
+        ], 
+        "duration_ms": 200240, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "76U5Ivrp3qBPknIOx7kOOm"
+      }, 
+      {
+        "name": "Murder In The Red Barn", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3DVDckmLGT6201oNH9a3IT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c72e82e7eb7adc1dc9dd4563182f62ca24d5e529", 
+        "is_playable": true, 
+        "uri": "spotify:track:3DVDckmLGT6201oNH9a3IT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3DVDckmLGT6201oNH9a3IT", 
+        "artists": [
+          {
+            "name": "Tom Waits", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+            }, 
+            "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM", 
+            "href": "https://api.spotify.com/v1/artists/7x83XhcMbOTl1UdYsPTuZM", 
+            "type": "artist", 
+            "id": "7x83XhcMbOTl1UdYsPTuZM"
+          }
+        ], 
+        "duration_ms": 268500, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "3DVDckmLGT6201oNH9a3IT"
+      }, 
+      {
+        "name": "Black Wings", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/71QhBovVLmRJF31QcHimra"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/92c38f09e754aa389114df79b51a39ff22ac69a2", 
+        "is_playable": true, 
+        "uri": "spotify:track:71QhBovVLmRJF31QcHimra", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/71QhBovVLmRJF31QcHimra", 
+        "artists": [
+          {
+            "name": "Tom Waits", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+            }, 
+            "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM", 
+            "href": "https://api.spotify.com/v1/artists/7x83XhcMbOTl1UdYsPTuZM", 
+            "type": "artist", 
+            "id": "7x83XhcMbOTl1UdYsPTuZM"
+          }
+        ], 
+        "duration_ms": 275866, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "71QhBovVLmRJF31QcHimra"
+      }, 
+      {
+        "name": "Whistle Down The Wind", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7yIueNRDwn5Dpx6qeeP9ag"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/df9d1e27401c36ac6783776bd7a41a9683f81944", 
+        "is_playable": true, 
+        "uri": "spotify:track:7yIueNRDwn5Dpx6qeeP9ag", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7yIueNRDwn5Dpx6qeeP9ag", 
+        "artists": [
+          {
+            "name": "Tom Waits", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+            }, 
+            "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM", 
+            "href": "https://api.spotify.com/v1/artists/7x83XhcMbOTl1UdYsPTuZM", 
+            "type": "artist", 
+            "id": "7x83XhcMbOTl1UdYsPTuZM"
+          }
+        ], 
+        "duration_ms": 275800, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "7yIueNRDwn5Dpx6qeeP9ag"
+      }, 
+      {
+        "name": "I Don't Wanna Grow Up", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6gy1yr07YJ5wmneneRzzMf"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6d303e8fb74a99bbf8b1be97ccac6813bd495146", 
+        "is_playable": true, 
+        "uri": "spotify:track:6gy1yr07YJ5wmneneRzzMf", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6gy1yr07YJ5wmneneRzzMf", 
+        "artists": [
+          {
+            "name": "Tom Waits", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+            }, 
+            "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM", 
+            "href": "https://api.spotify.com/v1/artists/7x83XhcMbOTl1UdYsPTuZM", 
+            "type": "artist", 
+            "id": "7x83XhcMbOTl1UdYsPTuZM"
+          }
+        ], 
+        "duration_ms": 151573, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "6gy1yr07YJ5wmneneRzzMf"
+      }, 
+      {
+        "name": "Let Me Down Up On It", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5MyWueaprz9M2Lf3fFObEt"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/968bcf1acd6cb1ff25358220ce7984bd162badf1", 
+        "is_playable": true, 
+        "uri": "spotify:track:5MyWueaprz9M2Lf3fFObEt", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5MyWueaprz9M2Lf3fFObEt", 
+        "artists": [
+          {
+            "name": "Tom Waits", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+            }, 
+            "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM", 
+            "href": "https://api.spotify.com/v1/artists/7x83XhcMbOTl1UdYsPTuZM", 
+            "type": "artist", 
+            "id": "7x83XhcMbOTl1UdYsPTuZM"
+          }
+        ], 
+        "duration_ms": 53466, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "5MyWueaprz9M2Lf3fFObEt"
+      }, 
+      {
+        "name": "That Feel", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0pBN3cyo3Fh3FWEjVr0SD6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/288bfa84d6b19b3004240ca5598fd143c6bcd392", 
+        "is_playable": true, 
+        "uri": "spotify:track:0pBN3cyo3Fh3FWEjVr0SD6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0pBN3cyo3Fh3FWEjVr0SD6", 
+        "artists": [
+          {
+            "name": "Tom Waits", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+            }, 
+            "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM", 
+            "href": "https://api.spotify.com/v1/artists/7x83XhcMbOTl1UdYsPTuZM", 
+            "type": "artist", 
+            "id": "7x83XhcMbOTl1UdYsPTuZM"
+          }
+        ], 
+        "duration_ms": 192626, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "0pBN3cyo3Fh3FWEjVr0SD6"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/7tFBY9TpRd91Z2mrcmwH4n/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 16, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/7tFBY9TpRd91Z2mrcmwH4n", 
+  "copyrights": [
+    {
+      "text": "(C) 1992 UMG Recordings, Inc.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1992 UMG Recordings, Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Tom Waits", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+      }, 
+      "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM", 
+      "href": "https://api.spotify.com/v1/artists/7x83XhcMbOTl1UdYsPTuZM", 
+      "type": "artist", 
+      "id": "7x83XhcMbOTl1UdYsPTuZM"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/fd0358bd4e8b9c33e7420f2305231e006ec82345", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/f9ca7f930958c585bd051166eab5ee2eaf69ee06", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/d54c35bab569c8147511b293f3af2dba6f0a0c28", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00731451258022"
+  }, 
+  "type": "album", 
+  "id": "7tFBY9TpRd91Z2mrcmwH4n", 
+  "name": "Bone Machine"
+}

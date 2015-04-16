@@ -1,0 +1,511 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/532IlegHv3OfVGgyCFGBTs"
+  }, 
+  "release_date": "1988", 
+  "popularity": 43, 
+  "genres": [], 
+  "uri": "spotify:album:532IlegHv3OfVGgyCFGBTs", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Cult of Personality", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5e3YOg6fIkP0wD5TyxcHOH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/84bcdf3c632fd49386f2166f117479712237f4d4", 
+        "is_playable": true, 
+        "uri": "spotify:track:5e3YOg6fIkP0wD5TyxcHOH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5e3YOg6fIkP0wD5TyxcHOH", 
+        "artists": [
+          {
+            "name": "Living Colour", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de"
+            }, 
+            "uri": "spotify:artist:6Uhp7WA6sjm5ZL6Xz561de", 
+            "href": "https://api.spotify.com/v1/artists/6Uhp7WA6sjm5ZL6Xz561de", 
+            "type": "artist", 
+            "id": "6Uhp7WA6sjm5ZL6Xz561de"
+          }
+        ], 
+        "duration_ms": 294826, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "5e3YOg6fIkP0wD5TyxcHOH"
+      }, 
+      {
+        "name": "I Want To Know", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5gV3pULWjT3MewTvkSeJz9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/293898c23466a174deb9453d3aaf7ebe8898ecab", 
+        "is_playable": true, 
+        "uri": "spotify:track:5gV3pULWjT3MewTvkSeJz9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5gV3pULWjT3MewTvkSeJz9", 
+        "artists": [
+          {
+            "name": "Living Colour", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de"
+            }, 
+            "uri": "spotify:artist:6Uhp7WA6sjm5ZL6Xz561de", 
+            "href": "https://api.spotify.com/v1/artists/6Uhp7WA6sjm5ZL6Xz561de", 
+            "type": "artist", 
+            "id": "6Uhp7WA6sjm5ZL6Xz561de"
+          }
+        ], 
+        "duration_ms": 264466, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "5gV3pULWjT3MewTvkSeJz9"
+      }, 
+      {
+        "name": "Middle Man", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2OXGegCjAut5HofUoCoFK8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3e48b6f51d9dc5ed7e27c7ea012fa19d95c2e56f", 
+        "is_playable": true, 
+        "uri": "spotify:track:2OXGegCjAut5HofUoCoFK8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2OXGegCjAut5HofUoCoFK8", 
+        "artists": [
+          {
+            "name": "Living Colour", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de"
+            }, 
+            "uri": "spotify:artist:6Uhp7WA6sjm5ZL6Xz561de", 
+            "href": "https://api.spotify.com/v1/artists/6Uhp7WA6sjm5ZL6Xz561de", 
+            "type": "artist", 
+            "id": "6Uhp7WA6sjm5ZL6Xz561de"
+          }
+        ], 
+        "duration_ms": 228133, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "2OXGegCjAut5HofUoCoFK8"
+      }, 
+      {
+        "name": "Desperate People", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1qpo7EPyUl0WL9oKAK2hYm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a2677475aa7df0efd8d0e9c3bee94b02ee1c0388", 
+        "is_playable": true, 
+        "uri": "spotify:track:1qpo7EPyUl0WL9oKAK2hYm", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1qpo7EPyUl0WL9oKAK2hYm", 
+        "artists": [
+          {
+            "name": "Living Colour", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de"
+            }, 
+            "uri": "spotify:artist:6Uhp7WA6sjm5ZL6Xz561de", 
+            "href": "https://api.spotify.com/v1/artists/6Uhp7WA6sjm5ZL6Xz561de", 
+            "type": "artist", 
+            "id": "6Uhp7WA6sjm5ZL6Xz561de"
+          }
+        ], 
+        "duration_ms": 336333, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "1qpo7EPyUl0WL9oKAK2hYm"
+      }, 
+      {
+        "name": "Open Letter (To a Landlord)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6hnKJsEeb0hVkbw16yjcTV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/67e10a3aef47bec0bec9eb37883a0e1f70768941", 
+        "is_playable": true, 
+        "uri": "spotify:track:6hnKJsEeb0hVkbw16yjcTV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6hnKJsEeb0hVkbw16yjcTV", 
+        "artists": [
+          {
+            "name": "Living Colour", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de"
+            }, 
+            "uri": "spotify:artist:6Uhp7WA6sjm5ZL6Xz561de", 
+            "href": "https://api.spotify.com/v1/artists/6Uhp7WA6sjm5ZL6Xz561de", 
+            "type": "artist", 
+            "id": "6Uhp7WA6sjm5ZL6Xz561de"
+          }
+        ], 
+        "duration_ms": 330973, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "6hnKJsEeb0hVkbw16yjcTV"
+      }, 
+      {
+        "name": "Funny Vibe", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4efmOMddgsMH5bpwkIpo5l"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6db5f23b0123a52cf10138736f79f165983ef408", 
+        "is_playable": true, 
+        "uri": "spotify:track:4efmOMddgsMH5bpwkIpo5l", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4efmOMddgsMH5bpwkIpo5l", 
+        "artists": [
+          {
+            "name": "Living Colour", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de"
+            }, 
+            "uri": "spotify:artist:6Uhp7WA6sjm5ZL6Xz561de", 
+            "href": "https://api.spotify.com/v1/artists/6Uhp7WA6sjm5ZL6Xz561de", 
+            "type": "artist", 
+            "id": "6Uhp7WA6sjm5ZL6Xz561de"
+          }
+        ], 
+        "duration_ms": 260693, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "4efmOMddgsMH5bpwkIpo5l"
+      }, 
+      {
+        "name": "Memories Can't Wait", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1ZGvcpkWd0NaFrtP0dPF1a"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d039564a134e1c5e852ee86fcabc50209cc3812c", 
+        "is_playable": true, 
+        "uri": "spotify:track:1ZGvcpkWd0NaFrtP0dPF1a", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1ZGvcpkWd0NaFrtP0dPF1a", 
+        "artists": [
+          {
+            "name": "Living Colour", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de"
+            }, 
+            "uri": "spotify:artist:6Uhp7WA6sjm5ZL6Xz561de", 
+            "href": "https://api.spotify.com/v1/artists/6Uhp7WA6sjm5ZL6Xz561de", 
+            "type": "artist", 
+            "id": "6Uhp7WA6sjm5ZL6Xz561de"
+          }
+        ], 
+        "duration_ms": 271266, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "1ZGvcpkWd0NaFrtP0dPF1a"
+      }, 
+      {
+        "name": "Broken Hearts", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7LdXnvmNONxKTkkFU5dIQ8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8cd3f5be7ca36d258327c38e1087019bbfd7e0ce", 
+        "is_playable": true, 
+        "uri": "spotify:track:7LdXnvmNONxKTkkFU5dIQ8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7LdXnvmNONxKTkkFU5dIQ8", 
+        "artists": [
+          {
+            "name": "Living Colour", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de"
+            }, 
+            "uri": "spotify:artist:6Uhp7WA6sjm5ZL6Xz561de", 
+            "href": "https://api.spotify.com/v1/artists/6Uhp7WA6sjm5ZL6Xz561de", 
+            "type": "artist", 
+            "id": "6Uhp7WA6sjm5ZL6Xz561de"
+          }
+        ], 
+        "duration_ms": 291800, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "7LdXnvmNONxKTkkFU5dIQ8"
+      }, 
+      {
+        "name": "Glamour Boys", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2XyU7gwELovG2Nqo9UYBGp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f407a020ffe76880cabadc2b416bca41144f468c", 
+        "is_playable": true, 
+        "uri": "spotify:track:2XyU7gwELovG2Nqo9UYBGp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2XyU7gwELovG2Nqo9UYBGp", 
+        "artists": [
+          {
+            "name": "Living Colour", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de"
+            }, 
+            "uri": "spotify:artist:6Uhp7WA6sjm5ZL6Xz561de", 
+            "href": "https://api.spotify.com/v1/artists/6Uhp7WA6sjm5ZL6Xz561de", 
+            "type": "artist", 
+            "id": "6Uhp7WA6sjm5ZL6Xz561de"
+          }
+        ], 
+        "duration_ms": 220133, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "2XyU7gwELovG2Nqo9UYBGp"
+      }, 
+      {
+        "name": "What's Your Favorite Color?", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2l9zXM0b0FzjiZvYLrRQQm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6da84e61457ac1c2826e5ac586b4b54deb88211a", 
+        "is_playable": true, 
+        "uri": "spotify:track:2l9zXM0b0FzjiZvYLrRQQm", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2l9zXM0b0FzjiZvYLrRQQm", 
+        "artists": [
+          {
+            "name": "Living Colour", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de"
+            }, 
+            "uri": "spotify:artist:6Uhp7WA6sjm5ZL6Xz561de", 
+            "href": "https://api.spotify.com/v1/artists/6Uhp7WA6sjm5ZL6Xz561de", 
+            "type": "artist", 
+            "id": "6Uhp7WA6sjm5ZL6Xz561de"
+          }
+        ], 
+        "duration_ms": 101306, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "2l9zXM0b0FzjiZvYLrRQQm"
+      }, 
+      {
+        "name": "Which Way To America", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4pOY1K18SyB1j0Xp3u3KOI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2c6638a9dd04651dc601f61ae0463550bc15cebd", 
+        "is_playable": true, 
+        "uri": "spotify:track:4pOY1K18SyB1j0Xp3u3KOI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4pOY1K18SyB1j0Xp3u3KOI", 
+        "artists": [
+          {
+            "name": "Living Colour", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de"
+            }, 
+            "uri": "spotify:artist:6Uhp7WA6sjm5ZL6Xz561de", 
+            "href": "https://api.spotify.com/v1/artists/6Uhp7WA6sjm5ZL6Xz561de", 
+            "type": "artist", 
+            "id": "6Uhp7WA6sjm5ZL6Xz561de"
+          }
+        ], 
+        "duration_ms": 217800, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "4pOY1K18SyB1j0Xp3u3KOI"
+      }, 
+      {
+        "name": "Funny Vibe - Funky Vibe Mix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6tQ2go0VPZZUlkju7HfbPq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/22bb3894771f573158623dfbd90c4b32e4103356", 
+        "is_playable": true, 
+        "uri": "spotify:track:6tQ2go0VPZZUlkju7HfbPq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6tQ2go0VPZZUlkju7HfbPq", 
+        "artists": [
+          {
+            "name": "Living Colour", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de"
+            }, 
+            "uri": "spotify:artist:6Uhp7WA6sjm5ZL6Xz561de", 
+            "href": "https://api.spotify.com/v1/artists/6Uhp7WA6sjm5ZL6Xz561de", 
+            "type": "artist", 
+            "id": "6Uhp7WA6sjm5ZL6Xz561de"
+          }
+        ], 
+        "duration_ms": 221800, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "6tQ2go0VPZZUlkju7HfbPq"
+      }, 
+      {
+        "name": "Should I Stay Or Should I Go", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5FB7iFPvVT0YTv07GyIdyY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ec172181f7ec0d5b0015c9889020a17261deaade", 
+        "is_playable": true, 
+        "uri": "spotify:track:5FB7iFPvVT0YTv07GyIdyY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5FB7iFPvVT0YTv07GyIdyY", 
+        "artists": [
+          {
+            "name": "Living Colour", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de"
+            }, 
+            "uri": "spotify:artist:6Uhp7WA6sjm5ZL6Xz561de", 
+            "href": "https://api.spotify.com/v1/artists/6Uhp7WA6sjm5ZL6Xz561de", 
+            "type": "artist", 
+            "id": "6Uhp7WA6sjm5ZL6Xz561de"
+          }
+        ], 
+        "duration_ms": 147040, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "5FB7iFPvVT0YTv07GyIdyY"
+      }, 
+      {
+        "name": "What's Your Favorite Color? (Theme Song) - LeBlanc Remix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/165KsT3rT1nhE9P0QETbY3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5b635b8941bd1745b4745c2a70c2d4bf49311cb8", 
+        "is_playable": true, 
+        "uri": "spotify:track:165KsT3rT1nhE9P0QETbY3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/165KsT3rT1nhE9P0QETbY3", 
+        "artists": [
+          {
+            "name": "Living Colour", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de"
+            }, 
+            "uri": "spotify:artist:6Uhp7WA6sjm5ZL6Xz561de", 
+            "href": "https://api.spotify.com/v1/artists/6Uhp7WA6sjm5ZL6Xz561de", 
+            "type": "artist", 
+            "id": "6Uhp7WA6sjm5ZL6Xz561de"
+          }
+        ], 
+        "duration_ms": 339466, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "165KsT3rT1nhE9P0QETbY3"
+      }, 
+      {
+        "name": "Middle Man - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7fhSpEtYLZgTigFlWe5RXE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/90d8ba78bd923c9e78c0d7050ca35480409cfc9a", 
+        "is_playable": true, 
+        "uri": "spotify:track:7fhSpEtYLZgTigFlWe5RXE", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7fhSpEtYLZgTigFlWe5RXE", 
+        "artists": [
+          {
+            "name": "Living Colour", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de"
+            }, 
+            "uri": "spotify:artist:6Uhp7WA6sjm5ZL6Xz561de", 
+            "href": "https://api.spotify.com/v1/artists/6Uhp7WA6sjm5ZL6Xz561de", 
+            "type": "artist", 
+            "id": "6Uhp7WA6sjm5ZL6Xz561de"
+          }
+        ], 
+        "duration_ms": 228640, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "7fhSpEtYLZgTigFlWe5RXE"
+      }, 
+      {
+        "name": "Cult of Personality - Live at the Ritz", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3hozHnzTlMggCso0YHzgWh"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/86907dc1c87b13b1eabc272eb3d30dbfcf5ffacc", 
+        "is_playable": true, 
+        "uri": "spotify:track:3hozHnzTlMggCso0YHzgWh", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3hozHnzTlMggCso0YHzgWh", 
+        "artists": [
+          {
+            "name": "Living Colour", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de"
+            }, 
+            "uri": "spotify:artist:6Uhp7WA6sjm5ZL6Xz561de", 
+            "href": "https://api.spotify.com/v1/artists/6Uhp7WA6sjm5ZL6Xz561de", 
+            "type": "artist", 
+            "id": "6Uhp7WA6sjm5ZL6Xz561de"
+          }
+        ], 
+        "duration_ms": 299640, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "3hozHnzTlMggCso0YHzgWh"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/532IlegHv3OfVGgyCFGBTs/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 16, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/532IlegHv3OfVGgyCFGBTs", 
+  "copyrights": [
+    {
+      "text": "(P) 1988, 1989, 1991, 2002 Sony Music Entertainment Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Living Colour", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de"
+      }, 
+      "uri": "spotify:artist:6Uhp7WA6sjm5ZL6Xz561de", 
+      "href": "https://api.spotify.com/v1/artists/6Uhp7WA6sjm5ZL6Xz561de", 
+      "type": "artist", 
+      "id": "6Uhp7WA6sjm5ZL6Xz561de"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/832b0f2092c179d5f5095234caf27f63eda35169", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/4111af7d47717a75a50b53c90a8b1ad997f69101", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/98cfe7d0467a90450df3c0cbb891295d062f5633", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "696998598522"
+  }, 
+  "type": "album", 
+  "id": "532IlegHv3OfVGgyCFGBTs", 
+  "name": "Vivid"
+}

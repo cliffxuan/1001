@@ -1,0 +1,319 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4KdEMeJZeYMVDoEvJSnwuj"
+  }, 
+  "release_date": "1973", 
+  "popularity": 42, 
+  "genres": [], 
+  "uri": "spotify:album:4KdEMeJZeYMVDoEvJSnwuj", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Child's Christmas In Wales", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0eaIZ82uOTXqkopGBer5FO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/61706e1b91bbeecaa57b945e9a14b0276a141d2c", 
+        "is_playable": true, 
+        "uri": "spotify:track:0eaIZ82uOTXqkopGBer5FO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0eaIZ82uOTXqkopGBer5FO", 
+        "artists": [
+          {
+            "name": "John Cale", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+            }, 
+            "uri": "spotify:artist:5MWBg16f5UYiaSlyVhzlIW", 
+            "href": "https://api.spotify.com/v1/artists/5MWBg16f5UYiaSlyVhzlIW", 
+            "type": "artist", 
+            "id": "5MWBg16f5UYiaSlyVhzlIW"
+          }
+        ], 
+        "duration_ms": 200706, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "0eaIZ82uOTXqkopGBer5FO"
+      }, 
+      {
+        "name": "Hanky Panky Nohow", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5eos4i4cbrBtq9Rr1IB565"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a8ecd9703483c5c5a5694521d5f8149950e68e25", 
+        "is_playable": true, 
+        "uri": "spotify:track:5eos4i4cbrBtq9Rr1IB565", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5eos4i4cbrBtq9Rr1IB565", 
+        "artists": [
+          {
+            "name": "John Cale", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+            }, 
+            "uri": "spotify:artist:5MWBg16f5UYiaSlyVhzlIW", 
+            "href": "https://api.spotify.com/v1/artists/5MWBg16f5UYiaSlyVhzlIW", 
+            "type": "artist", 
+            "id": "5MWBg16f5UYiaSlyVhzlIW"
+          }
+        ], 
+        "duration_ms": 165653, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "5eos4i4cbrBtq9Rr1IB565"
+      }, 
+      {
+        "name": "The Endless Plain Of Fortune", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7zIltJzf6dR1k7kQzrsQmy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/06bb9c6f2cbf50ea5911039046c5ce1d060ff5e6", 
+        "is_playable": true, 
+        "uri": "spotify:track:7zIltJzf6dR1k7kQzrsQmy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7zIltJzf6dR1k7kQzrsQmy", 
+        "artists": [
+          {
+            "name": "John Cale", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+            }, 
+            "uri": "spotify:artist:5MWBg16f5UYiaSlyVhzlIW", 
+            "href": "https://api.spotify.com/v1/artists/5MWBg16f5UYiaSlyVhzlIW", 
+            "type": "artist", 
+            "id": "5MWBg16f5UYiaSlyVhzlIW"
+          }
+        ], 
+        "duration_ms": 252666, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "7zIltJzf6dR1k7kQzrsQmy"
+      }, 
+      {
+        "name": "Andalucia", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2dloiby9BpSCmfOTc9o5go"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/15808b57b1ee47ae9270989a1ebf2182f1159084", 
+        "is_playable": true, 
+        "uri": "spotify:track:2dloiby9BpSCmfOTc9o5go", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2dloiby9BpSCmfOTc9o5go", 
+        "artists": [
+          {
+            "name": "John Cale", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+            }, 
+            "uri": "spotify:artist:5MWBg16f5UYiaSlyVhzlIW", 
+            "href": "https://api.spotify.com/v1/artists/5MWBg16f5UYiaSlyVhzlIW", 
+            "type": "artist", 
+            "id": "5MWBg16f5UYiaSlyVhzlIW"
+          }
+        ], 
+        "duration_ms": 234186, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "2dloiby9BpSCmfOTc9o5go"
+      }, 
+      {
+        "name": "Macbeth", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1TQapRW6egK3oP1q4QTIzQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3e4c5aa0de9d72bdf5da06a7f528347420d27761", 
+        "is_playable": true, 
+        "uri": "spotify:track:1TQapRW6egK3oP1q4QTIzQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1TQapRW6egK3oP1q4QTIzQ", 
+        "artists": [
+          {
+            "name": "John Cale", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+            }, 
+            "uri": "spotify:artist:5MWBg16f5UYiaSlyVhzlIW", 
+            "href": "https://api.spotify.com/v1/artists/5MWBg16f5UYiaSlyVhzlIW", 
+            "type": "artist", 
+            "id": "5MWBg16f5UYiaSlyVhzlIW"
+          }
+        ], 
+        "duration_ms": 188373, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "1TQapRW6egK3oP1q4QTIzQ"
+      }, 
+      {
+        "name": "Paris 1919", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7sF2KOkDLXNDAiUXpWP8aR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/50fef2888fe66e1b9d2be0c9490d78e8cd11bca3", 
+        "is_playable": true, 
+        "uri": "spotify:track:7sF2KOkDLXNDAiUXpWP8aR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7sF2KOkDLXNDAiUXpWP8aR", 
+        "artists": [
+          {
+            "name": "John Cale", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+            }, 
+            "uri": "spotify:artist:5MWBg16f5UYiaSlyVhzlIW", 
+            "href": "https://api.spotify.com/v1/artists/5MWBg16f5UYiaSlyVhzlIW", 
+            "type": "artist", 
+            "id": "5MWBg16f5UYiaSlyVhzlIW"
+          }
+        ], 
+        "duration_ms": 246799, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "7sF2KOkDLXNDAiUXpWP8aR"
+      }, 
+      {
+        "name": "Graham Greene", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0IYQxwraQiOnLEYI33FEqq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3d9bcd3127eee1c43581b6f0b3129e3f12ce2a2a", 
+        "is_playable": true, 
+        "uri": "spotify:track:0IYQxwraQiOnLEYI33FEqq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0IYQxwraQiOnLEYI33FEqq", 
+        "artists": [
+          {
+            "name": "John Cale", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+            }, 
+            "uri": "spotify:artist:5MWBg16f5UYiaSlyVhzlIW", 
+            "href": "https://api.spotify.com/v1/artists/5MWBg16f5UYiaSlyVhzlIW", 
+            "type": "artist", 
+            "id": "5MWBg16f5UYiaSlyVhzlIW"
+          }
+        ], 
+        "duration_ms": 180453, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "0IYQxwraQiOnLEYI33FEqq"
+      }, 
+      {
+        "name": "Half Past France", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1202spGcimpFkMZqvYjHJA"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b96ef11727c7f4ea5c88b90bf5662c59cba80ffd", 
+        "is_playable": true, 
+        "uri": "spotify:track:1202spGcimpFkMZqvYjHJA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1202spGcimpFkMZqvYjHJA", 
+        "artists": [
+          {
+            "name": "John Cale", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+            }, 
+            "uri": "spotify:artist:5MWBg16f5UYiaSlyVhzlIW", 
+            "href": "https://api.spotify.com/v1/artists/5MWBg16f5UYiaSlyVhzlIW", 
+            "type": "artist", 
+            "id": "5MWBg16f5UYiaSlyVhzlIW"
+          }
+        ], 
+        "duration_ms": 259853, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "1202spGcimpFkMZqvYjHJA"
+      }, 
+      {
+        "name": "Antarctica Starts Here", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1OlnvjzlslavBvkXQfHVUG"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d3005a1ee56b3868548110565cd1f357fcf283c9", 
+        "is_playable": true, 
+        "uri": "spotify:track:1OlnvjzlslavBvkXQfHVUG", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1OlnvjzlslavBvkXQfHVUG", 
+        "artists": [
+          {
+            "name": "John Cale", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+            }, 
+            "uri": "spotify:artist:5MWBg16f5UYiaSlyVhzlIW", 
+            "href": "https://api.spotify.com/v1/artists/5MWBg16f5UYiaSlyVhzlIW", 
+            "type": "artist", 
+            "id": "5MWBg16f5UYiaSlyVhzlIW"
+          }
+        ], 
+        "duration_ms": 166893, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "1OlnvjzlslavBvkXQfHVUG"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/4KdEMeJZeYMVDoEvJSnwuj/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 9, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/4KdEMeJZeYMVDoEvJSnwuj", 
+  "copyrights": [
+    {
+      "text": "1973 Warner Bros. Records, manufactured and marketed by Rhino Entertainment Company, a Warner Music Group Company", 
+      "type": "C"
+    }, 
+    {
+      "text": "1973 Warner Bros. Records, manufactured and marketed by Rhino Entertainment Company, a Warner Music Group Company", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "John Cale", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+      }, 
+      "uri": "spotify:artist:5MWBg16f5UYiaSlyVhzlIW", 
+      "href": "https://api.spotify.com/v1/artists/5MWBg16f5UYiaSlyVhzlIW", 
+      "type": "artist", 
+      "id": "5MWBg16f5UYiaSlyVhzlIW"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/09728ae7a842f0984a327337f00d29d489787712", 
+      "width": 640, 
+      "height": 638
+    }, 
+    {
+      "url": "https://i.scdn.co/image/ef41fcababaa036fafdaa4685e07acd72d18b5a6", 
+      "width": 300, 
+      "height": 299
+    }, 
+    {
+      "url": "https://i.scdn.co/image/ec2f8102106e397d22c8f6f06b8278225f0e0003", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "603497981120"
+  }, 
+  "type": "album", 
+  "id": "4KdEMeJZeYMVDoEvJSnwuj", 
+  "name": "Paris 1919"
+}

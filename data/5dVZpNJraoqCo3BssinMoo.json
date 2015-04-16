@@ -1,0 +1,487 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
+  }, 
+  "release_date": "1979-08-03", 
+  "popularity": 44, 
+  "genres": [], 
+  "uri": "spotify:album:5dVZpNJraoqCo3BssinMoo", 
+  "tracks": {
+    "items": [
+      {
+        "name": "I Zimbra - 2005 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2zdlkG9g5Mt0alUdqn7s3D"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/75a1a657387f788af2bff62f6a136d0f9393786a", 
+        "is_playable": true, 
+        "uri": "spotify:track:2zdlkG9g5Mt0alUdqn7s3D", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2zdlkG9g5Mt0alUdqn7s3D", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 188973, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "2zdlkG9g5Mt0alUdqn7s3D"
+      }, 
+      {
+        "name": "Mind - 2005 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5VMTSLp2WX3dsnsVWiVGB7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/987b2084813486792ea9ea1e30229ebe98c590c8", 
+        "is_playable": true, 
+        "uri": "spotify:track:5VMTSLp2WX3dsnsVWiVGB7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5VMTSLp2WX3dsnsVWiVGB7", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 252040, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "5VMTSLp2WX3dsnsVWiVGB7"
+      }, 
+      {
+        "name": "Paper - 2005 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/57jZdOq1zVM3GiFLumETkE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6c08b397ad37122fc744d18e488b88f3ac60dc9a", 
+        "is_playable": true, 
+        "uri": "spotify:track:57jZdOq1zVM3GiFLumETkE", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/57jZdOq1zVM3GiFLumETkE", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 158613, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "57jZdOq1zVM3GiFLumETkE"
+      }, 
+      {
+        "name": "Cities - 2005 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4jSSPIBpwdh1KpAYqZTJbC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0e18d2371ce4ad5f684a665077d9fe8dd803bcb9", 
+        "is_playable": true, 
+        "uri": "spotify:track:4jSSPIBpwdh1KpAYqZTJbC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4jSSPIBpwdh1KpAYqZTJbC", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 254000, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "4jSSPIBpwdh1KpAYqZTJbC"
+      }, 
+      {
+        "name": "Life During Wartime - 2005 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7CqleiaEqHVazV19P532X9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a659004f7593eb705bea564376875cd1eb52d513", 
+        "is_playable": true, 
+        "uri": "spotify:track:7CqleiaEqHVazV19P532X9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7CqleiaEqHVazV19P532X9", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 221320, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "7CqleiaEqHVazV19P532X9"
+      }, 
+      {
+        "name": "Memories Can't Wait - 2005 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Gw9ACmKi3O2vP8UwJqF0M"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/01d24542379ded2616ebade4fde525d8590fbc1e", 
+        "is_playable": true, 
+        "uri": "spotify:track:4Gw9ACmKi3O2vP8UwJqF0M", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4Gw9ACmKi3O2vP8UwJqF0M", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 210013, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "4Gw9ACmKi3O2vP8UwJqF0M"
+      }, 
+      {
+        "name": "Air - 2005 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6XvpjZugZzMHa2nZ1uPOka"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5c9df69ace84f22422a4f62661ddf1f62e075ce9", 
+        "is_playable": true, 
+        "uri": "spotify:track:6XvpjZugZzMHa2nZ1uPOka", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6XvpjZugZzMHa2nZ1uPOka", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 214133, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "6XvpjZugZzMHa2nZ1uPOka"
+      }, 
+      {
+        "name": "Heaven - 2005 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5IpKduzyTWSCebGXkfJ2Mm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/093232101499e56e727631c029830f39cbf56a38", 
+        "is_playable": true, 
+        "uri": "spotify:track:5IpKduzyTWSCebGXkfJ2Mm", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5IpKduzyTWSCebGXkfJ2Mm", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 241466, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "5IpKduzyTWSCebGXkfJ2Mm"
+      }, 
+      {
+        "name": "Animals - 2005 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/15l2kEwhZSsj01tZnNzyZ2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/45c157d2a9bced5a80ba70537ec769b74ed3a37e", 
+        "is_playable": true, 
+        "uri": "spotify:track:15l2kEwhZSsj01tZnNzyZ2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/15l2kEwhZSsj01tZnNzyZ2", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 210426, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "15l2kEwhZSsj01tZnNzyZ2"
+      }, 
+      {
+        "name": "Electric Guitar - 2005 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/04xgGiUefNOWhtcQQx5Kzg"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/548917a4af1d87bf84c1f446f6b9100ae454eb58", 
+        "is_playable": true, 
+        "uri": "spotify:track:04xgGiUefNOWhtcQQx5Kzg", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/04xgGiUefNOWhtcQQx5Kzg", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 181200, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "04xgGiUefNOWhtcQQx5Kzg"
+      }, 
+      {
+        "name": "Drugs - 2005 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0OnQj8a27DzuNnTXSgOtq6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7d32962ecfd33560402ed73ab5e89a629d8e3f1e", 
+        "is_playable": true, 
+        "uri": "spotify:track:0OnQj8a27DzuNnTXSgOtq6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0OnQj8a27DzuNnTXSgOtq6", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 314880, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "0OnQj8a27DzuNnTXSgOtq6"
+      }, 
+      {
+        "name": "Dancing For Money - Unfinished Outtake", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7GMMJoDMIR5rrir3qHYQmw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0fe8ae91668cc056c835398d090438bed9bde1cf", 
+        "is_playable": true, 
+        "uri": "spotify:track:7GMMJoDMIR5rrir3qHYQmw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7GMMJoDMIR5rrir3qHYQmw", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 159906, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "7GMMJoDMIR5rrir3qHYQmw"
+      }, 
+      {
+        "name": "Life During Wartime - Alternate Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2SJWShnt1Fx1PwZOb5wXvv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b2557c990947399aef09c8a51083ccc9d6da3ddc", 
+        "is_playable": true, 
+        "uri": "spotify:track:2SJWShnt1Fx1PwZOb5wXvv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2SJWShnt1Fx1PwZOb5wXvv", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 245466, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "2SJWShnt1Fx1PwZOb5wXvv"
+      }, 
+      {
+        "name": "Cities - Alternate Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/34D5h7jIkVaVmJUIH9vYqH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/395121ab038db1cfea95ad76e97e99b3b3918959", 
+        "is_playable": true, 
+        "uri": "spotify:track:34D5h7jIkVaVmJUIH9vYqH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/34D5h7jIkVaVmJUIH9vYqH", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 328133, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "34D5h7jIkVaVmJUIH9vYqH"
+      }, 
+      {
+        "name": "Mind - Alternate Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4CsQrPRNoYLsBrSFnq0lDY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/93926f9858223393f1677dc26a4991151e4d7d6b", 
+        "is_playable": true, 
+        "uri": "spotify:track:4CsQrPRNoYLsBrSFnq0lDY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4CsQrPRNoYLsBrSFnq0lDY", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 266373, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "4CsQrPRNoYLsBrSFnq0lDY"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/5dVZpNJraoqCo3BssinMoo/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 15, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/5dVZpNJraoqCo3BssinMoo", 
+  "copyrights": [
+    {
+      "text": "2006 Sire Records. Manufactured & Marketed by Rhino Entertainment Group. A Warner Music Group Co.", 
+      "type": "C"
+    }, 
+    {
+      "text": "2006 Sire Records. Manufactured & Marketed by Rhino Entertainment Group. A Warner Music Group Co.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Talking Heads", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+      }, 
+      "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+      "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+      "type": "artist", 
+      "id": "2x9SpqnPi8rlE9pjHBwmSC"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/89a94e9dcc3988dea066f3094fb0a1eb8ba3b850", 
+      "width": 640, 
+      "height": 570
+    }, 
+    {
+      "url": "https://i.scdn.co/image/18c02c43c76a8c6ad873f3575bfb4f297ee183fd", 
+      "width": 300, 
+      "height": 267
+    }, 
+    {
+      "url": "https://i.scdn.co/image/eb3771db04fe42739f3b915af2fddc6b66db6932", 
+      "width": 64, 
+      "height": 57
+    }
+  ], 
+  "external_ids": {
+    "upc": "603497146567"
+  }, 
+  "type": "album", 
+  "id": "5dVZpNJraoqCo3BssinMoo", 
+  "name": "Fear Of Music (Deluxe Version)"
+}

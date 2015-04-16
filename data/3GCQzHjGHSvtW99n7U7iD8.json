@@ -1,0 +1,471 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3GCQzHjGHSvtW99n7U7iD8"
+  }, 
+  "release_date": "1998", 
+  "popularity": 21, 
+  "genres": [], 
+  "uri": "spotify:album:3GCQzHjGHSvtW99n7U7iD8", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Vento De Maio / M\u00fasica Incidental: ''Um Girassol Da Cor Do Seu Cabelo''", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1X0cLjuQr4l6UoMifMTNI1"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/841f6e4ba7df0f3f7e7ddc4c56555fe39b55a6cf", 
+        "is_playable": true, 
+        "uri": "spotify:track:1X0cLjuQr4l6UoMifMTNI1", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1X0cLjuQr4l6UoMifMTNI1", 
+        "artists": [
+          {
+            "name": "Elis Regina", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+            }, 
+            "uri": "spotify:artist:0yFvXd36g5sNKYDi0Kkvl8", 
+            "href": "https://api.spotify.com/v1/artists/0yFvXd36g5sNKYDi0Kkvl8", 
+            "type": "artist", 
+            "id": "0yFvXd36g5sNKYDi0Kkvl8"
+          }, 
+          {
+            "name": "Lo Borges", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT"
+            }, 
+            "uri": "spotify:artist:1mZbRiSVb2ExneAlDbBiiT", 
+            "href": "https://api.spotify.com/v1/artists/1mZbRiSVb2ExneAlDbBiiT", 
+            "type": "artist", 
+            "id": "1mZbRiSVb2ExneAlDbBiiT"
+          }
+        ], 
+        "duration_ms": 206133, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "1X0cLjuQr4l6UoMifMTNI1"
+      }, 
+      {
+        "name": "Sai Dessa", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/525EJ4H5kzvr13D5od625Y"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/214e64ce1440d6ae42745fbab5a57286dba92a75", 
+        "is_playable": true, 
+        "uri": "spotify:track:525EJ4H5kzvr13D5od625Y", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/525EJ4H5kzvr13D5od625Y", 
+        "artists": [
+          {
+            "name": "Elis Regina", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+            }, 
+            "uri": "spotify:artist:0yFvXd36g5sNKYDi0Kkvl8", 
+            "href": "https://api.spotify.com/v1/artists/0yFvXd36g5sNKYDi0Kkvl8", 
+            "type": "artist", 
+            "id": "0yFvXd36g5sNKYDi0Kkvl8"
+          }
+        ], 
+        "duration_ms": 130960, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "525EJ4H5kzvr13D5od625Y"
+      }, 
+      {
+        "name": "Tiro Ao \u00c1lvaro - feat. Elis Regina", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7f31hpuzCNIU0rX5E6Dr3g"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/72aff233a7673e29c7b146e947c065164972a978", 
+        "is_playable": true, 
+        "uri": "spotify:track:7f31hpuzCNIU0rX5E6Dr3g", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7f31hpuzCNIU0rX5E6Dr3g", 
+        "artists": [
+          {
+            "name": "Elis Regina", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+            }, 
+            "uri": "spotify:artist:0yFvXd36g5sNKYDi0Kkvl8", 
+            "href": "https://api.spotify.com/v1/artists/0yFvXd36g5sNKYDi0Kkvl8", 
+            "type": "artist", 
+            "id": "0yFvXd36g5sNKYDi0Kkvl8"
+          }, 
+          {
+            "name": "Adoniran Barbosa", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP"
+            }, 
+            "uri": "spotify:artist:7vTlV3ajnMxl5l0ahupUeP", 
+            "href": "https://api.spotify.com/v1/artists/7vTlV3ajnMxl5l0ahupUeP", 
+            "type": "artist", 
+            "id": "7vTlV3ajnMxl5l0ahupUeP"
+          }
+        ], 
+        "duration_ms": 164000, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "7f31hpuzCNIU0rX5E6Dr3g"
+      }, 
+      {
+        "name": "S\u00f3 Deus \u00c9 Quem Sabe", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4MlhbNgloTjF1SkoMqcCCH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/016f6e5f24e3b5d87f0bbd1a97fa1f82908c6e7e", 
+        "is_playable": true, 
+        "uri": "spotify:track:4MlhbNgloTjF1SkoMqcCCH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4MlhbNgloTjF1SkoMqcCCH", 
+        "artists": [
+          {
+            "name": "Elis Regina", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+            }, 
+            "uri": "spotify:artist:0yFvXd36g5sNKYDi0Kkvl8", 
+            "href": "https://api.spotify.com/v1/artists/0yFvXd36g5sNKYDi0Kkvl8", 
+            "type": "artist", 
+            "id": "0yFvXd36g5sNKYDi0Kkvl8"
+          }
+        ], 
+        "duration_ms": 237306, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "4MlhbNgloTjF1SkoMqcCCH"
+      }, 
+      {
+        "name": "O Que Foi Feito Devera / O Que Foi Feito De Vera - feat. Elis Regina", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2zASFnKek6Q4EoO2NZDXwd"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c8aedcdc883c42177eb9cb24f5c5a4a481950f04", 
+        "is_playable": true, 
+        "uri": "spotify:track:2zASFnKek6Q4EoO2NZDXwd", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2zASFnKek6Q4EoO2NZDXwd", 
+        "artists": [
+          {
+            "name": "Elis Regina", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+            }, 
+            "uri": "spotify:artist:0yFvXd36g5sNKYDi0Kkvl8", 
+            "href": "https://api.spotify.com/v1/artists/0yFvXd36g5sNKYDi0Kkvl8", 
+            "type": "artist", 
+            "id": "0yFvXd36g5sNKYDi0Kkvl8"
+          }, 
+          {
+            "name": "Milton Nascimento", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+            }, 
+            "uri": "spotify:artist:3Bnq7jiU506HcPjRgQ43TM", 
+            "href": "https://api.spotify.com/v1/artists/3Bnq7jiU506HcPjRgQ43TM", 
+            "type": "artist", 
+            "id": "3Bnq7jiU506HcPjRgQ43TM"
+          }
+        ], 
+        "duration_ms": 291866, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "2zASFnKek6Q4EoO2NZDXwd"
+      }, 
+      {
+        "name": "Nova Esta\u00e7\u00e3o", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5GorAN1E9knCRnGtOAnou0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5790019e2679ae7d853802b225b03c37c8c7a9d1", 
+        "is_playable": true, 
+        "uri": "spotify:track:5GorAN1E9knCRnGtOAnou0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5GorAN1E9knCRnGtOAnou0", 
+        "artists": [
+          {
+            "name": "Elis Regina", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+            }, 
+            "uri": "spotify:artist:0yFvXd36g5sNKYDi0Kkvl8", 
+            "href": "https://api.spotify.com/v1/artists/0yFvXd36g5sNKYDi0Kkvl8", 
+            "type": "artist", 
+            "id": "0yFvXd36g5sNKYDi0Kkvl8"
+          }
+        ], 
+        "duration_ms": 200733, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "5GorAN1E9knCRnGtOAnou0"
+      }, 
+      {
+        "name": "Saudade Eterna", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3WXuywDLpr4mGiSq43F07o"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ec2cb81bf3c26f275e47ae068e663cc738781a0e", 
+        "is_playable": true, 
+        "uri": "spotify:track:3WXuywDLpr4mGiSq43F07o", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3WXuywDLpr4mGiSq43F07o", 
+        "artists": [
+          {
+            "name": "Moraezinho", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2Oj1Vl1WxwKLPKg14lKTmK"
+            }, 
+            "uri": "spotify:artist:2Oj1Vl1WxwKLPKg14lKTmK", 
+            "href": "https://api.spotify.com/v1/artists/2Oj1Vl1WxwKLPKg14lKTmK", 
+            "type": "artist", 
+            "id": "2Oj1Vl1WxwKLPKg14lKTmK"
+          }
+        ], 
+        "duration_ms": 193866, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "3WXuywDLpr4mGiSq43F07o"
+      }, 
+      {
+        "name": "Outro Cais", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3NFdhC5avHbZeBfylrGHB5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/dbb29562adcd0e1ea75bd2bf5f0b3998eb96848f", 
+        "is_playable": true, 
+        "uri": "spotify:track:3NFdhC5avHbZeBfylrGHB5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3NFdhC5avHbZeBfylrGHB5", 
+        "artists": [
+          {
+            "name": "Elis Regina", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+            }, 
+            "uri": "spotify:artist:0yFvXd36g5sNKYDi0Kkvl8", 
+            "href": "https://api.spotify.com/v1/artists/0yFvXd36g5sNKYDi0Kkvl8", 
+            "type": "artist", 
+            "id": "0yFvXd36g5sNKYDi0Kkvl8"
+          }, 
+          {
+            "name": "Lo Borges", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT"
+            }, 
+            "uri": "spotify:artist:1mZbRiSVb2ExneAlDbBiiT", 
+            "href": "https://api.spotify.com/v1/artists/1mZbRiSVb2ExneAlDbBiiT", 
+            "type": "artist", 
+            "id": "1mZbRiSVb2ExneAlDbBiiT"
+          }
+        ], 
+        "duration_ms": 124893, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "3NFdhC5avHbZeBfylrGHB5"
+      }, 
+      {
+        "name": "Rebento", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2mhKv1Rbkbbo57644mTOrA"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c8ff351d87595336f90d84a9dc3a8cd8ab9eb061", 
+        "is_playable": true, 
+        "uri": "spotify:track:2mhKv1Rbkbbo57644mTOrA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2mhKv1Rbkbbo57644mTOrA", 
+        "artists": [
+          {
+            "name": "Elis Regina", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+            }, 
+            "uri": "spotify:artist:0yFvXd36g5sNKYDi0Kkvl8", 
+            "href": "https://api.spotify.com/v1/artists/0yFvXd36g5sNKYDi0Kkvl8", 
+            "type": "artist", 
+            "id": "0yFvXd36g5sNKYDi0Kkvl8"
+          }
+        ], 
+        "duration_ms": 307240, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "2mhKv1Rbkbbo57644mTOrA"
+      }, 
+      {
+        "name": "O Trem Azul", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6WLOyKNN9aXfoHR4T31ryG"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5d96c6ae81554c24e2c92bfb9f0890eda88f9151", 
+        "is_playable": true, 
+        "uri": "spotify:track:6WLOyKNN9aXfoHR4T31ryG", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6WLOyKNN9aXfoHR4T31ryG", 
+        "artists": [
+          {
+            "name": "Elis Regina", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+            }, 
+            "uri": "spotify:artist:0yFvXd36g5sNKYDi0Kkvl8", 
+            "href": "https://api.spotify.com/v1/artists/0yFvXd36g5sNKYDi0Kkvl8", 
+            "type": "artist", 
+            "id": "0yFvXd36g5sNKYDi0Kkvl8"
+          }
+        ], 
+        "duration_ms": 268360, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "6WLOyKNN9aXfoHR4T31ryG"
+      }, 
+      {
+        "name": "O Medo de Amar e o Medo de Ser Livre", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/406AP6m5lEB3nW8fxzIDX8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/46f17b1baaa3f3a61eba696b1de517c20f34a666", 
+        "is_playable": true, 
+        "uri": "spotify:track:406AP6m5lEB3nW8fxzIDX8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/406AP6m5lEB3nW8fxzIDX8", 
+        "artists": [
+          {
+            "name": "Elis Regina", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+            }, 
+            "uri": "spotify:artist:0yFvXd36g5sNKYDi0Kkvl8", 
+            "href": "https://api.spotify.com/v1/artists/0yFvXd36g5sNKYDi0Kkvl8", 
+            "type": "artist", 
+            "id": "0yFvXd36g5sNKYDi0Kkvl8"
+          }
+        ], 
+        "duration_ms": 266240, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "406AP6m5lEB3nW8fxzIDX8"
+      }, 
+      {
+        "name": "Se Eu Quiser Falar Com Deus", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3xENhEosPn9KLDGNFCHpE3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/09bbf8def17d1740157b4f264d182a4f86493f20", 
+        "is_playable": true, 
+        "uri": "spotify:track:3xENhEosPn9KLDGNFCHpE3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3xENhEosPn9KLDGNFCHpE3", 
+        "artists": [
+          {
+            "name": "Elis Regina", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+            }, 
+            "uri": "spotify:artist:0yFvXd36g5sNKYDi0Kkvl8", 
+            "href": "https://api.spotify.com/v1/artists/0yFvXd36g5sNKYDi0Kkvl8", 
+            "type": "artist", 
+            "id": "0yFvXd36g5sNKYDi0Kkvl8"
+          }
+        ], 
+        "duration_ms": 255933, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "3xENhEosPn9KLDGNFCHpE3"
+      }, 
+      {
+        "name": "Aprendendo a Jogar", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6LdauX4SorragagZB01umY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/791436b89cdea9113381b5791c89b065b61f3d13", 
+        "is_playable": true, 
+        "uri": "spotify:track:6LdauX4SorragagZB01umY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6LdauX4SorragagZB01umY", 
+        "artists": [
+          {
+            "name": "Elis Regina", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+            }, 
+            "uri": "spotify:artist:0yFvXd36g5sNKYDi0Kkvl8", 
+            "href": "https://api.spotify.com/v1/artists/0yFvXd36g5sNKYDi0Kkvl8", 
+            "type": "artist", 
+            "id": "0yFvXd36g5sNKYDi0Kkvl8"
+          }
+        ], 
+        "duration_ms": 247893, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "6LdauX4SorragagZB01umY"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/3GCQzHjGHSvtW99n7U7iD8/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 13, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/3GCQzHjGHSvtW99n7U7iD8", 
+  "copyrights": [
+    {
+      "text": "(C) 1998 EMI Records LtdThis label copy information is the subject of copyright protection. All rights reserved.(C) 1998 EMI Records Ltd", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1998 The copyright in this compilation is owned by EMI Records Ltd", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Elis Regina", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+      }, 
+      "uri": "spotify:artist:0yFvXd36g5sNKYDi0Kkvl8", 
+      "href": "https://api.spotify.com/v1/artists/0yFvXd36g5sNKYDi0Kkvl8", 
+      "type": "artist", 
+      "id": "0yFvXd36g5sNKYDi0Kkvl8"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ccb84879a8380476d08b1d085c90ed2e69e4a038", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/ab1ef8c11d211013fd748317386a4713b8ef0010", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/83c702b7a6de87ebfc0c7434280d849a81b07c82", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00724382350354"
+  }, 
+  "type": "album", 
+  "id": "3GCQzHjGHSvtW99n7U7iD8", 
+  "name": "Vento De Maio"
+}

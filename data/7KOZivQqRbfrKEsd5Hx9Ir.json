@@ -1,0 +1,931 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7KOZivQqRbfrKEsd5Hx9Ir"
+  }, 
+  "release_date": "2006-11-14", 
+  "popularity": 47, 
+  "genres": [], 
+  "uri": "spotify:album:7KOZivQqRbfrKEsd5Hx9Ir", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Blue Suede Shoes - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3oLXnOc8NomFc3EZz4YM2c"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d9d71c127379327833b790666914f5d08e9d88d7", 
+        "is_playable": true, 
+        "uri": "spotify:track:3oLXnOc8NomFc3EZz4YM2c", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3oLXnOc8NomFc3EZz4YM2c", 
+        "artists": [
+          {
+            "name": "Carl Perkins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
+            }, 
+            "uri": "spotify:artist:5hIClg6noTaCzMu2s5wp4f", 
+            "href": "https://api.spotify.com/v1/artists/5hIClg6noTaCzMu2s5wp4f", 
+            "type": "artist", 
+            "id": "5hIClg6noTaCzMu2s5wp4f"
+          }
+        ], 
+        "duration_ms": 231826, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "3oLXnOc8NomFc3EZz4YM2c"
+      }, 
+      {
+        "name": "Flowers on the Wall - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7IuRomSqHDLie1xEOTTxcZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f303e43bb1d4376436ee3561dffe6bda08d28515", 
+        "is_playable": true, 
+        "uri": "spotify:track:7IuRomSqHDLie1xEOTTxcZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7IuRomSqHDLie1xEOTTxcZ", 
+        "artists": [
+          {
+            "name": "The Statler Brothers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5PSWc8Y94zFsAtZlTe7ipI"
+            }, 
+            "uri": "spotify:artist:5PSWc8Y94zFsAtZlTe7ipI", 
+            "href": "https://api.spotify.com/v1/artists/5PSWc8Y94zFsAtZlTe7ipI", 
+            "type": "artist", 
+            "id": "5PSWc8Y94zFsAtZlTe7ipI"
+          }
+        ], 
+        "duration_ms": 206973, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "7IuRomSqHDLie1xEOTTxcZ"
+      }, 
+      {
+        "name": "The Last Thing On My Mind - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5mZfafxhx6FBM28qisv70x"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/dcbba5d80ac94254a3ddf37c334c66a39eedb6f4", 
+        "is_playable": true, 
+        "uri": "spotify:track:5mZfafxhx6FBM28qisv70x", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5mZfafxhx6FBM28qisv70x", 
+        "artists": [
+          {
+            "name": "The Carter Family", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0FRIWJYklnmsll5M6h4gUL"
+            }, 
+            "uri": "spotify:artist:0FRIWJYklnmsll5M6h4gUL", 
+            "href": "https://api.spotify.com/v1/artists/0FRIWJYklnmsll5M6h4gUL", 
+            "type": "artist", 
+            "id": "0FRIWJYklnmsll5M6h4gUL"
+          }
+        ], 
+        "duration_ms": 214400, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "5mZfafxhx6FBM28qisv70x"
+      }, 
+      {
+        "name": "June Carter Talks To The Audience - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5QMCdGb8d7bcOyn5tZuJT8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ddde185a98f79211e478aa8ad23dd91a9c7077e5", 
+        "is_playable": true, 
+        "uri": "spotify:track:5QMCdGb8d7bcOyn5tZuJT8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5QMCdGb8d7bcOyn5tZuJT8", 
+        "artists": [
+          {
+            "name": "June Carter Cash", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td"
+            }, 
+            "uri": "spotify:artist:0ZnY6mQmgr2yZarjry68td", 
+            "href": "https://api.spotify.com/v1/artists/0ZnY6mQmgr2yZarjry68td", 
+            "type": "artist", 
+            "id": "0ZnY6mQmgr2yZarjry68td"
+          }
+        ], 
+        "duration_ms": 161226, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "5QMCdGb8d7bcOyn5tZuJT8"
+      }, 
+      {
+        "name": "Wildwood Flower - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6sXVv2wom0C6AJPSSeRfrK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/05603423f287f7044d5811137bbd934cfaf27673", 
+        "is_playable": true, 
+        "uri": "spotify:track:6sXVv2wom0C6AJPSSeRfrK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6sXVv2wom0C6AJPSSeRfrK", 
+        "artists": [
+          {
+            "name": "Johnny Cash", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+            }, 
+            "uri": "spotify:artist:6kACVPfCOnqzgfEF5ryl0x", 
+            "href": "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x", 
+            "type": "artist", 
+            "id": "6kACVPfCOnqzgfEF5ryl0x"
+          }
+        ], 
+        "duration_ms": 228666, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "6sXVv2wom0C6AJPSSeRfrK"
+      }, 
+      {
+        "name": "Big River - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4BDHIpKyhoccMFODzB3mZC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3bf0a940bdc9ae5ee4cb88ddfd7f474dfb8bbaed", 
+        "is_playable": true, 
+        "uri": "spotify:track:4BDHIpKyhoccMFODzB3mZC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4BDHIpKyhoccMFODzB3mZC", 
+        "artists": [
+          {
+            "name": "Johnny Cash", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+            }, 
+            "uri": "spotify:artist:6kACVPfCOnqzgfEF5ryl0x", 
+            "href": "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x", 
+            "type": "artist", 
+            "id": "6kACVPfCOnqzgfEF5ryl0x"
+          }
+        ], 
+        "duration_ms": 103306, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "4BDHIpKyhoccMFODzB3mZC"
+      }, 
+      {
+        "name": "I Still Miss Someone - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/63bOertdF7zrjU0bRgnwR1"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0978b9d5efd1849eed7f4aa825880ff8720c5f42", 
+        "is_playable": true, 
+        "uri": "spotify:track:63bOertdF7zrjU0bRgnwR1", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/63bOertdF7zrjU0bRgnwR1", 
+        "artists": [
+          {
+            "name": "Johnny Cash", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+            }, 
+            "uri": "spotify:artist:6kACVPfCOnqzgfEF5ryl0x", 
+            "href": "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x", 
+            "type": "artist", 
+            "id": "6kACVPfCOnqzgfEF5ryl0x"
+          }
+        ], 
+        "duration_ms": 109866, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "63bOertdF7zrjU0bRgnwR1"
+      }, 
+      {
+        "name": "Wreck of the Old 97 - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5xfAHSSY8F4hM8hLS3cY2D"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/216771a9d2c8391c3d16094ab10f14358681bf8e", 
+        "is_playable": true, 
+        "uri": "spotify:track:5xfAHSSY8F4hM8hLS3cY2D", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5xfAHSSY8F4hM8hLS3cY2D", 
+        "artists": [
+          {
+            "name": "Johnny Cash", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+            }, 
+            "uri": "spotify:artist:6kACVPfCOnqzgfEF5ryl0x", 
+            "href": "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x", 
+            "type": "artist", 
+            "id": "6kACVPfCOnqzgfEF5ryl0x"
+          }
+        ], 
+        "duration_ms": 204026, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "5xfAHSSY8F4hM8hLS3cY2D"
+      }, 
+      {
+        "name": "I Walk the Line - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6tBcnzAflB45mh5dIFLsgj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/92dd0d9470b0e41b0616e7539ac1b3ef82aa2d81", 
+        "is_playable": true, 
+        "uri": "spotify:track:6tBcnzAflB45mh5dIFLsgj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6tBcnzAflB45mh5dIFLsgj", 
+        "artists": [
+          {
+            "name": "Johnny Cash", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+            }, 
+            "uri": "spotify:artist:6kACVPfCOnqzgfEF5ryl0x", 
+            "href": "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x", 
+            "type": "artist", 
+            "id": "6kACVPfCOnqzgfEF5ryl0x"
+          }
+        ], 
+        "duration_ms": 147706, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "6tBcnzAflB45mh5dIFLsgj"
+      }, 
+      {
+        "name": "The Long Black Veil/Give My Love To Rose - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6HgAt0jHIyitU0iO4sWP92"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ff93d111920a0bf5ce1235d69098471b57bb2fb5", 
+        "is_playable": true, 
+        "uri": "spotify:track:6HgAt0jHIyitU0iO4sWP92", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6HgAt0jHIyitU0iO4sWP92", 
+        "artists": [
+          {
+            "name": "Johnny Cash", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+            }, 
+            "uri": "spotify:artist:6kACVPfCOnqzgfEF5ryl0x", 
+            "href": "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x", 
+            "type": "artist", 
+            "id": "6kACVPfCOnqzgfEF5ryl0x"
+          }
+        ], 
+        "duration_ms": 246426, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "6HgAt0jHIyitU0iO4sWP92"
+      }, 
+      {
+        "name": "Folsom Prison Blues - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Ujg9uudGptuuG5yHe9oAk"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/38259f30db59809a62330a5d66cbe22cb01e496c", 
+        "is_playable": true, 
+        "uri": "spotify:track:1Ujg9uudGptuuG5yHe9oAk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1Ujg9uudGptuuG5yHe9oAk", 
+        "artists": [
+          {
+            "name": "Johnny Cash", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+            }, 
+            "uri": "spotify:artist:6kACVPfCOnqzgfEF5ryl0x", 
+            "href": "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x", 
+            "type": "artist", 
+            "id": "6kACVPfCOnqzgfEF5ryl0x"
+          }
+        ], 
+        "duration_ms": 180333, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "1Ujg9uudGptuuG5yHe9oAk"
+      }, 
+      {
+        "name": "Orange Blossom Special - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Z0G70rjjVE69mjY319riy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/628a9415d588335d844edbdb4c6d8d28a1038bf1", 
+        "is_playable": true, 
+        "uri": "spotify:track:1Z0G70rjjVE69mjY319riy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1Z0G70rjjVE69mjY319riy", 
+        "artists": [
+          {
+            "name": "Johnny Cash", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+            }, 
+            "uri": "spotify:artist:6kACVPfCOnqzgfEF5ryl0x", 
+            "href": "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x", 
+            "type": "artist", 
+            "id": "6kACVPfCOnqzgfEF5ryl0x"
+          }
+        ], 
+        "duration_ms": 182840, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "1Z0G70rjjVE69mjY319riy"
+      }, 
+      {
+        "name": "Jackson - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7ryGtzNkNTZBfzpyvKhH16"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/163000f02703bd2d817459c7b0bca74360a6afcf", 
+        "is_playable": true, 
+        "uri": "spotify:track:7ryGtzNkNTZBfzpyvKhH16", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7ryGtzNkNTZBfzpyvKhH16", 
+        "artists": [
+          {
+            "name": "Johnny Cash", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+            }, 
+            "uri": "spotify:artist:6kACVPfCOnqzgfEF5ryl0x", 
+            "href": "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x", 
+            "type": "artist", 
+            "id": "6kACVPfCOnqzgfEF5ryl0x"
+          }
+        ], 
+        "duration_ms": 203000, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "7ryGtzNkNTZBfzpyvKhH16"
+      }, 
+      {
+        "name": "Darlin' Companion - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4d4zn8X5OmHDhxZ4S81V1A"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/06f5adec38d4f85e8ecf444e9e9508f4e3a8d056", 
+        "is_playable": true, 
+        "uri": "spotify:track:4d4zn8X5OmHDhxZ4S81V1A", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4d4zn8X5OmHDhxZ4S81V1A", 
+        "artists": [
+          {
+            "name": "Johnny Cash", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+            }, 
+            "uri": "spotify:artist:6kACVPfCOnqzgfEF5ryl0x", 
+            "href": "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x", 
+            "type": "artist", 
+            "id": "6kACVPfCOnqzgfEF5ryl0x"
+          }
+        ], 
+        "duration_ms": 144333, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "4d4zn8X5OmHDhxZ4S81V1A"
+      }, 
+      {
+        "name": "Break My Mind - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3VxibYmp1nDOtHrhYZbUbq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/980d70c6cc9b4012f31df34cd83ec640ed4c54c9", 
+        "is_playable": true, 
+        "uri": "spotify:track:3VxibYmp1nDOtHrhYZbUbq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3VxibYmp1nDOtHrhYZbUbq", 
+        "artists": [
+          {
+            "name": "The Carter Family", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0FRIWJYklnmsll5M6h4gUL"
+            }, 
+            "uri": "spotify:artist:0FRIWJYklnmsll5M6h4gUL", 
+            "href": "https://api.spotify.com/v1/artists/0FRIWJYklnmsll5M6h4gUL", 
+            "type": "artist", 
+            "id": "0FRIWJYklnmsll5M6h4gUL"
+          }
+        ], 
+        "duration_ms": 176533, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "3VxibYmp1nDOtHrhYZbUbq"
+      }, 
+      {
+        "name": "I Don't Know Where I'm Bound - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3JIC4rykTBTiIobbqHY11j"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/04d62e2512f67b04ef4a940a9ae2e23bbb6666fb", 
+        "is_playable": true, 
+        "uri": "spotify:track:3JIC4rykTBTiIobbqHY11j", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3JIC4rykTBTiIobbqHY11j", 
+        "artists": [
+          {
+            "name": "Johnny Cash", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+            }, 
+            "uri": "spotify:artist:6kACVPfCOnqzgfEF5ryl0x", 
+            "href": "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x", 
+            "type": "artist", 
+            "id": "6kACVPfCOnqzgfEF5ryl0x"
+          }
+        ], 
+        "duration_ms": 313893, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "3JIC4rykTBTiIobbqHY11j"
+      }, 
+      {
+        "name": "Starkville City Jail - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/550jhEvYe14fbhQt4Q8Owb"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0989219289d900648d0261886809e1084b25f979", 
+        "is_playable": true, 
+        "uri": "spotify:track:550jhEvYe14fbhQt4Q8Owb", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/550jhEvYe14fbhQt4Q8Owb", 
+        "artists": [
+          {
+            "name": "Johnny Cash", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+            }, 
+            "uri": "spotify:artist:6kACVPfCOnqzgfEF5ryl0x", 
+            "href": "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x", 
+            "type": "artist", 
+            "id": "6kACVPfCOnqzgfEF5ryl0x"
+          }
+        ], 
+        "duration_ms": 212333, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "550jhEvYe14fbhQt4Q8Owb"
+      }, 
+      {
+        "name": "San Quentin - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1MfrVfuY5ql27i45rfIXzN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0ac3a814612f97810b650701836c1c1fbb8a4bf4", 
+        "is_playable": true, 
+        "uri": "spotify:track:1MfrVfuY5ql27i45rfIXzN", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1MfrVfuY5ql27i45rfIXzN", 
+        "artists": [
+          {
+            "name": "Johnny Cash", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+            }, 
+            "uri": "spotify:artist:6kACVPfCOnqzgfEF5ryl0x", 
+            "href": "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x", 
+            "type": "artist", 
+            "id": "6kACVPfCOnqzgfEF5ryl0x"
+          }
+        ], 
+        "duration_ms": 249360, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "1MfrVfuY5ql27i45rfIXzN"
+      }, 
+      {
+        "name": "San Quentin - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7Dvybwmyn45aB5aAWsKFVp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/314a6d0d8f9c861e7de5f40161d7d114de7ed06a", 
+        "is_playable": true, 
+        "uri": "spotify:track:7Dvybwmyn45aB5aAWsKFVp", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/7Dvybwmyn45aB5aAWsKFVp", 
+        "artists": [
+          {
+            "name": "Johnny Cash", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+            }, 
+            "uri": "spotify:artist:6kACVPfCOnqzgfEF5ryl0x", 
+            "href": "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x", 
+            "type": "artist", 
+            "id": "6kACVPfCOnqzgfEF5ryl0x"
+          }
+        ], 
+        "duration_ms": 193106, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "7Dvybwmyn45aB5aAWsKFVp"
+      }, 
+      {
+        "name": "Wanted Man - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6VoNdxnQFyCqMJAPSb4Oeh"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b8a8ef5c02354ff1f3dc28c0ce4496d502cd8f56", 
+        "is_playable": true, 
+        "uri": "spotify:track:6VoNdxnQFyCqMJAPSb4Oeh", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6VoNdxnQFyCqMJAPSb4Oeh", 
+        "artists": [
+          {
+            "name": "Johnny Cash", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+            }, 
+            "uri": "spotify:artist:6kACVPfCOnqzgfEF5ryl0x", 
+            "href": "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x", 
+            "type": "artist", 
+            "id": "6kACVPfCOnqzgfEF5ryl0x"
+          }
+        ], 
+        "duration_ms": 209293, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "6VoNdxnQFyCqMJAPSb4Oeh"
+      }, 
+      {
+        "name": "Restless - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6hLJcvRh6QdkpVD34pApSn"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8d7a79dba3c0e9be5842cad3c7a8bfb4dda352d6", 
+        "is_playable": true, 
+        "uri": "spotify:track:6hLJcvRh6QdkpVD34pApSn", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6hLJcvRh6QdkpVD34pApSn", 
+        "artists": [
+          {
+            "name": "Carl Perkins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
+            }, 
+            "uri": "spotify:artist:5hIClg6noTaCzMu2s5wp4f", 
+            "href": "https://api.spotify.com/v1/artists/5hIClg6noTaCzMu2s5wp4f", 
+            "type": "artist", 
+            "id": "5hIClg6noTaCzMu2s5wp4f"
+          }
+        ], 
+        "duration_ms": 233800, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "6hLJcvRh6QdkpVD34pApSn"
+      }, 
+      {
+        "name": "A Boy Named Sue - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4VkgY55sUbfszX3XjS3LxW"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/dda4327692eefee0fdc8aeb7085ee1dc91e71f2c", 
+        "is_playable": true, 
+        "uri": "spotify:track:4VkgY55sUbfszX3XjS3LxW", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4VkgY55sUbfszX3XjS3LxW", 
+        "artists": [
+          {
+            "name": "Johnny Cash", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+            }, 
+            "uri": "spotify:artist:6kACVPfCOnqzgfEF5ryl0x", 
+            "href": "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x", 
+            "type": "artist", 
+            "id": "6kACVPfCOnqzgfEF5ryl0x"
+          }
+        ], 
+        "duration_ms": 225040, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "4VkgY55sUbfszX3XjS3LxW"
+      }, 
+      {
+        "name": "Blistered - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1NU0hPrAef1Jv1sHEHlkmb"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/83ef662eeed6a12fbfe862448539c261a889931b", 
+        "is_playable": true, 
+        "uri": "spotify:track:1NU0hPrAef1Jv1sHEHlkmb", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1NU0hPrAef1Jv1sHEHlkmb", 
+        "artists": [
+          {
+            "name": "Johnny Cash", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+            }, 
+            "uri": "spotify:artist:6kACVPfCOnqzgfEF5ryl0x", 
+            "href": "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x", 
+            "type": "artist", 
+            "id": "6kACVPfCOnqzgfEF5ryl0x"
+          }
+        ], 
+        "duration_ms": 105626, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "1NU0hPrAef1Jv1sHEHlkmb"
+      }, 
+      {
+        "name": "(There'll Be) Peace in the Valley - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4milWM4v3brtkZAZdnIMPR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/93afae8a35bd01d2a9a8f33ce8e341e6c237b93e", 
+        "is_playable": true, 
+        "uri": "spotify:track:4milWM4v3brtkZAZdnIMPR", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4milWM4v3brtkZAZdnIMPR", 
+        "artists": [
+          {
+            "name": "Johnny Cash", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+            }, 
+            "uri": "spotify:artist:6kACVPfCOnqzgfEF5ryl0x", 
+            "href": "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x", 
+            "type": "artist", 
+            "id": "6kACVPfCOnqzgfEF5ryl0x"
+          }
+        ], 
+        "duration_ms": 193706, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "4milWM4v3brtkZAZdnIMPR"
+      }, 
+      {
+        "name": "The Outside Looking In - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/66npZ3hfUZdJgL6Vc6lE3r"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/283ff473baa2b0f95bf8267f8e829a40628312c1", 
+        "is_playable": true, 
+        "uri": "spotify:track:66npZ3hfUZdJgL6Vc6lE3r", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/66npZ3hfUZdJgL6Vc6lE3r", 
+        "artists": [
+          {
+            "name": "Carl Perkins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
+            }, 
+            "uri": "spotify:artist:5hIClg6noTaCzMu2s5wp4f", 
+            "href": "https://api.spotify.com/v1/artists/5hIClg6noTaCzMu2s5wp4f", 
+            "type": "artist", 
+            "id": "5hIClg6noTaCzMu2s5wp4f"
+          }
+        ], 
+        "duration_ms": 179666, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "66npZ3hfUZdJgL6Vc6lE3r"
+      }, 
+      {
+        "name": "Less Of Me - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6nGL1GFD0TZ6HExpoa4lr1"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/00a46ac0e68399f5cc6fa4f5d032736cca0f1421", 
+        "is_playable": true, 
+        "uri": "spotify:track:6nGL1GFD0TZ6HExpoa4lr1", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6nGL1GFD0TZ6HExpoa4lr1", 
+        "artists": [
+          {
+            "name": "The Statler Brothers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5PSWc8Y94zFsAtZlTe7ipI"
+            }, 
+            "uri": "spotify:artist:5PSWc8Y94zFsAtZlTe7ipI", 
+            "href": "https://api.spotify.com/v1/artists/5PSWc8Y94zFsAtZlTe7ipI", 
+            "type": "artist", 
+            "id": "5PSWc8Y94zFsAtZlTe7ipI"
+          }
+        ], 
+        "duration_ms": 164826, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "6nGL1GFD0TZ6HExpoa4lr1"
+      }, 
+      {
+        "name": "Ring Of Fire - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Ymfd9uTm3WveSwIXOSqOe"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8eacf79d250c6e42d0c1341173eb06c7a6bc6bd5", 
+        "is_playable": true, 
+        "uri": "spotify:track:1Ymfd9uTm3WveSwIXOSqOe", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1Ymfd9uTm3WveSwIXOSqOe", 
+        "artists": [
+          {
+            "name": "Johnny Cash", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+            }, 
+            "uri": "spotify:artist:6kACVPfCOnqzgfEF5ryl0x", 
+            "href": "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x", 
+            "type": "artist", 
+            "id": "6kACVPfCOnqzgfEF5ryl0x"
+          }
+        ], 
+        "duration_ms": 126906, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "1Ymfd9uTm3WveSwIXOSqOe"
+      }, 
+      {
+        "name": "He Turned the Water Into Wine - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1o2cKAfdF6ywY10ZHgtpti"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/631e431d19ee0edd951cf90891347fb665108679", 
+        "is_playable": true, 
+        "uri": "spotify:track:1o2cKAfdF6ywY10ZHgtpti", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1o2cKAfdF6ywY10ZHgtpti", 
+        "artists": [
+          {
+            "name": "Johnny Cash", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+            }, 
+            "uri": "spotify:artist:6kACVPfCOnqzgfEF5ryl0x", 
+            "href": "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x", 
+            "type": "artist", 
+            "id": "6kACVPfCOnqzgfEF5ryl0x"
+          }
+        ], 
+        "duration_ms": 240933, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "1o2cKAfdF6ywY10ZHgtpti"
+      }, 
+      {
+        "name": "Daddy Sang Bass - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1wZ4iJHOvEiugfX2h8xgQN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fcd6a8c9f9ea421257af02f680dc1fb823894260", 
+        "is_playable": true, 
+        "uri": "spotify:track:1wZ4iJHOvEiugfX2h8xgQN", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1wZ4iJHOvEiugfX2h8xgQN", 
+        "artists": [
+          {
+            "name": "Johnny Cash", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+            }, 
+            "uri": "spotify:artist:6kACVPfCOnqzgfEF5ryl0x", 
+            "href": "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x", 
+            "type": "artist", 
+            "id": "6kACVPfCOnqzgfEF5ryl0x"
+          }
+        ], 
+        "duration_ms": 162626, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "1wZ4iJHOvEiugfX2h8xgQN"
+      }, 
+      {
+        "name": "The Old Account Was Settled Long Ago - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5bE0Nq7chdWrf4LmC2bKYV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f93e1c4549734889e29b293550b45b4478e32d33", 
+        "is_playable": true, 
+        "uri": "spotify:track:5bE0Nq7chdWrf4LmC2bKYV", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5bE0Nq7chdWrf4LmC2bKYV", 
+        "artists": [
+          {
+            "name": "Johnny Cash", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+            }, 
+            "uri": "spotify:artist:6kACVPfCOnqzgfEF5ryl0x", 
+            "href": "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x", 
+            "type": "artist", 
+            "id": "6kACVPfCOnqzgfEF5ryl0x"
+          }
+        ], 
+        "duration_ms": 136266, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "5bE0Nq7chdWrf4LmC2bKYV"
+      }, 
+      {
+        "name": "Folsom Prison Blues/I Walk The Line/Ring Of Fire/The Rebel-Johnny Yuma - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/54Ws56PDXVIQZhu3TLlf5p"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/dfe32ee8f38ceff33db8c6e1dda57b21b6a0d71c", 
+        "is_playable": true, 
+        "uri": "spotify:track:54Ws56PDXVIQZhu3TLlf5p", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/54Ws56PDXVIQZhu3TLlf5p", 
+        "artists": [
+          {
+            "name": "Johnny Cash", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+            }, 
+            "uri": "spotify:artist:6kACVPfCOnqzgfEF5ryl0x", 
+            "href": "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x", 
+            "type": "artist", 
+            "id": "6kACVPfCOnqzgfEF5ryl0x"
+          }
+        ], 
+        "duration_ms": 308466, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "54Ws56PDXVIQZhu3TLlf5p"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/7KOZivQqRbfrKEsd5Hx9Ir/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 31, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/7KOZivQqRbfrKEsd5Hx9Ir", 
+  "copyrights": [
+    {
+      "text": "Originally released 1969. All rights reserved by SONY BMG MUSIC ENTERTAINMENT, (P) 2006 SONY BMG MUSIC ENTERTAINMENT", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Johnny Cash", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+      }, 
+      "uri": "spotify:artist:6kACVPfCOnqzgfEF5ryl0x", 
+      "href": "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x", 
+      "type": "artist", 
+      "id": "6kACVPfCOnqzgfEF5ryl0x"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/4a3f4be16e6d0d9db34b2088a1a16bdbed019b3a", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/f4409af5fb8fd35a407d4ab1b812244a9a2eeed9", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/ab88f75a1a23415ec7f1425b2c92f9fc3b655e5a", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "888880078346"
+  }, 
+  "type": "album", 
+  "id": "7KOZivQqRbfrKEsd5Hx9Ir", 
+  "name": "At San Quentin"
+}

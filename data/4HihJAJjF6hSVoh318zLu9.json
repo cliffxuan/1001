@@ -1,0 +1,403 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4HihJAJjF6hSVoh318zLu9"
+  }, 
+  "release_date": "2002-06-04", 
+  "popularity": 53, 
+  "genres": [], 
+  "uri": "spotify:album:4HihJAJjF6hSVoh318zLu9", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Intro", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/34C9OZ2H0yPZeoU2oCxY7T"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/78150963f8bb392942b448485eaa76e9185c9c70", 
+        "is_playable": true, 
+        "uri": "spotify:track:34C9OZ2H0yPZeoU2oCxY7T", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/34C9OZ2H0yPZeoU2oCxY7T", 
+        "artists": [
+          {
+            "name": "Doves", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY"
+            }, 
+            "uri": "spotify:artist:0LVrQUinPUBFvVD5pLqmWY", 
+            "href": "https://api.spotify.com/v1/artists/0LVrQUinPUBFvVD5pLqmWY", 
+            "type": "artist", 
+            "id": "0LVrQUinPUBFvVD5pLqmWY"
+          }
+        ], 
+        "duration_ms": 77813, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "34C9OZ2H0yPZeoU2oCxY7T"
+      }, 
+      {
+        "name": "Words", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7hohAnOPopeo4JB70c3wst"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6d538d7e6d8fd3a01921e9a63c774900b05af960", 
+        "is_playable": true, 
+        "uri": "spotify:track:7hohAnOPopeo4JB70c3wst", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7hohAnOPopeo4JB70c3wst", 
+        "artists": [
+          {
+            "name": "Doves", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY"
+            }, 
+            "uri": "spotify:artist:0LVrQUinPUBFvVD5pLqmWY", 
+            "href": "https://api.spotify.com/v1/artists/0LVrQUinPUBFvVD5pLqmWY", 
+            "type": "artist", 
+            "id": "0LVrQUinPUBFvVD5pLqmWY"
+          }
+        ], 
+        "duration_ms": 342200, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "7hohAnOPopeo4JB70c3wst"
+      }, 
+      {
+        "name": "There Goes The Fear", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2wzTHuw8nhFSXUU27x0PFa"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c552277dcb2cdc09d96460136dc2829ae527d90f", 
+        "is_playable": true, 
+        "uri": "spotify:track:2wzTHuw8nhFSXUU27x0PFa", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2wzTHuw8nhFSXUU27x0PFa", 
+        "artists": [
+          {
+            "name": "Doves", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY"
+            }, 
+            "uri": "spotify:artist:0LVrQUinPUBFvVD5pLqmWY", 
+            "href": "https://api.spotify.com/v1/artists/0LVrQUinPUBFvVD5pLqmWY", 
+            "type": "artist", 
+            "id": "0LVrQUinPUBFvVD5pLqmWY"
+          }
+        ], 
+        "duration_ms": 414080, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "2wzTHuw8nhFSXUU27x0PFa"
+      }, 
+      {
+        "name": "M62 Song", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5R8OYPcs5JmxoiIPbECUeU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fa7921e06162efc717e1a1f43836da3ded812f9b", 
+        "is_playable": true, 
+        "uri": "spotify:track:5R8OYPcs5JmxoiIPbECUeU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5R8OYPcs5JmxoiIPbECUeU", 
+        "artists": [
+          {
+            "name": "Doves", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY"
+            }, 
+            "uri": "spotify:artist:0LVrQUinPUBFvVD5pLqmWY", 
+            "href": "https://api.spotify.com/v1/artists/0LVrQUinPUBFvVD5pLqmWY", 
+            "type": "artist", 
+            "id": "0LVrQUinPUBFvVD5pLqmWY"
+          }
+        ], 
+        "duration_ms": 228186, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "5R8OYPcs5JmxoiIPbECUeU"
+      }, 
+      {
+        "name": "Where We're Calling From", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6ITLh7EeQcDcFbHi5sx130"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/09af559ecabe6161569dd781141bd1f34dceeb16", 
+        "is_playable": true, 
+        "uri": "spotify:track:6ITLh7EeQcDcFbHi5sx130", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6ITLh7EeQcDcFbHi5sx130", 
+        "artists": [
+          {
+            "name": "Doves", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY"
+            }, 
+            "uri": "spotify:artist:0LVrQUinPUBFvVD5pLqmWY", 
+            "href": "https://api.spotify.com/v1/artists/0LVrQUinPUBFvVD5pLqmWY", 
+            "type": "artist", 
+            "id": "0LVrQUinPUBFvVD5pLqmWY"
+          }
+        ], 
+        "duration_ms": 84133, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "6ITLh7EeQcDcFbHi5sx130"
+      }, 
+      {
+        "name": "N.Y.", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3e0U49WI7AS1UnPmX10wN7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4274f9f251852b93fdd97017036d0ad645795842", 
+        "is_playable": true, 
+        "uri": "spotify:track:3e0U49WI7AS1UnPmX10wN7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3e0U49WI7AS1UnPmX10wN7", 
+        "artists": [
+          {
+            "name": "Doves", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY"
+            }, 
+            "uri": "spotify:artist:0LVrQUinPUBFvVD5pLqmWY", 
+            "href": "https://api.spotify.com/v1/artists/0LVrQUinPUBFvVD5pLqmWY", 
+            "type": "artist", 
+            "id": "0LVrQUinPUBFvVD5pLqmWY"
+          }
+        ], 
+        "duration_ms": 346800, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "3e0U49WI7AS1UnPmX10wN7"
+      }, 
+      {
+        "name": "Satellites", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2dTRuVfwdq0wjaHIO0cx0C"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0a24c66ea5962d46112b93335da3b536ffac004a", 
+        "is_playable": true, 
+        "uri": "spotify:track:2dTRuVfwdq0wjaHIO0cx0C", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2dTRuVfwdq0wjaHIO0cx0C", 
+        "artists": [
+          {
+            "name": "Doves", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY"
+            }, 
+            "uri": "spotify:artist:0LVrQUinPUBFvVD5pLqmWY", 
+            "href": "https://api.spotify.com/v1/artists/0LVrQUinPUBFvVD5pLqmWY", 
+            "type": "artist", 
+            "id": "0LVrQUinPUBFvVD5pLqmWY"
+          }
+        ], 
+        "duration_ms": 410453, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "2dTRuVfwdq0wjaHIO0cx0C"
+      }, 
+      {
+        "name": "Friday's Dust", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5cJSk8itdHcHBXIQNE4nMf"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/945848eff34638bdc3dc343a3d66d516446be7d3", 
+        "is_playable": true, 
+        "uri": "spotify:track:5cJSk8itdHcHBXIQNE4nMf", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5cJSk8itdHcHBXIQNE4nMf", 
+        "artists": [
+          {
+            "name": "Doves", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY"
+            }, 
+            "uri": "spotify:artist:0LVrQUinPUBFvVD5pLqmWY", 
+            "href": "https://api.spotify.com/v1/artists/0LVrQUinPUBFvVD5pLqmWY", 
+            "type": "artist", 
+            "id": "0LVrQUinPUBFvVD5pLqmWY"
+          }
+        ], 
+        "duration_ms": 215306, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "5cJSk8itdHcHBXIQNE4nMf"
+      }, 
+      {
+        "name": "Pounding", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/478PWxN5mJisvnGaOvItX4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f17a50adabf9bf8c0450e1c2c2d8ff2e869aff13", 
+        "is_playable": true, 
+        "uri": "spotify:track:478PWxN5mJisvnGaOvItX4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/478PWxN5mJisvnGaOvItX4", 
+        "artists": [
+          {
+            "name": "Doves", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY"
+            }, 
+            "uri": "spotify:artist:0LVrQUinPUBFvVD5pLqmWY", 
+            "href": "https://api.spotify.com/v1/artists/0LVrQUinPUBFvVD5pLqmWY", 
+            "type": "artist", 
+            "id": "0LVrQUinPUBFvVD5pLqmWY"
+          }
+        ], 
+        "duration_ms": 285426, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "478PWxN5mJisvnGaOvItX4"
+      }, 
+      {
+        "name": "Last Broadcast", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/33VUfEsmBrKvk5bvfjIyGY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2c602f34edd2dab15f1865dac2521d76dd6705ca", 
+        "is_playable": true, 
+        "uri": "spotify:track:33VUfEsmBrKvk5bvfjIyGY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/33VUfEsmBrKvk5bvfjIyGY", 
+        "artists": [
+          {
+            "name": "Doves", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY"
+            }, 
+            "uri": "spotify:artist:0LVrQUinPUBFvVD5pLqmWY", 
+            "href": "https://api.spotify.com/v1/artists/0LVrQUinPUBFvVD5pLqmWY", 
+            "type": "artist", 
+            "id": "0LVrQUinPUBFvVD5pLqmWY"
+          }
+        ], 
+        "duration_ms": 202013, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "33VUfEsmBrKvk5bvfjIyGY"
+      }, 
+      {
+        "name": "The Sulphur Man", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7EwrZIIzEEsht1Sb8K38fm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e361db0fcf20cc8434b39912788a9fdd09dfba4c", 
+        "is_playable": true, 
+        "uri": "spotify:track:7EwrZIIzEEsht1Sb8K38fm", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7EwrZIIzEEsht1Sb8K38fm", 
+        "artists": [
+          {
+            "name": "Doves", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY"
+            }, 
+            "uri": "spotify:artist:0LVrQUinPUBFvVD5pLqmWY", 
+            "href": "https://api.spotify.com/v1/artists/0LVrQUinPUBFvVD5pLqmWY", 
+            "type": "artist", 
+            "id": "0LVrQUinPUBFvVD5pLqmWY"
+          }
+        ], 
+        "duration_ms": 277333, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "7EwrZIIzEEsht1Sb8K38fm"
+      }, 
+      {
+        "name": "Caught By The River", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0vh34aajBcJCIuhgpamgoq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f63fe83e83721f9cc30f4a618b479ab961dc4e4c", 
+        "is_playable": true, 
+        "uri": "spotify:track:0vh34aajBcJCIuhgpamgoq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0vh34aajBcJCIuhgpamgoq", 
+        "artists": [
+          {
+            "name": "Doves", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY"
+            }, 
+            "uri": "spotify:artist:0LVrQUinPUBFvVD5pLqmWY", 
+            "href": "https://api.spotify.com/v1/artists/0LVrQUinPUBFvVD5pLqmWY", 
+            "type": "artist", 
+            "id": "0LVrQUinPUBFvVD5pLqmWY"
+          }
+        ], 
+        "duration_ms": 355466, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "0vh34aajBcJCIuhgpamgoq"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/4HihJAJjF6hSVoh318zLu9/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 12, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/4HihJAJjF6hSVoh318zLu9", 
+  "copyrights": [
+    {
+      "text": "(C) 2002 Virgin Records LtdThis label copy information is the subject of copyright protection. All rights reserved.(C) 2002 Parlophone Records Ltd, a Warner Music Group Company", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 2002 The copyright in this sound recording is owned by Virgin Records Ltd", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Doves", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY"
+      }, 
+      "uri": "spotify:artist:0LVrQUinPUBFvVD5pLqmWY", 
+      "href": "https://api.spotify.com/v1/artists/0LVrQUinPUBFvVD5pLqmWY", 
+      "type": "artist", 
+      "id": "0LVrQUinPUBFvVD5pLqmWY"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/c9ce69805510816919d7256988ca5b31edf566e4", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/8bf02da817b03715d57fc2bb130e6962ffa7b151", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/b500c69617f80009ead28ab1d5c7bf38cec4f93c", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00724381223253"
+  }, 
+  "type": "album", 
+  "id": "4HihJAJjF6hSVoh318zLu9", 
+  "name": "The Last Broadcast"
+}

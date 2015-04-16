@@ -1,0 +1,627 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7fka5aLeH0gquys8Ego8Yj"
+  }, 
+  "release_date": "2012-01-01", 
+  "popularity": 34, 
+  "genres": [], 
+  "uri": "spotify:album:7fka5aLeH0gquys8Ego8Yj", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Marcus Garvey", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4cE0vynqHboAIUyz7MZ0lv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/388eb4c7566db83c0f82b8678e4ab60d1556ac67", 
+        "is_playable": true, 
+        "uri": "spotify:track:4cE0vynqHboAIUyz7MZ0lv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4cE0vynqHboAIUyz7MZ0lv", 
+        "artists": [
+          {
+            "name": "Burning Spear", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU"
+            }, 
+            "uri": "spotify:artist:6qaKS0nzGP4hfjl4aFZmEU", 
+            "href": "https://api.spotify.com/v1/artists/6qaKS0nzGP4hfjl4aFZmEU", 
+            "type": "artist", 
+            "id": "6qaKS0nzGP4hfjl4aFZmEU"
+          }
+        ], 
+        "duration_ms": 201933, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "4cE0vynqHboAIUyz7MZ0lv"
+      }, 
+      {
+        "name": "Man In The Hills", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/13da2mZd3qKaDpYu85N2np"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4fc7fd28afe78464780328df1d2c1f5c0f1abb1c", 
+        "is_playable": true, 
+        "uri": "spotify:track:13da2mZd3qKaDpYu85N2np", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/13da2mZd3qKaDpYu85N2np", 
+        "artists": [
+          {
+            "name": "Burning Spear", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU"
+            }, 
+            "uri": "spotify:artist:6qaKS0nzGP4hfjl4aFZmEU", 
+            "href": "https://api.spotify.com/v1/artists/6qaKS0nzGP4hfjl4aFZmEU", 
+            "type": "artist", 
+            "id": "6qaKS0nzGP4hfjl4aFZmEU"
+          }
+        ], 
+        "duration_ms": 234000, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "13da2mZd3qKaDpYu85N2np"
+      }, 
+      {
+        "name": "Dry & Heavy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4NpXKkZQvTbjGsofthxO5J"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9bafa98c77366a5157d173209816e35cf7b94018", 
+        "is_playable": true, 
+        "uri": "spotify:track:4NpXKkZQvTbjGsofthxO5J", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4NpXKkZQvTbjGsofthxO5J", 
+        "artists": [
+          {
+            "name": "Burning Spear", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU"
+            }, 
+            "uri": "spotify:artist:6qaKS0nzGP4hfjl4aFZmEU", 
+            "href": "https://api.spotify.com/v1/artists/6qaKS0nzGP4hfjl4aFZmEU", 
+            "type": "artist", 
+            "id": "6qaKS0nzGP4hfjl4aFZmEU"
+          }
+        ], 
+        "duration_ms": 207413, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "4NpXKkZQvTbjGsofthxO5J"
+      }, 
+      {
+        "name": "Tradition", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/33s5ROMoVaTS3jNX0zbQs8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/45d8ef62bb7d2f9bd874eee1e235665313348049", 
+        "is_playable": true, 
+        "uri": "spotify:track:33s5ROMoVaTS3jNX0zbQs8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/33s5ROMoVaTS3jNX0zbQs8", 
+        "artists": [
+          {
+            "name": "Burning Spear", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU"
+            }, 
+            "uri": "spotify:artist:6qaKS0nzGP4hfjl4aFZmEU", 
+            "href": "https://api.spotify.com/v1/artists/6qaKS0nzGP4hfjl4aFZmEU", 
+            "type": "artist", 
+            "id": "6qaKS0nzGP4hfjl4aFZmEU"
+          }
+        ], 
+        "duration_ms": 205760, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "33s5ROMoVaTS3jNX0zbQs8"
+      }, 
+      {
+        "name": "Marcus Say Jah No Dead", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7357xxtbJPZkknbRZaKe3X"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d235547a277b5bb14657505b9762d7ddffde87a0", 
+        "is_playable": true, 
+        "uri": "spotify:track:7357xxtbJPZkknbRZaKe3X", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7357xxtbJPZkknbRZaKe3X", 
+        "artists": [
+          {
+            "name": "Burning Spear", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU"
+            }, 
+            "uri": "spotify:artist:6qaKS0nzGP4hfjl4aFZmEU", 
+            "href": "https://api.spotify.com/v1/artists/6qaKS0nzGP4hfjl4aFZmEU", 
+            "type": "artist", 
+            "id": "6qaKS0nzGP4hfjl4aFZmEU"
+          }
+        ], 
+        "duration_ms": 235960, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "7357xxtbJPZkknbRZaKe3X"
+      }, 
+      {
+        "name": "The Invasion", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7vOCblCaHrGfwxiiDBxbYx"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/520c4e12e6881ac1b2317e02d40030ec7c61c29c", 
+        "is_playable": true, 
+        "uri": "spotify:track:7vOCblCaHrGfwxiiDBxbYx", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7vOCblCaHrGfwxiiDBxbYx", 
+        "artists": [
+          {
+            "name": "Burning Spear", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU"
+            }, 
+            "uri": "spotify:artist:6qaKS0nzGP4hfjl4aFZmEU", 
+            "href": "https://api.spotify.com/v1/artists/6qaKS0nzGP4hfjl4aFZmEU", 
+            "type": "artist", 
+            "id": "6qaKS0nzGP4hfjl4aFZmEU"
+          }
+        ], 
+        "duration_ms": 192173, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "7vOCblCaHrGfwxiiDBxbYx"
+      }, 
+      {
+        "name": "Black Wa-Da-Da (The Invasion Dub)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7ta2w1hHATyRJ7gJigzqwL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/eb45c2d253f17d738637b56d6ad7137e54957444", 
+        "is_playable": true, 
+        "uri": "spotify:track:7ta2w1hHATyRJ7gJigzqwL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7ta2w1hHATyRJ7gJigzqwL", 
+        "artists": [
+          {
+            "name": "Burning Spear", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU"
+            }, 
+            "uri": "spotify:artist:6qaKS0nzGP4hfjl4aFZmEU", 
+            "href": "https://api.spotify.com/v1/artists/6qaKS0nzGP4hfjl4aFZmEU", 
+            "type": "artist", 
+            "id": "6qaKS0nzGP4hfjl4aFZmEU"
+          }
+        ], 
+        "duration_ms": 230280, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "7ta2w1hHATyRJ7gJigzqwL"
+      }, 
+      {
+        "name": "Door Peep", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0z6xASdr5KDI48cvik6iLp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/919f2eefb434765ab4475243dd633b9ee9c37dc3", 
+        "is_playable": true, 
+        "uri": "spotify:track:0z6xASdr5KDI48cvik6iLp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0z6xASdr5KDI48cvik6iLp", 
+        "artists": [
+          {
+            "name": "Burning Spear", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU"
+            }, 
+            "uri": "spotify:artist:6qaKS0nzGP4hfjl4aFZmEU", 
+            "href": "https://api.spotify.com/v1/artists/6qaKS0nzGP4hfjl4aFZmEU", 
+            "type": "artist", 
+            "id": "6qaKS0nzGP4hfjl4aFZmEU"
+          }
+        ], 
+        "duration_ms": 156946, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "0z6xASdr5KDI48cvik6iLp"
+      }, 
+      {
+        "name": "Civilised Reggae", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3wPSNlaXfHRUnVTUKoaDta"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bf4dd293f40d0775a58060520b13b6b78b9d565a", 
+        "is_playable": true, 
+        "uri": "spotify:track:3wPSNlaXfHRUnVTUKoaDta", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3wPSNlaXfHRUnVTUKoaDta", 
+        "artists": [
+          {
+            "name": "Burning Spear", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU"
+            }, 
+            "uri": "spotify:artist:6qaKS0nzGP4hfjl4aFZmEU", 
+            "href": "https://api.spotify.com/v1/artists/6qaKS0nzGP4hfjl4aFZmEU", 
+            "type": "artist", 
+            "id": "6qaKS0nzGP4hfjl4aFZmEU"
+          }
+        ], 
+        "duration_ms": 350880, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "3wPSNlaXfHRUnVTUKoaDta"
+      }, 
+      {
+        "name": "Old Marcus Garvey", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6evHUTXfxucKrmA9ffr3SE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/873eca4e565c2ce63840a65566ec8c368460b869", 
+        "is_playable": true, 
+        "uri": "spotify:track:6evHUTXfxucKrmA9ffr3SE", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6evHUTXfxucKrmA9ffr3SE", 
+        "artists": [
+          {
+            "name": "Burning Spear", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU"
+            }, 
+            "uri": "spotify:artist:6qaKS0nzGP4hfjl4aFZmEU", 
+            "href": "https://api.spotify.com/v1/artists/6qaKS0nzGP4hfjl4aFZmEU", 
+            "type": "artist", 
+            "id": "6qaKS0nzGP4hfjl4aFZmEU"
+          }
+        ], 
+        "duration_ms": 243973, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "6evHUTXfxucKrmA9ffr3SE"
+      }, 
+      {
+        "name": "The Sun", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5O8NjfPo7oaSiTy2ZnqjSh"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/69bf24c6b3ed4c54eada0d9d5c8a880bb92dd973", 
+        "is_playable": true, 
+        "uri": "spotify:track:5O8NjfPo7oaSiTy2ZnqjSh", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5O8NjfPo7oaSiTy2ZnqjSh", 
+        "artists": [
+          {
+            "name": "Burning Spear", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU"
+            }, 
+            "uri": "spotify:artist:6qaKS0nzGP4hfjl4aFZmEU", 
+            "href": "https://api.spotify.com/v1/artists/6qaKS0nzGP4hfjl4aFZmEU", 
+            "type": "artist", 
+            "id": "6qaKS0nzGP4hfjl4aFZmEU"
+          }
+        ], 
+        "duration_ms": 221546, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "5O8NjfPo7oaSiTy2ZnqjSh"
+      }, 
+      {
+        "name": "Social Living", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/05DeI0Neqr4rBNjkVaZOG6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c12476de452eaf625c4e419ddac2e4de2b6f38de", 
+        "is_playable": true, 
+        "uri": "spotify:track:05DeI0Neqr4rBNjkVaZOG6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/05DeI0Neqr4rBNjkVaZOG6", 
+        "artists": [
+          {
+            "name": "Burning Spear", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU"
+            }, 
+            "uri": "spotify:artist:6qaKS0nzGP4hfjl4aFZmEU", 
+            "href": "https://api.spotify.com/v1/artists/6qaKS0nzGP4hfjl4aFZmEU", 
+            "type": "artist", 
+            "id": "6qaKS0nzGP4hfjl4aFZmEU"
+          }
+        ], 
+        "duration_ms": 472706, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "05DeI0Neqr4rBNjkVaZOG6"
+      }, 
+      {
+        "name": "No More War", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4JykPt8oyGq0zME5fezXXj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/469835cadc09d212fa73a19e776dba097b1e1082", 
+        "is_playable": true, 
+        "uri": "spotify:track:4JykPt8oyGq0zME5fezXXj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4JykPt8oyGq0zME5fezXXj", 
+        "artists": [
+          {
+            "name": "Burning Spear", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU"
+            }, 
+            "uri": "spotify:artist:6qaKS0nzGP4hfjl4aFZmEU", 
+            "href": "https://api.spotify.com/v1/artists/6qaKS0nzGP4hfjl4aFZmEU", 
+            "type": "artist", 
+            "id": "6qaKS0nzGP4hfjl4aFZmEU"
+          }
+        ], 
+        "duration_ms": 201493, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "4JykPt8oyGq0zME5fezXXj"
+      }, 
+      {
+        "name": "Throw Down Your Arms", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1YgnmTVJQEo22kLwDKAXXV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ffa9262f079112b7fced98f3889798833e238663", 
+        "is_playable": true, 
+        "uri": "spotify:track:1YgnmTVJQEo22kLwDKAXXV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1YgnmTVJQEo22kLwDKAXXV", 
+        "artists": [
+          {
+            "name": "Burning Spear", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU"
+            }, 
+            "uri": "spotify:artist:6qaKS0nzGP4hfjl4aFZmEU", 
+            "href": "https://api.spotify.com/v1/artists/6qaKS0nzGP4hfjl4aFZmEU", 
+            "type": "artist", 
+            "id": "6qaKS0nzGP4hfjl4aFZmEU"
+          }
+        ], 
+        "duration_ms": 239666, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "1YgnmTVJQEo22kLwDKAXXV"
+      }, 
+      {
+        "name": "Slavery Days", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5PDBjFAltXZXvRyddFdIkI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/491a4dc11dced569e00d86d769db27c5433f2486", 
+        "is_playable": true, 
+        "uri": "spotify:track:5PDBjFAltXZXvRyddFdIkI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5PDBjFAltXZXvRyddFdIkI", 
+        "artists": [
+          {
+            "name": "Burning Spear", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU"
+            }, 
+            "uri": "spotify:artist:6qaKS0nzGP4hfjl4aFZmEU", 
+            "href": "https://api.spotify.com/v1/artists/6qaKS0nzGP4hfjl4aFZmEU", 
+            "type": "artist", 
+            "id": "6qaKS0nzGP4hfjl4aFZmEU"
+          }
+        ], 
+        "duration_ms": 203880, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "5PDBjFAltXZXvRyddFdIkI"
+      }, 
+      {
+        "name": "I And I Survive (Aka Slavery Days Dub)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/30vCbE6WwUdUiADlY8F4xp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e7d92ebec96aeba36c92a8c08817ee379ac6b459", 
+        "is_playable": true, 
+        "uri": "spotify:track:30vCbE6WwUdUiADlY8F4xp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/30vCbE6WwUdUiADlY8F4xp", 
+        "artists": [
+          {
+            "name": "Burning Spear", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU"
+            }, 
+            "uri": "spotify:artist:6qaKS0nzGP4hfjl4aFZmEU", 
+            "href": "https://api.spotify.com/v1/artists/6qaKS0nzGP4hfjl4aFZmEU", 
+            "type": "artist", 
+            "id": "6qaKS0nzGP4hfjl4aFZmEU"
+          }
+        ], 
+        "duration_ms": 231746, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "30vCbE6WwUdUiADlY8F4xp"
+      }, 
+      {
+        "name": "Lion", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2HySkdjdGpqfFryKVvXFZ6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3a66f9975d8f4cc9222e70d22ceed6ff8feb7504", 
+        "is_playable": true, 
+        "uri": "spotify:track:2HySkdjdGpqfFryKVvXFZ6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2HySkdjdGpqfFryKVvXFZ6", 
+        "artists": [
+          {
+            "name": "Burning Spear", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU"
+            }, 
+            "uri": "spotify:artist:6qaKS0nzGP4hfjl4aFZmEU", 
+            "href": "https://api.spotify.com/v1/artists/6qaKS0nzGP4hfjl4aFZmEU", 
+            "type": "artist", 
+            "id": "6qaKS0nzGP4hfjl4aFZmEU"
+          }
+        ], 
+        "duration_ms": 190080, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "2HySkdjdGpqfFryKVvXFZ6"
+      }, 
+      {
+        "name": "Nayah Keith", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5tgI89orYY8dCDp4RoCJJM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1177566fa49b418d5469a1d48bc3057e1f58c39b", 
+        "is_playable": true, 
+        "uri": "spotify:track:5tgI89orYY8dCDp4RoCJJM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5tgI89orYY8dCDp4RoCJJM", 
+        "artists": [
+          {
+            "name": "Burning Spear", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU"
+            }, 
+            "uri": "spotify:artist:6qaKS0nzGP4hfjl4aFZmEU", 
+            "href": "https://api.spotify.com/v1/artists/6qaKS0nzGP4hfjl4aFZmEU", 
+            "type": "artist", 
+            "id": "6qaKS0nzGP4hfjl4aFZmEU"
+          }
+        ], 
+        "duration_ms": 243573, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "5tgI89orYY8dCDp4RoCJJM"
+      }, 
+      {
+        "name": "Mek We Dweet", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/45uy32qUHQCO6zLqmAZzOr"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/233142d707c246bc5c2a0968a7e0d7bc8950c1a0", 
+        "is_playable": true, 
+        "uri": "spotify:track:45uy32qUHQCO6zLqmAZzOr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/45uy32qUHQCO6zLqmAZzOr", 
+        "artists": [
+          {
+            "name": "Burning Spear", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU"
+            }, 
+            "uri": "spotify:artist:6qaKS0nzGP4hfjl4aFZmEU", 
+            "href": "https://api.spotify.com/v1/artists/6qaKS0nzGP4hfjl4aFZmEU", 
+            "type": "artist", 
+            "id": "6qaKS0nzGP4hfjl4aFZmEU"
+          }
+        ], 
+        "duration_ms": 260186, 
+        "track_number": 19, 
+        "type": "track", 
+        "id": "45uy32qUHQCO6zLqmAZzOr"
+      }, 
+      {
+        "name": "Jah Kingdom", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3avbWosDfyDxeu3WySj6A6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e1cb7545c48bfb130af0a2950d0ffc49241b36c7", 
+        "is_playable": true, 
+        "uri": "spotify:track:3avbWosDfyDxeu3WySj6A6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3avbWosDfyDxeu3WySj6A6", 
+        "artists": [
+          {
+            "name": "Burning Spear", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU"
+            }, 
+            "uri": "spotify:artist:6qaKS0nzGP4hfjl4aFZmEU", 
+            "href": "https://api.spotify.com/v1/artists/6qaKS0nzGP4hfjl4aFZmEU", 
+            "type": "artist", 
+            "id": "6qaKS0nzGP4hfjl4aFZmEU"
+          }
+        ], 
+        "duration_ms": 240320, 
+        "track_number": 20, 
+        "type": "track", 
+        "id": "3avbWosDfyDxeu3WySj6A6"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/7fka5aLeH0gquys8Ego8Yj/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 20, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/7fka5aLeH0gquys8Ego8Yj", 
+  "copyrights": [
+    {
+      "text": "(C) 2012 The Island Def Jam Music Group", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 2012 The Island Def Jam Music Group", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Burning Spear", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU"
+      }, 
+      "uri": "spotify:artist:6qaKS0nzGP4hfjl4aFZmEU", 
+      "href": "https://api.spotify.com/v1/artists/6qaKS0nzGP4hfjl4aFZmEU", 
+      "type": "artist", 
+      "id": "6qaKS0nzGP4hfjl4aFZmEU"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/e8da789bd8d225427d138c0c32d2720a229a4fa4", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/454e8a76017d9af87407fff7f11b744e5e361c77", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/571ec7c8188da0ac97551df51684b2083a95ff42", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00600753392201"
+  }, 
+  "type": "album", 
+  "id": "7fka5aLeH0gquys8Ego8Yj", 
+  "name": "Marcus Garvey: The Best Of Burning Spear"
+}

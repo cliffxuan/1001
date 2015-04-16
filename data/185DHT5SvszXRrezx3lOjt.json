@@ -1,0 +1,371 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/185DHT5SvszXRrezx3lOjt"
+  }, 
+  "release_date": "1997-09-30", 
+  "popularity": 51, 
+  "genres": [], 
+  "uri": "spotify:album:185DHT5SvszXRrezx3lOjt", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Love Sick", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3O1hpSOaJDW4SelgUG2XT3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/70d5a6cf1dd94ad90b5194be11e1782ccab8c521", 
+        "is_playable": true, 
+        "uri": "spotify:track:3O1hpSOaJDW4SelgUG2XT3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3O1hpSOaJDW4SelgUG2XT3", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 320866, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "3O1hpSOaJDW4SelgUG2XT3"
+      }, 
+      {
+        "name": "Dirt Road Blues", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5xNE6bGRS65lxMEBIl6xbT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9765475c7aea5027f640435f2b25226806bb399f", 
+        "is_playable": true, 
+        "uri": "spotify:track:5xNE6bGRS65lxMEBIl6xbT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5xNE6bGRS65lxMEBIl6xbT", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 214800, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "5xNE6bGRS65lxMEBIl6xbT"
+      }, 
+      {
+        "name": "Standing in the Doorway", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2xalFZmyjleCTdhKPxqzdh"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bacbb49a2a3ce7910a4c237419ff3d7f86c34116", 
+        "is_playable": true, 
+        "uri": "spotify:track:2xalFZmyjleCTdhKPxqzdh", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2xalFZmyjleCTdhKPxqzdh", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 462000, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "2xalFZmyjleCTdhKPxqzdh"
+      }, 
+      {
+        "name": "Million Miles", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4VrZjVEmT5qQnkCOtMWZ9b"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3ec58e88f6892b04cb9e013aa9ff2a0e2fdb0950", 
+        "is_playable": true, 
+        "uri": "spotify:track:4VrZjVEmT5qQnkCOtMWZ9b", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4VrZjVEmT5qQnkCOtMWZ9b", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 352040, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "4VrZjVEmT5qQnkCOtMWZ9b"
+      }, 
+      {
+        "name": "Trying to Get to Heaven", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0dgdP5q0irOwAn7hEvEep1"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1238a44ca58a8e5533d466e933f9aff2addb0ebb", 
+        "is_playable": true, 
+        "uri": "spotify:track:0dgdP5q0irOwAn7hEvEep1", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0dgdP5q0irOwAn7hEvEep1", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 320706, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "0dgdP5q0irOwAn7hEvEep1"
+      }, 
+      {
+        "name": "Til I Fell in Love with You", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7vAkFzx16TtzQrQFDxZr7v"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3f3580386dac0413d7dbb8236acb6de602a5adce", 
+        "is_playable": true, 
+        "uri": "spotify:track:7vAkFzx16TtzQrQFDxZr7v", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7vAkFzx16TtzQrQFDxZr7v", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 315426, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "7vAkFzx16TtzQrQFDxZr7v"
+      }, 
+      {
+        "name": "Not Dark Yet", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1qbn6QrHG8XfnqVFKgNzKP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f227e961133f30cdd35c545604e502cd1b3d457b", 
+        "is_playable": true, 
+        "uri": "spotify:track:1qbn6QrHG8XfnqVFKgNzKP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1qbn6QrHG8XfnqVFKgNzKP", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 387733, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "1qbn6QrHG8XfnqVFKgNzKP"
+      }, 
+      {
+        "name": "Cold Irons Bound", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2QCJcmHByVdv7d5MrGPV63"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/245ea47257071d28f0e9e9c31330d1b5809d672e", 
+        "is_playable": true, 
+        "uri": "spotify:track:2QCJcmHByVdv7d5MrGPV63", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2QCJcmHByVdv7d5MrGPV63", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 434360, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "2QCJcmHByVdv7d5MrGPV63"
+      }, 
+      {
+        "name": "Make You Feel My Love", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6rfGPGghQL7SJmZPXprXIc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1e3e3c87691f1e97e0564f9b3c2153e8a02b31c0", 
+        "is_playable": true, 
+        "uri": "spotify:track:6rfGPGghQL7SJmZPXprXIc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6rfGPGghQL7SJmZPXprXIc", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 211000, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "6rfGPGghQL7SJmZPXprXIc"
+      }, 
+      {
+        "name": "Can't Wait", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/66AgNVlgzGwfFZ6cCDfHw4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7fef22d58cd8b03b18c25468cfc67bc427e794f9", 
+        "is_playable": true, 
+        "uri": "spotify:track:66AgNVlgzGwfFZ6cCDfHw4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/66AgNVlgzGwfFZ6cCDfHw4", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 346226, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "66AgNVlgzGwfFZ6cCDfHw4"
+      }, 
+      {
+        "name": "Highlands", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1KeOceXRwh3e7qHa00jszs"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/03e74b6e7cb282e5675d721416bf9e65498cdbdb", 
+        "is_playable": true, 
+        "uri": "spotify:track:1KeOceXRwh3e7qHa00jszs", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1KeOceXRwh3e7qHa00jszs", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 991466, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "1KeOceXRwh3e7qHa00jszs"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/185DHT5SvszXRrezx3lOjt/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 11, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/185DHT5SvszXRrezx3lOjt", 
+  "copyrights": [
+    {
+      "text": "1997 Sony Music Entertainment Inc. WARNING: All Rights Reserved. Unauthorized duplication is a violation of applicable laws.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Bob Dylan", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+      }, 
+      "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+      "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+      "type": "artist", 
+      "id": "74ASZWbe4lXaubB36ztrGX"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/cd459f6bd283afd8d2b047bced6d896c2b2e32e2", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/45317e0144e3918561108a69a7b076ef99c94479", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/1b0e84bfd81893af25a67e3f3f6aeb8a298c0376", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "074646855621"
+  }, 
+  "type": "album", 
+  "id": "185DHT5SvszXRrezx3lOjt", 
+  "name": "Time Out Of Mind"
+}

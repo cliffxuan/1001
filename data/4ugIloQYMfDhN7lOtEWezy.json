@@ -1,0 +1,123 @@
+{
+  "album_type": "single", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4ugIloQYMfDhN7lOtEWezy"
+  }, 
+  "release_date": "1989", 
+  "popularity": 56, 
+  "genres": [], 
+  "uri": "spotify:album:4ugIloQYMfDhN7lOtEWezy", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Love Shack [Edit] (45 Version)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/64B4UbGRLtGRBtiN2m8OvF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c7d10ea5617dc406a516bff4e9dae7398d61941d", 
+        "is_playable": true, 
+        "uri": "spotify:track:64B4UbGRLtGRBtiN2m8OvF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/64B4UbGRLtGRBtiN2m8OvF", 
+        "artists": [
+          {
+            "name": "The B-52's", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
+            }, 
+            "uri": "spotify:artist:3gdbcIdNypBsYNu3iiCjtN", 
+            "href": "https://api.spotify.com/v1/artists/3gdbcIdNypBsYNu3iiCjtN", 
+            "type": "artist", 
+            "id": "3gdbcIdNypBsYNu3iiCjtN"
+          }
+        ], 
+        "duration_ms": 257519, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "64B4UbGRLtGRBtiN2m8OvF"
+      }, 
+      {
+        "name": "Channel Z (45 Version)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3nf4F7SZ2hLsU6BqxKHbmO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/04c829cba530801bde925bceb14ac4b9b93a4e95", 
+        "is_playable": true, 
+        "uri": "spotify:track:3nf4F7SZ2hLsU6BqxKHbmO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3nf4F7SZ2hLsU6BqxKHbmO", 
+        "artists": [
+          {
+            "name": "The B-52's", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
+            }, 
+            "uri": "spotify:artist:3gdbcIdNypBsYNu3iiCjtN", 
+            "href": "https://api.spotify.com/v1/artists/3gdbcIdNypBsYNu3iiCjtN", 
+            "type": "artist", 
+            "id": "3gdbcIdNypBsYNu3iiCjtN"
+          }
+        ], 
+        "duration_ms": 290373, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "3nf4F7SZ2hLsU6BqxKHbmO"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/4ugIloQYMfDhN7lOtEWezy/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 2, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/4ugIloQYMfDhN7lOtEWezy", 
+  "copyrights": [
+    {
+      "text": "1989 Reprise Records, a label of Warner Bros. Records.", 
+      "type": "C"
+    }, 
+    {
+      "text": "1989 Reprise Records, a label of Warner Bros. Records. Marketed by Rhino Entertainment Company, a Warner Music Group Company.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "The B-52's", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
+      }, 
+      "uri": "spotify:artist:3gdbcIdNypBsYNu3iiCjtN", 
+      "href": "https://api.spotify.com/v1/artists/3gdbcIdNypBsYNu3iiCjtN", 
+      "type": "artist", 
+      "id": "3gdbcIdNypBsYNu3iiCjtN"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/26ceba057c25dec8c20ca6e71c82960bf7902b68", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/a8f4e0af1f11fde17a3c36d1fda6d306d62b04ea", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/9db4171d84ca72afa7e41cd98d87719d9846e595", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "603497974450"
+  }, 
+  "type": "album", 
+  "id": "4ugIloQYMfDhN7lOtEWezy", 
+  "name": "Love Shack [edit] / Channel Z [Digital 45]"
+}

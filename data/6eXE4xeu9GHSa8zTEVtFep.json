@@ -1,0 +1,319 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6eXE4xeu9GHSa8zTEVtFep"
+  }, 
+  "release_date": "1971-11-05", 
+  "popularity": 62, 
+  "genres": [], 
+  "uri": "spotify:album:6eXE4xeu9GHSa8zTEVtFep", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Tiny Dancer", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4BGJSbB5rAcg4pNzD4gfxU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8a5d390d8b27d2c4a0c976dc1066055f229b4d6b", 
+        "is_playable": true, 
+        "uri": "spotify:track:4BGJSbB5rAcg4pNzD4gfxU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4BGJSbB5rAcg4pNzD4gfxU", 
+        "artists": [
+          {
+            "name": "Elton John", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+            }, 
+            "uri": "spotify:artist:3PhoLpVuITZKcymswpck5b", 
+            "href": "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b", 
+            "type": "artist", 
+            "id": "3PhoLpVuITZKcymswpck5b"
+          }
+        ], 
+        "duration_ms": 377093, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "4BGJSbB5rAcg4pNzD4gfxU"
+      }, 
+      {
+        "name": "Levon", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5rSYkUsJPEakcEsNl1kD6b"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2500319328fd772a363338fe514c44beeed45638", 
+        "is_playable": true, 
+        "uri": "spotify:track:5rSYkUsJPEakcEsNl1kD6b", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5rSYkUsJPEakcEsNl1kD6b", 
+        "artists": [
+          {
+            "name": "Elton John", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+            }, 
+            "uri": "spotify:artist:3PhoLpVuITZKcymswpck5b", 
+            "href": "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b", 
+            "type": "artist", 
+            "id": "3PhoLpVuITZKcymswpck5b"
+          }
+        ], 
+        "duration_ms": 322133, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "5rSYkUsJPEakcEsNl1kD6b"
+      }, 
+      {
+        "name": "Razor Face", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1hHiWm3FVConIhZhdXp3JT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7f96ac2771e1f63c2583331eaddf92edf48c22e6", 
+        "is_playable": true, 
+        "uri": "spotify:track:1hHiWm3FVConIhZhdXp3JT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1hHiWm3FVConIhZhdXp3JT", 
+        "artists": [
+          {
+            "name": "Elton John", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+            }, 
+            "uri": "spotify:artist:3PhoLpVuITZKcymswpck5b", 
+            "href": "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b", 
+            "type": "artist", 
+            "id": "3PhoLpVuITZKcymswpck5b"
+          }
+        ], 
+        "duration_ms": 282333, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "1hHiWm3FVConIhZhdXp3JT"
+      }, 
+      {
+        "name": "Madman Across The Water", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1drWhcjdQyWezomL7uHMOE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/80eed479e027fef0412fa6fcee443212096440d3", 
+        "is_playable": true, 
+        "uri": "spotify:track:1drWhcjdQyWezomL7uHMOE", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1drWhcjdQyWezomL7uHMOE", 
+        "artists": [
+          {
+            "name": "Elton John", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+            }, 
+            "uri": "spotify:artist:3PhoLpVuITZKcymswpck5b", 
+            "href": "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b", 
+            "type": "artist", 
+            "id": "3PhoLpVuITZKcymswpck5b"
+          }
+        ], 
+        "duration_ms": 357293, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "1drWhcjdQyWezomL7uHMOE"
+      }, 
+      {
+        "name": "Indian Sunset", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4XTTlU1T8HLfUo2Bi31Vlx"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3560d0c4258d5945ec1b9635c37ac905c74c2b37", 
+        "is_playable": true, 
+        "uri": "spotify:track:4XTTlU1T8HLfUo2Bi31Vlx", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4XTTlU1T8HLfUo2Bi31Vlx", 
+        "artists": [
+          {
+            "name": "Elton John", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+            }, 
+            "uri": "spotify:artist:3PhoLpVuITZKcymswpck5b", 
+            "href": "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b", 
+            "type": "artist", 
+            "id": "3PhoLpVuITZKcymswpck5b"
+          }
+        ], 
+        "duration_ms": 406560, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "4XTTlU1T8HLfUo2Bi31Vlx"
+      }, 
+      {
+        "name": "Holiday Inn", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5NGtcrMy6afrsnBN0mm5OL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/690eac5d73e93bf42cbe85759cf59cc874d2ee92", 
+        "is_playable": true, 
+        "uri": "spotify:track:5NGtcrMy6afrsnBN0mm5OL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5NGtcrMy6afrsnBN0mm5OL", 
+        "artists": [
+          {
+            "name": "Elton John", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+            }, 
+            "uri": "spotify:artist:3PhoLpVuITZKcymswpck5b", 
+            "href": "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b", 
+            "type": "artist", 
+            "id": "3PhoLpVuITZKcymswpck5b"
+          }
+        ], 
+        "duration_ms": 256893, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "5NGtcrMy6afrsnBN0mm5OL"
+      }, 
+      {
+        "name": "Rotten Peaches", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6DkuUTHKtPOX6bBB1D3MO4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/977857947c7d37f52b087084f35e810b2ed3e9fe", 
+        "is_playable": true, 
+        "uri": "spotify:track:6DkuUTHKtPOX6bBB1D3MO4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6DkuUTHKtPOX6bBB1D3MO4", 
+        "artists": [
+          {
+            "name": "Elton John", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+            }, 
+            "uri": "spotify:artist:3PhoLpVuITZKcymswpck5b", 
+            "href": "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b", 
+            "type": "artist", 
+            "id": "3PhoLpVuITZKcymswpck5b"
+          }
+        ], 
+        "duration_ms": 298026, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "6DkuUTHKtPOX6bBB1D3MO4"
+      }, 
+      {
+        "name": "All The Nasties", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6DSlcD4eoQmmEIwODLzUTi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/43788c3253bd64b9b5c32ee97735e50b14fc5565", 
+        "is_playable": true, 
+        "uri": "spotify:track:6DSlcD4eoQmmEIwODLzUTi", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6DSlcD4eoQmmEIwODLzUTi", 
+        "artists": [
+          {
+            "name": "Elton John", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+            }, 
+            "uri": "spotify:artist:3PhoLpVuITZKcymswpck5b", 
+            "href": "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b", 
+            "type": "artist", 
+            "id": "3PhoLpVuITZKcymswpck5b"
+          }
+        ], 
+        "duration_ms": 309133, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "6DSlcD4eoQmmEIwODLzUTi"
+      }, 
+      {
+        "name": "Goodbye", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3fvkfmeXy7X6AnVtDNxxb9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9257d396a90f9185ce133aed65b447bf7282dea5", 
+        "is_playable": true, 
+        "uri": "spotify:track:3fvkfmeXy7X6AnVtDNxxb9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3fvkfmeXy7X6AnVtDNxxb9", 
+        "artists": [
+          {
+            "name": "Elton John", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+            }, 
+            "uri": "spotify:artist:3PhoLpVuITZKcymswpck5b", 
+            "href": "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b", 
+            "type": "artist", 
+            "id": "3PhoLpVuITZKcymswpck5b"
+          }
+        ], 
+        "duration_ms": 108666, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "3fvkfmeXy7X6AnVtDNxxb9"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/6eXE4xeu9GHSa8zTEVtFep/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 9, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/6eXE4xeu9GHSa8zTEVtFep", 
+  "copyrights": [
+    {
+      "text": "(C) 1995 Mercury Records Limited", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1971 This Record Company Ltd.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Elton John", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+      }, 
+      "uri": "spotify:artist:3PhoLpVuITZKcymswpck5b", 
+      "href": "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b", 
+      "type": "artist", 
+      "id": "3PhoLpVuITZKcymswpck5b"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/e8d536df8de166fe43c9f1dc910f23e84952d7e5", 
+      "width": 640, 
+      "height": 634
+    }, 
+    {
+      "url": "https://i.scdn.co/image/0bc13a3eb3ecb8c5b5e6b285d0f69af99d92811c", 
+      "width": 300, 
+      "height": 297
+    }, 
+    {
+      "url": "https://i.scdn.co/image/1a0483143de959be39fed1cc63772a75e18e30ae", 
+      "width": 64, 
+      "height": 63
+    }
+  ], 
+  "external_ids": {
+    "upc": "00731452816122"
+  }, 
+  "type": "album", 
+  "id": "6eXE4xeu9GHSa8zTEVtFep", 
+  "name": "Madman Across The Water"
+}

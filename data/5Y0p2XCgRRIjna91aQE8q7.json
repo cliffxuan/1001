@@ -1,0 +1,347 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
+  }, 
+  "release_date": "1986", 
+  "popularity": 68, 
+  "genres": [], 
+  "uri": "spotify:album:5Y0p2XCgRRIjna91aQE8q7", 
+  "tracks": {
+    "items": [
+      {
+        "name": "The Queen Is Dead - 2011 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/03ZwNF6FTvazNuOXNQf8k8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cb0e72d840eeb44102c1bc65edeb6ef631d2da0a", 
+        "is_playable": true, 
+        "uri": "spotify:track:03ZwNF6FTvazNuOXNQf8k8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/03ZwNF6FTvazNuOXNQf8k8", 
+        "artists": [
+          {
+            "name": "The Smiths", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+            }, 
+            "uri": "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8", 
+            "href": "https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8", 
+            "type": "artist", 
+            "id": "3yY2gUcIsjMr8hjo51PoJ8"
+          }
+        ], 
+        "duration_ms": 387146, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "03ZwNF6FTvazNuOXNQf8k8"
+      }, 
+      {
+        "name": "Frankly, Mr. Shankly - 2011 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1qIagqll7ZcgmiLTrtSvKc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3ea133e918949a7fb7ca599a3f31d8eef367df39", 
+        "is_playable": true, 
+        "uri": "spotify:track:1qIagqll7ZcgmiLTrtSvKc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1qIagqll7ZcgmiLTrtSvKc", 
+        "artists": [
+          {
+            "name": "The Smiths", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+            }, 
+            "uri": "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8", 
+            "href": "https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8", 
+            "type": "artist", 
+            "id": "3yY2gUcIsjMr8hjo51PoJ8"
+          }
+        ], 
+        "duration_ms": 138813, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "1qIagqll7ZcgmiLTrtSvKc"
+      }, 
+      {
+        "name": "I Know It's Over - 2011 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3M2bD9SMYnJIPdrTKUnBd3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/753f21c50c47703cccb47a68b225d12018d8a1e5", 
+        "is_playable": true, 
+        "uri": "spotify:track:3M2bD9SMYnJIPdrTKUnBd3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3M2bD9SMYnJIPdrTKUnBd3", 
+        "artists": [
+          {
+            "name": "The Smiths", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+            }, 
+            "uri": "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8", 
+            "href": "https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8", 
+            "type": "artist", 
+            "id": "3yY2gUcIsjMr8hjo51PoJ8"
+          }
+        ], 
+        "duration_ms": 349186, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "3M2bD9SMYnJIPdrTKUnBd3"
+      }, 
+      {
+        "name": "Never Had No One Ever - 2011 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2VyOpoblI3AHO6R8dr87Ia"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7e552e8dc0cd447fa90d4c1050068611b064bc8d", 
+        "is_playable": true, 
+        "uri": "spotify:track:2VyOpoblI3AHO6R8dr87Ia", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2VyOpoblI3AHO6R8dr87Ia", 
+        "artists": [
+          {
+            "name": "The Smiths", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+            }, 
+            "uri": "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8", 
+            "href": "https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8", 
+            "type": "artist", 
+            "id": "3yY2gUcIsjMr8hjo51PoJ8"
+          }
+        ], 
+        "duration_ms": 218373, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "2VyOpoblI3AHO6R8dr87Ia"
+      }, 
+      {
+        "name": "Cemetary Gates - 2011 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/03yOjwHoOPDlTUg0NRxN6t"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8446354c5a4e9bf2b69d8b919dd35fcf31ba53f4", 
+        "is_playable": true, 
+        "uri": "spotify:track:03yOjwHoOPDlTUg0NRxN6t", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/03yOjwHoOPDlTUg0NRxN6t", 
+        "artists": [
+          {
+            "name": "The Smiths", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+            }, 
+            "uri": "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8", 
+            "href": "https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8", 
+            "type": "artist", 
+            "id": "3yY2gUcIsjMr8hjo51PoJ8"
+          }
+        ], 
+        "duration_ms": 161040, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "03yOjwHoOPDlTUg0NRxN6t"
+      }, 
+      {
+        "name": "Bigmouth Strikes Again - 2011 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2OErSh4oVVAUll0vHxdr6p"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/71665934bce2f8c4a1f870164e9459d6ade0034a", 
+        "is_playable": true, 
+        "uri": "spotify:track:2OErSh4oVVAUll0vHxdr6p", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2OErSh4oVVAUll0vHxdr6p", 
+        "artists": [
+          {
+            "name": "The Smiths", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+            }, 
+            "uri": "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8", 
+            "href": "https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8", 
+            "type": "artist", 
+            "id": "3yY2gUcIsjMr8hjo51PoJ8"
+          }
+        ], 
+        "duration_ms": 193320, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "2OErSh4oVVAUll0vHxdr6p"
+      }, 
+      {
+        "name": "The Boy With The Thorn In His Side - 2011 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6s1lXoCa6EmIGnr0GrwcJp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e39b027ccfc23c711da7ece5a1114aef94ffb818", 
+        "is_playable": true, 
+        "uri": "spotify:track:6s1lXoCa6EmIGnr0GrwcJp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6s1lXoCa6EmIGnr0GrwcJp", 
+        "artists": [
+          {
+            "name": "The Smiths", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+            }, 
+            "uri": "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8", 
+            "href": "https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8", 
+            "type": "artist", 
+            "id": "3yY2gUcIsjMr8hjo51PoJ8"
+          }
+        ], 
+        "duration_ms": 196626, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "6s1lXoCa6EmIGnr0GrwcJp"
+      }, 
+      {
+        "name": "Vicar In A Tutu - 2011 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/59cZGLKHgcYWd0z4fvtikE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9653fb5d37c8b390d925af3d6c266ba511411f50", 
+        "is_playable": true, 
+        "uri": "spotify:track:59cZGLKHgcYWd0z4fvtikE", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/59cZGLKHgcYWd0z4fvtikE", 
+        "artists": [
+          {
+            "name": "The Smiths", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+            }, 
+            "uri": "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8", 
+            "href": "https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8", 
+            "type": "artist", 
+            "id": "3yY2gUcIsjMr8hjo51PoJ8"
+          }
+        ], 
+        "duration_ms": 144213, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "59cZGLKHgcYWd0z4fvtikE"
+      }, 
+      {
+        "name": "There Is A Light That Never Goes Out - 2011 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/79d9a656509ce1fac77209672bc5b01ce9afce8a", 
+        "is_playable": true, 
+        "uri": "spotify:track:0WQiDwKJclirSYG9v5tayI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0WQiDwKJclirSYG9v5tayI", 
+        "artists": [
+          {
+            "name": "The Smiths", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+            }, 
+            "uri": "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8", 
+            "href": "https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8", 
+            "type": "artist", 
+            "id": "3yY2gUcIsjMr8hjo51PoJ8"
+          }
+        ], 
+        "duration_ms": 244586, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "0WQiDwKJclirSYG9v5tayI"
+      }, 
+      {
+        "name": "Some Girls Are Bigger Than Others - 2011 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3znapZvsInnCVsDERDUaM5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f6d5dfc424e5152b507c1a7b83ca957cb1ec05eb", 
+        "is_playable": true, 
+        "uri": "spotify:track:3znapZvsInnCVsDERDUaM5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3znapZvsInnCVsDERDUaM5", 
+        "artists": [
+          {
+            "name": "The Smiths", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+            }, 
+            "uri": "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8", 
+            "href": "https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8", 
+            "type": "artist", 
+            "id": "3yY2gUcIsjMr8hjo51PoJ8"
+          }
+        ], 
+        "duration_ms": 197800, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "3znapZvsInnCVsDERDUaM5"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/5Y0p2XCgRRIjna91aQE8q7/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 10, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/5Y0p2XCgRRIjna91aQE8q7", 
+  "copyrights": [
+    {
+      "text": "1986 Warner Music UK Ltd", 
+      "type": "C"
+    }, 
+    {
+      "text": "2011 Rhino UK, a division of Warner Music UK Ltd.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "The Smiths", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+      }, 
+      "uri": "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8", 
+      "href": "https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8", 
+      "type": "artist", 
+      "id": "3yY2gUcIsjMr8hjo51PoJ8"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/86ff3e66dbee0713fb8057d6a1b4a95490de25ba", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/fba88127753bad349ee8672ccf60ecc98e5cf307", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/cbbc3384690c7aa0f21d6bf2853e0ded6b1feab2", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "825646642809"
+  }, 
+  "type": "album", 
+  "id": "5Y0p2XCgRRIjna91aQE8q7", 
+  "name": "The Queen Is Dead"
+}

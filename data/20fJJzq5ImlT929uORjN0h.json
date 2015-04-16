@@ -1,0 +1,515 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/20fJJzq5ImlT929uORjN0h"
+  }, 
+  "release_date": "2010-01-01", 
+  "popularity": 60, 
+  "genres": [], 
+  "uri": "spotify:album:20fJJzq5ImlT929uORjN0h", 
+  "tracks": {
+    "items": [
+      {
+        "name": "The Suburbs", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6bZaumwiWjUSLSLqUyxetj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7fce4cb35d34adb8703161bd6f776b86ad48eb6c", 
+        "is_playable": true, 
+        "uri": "spotify:track:6bZaumwiWjUSLSLqUyxetj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6bZaumwiWjUSLSLqUyxetj", 
+        "artists": [
+          {
+            "name": "Arcade Fire", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+            }, 
+            "uri": "spotify:artist:3kjuyTCjPG1WMFCiyc5IuB", 
+            "href": "https://api.spotify.com/v1/artists/3kjuyTCjPG1WMFCiyc5IuB", 
+            "type": "artist", 
+            "id": "3kjuyTCjPG1WMFCiyc5IuB"
+          }
+        ], 
+        "duration_ms": 315200, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "6bZaumwiWjUSLSLqUyxetj"
+      }, 
+      {
+        "name": "Ready To Start", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4NmhQlzLdrD2dDLk9pvp5z"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ad630f9db3fc87fe00776eb40d0dda80330e40af", 
+        "is_playable": true, 
+        "uri": "spotify:track:4NmhQlzLdrD2dDLk9pvp5z", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4NmhQlzLdrD2dDLk9pvp5z", 
+        "artists": [
+          {
+            "name": "Arcade Fire", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+            }, 
+            "uri": "spotify:artist:3kjuyTCjPG1WMFCiyc5IuB", 
+            "href": "https://api.spotify.com/v1/artists/3kjuyTCjPG1WMFCiyc5IuB", 
+            "type": "artist", 
+            "id": "3kjuyTCjPG1WMFCiyc5IuB"
+          }
+        ], 
+        "duration_ms": 255893, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "4NmhQlzLdrD2dDLk9pvp5z"
+      }, 
+      {
+        "name": "Modern Man", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3oJ1gXQoxJM8QaStXJ80VR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a53cbaf6453728765ad91cbae3e928b2010d546d", 
+        "is_playable": true, 
+        "uri": "spotify:track:3oJ1gXQoxJM8QaStXJ80VR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3oJ1gXQoxJM8QaStXJ80VR", 
+        "artists": [
+          {
+            "name": "Arcade Fire", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+            }, 
+            "uri": "spotify:artist:3kjuyTCjPG1WMFCiyc5IuB", 
+            "href": "https://api.spotify.com/v1/artists/3kjuyTCjPG1WMFCiyc5IuB", 
+            "type": "artist", 
+            "id": "3kjuyTCjPG1WMFCiyc5IuB"
+          }
+        ], 
+        "duration_ms": 279760, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "3oJ1gXQoxJM8QaStXJ80VR"
+      }, 
+      {
+        "name": "Rococo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1YNhjv8KdYo1cVPFTEpzHy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e2e43391386d9678fdb88b9480290720cacc7bdd", 
+        "is_playable": true, 
+        "uri": "spotify:track:1YNhjv8KdYo1cVPFTEpzHy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1YNhjv8KdYo1cVPFTEpzHy", 
+        "artists": [
+          {
+            "name": "Arcade Fire", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+            }, 
+            "uri": "spotify:artist:3kjuyTCjPG1WMFCiyc5IuB", 
+            "href": "https://api.spotify.com/v1/artists/3kjuyTCjPG1WMFCiyc5IuB", 
+            "type": "artist", 
+            "id": "3kjuyTCjPG1WMFCiyc5IuB"
+          }
+        ], 
+        "duration_ms": 236773, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "1YNhjv8KdYo1cVPFTEpzHy"
+      }, 
+      {
+        "name": "Empty Room", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5dzOWLBOES4YP5ho9cDZaZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4b5780b79dfb8852717eabd11c904e13b98b0e2f", 
+        "is_playable": true, 
+        "uri": "spotify:track:5dzOWLBOES4YP5ho9cDZaZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5dzOWLBOES4YP5ho9cDZaZ", 
+        "artists": [
+          {
+            "name": "Arcade Fire", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+            }, 
+            "uri": "spotify:artist:3kjuyTCjPG1WMFCiyc5IuB", 
+            "href": "https://api.spotify.com/v1/artists/3kjuyTCjPG1WMFCiyc5IuB", 
+            "type": "artist", 
+            "id": "3kjuyTCjPG1WMFCiyc5IuB"
+          }
+        ], 
+        "duration_ms": 171533, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "5dzOWLBOES4YP5ho9cDZaZ"
+      }, 
+      {
+        "name": "City With No Children", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4GNqLz8du2yd5JxlfRtI5i"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d778670d1f3bc8048cb3f527c18cd4ea6fac434f", 
+        "is_playable": true, 
+        "uri": "spotify:track:4GNqLz8du2yd5JxlfRtI5i", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4GNqLz8du2yd5JxlfRtI5i", 
+        "artists": [
+          {
+            "name": "Arcade Fire", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+            }, 
+            "uri": "spotify:artist:3kjuyTCjPG1WMFCiyc5IuB", 
+            "href": "https://api.spotify.com/v1/artists/3kjuyTCjPG1WMFCiyc5IuB", 
+            "type": "artist", 
+            "id": "3kjuyTCjPG1WMFCiyc5IuB"
+          }
+        ], 
+        "duration_ms": 191600, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "4GNqLz8du2yd5JxlfRtI5i"
+      }, 
+      {
+        "name": "Half Light I", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3doAO6Roz9v1Jx6jb7JMGe"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/eb1d8258cda3646f05413d8fcfc14db0c6ae9422", 
+        "is_playable": true, 
+        "uri": "spotify:track:3doAO6Roz9v1Jx6jb7JMGe", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3doAO6Roz9v1Jx6jb7JMGe", 
+        "artists": [
+          {
+            "name": "Arcade Fire", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+            }, 
+            "uri": "spotify:artist:3kjuyTCjPG1WMFCiyc5IuB", 
+            "href": "https://api.spotify.com/v1/artists/3kjuyTCjPG1WMFCiyc5IuB", 
+            "type": "artist", 
+            "id": "3kjuyTCjPG1WMFCiyc5IuB"
+          }
+        ], 
+        "duration_ms": 253666, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "3doAO6Roz9v1Jx6jb7JMGe"
+      }, 
+      {
+        "name": "Half Light II (No Celebration)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2oMuSJJiHpB7ag5nt2PNtw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1ac5707748c7345566c8f16906ab8c5f9fabadab", 
+        "is_playable": true, 
+        "uri": "spotify:track:2oMuSJJiHpB7ag5nt2PNtw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2oMuSJJiHpB7ag5nt2PNtw", 
+        "artists": [
+          {
+            "name": "Arcade Fire", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+            }, 
+            "uri": "spotify:artist:3kjuyTCjPG1WMFCiyc5IuB", 
+            "href": "https://api.spotify.com/v1/artists/3kjuyTCjPG1WMFCiyc5IuB", 
+            "type": "artist", 
+            "id": "3kjuyTCjPG1WMFCiyc5IuB"
+          }
+        ], 
+        "duration_ms": 267133, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "2oMuSJJiHpB7ag5nt2PNtw"
+      }, 
+      {
+        "name": "Suburban War", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2VxrADWuxdPZkizoR0Rjse"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f5b1bef707e8be7052a1efa5a39555c48e913d36", 
+        "is_playable": true, 
+        "uri": "spotify:track:2VxrADWuxdPZkizoR0Rjse", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2VxrADWuxdPZkizoR0Rjse", 
+        "artists": [
+          {
+            "name": "Arcade Fire", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+            }, 
+            "uri": "spotify:artist:3kjuyTCjPG1WMFCiyc5IuB", 
+            "href": "https://api.spotify.com/v1/artists/3kjuyTCjPG1WMFCiyc5IuB", 
+            "type": "artist", 
+            "id": "3kjuyTCjPG1WMFCiyc5IuB"
+          }
+        ], 
+        "duration_ms": 281106, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "2VxrADWuxdPZkizoR0Rjse"
+      }, 
+      {
+        "name": "Month Of May", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1OT3GzHAkhcTXIzMcOvOr2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/980d2529a5c0673db0b7da182ad2c8eb2a1c01d7", 
+        "is_playable": true, 
+        "uri": "spotify:track:1OT3GzHAkhcTXIzMcOvOr2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1OT3GzHAkhcTXIzMcOvOr2", 
+        "artists": [
+          {
+            "name": "Arcade Fire", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+            }, 
+            "uri": "spotify:artist:3kjuyTCjPG1WMFCiyc5IuB", 
+            "href": "https://api.spotify.com/v1/artists/3kjuyTCjPG1WMFCiyc5IuB", 
+            "type": "artist", 
+            "id": "3kjuyTCjPG1WMFCiyc5IuB"
+          }
+        ], 
+        "duration_ms": 230720, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "1OT3GzHAkhcTXIzMcOvOr2"
+      }, 
+      {
+        "name": "Wasted Hours", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7htarnw5d8d2MnlolePkOM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/29b4b4c3b028d2e75e6b4db6f89446821712480a", 
+        "is_playable": true, 
+        "uri": "spotify:track:7htarnw5d8d2MnlolePkOM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7htarnw5d8d2MnlolePkOM", 
+        "artists": [
+          {
+            "name": "Arcade Fire", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+            }, 
+            "uri": "spotify:artist:3kjuyTCjPG1WMFCiyc5IuB", 
+            "href": "https://api.spotify.com/v1/artists/3kjuyTCjPG1WMFCiyc5IuB", 
+            "type": "artist", 
+            "id": "3kjuyTCjPG1WMFCiyc5IuB"
+          }
+        ], 
+        "duration_ms": 200720, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "7htarnw5d8d2MnlolePkOM"
+      }, 
+      {
+        "name": "Deep Blue", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6G4nI1rlOm1cDCc7ldppXM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8721a3cc24b77e5b0270f9bb2b2bbab52ed63d80", 
+        "is_playable": true, 
+        "uri": "spotify:track:6G4nI1rlOm1cDCc7ldppXM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6G4nI1rlOm1cDCc7ldppXM", 
+        "artists": [
+          {
+            "name": "Arcade Fire", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+            }, 
+            "uri": "spotify:artist:3kjuyTCjPG1WMFCiyc5IuB", 
+            "href": "https://api.spotify.com/v1/artists/3kjuyTCjPG1WMFCiyc5IuB", 
+            "type": "artist", 
+            "id": "3kjuyTCjPG1WMFCiyc5IuB"
+          }
+        ], 
+        "duration_ms": 268133, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "6G4nI1rlOm1cDCc7ldppXM"
+      }, 
+      {
+        "name": "We Used To Wait", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4bT4dRxbYQiMUfrQuXSOsn"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3e37273481056a47f60e395e69846d4a7be524b3", 
+        "is_playable": true, 
+        "uri": "spotify:track:4bT4dRxbYQiMUfrQuXSOsn", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4bT4dRxbYQiMUfrQuXSOsn", 
+        "artists": [
+          {
+            "name": "Arcade Fire", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+            }, 
+            "uri": "spotify:artist:3kjuyTCjPG1WMFCiyc5IuB", 
+            "href": "https://api.spotify.com/v1/artists/3kjuyTCjPG1WMFCiyc5IuB", 
+            "type": "artist", 
+            "id": "3kjuyTCjPG1WMFCiyc5IuB"
+          }
+        ], 
+        "duration_ms": 301400, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "4bT4dRxbYQiMUfrQuXSOsn"
+      }, 
+      {
+        "name": "Sprawl I (Flatland)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2XRNUZqPvw1zJMZIOxcF55"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ff6e9fe44b82f0308a6514b4ab30647ff5dd7d66", 
+        "is_playable": true, 
+        "uri": "spotify:track:2XRNUZqPvw1zJMZIOxcF55", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2XRNUZqPvw1zJMZIOxcF55", 
+        "artists": [
+          {
+            "name": "Arcade Fire", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+            }, 
+            "uri": "spotify:artist:3kjuyTCjPG1WMFCiyc5IuB", 
+            "href": "https://api.spotify.com/v1/artists/3kjuyTCjPG1WMFCiyc5IuB", 
+            "type": "artist", 
+            "id": "3kjuyTCjPG1WMFCiyc5IuB"
+          }
+        ], 
+        "duration_ms": 174226, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "2XRNUZqPvw1zJMZIOxcF55"
+      }, 
+      {
+        "name": "Sprawl II (Mountains Beyond Mountains)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5FDatp5gbVAtI9usu6MPJ4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/420dfce67a10c4d72c8eed40341e721776afb845", 
+        "is_playable": true, 
+        "uri": "spotify:track:5FDatp5gbVAtI9usu6MPJ4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5FDatp5gbVAtI9usu6MPJ4", 
+        "artists": [
+          {
+            "name": "Arcade Fire", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+            }, 
+            "uri": "spotify:artist:3kjuyTCjPG1WMFCiyc5IuB", 
+            "href": "https://api.spotify.com/v1/artists/3kjuyTCjPG1WMFCiyc5IuB", 
+            "type": "artist", 
+            "id": "3kjuyTCjPG1WMFCiyc5IuB"
+          }
+        ], 
+        "duration_ms": 318346, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "5FDatp5gbVAtI9usu6MPJ4"
+      }, 
+      {
+        "name": "The Suburbs (Continued)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/23tbzUPiRBI3xPPESvOFBm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c3e5029222ef51253adaf2e4bfabb2e42ff3a4e0", 
+        "is_playable": true, 
+        "uri": "spotify:track:23tbzUPiRBI3xPPESvOFBm", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/23tbzUPiRBI3xPPESvOFBm", 
+        "artists": [
+          {
+            "name": "Arcade Fire", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+            }, 
+            "uri": "spotify:artist:3kjuyTCjPG1WMFCiyc5IuB", 
+            "href": "https://api.spotify.com/v1/artists/3kjuyTCjPG1WMFCiyc5IuB", 
+            "type": "artist", 
+            "id": "3kjuyTCjPG1WMFCiyc5IuB"
+          }
+        ], 
+        "duration_ms": 87626, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "23tbzUPiRBI3xPPESvOFBm"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/20fJJzq5ImlT929uORjN0h/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 16, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/20fJJzq5ImlT929uORjN0h", 
+  "copyrights": [
+    {
+      "text": "(C) 2010 Arcade Fire Music, LLC", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 2010 Arcade Fire Music, LLC", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Arcade Fire", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+      }, 
+      "uri": "spotify:artist:3kjuyTCjPG1WMFCiyc5IuB", 
+      "href": "https://api.spotify.com/v1/artists/3kjuyTCjPG1WMFCiyc5IuB", 
+      "type": "artist", 
+      "id": "3kjuyTCjPG1WMFCiyc5IuB"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/9ca83e6857f52d8fbba1db24ee4c630fffba6a6c", 
+      "width": 640, 
+      "height": 631
+    }, 
+    {
+      "url": "https://i.scdn.co/image/8c6588bb125ec6fce14f75d55993f249996e59c1", 
+      "width": 300, 
+      "height": 296
+    }, 
+    {
+      "url": "https://i.scdn.co/image/3aa3e58afed3c69eaedb3c5fe4faf94ee5befbde", 
+      "width": 64, 
+      "height": 63
+    }
+  ], 
+  "external_ids": {
+    "upc": "00602527426297"
+  }, 
+  "type": "album", 
+  "id": "20fJJzq5ImlT929uORjN0h", 
+  "name": "The Suburbs"
+}

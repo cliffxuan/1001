@@ -1,0 +1,403 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4V4NjX74cttwZSKabeqMQc"
+  }, 
+  "release_date": "1995-06-20", 
+  "popularity": 46, 
+  "genres": [], 
+  "uri": "spotify:album:4V4NjX74cttwZSKabeqMQc", 
+  "tracks": {
+    "items": [
+      {
+        "name": "A New Decade", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6ilbIdvvsGRCwSKK0nYc61"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/54cf68949391b99e669caa952adc22085234c767", 
+        "is_playable": true, 
+        "uri": "spotify:track:6ilbIdvvsGRCwSKK0nYc61", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6ilbIdvvsGRCwSKK0nYc61", 
+        "artists": [
+          {
+            "name": "The Verve", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+            }, 
+            "uri": "spotify:artist:2cGwlqi3k18jFpUyTrsR84", 
+            "href": "https://api.spotify.com/v1/artists/2cGwlqi3k18jFpUyTrsR84", 
+            "type": "artist", 
+            "id": "2cGwlqi3k18jFpUyTrsR84"
+          }
+        ], 
+        "duration_ms": 251960, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "6ilbIdvvsGRCwSKK0nYc61"
+      }, 
+      {
+        "name": "This Is Music", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4DTXxgwWv384nwC76aXgVB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/be798b2f2676b506f465accd657d76379ecd87a8", 
+        "is_playable": true, 
+        "uri": "spotify:track:4DTXxgwWv384nwC76aXgVB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4DTXxgwWv384nwC76aXgVB", 
+        "artists": [
+          {
+            "name": "The Verve", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+            }, 
+            "uri": "spotify:artist:2cGwlqi3k18jFpUyTrsR84", 
+            "href": "https://api.spotify.com/v1/artists/2cGwlqi3k18jFpUyTrsR84", 
+            "type": "artist", 
+            "id": "2cGwlqi3k18jFpUyTrsR84"
+          }
+        ], 
+        "duration_ms": 215840, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "4DTXxgwWv384nwC76aXgVB"
+      }, 
+      {
+        "name": "On Your Own", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/56nLjyg1wmMN1n6XVixBSt"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/414dd1066c3e7b843c1b96c3f114eda424a955c2", 
+        "is_playable": true, 
+        "uri": "spotify:track:56nLjyg1wmMN1n6XVixBSt", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/56nLjyg1wmMN1n6XVixBSt", 
+        "artists": [
+          {
+            "name": "The Verve", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+            }, 
+            "uri": "spotify:artist:2cGwlqi3k18jFpUyTrsR84", 
+            "href": "https://api.spotify.com/v1/artists/2cGwlqi3k18jFpUyTrsR84", 
+            "type": "artist", 
+            "id": "2cGwlqi3k18jFpUyTrsR84"
+          }
+        ], 
+        "duration_ms": 213693, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "56nLjyg1wmMN1n6XVixBSt"
+      }, 
+      {
+        "name": "So It Goes", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1tf9gSxIUNW15SFwI7feSb"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cfee05eca6dc62faef7383a5685ef78bcea954e0", 
+        "is_playable": true, 
+        "uri": "spotify:track:1tf9gSxIUNW15SFwI7feSb", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1tf9gSxIUNW15SFwI7feSb", 
+        "artists": [
+          {
+            "name": "The Verve", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+            }, 
+            "uri": "spotify:artist:2cGwlqi3k18jFpUyTrsR84", 
+            "href": "https://api.spotify.com/v1/artists/2cGwlqi3k18jFpUyTrsR84", 
+            "type": "artist", 
+            "id": "2cGwlqi3k18jFpUyTrsR84"
+          }
+        ], 
+        "duration_ms": 371400, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "1tf9gSxIUNW15SFwI7feSb"
+      }, 
+      {
+        "name": "A Northern Soul", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3PtQ4oZ2u9JjQk1qTnbDXf"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/beac10231b6dd94cb6aff13c307371063a2b4fd0", 
+        "is_playable": true, 
+        "uri": "spotify:track:3PtQ4oZ2u9JjQk1qTnbDXf", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3PtQ4oZ2u9JjQk1qTnbDXf", 
+        "artists": [
+          {
+            "name": "The Verve", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+            }, 
+            "uri": "spotify:artist:2cGwlqi3k18jFpUyTrsR84", 
+            "href": "https://api.spotify.com/v1/artists/2cGwlqi3k18jFpUyTrsR84", 
+            "type": "artist", 
+            "id": "2cGwlqi3k18jFpUyTrsR84"
+          }
+        ], 
+        "duration_ms": 392466, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "3PtQ4oZ2u9JjQk1qTnbDXf"
+      }, 
+      {
+        "name": "Brainstorm Interlude", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3ax6ofkpfQw7Jwiz7oNr53"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3974d5541097c6c6a3a0084bd05187518554af96", 
+        "is_playable": true, 
+        "uri": "spotify:track:3ax6ofkpfQw7Jwiz7oNr53", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3ax6ofkpfQw7Jwiz7oNr53", 
+        "artists": [
+          {
+            "name": "The Verve", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+            }, 
+            "uri": "spotify:artist:2cGwlqi3k18jFpUyTrsR84", 
+            "href": "https://api.spotify.com/v1/artists/2cGwlqi3k18jFpUyTrsR84", 
+            "type": "artist", 
+            "id": "2cGwlqi3k18jFpUyTrsR84"
+          }
+        ], 
+        "duration_ms": 311373, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "3ax6ofkpfQw7Jwiz7oNr53"
+      }, 
+      {
+        "name": "Drive You Home", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Joi9L9a7ikiFnv5HjrCcy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/baec5b619959d32adcbe535a525a13dc01f91bf2", 
+        "is_playable": true, 
+        "uri": "spotify:track:4Joi9L9a7ikiFnv5HjrCcy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4Joi9L9a7ikiFnv5HjrCcy", 
+        "artists": [
+          {
+            "name": "The Verve", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+            }, 
+            "uri": "spotify:artist:2cGwlqi3k18jFpUyTrsR84", 
+            "href": "https://api.spotify.com/v1/artists/2cGwlqi3k18jFpUyTrsR84", 
+            "type": "artist", 
+            "id": "2cGwlqi3k18jFpUyTrsR84"
+          }
+        ], 
+        "duration_ms": 401693, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "4Joi9L9a7ikiFnv5HjrCcy"
+      }, 
+      {
+        "name": "History", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Hgh5mKEewq93FwMbgupMs"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9b9d290cd4f1cd302118527b6935d2ff03f067cd", 
+        "is_playable": true, 
+        "uri": "spotify:track:0Hgh5mKEewq93FwMbgupMs", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0Hgh5mKEewq93FwMbgupMs", 
+        "artists": [
+          {
+            "name": "The Verve", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+            }, 
+            "uri": "spotify:artist:2cGwlqi3k18jFpUyTrsR84", 
+            "href": "https://api.spotify.com/v1/artists/2cGwlqi3k18jFpUyTrsR84", 
+            "type": "artist", 
+            "id": "2cGwlqi3k18jFpUyTrsR84"
+          }
+        ], 
+        "duration_ms": 326000, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "0Hgh5mKEewq93FwMbgupMs"
+      }, 
+      {
+        "name": "No Knock On My Door", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4xxFc8OauoOgbyiv6FAOjZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2784a5c8265f7b568e3c49f3c1fcc489f849fe72", 
+        "is_playable": true, 
+        "uri": "spotify:track:4xxFc8OauoOgbyiv6FAOjZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4xxFc8OauoOgbyiv6FAOjZ", 
+        "artists": [
+          {
+            "name": "The Verve", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+            }, 
+            "uri": "spotify:artist:2cGwlqi3k18jFpUyTrsR84", 
+            "href": "https://api.spotify.com/v1/artists/2cGwlqi3k18jFpUyTrsR84", 
+            "type": "artist", 
+            "id": "2cGwlqi3k18jFpUyTrsR84"
+          }
+        ], 
+        "duration_ms": 311533, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "4xxFc8OauoOgbyiv6FAOjZ"
+      }, 
+      {
+        "name": "Life's An Ocean", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/44OGRm1PtBGnRspJf0mnWf"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f6a5f199b9de9ca3941844eb36e1f337e75fbc87", 
+        "is_playable": true, 
+        "uri": "spotify:track:44OGRm1PtBGnRspJf0mnWf", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/44OGRm1PtBGnRspJf0mnWf", 
+        "artists": [
+          {
+            "name": "The Verve", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+            }, 
+            "uri": "spotify:artist:2cGwlqi3k18jFpUyTrsR84", 
+            "href": "https://api.spotify.com/v1/artists/2cGwlqi3k18jFpUyTrsR84", 
+            "type": "artist", 
+            "id": "2cGwlqi3k18jFpUyTrsR84"
+          }
+        ], 
+        "duration_ms": 343973, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "44OGRm1PtBGnRspJf0mnWf"
+      }, 
+      {
+        "name": "Stormy Clouds", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4MPlfiAJ9b521kNBYer7xy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f3f4bd1c82e75be2dfb722f92728a885b32a7570", 
+        "is_playable": true, 
+        "uri": "spotify:track:4MPlfiAJ9b521kNBYer7xy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4MPlfiAJ9b521kNBYer7xy", 
+        "artists": [
+          {
+            "name": "The Verve", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+            }, 
+            "uri": "spotify:artist:2cGwlqi3k18jFpUyTrsR84", 
+            "href": "https://api.spotify.com/v1/artists/2cGwlqi3k18jFpUyTrsR84", 
+            "type": "artist", 
+            "id": "2cGwlqi3k18jFpUyTrsR84"
+          }
+        ], 
+        "duration_ms": 334960, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "4MPlfiAJ9b521kNBYer7xy"
+      }, 
+      {
+        "name": "(Reprise)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7rgcaxdcVBAXDO47HHz2Hw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/381aee27709b81ebbac1617e2216648c0de08074", 
+        "is_playable": true, 
+        "uri": "spotify:track:7rgcaxdcVBAXDO47HHz2Hw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7rgcaxdcVBAXDO47HHz2Hw", 
+        "artists": [
+          {
+            "name": "The Verve", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+            }, 
+            "uri": "spotify:artist:2cGwlqi3k18jFpUyTrsR84", 
+            "href": "https://api.spotify.com/v1/artists/2cGwlqi3k18jFpUyTrsR84", 
+            "type": "artist", 
+            "id": "2cGwlqi3k18jFpUyTrsR84"
+          }
+        ], 
+        "duration_ms": 371333, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "7rgcaxdcVBAXDO47HHz2Hw"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/4V4NjX74cttwZSKabeqMQc/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 12, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/4V4NjX74cttwZSKabeqMQc", 
+  "copyrights": [
+    {
+      "text": "(C) 1995 Virgin Records LtdThis Label Copy information is the subject of Copyright protection. All rights reserved.(C) 1995 Virgin Records Ltd", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1995 The Copyright in this sound recording is owned by Virgin Records Ltd", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "The Verve", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+      }, 
+      "uri": "spotify:artist:2cGwlqi3k18jFpUyTrsR84", 
+      "href": "https://api.spotify.com/v1/artists/2cGwlqi3k18jFpUyTrsR84", 
+      "type": "artist", 
+      "id": "2cGwlqi3k18jFpUyTrsR84"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/66b8286fdc422072115006c9dfba6e8a3d712ff4", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/2209459992d645cf9f29bca59239e69574282bfe", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/04f848fc9a02715331fbb03d5ffadc8545d24b13", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00724384043759"
+  }, 
+  "type": "album", 
+  "id": "4V4NjX74cttwZSKabeqMQc", 
+  "name": "A Northern Soul"
+}

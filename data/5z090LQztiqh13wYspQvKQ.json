@@ -1,0 +1,511 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+  }, 
+  "release_date": "1968-10-25", 
+  "popularity": 71, 
+  "genres": [], 
+  "uri": "spotify:album:5z090LQztiqh13wYspQvKQ", 
+  "tracks": {
+    "items": [
+      {
+        "name": "...And The Gods Made Love", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4COmeKH1pLNNpXcgtMcyQH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6587873cad3ef92b5ba1a6ab8c1935affa06967d", 
+        "is_playable": true, 
+        "uri": "spotify:track:4COmeKH1pLNNpXcgtMcyQH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4COmeKH1pLNNpXcgtMcyQH", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 82626, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "4COmeKH1pLNNpXcgtMcyQH"
+      }, 
+      {
+        "name": "Have You Ever Been (To Electric Ladyland)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Yh64aiu2ANBwDFztyPDkT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ffef60c575ac62a5f2304622b2336f35c04b9646", 
+        "is_playable": true, 
+        "uri": "spotify:track:3Yh64aiu2ANBwDFztyPDkT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3Yh64aiu2ANBwDFztyPDkT", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 130039, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "3Yh64aiu2ANBwDFztyPDkT"
+      }, 
+      {
+        "name": "Crosstown Traffic", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1ntxpzIUbSsizvuAy6lTYY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c83c6547bdddfdcd3de6cd33bb1526e08b06c8e1", 
+        "is_playable": true, 
+        "uri": "spotify:track:1ntxpzIUbSsizvuAy6lTYY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1ntxpzIUbSsizvuAy6lTYY", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 146573, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "1ntxpzIUbSsizvuAy6lTYY"
+      }, 
+      {
+        "name": "Voodoo Chile", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0auKlivXpm76wR63mMJ3pR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4b320a47f6475c652fb45c7843183b263ebe8bc0", 
+        "is_playable": true, 
+        "uri": "spotify:track:0auKlivXpm76wR63mMJ3pR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0auKlivXpm76wR63mMJ3pR", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 899933, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "0auKlivXpm76wR63mMJ3pR"
+      }, 
+      {
+        "name": "Little Miss Strange", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1jhH7vvy8hoHuc0mGuZsLX"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d19ba883e0ad139bc2a4709261b47492c10a553f", 
+        "is_playable": true, 
+        "uri": "spotify:track:1jhH7vvy8hoHuc0mGuZsLX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1jhH7vvy8hoHuc0mGuZsLX", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 172200, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "1jhH7vvy8hoHuc0mGuZsLX"
+      }, 
+      {
+        "name": "Long Hot Summer Night", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1HFj7yC7uZfqjWuoH6DO9r"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/33c5090b42c603b327d115251bd6c0900b72a820", 
+        "is_playable": true, 
+        "uri": "spotify:track:1HFj7yC7uZfqjWuoH6DO9r", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1HFj7yC7uZfqjWuoH6DO9r", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 207760, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "1HFj7yC7uZfqjWuoH6DO9r"
+      }, 
+      {
+        "name": "Come On (Let The Good Times Roll)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0KqHJXm4Z42fELkW83ZW0r"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/312f53c295333283fe058443244ecb690638f24e", 
+        "is_playable": true, 
+        "uri": "spotify:track:0KqHJXm4Z42fELkW83ZW0r", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0KqHJXm4Z42fELkW83ZW0r", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 249373, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "0KqHJXm4Z42fELkW83ZW0r"
+      }, 
+      {
+        "name": "Gypsy Eyes", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1DfWmv1eJU1a9tuGpqKGFP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9fff0095bac6ab7119cbe87e984a5a933405a2dc", 
+        "is_playable": true, 
+        "uri": "spotify:track:1DfWmv1eJU1a9tuGpqKGFP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1DfWmv1eJU1a9tuGpqKGFP", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 223680, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "1DfWmv1eJU1a9tuGpqKGFP"
+      }, 
+      {
+        "name": "Burning Of The Midnight Lamp", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/36SULeBeglappJysOY6WzQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bfa31f49734e5fc9d8f998ca8da1cb61a5bdd9a3", 
+        "is_playable": true, 
+        "uri": "spotify:track:36SULeBeglappJysOY6WzQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/36SULeBeglappJysOY6WzQ", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 219613, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "36SULeBeglappJysOY6WzQ"
+      }, 
+      {
+        "name": "Rainy Day, Dream Away", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0xwG5stzrc5B70TycPwenY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/21f78f245b78a4cc688fc6ac41ef0c08ae4f4749", 
+        "is_playable": true, 
+        "uri": "spotify:track:0xwG5stzrc5B70TycPwenY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0xwG5stzrc5B70TycPwenY", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 222066, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "0xwG5stzrc5B70TycPwenY"
+      }, 
+      {
+        "name": "1983...(A Merman I Should Turn To Be)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5uDpwSGjljhIgDB1ZYdp9c"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2f8ef4c742ae77fc7308e11ae3f80d228335489e", 
+        "is_playable": true, 
+        "uri": "spotify:track:5uDpwSGjljhIgDB1ZYdp9c", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5uDpwSGjljhIgDB1ZYdp9c", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 819626, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "5uDpwSGjljhIgDB1ZYdp9c"
+      }, 
+      {
+        "name": "Moon, Turn The Tides...gently gently away", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3q3gK9I4mj03565IGtVA0d"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2a8c9e32f20c92cb9ed9411ad91d311584df57b8", 
+        "is_playable": true, 
+        "uri": "spotify:track:3q3gK9I4mj03565IGtVA0d", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3q3gK9I4mj03565IGtVA0d", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 61773, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "3q3gK9I4mj03565IGtVA0d"
+      }, 
+      {
+        "name": "Still Raining, Still Dreaming", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0xKcrFF5ed7U4EPdG6vE4f"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b1cdb44deefed5be85871b83485bf5d6de98b814", 
+        "is_playable": true, 
+        "uri": "spotify:track:0xKcrFF5ed7U4EPdG6vE4f", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0xKcrFF5ed7U4EPdG6vE4f", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 265586, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "0xKcrFF5ed7U4EPdG6vE4f"
+      }, 
+      {
+        "name": "House Burning Down", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6p5RohbRLDSjeERMZ90hMg"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4ff231ecdb07f0e04cc8f985dcce55a05247e853", 
+        "is_playable": true, 
+        "uri": "spotify:track:6p5RohbRLDSjeERMZ90hMg", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6p5RohbRLDSjeERMZ90hMg", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 272840, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "6p5RohbRLDSjeERMZ90hMg"
+      }, 
+      {
+        "name": "All Along the Watchtower", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f8c2e56b84eb61f92a13d34e7d801fbf24d0cc3f", 
+        "is_playable": true, 
+        "uri": "spotify:track:2aoo2jlRnM3A0NyLQqMN2f", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2aoo2jlRnM3A0NyLQqMN2f", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 240800, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "2aoo2jlRnM3A0NyLQqMN2f"
+      }, 
+      {
+        "name": "Voodoo Child (Slight Return)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b05cc4071fa8635823a094a6e719e3e358db24cd", 
+        "is_playable": true, 
+        "uri": "spotify:track:2AxCeJ6PSsBYiTckM0HLY7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2AxCeJ6PSsBYiTckM0HLY7", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 313373, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "2AxCeJ6PSsBYiTckM0HLY7"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/5z090LQztiqh13wYspQvKQ/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 16, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/5z090LQztiqh13wYspQvKQ", 
+  "copyrights": [
+    {
+      "text": "(P) 2009 Experience Hendrix L.L.C., under exclusive license to Sony Music Entertainment", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Jimi Hendrix", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+      }, 
+      "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+      "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+      "type": "artist", 
+      "id": "776Uo845nYHJpNaStv1Ds4"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/d82a5f8cae828822c86944960e23a5bee8658d37", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/dee867bbe7a3dd97a37212de86cd40166ebf6dc5", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/e4f132327d986c8c482f59c1284098533c4ca732", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "884977412802"
+  }, 
+  "type": "album", 
+  "id": "5z090LQztiqh13wYspQvKQ", 
+  "name": "Electric Ladyland"
+}

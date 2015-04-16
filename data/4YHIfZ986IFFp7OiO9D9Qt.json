@@ -1,0 +1,347 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4YHIfZ986IFFp7OiO9D9Qt"
+  }, 
+  "release_date": "1990-09-04", 
+  "popularity": 36, 
+  "genres": [], 
+  "uri": "spotify:album:4YHIfZ986IFFp7OiO9D9Qt", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Country Home", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1aicIk0G8iMpZmgUZjB5xS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/20c6cf959d99e45afc8052d5a8ab4e94f6ab5c19", 
+        "is_playable": true, 
+        "uri": "spotify:track:1aicIk0G8iMpZmgUZjB5xS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1aicIk0G8iMpZmgUZjB5xS", 
+        "artists": [
+          {
+            "name": "Neil Young", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+            }, 
+            "uri": "spotify:artist:6v8FB84lnmJs434UJf2Mrm", 
+            "href": "https://api.spotify.com/v1/artists/6v8FB84lnmJs434UJf2Mrm", 
+            "type": "artist", 
+            "id": "6v8FB84lnmJs434UJf2Mrm"
+          }
+        ], 
+        "duration_ms": 425373, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "1aicIk0G8iMpZmgUZjB5xS"
+      }, 
+      {
+        "name": "White Line", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5uYW1iW4ckyvrBZCdG0vJT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/34e40f6ba8180d3a5a321bbc58ad2e5dfc7d0c82", 
+        "is_playable": true, 
+        "uri": "spotify:track:5uYW1iW4ckyvrBZCdG0vJT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5uYW1iW4ckyvrBZCdG0vJT", 
+        "artists": [
+          {
+            "name": "Neil Young", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+            }, 
+            "uri": "spotify:artist:6v8FB84lnmJs434UJf2Mrm", 
+            "href": "https://api.spotify.com/v1/artists/6v8FB84lnmJs434UJf2Mrm", 
+            "type": "artist", 
+            "id": "6v8FB84lnmJs434UJf2Mrm"
+          }
+        ], 
+        "duration_ms": 177826, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "5uYW1iW4ckyvrBZCdG0vJT"
+      }, 
+      {
+        "name": "F*!#in' Up", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6w9hCyiSCLjgmSRyKFrnxp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/46c261785c4bff25593f0f0fb9b97635052f7a0f", 
+        "is_playable": true, 
+        "uri": "spotify:track:6w9hCyiSCLjgmSRyKFrnxp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6w9hCyiSCLjgmSRyKFrnxp", 
+        "artists": [
+          {
+            "name": "Neil Young", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+            }, 
+            "uri": "spotify:artist:6v8FB84lnmJs434UJf2Mrm", 
+            "href": "https://api.spotify.com/v1/artists/6v8FB84lnmJs434UJf2Mrm", 
+            "type": "artist", 
+            "id": "6v8FB84lnmJs434UJf2Mrm"
+          }
+        ], 
+        "duration_ms": 355000, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "6w9hCyiSCLjgmSRyKFrnxp"
+      }, 
+      {
+        "name": "Over And Over", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/33nsiPYVrV8S1Kxc8wJboP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f996390d5570c5bb8b6debacd7ea1000f09a1c8b", 
+        "is_playable": true, 
+        "uri": "spotify:track:33nsiPYVrV8S1Kxc8wJboP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/33nsiPYVrV8S1Kxc8wJboP", 
+        "artists": [
+          {
+            "name": "Neil Young", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+            }, 
+            "uri": "spotify:artist:6v8FB84lnmJs434UJf2Mrm", 
+            "href": "https://api.spotify.com/v1/artists/6v8FB84lnmJs434UJf2Mrm", 
+            "type": "artist", 
+            "id": "6v8FB84lnmJs434UJf2Mrm"
+          }
+        ], 
+        "duration_ms": 508240, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "33nsiPYVrV8S1Kxc8wJboP"
+      }, 
+      {
+        "name": "Love To Burn", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/68lunbvWIi22oBgf2ze3vW"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c558de5f64cc111356d750685fe1a6e384e26b13", 
+        "is_playable": true, 
+        "uri": "spotify:track:68lunbvWIi22oBgf2ze3vW", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/68lunbvWIi22oBgf2ze3vW", 
+        "artists": [
+          {
+            "name": "Neil Young", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+            }, 
+            "uri": "spotify:artist:6v8FB84lnmJs434UJf2Mrm", 
+            "href": "https://api.spotify.com/v1/artists/6v8FB84lnmJs434UJf2Mrm", 
+            "type": "artist", 
+            "id": "6v8FB84lnmJs434UJf2Mrm"
+          }
+        ], 
+        "duration_ms": 600493, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "68lunbvWIi22oBgf2ze3vW"
+      }, 
+      {
+        "name": "Farmer John", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5dzWr7v1aKrZElrwWXsSVh"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b28b80f8ffc43c1f9d491d661336dfc24faca67f", 
+        "is_playable": true, 
+        "uri": "spotify:track:5dzWr7v1aKrZElrwWXsSVh", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5dzWr7v1aKrZElrwWXsSVh", 
+        "artists": [
+          {
+            "name": "Neil Young", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+            }, 
+            "uri": "spotify:artist:6v8FB84lnmJs434UJf2Mrm", 
+            "href": "https://api.spotify.com/v1/artists/6v8FB84lnmJs434UJf2Mrm", 
+            "type": "artist", 
+            "id": "6v8FB84lnmJs434UJf2Mrm"
+          }
+        ], 
+        "duration_ms": 254906, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "5dzWr7v1aKrZElrwWXsSVh"
+      }, 
+      {
+        "name": "Mansion On The Hill", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/414kkxYpZ5qwK6AZFIYrUu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fb81543ab245264c04a37e97aee3b816fb6d7a32", 
+        "is_playable": true, 
+        "uri": "spotify:track:414kkxYpZ5qwK6AZFIYrUu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/414kkxYpZ5qwK6AZFIYrUu", 
+        "artists": [
+          {
+            "name": "Neil Young", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+            }, 
+            "uri": "spotify:artist:6v8FB84lnmJs434UJf2Mrm", 
+            "href": "https://api.spotify.com/v1/artists/6v8FB84lnmJs434UJf2Mrm", 
+            "type": "artist", 
+            "id": "6v8FB84lnmJs434UJf2Mrm"
+          }
+        ], 
+        "duration_ms": 288266, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "414kkxYpZ5qwK6AZFIYrUu"
+      }, 
+      {
+        "name": "Days That Used To Be", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0D1n4eQaAJnZ5GRrUnhogr"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/986a4eb1cf7f2b4d62ad9337ad6c7d5b10c24cb0", 
+        "is_playable": true, 
+        "uri": "spotify:track:0D1n4eQaAJnZ5GRrUnhogr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0D1n4eQaAJnZ5GRrUnhogr", 
+        "artists": [
+          {
+            "name": "Neil Young", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+            }, 
+            "uri": "spotify:artist:6v8FB84lnmJs434UJf2Mrm", 
+            "href": "https://api.spotify.com/v1/artists/6v8FB84lnmJs434UJf2Mrm", 
+            "type": "artist", 
+            "id": "6v8FB84lnmJs434UJf2Mrm"
+          }
+        ], 
+        "duration_ms": 222266, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "0D1n4eQaAJnZ5GRrUnhogr"
+      }, 
+      {
+        "name": "Love And Only Love", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0D324xPNjagrXnmS5AtSxz"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f8e834f211c865d7f7b7effdba5686e848ff93c3", 
+        "is_playable": true, 
+        "uri": "spotify:track:0D324xPNjagrXnmS5AtSxz", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0D324xPNjagrXnmS5AtSxz", 
+        "artists": [
+          {
+            "name": "Neil Young", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+            }, 
+            "uri": "spotify:artist:6v8FB84lnmJs434UJf2Mrm", 
+            "href": "https://api.spotify.com/v1/artists/6v8FB84lnmJs434UJf2Mrm", 
+            "type": "artist", 
+            "id": "6v8FB84lnmJs434UJf2Mrm"
+          }
+        ], 
+        "duration_ms": 618333, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "0D324xPNjagrXnmS5AtSxz"
+      }, 
+      {
+        "name": "Mother Earth (Natural Anthem)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Ban5KXQY8NsXKz5LzMjXj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/45c0d57e634e6f4f6195e51cd51f64a9cef50f87", 
+        "is_playable": true, 
+        "uri": "spotify:track:2Ban5KXQY8NsXKz5LzMjXj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2Ban5KXQY8NsXKz5LzMjXj", 
+        "artists": [
+          {
+            "name": "Neil Young", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+            }, 
+            "uri": "spotify:artist:6v8FB84lnmJs434UJf2Mrm", 
+            "href": "https://api.spotify.com/v1/artists/6v8FB84lnmJs434UJf2Mrm", 
+            "type": "artist", 
+            "id": "6v8FB84lnmJs434UJf2Mrm"
+          }
+        ], 
+        "duration_ms": 311133, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "2Ban5KXQY8NsXKz5LzMjXj"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/4YHIfZ986IFFp7OiO9D9Qt/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 10, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/4YHIfZ986IFFp7OiO9D9Qt", 
+  "copyrights": [
+    {
+      "text": "1990 Reprise Records", 
+      "type": "C"
+    }, 
+    {
+      "text": "1990 Reprise Records", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Neil Young & Crazy Horse", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1jVuLlkfKibBT0hXDnzQjp"
+      }, 
+      "uri": "spotify:artist:1jVuLlkfKibBT0hXDnzQjp", 
+      "href": "https://api.spotify.com/v1/artists/1jVuLlkfKibBT0hXDnzQjp", 
+      "type": "artist", 
+      "id": "1jVuLlkfKibBT0hXDnzQjp"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/22f1f26bb17960e6aa3103aef21604bd6debc7a5", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/069d9d3f22dfc8d9de9d899fa04c3ab296fd1fd5", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/92701df0c201f530bc218dfb14c37a15b8a7158d", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "075992631563"
+  }, 
+  "type": "album", 
+  "id": "4YHIfZ986IFFp7OiO9D9Qt", 
+  "name": "Ragged Glory"
+}

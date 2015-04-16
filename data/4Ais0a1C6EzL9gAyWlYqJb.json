@@ -1,0 +1,567 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4Ais0a1C6EzL9gAyWlYqJb"
+  }, 
+  "release_date": "1994-11-15", 
+  "popularity": 48, 
+  "genres": [], 
+  "uri": "spotify:album:4Ais0a1C6EzL9gAyWlYqJb", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Tical", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4psb80aiBBFGroiuwTRyEX"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9eb360b69d1ae123b8ec048b4eb6987b98f9e0e4", 
+        "is_playable": true, 
+        "uri": "spotify:track:4psb80aiBBFGroiuwTRyEX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4psb80aiBBFGroiuwTRyEX", 
+        "artists": [
+          {
+            "name": "Method Man", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+            }, 
+            "uri": "spotify:artist:4VmEWwd8y9MCLwexFMdpwt", 
+            "href": "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt", 
+            "type": "artist", 
+            "id": "4VmEWwd8y9MCLwexFMdpwt"
+          }
+        ], 
+        "duration_ms": 238933, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "4psb80aiBBFGroiuwTRyEX"
+      }, 
+      {
+        "name": "Biscuits", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0c49jiF9lIM7kajH8fiAkk"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ee3cb1dae3f865bc763fa303fdef483a1c31b6fe", 
+        "is_playable": true, 
+        "uri": "spotify:track:0c49jiF9lIM7kajH8fiAkk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0c49jiF9lIM7kajH8fiAkk", 
+        "artists": [
+          {
+            "name": "Method Man", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+            }, 
+            "uri": "spotify:artist:4VmEWwd8y9MCLwexFMdpwt", 
+            "href": "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt", 
+            "type": "artist", 
+            "id": "4VmEWwd8y9MCLwexFMdpwt"
+          }
+        ], 
+        "duration_ms": 169906, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "0c49jiF9lIM7kajH8fiAkk"
+      }, 
+      {
+        "name": "Bring The Pain", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5OwSiq2t0H9fPz9HefNWX6"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/554d5cd85ce3e471ece2e22c22f51ca617e2d6f3", 
+        "is_playable": true, 
+        "uri": "spotify:track:5OwSiq2t0H9fPz9HefNWX6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5OwSiq2t0H9fPz9HefNWX6", 
+        "artists": [
+          {
+            "name": "Method Man", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+            }, 
+            "uri": "spotify:artist:4VmEWwd8y9MCLwexFMdpwt", 
+            "href": "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt", 
+            "type": "artist", 
+            "id": "4VmEWwd8y9MCLwexFMdpwt"
+          }
+        ], 
+        "duration_ms": 189746, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "5OwSiq2t0H9fPz9HefNWX6"
+      }, 
+      {
+        "name": "All I Need", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3CCc5xXmJMea0WTrkZ0tJt"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6c3c4b450742a6c59d4559fac90e23b8915f95aa", 
+        "is_playable": true, 
+        "uri": "spotify:track:3CCc5xXmJMea0WTrkZ0tJt", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3CCc5xXmJMea0WTrkZ0tJt", 
+        "artists": [
+          {
+            "name": "Method Man", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+            }, 
+            "uri": "spotify:artist:4VmEWwd8y9MCLwexFMdpwt", 
+            "href": "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt", 
+            "type": "artist", 
+            "id": "4VmEWwd8y9MCLwexFMdpwt"
+          }, 
+          {
+            "name": "Street Life", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7CrVv4zLga71gdlMOMfjXL"
+            }, 
+            "uri": "spotify:artist:7CrVv4zLga71gdlMOMfjXL", 
+            "href": "https://api.spotify.com/v1/artists/7CrVv4zLga71gdlMOMfjXL", 
+            "type": "artist", 
+            "id": "7CrVv4zLga71gdlMOMfjXL"
+          }
+        ], 
+        "duration_ms": 196000, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "3CCc5xXmJMea0WTrkZ0tJt"
+      }, 
+      {
+        "name": "What The Blood Clot", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2cYIbFiRYTaEygxKIW7Wtn"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d0bb26e3be8eb356d4b365fb8f5084da4a7ca46b", 
+        "is_playable": true, 
+        "uri": "spotify:track:2cYIbFiRYTaEygxKIW7Wtn", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2cYIbFiRYTaEygxKIW7Wtn", 
+        "artists": [
+          {
+            "name": "Method Man", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+            }, 
+            "uri": "spotify:artist:4VmEWwd8y9MCLwexFMdpwt", 
+            "href": "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt", 
+            "type": "artist", 
+            "id": "4VmEWwd8y9MCLwexFMdpwt"
+          }, 
+          {
+            "name": "RZA", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
+            }, 
+            "uri": "spotify:artist:4iCwCMnqsNZ6atvRiADgtn", 
+            "href": "https://api.spotify.com/v1/artists/4iCwCMnqsNZ6atvRiADgtn", 
+            "type": "artist", 
+            "id": "4iCwCMnqsNZ6atvRiADgtn"
+          }, 
+          {
+            "name": "Y. Kim", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4URyFnsP7N85kJReIMOMh2"
+            }, 
+            "uri": "spotify:artist:4URyFnsP7N85kJReIMOMh2", 
+            "href": "https://api.spotify.com/v1/artists/4URyFnsP7N85kJReIMOMh2", 
+            "type": "artist", 
+            "id": "4URyFnsP7N85kJReIMOMh2"
+          }
+        ], 
+        "duration_ms": 203666, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "2cYIbFiRYTaEygxKIW7Wtn"
+      }, 
+      {
+        "name": "Meth Vs. Chef", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/70IyjtqiUDDvQmdu02GBl3"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/eb45ffdfa74cf9a06be598060be7685879b854b1", 
+        "is_playable": true, 
+        "uri": "spotify:track:70IyjtqiUDDvQmdu02GBl3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/70IyjtqiUDDvQmdu02GBl3", 
+        "artists": [
+          {
+            "name": "Method Man", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+            }, 
+            "uri": "spotify:artist:4VmEWwd8y9MCLwexFMdpwt", 
+            "href": "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt", 
+            "type": "artist", 
+            "id": "4VmEWwd8y9MCLwexFMdpwt"
+          }, 
+          {
+            "name": "Raekwon", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+            }, 
+            "uri": "spotify:artist:2yQf6b8hxahZaT5dHlWaB1", 
+            "href": "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1", 
+            "type": "artist", 
+            "id": "2yQf6b8hxahZaT5dHlWaB1"
+          }
+        ], 
+        "duration_ms": 215973, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "70IyjtqiUDDvQmdu02GBl3"
+      }, 
+      {
+        "name": "Sub Crazy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/00mPwLVJHmCI5rwWgtkhol"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0b74c232cff5d7cb884c5ac59d12ac6b6c47d9f7", 
+        "is_playable": true, 
+        "uri": "spotify:track:00mPwLVJHmCI5rwWgtkhol", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/00mPwLVJHmCI5rwWgtkhol", 
+        "artists": [
+          {
+            "name": "Method Man", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+            }, 
+            "uri": "spotify:artist:4VmEWwd8y9MCLwexFMdpwt", 
+            "href": "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt", 
+            "type": "artist", 
+            "id": "4VmEWwd8y9MCLwexFMdpwt"
+          }
+        ], 
+        "duration_ms": 135733, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "00mPwLVJHmCI5rwWgtkhol"
+      }, 
+      {
+        "name": "Release Yo' Delf", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0jWc6iAI8BsGTNBMTEXWUj"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6df08bfd9887930a9b6c4913f24f49c37c9d1801", 
+        "is_playable": true, 
+        "uri": "spotify:track:0jWc6iAI8BsGTNBMTEXWUj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0jWc6iAI8BsGTNBMTEXWUj", 
+        "artists": [
+          {
+            "name": "Method Man", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+            }, 
+            "uri": "spotify:artist:4VmEWwd8y9MCLwexFMdpwt", 
+            "href": "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt", 
+            "type": "artist", 
+            "id": "4VmEWwd8y9MCLwexFMdpwt"
+          }
+        ], 
+        "duration_ms": 256133, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "0jWc6iAI8BsGTNBMTEXWUj"
+      }, 
+      {
+        "name": "P.L.O. Style", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1lSGgCjFlV03PDlTLqw2rU"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/370ab28a5f23270c31abde2571dff6d5dfa4dd2f", 
+        "is_playable": true, 
+        "uri": "spotify:track:1lSGgCjFlV03PDlTLqw2rU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1lSGgCjFlV03PDlTLqw2rU", 
+        "artists": [
+          {
+            "name": "Method Man", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+            }, 
+            "uri": "spotify:artist:4VmEWwd8y9MCLwexFMdpwt", 
+            "href": "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt", 
+            "type": "artist", 
+            "id": "4VmEWwd8y9MCLwexFMdpwt"
+          }, 
+          {
+            "name": "Carlton Fisk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1QjGRdFBoyMKRIbR4F7vE3"
+            }, 
+            "uri": "spotify:artist:1QjGRdFBoyMKRIbR4F7vE3", 
+            "href": "https://api.spotify.com/v1/artists/1QjGRdFBoyMKRIbR4F7vE3", 
+            "type": "artist", 
+            "id": "1QjGRdFBoyMKRIbR4F7vE3"
+          }
+        ], 
+        "duration_ms": 156316, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "1lSGgCjFlV03PDlTLqw2rU"
+      }, 
+      {
+        "name": "I Get My Thang In Action", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1S3ZyeAdlDOKmtqRPj5yy4"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7c4ee95c2c16984b054c6592e45530c082828378", 
+        "is_playable": true, 
+        "uri": "spotify:track:1S3ZyeAdlDOKmtqRPj5yy4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1S3ZyeAdlDOKmtqRPj5yy4", 
+        "artists": [
+          {
+            "name": "Method Man", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+            }, 
+            "uri": "spotify:artist:4VmEWwd8y9MCLwexFMdpwt", 
+            "href": "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt", 
+            "type": "artist", 
+            "id": "4VmEWwd8y9MCLwexFMdpwt"
+          }
+        ], 
+        "duration_ms": 225733, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "1S3ZyeAdlDOKmtqRPj5yy4"
+      }, 
+      {
+        "name": "Mr. Sandman", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3ZxsFM9gmrh8xnMKpsyYu2"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/faf875699d84525601a7ab830e3d94777308764b", 
+        "is_playable": true, 
+        "uri": "spotify:track:3ZxsFM9gmrh8xnMKpsyYu2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3ZxsFM9gmrh8xnMKpsyYu2", 
+        "artists": [
+          {
+            "name": "Method Man", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+            }, 
+            "uri": "spotify:artist:4VmEWwd8y9MCLwexFMdpwt", 
+            "href": "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt", 
+            "type": "artist", 
+            "id": "4VmEWwd8y9MCLwexFMdpwt"
+          }, 
+          {
+            "name": "RZA", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
+            }, 
+            "uri": "spotify:artist:4iCwCMnqsNZ6atvRiADgtn", 
+            "href": "https://api.spotify.com/v1/artists/4iCwCMnqsNZ6atvRiADgtn", 
+            "type": "artist", 
+            "id": "4iCwCMnqsNZ6atvRiADgtn"
+          }, 
+          {
+            "name": "Inspectah Deck", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+            }, 
+            "uri": "spotify:artist:4OBbOrkD4geIjOLrICN3wO", 
+            "href": "https://api.spotify.com/v1/artists/4OBbOrkD4geIjOLrICN3wO", 
+            "type": "artist", 
+            "id": "4OBbOrkD4geIjOLrICN3wO"
+          }, 
+          {
+            "name": "Carlton Fisk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1QjGRdFBoyMKRIbR4F7vE3"
+            }, 
+            "uri": "spotify:artist:1QjGRdFBoyMKRIbR4F7vE3", 
+            "href": "https://api.spotify.com/v1/artists/1QjGRdFBoyMKRIbR4F7vE3", 
+            "type": "artist", 
+            "id": "1QjGRdFBoyMKRIbR4F7vE3"
+          }
+        ], 
+        "duration_ms": 217849, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "3ZxsFM9gmrh8xnMKpsyYu2"
+      }, 
+      {
+        "name": "Stimulation", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3c839bvPx0aaoE0kNJiHqF"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/773d41a1d9674ab750b29ce95f29efb4cbe4124b", 
+        "is_playable": true, 
+        "uri": "spotify:track:3c839bvPx0aaoE0kNJiHqF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3c839bvPx0aaoE0kNJiHqF", 
+        "artists": [
+          {
+            "name": "Method Man", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+            }, 
+            "uri": "spotify:artist:4VmEWwd8y9MCLwexFMdpwt", 
+            "href": "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt", 
+            "type": "artist", 
+            "id": "4VmEWwd8y9MCLwexFMdpwt"
+          }
+        ], 
+        "duration_ms": 226360, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "3c839bvPx0aaoE0kNJiHqF"
+      }, 
+      {
+        "name": "Method Man", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4dFO2BO2idhFWyLpRJewkP"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5a94e6b1070df89d5e134741c54787fd30e5c572", 
+        "is_playable": true, 
+        "uri": "spotify:track:4dFO2BO2idhFWyLpRJewkP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4dFO2BO2idhFWyLpRJewkP", 
+        "artists": [
+          {
+            "name": "Method Man", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+            }, 
+            "uri": "spotify:artist:4VmEWwd8y9MCLwexFMdpwt", 
+            "href": "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt", 
+            "type": "artist", 
+            "id": "4VmEWwd8y9MCLwexFMdpwt"
+          }
+        ], 
+        "duration_ms": 196773, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "4dFO2BO2idhFWyLpRJewkP"
+      }, 
+      {
+        "name": "Bring The Pain", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3qpsjFSMlNl82apfXZ44qS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9d5066c50d8dcbe9deecb9ec1a1a77bfa40b1bbf", 
+        "is_playable": true, 
+        "uri": "spotify:track:3qpsjFSMlNl82apfXZ44qS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3qpsjFSMlNl82apfXZ44qS", 
+        "artists": [
+          {
+            "name": "Method Man", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+            }, 
+            "uri": "spotify:artist:4VmEWwd8y9MCLwexFMdpwt", 
+            "href": "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt", 
+            "type": "artist", 
+            "id": "4VmEWwd8y9MCLwexFMdpwt"
+          }
+        ], 
+        "duration_ms": 206533, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "3qpsjFSMlNl82apfXZ44qS"
+      }, 
+      {
+        "name": "Release Yo'Delf", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7GkWrtE31WcAR51aqWCyuc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/38d56ecc39bd66b62a33bf22ded0758b6992f0c4", 
+        "is_playable": true, 
+        "uri": "spotify:track:7GkWrtE31WcAR51aqWCyuc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7GkWrtE31WcAR51aqWCyuc", 
+        "artists": [
+          {
+            "name": "Method Man", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+            }, 
+            "uri": "spotify:artist:4VmEWwd8y9MCLwexFMdpwt", 
+            "href": "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt", 
+            "type": "artist", 
+            "id": "4VmEWwd8y9MCLwexFMdpwt"
+          }
+        ], 
+        "duration_ms": 297293, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "7GkWrtE31WcAR51aqWCyuc"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/4Ais0a1C6EzL9gAyWlYqJb/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 15, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/4Ais0a1C6EzL9gAyWlYqJb", 
+  "copyrights": [
+    {
+      "text": "(C) 1994 The Island Def Jam Music Group", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1994 The Island Def Jam Music Group", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Method Man", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+      }, 
+      "uri": "spotify:artist:4VmEWwd8y9MCLwexFMdpwt", 
+      "href": "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt", 
+      "type": "artist", 
+      "id": "4VmEWwd8y9MCLwexFMdpwt"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/dad4d753a539629f8361f08f18a3263b3d181a75", 
+      "width": 640, 
+      "height": 631
+    }, 
+    {
+      "url": "https://i.scdn.co/image/590b619bfd912ae982a443560cb29348d05c5da6", 
+      "width": 300, 
+      "height": 296
+    }, 
+    {
+      "url": "https://i.scdn.co/image/3bd63ebc2a3926a965d1563e67b8224f5d30657a", 
+      "width": 64, 
+      "height": 63
+    }
+  ], 
+  "external_ids": {
+    "upc": "00731454246026"
+  }, 
+  "type": "album", 
+  "id": "4Ais0a1C6EzL9gAyWlYqJb", 
+  "name": "Tical"
+}

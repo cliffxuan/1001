@@ -1,0 +1,403 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1TSZDcvlPtAnekTaItI3qO"
+  }, 
+  "release_date": "1975-11-21", 
+  "popularity": 69, 
+  "genres": [], 
+  "uri": "spotify:album:1TSZDcvlPtAnekTaItI3qO", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Death On Two Legs (Dedicated To...) - Remastered 2011", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Cc4xF0pwkk3G3VE1YofUu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/79db078fb3ace736d65b02ecd3cdefab99017e65", 
+        "is_playable": true, 
+        "uri": "spotify:track:2Cc4xF0pwkk3G3VE1YofUu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2Cc4xF0pwkk3G3VE1YofUu", 
+        "artists": [
+          {
+            "name": "Queen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            }, 
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d", 
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d", 
+            "type": "artist", 
+            "id": "1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ], 
+        "duration_ms": 223920, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "2Cc4xF0pwkk3G3VE1YofUu"
+      }, 
+      {
+        "name": "Lazing On A Sunday Afternoon - Remastered 2011", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1x6Ux7wVJmeCMjj3NJiyxk"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/76772d38d32305d40d6de5cf8a40007f8fe1db83", 
+        "is_playable": true, 
+        "uri": "spotify:track:1x6Ux7wVJmeCMjj3NJiyxk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1x6Ux7wVJmeCMjj3NJiyxk", 
+        "artists": [
+          {
+            "name": "Queen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            }, 
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d", 
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d", 
+            "type": "artist", 
+            "id": "1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ], 
+        "duration_ms": 67400, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "1x6Ux7wVJmeCMjj3NJiyxk"
+      }, 
+      {
+        "name": "I'm In Love With My Car - Remastered 2011", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5MKmykXnrQEhvcD4B2rrdR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/18fbc255e3f0861a37b8f789df5868f2d5c75d9e", 
+        "is_playable": true, 
+        "uri": "spotify:track:5MKmykXnrQEhvcD4B2rrdR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5MKmykXnrQEhvcD4B2rrdR", 
+        "artists": [
+          {
+            "name": "Queen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            }, 
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d", 
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d", 
+            "type": "artist", 
+            "id": "1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ], 
+        "duration_ms": 184893, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "5MKmykXnrQEhvcD4B2rrdR"
+      }, 
+      {
+        "name": "You're My Best Friend - Remastered 2011", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5YtxOL4iUchhynLL9nEBwQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/43dc7177af4aa6471b79fa1fdcedd244865a6708", 
+        "is_playable": true, 
+        "uri": "spotify:track:5YtxOL4iUchhynLL9nEBwQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5YtxOL4iUchhynLL9nEBwQ", 
+        "artists": [
+          {
+            "name": "Queen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            }, 
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d", 
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d", 
+            "type": "artist", 
+            "id": "1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ], 
+        "duration_ms": 170786, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "5YtxOL4iUchhynLL9nEBwQ"
+      }, 
+      {
+        "name": "'39 - Remastered 2011", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2UeF4tKmMSUiPOuGLmH1h6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8a61b02fb1e5c2253cfb9f85cc1d8b2013eab1bd", 
+        "is_playable": true, 
+        "uri": "spotify:track:2UeF4tKmMSUiPOuGLmH1h6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2UeF4tKmMSUiPOuGLmH1h6", 
+        "artists": [
+          {
+            "name": "Queen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            }, 
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d", 
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d", 
+            "type": "artist", 
+            "id": "1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ], 
+        "duration_ms": 210800, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "2UeF4tKmMSUiPOuGLmH1h6"
+      }, 
+      {
+        "name": "Sweet Lady - Remastered 2011", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5tCtsFhDjH1tChzyx9fY1Y"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/39106d136e8a7cb2a10ea80784b25a3ed3529032", 
+        "is_playable": true, 
+        "uri": "spotify:track:5tCtsFhDjH1tChzyx9fY1Y", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5tCtsFhDjH1tChzyx9fY1Y", 
+        "artists": [
+          {
+            "name": "Queen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            }, 
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d", 
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d", 
+            "type": "artist", 
+            "id": "1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ], 
+        "duration_ms": 242120, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "5tCtsFhDjH1tChzyx9fY1Y"
+      }, 
+      {
+        "name": "Seaside Rendezvous - Remastered 2011", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0scVuKbKVaGg5vgqJVloc2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6705e6520350a144fbc4acde153c8ac6cabb9557", 
+        "is_playable": true, 
+        "uri": "spotify:track:0scVuKbKVaGg5vgqJVloc2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0scVuKbKVaGg5vgqJVloc2", 
+        "artists": [
+          {
+            "name": "Queen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            }, 
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d", 
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d", 
+            "type": "artist", 
+            "id": "1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ], 
+        "duration_ms": 134120, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "0scVuKbKVaGg5vgqJVloc2"
+      }, 
+      {
+        "name": "The Prophet's Song - Remastered 2011", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6FJB62PaC7UWP8B8FNjFT0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c2e93ddc0f70527c3317666917576926ce8d413b", 
+        "is_playable": true, 
+        "uri": "spotify:track:6FJB62PaC7UWP8B8FNjFT0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6FJB62PaC7UWP8B8FNjFT0", 
+        "artists": [
+          {
+            "name": "Queen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            }, 
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d", 
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d", 
+            "type": "artist", 
+            "id": "1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ], 
+        "duration_ms": 500960, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "6FJB62PaC7UWP8B8FNjFT0"
+      }, 
+      {
+        "name": "Love Of My Life - Remastered 2011", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1luVGXHe7oimtkPScdsKBe"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/140bc80f997cf9787dcfa15da819f5926deae7b6", 
+        "is_playable": true, 
+        "uri": "spotify:track:1luVGXHe7oimtkPScdsKBe", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1luVGXHe7oimtkPScdsKBe", 
+        "artists": [
+          {
+            "name": "Queen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            }, 
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d", 
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d", 
+            "type": "artist", 
+            "id": "1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ], 
+        "duration_ms": 217386, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "1luVGXHe7oimtkPScdsKBe"
+      }, 
+      {
+        "name": "Good Company - Remastered 2011", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3874iSkPeAh5GOeHSwBO5F"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0664028a89565d74b37053f081af2ba6203de5d6", 
+        "is_playable": true, 
+        "uri": "spotify:track:3874iSkPeAh5GOeHSwBO5F", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3874iSkPeAh5GOeHSwBO5F", 
+        "artists": [
+          {
+            "name": "Queen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            }, 
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d", 
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d", 
+            "type": "artist", 
+            "id": "1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ], 
+        "duration_ms": 203440, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "3874iSkPeAh5GOeHSwBO5F"
+      }, 
+      {
+        "name": "Bohemian Rhapsody - Remastered 2011", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1AhDOtG9vPSOmsWgNW0BEY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0fae7e2f08f20f23cb5393b2bd8291e1db6c7da9", 
+        "is_playable": true, 
+        "uri": "spotify:track:1AhDOtG9vPSOmsWgNW0BEY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1AhDOtG9vPSOmsWgNW0BEY", 
+        "artists": [
+          {
+            "name": "Queen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            }, 
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d", 
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d", 
+            "type": "artist", 
+            "id": "1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ], 
+        "duration_ms": 354320, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "1AhDOtG9vPSOmsWgNW0BEY"
+      }, 
+      {
+        "name": "God Save The Queen - Remastered 2011", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6pgUa0uAlpzjMwf6DWlli8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2fc67fc6cfe5cfb0730925bc2589c05387392576", 
+        "is_playable": true, 
+        "uri": "spotify:track:6pgUa0uAlpzjMwf6DWlli8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6pgUa0uAlpzjMwf6DWlli8", 
+        "artists": [
+          {
+            "name": "Queen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            }, 
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d", 
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d", 
+            "type": "artist", 
+            "id": "1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ], 
+        "duration_ms": 75333, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "6pgUa0uAlpzjMwf6DWlli8"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/1TSZDcvlPtAnekTaItI3qO/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 12, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/1TSZDcvlPtAnekTaItI3qO", 
+  "copyrights": [
+    {
+      "text": "(C) 2011 Queen Productions Ltd. under exclusive licence to Universal International Music BV", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 2011 Queen Productions Ltd. under exclusive licence to Universal International Music BV", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Queen", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+      }, 
+      "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d", 
+      "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d", 
+      "type": "artist", 
+      "id": "1dfeR4HaWDbWqFHLkxsg1d"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/b4cd2f68bcc3c6017d0e347b3c7f84bc24ea8dad", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/7dc09be2030c957d4c4e0a00e2880aeefd42093b", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/05e237f63c31eb4941753e5fb171e31cfca6a877", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00602527644264"
+  }, 
+  "type": "album", 
+  "id": "1TSZDcvlPtAnekTaItI3qO", 
+  "name": "A Night At The Opera (2011 Remaster)"
+}

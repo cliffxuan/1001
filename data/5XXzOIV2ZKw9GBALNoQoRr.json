@@ -1,0 +1,371 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5XXzOIV2ZKw9GBALNoQoRr"
+  }, 
+  "release_date": "2002-07-22", 
+  "popularity": 53, 
+  "genres": [], 
+  "uri": "spotify:album:5XXzOIV2ZKw9GBALNoQoRr", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Spanish Main", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6ZOqqIIkca3nrugLE8Mood"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9985452460444ec109a6c130a229f02a0ea1c1de", 
+        "is_playable": true, 
+        "uri": "spotify:track:6ZOqqIIkca3nrugLE8Mood", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6ZOqqIIkca3nrugLE8Mood", 
+        "artists": [
+          {
+            "name": "The Coral", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt"
+            }, 
+            "uri": "spotify:artist:6OiHleP2bHM18dXq4aZQWt", 
+            "href": "https://api.spotify.com/v1/artists/6OiHleP2bHM18dXq4aZQWt", 
+            "type": "artist", 
+            "id": "6OiHleP2bHM18dXq4aZQWt"
+          }
+        ], 
+        "duration_ms": 111466, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "6ZOqqIIkca3nrugLE8Mood"
+      }, 
+      {
+        "name": "I Remember When", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7aSR8XVKDKkGNuzl5TEw2I"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/12e94716ad557181823b3f3839105b811de925c6", 
+        "is_playable": true, 
+        "uri": "spotify:track:7aSR8XVKDKkGNuzl5TEw2I", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7aSR8XVKDKkGNuzl5TEw2I", 
+        "artists": [
+          {
+            "name": "The Coral", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt"
+            }, 
+            "uri": "spotify:artist:6OiHleP2bHM18dXq4aZQWt", 
+            "href": "https://api.spotify.com/v1/artists/6OiHleP2bHM18dXq4aZQWt", 
+            "type": "artist", 
+            "id": "6OiHleP2bHM18dXq4aZQWt"
+          }
+        ], 
+        "duration_ms": 218333, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "7aSR8XVKDKkGNuzl5TEw2I"
+      }, 
+      {
+        "name": "Shadows Fall", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4zi5aDNFBFJ9HdvKwVqBfQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/317ace0727da4981ab4ff5e1bfb7b5dd2b7583e2", 
+        "is_playable": true, 
+        "uri": "spotify:track:4zi5aDNFBFJ9HdvKwVqBfQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4zi5aDNFBFJ9HdvKwVqBfQ", 
+        "artists": [
+          {
+            "name": "The Coral", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt"
+            }, 
+            "uri": "spotify:artist:6OiHleP2bHM18dXq4aZQWt", 
+            "href": "https://api.spotify.com/v1/artists/6OiHleP2bHM18dXq4aZQWt", 
+            "type": "artist", 
+            "id": "6OiHleP2bHM18dXq4aZQWt"
+          }
+        ], 
+        "duration_ms": 209533, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "4zi5aDNFBFJ9HdvKwVqBfQ"
+      }, 
+      {
+        "name": "Dreaming of You", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2BodCfcjTxsHSoQq6uFBlJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/395b890327f22d547b25da073b32ae54ac54f7f3", 
+        "is_playable": true, 
+        "uri": "spotify:track:2BodCfcjTxsHSoQq6uFBlJ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2BodCfcjTxsHSoQq6uFBlJ", 
+        "artists": [
+          {
+            "name": "The Coral", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt"
+            }, 
+            "uri": "spotify:artist:6OiHleP2bHM18dXq4aZQWt", 
+            "href": "https://api.spotify.com/v1/artists/6OiHleP2bHM18dXq4aZQWt", 
+            "type": "artist", 
+            "id": "6OiHleP2bHM18dXq4aZQWt"
+          }
+        ], 
+        "duration_ms": 141000, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "2BodCfcjTxsHSoQq6uFBlJ"
+      }, 
+      {
+        "name": "Simon Diamond", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5xsfX0K9xajetnzKMbjsYp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/44e0daf06907e680c58e6b4869d7b1bf0927f177", 
+        "is_playable": true, 
+        "uri": "spotify:track:5xsfX0K9xajetnzKMbjsYp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5xsfX0K9xajetnzKMbjsYp", 
+        "artists": [
+          {
+            "name": "The Coral", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt"
+            }, 
+            "uri": "spotify:artist:6OiHleP2bHM18dXq4aZQWt", 
+            "href": "https://api.spotify.com/v1/artists/6OiHleP2bHM18dXq4aZQWt", 
+            "type": "artist", 
+            "id": "6OiHleP2bHM18dXq4aZQWt"
+          }
+        ], 
+        "duration_ms": 147173, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "5xsfX0K9xajetnzKMbjsYp"
+      }, 
+      {
+        "name": "Goodbye", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/63nft581yYtJrCTkSHBOH0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6fa696124b0ebc55ab5faca7aa019d99b7f889de", 
+        "is_playable": true, 
+        "uri": "spotify:track:63nft581yYtJrCTkSHBOH0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/63nft581yYtJrCTkSHBOH0", 
+        "artists": [
+          {
+            "name": "The Coral", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt"
+            }, 
+            "uri": "spotify:artist:6OiHleP2bHM18dXq4aZQWt", 
+            "href": "https://api.spotify.com/v1/artists/6OiHleP2bHM18dXq4aZQWt", 
+            "type": "artist", 
+            "id": "6OiHleP2bHM18dXq4aZQWt"
+          }
+        ], 
+        "duration_ms": 242840, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "63nft581yYtJrCTkSHBOH0"
+      }, 
+      {
+        "name": "Waiting for the Heartaches", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6KGy3MsAaJfqjp2KuJhO22"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f1b5af7f3db44e96d5f00fd77ab7a283ae02cab8", 
+        "is_playable": true, 
+        "uri": "spotify:track:6KGy3MsAaJfqjp2KuJhO22", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6KGy3MsAaJfqjp2KuJhO22", 
+        "artists": [
+          {
+            "name": "The Coral", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt"
+            }, 
+            "uri": "spotify:artist:6OiHleP2bHM18dXq4aZQWt", 
+            "href": "https://api.spotify.com/v1/artists/6OiHleP2bHM18dXq4aZQWt", 
+            "type": "artist", 
+            "id": "6OiHleP2bHM18dXq4aZQWt"
+          }
+        ], 
+        "duration_ms": 243600, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "6KGy3MsAaJfqjp2KuJhO22"
+      }, 
+      {
+        "name": "Skeleton Key", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5PzVNRxEGK1GEHRQS73vab"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/334b185d6c8a323a934c39735f17dde7e9784f6e", 
+        "is_playable": true, 
+        "uri": "spotify:track:5PzVNRxEGK1GEHRQS73vab", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5PzVNRxEGK1GEHRQS73vab", 
+        "artists": [
+          {
+            "name": "The Coral", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt"
+            }, 
+            "uri": "spotify:artist:6OiHleP2bHM18dXq4aZQWt", 
+            "href": "https://api.spotify.com/v1/artists/6OiHleP2bHM18dXq4aZQWt", 
+            "type": "artist", 
+            "id": "6OiHleP2bHM18dXq4aZQWt"
+          }
+        ], 
+        "duration_ms": 180333, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "5PzVNRxEGK1GEHRQS73vab"
+      }, 
+      {
+        "name": "Wildfire", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5w97gnTg2VAN9vobcOZnKZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2a5eb2504f9115b3e5f7c8fadc1d8a26c270d083", 
+        "is_playable": true, 
+        "uri": "spotify:track:5w97gnTg2VAN9vobcOZnKZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5w97gnTg2VAN9vobcOZnKZ", 
+        "artists": [
+          {
+            "name": "The Coral", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt"
+            }, 
+            "uri": "spotify:artist:6OiHleP2bHM18dXq4aZQWt", 
+            "href": "https://api.spotify.com/v1/artists/6OiHleP2bHM18dXq4aZQWt", 
+            "type": "artist", 
+            "id": "6OiHleP2bHM18dXq4aZQWt"
+          }
+        ], 
+        "duration_ms": 165240, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "5w97gnTg2VAN9vobcOZnKZ"
+      }, 
+      {
+        "name": "Bad Man", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5dpddRJ7LworVJZZ43yTPz"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/08b653ba80b349c7654e3f41a760b0c9df4f2a5a", 
+        "is_playable": true, 
+        "uri": "spotify:track:5dpddRJ7LworVJZZ43yTPz", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5dpddRJ7LworVJZZ43yTPz", 
+        "artists": [
+          {
+            "name": "The Coral", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt"
+            }, 
+            "uri": "spotify:artist:6OiHleP2bHM18dXq4aZQWt", 
+            "href": "https://api.spotify.com/v1/artists/6OiHleP2bHM18dXq4aZQWt", 
+            "type": "artist", 
+            "id": "6OiHleP2bHM18dXq4aZQWt"
+          }
+        ], 
+        "duration_ms": 181933, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "5dpddRJ7LworVJZZ43yTPz"
+      }, 
+      {
+        "name": "Calendars and Clocks", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/38FVvXJ3OMEITzkHzumAtu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/22f32b562ebb091aa5de3f56fe21697c9272c74d", 
+        "is_playable": true, 
+        "uri": "spotify:track:38FVvXJ3OMEITzkHzumAtu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/38FVvXJ3OMEITzkHzumAtu", 
+        "artists": [
+          {
+            "name": "The Coral", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt"
+            }, 
+            "uri": "spotify:artist:6OiHleP2bHM18dXq4aZQWt", 
+            "href": "https://api.spotify.com/v1/artists/6OiHleP2bHM18dXq4aZQWt", 
+            "type": "artist", 
+            "id": "6OiHleP2bHM18dXq4aZQWt"
+          }
+        ], 
+        "duration_ms": 231360, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "38FVvXJ3OMEITzkHzumAtu"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/5XXzOIV2ZKw9GBALNoQoRr/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 11, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/5XXzOIV2ZKw9GBALNoQoRr", 
+  "copyrights": [
+    {
+      "text": "(P) 2002 Deltasonic Records 2002 Limited", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "The Coral", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt"
+      }, 
+      "uri": "spotify:artist:6OiHleP2bHM18dXq4aZQWt", 
+      "href": "https://api.spotify.com/v1/artists/6OiHleP2bHM18dXq4aZQWt", 
+      "type": "artist", 
+      "id": "6OiHleP2bHM18dXq4aZQWt"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/b1eda891fb0724c25833bffd9f85ca560957238b", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/8792aca98e16b63cc264aebef5c0822cb7b1fe4f", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/73b103ec1021ad1c8a06e5c2eba1bf8d91b8f493", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "884977880052"
+  }, 
+  "type": "album", 
+  "id": "5XXzOIV2ZKw9GBALNoQoRr", 
+  "name": "The Coral"
+}

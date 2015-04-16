@@ -1,0 +1,459 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4jHuw0FsxTYTS3TFOmnYyD"
+  }, 
+  "release_date": "1994-04-08", 
+  "popularity": 67, 
+  "genres": [], 
+  "uri": "spotify:album:4jHuw0FsxTYTS3TFOmnYyD", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Time to Relax", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/418dnb1F5TWTpZtA6QbkjF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7eb678d14693a9b8f13c51be5fabe94b373c260c", 
+        "is_playable": true, 
+        "uri": "spotify:track:418dnb1F5TWTpZtA6QbkjF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/418dnb1F5TWTpZtA6QbkjF", 
+        "artists": [
+          {
+            "name": "The Offspring", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+            }, 
+            "uri": "spotify:artist:5LfGQac0EIXyAN8aUwmNAQ", 
+            "href": "https://api.spotify.com/v1/artists/5LfGQac0EIXyAN8aUwmNAQ", 
+            "type": "artist", 
+            "id": "5LfGQac0EIXyAN8aUwmNAQ"
+          }
+        ], 
+        "duration_ms": 25466, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "418dnb1F5TWTpZtA6QbkjF"
+      }, 
+      {
+        "name": "Nitro (Youth Energy)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5y4uzapmbeyzGGGjGJVDc8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/74df0fd0c1f63fafa3ab6018b89773e2712fb17f", 
+        "is_playable": true, 
+        "uri": "spotify:track:5y4uzapmbeyzGGGjGJVDc8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5y4uzapmbeyzGGGjGJVDc8", 
+        "artists": [
+          {
+            "name": "The Offspring", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+            }, 
+            "uri": "spotify:artist:5LfGQac0EIXyAN8aUwmNAQ", 
+            "href": "https://api.spotify.com/v1/artists/5LfGQac0EIXyAN8aUwmNAQ", 
+            "type": "artist", 
+            "id": "5LfGQac0EIXyAN8aUwmNAQ"
+          }
+        ], 
+        "duration_ms": 146960, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "5y4uzapmbeyzGGGjGJVDc8"
+      }, 
+      {
+        "name": "Bad Habit", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/36BtaBJTKa8TfM3ZFRqs6v"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/664a46d9bafadb15e955fb699dc6785c5d5b3905", 
+        "is_playable": true, 
+        "uri": "spotify:track:36BtaBJTKa8TfM3ZFRqs6v", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/36BtaBJTKa8TfM3ZFRqs6v", 
+        "artists": [
+          {
+            "name": "The Offspring", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+            }, 
+            "uri": "spotify:artist:5LfGQac0EIXyAN8aUwmNAQ", 
+            "href": "https://api.spotify.com/v1/artists/5LfGQac0EIXyAN8aUwmNAQ", 
+            "type": "artist", 
+            "id": "5LfGQac0EIXyAN8aUwmNAQ"
+          }
+        ], 
+        "duration_ms": 223906, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "36BtaBJTKa8TfM3ZFRqs6v"
+      }, 
+      {
+        "name": "Gotta Get Away", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5J9ZxREseblbKqJZf20cVP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a27a0e9fe509055a59dddb4635d29525a7f01696", 
+        "is_playable": true, 
+        "uri": "spotify:track:5J9ZxREseblbKqJZf20cVP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5J9ZxREseblbKqJZf20cVP", 
+        "artists": [
+          {
+            "name": "The Offspring", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+            }, 
+            "uri": "spotify:artist:5LfGQac0EIXyAN8aUwmNAQ", 
+            "href": "https://api.spotify.com/v1/artists/5LfGQac0EIXyAN8aUwmNAQ", 
+            "type": "artist", 
+            "id": "5LfGQac0EIXyAN8aUwmNAQ"
+          }
+        ], 
+        "duration_ms": 232160, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "5J9ZxREseblbKqJZf20cVP"
+      }, 
+      {
+        "name": "Genocide", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1hJsLIjZDCu0OJMVA3hYcu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bcca605e1cfe394d49707ae1eb02b1db1e980568", 
+        "is_playable": true, 
+        "uri": "spotify:track:1hJsLIjZDCu0OJMVA3hYcu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1hJsLIjZDCu0OJMVA3hYcu", 
+        "artists": [
+          {
+            "name": "The Offspring", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+            }, 
+            "uri": "spotify:artist:5LfGQac0EIXyAN8aUwmNAQ", 
+            "href": "https://api.spotify.com/v1/artists/5LfGQac0EIXyAN8aUwmNAQ", 
+            "type": "artist", 
+            "id": "5LfGQac0EIXyAN8aUwmNAQ"
+          }
+        ], 
+        "duration_ms": 213106, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "1hJsLIjZDCu0OJMVA3hYcu"
+      }, 
+      {
+        "name": "Something to Believe In", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7kwNbBQwMOD1uH0y5T5qm9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/94dfdae099acc0dd0b82ca3d9205c2558a956f4c", 
+        "is_playable": true, 
+        "uri": "spotify:track:7kwNbBQwMOD1uH0y5T5qm9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7kwNbBQwMOD1uH0y5T5qm9", 
+        "artists": [
+          {
+            "name": "The Offspring", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+            }, 
+            "uri": "spotify:artist:5LfGQac0EIXyAN8aUwmNAQ", 
+            "href": "https://api.spotify.com/v1/artists/5LfGQac0EIXyAN8aUwmNAQ", 
+            "type": "artist", 
+            "id": "5LfGQac0EIXyAN8aUwmNAQ"
+          }
+        ], 
+        "duration_ms": 197600, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "7kwNbBQwMOD1uH0y5T5qm9"
+      }, 
+      {
+        "name": "Come Out and Play", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Kz42qOmP4pFuPeCJQc9yD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/82af5f968bea2addb9adb543ca2947f2ddf36d57", 
+        "is_playable": true, 
+        "uri": "spotify:track:5Kz42qOmP4pFuPeCJQc9yD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5Kz42qOmP4pFuPeCJQc9yD", 
+        "artists": [
+          {
+            "name": "The Offspring", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+            }, 
+            "uri": "spotify:artist:5LfGQac0EIXyAN8aUwmNAQ", 
+            "href": "https://api.spotify.com/v1/artists/5LfGQac0EIXyAN8aUwmNAQ", 
+            "type": "artist", 
+            "id": "5LfGQac0EIXyAN8aUwmNAQ"
+          }
+        ], 
+        "duration_ms": 197800, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "5Kz42qOmP4pFuPeCJQc9yD"
+      }, 
+      {
+        "name": "Self Esteem", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6qpN7PrkVsP3N3xO7WlCaw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ae8a9bf1c48ffec26bc062a237dfe8d8bed9dc56", 
+        "is_playable": true, 
+        "uri": "spotify:track:6qpN7PrkVsP3N3xO7WlCaw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6qpN7PrkVsP3N3xO7WlCaw", 
+        "artists": [
+          {
+            "name": "The Offspring", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+            }, 
+            "uri": "spotify:artist:5LfGQac0EIXyAN8aUwmNAQ", 
+            "href": "https://api.spotify.com/v1/artists/5LfGQac0EIXyAN8aUwmNAQ", 
+            "type": "artist", 
+            "id": "5LfGQac0EIXyAN8aUwmNAQ"
+          }
+        ], 
+        "duration_ms": 257826, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "6qpN7PrkVsP3N3xO7WlCaw"
+      }, 
+      {
+        "name": "It'll Be a Long Time", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/26PinXayUN5kBhDQgHfHTD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cedb8703697c41acf78758d5b240a88bab7fe6f6", 
+        "is_playable": true, 
+        "uri": "spotify:track:26PinXayUN5kBhDQgHfHTD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/26PinXayUN5kBhDQgHfHTD", 
+        "artists": [
+          {
+            "name": "The Offspring", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+            }, 
+            "uri": "spotify:artist:5LfGQac0EIXyAN8aUwmNAQ", 
+            "href": "https://api.spotify.com/v1/artists/5LfGQac0EIXyAN8aUwmNAQ", 
+            "type": "artist", 
+            "id": "5LfGQac0EIXyAN8aUwmNAQ"
+          }
+        ], 
+        "duration_ms": 163266, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "26PinXayUN5kBhDQgHfHTD"
+      }, 
+      {
+        "name": "Killboy Powerhead", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2b2HreJQO5VdlTvdez4KQc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/139b9eaacced9bdeddf3ba1efa8cd8ec1e5b9142", 
+        "is_playable": true, 
+        "uri": "spotify:track:2b2HreJQO5VdlTvdez4KQc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2b2HreJQO5VdlTvdez4KQc", 
+        "artists": [
+          {
+            "name": "The Offspring", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+            }, 
+            "uri": "spotify:artist:5LfGQac0EIXyAN8aUwmNAQ", 
+            "href": "https://api.spotify.com/v1/artists/5LfGQac0EIXyAN8aUwmNAQ", 
+            "type": "artist", 
+            "id": "5LfGQac0EIXyAN8aUwmNAQ"
+          }
+        ], 
+        "duration_ms": 122706, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "2b2HreJQO5VdlTvdez4KQc"
+      }, 
+      {
+        "name": "What Happened to You?", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/29m534Ca4uSCFVEHROMXut"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a495e7df5d36568d3068c82767aae0ef5d16e1da", 
+        "is_playable": true, 
+        "uri": "spotify:track:29m534Ca4uSCFVEHROMXut", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/29m534Ca4uSCFVEHROMXut", 
+        "artists": [
+          {
+            "name": "The Offspring", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+            }, 
+            "uri": "spotify:artist:5LfGQac0EIXyAN8aUwmNAQ", 
+            "href": "https://api.spotify.com/v1/artists/5LfGQac0EIXyAN8aUwmNAQ", 
+            "type": "artist", 
+            "id": "5LfGQac0EIXyAN8aUwmNAQ"
+          }
+        ], 
+        "duration_ms": 132133, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "29m534Ca4uSCFVEHROMXut"
+      }, 
+      {
+        "name": "So Alone", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/793JgECAxDbljn1BZwfyFj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9565d20684f10d8662abaaff2c9a734a4e1dd02c", 
+        "is_playable": true, 
+        "uri": "spotify:track:793JgECAxDbljn1BZwfyFj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/793JgECAxDbljn1BZwfyFj", 
+        "artists": [
+          {
+            "name": "The Offspring", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+            }, 
+            "uri": "spotify:artist:5LfGQac0EIXyAN8aUwmNAQ", 
+            "href": "https://api.spotify.com/v1/artists/5LfGQac0EIXyAN8aUwmNAQ", 
+            "type": "artist", 
+            "id": "5LfGQac0EIXyAN8aUwmNAQ"
+          }
+        ], 
+        "duration_ms": 77266, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "793JgECAxDbljn1BZwfyFj"
+      }, 
+      {
+        "name": "Not the One", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/55pqVFEPreiITFZPynGmA5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/71fdc612d37b69f6ca32346038600433f0ca1c80", 
+        "is_playable": true, 
+        "uri": "spotify:track:55pqVFEPreiITFZPynGmA5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/55pqVFEPreiITFZPynGmA5", 
+        "artists": [
+          {
+            "name": "The Offspring", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+            }, 
+            "uri": "spotify:artist:5LfGQac0EIXyAN8aUwmNAQ", 
+            "href": "https://api.spotify.com/v1/artists/5LfGQac0EIXyAN8aUwmNAQ", 
+            "type": "artist", 
+            "id": "5LfGQac0EIXyAN8aUwmNAQ"
+          }
+        ], 
+        "duration_ms": 174360, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "55pqVFEPreiITFZPynGmA5"
+      }, 
+      {
+        "name": "Smash", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1QDXznD1uFxFmQIxxxkL61"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fb9f1e70d7ef7aa1e66a9565cdbdacac96e442f8", 
+        "is_playable": true, 
+        "uri": "spotify:track:1QDXznD1uFxFmQIxxxkL61", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1QDXznD1uFxFmQIxxxkL61", 
+        "artists": [
+          {
+            "name": "The Offspring", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+            }, 
+            "uri": "spotify:artist:5LfGQac0EIXyAN8aUwmNAQ", 
+            "href": "https://api.spotify.com/v1/artists/5LfGQac0EIXyAN8aUwmNAQ", 
+            "type": "artist", 
+            "id": "5LfGQac0EIXyAN8aUwmNAQ"
+          }
+        ], 
+        "duration_ms": 640200, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "1QDXznD1uFxFmQIxxxkL61"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/4jHuw0FsxTYTS3TFOmnYyD/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 14, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/4jHuw0FsxTYTS3TFOmnYyD", 
+  "copyrights": [
+    {
+      "text": "1994 Epitaph", 
+      "type": "C"
+    }, 
+    {
+      "text": "1994 Epitaph", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "The Offspring", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+      }, 
+      "uri": "spotify:artist:5LfGQac0EIXyAN8aUwmNAQ", 
+      "href": "https://api.spotify.com/v1/artists/5LfGQac0EIXyAN8aUwmNAQ", 
+      "type": "artist", 
+      "id": "5LfGQac0EIXyAN8aUwmNAQ"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/968c40e430be1f86071823e0b242cd29f603aecd", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/09934081809828316994487d7ca9e4e65d1c14cd", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/421a2c78da0d16bbdeaeff756058052b3a8f8058", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "045778643264"
+  }, 
+  "type": "album", 
+  "id": "4jHuw0FsxTYTS3TFOmnYyD", 
+  "name": "Smash"
+}

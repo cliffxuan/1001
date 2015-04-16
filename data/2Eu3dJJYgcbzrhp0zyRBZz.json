@@ -1,0 +1,487 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2Eu3dJJYgcbzrhp0zyRBZz"
+  }, 
+  "release_date": "1995-02-08", 
+  "popularity": 44, 
+  "genres": [], 
+  "uri": "spotify:album:2Eu3dJJYgcbzrhp0zyRBZz", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Line Up", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0eFAUSue1RJ4YlHwH6guKw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7b6989d14c8c7cbaf144cbdd885aff9381dd5081", 
+        "is_playable": true, 
+        "uri": "spotify:track:0eFAUSue1RJ4YlHwH6guKw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0eFAUSue1RJ4YlHwH6guKw", 
+        "artists": [
+          {
+            "name": "Elastica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx"
+            }, 
+            "uri": "spotify:artist:3l14gV4hIMAjmo7KUvEWTx", 
+            "href": "https://api.spotify.com/v1/artists/3l14gV4hIMAjmo7KUvEWTx", 
+            "type": "artist", 
+            "id": "3l14gV4hIMAjmo7KUvEWTx"
+          }
+        ], 
+        "duration_ms": 195760, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "0eFAUSue1RJ4YlHwH6guKw"
+      }, 
+      {
+        "name": "Annie", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2CgWCXLJpb84KK1UWtXlD2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6d389b22782dc6a67ddd7143914c4132a4299942", 
+        "is_playable": true, 
+        "uri": "spotify:track:2CgWCXLJpb84KK1UWtXlD2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2CgWCXLJpb84KK1UWtXlD2", 
+        "artists": [
+          {
+            "name": "Elastica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx"
+            }, 
+            "uri": "spotify:artist:3l14gV4hIMAjmo7KUvEWTx", 
+            "href": "https://api.spotify.com/v1/artists/3l14gV4hIMAjmo7KUvEWTx", 
+            "type": "artist", 
+            "id": "3l14gV4hIMAjmo7KUvEWTx"
+          }
+        ], 
+        "duration_ms": 73706, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "2CgWCXLJpb84KK1UWtXlD2"
+      }, 
+      {
+        "name": "Connection", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2BrL11P3djGJKirIN160qf"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/265e3f9f6f4f6f2d5deaeeae96502cae9bca6b68", 
+        "is_playable": true, 
+        "uri": "spotify:track:2BrL11P3djGJKirIN160qf", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2BrL11P3djGJKirIN160qf", 
+        "artists": [
+          {
+            "name": "Elastica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx"
+            }, 
+            "uri": "spotify:artist:3l14gV4hIMAjmo7KUvEWTx", 
+            "href": "https://api.spotify.com/v1/artists/3l14gV4hIMAjmo7KUvEWTx", 
+            "type": "artist", 
+            "id": "3l14gV4hIMAjmo7KUvEWTx"
+          }
+        ], 
+        "duration_ms": 140533, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "2BrL11P3djGJKirIN160qf"
+      }, 
+      {
+        "name": "Car Song", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5aA9zlVLMGor9QgUQwg48n"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/835c475b2e86ad4b73044bb1bc91b967c28a5edc", 
+        "is_playable": true, 
+        "uri": "spotify:track:5aA9zlVLMGor9QgUQwg48n", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5aA9zlVLMGor9QgUQwg48n", 
+        "artists": [
+          {
+            "name": "Elastica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx"
+            }, 
+            "uri": "spotify:artist:3l14gV4hIMAjmo7KUvEWTx", 
+            "href": "https://api.spotify.com/v1/artists/3l14gV4hIMAjmo7KUvEWTx", 
+            "type": "artist", 
+            "id": "3l14gV4hIMAjmo7KUvEWTx"
+          }
+        ], 
+        "duration_ms": 144200, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "5aA9zlVLMGor9QgUQwg48n"
+      }, 
+      {
+        "name": "Smile", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2w4dXRjykfwudYTsfhQV9N"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6a6d714c8a281ff1e03e68b32026772f3764bf1f", 
+        "is_playable": true, 
+        "uri": "spotify:track:2w4dXRjykfwudYTsfhQV9N", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2w4dXRjykfwudYTsfhQV9N", 
+        "artists": [
+          {
+            "name": "Elastica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx"
+            }, 
+            "uri": "spotify:artist:3l14gV4hIMAjmo7KUvEWTx", 
+            "href": "https://api.spotify.com/v1/artists/3l14gV4hIMAjmo7KUvEWTx", 
+            "type": "artist", 
+            "id": "3l14gV4hIMAjmo7KUvEWTx"
+          }
+        ], 
+        "duration_ms": 100733, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "2w4dXRjykfwudYTsfhQV9N"
+      }, 
+      {
+        "name": "Hold Me Now", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4kxq2mhkqXaWFLGjgurexR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b4d5a958373e2912a8d7a539c8b4047347df8177", 
+        "is_playable": true, 
+        "uri": "spotify:track:4kxq2mhkqXaWFLGjgurexR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4kxq2mhkqXaWFLGjgurexR", 
+        "artists": [
+          {
+            "name": "Elastica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx"
+            }, 
+            "uri": "spotify:artist:3l14gV4hIMAjmo7KUvEWTx", 
+            "href": "https://api.spotify.com/v1/artists/3l14gV4hIMAjmo7KUvEWTx", 
+            "type": "artist", 
+            "id": "3l14gV4hIMAjmo7KUvEWTx"
+          }
+        ], 
+        "duration_ms": 152266, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "4kxq2mhkqXaWFLGjgurexR"
+      }, 
+      {
+        "name": "S.O.F.T.", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Z0ifNyCBuPeqUVouWSAYA"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f60b7b332c952e1b6bac492761c27a3c74436820", 
+        "is_playable": true, 
+        "uri": "spotify:track:0Z0ifNyCBuPeqUVouWSAYA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0Z0ifNyCBuPeqUVouWSAYA", 
+        "artists": [
+          {
+            "name": "Elastica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx"
+            }, 
+            "uri": "spotify:artist:3l14gV4hIMAjmo7KUvEWTx", 
+            "href": "https://api.spotify.com/v1/artists/3l14gV4hIMAjmo7KUvEWTx", 
+            "type": "artist", 
+            "id": "3l14gV4hIMAjmo7KUvEWTx"
+          }
+        ], 
+        "duration_ms": 238133, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "0Z0ifNyCBuPeqUVouWSAYA"
+      }, 
+      {
+        "name": "Indian Song", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2U6RX3ODB8uvDxkLCfHMAm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/61371f7c81695a1dd2c19e313140565c5d24d7cf", 
+        "is_playable": true, 
+        "uri": "spotify:track:2U6RX3ODB8uvDxkLCfHMAm", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2U6RX3ODB8uvDxkLCfHMAm", 
+        "artists": [
+          {
+            "name": "Elastica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx"
+            }, 
+            "uri": "spotify:artist:3l14gV4hIMAjmo7KUvEWTx", 
+            "href": "https://api.spotify.com/v1/artists/3l14gV4hIMAjmo7KUvEWTx", 
+            "type": "artist", 
+            "id": "3l14gV4hIMAjmo7KUvEWTx"
+          }
+        ], 
+        "duration_ms": 166333, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "2U6RX3ODB8uvDxkLCfHMAm"
+      }, 
+      {
+        "name": "Blue", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2palyRjrngOBD0sbyn08F4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0c8dd234bcb5dbf9acc7f38ee43a48d29e24de54", 
+        "is_playable": true, 
+        "uri": "spotify:track:2palyRjrngOBD0sbyn08F4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2palyRjrngOBD0sbyn08F4", 
+        "artists": [
+          {
+            "name": "Elastica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx"
+            }, 
+            "uri": "spotify:artist:3l14gV4hIMAjmo7KUvEWTx", 
+            "href": "https://api.spotify.com/v1/artists/3l14gV4hIMAjmo7KUvEWTx", 
+            "type": "artist", 
+            "id": "3l14gV4hIMAjmo7KUvEWTx"
+          }
+        ], 
+        "duration_ms": 141866, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "2palyRjrngOBD0sbyn08F4"
+      }, 
+      {
+        "name": "All-Nighter", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5OLs4vsOcalyRMr6Z2q7Uw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/264ad0380642cb2c6bfa2975a0548af90518b1a8", 
+        "is_playable": true, 
+        "uri": "spotify:track:5OLs4vsOcalyRMr6Z2q7Uw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5OLs4vsOcalyRMr6Z2q7Uw", 
+        "artists": [
+          {
+            "name": "Elastica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx"
+            }, 
+            "uri": "spotify:artist:3l14gV4hIMAjmo7KUvEWTx", 
+            "href": "https://api.spotify.com/v1/artists/3l14gV4hIMAjmo7KUvEWTx", 
+            "type": "artist", 
+            "id": "3l14gV4hIMAjmo7KUvEWTx"
+          }
+        ], 
+        "duration_ms": 93360, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "5OLs4vsOcalyRMr6Z2q7Uw"
+      }, 
+      {
+        "name": "Waking Up", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/70LIe5IYE2TI8qqxePAoOR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/93302e850300f3770d89c2f9db4e6470d96375ef", 
+        "is_playable": true, 
+        "uri": "spotify:track:70LIe5IYE2TI8qqxePAoOR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/70LIe5IYE2TI8qqxePAoOR", 
+        "artists": [
+          {
+            "name": "Elastica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx"
+            }, 
+            "uri": "spotify:artist:3l14gV4hIMAjmo7KUvEWTx", 
+            "href": "https://api.spotify.com/v1/artists/3l14gV4hIMAjmo7KUvEWTx", 
+            "type": "artist", 
+            "id": "3l14gV4hIMAjmo7KUvEWTx"
+          }
+        ], 
+        "duration_ms": 195600, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "70LIe5IYE2TI8qqxePAoOR"
+      }, 
+      {
+        "name": "2:1", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5wdxsyXDcAfvRdiYk1Kjpw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8be6e8a45ee900ab78d6c60b4a1b799a0caaeac0", 
+        "is_playable": true, 
+        "uri": "spotify:track:5wdxsyXDcAfvRdiYk1Kjpw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5wdxsyXDcAfvRdiYk1Kjpw", 
+        "artists": [
+          {
+            "name": "Elastica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx"
+            }, 
+            "uri": "spotify:artist:3l14gV4hIMAjmo7KUvEWTx", 
+            "href": "https://api.spotify.com/v1/artists/3l14gV4hIMAjmo7KUvEWTx", 
+            "type": "artist", 
+            "id": "3l14gV4hIMAjmo7KUvEWTx"
+          }
+        ], 
+        "duration_ms": 151973, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "5wdxsyXDcAfvRdiYk1Kjpw"
+      }, 
+      {
+        "name": "Vaseline", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3CFreeQN3KprsAO9Io0MpP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/88891ff57966d19d7f74e146d834d1f6e45e62f3", 
+        "is_playable": true, 
+        "uri": "spotify:track:3CFreeQN3KprsAO9Io0MpP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3CFreeQN3KprsAO9Io0MpP", 
+        "artists": [
+          {
+            "name": "Elastica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx"
+            }, 
+            "uri": "spotify:artist:3l14gV4hIMAjmo7KUvEWTx", 
+            "href": "https://api.spotify.com/v1/artists/3l14gV4hIMAjmo7KUvEWTx", 
+            "type": "artist", 
+            "id": "3l14gV4hIMAjmo7KUvEWTx"
+          }
+        ], 
+        "duration_ms": 82093, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "3CFreeQN3KprsAO9Io0MpP"
+      }, 
+      {
+        "name": "Never Here", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4W75N5VkNnyY0veyN77bPM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f235d4ce9262b08bb944c6f0d64cd49bdbb228f1", 
+        "is_playable": true, 
+        "uri": "spotify:track:4W75N5VkNnyY0veyN77bPM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4W75N5VkNnyY0veyN77bPM", 
+        "artists": [
+          {
+            "name": "Elastica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx"
+            }, 
+            "uri": "spotify:artist:3l14gV4hIMAjmo7KUvEWTx", 
+            "href": "https://api.spotify.com/v1/artists/3l14gV4hIMAjmo7KUvEWTx", 
+            "type": "artist", 
+            "id": "3l14gV4hIMAjmo7KUvEWTx"
+          }
+        ], 
+        "duration_ms": 266666, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "4W75N5VkNnyY0veyN77bPM"
+      }, 
+      {
+        "name": "Stutter", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6R8t6SQX1692z5S112XMkJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fd74a2dabaf4a53b3373e53562e2d142f02030fe", 
+        "is_playable": true, 
+        "uri": "spotify:track:6R8t6SQX1692z5S112XMkJ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6R8t6SQX1692z5S112XMkJ", 
+        "artists": [
+          {
+            "name": "Elastica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx"
+            }, 
+            "uri": "spotify:artist:3l14gV4hIMAjmo7KUvEWTx", 
+            "href": "https://api.spotify.com/v1/artists/3l14gV4hIMAjmo7KUvEWTx", 
+            "type": "artist", 
+            "id": "3l14gV4hIMAjmo7KUvEWTx"
+          }
+        ], 
+        "duration_ms": 143106, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "6R8t6SQX1692z5S112XMkJ"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/2Eu3dJJYgcbzrhp0zyRBZz/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 15, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/2Eu3dJJYgcbzrhp0zyRBZz", 
+  "copyrights": [
+    {
+      "text": "1995 Deceptive Records Ltd", 
+      "type": "C"
+    }, 
+    {
+      "text": "1995 Deceptive Records Ltd", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Elastica", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx"
+      }, 
+      "uri": "spotify:artist:3l14gV4hIMAjmo7KUvEWTx", 
+      "href": "https://api.spotify.com/v1/artists/3l14gV4hIMAjmo7KUvEWTx", 
+      "type": "artist", 
+      "id": "3l14gV4hIMAjmo7KUvEWTx"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/91b39f42f07681db56fd9718b221d26cfee9ab80", 
+      "width": 600, 
+      "height": 600
+    }, 
+    {
+      "url": "https://i.scdn.co/image/48ec65df685895c4a06ab1c7212d8f46ba4b0ea4", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/04bb7413930db559fdb01a466ef04247459e384d", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "5051083001281"
+  }, 
+  "type": "album", 
+  "id": "2Eu3dJJYgcbzrhp0zyRBZz", 
+  "name": "Elastica"
+}

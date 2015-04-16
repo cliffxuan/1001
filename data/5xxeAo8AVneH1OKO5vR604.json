@@ -1,0 +1,795 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5xxeAo8AVneH1OKO5vR604"
+  }, 
+  "release_date": "1995", 
+  "popularity": 65, 
+  "genres": [], 
+  "uri": "spotify:album:5xxeAo8AVneH1OKO5vR604", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Kitty", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4WamMWxFi6ts3xkIhivF5c"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a2400f22678055a3bb41a035c6c70114bbe46f2f", 
+        "is_playable": true, 
+        "uri": "spotify:track:4WamMWxFi6ts3xkIhivF5c", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4WamMWxFi6ts3xkIhivF5c", 
+        "artists": [
+          {
+            "name": "The Presidents Of The United States Of America", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
+            }, 
+            "uri": "spotify:artist:1lZvg4fNAqHoj6I9N8naBM", 
+            "href": "https://api.spotify.com/v1/artists/1lZvg4fNAqHoj6I9N8naBM", 
+            "type": "artist", 
+            "id": "1lZvg4fNAqHoj6I9N8naBM"
+          }
+        ], 
+        "duration_ms": 203133, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "4WamMWxFi6ts3xkIhivF5c"
+      }, 
+      {
+        "name": "Feather Pluckn", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/017kEwb3lDoaaZWvEVAxNs"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0eb1fe73043a165521798638eba136d4e10436a3", 
+        "is_playable": true, 
+        "uri": "spotify:track:017kEwb3lDoaaZWvEVAxNs", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/017kEwb3lDoaaZWvEVAxNs", 
+        "artists": [
+          {
+            "name": "The Presidents Of The United States Of America", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
+            }, 
+            "uri": "spotify:artist:1lZvg4fNAqHoj6I9N8naBM", 
+            "href": "https://api.spotify.com/v1/artists/1lZvg4fNAqHoj6I9N8naBM", 
+            "type": "artist", 
+            "id": "1lZvg4fNAqHoj6I9N8naBM"
+          }
+        ], 
+        "duration_ms": 177960, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "017kEwb3lDoaaZWvEVAxNs"
+      }, 
+      {
+        "name": "Lump", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2JdzB67NvIa90K4gEZPLeX"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/184da90340caa85a5c0bbbd25a5d3092a88c1d9e", 
+        "is_playable": true, 
+        "uri": "spotify:track:2JdzB67NvIa90K4gEZPLeX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2JdzB67NvIa90K4gEZPLeX", 
+        "artists": [
+          {
+            "name": "The Presidents Of The United States Of America", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
+            }, 
+            "uri": "spotify:artist:1lZvg4fNAqHoj6I9N8naBM", 
+            "href": "https://api.spotify.com/v1/artists/1lZvg4fNAqHoj6I9N8naBM", 
+            "type": "artist", 
+            "id": "1lZvg4fNAqHoj6I9N8naBM"
+          }
+        ], 
+        "duration_ms": 134200, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "2JdzB67NvIa90K4gEZPLeX"
+      }, 
+      {
+        "name": "Stranger", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0dy1b6cur8yneq9XMH3bTp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f263742f0a22843b0d30251631d62adbcb777700", 
+        "is_playable": true, 
+        "uri": "spotify:track:0dy1b6cur8yneq9XMH3bTp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0dy1b6cur8yneq9XMH3bTp", 
+        "artists": [
+          {
+            "name": "The Presidents Of The United States Of America", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
+            }, 
+            "uri": "spotify:artist:1lZvg4fNAqHoj6I9N8naBM", 
+            "href": "https://api.spotify.com/v1/artists/1lZvg4fNAqHoj6I9N8naBM", 
+            "type": "artist", 
+            "id": "1lZvg4fNAqHoj6I9N8naBM"
+          }
+        ], 
+        "duration_ms": 184640, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "0dy1b6cur8yneq9XMH3bTp"
+      }, 
+      {
+        "name": "Boll Weevil", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7E1lDtJB1JQOqxJnmCOc2B"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1bbc39a1d1cf90a4a168d8161323bfb618557439", 
+        "is_playable": true, 
+        "uri": "spotify:track:7E1lDtJB1JQOqxJnmCOc2B", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7E1lDtJB1JQOqxJnmCOc2B", 
+        "artists": [
+          {
+            "name": "The Presidents Of The United States Of America", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
+            }, 
+            "uri": "spotify:artist:1lZvg4fNAqHoj6I9N8naBM", 
+            "href": "https://api.spotify.com/v1/artists/1lZvg4fNAqHoj6I9N8naBM", 
+            "type": "artist", 
+            "id": "1lZvg4fNAqHoj6I9N8naBM"
+          }
+        ], 
+        "duration_ms": 197533, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "7E1lDtJB1JQOqxJnmCOc2B"
+      }, 
+      {
+        "name": "Peaches", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3VEFybccRTeWSZRkJxDuNR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b42accc3b83f9ed832c106048738e8d22fd126db", 
+        "is_playable": true, 
+        "uri": "spotify:track:3VEFybccRTeWSZRkJxDuNR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3VEFybccRTeWSZRkJxDuNR", 
+        "artists": [
+          {
+            "name": "The Presidents Of The United States Of America", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
+            }, 
+            "uri": "spotify:artist:1lZvg4fNAqHoj6I9N8naBM", 
+            "href": "https://api.spotify.com/v1/artists/1lZvg4fNAqHoj6I9N8naBM", 
+            "type": "artist", 
+            "id": "1lZvg4fNAqHoj6I9N8naBM"
+          }
+        ], 
+        "duration_ms": 171693, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "3VEFybccRTeWSZRkJxDuNR"
+      }, 
+      {
+        "name": "Dune Buggy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7bCKBqdYJI8fvFH48sT2IN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c4764cf2f2a6d788162e0f8f45d8203972486c28", 
+        "is_playable": true, 
+        "uri": "spotify:track:7bCKBqdYJI8fvFH48sT2IN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7bCKBqdYJI8fvFH48sT2IN", 
+        "artists": [
+          {
+            "name": "The Presidents Of The United States Of America", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
+            }, 
+            "uri": "spotify:artist:1lZvg4fNAqHoj6I9N8naBM", 
+            "href": "https://api.spotify.com/v1/artists/1lZvg4fNAqHoj6I9N8naBM", 
+            "type": "artist", 
+            "id": "1lZvg4fNAqHoj6I9N8naBM"
+          }
+        ], 
+        "duration_ms": 164573, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "7bCKBqdYJI8fvFH48sT2IN"
+      }, 
+      {
+        "name": "We Are Not Going to Make It", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3NGrc0nxQtSPej5QMmJItI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8076dbfe278f149fc1ae5290485878b1a6f64569", 
+        "is_playable": true, 
+        "uri": "spotify:track:3NGrc0nxQtSPej5QMmJItI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3NGrc0nxQtSPej5QMmJItI", 
+        "artists": [
+          {
+            "name": "The Presidents Of The United States Of America", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
+            }, 
+            "uri": "spotify:artist:1lZvg4fNAqHoj6I9N8naBM", 
+            "href": "https://api.spotify.com/v1/artists/1lZvg4fNAqHoj6I9N8naBM", 
+            "type": "artist", 
+            "id": "1lZvg4fNAqHoj6I9N8naBM"
+          }
+        ], 
+        "duration_ms": 112026, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "3NGrc0nxQtSPej5QMmJItI"
+      }, 
+      {
+        "name": "Kick Out the Jams", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3tzsPoWVJHeosmppLFbUB3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ee71ac050ebfd32576592f4be9e2ac5778a3780b", 
+        "is_playable": true, 
+        "uri": "spotify:track:3tzsPoWVJHeosmppLFbUB3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3tzsPoWVJHeosmppLFbUB3", 
+        "artists": [
+          {
+            "name": "The Presidents Of The United States Of America", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
+            }, 
+            "uri": "spotify:artist:1lZvg4fNAqHoj6I9N8naBM", 
+            "href": "https://api.spotify.com/v1/artists/1lZvg4fNAqHoj6I9N8naBM", 
+            "type": "artist", 
+            "id": "1lZvg4fNAqHoj6I9N8naBM"
+          }
+        ], 
+        "duration_ms": 86266, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "3tzsPoWVJHeosmppLFbUB3"
+      }, 
+      {
+        "name": "Body", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6wZEgxBDISdmZJDTRrAyQU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7b62cfd2d8f0ea95653d6363dcea504065cb3eb3", 
+        "is_playable": true, 
+        "uri": "spotify:track:6wZEgxBDISdmZJDTRrAyQU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6wZEgxBDISdmZJDTRrAyQU", 
+        "artists": [
+          {
+            "name": "The Presidents Of The United States Of America", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
+            }, 
+            "uri": "spotify:artist:1lZvg4fNAqHoj6I9N8naBM", 
+            "href": "https://api.spotify.com/v1/artists/1lZvg4fNAqHoj6I9N8naBM", 
+            "type": "artist", 
+            "id": "1lZvg4fNAqHoj6I9N8naBM"
+          }
+        ], 
+        "duration_ms": 251840, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "6wZEgxBDISdmZJDTRrAyQU"
+      }, 
+      {
+        "name": "Back Porch", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1iUJ1LNpDYj7wTJAe766zI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c9e8eb0aa8d865dd98bd664445dc400536747dbf", 
+        "is_playable": true, 
+        "uri": "spotify:track:1iUJ1LNpDYj7wTJAe766zI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1iUJ1LNpDYj7wTJAe766zI", 
+        "artists": [
+          {
+            "name": "The Presidents Of The United States Of America", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
+            }, 
+            "uri": "spotify:artist:1lZvg4fNAqHoj6I9N8naBM", 
+            "href": "https://api.spotify.com/v1/artists/1lZvg4fNAqHoj6I9N8naBM", 
+            "type": "artist", 
+            "id": "1lZvg4fNAqHoj6I9N8naBM"
+          }
+        ], 
+        "duration_ms": 180226, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "1iUJ1LNpDYj7wTJAe766zI"
+      }, 
+      {
+        "name": "Candy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4mQ1VBXWABVEWGlXjCPc13"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/85943ac5c220e3f48b4186e076649f6c60f0ca8b", 
+        "is_playable": true, 
+        "uri": "spotify:track:4mQ1VBXWABVEWGlXjCPc13", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4mQ1VBXWABVEWGlXjCPc13", 
+        "artists": [
+          {
+            "name": "The Presidents Of The United States Of America", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
+            }, 
+            "uri": "spotify:artist:1lZvg4fNAqHoj6I9N8naBM", 
+            "href": "https://api.spotify.com/v1/artists/1lZvg4fNAqHoj6I9N8naBM", 
+            "type": "artist", 
+            "id": "1lZvg4fNAqHoj6I9N8naBM"
+          }
+        ], 
+        "duration_ms": 197000, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "4mQ1VBXWABVEWGlXjCPc13"
+      }, 
+      {
+        "name": "Naked and Famous", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5GJP3wkjtgFUU0VGcilFXv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c81b1f7f70c1a32c5e51cc37b2e5f28f8a806fa2", 
+        "is_playable": true, 
+        "uri": "spotify:track:5GJP3wkjtgFUU0VGcilFXv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5GJP3wkjtgFUU0VGcilFXv", 
+        "artists": [
+          {
+            "name": "The Presidents Of The United States Of America", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
+            }, 
+            "uri": "spotify:artist:1lZvg4fNAqHoj6I9N8naBM", 
+            "href": "https://api.spotify.com/v1/artists/1lZvg4fNAqHoj6I9N8naBM", 
+            "type": "artist", 
+            "id": "1lZvg4fNAqHoj6I9N8naBM"
+          }
+        ], 
+        "duration_ms": 224706, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "5GJP3wkjtgFUU0VGcilFXv"
+      }, 
+      {
+        "name": "Confusion", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1xQbIu5rVBkmOaJTIym2Uk"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b2b2d3628e22a1b717cb0608e3c58cb021b174dc", 
+        "is_playable": true, 
+        "uri": "spotify:track:1xQbIu5rVBkmOaJTIym2Uk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1xQbIu5rVBkmOaJTIym2Uk", 
+        "artists": [
+          {
+            "name": "The Presidents Of The United States Of America", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
+            }, 
+            "uri": "spotify:artist:1lZvg4fNAqHoj6I9N8naBM", 
+            "href": "https://api.spotify.com/v1/artists/1lZvg4fNAqHoj6I9N8naBM", 
+            "type": "artist", 
+            "id": "1lZvg4fNAqHoj6I9N8naBM"
+          }
+        ], 
+        "duration_ms": 164226, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "1xQbIu5rVBkmOaJTIym2Uk"
+      }, 
+      {
+        "name": "Candy Cigarette", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/78XBcO23eKrlaWSBRFxnro"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/adc658c81a63ca17652c9a3df778475e9cfceb4d", 
+        "is_playable": true, 
+        "uri": "spotify:track:78XBcO23eKrlaWSBRFxnro", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/78XBcO23eKrlaWSBRFxnro", 
+        "artists": [
+          {
+            "name": "The Presidents Of The United States Of America", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
+            }, 
+            "uri": "spotify:artist:1lZvg4fNAqHoj6I9N8naBM", 
+            "href": "https://api.spotify.com/v1/artists/1lZvg4fNAqHoj6I9N8naBM", 
+            "type": "artist", 
+            "id": "1lZvg4fNAqHoj6I9N8naBM"
+          }
+        ], 
+        "duration_ms": 122200, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "78XBcO23eKrlaWSBRFxnro"
+      }, 
+      {
+        "name": "Wake Up", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/10BSV6pQIcyUFYgfD4Easq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4daac8f1c498b6c52645f70e9f9b4deeb883ffb4", 
+        "is_playable": true, 
+        "uri": "spotify:track:10BSV6pQIcyUFYgfD4Easq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/10BSV6pQIcyUFYgfD4Easq", 
+        "artists": [
+          {
+            "name": "The Presidents Of The United States Of America", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
+            }, 
+            "uri": "spotify:artist:1lZvg4fNAqHoj6I9N8naBM", 
+            "href": "https://api.spotify.com/v1/artists/1lZvg4fNAqHoj6I9N8naBM", 
+            "type": "artist", 
+            "id": "1lZvg4fNAqHoj6I9N8naBM"
+          }
+        ], 
+        "duration_ms": 160840, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "10BSV6pQIcyUFYgfD4Easq"
+      }, 
+      {
+        "name": "Carolyn's Booty", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/18KeiNnMAUYTHHMdg8tHAZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8e948b815cf36759a604433fcef7073b3b155968", 
+        "is_playable": true, 
+        "uri": "spotify:track:18KeiNnMAUYTHHMdg8tHAZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/18KeiNnMAUYTHHMdg8tHAZ", 
+        "artists": [
+          {
+            "name": "The Presidents Of The United States Of America", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
+            }, 
+            "uri": "spotify:artist:1lZvg4fNAqHoj6I9N8naBM", 
+            "href": "https://api.spotify.com/v1/artists/1lZvg4fNAqHoj6I9N8naBM", 
+            "type": "artist", 
+            "id": "1lZvg4fNAqHoj6I9N8naBM"
+          }
+        ], 
+        "duration_ms": 137266, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "18KeiNnMAUYTHHMdg8tHAZ"
+      }, 
+      {
+        "name": "F**k California", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6aLNz9wCwDCiggPppj2GOO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7f9bd31b3e61d910fd06bdbaa25e4e674cd447f5", 
+        "is_playable": true, 
+        "uri": "spotify:track:6aLNz9wCwDCiggPppj2GOO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6aLNz9wCwDCiggPppj2GOO", 
+        "artists": [
+          {
+            "name": "The Presidents Of The United States Of America", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
+            }, 
+            "uri": "spotify:artist:1lZvg4fNAqHoj6I9N8naBM", 
+            "href": "https://api.spotify.com/v1/artists/1lZvg4fNAqHoj6I9N8naBM", 
+            "type": "artist", 
+            "id": "1lZvg4fNAqHoj6I9N8naBM"
+          }
+        ], 
+        "duration_ms": 185093, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "6aLNz9wCwDCiggPppj2GOO"
+      }, 
+      {
+        "name": "Puffy Little Shoes", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1EDqp5tBckcRTnimuyqMKz"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/48a5c7ed5744e5bce788faad867dd8fb90c26864", 
+        "is_playable": true, 
+        "uri": "spotify:track:1EDqp5tBckcRTnimuyqMKz", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1EDqp5tBckcRTnimuyqMKz", 
+        "artists": [
+          {
+            "name": "The Presidents Of The United States Of America", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
+            }, 
+            "uri": "spotify:artist:1lZvg4fNAqHoj6I9N8naBM", 
+            "href": "https://api.spotify.com/v1/artists/1lZvg4fNAqHoj6I9N8naBM", 
+            "type": "artist", 
+            "id": "1lZvg4fNAqHoj6I9N8naBM"
+          }
+        ], 
+        "duration_ms": 215506, 
+        "track_number": 19, 
+        "type": "track", 
+        "id": "1EDqp5tBckcRTnimuyqMKz"
+      }, 
+      {
+        "name": "Kitty - Demo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3GB0aaXj1qwX7YcwaXTbnq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/372ea3e2ba9004ccf00701b56acd56981753caf5", 
+        "is_playable": true, 
+        "uri": "spotify:track:3GB0aaXj1qwX7YcwaXTbnq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3GB0aaXj1qwX7YcwaXTbnq", 
+        "artists": [
+          {
+            "name": "The Presidents Of The United States Of America", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
+            }, 
+            "uri": "spotify:artist:1lZvg4fNAqHoj6I9N8naBM", 
+            "href": "https://api.spotify.com/v1/artists/1lZvg4fNAqHoj6I9N8naBM", 
+            "type": "artist", 
+            "id": "1lZvg4fNAqHoj6I9N8naBM"
+          }
+        ], 
+        "duration_ms": 86133, 
+        "track_number": 20, 
+        "type": "track", 
+        "id": "3GB0aaXj1qwX7YcwaXTbnq"
+      }, 
+      {
+        "name": "Lump - Demo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4R8uXZqTxWthXD3qScUu5d"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/70cc980873b9b7f66bc4c8eb3127362c090327a5", 
+        "is_playable": true, 
+        "uri": "spotify:track:4R8uXZqTxWthXD3qScUu5d", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4R8uXZqTxWthXD3qScUu5d", 
+        "artists": [
+          {
+            "name": "The Presidents Of The United States Of America", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
+            }, 
+            "uri": "spotify:artist:1lZvg4fNAqHoj6I9N8naBM", 
+            "href": "https://api.spotify.com/v1/artists/1lZvg4fNAqHoj6I9N8naBM", 
+            "type": "artist", 
+            "id": "1lZvg4fNAqHoj6I9N8naBM"
+          }
+        ], 
+        "duration_ms": 159093, 
+        "track_number": 21, 
+        "type": "track", 
+        "id": "4R8uXZqTxWthXD3qScUu5d"
+      }, 
+      {
+        "name": "Stranger - Demo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4GAT16X6FBiTpNAEIUYVo3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2c368f7f755828cced544372a04849f52f26d94a", 
+        "is_playable": true, 
+        "uri": "spotify:track:4GAT16X6FBiTpNAEIUYVo3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4GAT16X6FBiTpNAEIUYVo3", 
+        "artists": [
+          {
+            "name": "The Presidents Of The United States Of America", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
+            }, 
+            "uri": "spotify:artist:1lZvg4fNAqHoj6I9N8naBM", 
+            "href": "https://api.spotify.com/v1/artists/1lZvg4fNAqHoj6I9N8naBM", 
+            "type": "artist", 
+            "id": "1lZvg4fNAqHoj6I9N8naBM"
+          }
+        ], 
+        "duration_ms": 170466, 
+        "track_number": 22, 
+        "type": "track", 
+        "id": "4GAT16X6FBiTpNAEIUYVo3"
+      }, 
+      {
+        "name": "Boll Weevil - Demo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2goSWZ462ObN5i3pe67qAr"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/566533ee39056fc0ecf5188649ce61765f85b1f3", 
+        "is_playable": true, 
+        "uri": "spotify:track:2goSWZ462ObN5i3pe67qAr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2goSWZ462ObN5i3pe67qAr", 
+        "artists": [
+          {
+            "name": "The Presidents Of The United States Of America", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
+            }, 
+            "uri": "spotify:artist:1lZvg4fNAqHoj6I9N8naBM", 
+            "href": "https://api.spotify.com/v1/artists/1lZvg4fNAqHoj6I9N8naBM", 
+            "type": "artist", 
+            "id": "1lZvg4fNAqHoj6I9N8naBM"
+          }
+        ], 
+        "duration_ms": 126600, 
+        "track_number": 23, 
+        "type": "track", 
+        "id": "2goSWZ462ObN5i3pe67qAr"
+      }, 
+      {
+        "name": "Candy - Demo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5rx4UvekOOS8wKTHchYVL2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9f1506e38b5369c5470636588fc87e7378571f38", 
+        "is_playable": true, 
+        "uri": "spotify:track:5rx4UvekOOS8wKTHchYVL2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5rx4UvekOOS8wKTHchYVL2", 
+        "artists": [
+          {
+            "name": "The Presidents Of The United States Of America", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
+            }, 
+            "uri": "spotify:artist:1lZvg4fNAqHoj6I9N8naBM", 
+            "href": "https://api.spotify.com/v1/artists/1lZvg4fNAqHoj6I9N8naBM", 
+            "type": "artist", 
+            "id": "1lZvg4fNAqHoj6I9N8naBM"
+          }
+        ], 
+        "duration_ms": 231506, 
+        "track_number": 24, 
+        "type": "track", 
+        "id": "5rx4UvekOOS8wKTHchYVL2"
+      }, 
+      {
+        "name": "Naked and Famous - Boston Demo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1nyqF6kCtz2vdWDtHn6j0C"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0bcab7701ff119f0ffe20de7cf74f4ba5dff0132", 
+        "is_playable": true, 
+        "uri": "spotify:track:1nyqF6kCtz2vdWDtHn6j0C", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1nyqF6kCtz2vdWDtHn6j0C", 
+        "artists": [
+          {
+            "name": "The Presidents Of The United States Of America", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
+            }, 
+            "uri": "spotify:artist:1lZvg4fNAqHoj6I9N8naBM", 
+            "href": "https://api.spotify.com/v1/artists/1lZvg4fNAqHoj6I9N8naBM", 
+            "type": "artist", 
+            "id": "1lZvg4fNAqHoj6I9N8naBM"
+          }
+        ], 
+        "duration_ms": 156800, 
+        "track_number": 25, 
+        "type": "track", 
+        "id": "1nyqF6kCtz2vdWDtHn6j0C"
+      }, 
+      {
+        "name": "Naked and Famous - New York Demo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7e6K79ABLW3SGyRdvatL2g"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4b2af7418c7a05dbd4983fcf73aef22c9f6c7ec2", 
+        "is_playable": true, 
+        "uri": "spotify:track:7e6K79ABLW3SGyRdvatL2g", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7e6K79ABLW3SGyRdvatL2g", 
+        "artists": [
+          {
+            "name": "The Presidents Of The United States Of America", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
+            }, 
+            "uri": "spotify:artist:1lZvg4fNAqHoj6I9N8naBM", 
+            "href": "https://api.spotify.com/v1/artists/1lZvg4fNAqHoj6I9N8naBM", 
+            "type": "artist", 
+            "id": "1lZvg4fNAqHoj6I9N8naBM"
+          }
+        ], 
+        "duration_ms": 128493, 
+        "track_number": 26, 
+        "type": "track", 
+        "id": "7e6K79ABLW3SGyRdvatL2g"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/5xxeAo8AVneH1OKO5vR604/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 26, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/5xxeAo8AVneH1OKO5vR604", 
+  "copyrights": [
+    {
+      "text": "2004 PUSA Music", 
+      "type": "C"
+    }, 
+    {
+      "text": "2004 PUSA Music", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "The Presidents Of The United States Of America", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
+      }, 
+      "uri": "spotify:artist:1lZvg4fNAqHoj6I9N8naBM", 
+      "href": "https://api.spotify.com/v1/artists/1lZvg4fNAqHoj6I9N8naBM", 
+      "type": "artist", 
+      "id": "1lZvg4fNAqHoj6I9N8naBM"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/4a7eba3d2dfe83ab97eae0bcdd1695d0210f7779", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/f44b5ae4f903ebb62808d27c0c9255190eb70f69", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/a440ae5aa9ba1859134f1926042302d757b1f11f", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "847108061928"
+  }, 
+  "type": "album", 
+  "id": "5xxeAo8AVneH1OKO5vR604", 
+  "name": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition"
+}

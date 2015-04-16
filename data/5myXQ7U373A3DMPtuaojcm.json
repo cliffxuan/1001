@@ -1,0 +1,712 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5myXQ7U373A3DMPtuaojcm"
+  }, 
+  "release_date": "1994-10-17", 
+  "popularity": 47, 
+  "genres": [], 
+  "uri": "spotify:album:5myXQ7U373A3DMPtuaojcm", 
+  "tracks": {
+    "items": [
+      {
+        "linked_from": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/4cafN8GuG8gecxumcSXUro"
+          }, 
+          "href": "https://api.spotify.com/v1/tracks/4cafN8GuG8gecxumcSXUro", 
+          "type": "track", 
+          "id": "4cafN8GuG8gecxumcSXUro", 
+          "uri": "spotify:track:4cafN8GuG8gecxumcSXUro"
+        }, 
+        "name": "I'm a Fool to Want You", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3usQ8SSG7KcIQT8CqqMoIj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6337a77b1c5dd89d66a6591b332b41899571e68f", 
+        "is_playable": true, 
+        "uri": "spotify:track:3usQ8SSG7KcIQT8CqqMoIj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3usQ8SSG7KcIQT8CqqMoIj", 
+        "artists": [
+          {
+            "name": "Billie Holiday", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+            }, 
+            "uri": "spotify:artist:1YzCsTRb22dQkh9lghPIrp", 
+            "href": "https://api.spotify.com/v1/artists/1YzCsTRb22dQkh9lghPIrp", 
+            "type": "artist", 
+            "id": "1YzCsTRb22dQkh9lghPIrp"
+          }
+        ], 
+        "duration_ms": 203266, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "3usQ8SSG7KcIQT8CqqMoIj"
+      }, 
+      {
+        "linked_from": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/7Ds4gMLEP1ulAQiZayOIHp"
+          }, 
+          "href": "https://api.spotify.com/v1/tracks/7Ds4gMLEP1ulAQiZayOIHp", 
+          "type": "track", 
+          "id": "7Ds4gMLEP1ulAQiZayOIHp", 
+          "uri": "spotify:track:7Ds4gMLEP1ulAQiZayOIHp"
+        }, 
+        "name": "For Heaven's Sake", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7LpFivgbzBS4guxYqkL2Ug"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/64d82918fc2c1a6a822f7327e0c154ef07d0e4fc", 
+        "is_playable": true, 
+        "uri": "spotify:track:7LpFivgbzBS4guxYqkL2Ug", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7LpFivgbzBS4guxYqkL2Ug", 
+        "artists": [
+          {
+            "name": "Billie Holiday", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+            }, 
+            "uri": "spotify:artist:1YzCsTRb22dQkh9lghPIrp", 
+            "href": "https://api.spotify.com/v1/artists/1YzCsTRb22dQkh9lghPIrp", 
+            "type": "artist", 
+            "id": "1YzCsTRb22dQkh9lghPIrp"
+          }
+        ], 
+        "duration_ms": 206493, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "7LpFivgbzBS4guxYqkL2Ug"
+      }, 
+      {
+        "linked_from": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3Zk5rgFYULjbfNAR6Aa0lG"
+          }, 
+          "href": "https://api.spotify.com/v1/tracks/3Zk5rgFYULjbfNAR6Aa0lG", 
+          "type": "track", 
+          "id": "3Zk5rgFYULjbfNAR6Aa0lG", 
+          "uri": "spotify:track:3Zk5rgFYULjbfNAR6Aa0lG"
+        }, 
+        "name": "You Don't Know What Love Is", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4jVhZyHgRrBMpRpCRtiYSC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/081563522b94daa36270283e52c63f289bc4a13e", 
+        "is_playable": true, 
+        "uri": "spotify:track:4jVhZyHgRrBMpRpCRtiYSC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4jVhZyHgRrBMpRpCRtiYSC", 
+        "artists": [
+          {
+            "name": "Billie Holiday", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+            }, 
+            "uri": "spotify:artist:1YzCsTRb22dQkh9lghPIrp", 
+            "href": "https://api.spotify.com/v1/artists/1YzCsTRb22dQkh9lghPIrp", 
+            "type": "artist", 
+            "id": "1YzCsTRb22dQkh9lghPIrp"
+          }
+        ], 
+        "duration_ms": 228133, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "4jVhZyHgRrBMpRpCRtiYSC"
+      }, 
+      {
+        "linked_from": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/01gmKEpMZtpRMNzZ0oGaLd"
+          }, 
+          "href": "https://api.spotify.com/v1/tracks/01gmKEpMZtpRMNzZ0oGaLd", 
+          "type": "track", 
+          "id": "01gmKEpMZtpRMNzZ0oGaLd", 
+          "uri": "spotify:track:01gmKEpMZtpRMNzZ0oGaLd"
+        }, 
+        "name": "I Get Along Without You Very Well", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2rZbcFuWWlxsepYFK3xb6J"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/97da2f092c163b93ce95bf49dedc3f77c1aa141b", 
+        "is_playable": true, 
+        "uri": "spotify:track:2rZbcFuWWlxsepYFK3xb6J", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2rZbcFuWWlxsepYFK3xb6J", 
+        "artists": [
+          {
+            "name": "Billie Holiday", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+            }, 
+            "uri": "spotify:artist:1YzCsTRb22dQkh9lghPIrp", 
+            "href": "https://api.spotify.com/v1/artists/1YzCsTRb22dQkh9lghPIrp", 
+            "type": "artist", 
+            "id": "1YzCsTRb22dQkh9lghPIrp"
+          }
+        ], 
+        "duration_ms": 179093, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "2rZbcFuWWlxsepYFK3xb6J"
+      }, 
+      {
+        "linked_from": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2qqITLb4bpE8DTRqWlsRHW"
+          }, 
+          "href": "https://api.spotify.com/v1/tracks/2qqITLb4bpE8DTRqWlsRHW", 
+          "type": "track", 
+          "id": "2qqITLb4bpE8DTRqWlsRHW", 
+          "uri": "spotify:track:2qqITLb4bpE8DTRqWlsRHW"
+        }, 
+        "name": "For All We Know", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0hRyXuJ9PjUyYPc72VPKGq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4d8a85b9519601d0fa65df57e90fce2bfb789fed", 
+        "is_playable": true, 
+        "uri": "spotify:track:0hRyXuJ9PjUyYPc72VPKGq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0hRyXuJ9PjUyYPc72VPKGq", 
+        "artists": [
+          {
+            "name": "Billie Holiday", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+            }, 
+            "uri": "spotify:artist:1YzCsTRb22dQkh9lghPIrp", 
+            "href": "https://api.spotify.com/v1/artists/1YzCsTRb22dQkh9lghPIrp", 
+            "type": "artist", 
+            "id": "1YzCsTRb22dQkh9lghPIrp"
+          }
+        ], 
+        "duration_ms": 173173, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "0hRyXuJ9PjUyYPc72VPKGq"
+      }, 
+      {
+        "linked_from": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2rngOZsDv3jTf2fuOIc3dP"
+          }, 
+          "href": "https://api.spotify.com/v1/tracks/2rngOZsDv3jTf2fuOIc3dP", 
+          "type": "track", 
+          "id": "2rngOZsDv3jTf2fuOIc3dP", 
+          "uri": "spotify:track:2rngOZsDv3jTf2fuOIc3dP"
+        }, 
+        "name": "Violets for Your Furs", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2wAQORMlHqIcsYlcigjh3M"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a23ae69bc02f30687e0840e2f3965427d914c4e2", 
+        "is_playable": true, 
+        "uri": "spotify:track:2wAQORMlHqIcsYlcigjh3M", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2wAQORMlHqIcsYlcigjh3M", 
+        "artists": [
+          {
+            "name": "Billie Holiday", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+            }, 
+            "uri": "spotify:artist:1YzCsTRb22dQkh9lghPIrp", 
+            "href": "https://api.spotify.com/v1/artists/1YzCsTRb22dQkh9lghPIrp", 
+            "type": "artist", 
+            "id": "1YzCsTRb22dQkh9lghPIrp"
+          }
+        ], 
+        "duration_ms": 204026, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "2wAQORMlHqIcsYlcigjh3M"
+      }, 
+      {
+        "linked_from": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/6k7OGVw9B0VkqR4C2Q8QZt"
+          }, 
+          "href": "https://api.spotify.com/v1/tracks/6k7OGVw9B0VkqR4C2Q8QZt", 
+          "type": "track", 
+          "id": "6k7OGVw9B0VkqR4C2Q8QZt", 
+          "uri": "spotify:track:6k7OGVw9B0VkqR4C2Q8QZt"
+        }, 
+        "name": "You've Changed", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6kdMcS377uzjyDdXht8eWW"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/20f94a88b4e4e1dcf0e2a4ca97204530147547d6", 
+        "is_playable": true, 
+        "uri": "spotify:track:6kdMcS377uzjyDdXht8eWW", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6kdMcS377uzjyDdXht8eWW", 
+        "artists": [
+          {
+            "name": "Billie Holiday", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+            }, 
+            "uri": "spotify:artist:1YzCsTRb22dQkh9lghPIrp", 
+            "href": "https://api.spotify.com/v1/artists/1YzCsTRb22dQkh9lghPIrp", 
+            "type": "artist", 
+            "id": "1YzCsTRb22dQkh9lghPIrp"
+          }
+        ], 
+        "duration_ms": 197093, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "6kdMcS377uzjyDdXht8eWW"
+      }, 
+      {
+        "linked_from": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/7IjyTIJ5dWtwrbFdwdIVm0"
+          }, 
+          "href": "https://api.spotify.com/v1/tracks/7IjyTIJ5dWtwrbFdwdIVm0", 
+          "type": "track", 
+          "id": "7IjyTIJ5dWtwrbFdwdIVm0", 
+          "uri": "spotify:track:7IjyTIJ5dWtwrbFdwdIVm0"
+        }, 
+        "name": "It's Easy to Remember", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0p6xR2DE4gzBSpRUKtCicj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f9254fc2eed898de94600550c97b34884d50c486", 
+        "is_playable": true, 
+        "uri": "spotify:track:0p6xR2DE4gzBSpRUKtCicj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0p6xR2DE4gzBSpRUKtCicj", 
+        "artists": [
+          {
+            "name": "Billie Holiday", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+            }, 
+            "uri": "spotify:artist:1YzCsTRb22dQkh9lghPIrp", 
+            "href": "https://api.spotify.com/v1/artists/1YzCsTRb22dQkh9lghPIrp", 
+            "type": "artist", 
+            "id": "1YzCsTRb22dQkh9lghPIrp"
+          }
+        ], 
+        "duration_ms": 241000, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "0p6xR2DE4gzBSpRUKtCicj"
+      }, 
+      {
+        "linked_from": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/0t2NhgJ1Cah2VDaLU04Rn7"
+          }, 
+          "href": "https://api.spotify.com/v1/tracks/0t2NhgJ1Cah2VDaLU04Rn7", 
+          "type": "track", 
+          "id": "0t2NhgJ1Cah2VDaLU04Rn7", 
+          "uri": "spotify:track:0t2NhgJ1Cah2VDaLU04Rn7"
+        }, 
+        "name": "But Beautiful", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0rJfFrIiyXPuV8rupxLQ7L"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/99fba3c96efc2abfbb44e6833077150c147f219e", 
+        "is_playable": true, 
+        "uri": "spotify:track:0rJfFrIiyXPuV8rupxLQ7L", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0rJfFrIiyXPuV8rupxLQ7L", 
+        "artists": [
+          {
+            "name": "Billie Holiday", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+            }, 
+            "uri": "spotify:artist:1YzCsTRb22dQkh9lghPIrp", 
+            "href": "https://api.spotify.com/v1/artists/1YzCsTRb22dQkh9lghPIrp", 
+            "type": "artist", 
+            "id": "1YzCsTRb22dQkh9lghPIrp"
+          }
+        ], 
+        "duration_ms": 269666, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "0rJfFrIiyXPuV8rupxLQ7L"
+      }, 
+      {
+        "linked_from": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/08qxOz0nXpHxkD5kqVwQRG"
+          }, 
+          "href": "https://api.spotify.com/v1/tracks/08qxOz0nXpHxkD5kqVwQRG", 
+          "type": "track", 
+          "id": "08qxOz0nXpHxkD5kqVwQRG", 
+          "uri": "spotify:track:08qxOz0nXpHxkD5kqVwQRG"
+        }, 
+        "name": "Glad to Be Unhappy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1fZYtlXO8D0U1D6av35fX2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/11e6c7147cca0065742da95b8a1d1ffa47c08ac8", 
+        "is_playable": true, 
+        "uri": "spotify:track:1fZYtlXO8D0U1D6av35fX2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1fZYtlXO8D0U1D6av35fX2", 
+        "artists": [
+          {
+            "name": "Billie Holiday", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+            }, 
+            "uri": "spotify:artist:1YzCsTRb22dQkh9lghPIrp", 
+            "href": "https://api.spotify.com/v1/artists/1YzCsTRb22dQkh9lghPIrp", 
+            "type": "artist", 
+            "id": "1YzCsTRb22dQkh9lghPIrp"
+          }
+        ], 
+        "duration_ms": 247573, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "1fZYtlXO8D0U1D6av35fX2"
+      }, 
+      {
+        "linked_from": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/0Vl46YP3QW4emsMF2y0q9M"
+          }, 
+          "href": "https://api.spotify.com/v1/tracks/0Vl46YP3QW4emsMF2y0q9M", 
+          "type": "track", 
+          "id": "0Vl46YP3QW4emsMF2y0q9M", 
+          "uri": "spotify:track:0Vl46YP3QW4emsMF2y0q9M"
+        }, 
+        "name": "I'll Be Around", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6GZ5nhCIXQXgF6AESAbXHO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a46d25a319292a5f6616606c6e6d515353907eb7", 
+        "is_playable": true, 
+        "uri": "spotify:track:6GZ5nhCIXQXgF6AESAbXHO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6GZ5nhCIXQXgF6AESAbXHO", 
+        "artists": [
+          {
+            "name": "Billie Holiday", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+            }, 
+            "uri": "spotify:artist:1YzCsTRb22dQkh9lghPIrp", 
+            "href": "https://api.spotify.com/v1/artists/1YzCsTRb22dQkh9lghPIrp", 
+            "type": "artist", 
+            "id": "1YzCsTRb22dQkh9lghPIrp"
+          }
+        ], 
+        "duration_ms": 202960, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "6GZ5nhCIXQXgF6AESAbXHO"
+      }, 
+      {
+        "linked_from": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3cG6iIQirGmNpyUcRSo1Nm"
+          }, 
+          "href": "https://api.spotify.com/v1/tracks/3cG6iIQirGmNpyUcRSo1Nm", 
+          "type": "track", 
+          "id": "3cG6iIQirGmNpyUcRSo1Nm", 
+          "uri": "spotify:track:3cG6iIQirGmNpyUcRSo1Nm"
+        }, 
+        "name": "The End of a Love Affair - Mono Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1OJxOax5n1b1IucFJJjPoM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b1fa724bbd57edaa93369a7254827ce6f4c6f4db", 
+        "is_playable": true, 
+        "uri": "spotify:track:1OJxOax5n1b1IucFJJjPoM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1OJxOax5n1b1IucFJJjPoM", 
+        "artists": [
+          {
+            "name": "Billie Holiday", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+            }, 
+            "uri": "spotify:artist:1YzCsTRb22dQkh9lghPIrp", 
+            "href": "https://api.spotify.com/v1/artists/1YzCsTRb22dQkh9lghPIrp", 
+            "type": "artist", 
+            "id": "1YzCsTRb22dQkh9lghPIrp"
+          }
+        ], 
+        "duration_ms": 287960, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "1OJxOax5n1b1IucFJJjPoM"
+      }, 
+      {
+        "linked_from": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/1RISsoajMXWJ6U0RrnIVzr"
+          }, 
+          "href": "https://api.spotify.com/v1/tracks/1RISsoajMXWJ6U0RrnIVzr", 
+          "type": "track", 
+          "id": "1RISsoajMXWJ6U0RrnIVzr", 
+          "uri": "spotify:track:1RISsoajMXWJ6U0RrnIVzr"
+        }, 
+        "name": "I'm a Fool to Want You - Take 3 [Alternate]", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0JOgQ63lfbsif61D6BsEs9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0c0ec47a88fc45439cba98006a52afb2eed5a853", 
+        "is_playable": true, 
+        "uri": "spotify:track:0JOgQ63lfbsif61D6BsEs9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0JOgQ63lfbsif61D6BsEs9", 
+        "artists": [
+          {
+            "name": "Billie Holiday", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+            }, 
+            "uri": "spotify:artist:1YzCsTRb22dQkh9lghPIrp", 
+            "href": "https://api.spotify.com/v1/artists/1YzCsTRb22dQkh9lghPIrp", 
+            "type": "artist", 
+            "id": "1YzCsTRb22dQkh9lghPIrp"
+          }, 
+          {
+            "name": "Ray Ellis & His Orchestra", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3dbGVeXyDDMicb8wshAVyp"
+            }, 
+            "uri": "spotify:artist:3dbGVeXyDDMicb8wshAVyp", 
+            "href": "https://api.spotify.com/v1/artists/3dbGVeXyDDMicb8wshAVyp", 
+            "type": "artist", 
+            "id": "3dbGVeXyDDMicb8wshAVyp"
+          }
+        ], 
+        "duration_ms": 204066, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "0JOgQ63lfbsif61D6BsEs9"
+      }, 
+      {
+        "linked_from": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/165tdA00x33fv1LPMSuPsm"
+          }, 
+          "href": "https://api.spotify.com/v1/tracks/165tdA00x33fv1LPMSuPsm", 
+          "type": "track", 
+          "id": "165tdA00x33fv1LPMSuPsm", 
+          "uri": "spotify:track:165tdA00x33fv1LPMSuPsm"
+        }, 
+        "name": "I'm a Fool to Want You - Take 2 [Alternate]", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6x8knwiibKcgx7gs3zmifC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e98f79575fb7b6c2bc6dccae3b0c80487093b417", 
+        "is_playable": true, 
+        "uri": "spotify:track:6x8knwiibKcgx7gs3zmifC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6x8knwiibKcgx7gs3zmifC", 
+        "artists": [
+          {
+            "name": "Billie Holiday", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+            }, 
+            "uri": "spotify:artist:1YzCsTRb22dQkh9lghPIrp", 
+            "href": "https://api.spotify.com/v1/artists/1YzCsTRb22dQkh9lghPIrp", 
+            "type": "artist", 
+            "id": "1YzCsTRb22dQkh9lghPIrp"
+          }, 
+          {
+            "name": "Ray Ellis & His Orchestra", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3dbGVeXyDDMicb8wshAVyp"
+            }, 
+            "uri": "spotify:artist:3dbGVeXyDDMicb8wshAVyp", 
+            "href": "https://api.spotify.com/v1/artists/3dbGVeXyDDMicb8wshAVyp", 
+            "type": "artist", 
+            "id": "3dbGVeXyDDMicb8wshAVyp"
+          }
+        ], 
+        "duration_ms": 203733, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "6x8knwiibKcgx7gs3zmifC"
+      }, 
+      {
+        "linked_from": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/5dvhEWE5RanV0YtRhFX6tc"
+          }, 
+          "href": "https://api.spotify.com/v1/tracks/5dvhEWE5RanV0YtRhFX6tc", 
+          "type": "track", 
+          "id": "5dvhEWE5RanV0YtRhFX6tc", 
+          "uri": "spotify:track:5dvhEWE5RanV0YtRhFX6tc"
+        }, 
+        "name": "The End of a Love Affair - The Audio Story", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1yskAERZRdADOcsGzfuqQd"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/30c5602e7115e8a2e92dc6bc5d387877ad5c3e99", 
+        "is_playable": true, 
+        "uri": "spotify:track:1yskAERZRdADOcsGzfuqQd", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1yskAERZRdADOcsGzfuqQd", 
+        "artists": [
+          {
+            "name": "Billie Holiday", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+            }, 
+            "uri": "spotify:artist:1YzCsTRb22dQkh9lghPIrp", 
+            "href": "https://api.spotify.com/v1/artists/1YzCsTRb22dQkh9lghPIrp", 
+            "type": "artist", 
+            "id": "1YzCsTRb22dQkh9lghPIrp"
+          }
+        ], 
+        "duration_ms": 589293, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "1yskAERZRdADOcsGzfuqQd"
+      }, 
+      {
+        "linked_from": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/5JwQCQmevkNMxV3mXEFLiB"
+          }, 
+          "href": "https://api.spotify.com/v1/tracks/5JwQCQmevkNMxV3mXEFLiB", 
+          "type": "track", 
+          "id": "5JwQCQmevkNMxV3mXEFLiB", 
+          "uri": "spotify:track:5JwQCQmevkNMxV3mXEFLiB"
+        }, 
+        "name": "The End of a Love Affair", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6hbA9QivlqdZypnk2wIjRJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9c8654ef38ec51e93558cf1c0db7ab6578f63828", 
+        "is_playable": true, 
+        "uri": "spotify:track:6hbA9QivlqdZypnk2wIjRJ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6hbA9QivlqdZypnk2wIjRJ", 
+        "artists": [
+          {
+            "name": "Billie Holiday", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+            }, 
+            "uri": "spotify:artist:1YzCsTRb22dQkh9lghPIrp", 
+            "href": "https://api.spotify.com/v1/artists/1YzCsTRb22dQkh9lghPIrp", 
+            "type": "artist", 
+            "id": "1YzCsTRb22dQkh9lghPIrp"
+          }
+        ], 
+        "duration_ms": 286373, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "6hbA9QivlqdZypnk2wIjRJ"
+      }, 
+      {
+        "linked_from": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/5wDGa1KPrYpb5znO2MtqpH"
+          }, 
+          "href": "https://api.spotify.com/v1/tracks/5wDGa1KPrYpb5znO2MtqpH", 
+          "type": "track", 
+          "id": "5wDGa1KPrYpb5znO2MtqpH", 
+          "uri": "spotify:track:5wDGa1KPrYpb5znO2MtqpH"
+        }, 
+        "name": "Pause Track", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/443c2vBZas7KEVHxsK43L6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ad623c37766659fe982588434c4a38c5053a48e9", 
+        "is_playable": true, 
+        "uri": "spotify:track:443c2vBZas7KEVHxsK43L6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/443c2vBZas7KEVHxsK43L6", 
+        "artists": [
+          {
+            "name": "Billie Holiday", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+            }, 
+            "uri": "spotify:artist:1YzCsTRb22dQkh9lghPIrp", 
+            "href": "https://api.spotify.com/v1/artists/1YzCsTRb22dQkh9lghPIrp", 
+            "type": "artist", 
+            "id": "1YzCsTRb22dQkh9lghPIrp"
+          }
+        ], 
+        "duration_ms": 6594, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "443c2vBZas7KEVHxsK43L6"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/5myXQ7U373A3DMPtuaojcm/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 17, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/5myXQ7U373A3DMPtuaojcm", 
+  "copyrights": [
+    {
+      "text": "Originally recorded 1958, Originally released 1058 Sony Music Entertainment Inc. WARNING: All rights reserved. Unauthorized duplication is a violation of applicable laws.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Billie Holiday", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+      }, 
+      "uri": "spotify:artist:1YzCsTRb22dQkh9lghPIrp", 
+      "href": "https://api.spotify.com/v1/artists/1YzCsTRb22dQkh9lghPIrp", 
+      "type": "artist", 
+      "id": "1YzCsTRb22dQkh9lghPIrp"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/9b9f8bf2c9bb8f5bca90e9ab34be01f011941908", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/933d280f1a5283b896a00ee4d5055d1111269e46", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/d57023e00996820012ad0726070287dd063c46b5", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "886443373518"
+  }, 
+  "type": "album", 
+  "id": "5myXQ7U373A3DMPtuaojcm", 
+  "name": "Lady In Satin"
+}

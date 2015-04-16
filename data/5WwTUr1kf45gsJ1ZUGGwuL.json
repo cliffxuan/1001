@@ -1,0 +1,431 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5WwTUr1kf45gsJ1ZUGGwuL"
+  }, 
+  "release_date": "1997", 
+  "popularity": 36, 
+  "genres": [], 
+  "uri": "spotify:album:5WwTUr1kf45gsJ1ZUGGwuL", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Dig Me Out", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7zu3y0YRx0s5H5AIF8ULVJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7da26adc9c9da49aee68d894e9bcda22efb4a9d6", 
+        "is_playable": true, 
+        "uri": "spotify:track:7zu3y0YRx0s5H5AIF8ULVJ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7zu3y0YRx0s5H5AIF8ULVJ", 
+        "artists": [
+          {
+            "name": "Sleater-Kinney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+            }, 
+            "uri": "spotify:artist:4wLIbcoqmqI4WZHDiBxeCB", 
+            "href": "https://api.spotify.com/v1/artists/4wLIbcoqmqI4WZHDiBxeCB", 
+            "type": "artist", 
+            "id": "4wLIbcoqmqI4WZHDiBxeCB"
+          }
+        ], 
+        "duration_ms": 160920, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "7zu3y0YRx0s5H5AIF8ULVJ"
+      }, 
+      {
+        "name": "One More Hour", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/10ghLwVZQlOU4FznhC96a1"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8676419e52b079b825ab678897cc40dd7a04ea22", 
+        "is_playable": true, 
+        "uri": "spotify:track:10ghLwVZQlOU4FznhC96a1", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/10ghLwVZQlOU4FznhC96a1", 
+        "artists": [
+          {
+            "name": "Sleater-Kinney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+            }, 
+            "uri": "spotify:artist:4wLIbcoqmqI4WZHDiBxeCB", 
+            "href": "https://api.spotify.com/v1/artists/4wLIbcoqmqI4WZHDiBxeCB", 
+            "type": "artist", 
+            "id": "4wLIbcoqmqI4WZHDiBxeCB"
+          }
+        ], 
+        "duration_ms": 199693, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "10ghLwVZQlOU4FznhC96a1"
+      }, 
+      {
+        "name": "Turn It On", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6ETsMbCcSxXLjqYsOXlOf7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b77f35a20215be6952496e22895c2f9e2c6ce290", 
+        "is_playable": true, 
+        "uri": "spotify:track:6ETsMbCcSxXLjqYsOXlOf7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6ETsMbCcSxXLjqYsOXlOf7", 
+        "artists": [
+          {
+            "name": "Sleater-Kinney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+            }, 
+            "uri": "spotify:artist:4wLIbcoqmqI4WZHDiBxeCB", 
+            "href": "https://api.spotify.com/v1/artists/4wLIbcoqmqI4WZHDiBxeCB", 
+            "type": "artist", 
+            "id": "4wLIbcoqmqI4WZHDiBxeCB"
+          }
+        ], 
+        "duration_ms": 167960, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "6ETsMbCcSxXLjqYsOXlOf7"
+      }, 
+      {
+        "name": "The Drama You've Been Craving", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/14eORg8Wde1v8ZcOpKxFyr"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7bb07da0cce5d82ef74192d1d9b15d012dff41fc", 
+        "is_playable": true, 
+        "uri": "spotify:track:14eORg8Wde1v8ZcOpKxFyr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/14eORg8Wde1v8ZcOpKxFyr", 
+        "artists": [
+          {
+            "name": "Sleater-Kinney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+            }, 
+            "uri": "spotify:artist:4wLIbcoqmqI4WZHDiBxeCB", 
+            "href": "https://api.spotify.com/v1/artists/4wLIbcoqmqI4WZHDiBxeCB", 
+            "type": "artist", 
+            "id": "4wLIbcoqmqI4WZHDiBxeCB"
+          }
+        ], 
+        "duration_ms": 128120, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "14eORg8Wde1v8ZcOpKxFyr"
+      }, 
+      {
+        "name": "Heart Factory", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3c4Dtssf4Rl6O47ztiUFZZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f3cf2276b3ca16920cd850318d627a5b46242726", 
+        "is_playable": true, 
+        "uri": "spotify:track:3c4Dtssf4Rl6O47ztiUFZZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3c4Dtssf4Rl6O47ztiUFZZ", 
+        "artists": [
+          {
+            "name": "Sleater-Kinney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+            }, 
+            "uri": "spotify:artist:4wLIbcoqmqI4WZHDiBxeCB", 
+            "href": "https://api.spotify.com/v1/artists/4wLIbcoqmqI4WZHDiBxeCB", 
+            "type": "artist", 
+            "id": "4wLIbcoqmqI4WZHDiBxeCB"
+          }
+        ], 
+        "duration_ms": 234786, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "3c4Dtssf4Rl6O47ztiUFZZ"
+      }, 
+      {
+        "name": "Words and Guitar", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3hC8jGUcil4rtXGPZCtOpc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3bf24e6c729e955bb92cfcb8f61ac6e224e8ea9c", 
+        "is_playable": true, 
+        "uri": "spotify:track:3hC8jGUcil4rtXGPZCtOpc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3hC8jGUcil4rtXGPZCtOpc", 
+        "artists": [
+          {
+            "name": "Sleater-Kinney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+            }, 
+            "uri": "spotify:artist:4wLIbcoqmqI4WZHDiBxeCB", 
+            "href": "https://api.spotify.com/v1/artists/4wLIbcoqmqI4WZHDiBxeCB", 
+            "type": "artist", 
+            "id": "4wLIbcoqmqI4WZHDiBxeCB"
+          }
+        ], 
+        "duration_ms": 141386, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "3hC8jGUcil4rtXGPZCtOpc"
+      }, 
+      {
+        "name": "It's Enough", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1xssrNfjy55V3NrI7KfDNP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5c258dcfb4f51eba19093d5b6573d94b3f92f073", 
+        "is_playable": true, 
+        "uri": "spotify:track:1xssrNfjy55V3NrI7KfDNP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1xssrNfjy55V3NrI7KfDNP", 
+        "artists": [
+          {
+            "name": "Sleater-Kinney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+            }, 
+            "uri": "spotify:artist:4wLIbcoqmqI4WZHDiBxeCB", 
+            "href": "https://api.spotify.com/v1/artists/4wLIbcoqmqI4WZHDiBxeCB", 
+            "type": "artist", 
+            "id": "4wLIbcoqmqI4WZHDiBxeCB"
+          }
+        ], 
+        "duration_ms": 106600, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "1xssrNfjy55V3NrI7KfDNP"
+      }, 
+      {
+        "name": "Little Babies", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2asqz0tDDMJyTsZbF01SXz"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a12b81c274b7bc393bcd0446aaaf256e5d819960", 
+        "is_playable": true, 
+        "uri": "spotify:track:2asqz0tDDMJyTsZbF01SXz", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2asqz0tDDMJyTsZbF01SXz", 
+        "artists": [
+          {
+            "name": "Sleater-Kinney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+            }, 
+            "uri": "spotify:artist:4wLIbcoqmqI4WZHDiBxeCB", 
+            "href": "https://api.spotify.com/v1/artists/4wLIbcoqmqI4WZHDiBxeCB", 
+            "type": "artist", 
+            "id": "4wLIbcoqmqI4WZHDiBxeCB"
+          }
+        ], 
+        "duration_ms": 143026, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "2asqz0tDDMJyTsZbF01SXz"
+      }, 
+      {
+        "name": "Not What You Want", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5JcDQbEzk41vqyKqOi9Fjj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2259aa00535bfd0207b2b7bd7b8180d4c87948b9", 
+        "is_playable": true, 
+        "uri": "spotify:track:5JcDQbEzk41vqyKqOi9Fjj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5JcDQbEzk41vqyKqOi9Fjj", 
+        "artists": [
+          {
+            "name": "Sleater-Kinney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+            }, 
+            "uri": "spotify:artist:4wLIbcoqmqI4WZHDiBxeCB", 
+            "href": "https://api.spotify.com/v1/artists/4wLIbcoqmqI4WZHDiBxeCB", 
+            "type": "artist", 
+            "id": "4wLIbcoqmqI4WZHDiBxeCB"
+          }
+        ], 
+        "duration_ms": 197346, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "5JcDQbEzk41vqyKqOi9Fjj"
+      }, 
+      {
+        "name": "Buy Her Candy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7kLU0rHQEM0sgR4TAJbGaB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/92802662841bf0027143b1e42dab8f15737f6816", 
+        "is_playable": true, 
+        "uri": "spotify:track:7kLU0rHQEM0sgR4TAJbGaB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7kLU0rHQEM0sgR4TAJbGaB", 
+        "artists": [
+          {
+            "name": "Sleater-Kinney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+            }, 
+            "uri": "spotify:artist:4wLIbcoqmqI4WZHDiBxeCB", 
+            "href": "https://api.spotify.com/v1/artists/4wLIbcoqmqI4WZHDiBxeCB", 
+            "type": "artist", 
+            "id": "4wLIbcoqmqI4WZHDiBxeCB"
+          }
+        ], 
+        "duration_ms": 122893, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "7kLU0rHQEM0sgR4TAJbGaB"
+      }, 
+      {
+        "name": "Things You Say", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5atc8vinGXCG9zU9WjnTCk"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f7addc3b5509e326223732dde145623e4dadc347", 
+        "is_playable": true, 
+        "uri": "spotify:track:5atc8vinGXCG9zU9WjnTCk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5atc8vinGXCG9zU9WjnTCk", 
+        "artists": [
+          {
+            "name": "Sleater-Kinney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+            }, 
+            "uri": "spotify:artist:4wLIbcoqmqI4WZHDiBxeCB", 
+            "href": "https://api.spotify.com/v1/artists/4wLIbcoqmqI4WZHDiBxeCB", 
+            "type": "artist", 
+            "id": "4wLIbcoqmqI4WZHDiBxeCB"
+          }
+        ], 
+        "duration_ms": 176906, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "5atc8vinGXCG9zU9WjnTCk"
+      }, 
+      {
+        "name": "Dance Song '97", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4xrF0Hjs8aTJsAcVMU781x"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c41a60639a3b303d09bdd1cad68b2e8b41f16cff", 
+        "is_playable": true, 
+        "uri": "spotify:track:4xrF0Hjs8aTJsAcVMU781x", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4xrF0Hjs8aTJsAcVMU781x", 
+        "artists": [
+          {
+            "name": "Sleater-Kinney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+            }, 
+            "uri": "spotify:artist:4wLIbcoqmqI4WZHDiBxeCB", 
+            "href": "https://api.spotify.com/v1/artists/4wLIbcoqmqI4WZHDiBxeCB", 
+            "type": "artist", 
+            "id": "4wLIbcoqmqI4WZHDiBxeCB"
+          }
+        ], 
+        "duration_ms": 169893, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "4xrF0Hjs8aTJsAcVMU781x"
+      }, 
+      {
+        "name": "Jenny", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3n7dRihJhp1BXwJVLwHuGx"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4004fea099571ea146bf458b9cac6440ab5a8141", 
+        "is_playable": true, 
+        "uri": "spotify:track:3n7dRihJhp1BXwJVLwHuGx", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3n7dRihJhp1BXwJVLwHuGx", 
+        "artists": [
+          {
+            "name": "Sleater-Kinney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+            }, 
+            "uri": "spotify:artist:4wLIbcoqmqI4WZHDiBxeCB", 
+            "href": "https://api.spotify.com/v1/artists/4wLIbcoqmqI4WZHDiBxeCB", 
+            "type": "artist", 
+            "id": "4wLIbcoqmqI4WZHDiBxeCB"
+          }
+        ], 
+        "duration_ms": 245120, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "3n7dRihJhp1BXwJVLwHuGx"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/5WwTUr1kf45gsJ1ZUGGwuL/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 13, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/5WwTUr1kf45gsJ1ZUGGwuL", 
+  "copyrights": [
+    {
+      "text": "2014 Sub Pop Records", 
+      "type": "C"
+    }, 
+    {
+      "text": "2014 Sub Pop Records", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Sleater-Kinney", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+      }, 
+      "uri": "spotify:artist:4wLIbcoqmqI4WZHDiBxeCB", 
+      "href": "https://api.spotify.com/v1/artists/4wLIbcoqmqI4WZHDiBxeCB", 
+      "type": "artist", 
+      "id": "4wLIbcoqmqI4WZHDiBxeCB"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/2efa1fa376255ec22508a0c08662e58bf52f51bd", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/0786b2d241dc45b7cac735007fdff8a8f096fbe0", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/dc6786965446542941e42300c87c83066aab809a", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "0098787110562"
+  }, 
+  "type": "album", 
+  "id": "5WwTUr1kf45gsJ1ZUGGwuL", 
+  "name": "Dig Me Out (Remastered)"
+}

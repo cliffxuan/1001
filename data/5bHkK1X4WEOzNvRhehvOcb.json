@@ -1,0 +1,347 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb"
+  }, 
+  "release_date": "1970-03-11", 
+  "popularity": 60, 
+  "genres": [], 
+  "uri": "spotify:album:5bHkK1X4WEOzNvRhehvOcb", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Carry On", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4bjvLvKovcWqZwDbXT5QQX"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ab7d1e1be69df5fcb0375877b5720b887dcffab6", 
+        "is_playable": true, 
+        "uri": "spotify:track:4bjvLvKovcWqZwDbXT5QQX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4bjvLvKovcWqZwDbXT5QQX", 
+        "artists": [
+          {
+            "name": "Crosby, Stills, Nash & Young", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
+            }, 
+            "uri": "spotify:artist:1CYsQCypByMVgnv17qsSbQ", 
+            "href": "https://api.spotify.com/v1/artists/1CYsQCypByMVgnv17qsSbQ", 
+            "type": "artist", 
+            "id": "1CYsQCypByMVgnv17qsSbQ"
+          }
+        ], 
+        "duration_ms": 265933, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "4bjvLvKovcWqZwDbXT5QQX"
+      }, 
+      {
+        "name": "Teach Your Children", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/29HaKOpeLSYvqdFyEQSRdj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c5ae413ac49adc15a6f6a4512f90137c48c43bfc", 
+        "is_playable": true, 
+        "uri": "spotify:track:29HaKOpeLSYvqdFyEQSRdj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/29HaKOpeLSYvqdFyEQSRdj", 
+        "artists": [
+          {
+            "name": "Crosby, Stills, Nash & Young", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
+            }, 
+            "uri": "spotify:artist:1CYsQCypByMVgnv17qsSbQ", 
+            "href": "https://api.spotify.com/v1/artists/1CYsQCypByMVgnv17qsSbQ", 
+            "type": "artist", 
+            "id": "1CYsQCypByMVgnv17qsSbQ"
+          }
+        ], 
+        "duration_ms": 173466, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "29HaKOpeLSYvqdFyEQSRdj"
+      }, 
+      {
+        "name": "Almost Cut My Hair", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0gCJkpD0RhF2rjiALLHBQL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/53dab1880edd4e31e6d8f0aa0e72971a5ddd055a", 
+        "is_playable": true, 
+        "uri": "spotify:track:0gCJkpD0RhF2rjiALLHBQL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0gCJkpD0RhF2rjiALLHBQL", 
+        "artists": [
+          {
+            "name": "Crosby, Stills, Nash & Young", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
+            }, 
+            "uri": "spotify:artist:1CYsQCypByMVgnv17qsSbQ", 
+            "href": "https://api.spotify.com/v1/artists/1CYsQCypByMVgnv17qsSbQ", 
+            "type": "artist", 
+            "id": "1CYsQCypByMVgnv17qsSbQ"
+          }
+        ], 
+        "duration_ms": 269173, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "0gCJkpD0RhF2rjiALLHBQL"
+      }, 
+      {
+        "name": "Helpless", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3gQMqeXqiHFCafaTtFnHF8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9f539ea0330a3f94e353c5644c249a755e5eb7c4", 
+        "is_playable": true, 
+        "uri": "spotify:track:3gQMqeXqiHFCafaTtFnHF8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3gQMqeXqiHFCafaTtFnHF8", 
+        "artists": [
+          {
+            "name": "Crosby, Stills, Nash & Young", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
+            }, 
+            "uri": "spotify:artist:1CYsQCypByMVgnv17qsSbQ", 
+            "href": "https://api.spotify.com/v1/artists/1CYsQCypByMVgnv17qsSbQ", 
+            "type": "artist", 
+            "id": "1CYsQCypByMVgnv17qsSbQ"
+          }
+        ], 
+        "duration_ms": 217133, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "3gQMqeXqiHFCafaTtFnHF8"
+      }, 
+      {
+        "name": "Woodstock", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2iqKVzMZpyUVPwxIVaQkhm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c4140922eabda0f8c060e979f399ee676f4fc45a", 
+        "is_playable": true, 
+        "uri": "spotify:track:2iqKVzMZpyUVPwxIVaQkhm", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2iqKVzMZpyUVPwxIVaQkhm", 
+        "artists": [
+          {
+            "name": "Crosby, Stills, Nash & Young", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
+            }, 
+            "uri": "spotify:artist:1CYsQCypByMVgnv17qsSbQ", 
+            "href": "https://api.spotify.com/v1/artists/1CYsQCypByMVgnv17qsSbQ", 
+            "type": "artist", 
+            "id": "1CYsQCypByMVgnv17qsSbQ"
+          }
+        ], 
+        "duration_ms": 233773, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "2iqKVzMZpyUVPwxIVaQkhm"
+      }, 
+      {
+        "name": "Deja Vu", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3O4VF8UYD6CCuhj6d4TQPa"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/068889fd5b6e51b3063670c563bfb284ed637079", 
+        "is_playable": true, 
+        "uri": "spotify:track:3O4VF8UYD6CCuhj6d4TQPa", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3O4VF8UYD6CCuhj6d4TQPa", 
+        "artists": [
+          {
+            "name": "Crosby, Stills, Nash & Young", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
+            }, 
+            "uri": "spotify:artist:1CYsQCypByMVgnv17qsSbQ", 
+            "href": "https://api.spotify.com/v1/artists/1CYsQCypByMVgnv17qsSbQ", 
+            "type": "artist", 
+            "id": "1CYsQCypByMVgnv17qsSbQ"
+          }
+        ], 
+        "duration_ms": 252373, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "3O4VF8UYD6CCuhj6d4TQPa"
+      }, 
+      {
+        "name": "Our House", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e8ab36788b5ae76a70763786fec6747495ab11fe", 
+        "is_playable": true, 
+        "uri": "spotify:track:2hitsKa8SthKhRJBXUHbIv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2hitsKa8SthKhRJBXUHbIv", 
+        "artists": [
+          {
+            "name": "Crosby, Stills, Nash & Young", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
+            }, 
+            "uri": "spotify:artist:1CYsQCypByMVgnv17qsSbQ", 
+            "href": "https://api.spotify.com/v1/artists/1CYsQCypByMVgnv17qsSbQ", 
+            "type": "artist", 
+            "id": "1CYsQCypByMVgnv17qsSbQ"
+          }
+        ], 
+        "duration_ms": 179760, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "2hitsKa8SthKhRJBXUHbIv"
+      }, 
+      {
+        "name": "4 + 20", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2jZPEeW2ynykb2GkVqpOkJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/933a9d1e00282a40788d2ecd561ac535ab6cb465", 
+        "is_playable": true, 
+        "uri": "spotify:track:2jZPEeW2ynykb2GkVqpOkJ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2jZPEeW2ynykb2GkVqpOkJ", 
+        "artists": [
+          {
+            "name": "Crosby, Stills, Nash & Young", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
+            }, 
+            "uri": "spotify:artist:1CYsQCypByMVgnv17qsSbQ", 
+            "href": "https://api.spotify.com/v1/artists/1CYsQCypByMVgnv17qsSbQ", 
+            "type": "artist", 
+            "id": "1CYsQCypByMVgnv17qsSbQ"
+          }
+        ], 
+        "duration_ms": 126640, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "2jZPEeW2ynykb2GkVqpOkJ"
+      }, 
+      {
+        "name": "Country Girl: A. Whiskey Boot Hill. B. Down, Down, Down. C. \"Country Girl\" [I Think You're Pretty]", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6CCh5pP9RWnYhXK43t1nDC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/929d683da79c723b375bd101e3daba83d92ba25f", 
+        "is_playable": true, 
+        "uri": "spotify:track:6CCh5pP9RWnYhXK43t1nDC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6CCh5pP9RWnYhXK43t1nDC", 
+        "artists": [
+          {
+            "name": "Crosby, Stills, Nash & Young", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
+            }, 
+            "uri": "spotify:artist:1CYsQCypByMVgnv17qsSbQ", 
+            "href": "https://api.spotify.com/v1/artists/1CYsQCypByMVgnv17qsSbQ", 
+            "type": "artist", 
+            "id": "1CYsQCypByMVgnv17qsSbQ"
+          }
+        ], 
+        "duration_ms": 312133, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "6CCh5pP9RWnYhXK43t1nDC"
+      }, 
+      {
+        "name": "Everybody I Love You", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7ueMtBY5caVZM5FocVzOv7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/af03110ca4935fb0a558a1e9794fb9c1ad6c60f7", 
+        "is_playable": true, 
+        "uri": "spotify:track:7ueMtBY5caVZM5FocVzOv7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7ueMtBY5caVZM5FocVzOv7", 
+        "artists": [
+          {
+            "name": "Crosby, Stills, Nash & Young", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
+            }, 
+            "uri": "spotify:artist:1CYsQCypByMVgnv17qsSbQ", 
+            "href": "https://api.spotify.com/v1/artists/1CYsQCypByMVgnv17qsSbQ", 
+            "type": "artist", 
+            "id": "1CYsQCypByMVgnv17qsSbQ"
+          }
+        ], 
+        "duration_ms": 142000, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "7ueMtBY5caVZM5FocVzOv7"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/5bHkK1X4WEOzNvRhehvOcb/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 10, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/5bHkK1X4WEOzNvRhehvOcb", 
+  "copyrights": [
+    {
+      "text": "1970 Atlantic Recording Corp.", 
+      "type": "C"
+    }, 
+    {
+      "text": "1970 Atlantic Recording Corp. Marketed by Rhino Entertainment Company, a Warner Music Group Company.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Crosby, Stills, Nash & Young", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
+      }, 
+      "uri": "spotify:artist:1CYsQCypByMVgnv17qsSbQ", 
+      "href": "https://api.spotify.com/v1/artists/1CYsQCypByMVgnv17qsSbQ", 
+      "type": "artist", 
+      "id": "1CYsQCypByMVgnv17qsSbQ"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/b638399efc890caafb91e70a6a4fe3466b9b3ada", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/1287b3b9201fc5ed8c51101dbeb0326a450671ec", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/b6f2b1fb09286e01df1176456be0b3739baa238c", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "603497968329"
+  }, 
+  "type": "album", 
+  "id": "5bHkK1X4WEOzNvRhehvOcb", 
+  "name": "Deja Vu"
+}

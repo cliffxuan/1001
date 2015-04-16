@@ -1,0 +1,347 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3QKOefqeoWmK67Fv6ToyJa"
+  }, 
+  "release_date": "1990-10-22", 
+  "popularity": 36, 
+  "genres": [], 
+  "uri": "spotify:album:3QKOefqeoWmK67Fv6ToyJa", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Being Boring - 2001 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7kRTqmUvzYouDvG3aqulyt"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3203f23f1d97aaeef1d58adb0a7399a0216ecb29", 
+        "is_playable": true, 
+        "uri": "spotify:track:7kRTqmUvzYouDvG3aqulyt", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7kRTqmUvzYouDvG3aqulyt", 
+        "artists": [
+          {
+            "name": "Pet Shop Boys", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+            }, 
+            "uri": "spotify:artist:2ycnb8Er79LoH2AsR5ldjh", 
+            "href": "https://api.spotify.com/v1/artists/2ycnb8Er79LoH2AsR5ldjh", 
+            "type": "artist", 
+            "id": "2ycnb8Er79LoH2AsR5ldjh"
+          }
+        ], 
+        "duration_ms": 291253, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "7kRTqmUvzYouDvG3aqulyt"
+      }, 
+      {
+        "name": "This Must Be The Place I Waited Years To Leave - 2001 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/559mgp8lm4y0k6vG8QbZr1"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b3dc4e707d2f8eea8381854271fd3b9a600a4c74", 
+        "is_playable": true, 
+        "uri": "spotify:track:559mgp8lm4y0k6vG8QbZr1", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/559mgp8lm4y0k6vG8QbZr1", 
+        "artists": [
+          {
+            "name": "Pet Shop Boys", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+            }, 
+            "uri": "spotify:artist:2ycnb8Er79LoH2AsR5ldjh", 
+            "href": "https://api.spotify.com/v1/artists/2ycnb8Er79LoH2AsR5ldjh", 
+            "type": "artist", 
+            "id": "2ycnb8Er79LoH2AsR5ldjh"
+          }
+        ], 
+        "duration_ms": 331666, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "559mgp8lm4y0k6vG8QbZr1"
+      }, 
+      {
+        "name": "To Face The Truth - 2001 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5vIMBKxGQ9XcRxhLXhuBZY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c78699496065645d96bc20e3070f61d4601822b3", 
+        "is_playable": true, 
+        "uri": "spotify:track:5vIMBKxGQ9XcRxhLXhuBZY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5vIMBKxGQ9XcRxhLXhuBZY", 
+        "artists": [
+          {
+            "name": "Pet Shop Boys", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+            }, 
+            "uri": "spotify:artist:2ycnb8Er79LoH2AsR5ldjh", 
+            "href": "https://api.spotify.com/v1/artists/2ycnb8Er79LoH2AsR5ldjh", 
+            "type": "artist", 
+            "id": "2ycnb8Er79LoH2AsR5ldjh"
+          }
+        ], 
+        "duration_ms": 332933, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "5vIMBKxGQ9XcRxhLXhuBZY"
+      }, 
+      {
+        "name": "How Can You Expect To Be Taken Seriously? - 2001 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3C6TTZME3BJS6TM1t7qbW5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a70eed55b34d371468dd81a55913c0bdf786ad3d", 
+        "is_playable": true, 
+        "uri": "spotify:track:3C6TTZME3BJS6TM1t7qbW5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3C6TTZME3BJS6TM1t7qbW5", 
+        "artists": [
+          {
+            "name": "Pet Shop Boys", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+            }, 
+            "uri": "spotify:artist:2ycnb8Er79LoH2AsR5ldjh", 
+            "href": "https://api.spotify.com/v1/artists/2ycnb8Er79LoH2AsR5ldjh", 
+            "type": "artist", 
+            "id": "2ycnb8Er79LoH2AsR5ldjh"
+          }
+        ], 
+        "duration_ms": 236200, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "3C6TTZME3BJS6TM1t7qbW5"
+      }, 
+      {
+        "name": "Only The Wind - 2001 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1JlYU8ot61uWpuQW3XnZ1i"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/993ad41180272d39f5b978a58a828dff7e31dc5e", 
+        "is_playable": true, 
+        "uri": "spotify:track:1JlYU8ot61uWpuQW3XnZ1i", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1JlYU8ot61uWpuQW3XnZ1i", 
+        "artists": [
+          {
+            "name": "Pet Shop Boys", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+            }, 
+            "uri": "spotify:artist:2ycnb8Er79LoH2AsR5ldjh", 
+            "href": "https://api.spotify.com/v1/artists/2ycnb8Er79LoH2AsR5ldjh", 
+            "type": "artist", 
+            "id": "2ycnb8Er79LoH2AsR5ldjh"
+          }
+        ], 
+        "duration_ms": 257959, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "1JlYU8ot61uWpuQW3XnZ1i"
+      }, 
+      {
+        "name": "My October Symphony - 2001 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4iiSJceq72BfoQuRb3gDim"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/df3ab05cafd26a6e9f126cbcc89c0d936347fdea", 
+        "is_playable": true, 
+        "uri": "spotify:track:4iiSJceq72BfoQuRb3gDim", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4iiSJceq72BfoQuRb3gDim", 
+        "artists": [
+          {
+            "name": "Pet Shop Boys", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+            }, 
+            "uri": "spotify:artist:2ycnb8Er79LoH2AsR5ldjh", 
+            "href": "https://api.spotify.com/v1/artists/2ycnb8Er79LoH2AsR5ldjh", 
+            "type": "artist", 
+            "id": "2ycnb8Er79LoH2AsR5ldjh"
+          }
+        ], 
+        "duration_ms": 318040, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "4iiSJceq72BfoQuRb3gDim"
+      }, 
+      {
+        "name": "So Hard - 2001 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3U7osntxVbaNZCgwYEzVEW"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4fb709f4820b0cbcabdfb382551b5b4934070577", 
+        "is_playable": true, 
+        "uri": "spotify:track:3U7osntxVbaNZCgwYEzVEW", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3U7osntxVbaNZCgwYEzVEW", 
+        "artists": [
+          {
+            "name": "Pet Shop Boys", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+            }, 
+            "uri": "spotify:artist:2ycnb8Er79LoH2AsR5ldjh", 
+            "href": "https://api.spotify.com/v1/artists/2ycnb8Er79LoH2AsR5ldjh", 
+            "type": "artist", 
+            "id": "2ycnb8Er79LoH2AsR5ldjh"
+          }
+        ], 
+        "duration_ms": 238826, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "3U7osntxVbaNZCgwYEzVEW"
+      }, 
+      {
+        "name": "Nervously - 2001 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1kL4Qz6lFMoURK5p7Dx6CC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b753850956021dce18590d8e78f7f7a452ee9c19", 
+        "is_playable": true, 
+        "uri": "spotify:track:1kL4Qz6lFMoURK5p7Dx6CC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1kL4Qz6lFMoURK5p7Dx6CC", 
+        "artists": [
+          {
+            "name": "Pet Shop Boys", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+            }, 
+            "uri": "spotify:artist:2ycnb8Er79LoH2AsR5ldjh", 
+            "href": "https://api.spotify.com/v1/artists/2ycnb8Er79LoH2AsR5ldjh", 
+            "type": "artist", 
+            "id": "2ycnb8Er79LoH2AsR5ldjh"
+          }
+        ], 
+        "duration_ms": 250866, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "1kL4Qz6lFMoURK5p7Dx6CC"
+      }, 
+      {
+        "name": "The End Of The World - 2001 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3UFVzSBitxBHV2fUqJGyDJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6d267c77307771d3eeb2038eff7687d5ca11403a", 
+        "is_playable": true, 
+        "uri": "spotify:track:3UFVzSBitxBHV2fUqJGyDJ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3UFVzSBitxBHV2fUqJGyDJ", 
+        "artists": [
+          {
+            "name": "Pet Shop Boys", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+            }, 
+            "uri": "spotify:artist:2ycnb8Er79LoH2AsR5ldjh", 
+            "href": "https://api.spotify.com/v1/artists/2ycnb8Er79LoH2AsR5ldjh", 
+            "type": "artist", 
+            "id": "2ycnb8Er79LoH2AsR5ldjh"
+          }
+        ], 
+        "duration_ms": 279533, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "3UFVzSBitxBHV2fUqJGyDJ"
+      }, 
+      {
+        "name": "Jealousy - 2001 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4zhwiyBKxQG5FbrvHaftgu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/11777eebbcc42bbbaf446f34b51b51159c58a6e8", 
+        "is_playable": true, 
+        "uri": "spotify:track:4zhwiyBKxQG5FbrvHaftgu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4zhwiyBKxQG5FbrvHaftgu", 
+        "artists": [
+          {
+            "name": "Pet Shop Boys", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+            }, 
+            "uri": "spotify:artist:2ycnb8Er79LoH2AsR5ldjh", 
+            "href": "https://api.spotify.com/v1/artists/2ycnb8Er79LoH2AsR5ldjh", 
+            "type": "artist", 
+            "id": "2ycnb8Er79LoH2AsR5ldjh"
+          }
+        ], 
+        "duration_ms": 289800, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "4zhwiyBKxQG5FbrvHaftgu"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/3QKOefqeoWmK67Fv6ToyJa/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 10, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/3QKOefqeoWmK67Fv6ToyJa", 
+  "copyrights": [
+    {
+      "text": "2009 Pet Shop Boys Partnership Ltd under exclusive licence to Parlophone Records Ltd. This label copy information is the subject of copyright protection. All rights reserved. (C) 2009 Parlophone Records Ltd", 
+      "type": "C"
+    }, 
+    {
+      "text": "2009 The copyright in this sound recording is owned by Pet Shop Boys Partnership Ltd under exclusive licence to Parlophone Records Ltd", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Pet Shop Boys", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+      }, 
+      "uri": "spotify:artist:2ycnb8Er79LoH2AsR5ldjh", 
+      "href": "https://api.spotify.com/v1/artists/2ycnb8Er79LoH2AsR5ldjh", 
+      "type": "artist", 
+      "id": "2ycnb8Er79LoH2AsR5ldjh"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/9c8c828189a0f16fbf647fd653940ef421af94fd", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/0e72ab3383ec90fbb50584697d559e117b222157", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/029094d4c65861703fd0c0e1366934c876a88737", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "5099969878855"
+  }, 
+  "type": "album", 
+  "id": "3QKOefqeoWmK67Fv6ToyJa", 
+  "name": "Behaviour"
+}

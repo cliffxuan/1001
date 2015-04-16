@@ -1,0 +1,487 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6WGsZo2Fqa4BfCG1Ml2JDp"
+  }, 
+  "release_date": "1997-09-08", 
+  "popularity": 34, 
+  "genres": [], 
+  "uri": "spotify:album:6WGsZo2Fqa4BfCG1Ml2JDp", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Sleep On The Left Side", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/652HaO0Us2Tz5Pm2n8egyk"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e608cb5007e1f6e3a2f27243d0ee516bb85700d5", 
+        "is_playable": true, 
+        "uri": "spotify:track:652HaO0Us2Tz5Pm2n8egyk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/652HaO0Us2Tz5Pm2n8egyk", 
+        "artists": [
+          {
+            "name": "Cornershop", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Kf7VEIRWquxrNIuyJZnfF"
+            }, 
+            "uri": "spotify:artist:3Kf7VEIRWquxrNIuyJZnfF", 
+            "href": "https://api.spotify.com/v1/artists/3Kf7VEIRWquxrNIuyJZnfF", 
+            "type": "artist", 
+            "id": "3Kf7VEIRWquxrNIuyJZnfF"
+          }
+        ], 
+        "duration_ms": 246160, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "652HaO0Us2Tz5Pm2n8egyk"
+      }, 
+      {
+        "name": "Brimful Of Asha", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5cDuEMa0P4gvLL9hEKUabg"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/41d6dd48a38225928e337baf48fce2504083877d", 
+        "is_playable": true, 
+        "uri": "spotify:track:5cDuEMa0P4gvLL9hEKUabg", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5cDuEMa0P4gvLL9hEKUabg", 
+        "artists": [
+          {
+            "name": "Cornershop", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Kf7VEIRWquxrNIuyJZnfF"
+            }, 
+            "uri": "spotify:artist:3Kf7VEIRWquxrNIuyJZnfF", 
+            "href": "https://api.spotify.com/v1/artists/3Kf7VEIRWquxrNIuyJZnfF", 
+            "type": "artist", 
+            "id": "3Kf7VEIRWquxrNIuyJZnfF"
+          }
+        ], 
+        "duration_ms": 316800, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "5cDuEMa0P4gvLL9hEKUabg"
+      }, 
+      {
+        "name": "Butter The Soul", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2vq5ka70hcZ5QIypsmx9kU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0368c682295c790695e3b1a1d4ba74d767218409", 
+        "is_playable": true, 
+        "uri": "spotify:track:2vq5ka70hcZ5QIypsmx9kU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2vq5ka70hcZ5QIypsmx9kU", 
+        "artists": [
+          {
+            "name": "Cornershop", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Kf7VEIRWquxrNIuyJZnfF"
+            }, 
+            "uri": "spotify:artist:3Kf7VEIRWquxrNIuyJZnfF", 
+            "href": "https://api.spotify.com/v1/artists/3Kf7VEIRWquxrNIuyJZnfF", 
+            "type": "artist", 
+            "id": "3Kf7VEIRWquxrNIuyJZnfF"
+          }
+        ], 
+        "duration_ms": 199200, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "2vq5ka70hcZ5QIypsmx9kU"
+      }, 
+      {
+        "name": "Chocolat", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0HRxP8ekqzYPs3CSJkbbHG"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/56a7cfd2257067ec4e2c6fe5c2e45cdb204d904b", 
+        "is_playable": true, 
+        "uri": "spotify:track:0HRxP8ekqzYPs3CSJkbbHG", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0HRxP8ekqzYPs3CSJkbbHG", 
+        "artists": [
+          {
+            "name": "Cornershop", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Kf7VEIRWquxrNIuyJZnfF"
+            }, 
+            "uri": "spotify:artist:3Kf7VEIRWquxrNIuyJZnfF", 
+            "href": "https://api.spotify.com/v1/artists/3Kf7VEIRWquxrNIuyJZnfF", 
+            "type": "artist", 
+            "id": "3Kf7VEIRWquxrNIuyJZnfF"
+          }
+        ], 
+        "duration_ms": 84706, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "0HRxP8ekqzYPs3CSJkbbHG"
+      }, 
+      {
+        "name": "We're In Your Corner", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Q7KiTrWTwu44RCQZTYbO3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b3a9767e0674c2f6a0298261de5ef7a721c0f800", 
+        "is_playable": true, 
+        "uri": "spotify:track:5Q7KiTrWTwu44RCQZTYbO3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5Q7KiTrWTwu44RCQZTYbO3", 
+        "artists": [
+          {
+            "name": "Cornershop", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Kf7VEIRWquxrNIuyJZnfF"
+            }, 
+            "uri": "spotify:artist:3Kf7VEIRWquxrNIuyJZnfF", 
+            "href": "https://api.spotify.com/v1/artists/3Kf7VEIRWquxrNIuyJZnfF", 
+            "type": "artist", 
+            "id": "3Kf7VEIRWquxrNIuyJZnfF"
+          }
+        ], 
+        "duration_ms": 347600, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "5Q7KiTrWTwu44RCQZTYbO3"
+      }, 
+      {
+        "name": "Funky Days Are Back Again", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0AoMsip4OyUu260xMpIwqS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ee82d1103e4dbcbc0da44704973fb6749d7abf53", 
+        "is_playable": true, 
+        "uri": "spotify:track:0AoMsip4OyUu260xMpIwqS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0AoMsip4OyUu260xMpIwqS", 
+        "artists": [
+          {
+            "name": "Cornershop", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Kf7VEIRWquxrNIuyJZnfF"
+            }, 
+            "uri": "spotify:artist:3Kf7VEIRWquxrNIuyJZnfF", 
+            "href": "https://api.spotify.com/v1/artists/3Kf7VEIRWquxrNIuyJZnfF", 
+            "type": "artist", 
+            "id": "3Kf7VEIRWquxrNIuyJZnfF"
+          }
+        ], 
+        "duration_ms": 220960, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "0AoMsip4OyUu260xMpIwqS"
+      }, 
+      {
+        "name": "What Is Happening?", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1zDprweopnfbJiEdTk2QHk"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a9488736794b17c30ffbc83e397b4259865d3369", 
+        "is_playable": true, 
+        "uri": "spotify:track:1zDprweopnfbJiEdTk2QHk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1zDprweopnfbJiEdTk2QHk", 
+        "artists": [
+          {
+            "name": "Cornershop", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Kf7VEIRWquxrNIuyJZnfF"
+            }, 
+            "uri": "spotify:artist:3Kf7VEIRWquxrNIuyJZnfF", 
+            "href": "https://api.spotify.com/v1/artists/3Kf7VEIRWquxrNIuyJZnfF", 
+            "type": "artist", 
+            "id": "3Kf7VEIRWquxrNIuyJZnfF"
+          }
+        ], 
+        "duration_ms": 135773, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "1zDprweopnfbJiEdTk2QHk"
+      }, 
+      {
+        "name": "When The Light Appears Boy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1T9ubsdbrnfnsLcbjDqepC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9389f89f549c9f2c8364f88e2d5660962647b77e", 
+        "is_playable": true, 
+        "uri": "spotify:track:1T9ubsdbrnfnsLcbjDqepC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1T9ubsdbrnfnsLcbjDqepC", 
+        "artists": [
+          {
+            "name": "Cornershop", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Kf7VEIRWquxrNIuyJZnfF"
+            }, 
+            "uri": "spotify:artist:3Kf7VEIRWquxrNIuyJZnfF", 
+            "href": "https://api.spotify.com/v1/artists/3Kf7VEIRWquxrNIuyJZnfF", 
+            "type": "artist", 
+            "id": "3Kf7VEIRWquxrNIuyJZnfF"
+          }
+        ], 
+        "duration_ms": 161160, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "1T9ubsdbrnfnsLcbjDqepC"
+      }, 
+      {
+        "name": "Coming Up", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/06ugSRejuWMQ1aoZH1cavU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e5fdd279c9d3070ac965e904297635a60fa92be7", 
+        "is_playable": true, 
+        "uri": "spotify:track:06ugSRejuWMQ1aoZH1cavU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/06ugSRejuWMQ1aoZH1cavU", 
+        "artists": [
+          {
+            "name": "Cornershop", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Kf7VEIRWquxrNIuyJZnfF"
+            }, 
+            "uri": "spotify:artist:3Kf7VEIRWquxrNIuyJZnfF", 
+            "href": "https://api.spotify.com/v1/artists/3Kf7VEIRWquxrNIuyJZnfF", 
+            "type": "artist", 
+            "id": "3Kf7VEIRWquxrNIuyJZnfF"
+          }
+        ], 
+        "duration_ms": 63640, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "06ugSRejuWMQ1aoZH1cavU"
+      }, 
+      {
+        "name": "Good Shit", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5s3IVxcfUGXCVQtVoZy9qq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e008e57363de6fbf67383a1d29bd33b7bfd65353", 
+        "is_playable": true, 
+        "uri": "spotify:track:5s3IVxcfUGXCVQtVoZy9qq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5s3IVxcfUGXCVQtVoZy9qq", 
+        "artists": [
+          {
+            "name": "Cornershop", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Kf7VEIRWquxrNIuyJZnfF"
+            }, 
+            "uri": "spotify:artist:3Kf7VEIRWquxrNIuyJZnfF", 
+            "href": "https://api.spotify.com/v1/artists/3Kf7VEIRWquxrNIuyJZnfF", 
+            "type": "artist", 
+            "id": "3Kf7VEIRWquxrNIuyJZnfF"
+          }
+        ], 
+        "duration_ms": 280933, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "5s3IVxcfUGXCVQtVoZy9qq"
+      }, 
+      {
+        "name": "Good To Be On The Road Back Home Again", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6est1Q03Q4hJLkrFilZ9gk"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2c0ce9090915f9afc8e7de1f1026e6be28aaaa45", 
+        "is_playable": true, 
+        "uri": "spotify:track:6est1Q03Q4hJLkrFilZ9gk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6est1Q03Q4hJLkrFilZ9gk", 
+        "artists": [
+          {
+            "name": "Cornershop", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Kf7VEIRWquxrNIuyJZnfF"
+            }, 
+            "uri": "spotify:artist:3Kf7VEIRWquxrNIuyJZnfF", 
+            "href": "https://api.spotify.com/v1/artists/3Kf7VEIRWquxrNIuyJZnfF", 
+            "type": "artist", 
+            "id": "3Kf7VEIRWquxrNIuyJZnfF"
+          }
+        ], 
+        "duration_ms": 345066, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "6est1Q03Q4hJLkrFilZ9gk"
+      }, 
+      {
+        "name": "It's Indian Tobacco My Friend", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6MY0Fhm6RdTEwT4OI87YVn"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2d116e19167bfcce58f38b67182ef4ab0cc2e159", 
+        "is_playable": true, 
+        "uri": "spotify:track:6MY0Fhm6RdTEwT4OI87YVn", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6MY0Fhm6RdTEwT4OI87YVn", 
+        "artists": [
+          {
+            "name": "Cornershop", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Kf7VEIRWquxrNIuyJZnfF"
+            }, 
+            "uri": "spotify:artist:3Kf7VEIRWquxrNIuyJZnfF", 
+            "href": "https://api.spotify.com/v1/artists/3Kf7VEIRWquxrNIuyJZnfF", 
+            "type": "artist", 
+            "id": "3Kf7VEIRWquxrNIuyJZnfF"
+          }
+        ], 
+        "duration_ms": 291960, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "6MY0Fhm6RdTEwT4OI87YVn"
+      }, 
+      {
+        "name": "Candyman", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Jywkl1mOaU2QznUMiOIdr"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e8904739a2802ef7f1e908e35d07566d1311e324", 
+        "is_playable": true, 
+        "uri": "spotify:track:3Jywkl1mOaU2QznUMiOIdr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3Jywkl1mOaU2QznUMiOIdr", 
+        "artists": [
+          {
+            "name": "Cornershop", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Kf7VEIRWquxrNIuyJZnfF"
+            }, 
+            "uri": "spotify:artist:3Kf7VEIRWquxrNIuyJZnfF", 
+            "href": "https://api.spotify.com/v1/artists/3Kf7VEIRWquxrNIuyJZnfF", 
+            "type": "artist", 
+            "id": "3Kf7VEIRWquxrNIuyJZnfF"
+          }
+        ], 
+        "duration_ms": 229533, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "3Jywkl1mOaU2QznUMiOIdr"
+      }, 
+      {
+        "name": "State Troopers", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1GPWLYWe9HMcRM07Lfma2X"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6f7ace9afad3825c60bac9692f567f8c8309f1e8", 
+        "is_playable": true, 
+        "uri": "spotify:track:1GPWLYWe9HMcRM07Lfma2X", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1GPWLYWe9HMcRM07Lfma2X", 
+        "artists": [
+          {
+            "name": "Cornershop", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Kf7VEIRWquxrNIuyJZnfF"
+            }, 
+            "uri": "spotify:artist:3Kf7VEIRWquxrNIuyJZnfF", 
+            "href": "https://api.spotify.com/v1/artists/3Kf7VEIRWquxrNIuyJZnfF", 
+            "type": "artist", 
+            "id": "3Kf7VEIRWquxrNIuyJZnfF"
+          }
+        ], 
+        "duration_ms": 187000, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "1GPWLYWe9HMcRM07Lfma2X"
+      }, 
+      {
+        "name": "Norwegian Wood", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Y3eSyYWYQCa4iXJTp29WM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0e0c9df35c9760de31987581f254121340228fc6", 
+        "is_playable": true, 
+        "uri": "spotify:track:6Y3eSyYWYQCa4iXJTp29WM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6Y3eSyYWYQCa4iXJTp29WM", 
+        "artists": [
+          {
+            "name": "Cornershop", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Kf7VEIRWquxrNIuyJZnfF"
+            }, 
+            "uri": "spotify:artist:3Kf7VEIRWquxrNIuyJZnfF", 
+            "href": "https://api.spotify.com/v1/artists/3Kf7VEIRWquxrNIuyJZnfF", 
+            "type": "artist", 
+            "id": "3Kf7VEIRWquxrNIuyJZnfF"
+          }
+        ], 
+        "duration_ms": 148240, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "6Y3eSyYWYQCa4iXJTp29WM"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/6WGsZo2Fqa4BfCG1Ml2JDp/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 15, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/6WGsZo2Fqa4BfCG1Ml2JDp", 
+  "copyrights": [
+    {
+      "text": "1997 WIIIJA Records Ltd", 
+      "type": "C"
+    }, 
+    {
+      "text": "1997 WIIIJA Records Ltd", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Cornershop", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Kf7VEIRWquxrNIuyJZnfF"
+      }, 
+      "uri": "spotify:artist:3Kf7VEIRWquxrNIuyJZnfF", 
+      "href": "https://api.spotify.com/v1/artists/3Kf7VEIRWquxrNIuyJZnfF", 
+      "type": "artist", 
+      "id": "3Kf7VEIRWquxrNIuyJZnfF"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/4836befb6ece78101411424317119fdd0c4c8055", 
+      "width": 600, 
+      "height": 580
+    }, 
+    {
+      "url": "https://i.scdn.co/image/8ee9e8c454a1571ed7e43853a0a87c6a2829caf9", 
+      "width": 300, 
+      "height": 290
+    }, 
+    {
+      "url": "https://i.scdn.co/image/a8fbe735df60818189f09f800bf233da3274749a", 
+      "width": 64, 
+      "height": 62
+    }
+  ], 
+  "external_ids": {
+    "upc": "614027106524"
+  }, 
+  "type": "album", 
+  "id": "6WGsZo2Fqa4BfCG1Ml2JDp", 
+  "name": "When I Was Born For The 7th Time"
+}

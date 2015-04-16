@@ -1,0 +1,347 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0sOJ1TztxZdEfUbX7f1CZO"
+  }, 
+  "release_date": "1974", 
+  "popularity": 43, 
+  "genres": [], 
+  "uri": "spotify:album:0sOJ1TztxZdEfUbX7f1CZO", 
+  "tracks": {
+    "items": [
+      {
+        "name": "The Wall Street Shuffle", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0kVB6PeqBbN2HhwJdWumeZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/69eb247b64a8bf89046fec8e5458b81ac839b389", 
+        "is_playable": true, 
+        "uri": "spotify:track:0kVB6PeqBbN2HhwJdWumeZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0kVB6PeqBbN2HhwJdWumeZ", 
+        "artists": [
+          {
+            "name": "10cc", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+            }, 
+            "uri": "spotify:artist:6i6WlGzQtXtz7GcC5H5st5", 
+            "href": "https://api.spotify.com/v1/artists/6i6WlGzQtXtz7GcC5H5st5", 
+            "type": "artist", 
+            "id": "6i6WlGzQtXtz7GcC5H5st5"
+          }
+        ], 
+        "duration_ms": 236373, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "0kVB6PeqBbN2HhwJdWumeZ"
+      }, 
+      {
+        "name": "The Worst Band In The World", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2QuhQtkWjIgUnD0osMVxmQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f961f2d2ad4d998e547b284abe47ab8024fc484e", 
+        "is_playable": true, 
+        "uri": "spotify:track:2QuhQtkWjIgUnD0osMVxmQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2QuhQtkWjIgUnD0osMVxmQ", 
+        "artists": [
+          {
+            "name": "10cc", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+            }, 
+            "uri": "spotify:artist:6i6WlGzQtXtz7GcC5H5st5", 
+            "href": "https://api.spotify.com/v1/artists/6i6WlGzQtXtz7GcC5H5st5", 
+            "type": "artist", 
+            "id": "6i6WlGzQtXtz7GcC5H5st5"
+          }
+        ], 
+        "duration_ms": 170040, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "2QuhQtkWjIgUnD0osMVxmQ"
+      }, 
+      {
+        "name": "Hotel", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6F6lwvYXOdQUEg35z3NDJG"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a14efb71905aa7dab60a27d40a981e108ed43321", 
+        "is_playable": true, 
+        "uri": "spotify:track:6F6lwvYXOdQUEg35z3NDJG", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6F6lwvYXOdQUEg35z3NDJG", 
+        "artists": [
+          {
+            "name": "10cc", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+            }, 
+            "uri": "spotify:artist:6i6WlGzQtXtz7GcC5H5st5", 
+            "href": "https://api.spotify.com/v1/artists/6i6WlGzQtXtz7GcC5H5st5", 
+            "type": "artist", 
+            "id": "6i6WlGzQtXtz7GcC5H5st5"
+          }
+        ], 
+        "duration_ms": 298066, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "6F6lwvYXOdQUEg35z3NDJG"
+      }, 
+      {
+        "name": "Old Wild Men", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7E5KQijzkMmZKp7RUybvpr"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/939cbfba2f6580d53d756c352286193cf9102070", 
+        "is_playable": true, 
+        "uri": "spotify:track:7E5KQijzkMmZKp7RUybvpr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7E5KQijzkMmZKp7RUybvpr", 
+        "artists": [
+          {
+            "name": "10cc", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+            }, 
+            "uri": "spotify:artist:6i6WlGzQtXtz7GcC5H5st5", 
+            "href": "https://api.spotify.com/v1/artists/6i6WlGzQtXtz7GcC5H5st5", 
+            "type": "artist", 
+            "id": "6i6WlGzQtXtz7GcC5H5st5"
+          }
+        ], 
+        "duration_ms": 201800, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "7E5KQijzkMmZKp7RUybvpr"
+      }, 
+      {
+        "name": "Clockwork Creep", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2wJ3sbNqiINIRW3beIqQUe"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/26efd1958ecbbd9408b8864e23e72a0e8c55f3cc", 
+        "is_playable": true, 
+        "uri": "spotify:track:2wJ3sbNqiINIRW3beIqQUe", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2wJ3sbNqiINIRW3beIqQUe", 
+        "artists": [
+          {
+            "name": "10cc", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+            }, 
+            "uri": "spotify:artist:6i6WlGzQtXtz7GcC5H5st5", 
+            "href": "https://api.spotify.com/v1/artists/6i6WlGzQtXtz7GcC5H5st5", 
+            "type": "artist", 
+            "id": "6i6WlGzQtXtz7GcC5H5st5"
+          }
+        ], 
+        "duration_ms": 166973, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "2wJ3sbNqiINIRW3beIqQUe"
+      }, 
+      {
+        "name": "Silly Love", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Y85aak6SJbabYxQEO7MPi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a1eae9a24800b0307322f0d40bdce4a768156320", 
+        "is_playable": true, 
+        "uri": "spotify:track:3Y85aak6SJbabYxQEO7MPi", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3Y85aak6SJbabYxQEO7MPi", 
+        "artists": [
+          {
+            "name": "10cc", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+            }, 
+            "uri": "spotify:artist:6i6WlGzQtXtz7GcC5H5st5", 
+            "href": "https://api.spotify.com/v1/artists/6i6WlGzQtXtz7GcC5H5st5", 
+            "type": "artist", 
+            "id": "6i6WlGzQtXtz7GcC5H5st5"
+          }
+        ], 
+        "duration_ms": 242026, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "3Y85aak6SJbabYxQEO7MPi"
+      }, 
+      {
+        "name": "Somewhere In Hollywood", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2VUBY4MtvthLO7FzknQgh6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a46aa5277ea0836937206405b557f3d0e0ce120a", 
+        "is_playable": true, 
+        "uri": "spotify:track:2VUBY4MtvthLO7FzknQgh6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2VUBY4MtvthLO7FzknQgh6", 
+        "artists": [
+          {
+            "name": "10cc", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+            }, 
+            "uri": "spotify:artist:6i6WlGzQtXtz7GcC5H5st5", 
+            "href": "https://api.spotify.com/v1/artists/6i6WlGzQtXtz7GcC5H5st5", 
+            "type": "artist", 
+            "id": "6i6WlGzQtXtz7GcC5H5st5"
+          }
+        ], 
+        "duration_ms": 400706, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "2VUBY4MtvthLO7FzknQgh6"
+      }, 
+      {
+        "name": "Baron Samedi", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5ZNdYapEkltW6Kk2YwfbHb"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7285421caec8c42a39ccc5c5a1015fc9877928d3", 
+        "is_playable": true, 
+        "uri": "spotify:track:5ZNdYapEkltW6Kk2YwfbHb", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5ZNdYapEkltW6Kk2YwfbHb", 
+        "artists": [
+          {
+            "name": "10cc", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+            }, 
+            "uri": "spotify:artist:6i6WlGzQtXtz7GcC5H5st5", 
+            "href": "https://api.spotify.com/v1/artists/6i6WlGzQtXtz7GcC5H5st5", 
+            "type": "artist", 
+            "id": "6i6WlGzQtXtz7GcC5H5st5"
+          }
+        ], 
+        "duration_ms": 226746, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "5ZNdYapEkltW6Kk2YwfbHb"
+      }, 
+      {
+        "name": "The Sacro-lliac", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1vhDLpeGpCjQR0QZEfPP2b"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/46dd62af8ec30a9707c95ffc7f5eb7cc827f992e", 
+        "is_playable": true, 
+        "uri": "spotify:track:1vhDLpeGpCjQR0QZEfPP2b", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1vhDLpeGpCjQR0QZEfPP2b", 
+        "artists": [
+          {
+            "name": "10cc", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+            }, 
+            "uri": "spotify:artist:6i6WlGzQtXtz7GcC5H5st5", 
+            "href": "https://api.spotify.com/v1/artists/6i6WlGzQtXtz7GcC5H5st5", 
+            "type": "artist", 
+            "id": "6i6WlGzQtXtz7GcC5H5st5"
+          }
+        ], 
+        "duration_ms": 154213, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "1vhDLpeGpCjQR0QZEfPP2b"
+      }, 
+      {
+        "name": "Oh Effendi", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/66oBS2zqSFAbnuEpoPQ5gt"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a86b9d43311116081afb09623b1c50decfb1c9ad", 
+        "is_playable": true, 
+        "uri": "spotify:track:66oBS2zqSFAbnuEpoPQ5gt", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/66oBS2zqSFAbnuEpoPQ5gt", 
+        "artists": [
+          {
+            "name": "10cc", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+            }, 
+            "uri": "spotify:artist:6i6WlGzQtXtz7GcC5H5st5", 
+            "href": "https://api.spotify.com/v1/artists/6i6WlGzQtXtz7GcC5H5st5", 
+            "type": "artist", 
+            "id": "6i6WlGzQtXtz7GcC5H5st5"
+          }
+        ], 
+        "duration_ms": 170560, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "66oBS2zqSFAbnuEpoPQ5gt"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/0sOJ1TztxZdEfUbX7f1CZO/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 10, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/0sOJ1TztxZdEfUbX7f1CZO", 
+  "copyrights": [
+    {
+      "text": "Revvolution Records", 
+      "type": "C"
+    }, 
+    {
+      "text": "Jonathan King Enterprises", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "10cc", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+      }, 
+      "uri": "spotify:artist:6i6WlGzQtXtz7GcC5H5st5", 
+      "href": "https://api.spotify.com/v1/artists/6i6WlGzQtXtz7GcC5H5st5", 
+      "type": "artist", 
+      "id": "6i6WlGzQtXtz7GcC5H5st5"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/1b91fabcbf5b7985c3c2c31a34703510318ef202", 
+      "width": 600, 
+      "height": 600
+    }, 
+    {
+      "url": "https://i.scdn.co/image/1622d7d0dd75437a8da956dcf7da10ecd8dfc7fa", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/51dd377f9ca9900d2bc271313b0bab160953fb5f", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "0842108022894"
+  }, 
+  "type": "album", 
+  "id": "0sOJ1TztxZdEfUbX7f1CZO", 
+  "name": "Sheet Music"
+}

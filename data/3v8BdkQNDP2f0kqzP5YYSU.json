@@ -1,0 +1,403 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3v8BdkQNDP2f0kqzP5YYSU"
+  }, 
+  "release_date": "2013-01-01", 
+  "popularity": 42, 
+  "genres": [], 
+  "uri": "spotify:album:3v8BdkQNDP2f0kqzP5YYSU", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Introduction By Lucas \"Fats\" Gonder - Live At The Apollo Theater/1962", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4BGvOfEXgEthrtqpboxJGU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/27a967264e36e69bf0c014b9f5223f2c1dfcfd6d", 
+        "is_playable": true, 
+        "uri": "spotify:track:4BGvOfEXgEthrtqpboxJGU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4BGvOfEXgEthrtqpboxJGU", 
+        "artists": [
+          {
+            "name": "James Brown & The Famous Flames", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr"
+            }, 
+            "uri": "spotify:artist:32r72WOqqRO1DtSznId7Lr", 
+            "href": "https://api.spotify.com/v1/artists/32r72WOqqRO1DtSznId7Lr", 
+            "type": "artist", 
+            "id": "32r72WOqqRO1DtSznId7Lr"
+          }
+        ], 
+        "duration_ms": 124546, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "4BGvOfEXgEthrtqpboxJGU"
+      }, 
+      {
+        "name": "I'll Go Crazy - Live At The Apollo Theater/1962", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3fA8yWdPVVVhXzoyZWUNC3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3129e477f39c4c7c37e05bba65f6b536f856e288", 
+        "is_playable": true, 
+        "uri": "spotify:track:3fA8yWdPVVVhXzoyZWUNC3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3fA8yWdPVVVhXzoyZWUNC3", 
+        "artists": [
+          {
+            "name": "James Brown & The Famous Flames", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr"
+            }, 
+            "uri": "spotify:artist:32r72WOqqRO1DtSznId7Lr", 
+            "href": "https://api.spotify.com/v1/artists/32r72WOqqRO1DtSznId7Lr", 
+            "type": "artist", 
+            "id": "32r72WOqqRO1DtSznId7Lr"
+          }
+        ], 
+        "duration_ms": 108920, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "3fA8yWdPVVVhXzoyZWUNC3"
+      }, 
+      {
+        "name": "Try Me - Live At The Apollo Theater/1962", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4MVT7WNWQC8VRUI7sgaO7J"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cf2bd8f732b6e0dbfba42a4f5cf753542c7208d6", 
+        "is_playable": true, 
+        "uri": "spotify:track:4MVT7WNWQC8VRUI7sgaO7J", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4MVT7WNWQC8VRUI7sgaO7J", 
+        "artists": [
+          {
+            "name": "James Brown", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+            }, 
+            "uri": "spotify:artist:7GaxyUddsPok8BuhxN6OUW", 
+            "href": "https://api.spotify.com/v1/artists/7GaxyUddsPok8BuhxN6OUW", 
+            "type": "artist", 
+            "id": "7GaxyUddsPok8BuhxN6OUW"
+          }
+        ], 
+        "duration_ms": 133840, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "4MVT7WNWQC8VRUI7sgaO7J"
+      }, 
+      {
+        "name": "Night Train - Live At The Apollo Theater/1962", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3S9jFAmDvXoHE4IAMMsgQ8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3927dd6347682e706cff2abb3d8ae8f7b5ec6b2e", 
+        "is_playable": true, 
+        "uri": "spotify:track:3S9jFAmDvXoHE4IAMMsgQ8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3S9jFAmDvXoHE4IAMMsgQ8", 
+        "artists": [
+          {
+            "name": "James Brown & The Famous Flames", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr"
+            }, 
+            "uri": "spotify:artist:32r72WOqqRO1DtSznId7Lr", 
+            "href": "https://api.spotify.com/v1/artists/32r72WOqqRO1DtSznId7Lr", 
+            "type": "artist", 
+            "id": "32r72WOqqRO1DtSznId7Lr"
+          }
+        ], 
+        "duration_ms": 186920, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "3S9jFAmDvXoHE4IAMMsgQ8"
+      }, 
+      {
+        "name": "There Was A Time - Live At The Apollo Theater/1967", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5aKTYscXtR3hWNF5AA25RJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/506e14e5d8df366aefc725a7adedd13e57d848f2", 
+        "is_playable": true, 
+        "uri": "spotify:track:5aKTYscXtR3hWNF5AA25RJ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5aKTYscXtR3hWNF5AA25RJ", 
+        "artists": [
+          {
+            "name": "James Brown & The Famous Flames", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr"
+            }, 
+            "uri": "spotify:artist:32r72WOqqRO1DtSznId7Lr", 
+            "href": "https://api.spotify.com/v1/artists/32r72WOqqRO1DtSznId7Lr", 
+            "type": "artist", 
+            "id": "32r72WOqqRO1DtSznId7Lr"
+          }
+        ], 
+        "duration_ms": 327253, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "5aKTYscXtR3hWNF5AA25RJ"
+      }, 
+      {
+        "name": "Cold Sweat - Live At The Apollo Theater/1967", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4JKOFoSFInGrYItIRlnBzq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ce3ed87ad6a09028634755f499e03c9884442135", 
+        "is_playable": true, 
+        "uri": "spotify:track:4JKOFoSFInGrYItIRlnBzq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4JKOFoSFInGrYItIRlnBzq", 
+        "artists": [
+          {
+            "name": "James Brown & The Famous Flames", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr"
+            }, 
+            "uri": "spotify:artist:32r72WOqqRO1DtSznId7Lr", 
+            "href": "https://api.spotify.com/v1/artists/32r72WOqqRO1DtSznId7Lr", 
+            "type": "artist", 
+            "id": "32r72WOqqRO1DtSznId7Lr"
+          }
+        ], 
+        "duration_ms": 269680, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "4JKOFoSFInGrYItIRlnBzq"
+      }, 
+      {
+        "name": "Please, Please, Please - Live At The Apollo Theater/1967", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5AB5rDeC50CEFQEw5r4CQw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a702f65b9e62a7639b7ce5ce48a368f6408b3c77", 
+        "is_playable": true, 
+        "uri": "spotify:track:5AB5rDeC50CEFQEw5r4CQw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5AB5rDeC50CEFQEw5r4CQw", 
+        "artists": [
+          {
+            "name": "James Brown & The Famous Flames", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr"
+            }, 
+            "uri": "spotify:artist:32r72WOqqRO1DtSznId7Lr", 
+            "href": "https://api.spotify.com/v1/artists/32r72WOqqRO1DtSznId7Lr", 
+            "type": "artist", 
+            "id": "32r72WOqqRO1DtSznId7Lr"
+          }
+        ], 
+        "duration_ms": 162853, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "5AB5rDeC50CEFQEw5r4CQw"
+      }, 
+      {
+        "name": "Sex Machine - Live At The Apollo Theater/1971", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4n5trsoEJB0hLjv4VajEZ5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e5f367d4a9bd6948311f8f394dbf791e5569d74e", 
+        "is_playable": true, 
+        "uri": "spotify:track:4n5trsoEJB0hLjv4VajEZ5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4n5trsoEJB0hLjv4VajEZ5", 
+        "artists": [
+          {
+            "name": "James Brown", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+            }, 
+            "uri": "spotify:artist:7GaxyUddsPok8BuhxN6OUW", 
+            "href": "https://api.spotify.com/v1/artists/7GaxyUddsPok8BuhxN6OUW", 
+            "type": "artist", 
+            "id": "7GaxyUddsPok8BuhxN6OUW"
+          }
+        ], 
+        "duration_ms": 305613, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "4n5trsoEJB0hLjv4VajEZ5"
+      }, 
+      {
+        "name": "Get Up, Get Into It, Get Involved - Live At The Apollo Theater/1971", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/42wSxu9sfnUSBaAYApqSXu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/582408acb82754fc21b04e702219115806ee859c", 
+        "is_playable": true, 
+        "uri": "spotify:track:42wSxu9sfnUSBaAYApqSXu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/42wSxu9sfnUSBaAYApqSXu", 
+        "artists": [
+          {
+            "name": "James Brown", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+            }, 
+            "uri": "spotify:artist:7GaxyUddsPok8BuhxN6OUW", 
+            "href": "https://api.spotify.com/v1/artists/7GaxyUddsPok8BuhxN6OUW", 
+            "type": "artist", 
+            "id": "7GaxyUddsPok8BuhxN6OUW"
+          }
+        ], 
+        "duration_ms": 201466, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "42wSxu9sfnUSBaAYApqSXu"
+      }, 
+      {
+        "name": "Soul Power - Live At The Apollo Theater/1971", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1zw35QnBNidpDwpODXj0vN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/eeb52a6d2938b90a29d179d083c872bde60d542a", 
+        "is_playable": true, 
+        "uri": "spotify:track:1zw35QnBNidpDwpODXj0vN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1zw35QnBNidpDwpODXj0vN", 
+        "artists": [
+          {
+            "name": "James Brown", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+            }, 
+            "uri": "spotify:artist:7GaxyUddsPok8BuhxN6OUW", 
+            "href": "https://api.spotify.com/v1/artists/7GaxyUddsPok8BuhxN6OUW", 
+            "type": "artist", 
+            "id": "7GaxyUddsPok8BuhxN6OUW"
+          }
+        ], 
+        "duration_ms": 295386, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "1zw35QnBNidpDwpODXj0vN"
+      }, 
+      {
+        "name": "Hot Pants Road - Live At The Apollo Theater/1972", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2e3xU2bCrxY8cLYHFrHwnT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e920e9109806ba72d049437c25edef0cc3194aa0", 
+        "is_playable": true, 
+        "uri": "spotify:track:2e3xU2bCrxY8cLYHFrHwnT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2e3xU2bCrxY8cLYHFrHwnT", 
+        "artists": [
+          {
+            "name": "James Brown", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+            }, 
+            "uri": "spotify:artist:7GaxyUddsPok8BuhxN6OUW", 
+            "href": "https://api.spotify.com/v1/artists/7GaxyUddsPok8BuhxN6OUW", 
+            "type": "artist", 
+            "id": "7GaxyUddsPok8BuhxN6OUW"
+          }
+        ], 
+        "duration_ms": 156280, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "2e3xU2bCrxY8cLYHFrHwnT"
+      }, 
+      {
+        "name": "There It Is - Live At The Apollo Theater/1972", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Ip9gDPlAOvMCWRlEbdLIk"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0096373688efc060edeba29610b64376cdaeeacf", 
+        "is_playable": true, 
+        "uri": "spotify:track:5Ip9gDPlAOvMCWRlEbdLIk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5Ip9gDPlAOvMCWRlEbdLIk", 
+        "artists": [
+          {
+            "name": "James Brown", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+            }, 
+            "uri": "spotify:artist:7GaxyUddsPok8BuhxN6OUW", 
+            "href": "https://api.spotify.com/v1/artists/7GaxyUddsPok8BuhxN6OUW", 
+            "type": "artist", 
+            "id": "7GaxyUddsPok8BuhxN6OUW"
+          }
+        ], 
+        "duration_ms": 181453, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "5Ip9gDPlAOvMCWRlEbdLIk"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/3v8BdkQNDP2f0kqzP5YYSU/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 12, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/3v8BdkQNDP2f0kqzP5YYSU", 
+  "copyrights": [
+    {
+      "text": "(C) 2013 Universal Records, a Division of UMG Recordings, Inc.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 2013 Universal Records, a Division of UMG Recordings, Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "James Brown", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+      }, 
+      "uri": "spotify:artist:7GaxyUddsPok8BuhxN6OUW", 
+      "href": "https://api.spotify.com/v1/artists/7GaxyUddsPok8BuhxN6OUW", 
+      "type": "artist", 
+      "id": "7GaxyUddsPok8BuhxN6OUW"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/db78ff0e57220f88d6e98c5c97cca03881670671", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/832a12544491886552c274be7480e3781cdbd4e4", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/8597139a32713a8deed30b4214ae60d34e449361", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00602537146444"
+  }, 
+  "type": "album", 
+  "id": "3v8BdkQNDP2f0kqzP5YYSU", 
+  "name": "Best Of Live At The Apollo: 50th Anniversary"
+}

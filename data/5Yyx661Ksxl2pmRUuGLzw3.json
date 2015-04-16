@@ -1,0 +1,464 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5Yyx661Ksxl2pmRUuGLzw3"
+  }, 
+  "release_date": "1987-09-28", 
+  "popularity": 51, 
+  "genres": [], 
+  "uri": "spotify:album:5Yyx661Ksxl2pmRUuGLzw3", 
+  "tracks": {
+    "items": [
+      {
+        "linked_from": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/0ooy3NjwsJreceWYCxlfQt"
+          }, 
+          "href": "https://api.spotify.com/v1/tracks/0ooy3NjwsJreceWYCxlfQt", 
+          "type": "track", 
+          "id": "0ooy3NjwsJreceWYCxlfQt", 
+          "uri": "spotify:track:0ooy3NjwsJreceWYCxlfQt"
+        }, 
+        "name": "Never Let Me Down Again", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1g1qIFf5IA7f03Yl1kKTjk"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c06b1180f7cf3b6d17e4b6df6416a2ddb00dcf38", 
+        "is_playable": true, 
+        "uri": "spotify:track:1g1qIFf5IA7f03Yl1kKTjk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1g1qIFf5IA7f03Yl1kKTjk", 
+        "artists": [
+          {
+            "name": "Depeche Mode", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+            }, 
+            "uri": "spotify:artist:762310PdDnwsDxAQxzQkfX", 
+            "href": "https://api.spotify.com/v1/artists/762310PdDnwsDxAQxzQkfX", 
+            "type": "artist", 
+            "id": "762310PdDnwsDxAQxzQkfX"
+          }
+        ], 
+        "duration_ms": 287573, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "1g1qIFf5IA7f03Yl1kKTjk"
+      }, 
+      {
+        "name": "The Things You Said", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4P9jWfITiiSq2uueK1vzoU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/86020ca8b95bc875485a5b9b6617440803a6f3a6", 
+        "is_playable": true, 
+        "uri": "spotify:track:4P9jWfITiiSq2uueK1vzoU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4P9jWfITiiSq2uueK1vzoU", 
+        "artists": [
+          {
+            "name": "Depeche Mode", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+            }, 
+            "uri": "spotify:artist:762310PdDnwsDxAQxzQkfX", 
+            "href": "https://api.spotify.com/v1/artists/762310PdDnwsDxAQxzQkfX", 
+            "type": "artist", 
+            "id": "762310PdDnwsDxAQxzQkfX"
+          }
+        ], 
+        "duration_ms": 235960, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "4P9jWfITiiSq2uueK1vzoU"
+      }, 
+      {
+        "name": "Strangelove", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2dcB3lv4706Qzapml9T1hV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/912c4d86500cbe2fbd8161fb7f211379f4366e50", 
+        "is_playable": true, 
+        "uri": "spotify:track:2dcB3lv4706Qzapml9T1hV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2dcB3lv4706Qzapml9T1hV", 
+        "artists": [
+          {
+            "name": "Depeche Mode", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+            }, 
+            "uri": "spotify:artist:762310PdDnwsDxAQxzQkfX", 
+            "href": "https://api.spotify.com/v1/artists/762310PdDnwsDxAQxzQkfX", 
+            "type": "artist", 
+            "id": "762310PdDnwsDxAQxzQkfX"
+          }
+        ], 
+        "duration_ms": 296720, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "2dcB3lv4706Qzapml9T1hV"
+      }, 
+      {
+        "name": "Sacred", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/12z2Mqelq4AN0vaHvQLW3y"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/483f092e4d603c6b5499cdc620439627eaac4685", 
+        "is_playable": true, 
+        "uri": "spotify:track:12z2Mqelq4AN0vaHvQLW3y", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/12z2Mqelq4AN0vaHvQLW3y", 
+        "artists": [
+          {
+            "name": "Depeche Mode", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+            }, 
+            "uri": "spotify:artist:762310PdDnwsDxAQxzQkfX", 
+            "href": "https://api.spotify.com/v1/artists/762310PdDnwsDxAQxzQkfX", 
+            "type": "artist", 
+            "id": "762310PdDnwsDxAQxzQkfX"
+          }
+        ], 
+        "duration_ms": 284120, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "12z2Mqelq4AN0vaHvQLW3y"
+      }, 
+      {
+        "name": "Little 15", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/13DXtbL8IILkVfOlIi8o79"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d26277aa0f31ee1c0da314325f76169a34997731", 
+        "is_playable": true, 
+        "uri": "spotify:track:13DXtbL8IILkVfOlIi8o79", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/13DXtbL8IILkVfOlIi8o79", 
+        "artists": [
+          {
+            "name": "Depeche Mode", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+            }, 
+            "uri": "spotify:artist:762310PdDnwsDxAQxzQkfX", 
+            "href": "https://api.spotify.com/v1/artists/762310PdDnwsDxAQxzQkfX", 
+            "type": "artist", 
+            "id": "762310PdDnwsDxAQxzQkfX"
+          }
+        ], 
+        "duration_ms": 255933, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "13DXtbL8IILkVfOlIi8o79"
+      }, 
+      {
+        "name": "Behind The Wheel", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3FpcRPsHXmKyDEJl9P1PsZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6eb5812c24365831edabd52808242092b2b51380", 
+        "is_playable": true, 
+        "uri": "spotify:track:3FpcRPsHXmKyDEJl9P1PsZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3FpcRPsHXmKyDEJl9P1PsZ", 
+        "artists": [
+          {
+            "name": "Depeche Mode", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+            }, 
+            "uri": "spotify:artist:762310PdDnwsDxAQxzQkfX", 
+            "href": "https://api.spotify.com/v1/artists/762310PdDnwsDxAQxzQkfX", 
+            "type": "artist", 
+            "id": "762310PdDnwsDxAQxzQkfX"
+          }
+        ], 
+        "duration_ms": 318066, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "3FpcRPsHXmKyDEJl9P1PsZ"
+      }, 
+      {
+        "name": "I Want You Now", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2E3k0wLM8PTLiOaxWoEZjy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/765b1882bf4fa92377fc63095ba443836120455a", 
+        "is_playable": true, 
+        "uri": "spotify:track:2E3k0wLM8PTLiOaxWoEZjy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2E3k0wLM8PTLiOaxWoEZjy", 
+        "artists": [
+          {
+            "name": "Depeche Mode", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+            }, 
+            "uri": "spotify:artist:762310PdDnwsDxAQxzQkfX", 
+            "href": "https://api.spotify.com/v1/artists/762310PdDnwsDxAQxzQkfX", 
+            "type": "artist", 
+            "id": "762310PdDnwsDxAQxzQkfX"
+          }
+        ], 
+        "duration_ms": 224973, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "2E3k0wLM8PTLiOaxWoEZjy"
+      }, 
+      {
+        "name": "To Have And To Hold", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2LuOSg9SWFjmHWU9OQm0Hw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/220300dd1814600d91559e259f1238909d4c0f6c", 
+        "is_playable": true, 
+        "uri": "spotify:track:2LuOSg9SWFjmHWU9OQm0Hw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2LuOSg9SWFjmHWU9OQm0Hw", 
+        "artists": [
+          {
+            "name": "Depeche Mode", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+            }, 
+            "uri": "spotify:artist:762310PdDnwsDxAQxzQkfX", 
+            "href": "https://api.spotify.com/v1/artists/762310PdDnwsDxAQxzQkfX", 
+            "type": "artist", 
+            "id": "762310PdDnwsDxAQxzQkfX"
+          }
+        ], 
+        "duration_ms": 171493, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "2LuOSg9SWFjmHWU9OQm0Hw"
+      }, 
+      {
+        "name": "Nothing", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1jw2wJAxzDOpLOxQO9pnOl"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e60ce28cfd6cb23ebb3d3e286a856b333408cd29", 
+        "is_playable": true, 
+        "uri": "spotify:track:1jw2wJAxzDOpLOxQO9pnOl", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1jw2wJAxzDOpLOxQO9pnOl", 
+        "artists": [
+          {
+            "name": "Depeche Mode", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+            }, 
+            "uri": "spotify:artist:762310PdDnwsDxAQxzQkfX", 
+            "href": "https://api.spotify.com/v1/artists/762310PdDnwsDxAQxzQkfX", 
+            "type": "artist", 
+            "id": "762310PdDnwsDxAQxzQkfX"
+          }
+        ], 
+        "duration_ms": 253400, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "1jw2wJAxzDOpLOxQO9pnOl"
+      }, 
+      {
+        "name": "Pimpf", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6M3CFzLlzj04bX3JXPapwY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/51b4293a39195bd2a78046e71bb42c377e879d88", 
+        "is_playable": true, 
+        "uri": "spotify:track:6M3CFzLlzj04bX3JXPapwY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6M3CFzLlzj04bX3JXPapwY", 
+        "artists": [
+          {
+            "name": "Depeche Mode", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+            }, 
+            "uri": "spotify:artist:762310PdDnwsDxAQxzQkfX", 
+            "href": "https://api.spotify.com/v1/artists/762310PdDnwsDxAQxzQkfX", 
+            "type": "artist", 
+            "id": "762310PdDnwsDxAQxzQkfX"
+          }
+        ], 
+        "duration_ms": 297840, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "6M3CFzLlzj04bX3JXPapwY"
+      }, 
+      {
+        "name": "Agent Orange", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/14LMxU260EhxHqpzPsglgf"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7d70ca05e56fad011750ef5e8014233859a980bf", 
+        "is_playable": true, 
+        "uri": "spotify:track:14LMxU260EhxHqpzPsglgf", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/14LMxU260EhxHqpzPsglgf", 
+        "artists": [
+          {
+            "name": "Depeche Mode", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+            }, 
+            "uri": "spotify:artist:762310PdDnwsDxAQxzQkfX", 
+            "href": "https://api.spotify.com/v1/artists/762310PdDnwsDxAQxzQkfX", 
+            "type": "artist", 
+            "id": "762310PdDnwsDxAQxzQkfX"
+          }
+        ], 
+        "duration_ms": 304226, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "14LMxU260EhxHqpzPsglgf"
+      }, 
+      {
+        "name": "Never Let Me Down Again - Aggro Mix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0s7024HpwRg7dJjGy2gE3P"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/32ce5da16ac4991877c3bad9eb9337711579dec5", 
+        "is_playable": true, 
+        "uri": "spotify:track:0s7024HpwRg7dJjGy2gE3P", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0s7024HpwRg7dJjGy2gE3P", 
+        "artists": [
+          {
+            "name": "Depeche Mode", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+            }, 
+            "uri": "spotify:artist:762310PdDnwsDxAQxzQkfX", 
+            "href": "https://api.spotify.com/v1/artists/762310PdDnwsDxAQxzQkfX", 
+            "type": "artist", 
+            "id": "762310PdDnwsDxAQxzQkfX"
+          }
+        ], 
+        "duration_ms": 296160, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "0s7024HpwRg7dJjGy2gE3P"
+      }, 
+      {
+        "name": "To Have And To Hold - Spanish Taster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0O8P9fu3JaVrkBNPuTNaLv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6aaaab1ce7b65e478c41075faa7aee9e424954cc", 
+        "is_playable": true, 
+        "uri": "spotify:track:0O8P9fu3JaVrkBNPuTNaLv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0O8P9fu3JaVrkBNPuTNaLv", 
+        "artists": [
+          {
+            "name": "Depeche Mode", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+            }, 
+            "uri": "spotify:artist:762310PdDnwsDxAQxzQkfX", 
+            "href": "https://api.spotify.com/v1/artists/762310PdDnwsDxAQxzQkfX", 
+            "type": "artist", 
+            "id": "762310PdDnwsDxAQxzQkfX"
+          }
+        ], 
+        "duration_ms": 155520, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "0O8P9fu3JaVrkBNPuTNaLv"
+      }, 
+      {
+        "name": "Pleasure, Little Treasure - Glitter Mix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7cqq0y7QTqbTOBrAlNSXUE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/25d0d366ac365d2d58bfbd994112d55084d0300b", 
+        "is_playable": true, 
+        "uri": "spotify:track:7cqq0y7QTqbTOBrAlNSXUE", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7cqq0y7QTqbTOBrAlNSXUE", 
+        "artists": [
+          {
+            "name": "Depeche Mode", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+            }, 
+            "uri": "spotify:artist:762310PdDnwsDxAQxzQkfX", 
+            "href": "https://api.spotify.com/v1/artists/762310PdDnwsDxAQxzQkfX", 
+            "type": "artist", 
+            "id": "762310PdDnwsDxAQxzQkfX"
+          }
+        ], 
+        "duration_ms": 335893, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "7cqq0y7QTqbTOBrAlNSXUE"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/5Yyx661Ksxl2pmRUuGLzw3/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 14, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/5Yyx661Ksxl2pmRUuGLzw3", 
+  "copyrights": [
+    {
+      "text": "(P) 1987 Depeche Mode/Mute Records Ltd, a BMG company, under exclusive license to Sony Music Entertainment", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Depeche Mode", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+      }, 
+      "uri": "spotify:artist:762310PdDnwsDxAQxzQkfX", 
+      "href": "https://api.spotify.com/v1/artists/762310PdDnwsDxAQxzQkfX", 
+      "type": "artist", 
+      "id": "762310PdDnwsDxAQxzQkfX"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/4773e86861ac9e7e02230318ecd938fdf5bb537a", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/f42ab3d97afe2de01de64878b98ed9586bfae428", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/0f6ad34734e9b756a468afb79c9125f84e03c193", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "0724347387456"
+  }, 
+  "type": "album", 
+  "id": "5Yyx661Ksxl2pmRUuGLzw3", 
+  "name": "Music for the Masses"
+}

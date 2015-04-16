@@ -1,0 +1,879 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6GkGI6WUnWSITDCx3y1GAB"
+  }, 
+  "release_date": "1991", 
+  "popularity": 25, 
+  "genres": [], 
+  "uri": "spotify:album:6GkGI6WUnWSITDCx3y1GAB", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Pristeen", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0SAxpIsqi7nvLLqFqeKzt7"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/71532da903c70d409e322e32b19a62b84864bc45", 
+        "is_playable": true, 
+        "uri": "spotify:track:0SAxpIsqi7nvLLqFqeKzt7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0SAxpIsqi7nvLLqFqeKzt7", 
+        "artists": [
+          {
+            "name": "Julian Cope", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5sMku8iI6FH3ypZTErz4kv"
+            }, 
+            "uri": "spotify:artist:5sMku8iI6FH3ypZTErz4kv", 
+            "href": "https://api.spotify.com/v1/artists/5sMku8iI6FH3ypZTErz4kv", 
+            "type": "artist", 
+            "id": "5sMku8iI6FH3ypZTErz4kv"
+          }
+        ], 
+        "duration_ms": 281026, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "0SAxpIsqi7nvLLqFqeKzt7"
+      }, 
+      {
+        "name": "Double Vegetation", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5zLY1cZegQsIydyOI34plL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/46cdc1e90419442a7a64cdd9633635163a3140c7", 
+        "is_playable": true, 
+        "uri": "spotify:track:5zLY1cZegQsIydyOI34plL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5zLY1cZegQsIydyOI34plL", 
+        "artists": [
+          {
+            "name": "Julian Cope", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5sMku8iI6FH3ypZTErz4kv"
+            }, 
+            "uri": "spotify:artist:5sMku8iI6FH3ypZTErz4kv", 
+            "href": "https://api.spotify.com/v1/artists/5sMku8iI6FH3ypZTErz4kv", 
+            "type": "artist", 
+            "id": "5sMku8iI6FH3ypZTErz4kv"
+          }
+        ], 
+        "duration_ms": 231906, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "5zLY1cZegQsIydyOI34plL"
+      }, 
+      {
+        "name": "East Easy Rider", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7oLoiU5m1gE87ivVJy3duE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/53fb8c7d8ac20ebf302bbeb848d856418c826f77", 
+        "is_playable": true, 
+        "uri": "spotify:track:7oLoiU5m1gE87ivVJy3duE", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7oLoiU5m1gE87ivVJy3duE", 
+        "artists": [
+          {
+            "name": "Julian Cope", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5sMku8iI6FH3ypZTErz4kv"
+            }, 
+            "uri": "spotify:artist:5sMku8iI6FH3ypZTErz4kv", 
+            "href": "https://api.spotify.com/v1/artists/5sMku8iI6FH3ypZTErz4kv", 
+            "type": "artist", 
+            "id": "5sMku8iI6FH3ypZTErz4kv"
+          }
+        ], 
+        "duration_ms": 238400, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "7oLoiU5m1gE87ivVJy3duE"
+      }, 
+      {
+        "name": "Promised Land", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5jDqJrY9VDlqETzDoqUbWZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ac31cb07f6119a1f7e9542e629837249a0eb85cd", 
+        "is_playable": true, 
+        "uri": "spotify:track:5jDqJrY9VDlqETzDoqUbWZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5jDqJrY9VDlqETzDoqUbWZ", 
+        "artists": [
+          {
+            "name": "Julian Cope", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5sMku8iI6FH3ypZTErz4kv"
+            }, 
+            "uri": "spotify:artist:5sMku8iI6FH3ypZTErz4kv", 
+            "href": "https://api.spotify.com/v1/artists/5sMku8iI6FH3ypZTErz4kv", 
+            "type": "artist", 
+            "id": "5sMku8iI6FH3ypZTErz4kv"
+          }
+        ], 
+        "duration_ms": 219026, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "5jDqJrY9VDlqETzDoqUbWZ"
+      }, 
+      {
+        "name": "Hanging Out And Hung Up On The Line", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/47VwEekOKxHpftfRjMCgBS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d5acdbfdb9b5ab39b3d7353828aa9a935d06e876", 
+        "is_playable": true, 
+        "uri": "spotify:track:47VwEekOKxHpftfRjMCgBS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/47VwEekOKxHpftfRjMCgBS", 
+        "artists": [
+          {
+            "name": "Julian Cope", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5sMku8iI6FH3ypZTErz4kv"
+            }, 
+            "uri": "spotify:artist:5sMku8iI6FH3ypZTErz4kv", 
+            "href": "https://api.spotify.com/v1/artists/5sMku8iI6FH3ypZTErz4kv", 
+            "type": "artist", 
+            "id": "5sMku8iI6FH3ypZTErz4kv"
+          }
+        ], 
+        "duration_ms": 283106, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "47VwEekOKxHpftfRjMCgBS"
+      }, 
+      {
+        "name": "Safesurfer", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7p8uKSvYKy0L3nt1F8GVcj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9222fb3175e7e02b14d1e45bf82a9f6d0ace5161", 
+        "is_playable": true, 
+        "uri": "spotify:track:7p8uKSvYKy0L3nt1F8GVcj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7p8uKSvYKy0L3nt1F8GVcj", 
+        "artists": [
+          {
+            "name": "Julian Cope", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5sMku8iI6FH3ypZTErz4kv"
+            }, 
+            "uri": "spotify:artist:5sMku8iI6FH3ypZTErz4kv", 
+            "href": "https://api.spotify.com/v1/artists/5sMku8iI6FH3ypZTErz4kv", 
+            "type": "artist", 
+            "id": "5sMku8iI6FH3ypZTErz4kv"
+          }
+        ], 
+        "duration_ms": 485200, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "7p8uKSvYKy0L3nt1F8GVcj"
+      }, 
+      {
+        "name": "If You Loved Me At All", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2eCTPgCBDYACNO1iwMMwbh"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/082b225e63c67e811f350cb89cd69d356f1d4905", 
+        "is_playable": true, 
+        "uri": "spotify:track:2eCTPgCBDYACNO1iwMMwbh", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2eCTPgCBDYACNO1iwMMwbh", 
+        "artists": [
+          {
+            "name": "Julian Cope", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5sMku8iI6FH3ypZTErz4kv"
+            }, 
+            "uri": "spotify:artist:5sMku8iI6FH3ypZTErz4kv", 
+            "href": "https://api.spotify.com/v1/artists/5sMku8iI6FH3ypZTErz4kv", 
+            "type": "artist", 
+            "id": "5sMku8iI6FH3ypZTErz4kv"
+          }
+        ], 
+        "duration_ms": 300600, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "2eCTPgCBDYACNO1iwMMwbh"
+      }, 
+      {
+        "name": "Drive, She Said", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7rBZNOnkfqWvpZG871D0sO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/44bb1444967edb7b186afa233ba572ba8e4a3d4c", 
+        "is_playable": true, 
+        "uri": "spotify:track:7rBZNOnkfqWvpZG871D0sO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7rBZNOnkfqWvpZG871D0sO", 
+        "artists": [
+          {
+            "name": "Julian Cope", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5sMku8iI6FH3ypZTErz4kv"
+            }, 
+            "uri": "spotify:artist:5sMku8iI6FH3ypZTErz4kv", 
+            "href": "https://api.spotify.com/v1/artists/5sMku8iI6FH3ypZTErz4kv", 
+            "type": "artist", 
+            "id": "5sMku8iI6FH3ypZTErz4kv"
+          }
+        ], 
+        "duration_ms": 274600, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "7rBZNOnkfqWvpZG871D0sO"
+      }, 
+      {
+        "name": "Soldier Blue", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Ild3VBLYKONlv5GZMSxA5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c2248cf2c2344aa224ce99f591ae117fee5d16f7", 
+        "is_playable": true, 
+        "uri": "spotify:track:2Ild3VBLYKONlv5GZMSxA5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2Ild3VBLYKONlv5GZMSxA5", 
+        "artists": [
+          {
+            "name": "Julian Cope", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5sMku8iI6FH3ypZTErz4kv"
+            }, 
+            "uri": "spotify:artist:5sMku8iI6FH3ypZTErz4kv", 
+            "href": "https://api.spotify.com/v1/artists/5sMku8iI6FH3ypZTErz4kv", 
+            "type": "artist", 
+            "id": "5sMku8iI6FH3ypZTErz4kv"
+          }
+        ], 
+        "duration_ms": 287666, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "2Ild3VBLYKONlv5GZMSxA5"
+      }, 
+      {
+        "name": "You...", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2TCRbStZ00I1M2xgx3hKoj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2813cab4c2269a11923c687b5e4fd385468cf6c3", 
+        "is_playable": true, 
+        "uri": "spotify:track:2TCRbStZ00I1M2xgx3hKoj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2TCRbStZ00I1M2xgx3hKoj", 
+        "artists": [
+          {
+            "name": "Julian Cope", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5sMku8iI6FH3ypZTErz4kv"
+            }, 
+            "uri": "spotify:artist:5sMku8iI6FH3ypZTErz4kv", 
+            "href": "https://api.spotify.com/v1/artists/5sMku8iI6FH3ypZTErz4kv", 
+            "type": "artist", 
+            "id": "5sMku8iI6FH3ypZTErz4kv"
+          }
+        ], 
+        "duration_ms": 107200, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "2TCRbStZ00I1M2xgx3hKoj"
+      }, 
+      {
+        "name": "Not Raving But Drowning", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0QZr0NS4N9Jy12ipFVPnTO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1572a77c43c58700dc06df1ae4b6a872125dbbae", 
+        "is_playable": true, 
+        "uri": "spotify:track:0QZr0NS4N9Jy12ipFVPnTO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0QZr0NS4N9Jy12ipFVPnTO", 
+        "artists": [
+          {
+            "name": "Julian Cope", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5sMku8iI6FH3ypZTErz4kv"
+            }, 
+            "uri": "spotify:artist:5sMku8iI6FH3ypZTErz4kv", 
+            "href": "https://api.spotify.com/v1/artists/5sMku8iI6FH3ypZTErz4kv", 
+            "type": "artist", 
+            "id": "5sMku8iI6FH3ypZTErz4kv"
+          }
+        ], 
+        "duration_ms": 254840, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "0QZr0NS4N9Jy12ipFVPnTO"
+      }, 
+      {
+        "name": "Head", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Ry9OPUinO9S88f4EhPSN2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6758d7c8a9b2ca49d7fe99735ab230a282193004", 
+        "is_playable": true, 
+        "uri": "spotify:track:6Ry9OPUinO9S88f4EhPSN2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6Ry9OPUinO9S88f4EhPSN2", 
+        "artists": [
+          {
+            "name": "Julian Cope", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5sMku8iI6FH3ypZTErz4kv"
+            }, 
+            "uri": "spotify:artist:5sMku8iI6FH3ypZTErz4kv", 
+            "href": "https://api.spotify.com/v1/artists/5sMku8iI6FH3ypZTErz4kv", 
+            "type": "artist", 
+            "id": "5sMku8iI6FH3ypZTErz4kv"
+          }
+        ], 
+        "duration_ms": 140626, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "6Ry9OPUinO9S88f4EhPSN2"
+      }, 
+      {
+        "name": "Leperskin", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1uKkP6Pgn2QtrkEzUo6fRH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/677890cf63286b6a42395ea64dad602c270259b0", 
+        "is_playable": true, 
+        "uri": "spotify:track:1uKkP6Pgn2QtrkEzUo6fRH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1uKkP6Pgn2QtrkEzUo6fRH", 
+        "artists": [
+          {
+            "name": "Julian Cope", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5sMku8iI6FH3ypZTErz4kv"
+            }, 
+            "uri": "spotify:artist:5sMku8iI6FH3ypZTErz4kv", 
+            "href": "https://api.spotify.com/v1/artists/5sMku8iI6FH3ypZTErz4kv", 
+            "type": "artist", 
+            "id": "5sMku8iI6FH3ypZTErz4kv"
+          }
+        ], 
+        "duration_ms": 310973, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "1uKkP6Pgn2QtrkEzUo6fRH"
+      }, 
+      {
+        "name": "Beautiful Love", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3hJ7T1EINYzGu2SoFCfh1a"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/74af6fbd3aaa6d710d7d207aea2f6798df2248fa", 
+        "is_playable": true, 
+        "uri": "spotify:track:3hJ7T1EINYzGu2SoFCfh1a", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3hJ7T1EINYzGu2SoFCfh1a", 
+        "artists": [
+          {
+            "name": "Julian Cope", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5sMku8iI6FH3ypZTErz4kv"
+            }, 
+            "uri": "spotify:artist:5sMku8iI6FH3ypZTErz4kv", 
+            "href": "https://api.spotify.com/v1/artists/5sMku8iI6FH3ypZTErz4kv", 
+            "type": "artist", 
+            "id": "5sMku8iI6FH3ypZTErz4kv"
+          }
+        ], 
+        "duration_ms": 193200, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "3hJ7T1EINYzGu2SoFCfh1a"
+      }, 
+      {
+        "name": "Western Front 1992 C.E.", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6YU8WeJDJp1na0xblIyy7h"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8ec5537d35e919415edbd31269430c310138c07c", 
+        "is_playable": true, 
+        "uri": "spotify:track:6YU8WeJDJp1na0xblIyy7h", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6YU8WeJDJp1na0xblIyy7h", 
+        "artists": [
+          {
+            "name": "Julian Cope", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5sMku8iI6FH3ypZTErz4kv"
+            }, 
+            "uri": "spotify:artist:5sMku8iI6FH3ypZTErz4kv", 
+            "href": "https://api.spotify.com/v1/artists/5sMku8iI6FH3ypZTErz4kv", 
+            "type": "artist", 
+            "id": "5sMku8iI6FH3ypZTErz4kv"
+          }
+        ], 
+        "duration_ms": 121440, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "6YU8WeJDJp1na0xblIyy7h"
+      }, 
+      {
+        "name": "Hung Up And Hanging Out To Dry", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0qZverE2tp5FGGPYJRMQLd"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e4a0342ab9e4ff6b6b7c8a9f2ffbb92d4cb86868", 
+        "is_playable": true, 
+        "uri": "spotify:track:0qZverE2tp5FGGPYJRMQLd", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0qZverE2tp5FGGPYJRMQLd", 
+        "artists": [
+          {
+            "name": "Julian Cope", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5sMku8iI6FH3ypZTErz4kv"
+            }, 
+            "uri": "spotify:artist:5sMku8iI6FH3ypZTErz4kv", 
+            "href": "https://api.spotify.com/v1/artists/5sMku8iI6FH3ypZTErz4kv", 
+            "type": "artist", 
+            "id": "5sMku8iI6FH3ypZTErz4kv"
+          }
+        ], 
+        "duration_ms": 287560, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "0qZverE2tp5FGGPYJRMQLd"
+      }, 
+      {
+        "name": "The American Lite", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2U1Kd4C4WrD99L1aKcnBcO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/aaf5ac1e1388f568437c57f15f08fa8847cace5f", 
+        "is_playable": true, 
+        "uri": "spotify:track:2U1Kd4C4WrD99L1aKcnBcO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2U1Kd4C4WrD99L1aKcnBcO", 
+        "artists": [
+          {
+            "name": "Julian Cope", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5sMku8iI6FH3ypZTErz4kv"
+            }, 
+            "uri": "spotify:artist:5sMku8iI6FH3ypZTErz4kv", 
+            "href": "https://api.spotify.com/v1/artists/5sMku8iI6FH3ypZTErz4kv", 
+            "type": "artist", 
+            "id": "5sMku8iI6FH3ypZTErz4kv"
+          }
+        ], 
+        "duration_ms": 242773, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "2U1Kd4C4WrD99L1aKcnBcO"
+      }, 
+      {
+        "name": "Las Vegas Basement", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4fR03WdEhuelQnc5rkA7km"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0154d06f0839c746fca5750cddae5a64abf077d1", 
+        "is_playable": true, 
+        "uri": "spotify:track:4fR03WdEhuelQnc5rkA7km", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4fR03WdEhuelQnc5rkA7km", 
+        "artists": [
+          {
+            "name": "Julian Cope", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5sMku8iI6FH3ypZTErz4kv"
+            }, 
+            "uri": "spotify:artist:5sMku8iI6FH3ypZTErz4kv", 
+            "href": "https://api.spotify.com/v1/artists/5sMku8iI6FH3ypZTErz4kv", 
+            "type": "artist", 
+            "id": "5sMku8iI6FH3ypZTErz4kv"
+          }
+        ], 
+        "duration_ms": 290413, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "4fR03WdEhuelQnc5rkA7km"
+      }, 
+      {
+        "name": "Easty Risin - East Easy Rider Remix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0PR2zvaIaG5nVr1aeE9MkI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0f66abe7c068d3e35053f8daacd17b551d6e6f1a", 
+        "is_playable": true, 
+        "uri": "spotify:track:0PR2zvaIaG5nVr1aeE9MkI", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/0PR2zvaIaG5nVr1aeE9MkI", 
+        "artists": [
+          {
+            "name": "Julian Cope", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5sMku8iI6FH3ypZTErz4kv"
+            }, 
+            "uri": "spotify:artist:5sMku8iI6FH3ypZTErz4kv", 
+            "href": "https://api.spotify.com/v1/artists/5sMku8iI6FH3ypZTErz4kv", 
+            "type": "artist", 
+            "id": "5sMku8iI6FH3ypZTErz4kv"
+          }
+        ], 
+        "duration_ms": 498760, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "0PR2zvaIaG5nVr1aeE9MkI"
+      }, 
+      {
+        "name": "Ravebury Stones", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5uLQA30rg1jBJhstUXHjJv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/72335c44ab3f7c9234174eeeb7a4f3250b94cc4c", 
+        "is_playable": true, 
+        "uri": "spotify:track:5uLQA30rg1jBJhstUXHjJv", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5uLQA30rg1jBJhstUXHjJv", 
+        "artists": [
+          {
+            "name": "Julian Cope", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5sMku8iI6FH3ypZTErz4kv"
+            }, 
+            "uri": "spotify:artist:5sMku8iI6FH3ypZTErz4kv", 
+            "href": "https://api.spotify.com/v1/artists/5sMku8iI6FH3ypZTErz4kv", 
+            "type": "artist", 
+            "id": "5sMku8iI6FH3ypZTErz4kv"
+          }
+        ], 
+        "duration_ms": 691333, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "5uLQA30rg1jBJhstUXHjJv"
+      }, 
+      {
+        "name": "Love (L.U.V.) - Beautiful Love Remix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3pP5afrBDXbdZuLwf964lK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a6d086fcf0f07a3a006ed00c258fe1e0c0213c47", 
+        "is_playable": true, 
+        "uri": "spotify:track:3pP5afrBDXbdZuLwf964lK", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/3pP5afrBDXbdZuLwf964lK", 
+        "artists": [
+          {
+            "name": "Julian Cope", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5sMku8iI6FH3ypZTErz4kv"
+            }, 
+            "uri": "spotify:artist:5sMku8iI6FH3ypZTErz4kv", 
+            "href": "https://api.spotify.com/v1/artists/5sMku8iI6FH3ypZTErz4kv", 
+            "type": "artist", 
+            "id": "5sMku8iI6FH3ypZTErz4kv"
+          }
+        ], 
+        "duration_ms": 410373, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "3pP5afrBDXbdZuLwf964lK"
+      }, 
+      {
+        "name": "Dragonfly", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1QvxYwWqLZWCQChIndejbm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/37210acdf0eefa7293650b9414b951526f8cbac9", 
+        "is_playable": true, 
+        "uri": "spotify:track:1QvxYwWqLZWCQChIndejbm", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1QvxYwWqLZWCQChIndejbm", 
+        "artists": [
+          {
+            "name": "Julian Cope", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5sMku8iI6FH3ypZTErz4kv"
+            }, 
+            "uri": "spotify:artist:5sMku8iI6FH3ypZTErz4kv", 
+            "href": "https://api.spotify.com/v1/artists/5sMku8iI6FH3ypZTErz4kv", 
+            "type": "artist", 
+            "id": "5sMku8iI6FH3ypZTErz4kv"
+          }
+        ], 
+        "duration_ms": 555266, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "1QvxYwWqLZWCQChIndejbm"
+      }, 
+      {
+        "name": "Heed: Of Penetration And The City-Dweller - Head Remix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/76VcZEyyBIDbaCgBG7hFoo"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/655ca30f37aabb2f1ddbdf74e5a536ace1bf5189", 
+        "is_playable": true, 
+        "uri": "spotify:track:76VcZEyyBIDbaCgBG7hFoo", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/76VcZEyyBIDbaCgBG7hFoo", 
+        "artists": [
+          {
+            "name": "Julian Cope", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5sMku8iI6FH3ypZTErz4kv"
+            }, 
+            "uri": "spotify:artist:5sMku8iI6FH3ypZTErz4kv", 
+            "href": "https://api.spotify.com/v1/artists/5sMku8iI6FH3ypZTErz4kv", 
+            "type": "artist", 
+            "id": "5sMku8iI6FH3ypZTErz4kv"
+          }
+        ], 
+        "duration_ms": 368546, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "76VcZEyyBIDbaCgBG7hFoo"
+      }, 
+      {
+        "name": "Bring Cherhill Down - Vocal Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3anX4o7XrNE5SGSaFNnOiX"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e9ab799383bcd4bba69e4a7f7e23202d63daaaf0", 
+        "is_playable": true, 
+        "uri": "spotify:track:3anX4o7XrNE5SGSaFNnOiX", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/3anX4o7XrNE5SGSaFNnOiX", 
+        "artists": [
+          {
+            "name": "Julian Cope", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5sMku8iI6FH3ypZTErz4kv"
+            }, 
+            "uri": "spotify:artist:5sMku8iI6FH3ypZTErz4kv", 
+            "href": "https://api.spotify.com/v1/artists/5sMku8iI6FH3ypZTErz4kv", 
+            "type": "artist", 
+            "id": "5sMku8iI6FH3ypZTErz4kv"
+          }
+        ], 
+        "duration_ms": 414706, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "3anX4o7XrNE5SGSaFNnOiX"
+      }, 
+      {
+        "name": "Safesurfer - 1991 Tour Single", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5CkNyWy5tDozHF00l59NO7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cda28e2550499ef79698aa8f85c4e4f9fa80c1cf", 
+        "is_playable": true, 
+        "uri": "spotify:track:5CkNyWy5tDozHF00l59NO7", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5CkNyWy5tDozHF00l59NO7", 
+        "artists": [
+          {
+            "name": "Julian Cope", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5sMku8iI6FH3ypZTErz4kv"
+            }, 
+            "uri": "spotify:artist:5sMku8iI6FH3ypZTErz4kv", 
+            "href": "https://api.spotify.com/v1/artists/5sMku8iI6FH3ypZTErz4kv", 
+            "type": "artist", 
+            "id": "5sMku8iI6FH3ypZTErz4kv"
+          }
+        ], 
+        "duration_ms": 417720, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "5CkNyWy5tDozHF00l59NO7"
+      }, 
+      {
+        "name": "If You Loved Me At All - 1991 Tour Single", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1BFYLjGTzEJp16fusYi0AM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c60752ba36869dc562e06fca93687e17687e2056", 
+        "is_playable": true, 
+        "uri": "spotify:track:1BFYLjGTzEJp16fusYi0AM", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1BFYLjGTzEJp16fusYi0AM", 
+        "artists": [
+          {
+            "name": "Julian Cope", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5sMku8iI6FH3ypZTErz4kv"
+            }, 
+            "uri": "spotify:artist:5sMku8iI6FH3ypZTErz4kv", 
+            "href": "https://api.spotify.com/v1/artists/5sMku8iI6FH3ypZTErz4kv", 
+            "type": "artist", 
+            "id": "5sMku8iI6FH3ypZTErz4kv"
+          }
+        ], 
+        "duration_ms": 387466, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "1BFYLjGTzEJp16fusYi0AM"
+      }, 
+      {
+        "name": "Butterfly E", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1lMEbLtqsif3lSUndMrDbg"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d705a668b652df10546eb6ccb17c58679e892e11", 
+        "is_playable": true, 
+        "uri": "spotify:track:1lMEbLtqsif3lSUndMrDbg", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1lMEbLtqsif3lSUndMrDbg", 
+        "artists": [
+          {
+            "name": "Julian Cope", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5sMku8iI6FH3ypZTErz4kv"
+            }, 
+            "uri": "spotify:artist:5sMku8iI6FH3ypZTErz4kv", 
+            "href": "https://api.spotify.com/v1/artists/5sMku8iI6FH3ypZTErz4kv", 
+            "type": "artist", 
+            "id": "5sMku8iI6FH3ypZTErz4kv"
+          }
+        ], 
+        "duration_ms": 394146, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "1lMEbLtqsif3lSUndMrDbg"
+      }, 
+      {
+        "name": "Straw Dogs", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6LlKBdrGiWJ3zCw4CEPhou"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0aaaacf96c33775bd1765aebf4fb3e83b11fbcf9", 
+        "is_playable": true, 
+        "uri": "spotify:track:6LlKBdrGiWJ3zCw4CEPhou", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6LlKBdrGiWJ3zCw4CEPhou", 
+        "artists": [
+          {
+            "name": "Julian Cope", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5sMku8iI6FH3ypZTErz4kv"
+            }, 
+            "uri": "spotify:artist:5sMku8iI6FH3ypZTErz4kv", 
+            "href": "https://api.spotify.com/v1/artists/5sMku8iI6FH3ypZTErz4kv", 
+            "type": "artist", 
+            "id": "5sMku8iI6FH3ypZTErz4kv"
+          }
+        ], 
+        "duration_ms": 328840, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "6LlKBdrGiWJ3zCw4CEPhou"
+      }, 
+      {
+        "name": "Anyway At All", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/46yhAvNHhe44Benx4yUcya"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c17e46492cc9d37671516e49bf21a0caef915b73", 
+        "is_playable": true, 
+        "uri": "spotify:track:46yhAvNHhe44Benx4yUcya", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/46yhAvNHhe44Benx4yUcya", 
+        "artists": [
+          {
+            "name": "Julian Cope", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5sMku8iI6FH3ypZTErz4kv"
+            }, 
+            "uri": "spotify:artist:5sMku8iI6FH3ypZTErz4kv", 
+            "href": "https://api.spotify.com/v1/artists/5sMku8iI6FH3ypZTErz4kv", 
+            "type": "artist", 
+            "id": "5sMku8iI6FH3ypZTErz4kv"
+          }
+        ], 
+        "duration_ms": 233573, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "46yhAvNHhe44Benx4yUcya"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/6GkGI6WUnWSITDCx3y1GAB/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 29, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/6GkGI6WUnWSITDCx3y1GAB", 
+  "copyrights": [
+    {
+      "text": "(C) 2009 Universal Island Records Ltd. A Universal Music Company.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 2009 Universal-Island Records Ltd.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Julian Cope", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5sMku8iI6FH3ypZTErz4kv"
+      }, 
+      "uri": "spotify:artist:5sMku8iI6FH3ypZTErz4kv", 
+      "href": "https://api.spotify.com/v1/artists/5sMku8iI6FH3ypZTErz4kv", 
+      "type": "artist", 
+      "id": "5sMku8iI6FH3ypZTErz4kv"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/fed8f43860b57f8120386825737c681ea64cf4b0", 
+      "width": 640, 
+      "height": 589
+    }, 
+    {
+      "url": "https://i.scdn.co/image/a9481b6b50007f27deca0b786ec842e8cc5f9249", 
+      "width": 300, 
+      "height": 276
+    }, 
+    {
+      "url": "https://i.scdn.co/image/229e251c12054c2487166cf0272ef95450245422", 
+      "width": 64, 
+      "height": 59
+    }
+  ], 
+  "external_ids": {
+    "upc": "00600753136560"
+  }, 
+  "type": "album", 
+  "id": "6GkGI6WUnWSITDCx3y1GAB", 
+  "name": "Peggy Suicide (Deluxe Edition)"
+}

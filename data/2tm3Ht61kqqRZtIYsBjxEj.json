@@ -1,0 +1,795 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
+  }, 
+  "release_date": "2000-10-31", 
+  "popularity": 74, 
+  "genres": [], 
+  "uri": "spotify:album:2tm3Ht61kqqRZtIYsBjxEj", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Intro", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7LkwNlnMYYGOCqW1igUgqR"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1040cb876d740f9d2f0a255783e187b31894ba16", 
+        "is_playable": true, 
+        "uri": "spotify:track:7LkwNlnMYYGOCqW1igUgqR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7LkwNlnMYYGOCqW1igUgqR", 
+        "artists": [
+          {
+            "name": "OutKast", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            }, 
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7", 
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7", 
+            "type": "artist", 
+            "id": "1G9G7WwrXka3Z1r7aIDjI7"
+          }
+        ], 
+        "duration_ms": 69720, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "7LkwNlnMYYGOCqW1igUgqR"
+      }, 
+      {
+        "name": "Gasoline Dreams - Dirty Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Jo3u8eXp8xobbrvq0FIi9"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/46a65a6494132045e07a5dcb6ca76facdc0f5d46", 
+        "is_playable": true, 
+        "uri": "spotify:track:1Jo3u8eXp8xobbrvq0FIi9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1Jo3u8eXp8xobbrvq0FIi9", 
+        "artists": [
+          {
+            "name": "OutKast", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            }, 
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7", 
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7", 
+            "type": "artist", 
+            "id": "1G9G7WwrXka3Z1r7aIDjI7"
+          }, 
+          {
+            "name": "Khujo Goodie", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/28i3mntNBlXpjstb1nHhkJ"
+            }, 
+            "uri": "spotify:artist:28i3mntNBlXpjstb1nHhkJ", 
+            "href": "https://api.spotify.com/v1/artists/28i3mntNBlXpjstb1nHhkJ", 
+            "type": "artist", 
+            "id": "28i3mntNBlXpjstb1nHhkJ"
+          }
+        ], 
+        "duration_ms": 214706, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "1Jo3u8eXp8xobbrvq0FIi9"
+      }, 
+      {
+        "name": "I'm Cool (Interlude)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3R4IgnYTITZGpGfCZ3ptkM"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1b822fb2b1bcbb09c38f5f8c5a98874c122c5a36", 
+        "is_playable": true, 
+        "uri": "spotify:track:3R4IgnYTITZGpGfCZ3ptkM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3R4IgnYTITZGpGfCZ3ptkM", 
+        "artists": [
+          {
+            "name": "OutKast", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            }, 
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7", 
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7", 
+            "type": "artist", 
+            "id": "1G9G7WwrXka3Z1r7aIDjI7"
+          }
+        ], 
+        "duration_ms": 42040, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "3R4IgnYTITZGpGfCZ3ptkM"
+      }, 
+      {
+        "name": "So Fresh, So Clean", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e04c566948179b526f8deb5a2f834b66a128bcd0", 
+        "is_playable": true, 
+        "uri": "spotify:track:6glsMWIMIxQ4BedzLqGVi4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6glsMWIMIxQ4BedzLqGVi4", 
+        "artists": [
+          {
+            "name": "OutKast", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            }, 
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7", 
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7", 
+            "type": "artist", 
+            "id": "1G9G7WwrXka3Z1r7aIDjI7"
+          }
+        ], 
+        "duration_ms": 240026, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "6glsMWIMIxQ4BedzLqGVi4"
+      }, 
+      {
+        "name": "Ms. Jackson", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d1ccc50e31c6b6ab1d1cbe7aab66e88e86d586b4", 
+        "is_playable": true, 
+        "uri": "spotify:track:0I3q5fE6wg7LIfHGngUTnV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0I3q5fE6wg7LIfHGngUTnV", 
+        "artists": [
+          {
+            "name": "OutKast", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            }, 
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7", 
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7", 
+            "type": "artist", 
+            "id": "1G9G7WwrXka3Z1r7aIDjI7"
+          }
+        ], 
+        "duration_ms": 270506, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "0I3q5fE6wg7LIfHGngUTnV"
+      }, 
+      {
+        "name": "Snappin' & Trappin'", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6C872iuQnICFQy5Z5hIIJX"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1decaae4cbac8492884cd8e063592b4be3424972", 
+        "is_playable": true, 
+        "uri": "spotify:track:6C872iuQnICFQy5Z5hIIJX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6C872iuQnICFQy5Z5hIIJX", 
+        "artists": [
+          {
+            "name": "OutKast with Killer Mike & J-Sweet", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4jUQ6f37XXI7eXwtAWZjFB"
+            }, 
+            "uri": "spotify:artist:4jUQ6f37XXI7eXwtAWZjFB", 
+            "href": "https://api.spotify.com/v1/artists/4jUQ6f37XXI7eXwtAWZjFB", 
+            "type": "artist", 
+            "id": "4jUQ6f37XXI7eXwtAWZjFB"
+          }
+        ], 
+        "duration_ms": 259693, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "6C872iuQnICFQy5Z5hIIJX"
+      }, 
+      {
+        "name": "D.F. (Interlude)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Y1ZV5NJWTkp7M0r4lwdnM"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a5f18378a437f304e124a9202aa36fa6651ff942", 
+        "is_playable": true, 
+        "uri": "spotify:track:1Y1ZV5NJWTkp7M0r4lwdnM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1Y1ZV5NJWTkp7M0r4lwdnM", 
+        "artists": [
+          {
+            "name": "OutKast", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            }, 
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7", 
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7", 
+            "type": "artist", 
+            "id": "1G9G7WwrXka3Z1r7aIDjI7"
+          }
+        ], 
+        "duration_ms": 27240, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "1Y1ZV5NJWTkp7M0r4lwdnM"
+      }, 
+      {
+        "name": "Spaghetti Junction", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1ZosUXeZM3qlTWdL1uTrhm"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/96f1309ec20e0da3da57102f4dd57b4d31ab16d3", 
+        "is_playable": true, 
+        "uri": "spotify:track:1ZosUXeZM3qlTWdL1uTrhm", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1ZosUXeZM3qlTWdL1uTrhm", 
+        "artists": [
+          {
+            "name": "OutKast", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            }, 
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7", 
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7", 
+            "type": "artist", 
+            "id": "1G9G7WwrXka3Z1r7aIDjI7"
+          }
+        ], 
+        "duration_ms": 237160, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "1ZosUXeZM3qlTWdL1uTrhm"
+      }, 
+      {
+        "name": "Kim & Cookie (Interlude)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/51QLvM437Xstp0bLdq0aFj"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/89f80e9841c87e7b6e2134978402da7e46f1a18b", 
+        "is_playable": true, 
+        "uri": "spotify:track:51QLvM437Xstp0bLdq0aFj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/51QLvM437Xstp0bLdq0aFj", 
+        "artists": [
+          {
+            "name": "OutKast", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            }, 
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7", 
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7", 
+            "type": "artist", 
+            "id": "1G9G7WwrXka3Z1r7aIDjI7"
+          }
+        ], 
+        "duration_ms": 72533, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "51QLvM437Xstp0bLdq0aFj"
+      }, 
+      {
+        "name": "I'll Call B4 I Cum", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6F1nkRSfNUh3FcoSmuO4fu"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/89bfdc01f2827f95e908f6cccdfb2fe328c2443e", 
+        "is_playable": true, 
+        "uri": "spotify:track:6F1nkRSfNUh3FcoSmuO4fu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6F1nkRSfNUh3FcoSmuO4fu", 
+        "artists": [
+          {
+            "name": "OutKast", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            }, 
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7", 
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7", 
+            "type": "artist", 
+            "id": "1G9G7WwrXka3Z1r7aIDjI7"
+          }, 
+          {
+            "name": "Gangsta Boo", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP"
+            }, 
+            "uri": "spotify:artist:3ppZNqihWOzuH4A0f4KmeP", 
+            "href": "https://api.spotify.com/v1/artists/3ppZNqihWOzuH4A0f4KmeP", 
+            "type": "artist", 
+            "id": "3ppZNqihWOzuH4A0f4KmeP"
+          }, 
+          {
+            "name": "ECO", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1ZNj00gMD4ZOd0aqVlTKLr"
+            }, 
+            "uri": "spotify:artist:1ZNj00gMD4ZOd0aqVlTKLr", 
+            "href": "https://api.spotify.com/v1/artists/1ZNj00gMD4ZOd0aqVlTKLr", 
+            "type": "artist", 
+            "id": "1ZNj00gMD4ZOd0aqVlTKLr"
+          }
+        ], 
+        "duration_ms": 258440, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "6F1nkRSfNUh3FcoSmuO4fu"
+      }, 
+      {
+        "name": "B.O.B.", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3WibbMr6canxRJXhNtAvLU"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6e606dcea29dfedcca5c3c5a1d871f89dcf2cf81", 
+        "is_playable": true, 
+        "uri": "spotify:track:3WibbMr6canxRJXhNtAvLU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3WibbMr6canxRJXhNtAvLU", 
+        "artists": [
+          {
+            "name": "OutKast", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            }, 
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7", 
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7", 
+            "type": "artist", 
+            "id": "1G9G7WwrXka3Z1r7aIDjI7"
+          }
+        ], 
+        "duration_ms": 304226, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "3WibbMr6canxRJXhNtAvLU"
+      }, 
+      {
+        "name": "Xplosion", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/54MqZEYfS0aRgNWW19hNW4"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e39048e36b2e82d734ca646200c8dca46422783d", 
+        "is_playable": true, 
+        "uri": "spotify:track:54MqZEYfS0aRgNWW19hNW4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/54MqZEYfS0aRgNWW19hNW4", 
+        "artists": [
+          {
+            "name": "OutKast with B-Real", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6AQRt6CdgP3wJmVkLvmWu5"
+            }, 
+            "uri": "spotify:artist:6AQRt6CdgP3wJmVkLvmWu5", 
+            "href": "https://api.spotify.com/v1/artists/6AQRt6CdgP3wJmVkLvmWu5", 
+            "type": "artist", 
+            "id": "6AQRt6CdgP3wJmVkLvmWu5"
+          }
+        ], 
+        "duration_ms": 248840, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "54MqZEYfS0aRgNWW19hNW4"
+      }, 
+      {
+        "name": "Good Hair (Interlude)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0a7EuQ73Wc6bPQApzjWPwz"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/46dc7618fb3e53a8def5e3676b1e12beab66167b", 
+        "is_playable": true, 
+        "uri": "spotify:track:0a7EuQ73Wc6bPQApzjWPwz", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0a7EuQ73Wc6bPQApzjWPwz", 
+        "artists": [
+          {
+            "name": "OutKast", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            }, 
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7", 
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7", 
+            "type": "artist", 
+            "id": "1G9G7WwrXka3Z1r7aIDjI7"
+          }
+        ], 
+        "duration_ms": 14960, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "0a7EuQ73Wc6bPQApzjWPwz"
+      }, 
+      {
+        "name": "We Luv Deez Hoez", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4XaY6ZNB5BrmVVLtQxjWpm"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fd11ec23dd9219b69d8a75a23ad935cd3ced2e74", 
+        "is_playable": true, 
+        "uri": "spotify:track:4XaY6ZNB5BrmVVLtQxjWpm", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4XaY6ZNB5BrmVVLtQxjWpm", 
+        "artists": [
+          {
+            "name": "OutKast", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            }, 
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7", 
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7", 
+            "type": "artist", 
+            "id": "1G9G7WwrXka3Z1r7aIDjI7"
+          }
+        ], 
+        "duration_ms": 250466, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "4XaY6ZNB5BrmVVLtQxjWpm"
+      }, 
+      {
+        "name": "Humble Mumble", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5cN4KyXGUdNOve1TEPWmhL"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d3b103359ab0555e75a1b770af07b79a27cca614", 
+        "is_playable": true, 
+        "uri": "spotify:track:5cN4KyXGUdNOve1TEPWmhL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5cN4KyXGUdNOve1TEPWmhL", 
+        "artists": [
+          {
+            "name": "OutKast", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            }, 
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7", 
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7", 
+            "type": "artist", 
+            "id": "1G9G7WwrXka3Z1r7aIDjI7"
+          }, 
+          {
+            "name": "Erykah Badu", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+            }, 
+            "uri": "spotify:artist:7IfculRW2WXyzNQ8djX8WX", 
+            "href": "https://api.spotify.com/v1/artists/7IfculRW2WXyzNQ8djX8WX", 
+            "type": "artist", 
+            "id": "7IfculRW2WXyzNQ8djX8WX"
+          }
+        ], 
+        "duration_ms": 290666, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "5cN4KyXGUdNOve1TEPWmhL"
+      }, 
+      {
+        "name": "Drinkin' Again (Interlude)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1ZoK9LKJppVYpc5b1QtpD8"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4b838246d268cabb3b64d9e662bb96081c119516", 
+        "is_playable": true, 
+        "uri": "spotify:track:1ZoK9LKJppVYpc5b1QtpD8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1ZoK9LKJppVYpc5b1QtpD8", 
+        "artists": [
+          {
+            "name": "OutKast", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            }, 
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7", 
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7", 
+            "type": "artist", 
+            "id": "1G9G7WwrXka3Z1r7aIDjI7"
+          }
+        ], 
+        "duration_ms": 24506, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "1ZoK9LKJppVYpc5b1QtpD8"
+      }, 
+      {
+        "name": "?", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/67tv8s6iNlSwz2RxVPcoY5"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/eb503d46d17dcf8626401928d34e6ef0682c3cc0", 
+        "is_playable": true, 
+        "uri": "spotify:track:67tv8s6iNlSwz2RxVPcoY5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/67tv8s6iNlSwz2RxVPcoY5", 
+        "artists": [
+          {
+            "name": "OutKast", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            }, 
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7", 
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7", 
+            "type": "artist", 
+            "id": "1G9G7WwrXka3Z1r7aIDjI7"
+          }
+        ], 
+        "duration_ms": 88626, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "67tv8s6iNlSwz2RxVPcoY5"
+      }, 
+      {
+        "name": "Red Velvet", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5AnpPlwvf01F9D1gcAbCRa"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6279176499d4aaaa6547774923b4c64d61e84ccf", 
+        "is_playable": true, 
+        "uri": "spotify:track:5AnpPlwvf01F9D1gcAbCRa", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5AnpPlwvf01F9D1gcAbCRa", 
+        "artists": [
+          {
+            "name": "OutKast", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            }, 
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7", 
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7", 
+            "type": "artist", 
+            "id": "1G9G7WwrXka3Z1r7aIDjI7"
+          }
+        ], 
+        "duration_ms": 232640, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "5AnpPlwvf01F9D1gcAbCRa"
+      }, 
+      {
+        "name": "Cruisin' In The ATL (Interlude)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4zTqkKfNC3rDQ0uuAGOvie"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/73852791b2cf12555df0ecf3cd7d0d7073cce2ea", 
+        "is_playable": true, 
+        "uri": "spotify:track:4zTqkKfNC3rDQ0uuAGOvie", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4zTqkKfNC3rDQ0uuAGOvie", 
+        "artists": [
+          {
+            "name": "Southside", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WZKfnDZopX1oMUi8gPSHt"
+            }, 
+            "uri": "spotify:artist:0WZKfnDZopX1oMUi8gPSHt", 
+            "href": "https://api.spotify.com/v1/artists/0WZKfnDZopX1oMUi8gPSHt", 
+            "type": "artist", 
+            "id": "0WZKfnDZopX1oMUi8gPSHt"
+          }
+        ], 
+        "duration_ms": 19293, 
+        "track_number": 19, 
+        "type": "track", 
+        "id": "4zTqkKfNC3rDQ0uuAGOvie"
+      }, 
+      {
+        "name": "Gangsta Sh*t", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2fk55YQGYhilLmXFaKWESM"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2eaa0760e3ba1811dd0d44419de269b6feec6d23", 
+        "is_playable": true, 
+        "uri": "spotify:track:2fk55YQGYhilLmXFaKWESM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2fk55YQGYhilLmXFaKWESM", 
+        "artists": [
+          {
+            "name": "OutKast", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            }, 
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7", 
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7", 
+            "type": "artist", 
+            "id": "1G9G7WwrXka3Z1r7aIDjI7"
+          }, 
+          {
+            "name": "Slimm Calhoun", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3KFSIyUS34wLYZ5MdU27Cc"
+            }, 
+            "uri": "spotify:artist:3KFSIyUS34wLYZ5MdU27Cc", 
+            "href": "https://api.spotify.com/v1/artists/3KFSIyUS34wLYZ5MdU27Cc", 
+            "type": "artist", 
+            "id": "3KFSIyUS34wLYZ5MdU27Cc"
+          }, 
+          {
+            "name": "C-Bone", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2HY3VFjedRaBf9RepUUT9J"
+            }, 
+            "uri": "spotify:artist:2HY3VFjedRaBf9RepUUT9J", 
+            "href": "https://api.spotify.com/v1/artists/2HY3VFjedRaBf9RepUUT9J", 
+            "type": "artist", 
+            "id": "2HY3VFjedRaBf9RepUUT9J"
+          }
+        ], 
+        "duration_ms": 281266, 
+        "track_number": 20, 
+        "type": "track", 
+        "id": "2fk55YQGYhilLmXFaKWESM"
+      }, 
+      {
+        "name": "Toilet Tisha", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Dlz76O4yMvFdYsKRfBEdK"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e7f148bdb526b512413fb4195d44dba1641ec4b1", 
+        "is_playable": true, 
+        "uri": "spotify:track:4Dlz76O4yMvFdYsKRfBEdK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4Dlz76O4yMvFdYsKRfBEdK", 
+        "artists": [
+          {
+            "name": "OutKast", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            }, 
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7", 
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7", 
+            "type": "artist", 
+            "id": "1G9G7WwrXka3Z1r7aIDjI7"
+          }
+        ], 
+        "duration_ms": 264706, 
+        "track_number": 21, 
+        "type": "track", 
+        "id": "4Dlz76O4yMvFdYsKRfBEdK"
+      }, 
+      {
+        "name": "Slum Beautiful", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4hH99pmXR4tTUtVAdMf0kZ"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7fdaf4504ad3966a364408c3d31664ecf8bb7883", 
+        "is_playable": true, 
+        "uri": "spotify:track:4hH99pmXR4tTUtVAdMf0kZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4hH99pmXR4tTUtVAdMf0kZ", 
+        "artists": [
+          {
+            "name": "OutKast", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            }, 
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7", 
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7", 
+            "type": "artist", 
+            "id": "1G9G7WwrXka3Z1r7aIDjI7"
+          }
+        ], 
+        "duration_ms": 247560, 
+        "track_number": 22, 
+        "type": "track", 
+        "id": "4hH99pmXR4tTUtVAdMf0kZ"
+      }, 
+      {
+        "name": "Pre-Nump (Interlude)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6emmntELhK3aLuMzGk9Bpa"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2e87f313074ff677f50d33a741f56c39ab19b971", 
+        "is_playable": true, 
+        "uri": "spotify:track:6emmntELhK3aLuMzGk9Bpa", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6emmntELhK3aLuMzGk9Bpa", 
+        "artists": [
+          {
+            "name": "OutKast", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            }, 
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7", 
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7", 
+            "type": "artist", 
+            "id": "1G9G7WwrXka3Z1r7aIDjI7"
+          }
+        ], 
+        "duration_ms": 27066, 
+        "track_number": 23, 
+        "type": "track", 
+        "id": "6emmntELhK3aLuMzGk9Bpa"
+      }, 
+      {
+        "name": "Stankonia (Stanklove)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3hZnqmixPzXNrxjsaPlwHZ"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7b13e77ebc7dcb8abdc6f6fa407482540c6d613b", 
+        "is_playable": true, 
+        "uri": "spotify:track:3hZnqmixPzXNrxjsaPlwHZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3hZnqmixPzXNrxjsaPlwHZ", 
+        "artists": [
+          {
+            "name": "OutKast", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            }, 
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7", 
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7", 
+            "type": "artist", 
+            "id": "1G9G7WwrXka3Z1r7aIDjI7"
+          }
+        ], 
+        "duration_ms": 411026, 
+        "track_number": 24, 
+        "type": "track", 
+        "id": "3hZnqmixPzXNrxjsaPlwHZ"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/2tm3Ht61kqqRZtIYsBjxEj/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 24, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/2tm3Ht61kqqRZtIYsBjxEj", 
+  "copyrights": [
+    {
+      "text": "(P) 2000 Arista Records, Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "OutKast", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+      }, 
+      "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7", 
+      "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7", 
+      "type": "artist", 
+      "id": "1G9G7WwrXka3Z1r7aIDjI7"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/e22454bac541aae05981a648afc407d9452ac52a", 
+      "width": 640, 
+      "height": 590
+    }, 
+    {
+      "url": "https://i.scdn.co/image/d9c8acf62afd165f9b50fac85688b54f4907557e", 
+      "width": 300, 
+      "height": 276
+    }, 
+    {
+      "url": "https://i.scdn.co/image/bf31fe66aa220c0e02bd19b36f2a7c06dc495d77", 
+      "width": 64, 
+      "height": 59
+    }
+  ], 
+  "external_ids": {
+    "upc": "730082607223"
+  }, 
+  "type": "album", 
+  "id": "2tm3Ht61kqqRZtIYsBjxEj", 
+  "name": "Stankonia"
+}

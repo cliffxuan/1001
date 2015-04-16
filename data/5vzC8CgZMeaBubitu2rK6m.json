@@ -1,0 +1,553 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5vzC8CgZMeaBubitu2rK6m"
+  }, 
+  "release_date": "1994", 
+  "popularity": 61, 
+  "genres": [], 
+  "uri": "spotify:album:5vzC8CgZMeaBubitu2rK6m", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Intro", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1dBZNhGxcW7pWmaN7xc3PI"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ef57100d900d8913eac661d9dafa8294652dc756", 
+        "is_playable": true, 
+        "uri": "spotify:track:1dBZNhGxcW7pWmaN7xc3PI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1dBZNhGxcW7pWmaN7xc3PI", 
+        "artists": [
+          {
+            "name": "The Notorious B.I.G.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+            }, 
+            "uri": "spotify:artist:5me0Irg2ANcsgc93uaYrpb", 
+            "href": "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb", 
+            "type": "artist", 
+            "id": "5me0Irg2ANcsgc93uaYrpb"
+          }
+        ], 
+        "duration_ms": 205440, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "1dBZNhGxcW7pWmaN7xc3PI"
+      }, 
+      {
+        "name": "Things Done Changed", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7BUFfEHLamtGIHdQwM6l1P"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/edb7aba869fbd22cdab3b248459deed762405ea8", 
+        "is_playable": true, 
+        "uri": "spotify:track:7BUFfEHLamtGIHdQwM6l1P", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7BUFfEHLamtGIHdQwM6l1P", 
+        "artists": [
+          {
+            "name": "The Notorious B.I.G.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+            }, 
+            "uri": "spotify:artist:5me0Irg2ANcsgc93uaYrpb", 
+            "href": "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb", 
+            "type": "artist", 
+            "id": "5me0Irg2ANcsgc93uaYrpb"
+          }
+        ], 
+        "duration_ms": 236866, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "7BUFfEHLamtGIHdQwM6l1P"
+      }, 
+      {
+        "name": "Gimme the Loot", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3G4Jc4YQZeVvAHqKtXwFfM"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d25a454bbdc50530884fca7499956d48dc7aec22", 
+        "is_playable": true, 
+        "uri": "spotify:track:3G4Jc4YQZeVvAHqKtXwFfM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3G4Jc4YQZeVvAHqKtXwFfM", 
+        "artists": [
+          {
+            "name": "The Notorious B.I.G.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+            }, 
+            "uri": "spotify:artist:5me0Irg2ANcsgc93uaYrpb", 
+            "href": "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb", 
+            "type": "artist", 
+            "id": "5me0Irg2ANcsgc93uaYrpb"
+          }
+        ], 
+        "duration_ms": 304400, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "3G4Jc4YQZeVvAHqKtXwFfM"
+      }, 
+      {
+        "name": "Machine Gun Funk", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0uBzoj8aF5jpKFFRkhJuZA"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5292797d558bc05306e6332773e224f6a413bdce", 
+        "is_playable": true, 
+        "uri": "spotify:track:0uBzoj8aF5jpKFFRkhJuZA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0uBzoj8aF5jpKFFRkhJuZA", 
+        "artists": [
+          {
+            "name": "The Notorious B.I.G.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+            }, 
+            "uri": "spotify:artist:5me0Irg2ANcsgc93uaYrpb", 
+            "href": "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb", 
+            "type": "artist", 
+            "id": "5me0Irg2ANcsgc93uaYrpb"
+          }
+        ], 
+        "duration_ms": 256200, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "0uBzoj8aF5jpKFFRkhJuZA"
+      }, 
+      {
+        "name": "Warning", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5rZIyC7z4vrG4WaFESu5KG"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bcdef84f851605ea1e640889e03ab47c2ab0cf74", 
+        "is_playable": true, 
+        "uri": "spotify:track:5rZIyC7z4vrG4WaFESu5KG", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5rZIyC7z4vrG4WaFESu5KG", 
+        "artists": [
+          {
+            "name": "The Notorious B.I.G.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+            }, 
+            "uri": "spotify:artist:5me0Irg2ANcsgc93uaYrpb", 
+            "href": "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb", 
+            "type": "artist", 
+            "id": "5me0Irg2ANcsgc93uaYrpb"
+          }
+        ], 
+        "duration_ms": 220706, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "5rZIyC7z4vrG4WaFESu5KG"
+      }, 
+      {
+        "name": "Ready To Die", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/13NtXbR0isvDwKJbLhN73G"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e41b85d2469602b1a81ae7fa5786cc825af81e80", 
+        "is_playable": true, 
+        "uri": "spotify:track:13NtXbR0isvDwKJbLhN73G", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/13NtXbR0isvDwKJbLhN73G", 
+        "artists": [
+          {
+            "name": "The Notorious B.I.G.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+            }, 
+            "uri": "spotify:artist:5me0Irg2ANcsgc93uaYrpb", 
+            "href": "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb", 
+            "type": "artist", 
+            "id": "5me0Irg2ANcsgc93uaYrpb"
+          }
+        ], 
+        "duration_ms": 264453, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "13NtXbR0isvDwKJbLhN73G"
+      }, 
+      {
+        "name": "One More Chance", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3iNoVn1IVZKWPe7DGUIaxZ"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/aa43ccedb250101a99d8404a651cd4fb1d28df4c", 
+        "is_playable": true, 
+        "uri": "spotify:track:3iNoVn1IVZKWPe7DGUIaxZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3iNoVn1IVZKWPe7DGUIaxZ", 
+        "artists": [
+          {
+            "name": "The Notorious B.I.G.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+            }, 
+            "uri": "spotify:artist:5me0Irg2ANcsgc93uaYrpb", 
+            "href": "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb", 
+            "type": "artist", 
+            "id": "5me0Irg2ANcsgc93uaYrpb"
+          }
+        ], 
+        "duration_ms": 282840, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "3iNoVn1IVZKWPe7DGUIaxZ"
+      }, 
+      {
+        "name": "F*** Me (Interlude)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3lpXEnXOBRtYovFrlIuZBD"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/55b3e5e5b0d866a8319c8d64945aa3b131d6ff1d", 
+        "is_playable": true, 
+        "uri": "spotify:track:3lpXEnXOBRtYovFrlIuZBD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3lpXEnXOBRtYovFrlIuZBD", 
+        "artists": [
+          {
+            "name": "The Notorious B.I.G.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+            }, 
+            "uri": "spotify:artist:5me0Irg2ANcsgc93uaYrpb", 
+            "href": "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb", 
+            "type": "artist", 
+            "id": "5me0Irg2ANcsgc93uaYrpb"
+          }
+        ], 
+        "duration_ms": 91200, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "3lpXEnXOBRtYovFrlIuZBD"
+      }, 
+      {
+        "name": "The What - Radio Edit", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4TvXQbmUadmR74cT3g88Z8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/beb91c266116d8e8bf0fd3630cbfab008fa0f30a", 
+        "is_playable": true, 
+        "uri": "spotify:track:4TvXQbmUadmR74cT3g88Z8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4TvXQbmUadmR74cT3g88Z8", 
+        "artists": [
+          {
+            "name": "The Notorious B.I.G.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+            }, 
+            "uri": "spotify:artist:5me0Irg2ANcsgc93uaYrpb", 
+            "href": "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb", 
+            "type": "artist", 
+            "id": "5me0Irg2ANcsgc93uaYrpb"
+          }, 
+          {
+            "name": "Method Man", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+            }, 
+            "uri": "spotify:artist:4VmEWwd8y9MCLwexFMdpwt", 
+            "href": "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt", 
+            "type": "artist", 
+            "id": "4VmEWwd8y9MCLwexFMdpwt"
+          }
+        ], 
+        "duration_ms": 237533, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "4TvXQbmUadmR74cT3g88Z8"
+      }, 
+      {
+        "name": "Juicy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/37HqLVODvnooEx6KqcyGns"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9f9e04765f58925102619dfc0a18a6ac54b5991c", 
+        "is_playable": true, 
+        "uri": "spotify:track:37HqLVODvnooEx6KqcyGns", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/37HqLVODvnooEx6KqcyGns", 
+        "artists": [
+          {
+            "name": "The Notorious B.I.G.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+            }, 
+            "uri": "spotify:artist:5me0Irg2ANcsgc93uaYrpb", 
+            "href": "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb", 
+            "type": "artist", 
+            "id": "5me0Irg2ANcsgc93uaYrpb"
+          }
+        ], 
+        "duration_ms": 302666, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "37HqLVODvnooEx6KqcyGns"
+      }, 
+      {
+        "name": "Everyday Struggle", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/22yJ8MTCbWpfnIvfH4Bpxz"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5769e53977b8813282cc6e6006d37f87998f5c25", 
+        "is_playable": true, 
+        "uri": "spotify:track:22yJ8MTCbWpfnIvfH4Bpxz", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/22yJ8MTCbWpfnIvfH4Bpxz", 
+        "artists": [
+          {
+            "name": "The Notorious B.I.G.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+            }, 
+            "uri": "spotify:artist:5me0Irg2ANcsgc93uaYrpb", 
+            "href": "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb", 
+            "type": "artist", 
+            "id": "5me0Irg2ANcsgc93uaYrpb"
+          }
+        ], 
+        "duration_ms": 319373, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "22yJ8MTCbWpfnIvfH4Bpxz"
+      }, 
+      {
+        "name": "Me & My Bitch", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6n58ykVAMW8Sxac65Uklg7"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/69072920910f43af7b560a98ac081885a304d3af", 
+        "is_playable": true, 
+        "uri": "spotify:track:6n58ykVAMW8Sxac65Uklg7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6n58ykVAMW8Sxac65Uklg7", 
+        "artists": [
+          {
+            "name": "The Notorious B.I.G.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+            }, 
+            "uri": "spotify:artist:5me0Irg2ANcsgc93uaYrpb", 
+            "href": "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb", 
+            "type": "artist", 
+            "id": "5me0Irg2ANcsgc93uaYrpb"
+          }
+        ], 
+        "duration_ms": 240493, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "6n58ykVAMW8Sxac65Uklg7"
+      }, 
+      {
+        "name": "Big Poppa", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1qlXkLyIrUFzBdYwf110gr"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/31d131ce88204bc381caa283b2ed9852db443f2c", 
+        "is_playable": true, 
+        "uri": "spotify:track:1qlXkLyIrUFzBdYwf110gr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1qlXkLyIrUFzBdYwf110gr", 
+        "artists": [
+          {
+            "name": "The Notorious B.I.G.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+            }, 
+            "uri": "spotify:artist:5me0Irg2ANcsgc93uaYrpb", 
+            "href": "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb", 
+            "type": "artist", 
+            "id": "5me0Irg2ANcsgc93uaYrpb"
+          }
+        ], 
+        "duration_ms": 252706, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "1qlXkLyIrUFzBdYwf110gr"
+      }, 
+      {
+        "name": "Respect", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0pwaASMusFjtxgv7ah96y8"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/22129c7dfc2a59fed9b0ae821fa2d5b215278865", 
+        "is_playable": true, 
+        "uri": "spotify:track:0pwaASMusFjtxgv7ah96y8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0pwaASMusFjtxgv7ah96y8", 
+        "artists": [
+          {
+            "name": "The Notorious B.I.G.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+            }, 
+            "uri": "spotify:artist:5me0Irg2ANcsgc93uaYrpb", 
+            "href": "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb", 
+            "type": "artist", 
+            "id": "5me0Irg2ANcsgc93uaYrpb"
+          }
+        ], 
+        "duration_ms": 321293, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "0pwaASMusFjtxgv7ah96y8"
+      }, 
+      {
+        "name": "Friend of Mine", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Lxso7uu30uESi72FEBtiJ"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/87ec583132a8184e9c448c5a339b7c83cafe1857", 
+        "is_playable": true, 
+        "uri": "spotify:track:3Lxso7uu30uESi72FEBtiJ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3Lxso7uu30uESi72FEBtiJ", 
+        "artists": [
+          {
+            "name": "The Notorious B.I.G.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+            }, 
+            "uri": "spotify:artist:5me0Irg2ANcsgc93uaYrpb", 
+            "href": "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb", 
+            "type": "artist", 
+            "id": "5me0Irg2ANcsgc93uaYrpb"
+          }
+        ], 
+        "duration_ms": 208200, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "3Lxso7uu30uESi72FEBtiJ"
+      }, 
+      {
+        "name": "Unbelievable", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5J2NYGMM2nYzcg5k7Nclt2"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0299ce6a37e82d86b150d312f117b0dc4fe6aa0e", 
+        "is_playable": true, 
+        "uri": "spotify:track:5J2NYGMM2nYzcg5k7Nclt2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5J2NYGMM2nYzcg5k7Nclt2", 
+        "artists": [
+          {
+            "name": "The Notorious B.I.G.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+            }, 
+            "uri": "spotify:artist:5me0Irg2ANcsgc93uaYrpb", 
+            "href": "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb", 
+            "type": "artist", 
+            "id": "5me0Irg2ANcsgc93uaYrpb"
+          }
+        ], 
+        "duration_ms": 223706, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "5J2NYGMM2nYzcg5k7Nclt2"
+      }, 
+      {
+        "name": "Suicidal Thoughts", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/157wRLN8BvMiucuHvmdd0b"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e032ea43ad4973c41bda103bf7d3fb720c71a2a4", 
+        "is_playable": true, 
+        "uri": "spotify:track:157wRLN8BvMiucuHvmdd0b", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/157wRLN8BvMiucuHvmdd0b", 
+        "artists": [
+          {
+            "name": "The Notorious B.I.G.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+            }, 
+            "uri": "spotify:artist:5me0Irg2ANcsgc93uaYrpb", 
+            "href": "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb", 
+            "type": "artist", 
+            "id": "5me0Irg2ANcsgc93uaYrpb"
+          }
+        ], 
+        "duration_ms": 173533, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "157wRLN8BvMiucuHvmdd0b"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/5vzC8CgZMeaBubitu2rK6m/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 17, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/5vzC8CgZMeaBubitu2rK6m", 
+  "copyrights": [
+    {
+      "text": "(C) 2003 Puff Daddy Records Inc., under exclusive license to Universal Music UK Ltd.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 2003 Puff Daddy Records Inc., under exclusive license to Universal Music UK Ltd.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "The Notorious B.I.G.", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+      }, 
+      "uri": "spotify:artist:5me0Irg2ANcsgc93uaYrpb", 
+      "href": "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb", 
+      "type": "artist", 
+      "id": "5me0Irg2ANcsgc93uaYrpb"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/d922c0ad04a0096c3a392df083fb85f4f41761a5", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/80c4ece4e5ce825c001f6d3c8ba69dc62f5be153", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/53b3abb862dbb123ebf423faa74641d22cda90ed", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00786127300024"
+  }, 
+  "type": "album", 
+  "id": "5vzC8CgZMeaBubitu2rK6m", 
+  "name": "Ready To Die"
+}

@@ -1,0 +1,431 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0HEoXFTgPHGvczXdz9Ty5S"
+  }, 
+  "release_date": "1997-01-01", 
+  "popularity": 30, 
+  "genres": [], 
+  "uri": "spotify:album:0HEoXFTgPHGvczXdz9Ty5S", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Listen", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5QEOCCsM9PeaEBQIHVEfQ1"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b612ca43930c0425a758dc73a6f4e83a567bc617", 
+        "is_playable": true, 
+        "uri": "spotify:track:5QEOCCsM9PeaEBQIHVEfQ1", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5QEOCCsM9PeaEBQIHVEfQ1", 
+        "artists": [
+          {
+            "name": "David Holmes", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/10kGEgP8MxhlfeA2tMinsL"
+            }, 
+            "uri": "spotify:artist:10kGEgP8MxhlfeA2tMinsL", 
+            "href": "https://api.spotify.com/v1/artists/10kGEgP8MxhlfeA2tMinsL", 
+            "type": "artist", 
+            "id": "10kGEgP8MxhlfeA2tMinsL"
+          }
+        ], 
+        "duration_ms": 49644, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "5QEOCCsM9PeaEBQIHVEfQ1"
+      }, 
+      {
+        "name": "My Mate Paul", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6hzEtet8JPXsORfMj3ZWGm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/dce363c68194461b0d953f47984e3a851252fa1f", 
+        "is_playable": true, 
+        "uri": "spotify:track:6hzEtet8JPXsORfMj3ZWGm", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6hzEtet8JPXsORfMj3ZWGm", 
+        "artists": [
+          {
+            "name": "David Holmes", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/10kGEgP8MxhlfeA2tMinsL"
+            }, 
+            "uri": "spotify:artist:10kGEgP8MxhlfeA2tMinsL", 
+            "href": "https://api.spotify.com/v1/artists/10kGEgP8MxhlfeA2tMinsL", 
+            "type": "artist", 
+            "id": "10kGEgP8MxhlfeA2tMinsL"
+          }
+        ], 
+        "duration_ms": 313376, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "6hzEtet8JPXsORfMj3ZWGm"
+      }, 
+      {
+        "name": "Let's Get Killed", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5TuLJUlBLv4IV3twM3Zs0Q"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2b6ebd409ca6c063a27137bd04b2406df731df23", 
+        "is_playable": true, 
+        "uri": "spotify:track:5TuLJUlBLv4IV3twM3Zs0Q", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5TuLJUlBLv4IV3twM3Zs0Q", 
+        "artists": [
+          {
+            "name": "David Holmes", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/10kGEgP8MxhlfeA2tMinsL"
+            }, 
+            "uri": "spotify:artist:10kGEgP8MxhlfeA2tMinsL", 
+            "href": "https://api.spotify.com/v1/artists/10kGEgP8MxhlfeA2tMinsL", 
+            "type": "artist", 
+            "id": "10kGEgP8MxhlfeA2tMinsL"
+          }
+        ], 
+        "duration_ms": 447727, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "5TuLJUlBLv4IV3twM3Zs0Q"
+      }, 
+      {
+        "name": "Gritty Shaker", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6dsYOqlYQNOo8IxCO9rwdo"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/93a0477133e97087b3ad97ae866c54d6b238b65d", 
+        "is_playable": true, 
+        "uri": "spotify:track:6dsYOqlYQNOo8IxCO9rwdo", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6dsYOqlYQNOo8IxCO9rwdo", 
+        "artists": [
+          {
+            "name": "David Holmes", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/10kGEgP8MxhlfeA2tMinsL"
+            }, 
+            "uri": "spotify:artist:10kGEgP8MxhlfeA2tMinsL", 
+            "href": "https://api.spotify.com/v1/artists/10kGEgP8MxhlfeA2tMinsL", 
+            "type": "artist", 
+            "id": "10kGEgP8MxhlfeA2tMinsL"
+          }
+        ], 
+        "duration_ms": 400404, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "6dsYOqlYQNOo8IxCO9rwdo"
+      }, 
+      {
+        "name": "Head Rush On Lafayette", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/14gV8e1ibBuU1vBuWpvHwH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4f6d8929c7e8aac367cf647d1b53fba0d6b86fff", 
+        "is_playable": true, 
+        "uri": "spotify:track:14gV8e1ibBuU1vBuWpvHwH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/14gV8e1ibBuU1vBuWpvHwH", 
+        "artists": [
+          {
+            "name": "David Holmes", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/10kGEgP8MxhlfeA2tMinsL"
+            }, 
+            "uri": "spotify:artist:10kGEgP8MxhlfeA2tMinsL", 
+            "href": "https://api.spotify.com/v1/artists/10kGEgP8MxhlfeA2tMinsL", 
+            "type": "artist", 
+            "id": "10kGEgP8MxhlfeA2tMinsL"
+          }
+        ], 
+        "duration_ms": 80573, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "14gV8e1ibBuU1vBuWpvHwH"
+      }, 
+      {
+        "name": "Rodney Yates", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7e0fUvZMtxMnW3wvB2J0k9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a1808a715204fd74fb5a7dd2e97fd72565a4dd9c", 
+        "is_playable": true, 
+        "uri": "spotify:track:7e0fUvZMtxMnW3wvB2J0k9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7e0fUvZMtxMnW3wvB2J0k9", 
+        "artists": [
+          {
+            "name": "David Holmes", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/10kGEgP8MxhlfeA2tMinsL"
+            }, 
+            "uri": "spotify:artist:10kGEgP8MxhlfeA2tMinsL", 
+            "href": "https://api.spotify.com/v1/artists/10kGEgP8MxhlfeA2tMinsL", 
+            "type": "artist", 
+            "id": "10kGEgP8MxhlfeA2tMinsL"
+          }
+        ], 
+        "duration_ms": 384104, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "7e0fUvZMtxMnW3wvB2J0k9"
+      }, 
+      {
+        "name": "Radio 7", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/591zXUHzRBpZpxqYBVURXZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1ee8090f7812f4d90c011d1342279c42478fb60d", 
+        "is_playable": true, 
+        "uri": "spotify:track:591zXUHzRBpZpxqYBVURXZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/591zXUHzRBpZpxqYBVURXZ", 
+        "artists": [
+          {
+            "name": "David Holmes", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/10kGEgP8MxhlfeA2tMinsL"
+            }, 
+            "uri": "spotify:artist:10kGEgP8MxhlfeA2tMinsL", 
+            "href": "https://api.spotify.com/v1/artists/10kGEgP8MxhlfeA2tMinsL", 
+            "type": "artist", 
+            "id": "10kGEgP8MxhlfeA2tMinsL"
+          }
+        ], 
+        "duration_ms": 349599, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "591zXUHzRBpZpxqYBVURXZ"
+      }, 
+      {
+        "name": "The Parcus & Madder Show", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3mzG72u3RIjWoCIsmlfgRQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ae86178f53361fb11100538ea01639c025369952", 
+        "is_playable": true, 
+        "uri": "spotify:track:3mzG72u3RIjWoCIsmlfgRQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3mzG72u3RIjWoCIsmlfgRQ", 
+        "artists": [
+          {
+            "name": "David Holmes", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/10kGEgP8MxhlfeA2tMinsL"
+            }, 
+            "uri": "spotify:artist:10kGEgP8MxhlfeA2tMinsL", 
+            "href": "https://api.spotify.com/v1/artists/10kGEgP8MxhlfeA2tMinsL", 
+            "type": "artist", 
+            "id": "10kGEgP8MxhlfeA2tMinsL"
+          }
+        ], 
+        "duration_ms": 51083, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "3mzG72u3RIjWoCIsmlfgRQ"
+      }, 
+      {
+        "name": "Slashers Revenge", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7kHfI3li2VkyhDAqPYIDoS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8754a221efb6dbb756b21d5e4be026d171d41f79", 
+        "is_playable": true, 
+        "uri": "spotify:track:7kHfI3li2VkyhDAqPYIDoS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7kHfI3li2VkyhDAqPYIDoS", 
+        "artists": [
+          {
+            "name": "David Holmes", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/10kGEgP8MxhlfeA2tMinsL"
+            }, 
+            "uri": "spotify:artist:10kGEgP8MxhlfeA2tMinsL", 
+            "href": "https://api.spotify.com/v1/artists/10kGEgP8MxhlfeA2tMinsL", 
+            "type": "artist", 
+            "id": "10kGEgP8MxhlfeA2tMinsL"
+          }
+        ], 
+        "duration_ms": 286812, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "7kHfI3li2VkyhDAqPYIDoS"
+      }, 
+      {
+        "name": "Freaknik", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1IkVuiPnlr1LSUhcoJKVgN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a7859ca37903555d911ec9c69b35d568c34958b8", 
+        "is_playable": true, 
+        "uri": "spotify:track:1IkVuiPnlr1LSUhcoJKVgN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1IkVuiPnlr1LSUhcoJKVgN", 
+        "artists": [
+          {
+            "name": "David Holmes", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/10kGEgP8MxhlfeA2tMinsL"
+            }, 
+            "uri": "spotify:artist:10kGEgP8MxhlfeA2tMinsL", 
+            "href": "https://api.spotify.com/v1/artists/10kGEgP8MxhlfeA2tMinsL", 
+            "type": "artist", 
+            "id": "10kGEgP8MxhlfeA2tMinsL"
+          }
+        ], 
+        "duration_ms": 404630, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "1IkVuiPnlr1LSUhcoJKVgN"
+      }, 
+      {
+        "name": "Caddell Returns", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/69Ccg6n5D4E7KrH5s3zhV0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5f9189dbfdd53c571b13fdb03907e479caf61ec9", 
+        "is_playable": true, 
+        "uri": "spotify:track:69Ccg6n5D4E7KrH5s3zhV0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/69Ccg6n5D4E7KrH5s3zhV0", 
+        "artists": [
+          {
+            "name": "David Holmes", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/10kGEgP8MxhlfeA2tMinsL"
+            }, 
+            "uri": "spotify:artist:10kGEgP8MxhlfeA2tMinsL", 
+            "href": "https://api.spotify.com/v1/artists/10kGEgP8MxhlfeA2tMinsL", 
+            "type": "artist", 
+            "id": "10kGEgP8MxhlfeA2tMinsL"
+          }
+        ], 
+        "duration_ms": 342958, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "69Ccg6n5D4E7KrH5s3zhV0"
+      }, 
+      {
+        "name": "Don't Die Just Yet", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7ifU9ps0LtASDWJhrjwfED"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/76146c2f1adbd2b5502f48374c755fcd8a5f8f6a", 
+        "is_playable": true, 
+        "uri": "spotify:track:7ifU9ps0LtASDWJhrjwfED", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7ifU9ps0LtASDWJhrjwfED", 
+        "artists": [
+          {
+            "name": "David Holmes", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/10kGEgP8MxhlfeA2tMinsL"
+            }, 
+            "uri": "spotify:artist:10kGEgP8MxhlfeA2tMinsL", 
+            "href": "https://api.spotify.com/v1/artists/10kGEgP8MxhlfeA2tMinsL", 
+            "type": "artist", 
+            "id": "10kGEgP8MxhlfeA2tMinsL"
+          }
+        ], 
+        "duration_ms": 393067, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "7ifU9ps0LtASDWJhrjwfED"
+      }, 
+      {
+        "name": "For You", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0DmAAwJnWf1DkWQb06TRHj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/737c20f1452f824ee19b03b60ffe3c926b6f64a0", 
+        "is_playable": true, 
+        "uri": "spotify:track:0DmAAwJnWf1DkWQb06TRHj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0DmAAwJnWf1DkWQb06TRHj", 
+        "artists": [
+          {
+            "name": "David Holmes", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/10kGEgP8MxhlfeA2tMinsL"
+            }, 
+            "uri": "spotify:artist:10kGEgP8MxhlfeA2tMinsL", 
+            "href": "https://api.spotify.com/v1/artists/10kGEgP8MxhlfeA2tMinsL", 
+            "type": "artist", 
+            "id": "10kGEgP8MxhlfeA2tMinsL"
+          }
+        ], 
+        "duration_ms": 59025, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "0DmAAwJnWf1DkWQb06TRHj"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/0HEoXFTgPHGvczXdz9Ty5S/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 13, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/0HEoXFTgPHGvczXdz9Ty5S", 
+  "copyrights": [
+    {
+      "text": "(C) 1997 Polydor Go! Beat", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1997 Go Beat Ltd.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "David Holmes", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/10kGEgP8MxhlfeA2tMinsL"
+      }, 
+      "uri": "spotify:artist:10kGEgP8MxhlfeA2tMinsL", 
+      "href": "https://api.spotify.com/v1/artists/10kGEgP8MxhlfeA2tMinsL", 
+      "type": "artist", 
+      "id": "10kGEgP8MxhlfeA2tMinsL"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/87d3f520f42dada9ae52bed98bff2fa139bb2964", 
+      "width": 640, 
+      "height": 633
+    }, 
+    {
+      "url": "https://i.scdn.co/image/fb7b1f824b5c5c341c05e0b3b6fb19a586c2534b", 
+      "width": 300, 
+      "height": 297
+    }, 
+    {
+      "url": "https://i.scdn.co/image/e094f7d4f169bd0ed74f4cc4961f6830a44ccbab", 
+      "width": 64, 
+      "height": 63
+    }
+  ], 
+  "external_ids": {
+    "upc": "00731453910027"
+  }, 
+  "type": "album", 
+  "id": "0HEoXFTgPHGvczXdz9Ty5S", 
+  "name": "Let's Get Killed"
+}

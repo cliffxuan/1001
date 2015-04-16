@@ -1,0 +1,539 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
+  }, 
+  "release_date": "1967-05-12", 
+  "popularity": 68, 
+  "genres": [], 
+  "uri": "spotify:album:7rSZXXHHvIhF4yUFdaOCy9", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Purple Haze", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/82e6ce4a6ee3de66b72079de519416d1dc5a4400", 
+        "is_playable": true, 
+        "uri": "spotify:track:0wJoRiX5K5BxlqZTolB2LD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0wJoRiX5K5BxlqZTolB2LD", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 170813, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "0wJoRiX5K5BxlqZTolB2LD"
+      }, 
+      {
+        "name": "Manic Depression", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3f5JtAsGRIXN8pSAeTi6vA"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9ebff3627716c7ba961cc85863d0707aea3f7e52", 
+        "is_playable": true, 
+        "uri": "spotify:track:3f5JtAsGRIXN8pSAeTi6vA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3f5JtAsGRIXN8pSAeTi6vA", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 222293, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "3f5JtAsGRIXN8pSAeTi6vA"
+      }, 
+      {
+        "name": "Hey Joe", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0NWPxcsf5vdjdiFUI8NgkP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/983c36bcd200f0f382e34f61fc38220f3e4ac35a", 
+        "is_playable": true, 
+        "uri": "spotify:track:0NWPxcsf5vdjdiFUI8NgkP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0NWPxcsf5vdjdiFUI8NgkP", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 210160, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "0NWPxcsf5vdjdiFUI8NgkP"
+      }, 
+      {
+        "name": "Love Or Confusion", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/46omDVahYovje7GLtFKFz9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9e51cdf97a512e35d4ec2aeae7412d1068877b50", 
+        "is_playable": true, 
+        "uri": "spotify:track:46omDVahYovje7GLtFKFz9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/46omDVahYovje7GLtFKFz9", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 192520, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "46omDVahYovje7GLtFKFz9"
+      }, 
+      {
+        "name": "May This Be Love", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Y6Dv0tWYUP3Za2Es9FUL2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/966dc3fdbc9853adbd12723d75e4b5884417b05b", 
+        "is_playable": true, 
+        "uri": "spotify:track:1Y6Dv0tWYUP3Za2Es9FUL2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1Y6Dv0tWYUP3Za2Es9FUL2", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 190226, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "1Y6Dv0tWYUP3Za2Es9FUL2"
+      }, 
+      {
+        "name": "I Don't Live Today", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4oGRZ3J9o56fPaL96y2NEH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/11a1786de2644452af8dd931afbaa4f02cad81ff", 
+        "is_playable": true, 
+        "uri": "spotify:track:4oGRZ3J9o56fPaL96y2NEH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4oGRZ3J9o56fPaL96y2NEH", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 234546, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "4oGRZ3J9o56fPaL96y2NEH"
+      }, 
+      {
+        "name": "The Wind Cries Mary", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5H6Jp0syB5yEPk7SWYdlmk"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/08cf7fbf0d50bc7c0cc291784287072f1fa00b91", 
+        "is_playable": true, 
+        "uri": "spotify:track:5H6Jp0syB5yEPk7SWYdlmk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5H6Jp0syB5yEPk7SWYdlmk", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 200733, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "5H6Jp0syB5yEPk7SWYdlmk"
+      }, 
+      {
+        "name": "Fire", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5LI7PoHEolR8plrf3I16sq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/00ce1f0b3696d5a7ca4289022054144d356d9635", 
+        "is_playable": true, 
+        "uri": "spotify:track:5LI7PoHEolR8plrf3I16sq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5LI7PoHEolR8plrf3I16sq", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 163800, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "5LI7PoHEolR8plrf3I16sq"
+      }, 
+      {
+        "name": "Third Stone From The Sun", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/34jAhU99TNRvYwwOEoINl3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/90890f0bcecce93e42c81ca667e02ceeec3c6f50", 
+        "is_playable": true, 
+        "uri": "spotify:track:34jAhU99TNRvYwwOEoINl3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/34jAhU99TNRvYwwOEoINl3", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 404266, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "34jAhU99TNRvYwwOEoINl3"
+      }, 
+      {
+        "name": "Foxey Lady", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/23MrkN7g6Q5U7GLIxNHN1B"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2d2354b761a837980e3ebc97c1700d1a33c37f02", 
+        "is_playable": true, 
+        "uri": "spotify:track:23MrkN7g6Q5U7GLIxNHN1B", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/23MrkN7g6Q5U7GLIxNHN1B", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 198773, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "23MrkN7g6Q5U7GLIxNHN1B"
+      }, 
+      {
+        "name": "Are You Experienced?", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/02POyqtbrdmYQ3RxsTrYMD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0f56c91214b375b67fabceb6a44fefb92ad86ec7", 
+        "is_playable": true, 
+        "uri": "spotify:track:02POyqtbrdmYQ3RxsTrYMD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/02POyqtbrdmYQ3RxsTrYMD", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 255613, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "02POyqtbrdmYQ3RxsTrYMD"
+      }, 
+      {
+        "name": "Stone Free", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2TKtQAy9VKwq3Kh234uE85"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6e4d5e4a24e168412354c9f75661010775311015", 
+        "is_playable": true, 
+        "uri": "spotify:track:2TKtQAy9VKwq3Kh234uE85", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2TKtQAy9VKwq3Kh234uE85", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 215706, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "2TKtQAy9VKwq3Kh234uE85"
+      }, 
+      {
+        "name": "51st Anniversary", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5lWeY2p6lpCK2bDZyy2nPd"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a542c3b6f9f73848a6d1b910f184a0e5cf816ce0", 
+        "is_playable": true, 
+        "uri": "spotify:track:5lWeY2p6lpCK2bDZyy2nPd", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5lWeY2p6lpCK2bDZyy2nPd", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 195786, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "5lWeY2p6lpCK2bDZyy2nPd"
+      }, 
+      {
+        "name": "Highway Chile", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6r6ARqXEyXaoQjVZ1Mb1pV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c580c20c31c2d67f0770365a4b4950570cf82252", 
+        "is_playable": true, 
+        "uri": "spotify:track:6r6ARqXEyXaoQjVZ1Mb1pV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6r6ARqXEyXaoQjVZ1Mb1pV", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 212586, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "6r6ARqXEyXaoQjVZ1Mb1pV"
+      }, 
+      {
+        "name": "Can You See Me", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/41j3QgPNvLSoWBucJuInCZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/185fd2a51155acea1fc597e35d285342ef648170", 
+        "is_playable": true, 
+        "uri": "spotify:track:41j3QgPNvLSoWBucJuInCZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/41j3QgPNvLSoWBucJuInCZ", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 152973, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "41j3QgPNvLSoWBucJuInCZ"
+      }, 
+      {
+        "name": "Remember", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5jC8uR4L35LBJufeDmOmtk"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4c26967a4681de696f434cd275999e59446b2449", 
+        "is_playable": true, 
+        "uri": "spotify:track:5jC8uR4L35LBJufeDmOmtk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5jC8uR4L35LBJufeDmOmtk", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 168720, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "5jC8uR4L35LBJufeDmOmtk"
+      }, 
+      {
+        "name": "Red House", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3XxBSvDZKH5YvZZjTpn6eR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/dbaf4dcd2bad59e8a7fbed7001cf4fefb65936f4", 
+        "is_playable": true, 
+        "uri": "spotify:track:3XxBSvDZKH5YvZZjTpn6eR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3XxBSvDZKH5YvZZjTpn6eR", 
+        "artists": [
+          {
+            "name": "Jimi Hendrix", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+            }, 
+            "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+            "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+            "type": "artist", 
+            "id": "776Uo845nYHJpNaStv1Ds4"
+          }
+        ], 
+        "duration_ms": 230360, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "3XxBSvDZKH5YvZZjTpn6eR"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/7rSZXXHHvIhF4yUFdaOCy9/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 17, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/7rSZXXHHvIhF4yUFdaOCy9", 
+  "copyrights": [
+    {
+      "text": "(P) 2009 Experience Hendrix L.L.C., under exclusive license to Sony Music Entertainment", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Jimi Hendrix", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+      }, 
+      "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4", 
+      "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4", 
+      "type": "artist", 
+      "id": "776Uo845nYHJpNaStv1Ds4"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/df53a186c41bf130c6f56627334c9b751d27ff84", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/bad0306a070fb9b09a0b9ee40872ed566e23d61f", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/332ecce39c8c1691d45dff32acc438c98bbccc6e", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "884977413885"
+  }, 
+  "type": "album", 
+  "id": "7rSZXXHHvIhF4yUFdaOCy9", 
+  "name": "Are You Experienced"
+}

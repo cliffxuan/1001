@@ -1,0 +1,683 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6lmjLgTFMevnJVif0iwfDi"
+  }, 
+  "release_date": "1970-11-23", 
+  "popularity": 64, 
+  "genres": [], 
+  "uri": "spotify:album:6lmjLgTFMevnJVif0iwfDi", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Where Do The Children Play?", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7E5nWU5IYQtjik1E4tH3kD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7bafb5cc8726f1b834f43cbbb9c0e498d5c39421", 
+        "is_playable": true, 
+        "uri": "spotify:track:7E5nWU5IYQtjik1E4tH3kD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7E5nWU5IYQtjik1E4tH3kD", 
+        "artists": [
+          {
+            "name": "Cat Stevens", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+            }, 
+            "uri": "spotify:artist:08F3Y3SctIlsOEmKd6dnH8", 
+            "href": "https://api.spotify.com/v1/artists/08F3Y3SctIlsOEmKd6dnH8", 
+            "type": "artist", 
+            "id": "08F3Y3SctIlsOEmKd6dnH8"
+          }
+        ], 
+        "duration_ms": 232133, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "7E5nWU5IYQtjik1E4tH3kD"
+      }, 
+      {
+        "name": "Hard Headed Woman", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/777ykF3H58jVWVhIbbGbO7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e89bcb61c26ef7ad7cb71ddddf04aa61c77d2c4a", 
+        "is_playable": true, 
+        "uri": "spotify:track:777ykF3H58jVWVhIbbGbO7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/777ykF3H58jVWVhIbbGbO7", 
+        "artists": [
+          {
+            "name": "Cat Stevens", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+            }, 
+            "uri": "spotify:artist:08F3Y3SctIlsOEmKd6dnH8", 
+            "href": "https://api.spotify.com/v1/artists/08F3Y3SctIlsOEmKd6dnH8", 
+            "type": "artist", 
+            "id": "08F3Y3SctIlsOEmKd6dnH8"
+          }
+        ], 
+        "duration_ms": 227200, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "777ykF3H58jVWVhIbbGbO7"
+      }, 
+      {
+        "name": "Wild World", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/269OfNY9Je1QWaDnu31KKp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1139bec474cd5de7ee954f41b30f11f71547b7fa", 
+        "is_playable": true, 
+        "uri": "spotify:track:269OfNY9Je1QWaDnu31KKp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/269OfNY9Je1QWaDnu31KKp", 
+        "artists": [
+          {
+            "name": "Cat Stevens", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+            }, 
+            "uri": "spotify:artist:08F3Y3SctIlsOEmKd6dnH8", 
+            "href": "https://api.spotify.com/v1/artists/08F3Y3SctIlsOEmKd6dnH8", 
+            "type": "artist", 
+            "id": "08F3Y3SctIlsOEmKd6dnH8"
+          }
+        ], 
+        "duration_ms": 200173, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "269OfNY9Je1QWaDnu31KKp"
+      }, 
+      {
+        "name": "Sad Lisa", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Z9ZFT7pGu7TlnSQ0Qvf8t"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4bb1b87aaa5b6fb50483e70fe1f4e536363c5fda", 
+        "is_playable": true, 
+        "uri": "spotify:track:6Z9ZFT7pGu7TlnSQ0Qvf8t", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6Z9ZFT7pGu7TlnSQ0Qvf8t", 
+        "artists": [
+          {
+            "name": "Cat Stevens", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+            }, 
+            "uri": "spotify:artist:08F3Y3SctIlsOEmKd6dnH8", 
+            "href": "https://api.spotify.com/v1/artists/08F3Y3SctIlsOEmKd6dnH8", 
+            "type": "artist", 
+            "id": "08F3Y3SctIlsOEmKd6dnH8"
+          }
+        ], 
+        "duration_ms": 225693, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "6Z9ZFT7pGu7TlnSQ0Qvf8t"
+      }, 
+      {
+        "name": "Miles From Nowhere", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2UZnvsQ9pRFdjpE2zUI5eT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f94799a32326bfc34f13a5c9c10e80876fc45a90", 
+        "is_playable": true, 
+        "uri": "spotify:track:2UZnvsQ9pRFdjpE2zUI5eT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2UZnvsQ9pRFdjpE2zUI5eT", 
+        "artists": [
+          {
+            "name": "Cat Stevens", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+            }, 
+            "uri": "spotify:artist:08F3Y3SctIlsOEmKd6dnH8", 
+            "href": "https://api.spotify.com/v1/artists/08F3Y3SctIlsOEmKd6dnH8", 
+            "type": "artist", 
+            "id": "08F3Y3SctIlsOEmKd6dnH8"
+          }
+        ], 
+        "duration_ms": 217266, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "2UZnvsQ9pRFdjpE2zUI5eT"
+      }, 
+      {
+        "name": "But I Might Die Tonight", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4y6orrjwUtQyyultokS1X4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/91068d176103810db58a67ff87f8959124a3f179", 
+        "is_playable": true, 
+        "uri": "spotify:track:4y6orrjwUtQyyultokS1X4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4y6orrjwUtQyyultokS1X4", 
+        "artists": [
+          {
+            "name": "Cat Stevens", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+            }, 
+            "uri": "spotify:artist:08F3Y3SctIlsOEmKd6dnH8", 
+            "href": "https://api.spotify.com/v1/artists/08F3Y3SctIlsOEmKd6dnH8", 
+            "type": "artist", 
+            "id": "08F3Y3SctIlsOEmKd6dnH8"
+          }
+        ], 
+        "duration_ms": 113600, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "4y6orrjwUtQyyultokS1X4"
+      }, 
+      {
+        "name": "Longer Boats", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5dfVErQy0BNlmHcS0Y6L6M"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/409180a1ee175bb962bf43037824c663b22bded0", 
+        "is_playable": true, 
+        "uri": "spotify:track:5dfVErQy0BNlmHcS0Y6L6M", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5dfVErQy0BNlmHcS0Y6L6M", 
+        "artists": [
+          {
+            "name": "Cat Stevens", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+            }, 
+            "uri": "spotify:artist:08F3Y3SctIlsOEmKd6dnH8", 
+            "href": "https://api.spotify.com/v1/artists/08F3Y3SctIlsOEmKd6dnH8", 
+            "type": "artist", 
+            "id": "08F3Y3SctIlsOEmKd6dnH8"
+          }
+        ], 
+        "duration_ms": 192706, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "5dfVErQy0BNlmHcS0Y6L6M"
+      }, 
+      {
+        "name": "Into White", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7DQGHGTpnBV6zdk5Ux1Yhs"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7e188cba6de581810062bbff3d042445c6aa2207", 
+        "is_playable": true, 
+        "uri": "spotify:track:7DQGHGTpnBV6zdk5Ux1Yhs", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7DQGHGTpnBV6zdk5Ux1Yhs", 
+        "artists": [
+          {
+            "name": "Cat Stevens", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+            }, 
+            "uri": "spotify:artist:08F3Y3SctIlsOEmKd6dnH8", 
+            "href": "https://api.spotify.com/v1/artists/08F3Y3SctIlsOEmKd6dnH8", 
+            "type": "artist", 
+            "id": "08F3Y3SctIlsOEmKd6dnH8"
+          }
+        ], 
+        "duration_ms": 204533, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "7DQGHGTpnBV6zdk5Ux1Yhs"
+      }, 
+      {
+        "name": "On The Road To Find Out", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5b4F5yMombgsny9Lwqnt8N"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/aa8d67f97700daa4b92a8bd68a41ab83d81a1ed0", 
+        "is_playable": true, 
+        "uri": "spotify:track:5b4F5yMombgsny9Lwqnt8N", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5b4F5yMombgsny9Lwqnt8N", 
+        "artists": [
+          {
+            "name": "Cat Stevens", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+            }, 
+            "uri": "spotify:artist:08F3Y3SctIlsOEmKd6dnH8", 
+            "href": "https://api.spotify.com/v1/artists/08F3Y3SctIlsOEmKd6dnH8", 
+            "type": "artist", 
+            "id": "08F3Y3SctIlsOEmKd6dnH8"
+          }
+        ], 
+        "duration_ms": 308066, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "5b4F5yMombgsny9Lwqnt8N"
+      }, 
+      {
+        "name": "Father And Son", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6kwR6Jq7dcjKa9f6WAWkA3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0d0eb0d402d95f709bfe0ae610fc5b21e40f63d9", 
+        "is_playable": true, 
+        "uri": "spotify:track:6kwR6Jq7dcjKa9f6WAWkA3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6kwR6Jq7dcjKa9f6WAWkA3", 
+        "artists": [
+          {
+            "name": "Cat Stevens", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+            }, 
+            "uri": "spotify:artist:08F3Y3SctIlsOEmKd6dnH8", 
+            "href": "https://api.spotify.com/v1/artists/08F3Y3SctIlsOEmKd6dnH8", 
+            "type": "artist", 
+            "id": "08F3Y3SctIlsOEmKd6dnH8"
+          }
+        ], 
+        "duration_ms": 221000, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "6kwR6Jq7dcjKa9f6WAWkA3"
+      }, 
+      {
+        "name": "Tea For The Tillerman", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0ejvQMbHChRaRIB3ip4wXH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2165991e4d3a324c03f62decc31549ecac098cce", 
+        "is_playable": true, 
+        "uri": "spotify:track:0ejvQMbHChRaRIB3ip4wXH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0ejvQMbHChRaRIB3ip4wXH", 
+        "artists": [
+          {
+            "name": "Cat Stevens", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+            }, 
+            "uri": "spotify:artist:08F3Y3SctIlsOEmKd6dnH8", 
+            "href": "https://api.spotify.com/v1/artists/08F3Y3SctIlsOEmKd6dnH8", 
+            "type": "artist", 
+            "id": "08F3Y3SctIlsOEmKd6dnH8"
+          }
+        ], 
+        "duration_ms": 61866, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "0ejvQMbHChRaRIB3ip4wXH"
+      }, 
+      {
+        "name": "Wild World - Demo Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2MfXvbqUxPWyAuvX3T47R9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/12955bc3a6cbf9dca2a797a258a79f04a006fcfa", 
+        "is_playable": true, 
+        "uri": "spotify:track:2MfXvbqUxPWyAuvX3T47R9", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/2MfXvbqUxPWyAuvX3T47R9", 
+        "artists": [
+          {
+            "name": "Cat Stevens", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+            }, 
+            "uri": "spotify:artist:08F3Y3SctIlsOEmKd6dnH8", 
+            "href": "https://api.spotify.com/v1/artists/08F3Y3SctIlsOEmKd6dnH8", 
+            "type": "artist", 
+            "id": "08F3Y3SctIlsOEmKd6dnH8"
+          }
+        ], 
+        "duration_ms": 194800, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "2MfXvbqUxPWyAuvX3T47R9"
+      }, 
+      {
+        "name": "Longer Boats - Live at the Troubadour", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Vuu2luMDO9hfFu3hgmDgB"
+        }, 
+        "explicit": false, 
+        "preview_url": null, 
+        "is_playable": false, 
+        "uri": "spotify:track:2Vuu2luMDO9hfFu3hgmDgB", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/2Vuu2luMDO9hfFu3hgmDgB", 
+        "artists": [
+          {
+            "name": "Cat Stevens", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+            }, 
+            "uri": "spotify:artist:08F3Y3SctIlsOEmKd6dnH8", 
+            "href": "https://api.spotify.com/v1/artists/08F3Y3SctIlsOEmKd6dnH8", 
+            "type": "artist", 
+            "id": "08F3Y3SctIlsOEmKd6dnH8"
+          }
+        ], 
+        "duration_ms": 171786, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "2Vuu2luMDO9hfFu3hgmDgB"
+      }, 
+      {
+        "name": "Into White - Live at the Troubadour", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4iJZ6XyAUE3TJIKXdfVapo"
+        }, 
+        "explicit": false, 
+        "preview_url": null, 
+        "is_playable": false, 
+        "uri": "spotify:track:4iJZ6XyAUE3TJIKXdfVapo", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4iJZ6XyAUE3TJIKXdfVapo", 
+        "artists": [
+          {
+            "name": "Cat Stevens", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+            }, 
+            "uri": "spotify:artist:08F3Y3SctIlsOEmKd6dnH8", 
+            "href": "https://api.spotify.com/v1/artists/08F3Y3SctIlsOEmKd6dnH8", 
+            "type": "artist", 
+            "id": "08F3Y3SctIlsOEmKd6dnH8"
+          }
+        ], 
+        "duration_ms": 217186, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "4iJZ6XyAUE3TJIKXdfVapo"
+      }, 
+      {
+        "name": "Miles From Nowhere - Demo Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1umQSHvVADJIuBFs7vu9J7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9efab7b3a6a69b311be969a71321a84f58179d8c", 
+        "is_playable": true, 
+        "uri": "spotify:track:1umQSHvVADJIuBFs7vu9J7", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1umQSHvVADJIuBFs7vu9J7", 
+        "artists": [
+          {
+            "name": "Cat Stevens", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+            }, 
+            "uri": "spotify:artist:08F3Y3SctIlsOEmKd6dnH8", 
+            "href": "https://api.spotify.com/v1/artists/08F3Y3SctIlsOEmKd6dnH8", 
+            "type": "artist", 
+            "id": "08F3Y3SctIlsOEmKd6dnH8"
+          }
+        ], 
+        "duration_ms": 194746, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "1umQSHvVADJIuBFs7vu9J7"
+      }, 
+      {
+        "name": "Hard Headed Woman - Live in Japan", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0xIAWGPHnW9ZtsSHdic8m3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c65deadc4a0ad057e4c8b8082c1d154552a07b52", 
+        "is_playable": true, 
+        "uri": "spotify:track:0xIAWGPHnW9ZtsSHdic8m3", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/0xIAWGPHnW9ZtsSHdic8m3", 
+        "artists": [
+          {
+            "name": "Cat Stevens", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+            }, 
+            "uri": "spotify:artist:08F3Y3SctIlsOEmKd6dnH8", 
+            "href": "https://api.spotify.com/v1/artists/08F3Y3SctIlsOEmKd6dnH8", 
+            "type": "artist", 
+            "id": "08F3Y3SctIlsOEmKd6dnH8"
+          }
+        ], 
+        "duration_ms": 237626, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "0xIAWGPHnW9ZtsSHdic8m3"
+      }, 
+      {
+        "name": "Where Do The Children Play? - Live On The Majikat Earth Tour", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6h0Sc1ROYBtlQiVxmtmcr2"
+        }, 
+        "explicit": false, 
+        "preview_url": null, 
+        "is_playable": false, 
+        "uri": "spotify:track:6h0Sc1ROYBtlQiVxmtmcr2", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6h0Sc1ROYBtlQiVxmtmcr2", 
+        "artists": [
+          {
+            "name": "Cat Stevens", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+            }, 
+            "uri": "spotify:artist:08F3Y3SctIlsOEmKd6dnH8", 
+            "href": "https://api.spotify.com/v1/artists/08F3Y3SctIlsOEmKd6dnH8", 
+            "type": "artist", 
+            "id": "08F3Y3SctIlsOEmKd6dnH8"
+          }
+        ], 
+        "duration_ms": 200666, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "6h0Sc1ROYBtlQiVxmtmcr2"
+      }, 
+      {
+        "name": "Sad Lisa - Live On The Majikat Earth Tour", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0GeHnDRJ1a5y1GsncOTrii"
+        }, 
+        "explicit": false, 
+        "preview_url": null, 
+        "is_playable": false, 
+        "uri": "spotify:track:0GeHnDRJ1a5y1GsncOTrii", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/0GeHnDRJ1a5y1GsncOTrii", 
+        "artists": [
+          {
+            "name": "Cat Stevens", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+            }, 
+            "uri": "spotify:artist:08F3Y3SctIlsOEmKd6dnH8", 
+            "href": "https://api.spotify.com/v1/artists/08F3Y3SctIlsOEmKd6dnH8", 
+            "type": "artist", 
+            "id": "08F3Y3SctIlsOEmKd6dnH8"
+          }
+        ], 
+        "duration_ms": 193346, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "0GeHnDRJ1a5y1GsncOTrii"
+      }, 
+      {
+        "name": "On The Road To Find Out - Live at KCET-TV", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3yb0ZILd4HoCHtMN5751n4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1002edd579975aa9ccbf12ecc63ba495370dc0db", 
+        "is_playable": true, 
+        "uri": "spotify:track:3yb0ZILd4HoCHtMN5751n4", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/3yb0ZILd4HoCHtMN5751n4", 
+        "artists": [
+          {
+            "name": "Cat Stevens", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+            }, 
+            "uri": "spotify:artist:08F3Y3SctIlsOEmKd6dnH8", 
+            "href": "https://api.spotify.com/v1/artists/08F3Y3SctIlsOEmKd6dnH8", 
+            "type": "artist", 
+            "id": "08F3Y3SctIlsOEmKd6dnH8"
+          }
+        ], 
+        "duration_ms": 297106, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "3yb0ZILd4HoCHtMN5751n4"
+      }, 
+      {
+        "name": "Father & Son - Yusuf's Cafe / Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/62JL2ixZtAyTOEwTtH3iPM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e988ddbb44f6a6fd750a2162cf457d362c2d411b", 
+        "is_playable": true, 
+        "uri": "spotify:track:62JL2ixZtAyTOEwTtH3iPM", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/62JL2ixZtAyTOEwTtH3iPM", 
+        "artists": [
+          {
+            "name": "Yusuf / Cat Stevens ", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1ygnFQb0wvgWFS4P020EaY"
+            }, 
+            "uri": "spotify:artist:1ygnFQb0wvgWFS4P020EaY", 
+            "href": "https://api.spotify.com/v1/artists/1ygnFQb0wvgWFS4P020EaY", 
+            "type": "artist", 
+            "id": "1ygnFQb0wvgWFS4P020EaY"
+          }
+        ], 
+        "duration_ms": 265173, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "62JL2ixZtAyTOEwTtH3iPM"
+      }, 
+      {
+        "name": "Wild World - Yusuf's Cafe / Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7cnKiJjmQBZGyKYr4Tifgc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9992bbdb1ba27c0f20c5aa3499679d42babca9bf", 
+        "is_playable": true, 
+        "uri": "spotify:track:7cnKiJjmQBZGyKYr4Tifgc", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/7cnKiJjmQBZGyKYr4Tifgc", 
+        "artists": [
+          {
+            "name": "Yusuf / Cat Stevens ", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1ygnFQb0wvgWFS4P020EaY"
+            }, 
+            "uri": "spotify:artist:1ygnFQb0wvgWFS4P020EaY", 
+            "href": "https://api.spotify.com/v1/artists/1ygnFQb0wvgWFS4P020EaY", 
+            "type": "artist", 
+            "id": "1ygnFQb0wvgWFS4P020EaY"
+          }
+        ], 
+        "duration_ms": 183426, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "7cnKiJjmQBZGyKYr4Tifgc"
+      }, 
+      {
+        "name": "Tea For The Tillerman - Live At The BBC", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2pSGVNRN6dIOLW7snPEvvN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/598312f4b653488ae2112bc3b9f5251b5ed8321d", 
+        "is_playable": true, 
+        "uri": "spotify:track:2pSGVNRN6dIOLW7snPEvvN", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/2pSGVNRN6dIOLW7snPEvvN", 
+        "artists": [
+          {
+            "name": "Cat Stevens", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+            }, 
+            "uri": "spotify:artist:08F3Y3SctIlsOEmKd6dnH8", 
+            "href": "https://api.spotify.com/v1/artists/08F3Y3SctIlsOEmKd6dnH8", 
+            "type": "artist", 
+            "id": "08F3Y3SctIlsOEmKd6dnH8"
+          }
+        ], 
+        "duration_ms": 51866, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "2pSGVNRN6dIOLW7snPEvvN"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/6lmjLgTFMevnJVif0iwfDi/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 22, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/6lmjLgTFMevnJVif0iwfDi", 
+  "copyrights": [
+    {
+      "text": "(C) 2008 Universal Island Records Ltd. A Universal Music Company.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 2008 Universal Island Records Ltd. A Universal Music Company.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Cat Stevens", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+      }, 
+      "uri": "spotify:artist:08F3Y3SctIlsOEmKd6dnH8", 
+      "href": "https://api.spotify.com/v1/artists/08F3Y3SctIlsOEmKd6dnH8", 
+      "type": "artist", 
+      "id": "08F3Y3SctIlsOEmKd6dnH8"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ae1889d7b44335cc7c26e0a079e354d81203ba2c", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/967fb71c4fcf08c4ff56386531c0083c4f148de8", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/e8bd9f2412056698abd9cfb7be7da54b01467746", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00602517870888"
+  }, 
+  "type": "album", 
+  "id": "6lmjLgTFMevnJVif0iwfDi", 
+  "name": "Tea for the Tillerman (Deluxe Edition)"
+}

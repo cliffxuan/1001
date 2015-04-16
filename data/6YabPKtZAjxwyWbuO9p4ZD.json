@@ -1,0 +1,315 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
+  }, 
+  "release_date": "1965-08-30", 
+  "popularity": 67, 
+  "genres": [], 
+  "uri": "spotify:album:6YabPKtZAjxwyWbuO9p4ZD", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Like a Rolling Stone", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/582a3cca28e1932109560ccdcad7d55f3dc12a70", 
+        "is_playable": true, 
+        "uri": "spotify:track:3AhXZa8sUQht0UEdBJgpGc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3AhXZa8sUQht0UEdBJgpGc", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 369600, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "3AhXZa8sUQht0UEdBJgpGc"
+      }, 
+      {
+        "name": "Tombstone Blues", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5JqsRFZYDtIK5Rgeuzd2Jv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1e32ce5e5ffca4d96f9657cc35169f4f6bc98d8c", 
+        "is_playable": true, 
+        "uri": "spotify:track:5JqsRFZYDtIK5Rgeuzd2Jv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5JqsRFZYDtIK5Rgeuzd2Jv", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 356226, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "5JqsRFZYDtIK5Rgeuzd2Jv"
+      }, 
+      {
+        "name": "It Takes a Lot to Laugh, It Takes a Train to Cry", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2yaf46YMxA5y6bzmWUKgXC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/20ea1d7057a38610e7a7dfd4540d59bbd8e70999", 
+        "is_playable": true, 
+        "uri": "spotify:track:2yaf46YMxA5y6bzmWUKgXC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2yaf46YMxA5y6bzmWUKgXC", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 245133, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "2yaf46YMxA5y6bzmWUKgXC"
+      }, 
+      {
+        "name": "From a Buick 6", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6txGFpco4cfgG1sA1MxLCp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9ccefe50a61d47b7a695e0a21cbcea558466da97", 
+        "is_playable": true, 
+        "uri": "spotify:track:6txGFpco4cfgG1sA1MxLCp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6txGFpco4cfgG1sA1MxLCp", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 195693, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "6txGFpco4cfgG1sA1MxLCp"
+      }, 
+      {
+        "name": "Ballad of a Thin Man", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0f5N14nB8xi0p3o4BlVvbx"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6059ab478143f0d93bfd39756eef43e218bae4a2", 
+        "is_playable": true, 
+        "uri": "spotify:track:0f5N14nB8xi0p3o4BlVvbx", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0f5N14nB8xi0p3o4BlVvbx", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 356706, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "0f5N14nB8xi0p3o4BlVvbx"
+      }, 
+      {
+        "name": "Queen Jane Approximately", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0c2DAekH6ZEnHhf8dM1leK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e27eefe5ba8bd5ea051f496332eb789c4439cb3c", 
+        "is_playable": true, 
+        "uri": "spotify:track:0c2DAekH6ZEnHhf8dM1leK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0c2DAekH6ZEnHhf8dM1leK", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 327466, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "0c2DAekH6ZEnHhf8dM1leK"
+      }, 
+      {
+        "name": "Highway 61 Revisited", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6os5B6xjuke9YfBKH3tu1e"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1dbb708db1a54836d405da435765011788ad44b5", 
+        "is_playable": true, 
+        "uri": "spotify:track:6os5B6xjuke9YfBKH3tu1e", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6os5B6xjuke9YfBKH3tu1e", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 205826, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "6os5B6xjuke9YfBKH3tu1e"
+      }, 
+      {
+        "name": "Just Like Tom Thumb's Blues", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0V1771LhL3tG36pb55EZAH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9526dbbe5017147f4edd97f50e8a983c7bab5b2c", 
+        "is_playable": true, 
+        "uri": "spotify:track:0V1771LhL3tG36pb55EZAH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0V1771LhL3tG36pb55EZAH", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 327560, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "0V1771LhL3tG36pb55EZAH"
+      }, 
+      {
+        "name": "Desolation Row", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4n1ZGm3TxYmoYe1YR8cMus"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e75480f2fef772882178f6cb2d37c4c683d279ca", 
+        "is_playable": true, 
+        "uri": "spotify:track:4n1ZGm3TxYmoYe1YR8cMus", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4n1ZGm3TxYmoYe1YR8cMus", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 681400, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "4n1ZGm3TxYmoYe1YR8cMus"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/6YabPKtZAjxwyWbuO9p4ZD/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 9, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/6YabPKtZAjxwyWbuO9p4ZD", 
+  "copyrights": [
+    {
+      "text": "Originally Released 1965 Sony Music Entertainment Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Bob Dylan", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+      }, 
+      "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+      "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+      "type": "artist", 
+      "id": "74ASZWbe4lXaubB36ztrGX"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/4475b6e95cd5c153cf89f49daa3a85b939359690", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/70188a3795fe296d98539cc2f2ec48f7efb68c22", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/6a7d28341ed202ba76e647a802d110fd7b53cfdd", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "827969239926"
+  }, 
+  "type": "album", 
+  "id": "6YabPKtZAjxwyWbuO9p4ZD", 
+  "name": "Highway 61 Revisited"
+}

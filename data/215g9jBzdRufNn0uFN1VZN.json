@@ -1,0 +1,459 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/215g9jBzdRufNn0uFN1VZN"
+  }, 
+  "release_date": "1993-04-26", 
+  "popularity": 41, 
+  "genres": [], 
+  "uri": "spotify:album:215g9jBzdRufNn0uFN1VZN", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Rid Of Me", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Xlm2B4bBUGXlSIJoboaa9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c38adc597c3caba2b8227d8d5d25b94ea77cc31b", 
+        "is_playable": true, 
+        "uri": "spotify:track:2Xlm2B4bBUGXlSIJoboaa9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2Xlm2B4bBUGXlSIJoboaa9", 
+        "artists": [
+          {
+            "name": "PJ Harvey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+            }, 
+            "uri": "spotify:artist:12VaqyEhgwDRuFfEqbnrpz", 
+            "href": "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz", 
+            "type": "artist", 
+            "id": "12VaqyEhgwDRuFfEqbnrpz"
+          }
+        ], 
+        "duration_ms": 268840, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "2Xlm2B4bBUGXlSIJoboaa9"
+      }, 
+      {
+        "name": "Missed", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7m1bew9w35OnYw8X0LUEEl"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3f6e5ee709131163411ab92e24890efa8e19718d", 
+        "is_playable": true, 
+        "uri": "spotify:track:7m1bew9w35OnYw8X0LUEEl", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7m1bew9w35OnYw8X0LUEEl", 
+        "artists": [
+          {
+            "name": "PJ Harvey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+            }, 
+            "uri": "spotify:artist:12VaqyEhgwDRuFfEqbnrpz", 
+            "href": "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz", 
+            "type": "artist", 
+            "id": "12VaqyEhgwDRuFfEqbnrpz"
+          }
+        ], 
+        "duration_ms": 265826, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "7m1bew9w35OnYw8X0LUEEl"
+      }, 
+      {
+        "name": "Legs", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3dRtOKi7sMTVnmoW0rD2c9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/537bf4afc670795bab5a70457ccbf14277000f3d", 
+        "is_playable": true, 
+        "uri": "spotify:track:3dRtOKi7sMTVnmoW0rD2c9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3dRtOKi7sMTVnmoW0rD2c9", 
+        "artists": [
+          {
+            "name": "PJ Harvey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+            }, 
+            "uri": "spotify:artist:12VaqyEhgwDRuFfEqbnrpz", 
+            "href": "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz", 
+            "type": "artist", 
+            "id": "12VaqyEhgwDRuFfEqbnrpz"
+          }
+        ], 
+        "duration_ms": 220200, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "3dRtOKi7sMTVnmoW0rD2c9"
+      }, 
+      {
+        "name": "Rub 'Till It Bleeds", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1tGyRtfuuOVoGTbnDpVnxy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f50d66fe0aee188baa2c1b5cec8778af360857cd", 
+        "is_playable": true, 
+        "uri": "spotify:track:1tGyRtfuuOVoGTbnDpVnxy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1tGyRtfuuOVoGTbnDpVnxy", 
+        "artists": [
+          {
+            "name": "PJ Harvey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+            }, 
+            "uri": "spotify:artist:12VaqyEhgwDRuFfEqbnrpz", 
+            "href": "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz", 
+            "type": "artist", 
+            "id": "12VaqyEhgwDRuFfEqbnrpz"
+          }
+        ], 
+        "duration_ms": 303600, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "1tGyRtfuuOVoGTbnDpVnxy"
+      }, 
+      {
+        "name": "Hook", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/38r0aQkQ0pg3Cwo2r9w0OJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/df3bf4dc1945a532121dfc6edd3be8fac6b1f452", 
+        "is_playable": true, 
+        "uri": "spotify:track:38r0aQkQ0pg3Cwo2r9w0OJ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/38r0aQkQ0pg3Cwo2r9w0OJ", 
+        "artists": [
+          {
+            "name": "PJ Harvey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+            }, 
+            "uri": "spotify:artist:12VaqyEhgwDRuFfEqbnrpz", 
+            "href": "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz", 
+            "type": "artist", 
+            "id": "12VaqyEhgwDRuFfEqbnrpz"
+          }
+        ], 
+        "duration_ms": 237533, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "38r0aQkQ0pg3Cwo2r9w0OJ"
+      }, 
+      {
+        "name": "Man-Size - Sextet", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3YXi1BKXo4hbLB47ZpCd5l"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/99e612a5502545475cefb6e0398ad61a69951c7d", 
+        "is_playable": true, 
+        "uri": "spotify:track:3YXi1BKXo4hbLB47ZpCd5l", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3YXi1BKXo4hbLB47ZpCd5l", 
+        "artists": [
+          {
+            "name": "PJ Harvey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+            }, 
+            "uri": "spotify:artist:12VaqyEhgwDRuFfEqbnrpz", 
+            "href": "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz", 
+            "type": "artist", 
+            "id": "12VaqyEhgwDRuFfEqbnrpz"
+          }
+        ], 
+        "duration_ms": 138840, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "3YXi1BKXo4hbLB47ZpCd5l"
+      }, 
+      {
+        "name": "Highway '61 Revisited", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/63boycIllKlvERw50XCtGL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1af086a2433c165a44285b1cdb3ddcce01b04da8", 
+        "is_playable": true, 
+        "uri": "spotify:track:63boycIllKlvERw50XCtGL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/63boycIllKlvERw50XCtGL", 
+        "artists": [
+          {
+            "name": "PJ Harvey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+            }, 
+            "uri": "spotify:artist:12VaqyEhgwDRuFfEqbnrpz", 
+            "href": "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz", 
+            "type": "artist", 
+            "id": "12VaqyEhgwDRuFfEqbnrpz"
+          }
+        ], 
+        "duration_ms": 177266, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "63boycIllKlvERw50XCtGL"
+      }, 
+      {
+        "name": "50 Ft Queenie", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0JH70ZyuWcveSiU0Cjrqio"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0e7b0de60620cde31897f490aae003c630aba538", 
+        "is_playable": true, 
+        "uri": "spotify:track:0JH70ZyuWcveSiU0Cjrqio", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0JH70ZyuWcveSiU0Cjrqio", 
+        "artists": [
+          {
+            "name": "PJ Harvey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+            }, 
+            "uri": "spotify:artist:12VaqyEhgwDRuFfEqbnrpz", 
+            "href": "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz", 
+            "type": "artist", 
+            "id": "12VaqyEhgwDRuFfEqbnrpz"
+          }
+        ], 
+        "duration_ms": 143560, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "0JH70ZyuWcveSiU0Cjrqio"
+      }, 
+      {
+        "name": "Yuri-G", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5GWUThGevo1l8nLQQx4wT6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b887647447d82240b1d2e30cef20dc6ec9eb8cfe", 
+        "is_playable": true, 
+        "uri": "spotify:track:5GWUThGevo1l8nLQQx4wT6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5GWUThGevo1l8nLQQx4wT6", 
+        "artists": [
+          {
+            "name": "PJ Harvey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+            }, 
+            "uri": "spotify:artist:12VaqyEhgwDRuFfEqbnrpz", 
+            "href": "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz", 
+            "type": "artist", 
+            "id": "12VaqyEhgwDRuFfEqbnrpz"
+          }
+        ], 
+        "duration_ms": 208306, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "5GWUThGevo1l8nLQQx4wT6"
+      }, 
+      {
+        "name": "Man-Size", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3sry6c2toZm3IsHn8sw22A"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ab42c55e0d40b8ef94201e4bba1ce985159319a5", 
+        "is_playable": true, 
+        "uri": "spotify:track:3sry6c2toZm3IsHn8sw22A", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3sry6c2toZm3IsHn8sw22A", 
+        "artists": [
+          {
+            "name": "PJ Harvey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+            }, 
+            "uri": "spotify:artist:12VaqyEhgwDRuFfEqbnrpz", 
+            "href": "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz", 
+            "type": "artist", 
+            "id": "12VaqyEhgwDRuFfEqbnrpz"
+          }
+        ], 
+        "duration_ms": 196426, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "3sry6c2toZm3IsHn8sw22A"
+      }, 
+      {
+        "name": "Dry", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3CPguUsFzi7g2L1zFCDpmv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/980de6657bd040814867f8a19a5088846e09d2e8", 
+        "is_playable": true, 
+        "uri": "spotify:track:3CPguUsFzi7g2L1zFCDpmv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3CPguUsFzi7g2L1zFCDpmv", 
+        "artists": [
+          {
+            "name": "PJ Harvey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+            }, 
+            "uri": "spotify:artist:12VaqyEhgwDRuFfEqbnrpz", 
+            "href": "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz", 
+            "type": "artist", 
+            "id": "12VaqyEhgwDRuFfEqbnrpz"
+          }
+        ], 
+        "duration_ms": 203640, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "3CPguUsFzi7g2L1zFCDpmv"
+      }, 
+      {
+        "name": "Me-Jane", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/02hfpXsV93h05dXlMMUwIH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/53aba86b66c27be39909b46c2717db4c60c645ea", 
+        "is_playable": true, 
+        "uri": "spotify:track:02hfpXsV93h05dXlMMUwIH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/02hfpXsV93h05dXlMMUwIH", 
+        "artists": [
+          {
+            "name": "PJ Harvey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+            }, 
+            "uri": "spotify:artist:12VaqyEhgwDRuFfEqbnrpz", 
+            "href": "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz", 
+            "type": "artist", 
+            "id": "12VaqyEhgwDRuFfEqbnrpz"
+          }
+        ], 
+        "duration_ms": 162733, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "02hfpXsV93h05dXlMMUwIH"
+      }, 
+      {
+        "name": "Snake", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2OvY9hIyjmQJTcpi4rIXRq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ce71a11a572c37a707879170c4ed662d51126b06", 
+        "is_playable": true, 
+        "uri": "spotify:track:2OvY9hIyjmQJTcpi4rIXRq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2OvY9hIyjmQJTcpi4rIXRq", 
+        "artists": [
+          {
+            "name": "PJ Harvey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+            }, 
+            "uri": "spotify:artist:12VaqyEhgwDRuFfEqbnrpz", 
+            "href": "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz", 
+            "type": "artist", 
+            "id": "12VaqyEhgwDRuFfEqbnrpz"
+          }
+        ], 
+        "duration_ms": 96760, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "2OvY9hIyjmQJTcpi4rIXRq"
+      }, 
+      {
+        "name": "Ecstasy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5TCVGMTZAyMV3qqOkASZdi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7077b5e4f3cef7ca3a83ad18fa75115f70d009e8", 
+        "is_playable": true, 
+        "uri": "spotify:track:5TCVGMTZAyMV3qqOkASZdi", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5TCVGMTZAyMV3qqOkASZdi", 
+        "artists": [
+          {
+            "name": "PJ Harvey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+            }, 
+            "uri": "spotify:artist:12VaqyEhgwDRuFfEqbnrpz", 
+            "href": "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz", 
+            "type": "artist", 
+            "id": "12VaqyEhgwDRuFfEqbnrpz"
+          }
+        ], 
+        "duration_ms": 266333, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "5TCVGMTZAyMV3qqOkASZdi"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/215g9jBzdRufNn0uFN1VZN/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 14, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/215g9jBzdRufNn0uFN1VZN", 
+  "copyrights": [
+    {
+      "text": "(C) 1993 Island Records Ltd.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1993 Island Records Ltd.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "PJ Harvey", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+      }, 
+      "uri": "spotify:artist:12VaqyEhgwDRuFfEqbnrpz", 
+      "href": "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz", 
+      "type": "artist", 
+      "id": "12VaqyEhgwDRuFfEqbnrpz"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/864156e34c3d692f41ea41d0fb1a2e1183bf4dac", 
+      "width": 639, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/e95f4de6ab88f9454a9f9947186427e832ff343b", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/014726dfce6f497ef0d975fc29dd3359d9da346e", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00731451469626"
+  }, 
+  "type": "album", 
+  "id": "215g9jBzdRufNn0uFN1VZN", 
+  "name": "Rid Of Me"
+}

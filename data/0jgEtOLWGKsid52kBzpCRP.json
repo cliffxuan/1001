@@ -1,0 +1,375 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0jgEtOLWGKsid52kBzpCRP"
+  }, 
+  "release_date": "2011-07-18", 
+  "popularity": 59, 
+  "genres": [], 
+  "uri": "spotify:album:0jgEtOLWGKsid52kBzpCRP", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Slaves To Substance", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0zRTdS0Ek81PeX9NWSZxij"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d0b90a27497a13eff2cc48fac5cf538d5370e295", 
+        "is_playable": true, 
+        "uri": "spotify:track:0zRTdS0Ek81PeX9NWSZxij", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0zRTdS0Ek81PeX9NWSZxij", 
+        "artists": [
+          {
+            "name": "Suicide Silence", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+            }, 
+            "uri": "spotify:artist:6HZr7Fs2VfV1PYHIwo8Ylc", 
+            "href": "https://api.spotify.com/v1/artists/6HZr7Fs2VfV1PYHIwo8Ylc", 
+            "type": "artist", 
+            "id": "6HZr7Fs2VfV1PYHIwo8Ylc"
+          }
+        ], 
+        "duration_ms": 207586, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "0zRTdS0Ek81PeX9NWSZxij"
+      }, 
+      {
+        "name": "O.c.d.", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3PZt4dX4PqUx9q91SvwTbs"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/dd3814df6605e27dddd11e615ac346ca4c255716", 
+        "is_playable": true, 
+        "uri": "spotify:track:3PZt4dX4PqUx9q91SvwTbs", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3PZt4dX4PqUx9q91SvwTbs", 
+        "artists": [
+          {
+            "name": "Suicide Silence", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+            }, 
+            "uri": "spotify:artist:6HZr7Fs2VfV1PYHIwo8Ylc", 
+            "href": "https://api.spotify.com/v1/artists/6HZr7Fs2VfV1PYHIwo8Ylc", 
+            "type": "artist", 
+            "id": "6HZr7Fs2VfV1PYHIwo8Ylc"
+          }
+        ], 
+        "duration_ms": 199626, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "3PZt4dX4PqUx9q91SvwTbs"
+      }, 
+      {
+        "name": "Human Violence", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5BVJ1pu5aUhJ7IWCRzPSDM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/70a2f1dacb21751865e136be4feea27613b373a1", 
+        "is_playable": true, 
+        "uri": "spotify:track:5BVJ1pu5aUhJ7IWCRzPSDM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5BVJ1pu5aUhJ7IWCRzPSDM", 
+        "artists": [
+          {
+            "name": "Suicide Silence", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+            }, 
+            "uri": "spotify:artist:6HZr7Fs2VfV1PYHIwo8Ylc", 
+            "href": "https://api.spotify.com/v1/artists/6HZr7Fs2VfV1PYHIwo8Ylc", 
+            "type": "artist", 
+            "id": "6HZr7Fs2VfV1PYHIwo8Ylc"
+          }
+        ], 
+        "duration_ms": 227653, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "5BVJ1pu5aUhJ7IWCRzPSDM"
+      }, 
+      {
+        "name": "You Only Live Once", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7oaHtCQsAKIFFBCRDty9yn"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d0057cba135318a8374c15e9d296032eb54d6eaf", 
+        "is_playable": true, 
+        "uri": "spotify:track:7oaHtCQsAKIFFBCRDty9yn", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7oaHtCQsAKIFFBCRDty9yn", 
+        "artists": [
+          {
+            "name": "Suicide Silence", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+            }, 
+            "uri": "spotify:artist:6HZr7Fs2VfV1PYHIwo8Ylc", 
+            "href": "https://api.spotify.com/v1/artists/6HZr7Fs2VfV1PYHIwo8Ylc", 
+            "type": "artist", 
+            "id": "6HZr7Fs2VfV1PYHIwo8Ylc"
+          }
+        ], 
+        "duration_ms": 192573, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "7oaHtCQsAKIFFBCRDty9yn"
+      }, 
+      {
+        "name": "Fuck Everything", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2ZpxsG2TuignNO528gpBbr"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/02c2fcb326defccf9b852d17a138f64087cb802d", 
+        "is_playable": true, 
+        "uri": "spotify:track:2ZpxsG2TuignNO528gpBbr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2ZpxsG2TuignNO528gpBbr", 
+        "artists": [
+          {
+            "name": "Suicide Silence", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+            }, 
+            "uri": "spotify:artist:6HZr7Fs2VfV1PYHIwo8Ylc", 
+            "href": "https://api.spotify.com/v1/artists/6HZr7Fs2VfV1PYHIwo8Ylc", 
+            "type": "artist", 
+            "id": "6HZr7Fs2VfV1PYHIwo8Ylc"
+          }
+        ], 
+        "duration_ms": 273626, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "2ZpxsG2TuignNO528gpBbr"
+      }, 
+      {
+        "name": "March To The Black Crown", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/72wovGfUWLx1U23mAdyYJZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/58bd85b414ae94b1c1a97afa7dfe9c7f71e23a84", 
+        "is_playable": true, 
+        "uri": "spotify:track:72wovGfUWLx1U23mAdyYJZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/72wovGfUWLx1U23mAdyYJZ", 
+        "artists": [
+          {
+            "name": "Suicide Silence", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+            }, 
+            "uri": "spotify:artist:6HZr7Fs2VfV1PYHIwo8Ylc", 
+            "href": "https://api.spotify.com/v1/artists/6HZr7Fs2VfV1PYHIwo8Ylc", 
+            "type": "artist", 
+            "id": "6HZr7Fs2VfV1PYHIwo8Ylc"
+          }
+        ], 
+        "duration_ms": 90493, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "72wovGfUWLx1U23mAdyYJZ"
+      }, 
+      {
+        "name": "Witness The Addiction", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Y5DuasrdjrOL34E3DzuGy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/21f5713837e0c7fcc7cf8c988eb1408186f2a8c7", 
+        "is_playable": true, 
+        "uri": "spotify:track:3Y5DuasrdjrOL34E3DzuGy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3Y5DuasrdjrOL34E3DzuGy", 
+        "artists": [
+          {
+            "name": "Suicide Silence", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+            }, 
+            "uri": "spotify:artist:6HZr7Fs2VfV1PYHIwo8Ylc", 
+            "href": "https://api.spotify.com/v1/artists/6HZr7Fs2VfV1PYHIwo8Ylc", 
+            "type": "artist", 
+            "id": "6HZr7Fs2VfV1PYHIwo8Ylc"
+          }
+        ], 
+        "duration_ms": 332240, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "3Y5DuasrdjrOL34E3DzuGy"
+      }, 
+      {
+        "name": "Cross-eyed Catastrophe", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/133bJ5MpZ4AhUgyYc4POnr"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/164a829d6ae31a5d2b9dc6533bd43ba655032a86", 
+        "is_playable": true, 
+        "uri": "spotify:track:133bJ5MpZ4AhUgyYc4POnr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/133bJ5MpZ4AhUgyYc4POnr", 
+        "artists": [
+          {
+            "name": "Suicide Silence", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+            }, 
+            "uri": "spotify:artist:6HZr7Fs2VfV1PYHIwo8Ylc", 
+            "href": "https://api.spotify.com/v1/artists/6HZr7Fs2VfV1PYHIwo8Ylc", 
+            "type": "artist", 
+            "id": "6HZr7Fs2VfV1PYHIwo8Ylc"
+          }
+        ], 
+        "duration_ms": 205173, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "133bJ5MpZ4AhUgyYc4POnr"
+      }, 
+      {
+        "name": "Smashed", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1VpKxATHSFIeCC0V4E1dU9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/28a29ea27c43a02f8a9a36d4e4b62ae5dd5210e9", 
+        "is_playable": true, 
+        "uri": "spotify:track:1VpKxATHSFIeCC0V4E1dU9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1VpKxATHSFIeCC0V4E1dU9", 
+        "artists": [
+          {
+            "name": "Suicide Silence", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+            }, 
+            "uri": "spotify:artist:6HZr7Fs2VfV1PYHIwo8Ylc", 
+            "href": "https://api.spotify.com/v1/artists/6HZr7Fs2VfV1PYHIwo8Ylc", 
+            "type": "artist", 
+            "id": "6HZr7Fs2VfV1PYHIwo8Ylc"
+          }
+        ], 
+        "duration_ms": 186573, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "1VpKxATHSFIeCC0V4E1dU9"
+      }, 
+      {
+        "name": "The Only Thing That Sets Us Apart", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/01Dk1gM9BYyX8AfjGtIfLO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5fbc0e7e46b6d3e0c2a4c9a8f585a2de75e71730", 
+        "is_playable": true, 
+        "uri": "spotify:track:01Dk1gM9BYyX8AfjGtIfLO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/01Dk1gM9BYyX8AfjGtIfLO", 
+        "artists": [
+          {
+            "name": "Suicide Silence", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+            }, 
+            "uri": "spotify:artist:6HZr7Fs2VfV1PYHIwo8Ylc", 
+            "href": "https://api.spotify.com/v1/artists/6HZr7Fs2VfV1PYHIwo8Ylc", 
+            "type": "artist", 
+            "id": "6HZr7Fs2VfV1PYHIwo8Ylc"
+          }
+        ], 
+        "duration_ms": 250613, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "01Dk1gM9BYyX8AfjGtIfLO"
+      }, 
+      {
+        "name": "Cancerous Skies", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7u5pylaKv7aaFzztV36sLN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/824dc2e16e8022cba66cf3ca045c393134558453", 
+        "is_playable": true, 
+        "uri": "spotify:track:7u5pylaKv7aaFzztV36sLN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7u5pylaKv7aaFzztV36sLN", 
+        "artists": [
+          {
+            "name": "Suicide Silence", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+            }, 
+            "uri": "spotify:artist:6HZr7Fs2VfV1PYHIwo8Ylc", 
+            "href": "https://api.spotify.com/v1/artists/6HZr7Fs2VfV1PYHIwo8Ylc", 
+            "type": "artist", 
+            "id": "6HZr7Fs2VfV1PYHIwo8Ylc"
+          }
+        ], 
+        "duration_ms": 194786, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "7u5pylaKv7aaFzztV36sLN"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/0jgEtOLWGKsid52kBzpCRP/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 11, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/0jgEtOLWGKsid52kBzpCRP", 
+  "copyrights": [
+    {
+      "text": "2011 @ Century Media Records Ltd.", 
+      "type": "C"
+    }, 
+    {
+      "text": "2011 @ Century Media Records Ltd.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Suicide Silence", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+      }, 
+      "uri": "spotify:artist:6HZr7Fs2VfV1PYHIwo8Ylc", 
+      "href": "https://api.spotify.com/v1/artists/6HZr7Fs2VfV1PYHIwo8Ylc", 
+      "type": "artist", 
+      "id": "6HZr7Fs2VfV1PYHIwo8Ylc"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/c4267fd5ab28049fa3695fb429ae9ff4ad67959a", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/40da2525d2d312cfeeaee3d5f37ac85dc3ed3d1d", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/d46fb5af5acb48e62c20e043bc3512e46409025b", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "5052111066265"
+  }, 
+  "type": "album", 
+  "id": "0jgEtOLWGKsid52kBzpCRP", 
+  "name": "The Black Crown"
+}

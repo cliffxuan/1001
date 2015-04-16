@@ -1,0 +1,487 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1JXGJdo7Go4D2fipqXwt4q"
+  }, 
+  "release_date": "1983-09-01", 
+  "popularity": 43, 
+  "genres": [], 
+  "uri": "spotify:album:1JXGJdo7Go4D2fipqXwt4q", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Underground", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/519FXUk7iiI2DCUkeAutsR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/737fa1585bf06f730aabe319c826b153f7d44055", 
+        "is_playable": true, 
+        "uri": "spotify:track:519FXUk7iiI2DCUkeAutsR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/519FXUk7iiI2DCUkeAutsR", 
+        "artists": [
+          {
+            "name": "Tom Waits", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+            }, 
+            "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM", 
+            "href": "https://api.spotify.com/v1/artists/7x83XhcMbOTl1UdYsPTuZM", 
+            "type": "artist", 
+            "id": "7x83XhcMbOTl1UdYsPTuZM"
+          }
+        ], 
+        "duration_ms": 120373, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "519FXUk7iiI2DCUkeAutsR"
+      }, 
+      {
+        "name": "Shore Leave", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/64Q8VziiNHmLlZqPvqBnkq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/89ed214cae2124a4c126994452aff1d1aface2e0", 
+        "is_playable": true, 
+        "uri": "spotify:track:64Q8VziiNHmLlZqPvqBnkq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/64Q8VziiNHmLlZqPvqBnkq", 
+        "artists": [
+          {
+            "name": "Tom Waits", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+            }, 
+            "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM", 
+            "href": "https://api.spotify.com/v1/artists/7x83XhcMbOTl1UdYsPTuZM", 
+            "type": "artist", 
+            "id": "7x83XhcMbOTl1UdYsPTuZM"
+          }
+        ], 
+        "duration_ms": 257173, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "64Q8VziiNHmLlZqPvqBnkq"
+      }, 
+      {
+        "name": "Dave The Butcher", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7ECzFb2hUrlzBYQBPEg58l"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d93cfc966f0e81f762329b6efa701a06ee9b9f65", 
+        "is_playable": true, 
+        "uri": "spotify:track:7ECzFb2hUrlzBYQBPEg58l", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7ECzFb2hUrlzBYQBPEg58l", 
+        "artists": [
+          {
+            "name": "Tom Waits", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+            }, 
+            "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM", 
+            "href": "https://api.spotify.com/v1/artists/7x83XhcMbOTl1UdYsPTuZM", 
+            "type": "artist", 
+            "id": "7x83XhcMbOTl1UdYsPTuZM"
+          }
+        ], 
+        "duration_ms": 140160, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "7ECzFb2hUrlzBYQBPEg58l"
+      }, 
+      {
+        "name": "Johnsburg, Illinois", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4H9hJiNobmvqhcHpDxsP14"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ac1a477b49f08b9e22b5590ead2db7ff5c98c984", 
+        "is_playable": true, 
+        "uri": "spotify:track:4H9hJiNobmvqhcHpDxsP14", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4H9hJiNobmvqhcHpDxsP14", 
+        "artists": [
+          {
+            "name": "Tom Waits", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+            }, 
+            "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM", 
+            "href": "https://api.spotify.com/v1/artists/7x83XhcMbOTl1UdYsPTuZM", 
+            "type": "artist", 
+            "id": "7x83XhcMbOTl1UdYsPTuZM"
+          }
+        ], 
+        "duration_ms": 93493, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "4H9hJiNobmvqhcHpDxsP14"
+      }, 
+      {
+        "name": "16 Shells From A 30.6", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0DKQqOrLeek0xeEnzJuTdS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fc5a452e1a9abd2ea318903ed45e8bf63df892cb", 
+        "is_playable": true, 
+        "uri": "spotify:track:0DKQqOrLeek0xeEnzJuTdS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0DKQqOrLeek0xeEnzJuTdS", 
+        "artists": [
+          {
+            "name": "Tom Waits", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+            }, 
+            "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM", 
+            "href": "https://api.spotify.com/v1/artists/7x83XhcMbOTl1UdYsPTuZM", 
+            "type": "artist", 
+            "id": "7x83XhcMbOTl1UdYsPTuZM"
+          }
+        ], 
+        "duration_ms": 273173, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "0DKQqOrLeek0xeEnzJuTdS"
+      }, 
+      {
+        "name": "Town With No Cheer", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3TkPWyppoHmigBVgCfanK9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ab6dd870194cd5725fbde73826d1a8dbe93d38e7", 
+        "is_playable": true, 
+        "uri": "spotify:track:3TkPWyppoHmigBVgCfanK9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3TkPWyppoHmigBVgCfanK9", 
+        "artists": [
+          {
+            "name": "Tom Waits", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+            }, 
+            "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM", 
+            "href": "https://api.spotify.com/v1/artists/7x83XhcMbOTl1UdYsPTuZM", 
+            "type": "artist", 
+            "id": "7x83XhcMbOTl1UdYsPTuZM"
+          }
+        ], 
+        "duration_ms": 268666, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "3TkPWyppoHmigBVgCfanK9"
+      }, 
+      {
+        "name": "In The Neighbourhood", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/50U1vziJX1xGyDOq2c69t5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6db1aee37d7f0c68921a5d77d383f5cbc1893703", 
+        "is_playable": true, 
+        "uri": "spotify:track:50U1vziJX1xGyDOq2c69t5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/50U1vziJX1xGyDOq2c69t5", 
+        "artists": [
+          {
+            "name": "Tom Waits", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+            }, 
+            "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM", 
+            "href": "https://api.spotify.com/v1/artists/7x83XhcMbOTl1UdYsPTuZM", 
+            "type": "artist", 
+            "id": "7x83XhcMbOTl1UdYsPTuZM"
+          }
+        ], 
+        "duration_ms": 187333, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "50U1vziJX1xGyDOq2c69t5"
+      }, 
+      {
+        "name": "Just Another Sucker On The Vine", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/76jj06R3k3J9eOeKC0SMZx"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f602a2264d2936d55b8dbf330d4dec859d473d71", 
+        "is_playable": true, 
+        "uri": "spotify:track:76jj06R3k3J9eOeKC0SMZx", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/76jj06R3k3J9eOeKC0SMZx", 
+        "artists": [
+          {
+            "name": "Tom Waits", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+            }, 
+            "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM", 
+            "href": "https://api.spotify.com/v1/artists/7x83XhcMbOTl1UdYsPTuZM", 
+            "type": "artist", 
+            "id": "7x83XhcMbOTl1UdYsPTuZM"
+          }
+        ], 
+        "duration_ms": 106826, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "76jj06R3k3J9eOeKC0SMZx"
+      }, 
+      {
+        "name": "Frank's Wild Years", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/38lKWxTbNN8G6yHrTwNBdx"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f0a37e6abf066407361c96bf31b8cbbdf6784bde", 
+        "is_playable": true, 
+        "uri": "spotify:track:38lKWxTbNN8G6yHrTwNBdx", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/38lKWxTbNN8G6yHrTwNBdx", 
+        "artists": [
+          {
+            "name": "Tom Waits", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+            }, 
+            "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM", 
+            "href": "https://api.spotify.com/v1/artists/7x83XhcMbOTl1UdYsPTuZM", 
+            "type": "artist", 
+            "id": "7x83XhcMbOTl1UdYsPTuZM"
+          }
+        ], 
+        "duration_ms": 112840, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "38lKWxTbNN8G6yHrTwNBdx"
+      }, 
+      {
+        "name": "Swordfishtrombone", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/07ifH9aJgrsbdp9OgVKK37"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7a96d3fadf48786398edb3762668c3275b83d522", 
+        "is_playable": true, 
+        "uri": "spotify:track:07ifH9aJgrsbdp9OgVKK37", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/07ifH9aJgrsbdp9OgVKK37", 
+        "artists": [
+          {
+            "name": "Tom Waits", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+            }, 
+            "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM", 
+            "href": "https://api.spotify.com/v1/artists/7x83XhcMbOTl1UdYsPTuZM", 
+            "type": "artist", 
+            "id": "7x83XhcMbOTl1UdYsPTuZM"
+          }
+        ], 
+        "duration_ms": 188333, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "07ifH9aJgrsbdp9OgVKK37"
+      }, 
+      {
+        "name": "Down, Down, Down", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3WAulkWP3VhKSFSDvYpFIr"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a3a248a14affc0b2de4608031fc658ede58b209e", 
+        "is_playable": true, 
+        "uri": "spotify:track:3WAulkWP3VhKSFSDvYpFIr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3WAulkWP3VhKSFSDvYpFIr", 
+        "artists": [
+          {
+            "name": "Tom Waits", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+            }, 
+            "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM", 
+            "href": "https://api.spotify.com/v1/artists/7x83XhcMbOTl1UdYsPTuZM", 
+            "type": "artist", 
+            "id": "7x83XhcMbOTl1UdYsPTuZM"
+          }
+        ], 
+        "duration_ms": 136333, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "3WAulkWP3VhKSFSDvYpFIr"
+      }, 
+      {
+        "name": "Soldier's Things", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6RFrfPnR79ANaj9AgyHeLT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/147e8da209780670971829f7b5e63274c1a90076", 
+        "is_playable": true, 
+        "uri": "spotify:track:6RFrfPnR79ANaj9AgyHeLT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6RFrfPnR79ANaj9AgyHeLT", 
+        "artists": [
+          {
+            "name": "Tom Waits", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+            }, 
+            "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM", 
+            "href": "https://api.spotify.com/v1/artists/7x83XhcMbOTl1UdYsPTuZM", 
+            "type": "artist", 
+            "id": "7x83XhcMbOTl1UdYsPTuZM"
+          }
+        ], 
+        "duration_ms": 203493, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "6RFrfPnR79ANaj9AgyHeLT"
+      }, 
+      {
+        "name": "Gin Soaked Boy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6ejsWa2fHwweoEpLg6mdf5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c30dbda0b8f9e6d8871ec0f9c1ed77dce6c784cc", 
+        "is_playable": true, 
+        "uri": "spotify:track:6ejsWa2fHwweoEpLg6mdf5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6ejsWa2fHwweoEpLg6mdf5", 
+        "artists": [
+          {
+            "name": "Tom Waits", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+            }, 
+            "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM", 
+            "href": "https://api.spotify.com/v1/artists/7x83XhcMbOTl1UdYsPTuZM", 
+            "type": "artist", 
+            "id": "7x83XhcMbOTl1UdYsPTuZM"
+          }
+        ], 
+        "duration_ms": 144333, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "6ejsWa2fHwweoEpLg6mdf5"
+      }, 
+      {
+        "name": "Trouble's Braids", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1sc4utTMFRJjLhez1959s7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/dde878f78dca44bde10415731f816792d781ff81", 
+        "is_playable": true, 
+        "uri": "spotify:track:1sc4utTMFRJjLhez1959s7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1sc4utTMFRJjLhez1959s7", 
+        "artists": [
+          {
+            "name": "Tom Waits", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+            }, 
+            "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM", 
+            "href": "https://api.spotify.com/v1/artists/7x83XhcMbOTl1UdYsPTuZM", 
+            "type": "artist", 
+            "id": "7x83XhcMbOTl1UdYsPTuZM"
+          }
+        ], 
+        "duration_ms": 78000, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "1sc4utTMFRJjLhez1959s7"
+      }, 
+      {
+        "name": "Rainbirds", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7Ge3KGBDe08dhalc64jvnE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/95fc20fe5db15e26b71d61d84597094673fd2829", 
+        "is_playable": true, 
+        "uri": "spotify:track:7Ge3KGBDe08dhalc64jvnE", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7Ge3KGBDe08dhalc64jvnE", 
+        "artists": [
+          {
+            "name": "Tom Waits", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+            }, 
+            "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM", 
+            "href": "https://api.spotify.com/v1/artists/7x83XhcMbOTl1UdYsPTuZM", 
+            "type": "artist", 
+            "id": "7x83XhcMbOTl1UdYsPTuZM"
+          }
+        ], 
+        "duration_ms": 194133, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "7Ge3KGBDe08dhalc64jvnE"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/1JXGJdo7Go4D2fipqXwt4q/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 15, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/1JXGJdo7Go4D2fipqXwt4q", 
+  "copyrights": [
+    {
+      "text": "(C) 1983 The Island Def Jam Music Group", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1983 The Island Def Jam Music Group", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Tom Waits", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+      }, 
+      "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM", 
+      "href": "https://api.spotify.com/v1/artists/7x83XhcMbOTl1UdYsPTuZM", 
+      "type": "artist", 
+      "id": "7x83XhcMbOTl1UdYsPTuZM"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/539ce66525c9034f4d7bc54e6b422c44f46f326d", 
+      "width": 640, 
+      "height": 622
+    }, 
+    {
+      "url": "https://i.scdn.co/image/192176fb1fff4ea4b6817362c90a67e2a5be99c9", 
+      "width": 300, 
+      "height": 292
+    }, 
+    {
+      "url": "https://i.scdn.co/image/f516a7bac6a21996b737f694dd265ff20473f23a", 
+      "width": 64, 
+      "height": 62
+    }
+  ], 
+  "external_ids": {
+    "upc": "00042284246927"
+  }, 
+  "type": "album", 
+  "id": "1JXGJdo7Go4D2fipqXwt4q", 
+  "name": "Swordfishtrombones"
+}

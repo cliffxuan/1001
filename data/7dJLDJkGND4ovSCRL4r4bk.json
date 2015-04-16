@@ -1,0 +1,403 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7dJLDJkGND4ovSCRL4r4bk"
+  }, 
+  "release_date": "1993", 
+  "popularity": 38, 
+  "genres": [], 
+  "uri": "spotify:album:7dJLDJkGND4ovSCRL4r4bk", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Show Girl", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0UbefaUT31AygrDbmOWT0w"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5aa2da099b21a5640d0b4915e8190aa29c14d509", 
+        "is_playable": true, 
+        "uri": "spotify:track:0UbefaUT31AygrDbmOWT0w", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0UbefaUT31AygrDbmOWT0w", 
+        "artists": [
+          {
+            "name": "The Auteurs", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5EtBXjUUyPJmiljpRdN6RJ"
+            }, 
+            "uri": "spotify:artist:5EtBXjUUyPJmiljpRdN6RJ", 
+            "href": "https://api.spotify.com/v1/artists/5EtBXjUUyPJmiljpRdN6RJ", 
+            "type": "artist", 
+            "id": "5EtBXjUUyPJmiljpRdN6RJ"
+          }
+        ], 
+        "duration_ms": 246533, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "0UbefaUT31AygrDbmOWT0w"
+      }, 
+      {
+        "name": "Bailed Out", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4fXusUJ39P5rTHjA8hzdpe"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/be867425aba3bd453ef2bc7643c84c50329acae7", 
+        "is_playable": true, 
+        "uri": "spotify:track:4fXusUJ39P5rTHjA8hzdpe", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4fXusUJ39P5rTHjA8hzdpe", 
+        "artists": [
+          {
+            "name": "The Auteurs", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5EtBXjUUyPJmiljpRdN6RJ"
+            }, 
+            "uri": "spotify:artist:5EtBXjUUyPJmiljpRdN6RJ", 
+            "href": "https://api.spotify.com/v1/artists/5EtBXjUUyPJmiljpRdN6RJ", 
+            "type": "artist", 
+            "id": "5EtBXjUUyPJmiljpRdN6RJ"
+          }
+        ], 
+        "duration_ms": 224133, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "4fXusUJ39P5rTHjA8hzdpe"
+      }, 
+      {
+        "name": "American Guitars", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3YcpQVAKDKwZlhlSUJ3a49"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4e8daabf7a6822700abb8a41d412a94a4b2be7fa", 
+        "is_playable": true, 
+        "uri": "spotify:track:3YcpQVAKDKwZlhlSUJ3a49", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3YcpQVAKDKwZlhlSUJ3a49", 
+        "artists": [
+          {
+            "name": "The Auteurs", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5EtBXjUUyPJmiljpRdN6RJ"
+            }, 
+            "uri": "spotify:artist:5EtBXjUUyPJmiljpRdN6RJ", 
+            "href": "https://api.spotify.com/v1/artists/5EtBXjUUyPJmiljpRdN6RJ", 
+            "type": "artist", 
+            "id": "5EtBXjUUyPJmiljpRdN6RJ"
+          }
+        ], 
+        "duration_ms": 211133, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "3YcpQVAKDKwZlhlSUJ3a49"
+      }, 
+      {
+        "name": "Junk Shop Clothes", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5BcjOhf48cxRxTuxj6eggX"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3485ac76fb6e6a6664708a17b2c81dcebfa101cd", 
+        "is_playable": true, 
+        "uri": "spotify:track:5BcjOhf48cxRxTuxj6eggX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5BcjOhf48cxRxTuxj6eggX", 
+        "artists": [
+          {
+            "name": "The Auteurs", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5EtBXjUUyPJmiljpRdN6RJ"
+            }, 
+            "uri": "spotify:artist:5EtBXjUUyPJmiljpRdN6RJ", 
+            "href": "https://api.spotify.com/v1/artists/5EtBXjUUyPJmiljpRdN6RJ", 
+            "type": "artist", 
+            "id": "5EtBXjUUyPJmiljpRdN6RJ"
+          }
+        ], 
+        "duration_ms": 162666, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "5BcjOhf48cxRxTuxj6eggX"
+      }, 
+      {
+        "name": "Don't Trust The Stars", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4CkLuQjjn2z7cTNZHtW8en"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d6256ffcd1d3175634d602a3c125f8cf8d30dcd0", 
+        "is_playable": true, 
+        "uri": "spotify:track:4CkLuQjjn2z7cTNZHtW8en", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4CkLuQjjn2z7cTNZHtW8en", 
+        "artists": [
+          {
+            "name": "The Auteurs", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5EtBXjUUyPJmiljpRdN6RJ"
+            }, 
+            "uri": "spotify:artist:5EtBXjUUyPJmiljpRdN6RJ", 
+            "href": "https://api.spotify.com/v1/artists/5EtBXjUUyPJmiljpRdN6RJ", 
+            "type": "artist", 
+            "id": "5EtBXjUUyPJmiljpRdN6RJ"
+          }
+        ], 
+        "duration_ms": 145360, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "4CkLuQjjn2z7cTNZHtW8en"
+      }, 
+      {
+        "name": "Starstruck", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3HjgOxaR0wgpg0gnq4lXkg"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c049dcf65b8c12f1872ebf377ccfcbd5e9265478", 
+        "is_playable": true, 
+        "uri": "spotify:track:3HjgOxaR0wgpg0gnq4lXkg", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3HjgOxaR0wgpg0gnq4lXkg", 
+        "artists": [
+          {
+            "name": "The Auteurs", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5EtBXjUUyPJmiljpRdN6RJ"
+            }, 
+            "uri": "spotify:artist:5EtBXjUUyPJmiljpRdN6RJ", 
+            "href": "https://api.spotify.com/v1/artists/5EtBXjUUyPJmiljpRdN6RJ", 
+            "type": "artist", 
+            "id": "5EtBXjUUyPJmiljpRdN6RJ"
+          }
+        ], 
+        "duration_ms": 179973, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "3HjgOxaR0wgpg0gnq4lXkg"
+      }, 
+      {
+        "name": "How Could I Be Wrong", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4XjM6EHasup5U0NDIpNbX4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b45cce2ad77cf7bf598f9769051bf5f9272669aa", 
+        "is_playable": true, 
+        "uri": "spotify:track:4XjM6EHasup5U0NDIpNbX4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4XjM6EHasup5U0NDIpNbX4", 
+        "artists": [
+          {
+            "name": "The Auteurs", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5EtBXjUUyPJmiljpRdN6RJ"
+            }, 
+            "uri": "spotify:artist:5EtBXjUUyPJmiljpRdN6RJ", 
+            "href": "https://api.spotify.com/v1/artists/5EtBXjUUyPJmiljpRdN6RJ", 
+            "type": "artist", 
+            "id": "5EtBXjUUyPJmiljpRdN6RJ"
+          }
+        ], 
+        "duration_ms": 233360, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "4XjM6EHasup5U0NDIpNbX4"
+      }, 
+      {
+        "name": "Housebreaker", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7zT4zXYdNi2VKhQPt63qKi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cd8cf4ecd9f9a64cd7d511f11e912c9681cc181b", 
+        "is_playable": true, 
+        "uri": "spotify:track:7zT4zXYdNi2VKhQPt63qKi", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7zT4zXYdNi2VKhQPt63qKi", 
+        "artists": [
+          {
+            "name": "The Auteurs", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5EtBXjUUyPJmiljpRdN6RJ"
+            }, 
+            "uri": "spotify:artist:5EtBXjUUyPJmiljpRdN6RJ", 
+            "href": "https://api.spotify.com/v1/artists/5EtBXjUUyPJmiljpRdN6RJ", 
+            "type": "artist", 
+            "id": "5EtBXjUUyPJmiljpRdN6RJ"
+          }
+        ], 
+        "duration_ms": 177000, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "7zT4zXYdNi2VKhQPt63qKi"
+      }, 
+      {
+        "name": "Valet Parking", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0PlnMRdMjtnDghRiWPmDRi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d7146985e1a8faf5f32ff242b71febd2c864b6b2", 
+        "is_playable": true, 
+        "uri": "spotify:track:0PlnMRdMjtnDghRiWPmDRi", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0PlnMRdMjtnDghRiWPmDRi", 
+        "artists": [
+          {
+            "name": "The Auteurs", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5EtBXjUUyPJmiljpRdN6RJ"
+            }, 
+            "uri": "spotify:artist:5EtBXjUUyPJmiljpRdN6RJ", 
+            "href": "https://api.spotify.com/v1/artists/5EtBXjUUyPJmiljpRdN6RJ", 
+            "type": "artist", 
+            "id": "5EtBXjUUyPJmiljpRdN6RJ"
+          }
+        ], 
+        "duration_ms": 175973, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "0PlnMRdMjtnDghRiWPmDRi"
+      }, 
+      {
+        "name": "Idiot Brother", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5cpRnvzUyFL3nwwtF2uFPC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f6baa02d9d52597e075a151999584b6e8d7e1f1b", 
+        "is_playable": true, 
+        "uri": "spotify:track:5cpRnvzUyFL3nwwtF2uFPC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5cpRnvzUyFL3nwwtF2uFPC", 
+        "artists": [
+          {
+            "name": "The Auteurs", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5EtBXjUUyPJmiljpRdN6RJ"
+            }, 
+            "uri": "spotify:artist:5EtBXjUUyPJmiljpRdN6RJ", 
+            "href": "https://api.spotify.com/v1/artists/5EtBXjUUyPJmiljpRdN6RJ", 
+            "type": "artist", 
+            "id": "5EtBXjUUyPJmiljpRdN6RJ"
+          }
+        ], 
+        "duration_ms": 345026, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "5cpRnvzUyFL3nwwtF2uFPC"
+      }, 
+      {
+        "name": "Early Years", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0GUbW0NlGZPSJmV8gBt2xr"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/241e81152c52bd11f770b12fbc3506348a47f066", 
+        "is_playable": true, 
+        "uri": "spotify:track:0GUbW0NlGZPSJmV8gBt2xr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0GUbW0NlGZPSJmV8gBt2xr", 
+        "artists": [
+          {
+            "name": "The Auteurs", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5EtBXjUUyPJmiljpRdN6RJ"
+            }, 
+            "uri": "spotify:artist:5EtBXjUUyPJmiljpRdN6RJ", 
+            "href": "https://api.spotify.com/v1/artists/5EtBXjUUyPJmiljpRdN6RJ", 
+            "type": "artist", 
+            "id": "5EtBXjUUyPJmiljpRdN6RJ"
+          }
+        ], 
+        "duration_ms": 160933, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "0GUbW0NlGZPSJmV8gBt2xr"
+      }, 
+      {
+        "name": "Home Again", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6HhxrsKrJdCceZCdPtZuZ0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0883d94b3e30e8ea2fa5230fee9cad3e3e26cdf7", 
+        "is_playable": true, 
+        "uri": "spotify:track:6HhxrsKrJdCceZCdPtZuZ0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6HhxrsKrJdCceZCdPtZuZ0", 
+        "artists": [
+          {
+            "name": "The Auteurs", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5EtBXjUUyPJmiljpRdN6RJ"
+            }, 
+            "uri": "spotify:artist:5EtBXjUUyPJmiljpRdN6RJ", 
+            "href": "https://api.spotify.com/v1/artists/5EtBXjUUyPJmiljpRdN6RJ", 
+            "type": "artist", 
+            "id": "5EtBXjUUyPJmiljpRdN6RJ"
+          }
+        ], 
+        "duration_ms": 359906, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "6HhxrsKrJdCceZCdPtZuZ0"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/7dJLDJkGND4ovSCRL4r4bk/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 12, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/7dJLDJkGND4ovSCRL4r4bk", 
+  "copyrights": [
+    {
+      "text": "(C) 1993 Virgin Records LtdThis label copy information is the subject of copyright protection. All rights reserved.(C) 1993 Virgin Records Ltd", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1993 The copyright in this sound recording is owned by Virgin Records Ltd", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "The Auteurs", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5EtBXjUUyPJmiljpRdN6RJ"
+      }, 
+      "uri": "spotify:artist:5EtBXjUUyPJmiljpRdN6RJ", 
+      "href": "https://api.spotify.com/v1/artists/5EtBXjUUyPJmiljpRdN6RJ", 
+      "type": "artist", 
+      "id": "5EtBXjUUyPJmiljpRdN6RJ"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/4ae385ee00c33a777f88df5537d57d6d12314d60", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/21af51aa9ee980ead9daa2a5eb21443b6c3f916d", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/b90e76bec346dc9f221b12d1ea8bd9b1cb51315b", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00077778777656"
+  }, 
+  "type": "album", 
+  "id": "7dJLDJkGND4ovSCRL4r4bk", 
+  "name": "New Wave"
+}

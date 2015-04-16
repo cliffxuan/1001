@@ -1,0 +1,469 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
+  }, 
+  "release_date": "1969-05-29", 
+  "popularity": 53, 
+  "genres": [], 
+  "uri": "spotify:album:6vUWpE8qciYHOhf7mgaGny", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Suite: Judy Blue Eyes - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4728780250727b96943b8f3dc3da3daac150345a", 
+        "is_playable": true, 
+        "uri": "spotify:track:2PuUFT13yCzUOZun94WOXv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2PuUFT13yCzUOZun94WOXv", 
+        "artists": [
+          {
+            "name": "Crosby, Stills & Nash", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+            }, 
+            "uri": "spotify:artist:2pdvghEHZJtgSXZ7cvNLou", 
+            "href": "https://api.spotify.com/v1/artists/2pdvghEHZJtgSXZ7cvNLou", 
+            "type": "artist", 
+            "id": "2pdvghEHZJtgSXZ7cvNLou"
+          }
+        ], 
+        "duration_ms": 444053, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "2PuUFT13yCzUOZun94WOXv"
+      }, 
+      {
+        "name": "Marrakesh Express - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3bIB8JVXIbCTwJtsweAqeq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/55180b19f9967520fe8e485a539369913ccfefa2", 
+        "is_playable": true, 
+        "uri": "spotify:track:3bIB8JVXIbCTwJtsweAqeq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3bIB8JVXIbCTwJtsweAqeq", 
+        "artists": [
+          {
+            "name": "Crosby, Stills & Nash", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+            }, 
+            "uri": "spotify:artist:2pdvghEHZJtgSXZ7cvNLou", 
+            "href": "https://api.spotify.com/v1/artists/2pdvghEHZJtgSXZ7cvNLou", 
+            "type": "artist", 
+            "id": "2pdvghEHZJtgSXZ7cvNLou"
+          }
+        ], 
+        "duration_ms": 156680, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "3bIB8JVXIbCTwJtsweAqeq"
+      }, 
+      {
+        "name": "Guinevere - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3CZ4BXMk4xpCJcWeowNERh"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3d57e2646e21fa04f3fb2bee3d3a9b52776e16fa", 
+        "is_playable": true, 
+        "uri": "spotify:track:3CZ4BXMk4xpCJcWeowNERh", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3CZ4BXMk4xpCJcWeowNERh", 
+        "artists": [
+          {
+            "name": "Crosby, Stills & Nash", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+            }, 
+            "uri": "spotify:artist:2pdvghEHZJtgSXZ7cvNLou", 
+            "href": "https://api.spotify.com/v1/artists/2pdvghEHZJtgSXZ7cvNLou", 
+            "type": "artist", 
+            "id": "2pdvghEHZJtgSXZ7cvNLou"
+          }
+        ], 
+        "duration_ms": 277813, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "3CZ4BXMk4xpCJcWeowNERh"
+      }, 
+      {
+        "name": "You Don't Have To Cry - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0hroZQJfRxMVB5W7eOsJNj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c0a194249f0032547d324da5f7237defc0f3c474", 
+        "is_playable": true, 
+        "uri": "spotify:track:0hroZQJfRxMVB5W7eOsJNj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0hroZQJfRxMVB5W7eOsJNj", 
+        "artists": [
+          {
+            "name": "Crosby, Stills & Nash", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+            }, 
+            "uri": "spotify:artist:2pdvghEHZJtgSXZ7cvNLou", 
+            "href": "https://api.spotify.com/v1/artists/2pdvghEHZJtgSXZ7cvNLou", 
+            "type": "artist", 
+            "id": "2pdvghEHZJtgSXZ7cvNLou"
+          }
+        ], 
+        "duration_ms": 162693, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "0hroZQJfRxMVB5W7eOsJNj"
+      }, 
+      {
+        "name": "Pre-Road Downs - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3ytOjSznMxMx6mVKD7O263"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bde871c12bd4da55be1c6ff790f13025efb3060b", 
+        "is_playable": true, 
+        "uri": "spotify:track:3ytOjSznMxMx6mVKD7O263", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3ytOjSznMxMx6mVKD7O263", 
+        "artists": [
+          {
+            "name": "Crosby, Stills & Nash", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+            }, 
+            "uri": "spotify:artist:2pdvghEHZJtgSXZ7cvNLou", 
+            "href": "https://api.spotify.com/v1/artists/2pdvghEHZJtgSXZ7cvNLou", 
+            "type": "artist", 
+            "id": "2pdvghEHZJtgSXZ7cvNLou"
+          }
+        ], 
+        "duration_ms": 175733, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "3ytOjSznMxMx6mVKD7O263"
+      }, 
+      {
+        "name": "Wooden Ships - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/39m6vOwUEgjErRnsm93wu2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/454725ccffadcd2c971ed333f6770a9d5a99bbba", 
+        "is_playable": true, 
+        "uri": "spotify:track:39m6vOwUEgjErRnsm93wu2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/39m6vOwUEgjErRnsm93wu2", 
+        "artists": [
+          {
+            "name": "Crosby, Stills & Nash", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+            }, 
+            "uri": "spotify:artist:2pdvghEHZJtgSXZ7cvNLou", 
+            "href": "https://api.spotify.com/v1/artists/2pdvghEHZJtgSXZ7cvNLou", 
+            "type": "artist", 
+            "id": "2pdvghEHZJtgSXZ7cvNLou"
+          }
+        ], 
+        "duration_ms": 326293, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "39m6vOwUEgjErRnsm93wu2"
+      }, 
+      {
+        "name": "Lady Of The Island - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3zk0hw5TYUyNwLLkAdnSD4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4fb95a081cff7e0b9a4a5f6f4b43f0d9f3f95682", 
+        "is_playable": true, 
+        "uri": "spotify:track:3zk0hw5TYUyNwLLkAdnSD4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3zk0hw5TYUyNwLLkAdnSD4", 
+        "artists": [
+          {
+            "name": "Crosby, Stills & Nash", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+            }, 
+            "uri": "spotify:artist:2pdvghEHZJtgSXZ7cvNLou", 
+            "href": "https://api.spotify.com/v1/artists/2pdvghEHZJtgSXZ7cvNLou", 
+            "type": "artist", 
+            "id": "2pdvghEHZJtgSXZ7cvNLou"
+          }
+        ], 
+        "duration_ms": 156253, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "3zk0hw5TYUyNwLLkAdnSD4"
+      }, 
+      {
+        "name": "Helplessly Hoping - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9834bf341bab1cdb8b6786929df96c5c9003ec9e", 
+        "is_playable": true, 
+        "uri": "spotify:track:1UKobFsdqNXQb8OthimCKe", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1UKobFsdqNXQb8OthimCKe", 
+        "artists": [
+          {
+            "name": "Crosby, Stills & Nash", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+            }, 
+            "uri": "spotify:artist:2pdvghEHZJtgSXZ7cvNLou", 
+            "href": "https://api.spotify.com/v1/artists/2pdvghEHZJtgSXZ7cvNLou", 
+            "type": "artist", 
+            "id": "2pdvghEHZJtgSXZ7cvNLou"
+          }
+        ], 
+        "duration_ms": 157893, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "1UKobFsdqNXQb8OthimCKe"
+      }, 
+      {
+        "name": "Long Time Gone - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1zMfsMdwkSLvuqcCVEZGlT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8a24234b0f5ef95ad9bc76132a85be3388868442", 
+        "is_playable": true, 
+        "uri": "spotify:track:1zMfsMdwkSLvuqcCVEZGlT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1zMfsMdwkSLvuqcCVEZGlT", 
+        "artists": [
+          {
+            "name": "Crosby, Stills & Nash", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+            }, 
+            "uri": "spotify:artist:2pdvghEHZJtgSXZ7cvNLou", 
+            "href": "https://api.spotify.com/v1/artists/2pdvghEHZJtgSXZ7cvNLou", 
+            "type": "artist", 
+            "id": "2pdvghEHZJtgSXZ7cvNLou"
+          }
+        ], 
+        "duration_ms": 256653, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "1zMfsMdwkSLvuqcCVEZGlT"
+      }, 
+      {
+        "name": "49 Bye-Byes - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/14nPeFpodUF79CUJFhuZ7P"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d5847179f99f9635906d187588234df8005a6097", 
+        "is_playable": true, 
+        "uri": "spotify:track:14nPeFpodUF79CUJFhuZ7P", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/14nPeFpodUF79CUJFhuZ7P", 
+        "artists": [
+          {
+            "name": "Crosby, Stills & Nash", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+            }, 
+            "uri": "spotify:artist:2pdvghEHZJtgSXZ7cvNLou", 
+            "href": "https://api.spotify.com/v1/artists/2pdvghEHZJtgSXZ7cvNLou", 
+            "type": "artist", 
+            "id": "2pdvghEHZJtgSXZ7cvNLou"
+          }
+        ], 
+        "duration_ms": 305093, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "14nPeFpodUF79CUJFhuZ7P"
+      }, 
+      {
+        "name": "Do For The Others - Bonus Track", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4j0hqTP9itFBPSYZz7F7c5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/307a0a20882d0fcdbdcee9be4754f94ad4ec568c", 
+        "is_playable": true, 
+        "uri": "spotify:track:4j0hqTP9itFBPSYZz7F7c5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4j0hqTP9itFBPSYZz7F7c5", 
+        "artists": [
+          {
+            "name": "Crosby, Stills & Nash", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+            }, 
+            "uri": "spotify:artist:2pdvghEHZJtgSXZ7cvNLou", 
+            "href": "https://api.spotify.com/v1/artists/2pdvghEHZJtgSXZ7cvNLou", 
+            "type": "artist", 
+            "id": "2pdvghEHZJtgSXZ7cvNLou"
+          }
+        ], 
+        "duration_ms": 167480, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "4j0hqTP9itFBPSYZz7F7c5"
+      }, 
+      {
+        "name": "Song With No Words", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2iz5B3fIMX3U8Gva24QbcG"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/387f83eaf617c7bb072ac88254a5f6a59e57d47b", 
+        "is_playable": true, 
+        "uri": "spotify:track:2iz5B3fIMX3U8Gva24QbcG", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2iz5B3fIMX3U8Gva24QbcG", 
+        "artists": [
+          {
+            "name": "Crosby, Stills & Nash", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+            }, 
+            "uri": "spotify:artist:2pdvghEHZJtgSXZ7cvNLou", 
+            "href": "https://api.spotify.com/v1/artists/2pdvghEHZJtgSXZ7cvNLou", 
+            "type": "artist", 
+            "id": "2pdvghEHZJtgSXZ7cvNLou"
+          }
+        ], 
+        "duration_ms": 197053, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "2iz5B3fIMX3U8Gva24QbcG"
+      }, 
+      {
+        "name": "Everybody's Talkin' - Bonus Track", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2moQAQK2TFktQZY0aDmFC9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/927571a56fcafe248aac8e268cc97017bb0d9631", 
+        "is_playable": true, 
+        "uri": "spotify:track:2moQAQK2TFktQZY0aDmFC9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2moQAQK2TFktQZY0aDmFC9", 
+        "artists": [
+          {
+            "name": "Crosby, Stills & Nash", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+            }, 
+            "uri": "spotify:artist:2pdvghEHZJtgSXZ7cvNLou", 
+            "href": "https://api.spotify.com/v1/artists/2pdvghEHZJtgSXZ7cvNLou", 
+            "type": "artist", 
+            "id": "2pdvghEHZJtgSXZ7cvNLou"
+          }
+        ], 
+        "duration_ms": 193506, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "2moQAQK2TFktQZY0aDmFC9"
+      }, 
+      {
+        "name": "Teach Your Children - Bonus Track", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/14UvvyCwUtkf7Nk440cbG9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3a51502807476003e5e22c1289423ee639a05e3d", 
+        "is_playable": true, 
+        "uri": "spotify:track:14UvvyCwUtkf7Nk440cbG9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/14UvvyCwUtkf7Nk440cbG9", 
+        "artists": [
+          {
+            "name": "Crosby, Stills & Nash", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+            }, 
+            "uri": "spotify:artist:2pdvghEHZJtgSXZ7cvNLou", 
+            "href": "https://api.spotify.com/v1/artists/2pdvghEHZJtgSXZ7cvNLou", 
+            "type": "artist", 
+            "id": "2pdvghEHZJtgSXZ7cvNLou"
+          }, 
+          {
+            "name": "Young", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6aAtkgmsCMtJHi6HDjEtEB"
+            }, 
+            "uri": "spotify:artist:6aAtkgmsCMtJHi6HDjEtEB", 
+            "href": "https://api.spotify.com/v1/artists/6aAtkgmsCMtJHi6HDjEtEB", 
+            "type": "artist", 
+            "id": "6aAtkgmsCMtJHi6HDjEtEB"
+          }
+        ], 
+        "duration_ms": 194226, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "14UvvyCwUtkf7Nk440cbG9"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/6vUWpE8qciYHOhf7mgaGny/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 14, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/6vUWpE8qciYHOhf7mgaGny", 
+  "copyrights": [
+    {
+      "text": "2006 Atlantic Recording Corp. Manufactured & Marketed by Rhino Entertainment Co. A Warner Music Group Co.", 
+      "type": "C"
+    }, 
+    {
+      "text": "2006 Atlantic Recording Corp. Manufactured & Marketed by Rhino Entertainment Co. A Warner Music Group Co.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Crosby, Stills & Nash", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+      }, 
+      "uri": "spotify:artist:2pdvghEHZJtgSXZ7cvNLou", 
+      "href": "https://api.spotify.com/v1/artists/2pdvghEHZJtgSXZ7cvNLou", 
+      "type": "artist", 
+      "id": "2pdvghEHZJtgSXZ7cvNLou"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/c5d1007280049c25ea541825666a5f8c23d6a596", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/c79971df3f3e288729e6561adbc967067c76418c", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/8f522294f16c7648838b48aa811fd0f4a127869e", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "081227329068"
+  }, 
+  "type": "album", 
+  "id": "6vUWpE8qciYHOhf7mgaGny", 
+  "name": "Crosby, Stills & Nash [with Bonus Tracks]"
+}

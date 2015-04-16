@@ -1,0 +1,919 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4WCU7L1JSvZ8xWDdBo6qMb"
+  }, 
+  "release_date": "2006-02-02", 
+  "popularity": 40, 
+  "genres": [], 
+  "uri": "spotify:album:4WCU7L1JSvZ8xWDdBo6qMb", 
+  "tracks": {
+    "items": [
+      {
+        "name": "The Return Of Clyde Smith (Skit)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6d5igIqOW8DND0zT3s2Rka"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b3120c67bb82dafb190b540b47f12fbfa72b366d", 
+        "is_playable": true, 
+        "uri": "spotify:track:6d5igIqOW8DND0zT3s2Rka", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6d5igIqOW8DND0zT3s2Rka", 
+        "artists": [
+          {
+            "name": "Ghostface Killah", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+            }, 
+            "uri": "spotify:artist:6FD0unjzGQhX3b6eMccMJe", 
+            "href": "https://api.spotify.com/v1/artists/6FD0unjzGQhX3b6eMccMJe", 
+            "type": "artist", 
+            "id": "6FD0unjzGQhX3b6eMccMJe"
+          }
+        ], 
+        "duration_ms": 64426, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "6d5igIqOW8DND0zT3s2Rka"
+      }, 
+      {
+        "name": "Shakey Dog", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6tjsbxQfec18FUXENKbpem"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a0f953c3b1995b118020c1aec84df3a52db3bf87", 
+        "is_playable": true, 
+        "uri": "spotify:track:6tjsbxQfec18FUXENKbpem", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6tjsbxQfec18FUXENKbpem", 
+        "artists": [
+          {
+            "name": "Ghostface Killah", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+            }, 
+            "uri": "spotify:artist:6FD0unjzGQhX3b6eMccMJe", 
+            "href": "https://api.spotify.com/v1/artists/6FD0unjzGQhX3b6eMccMJe", 
+            "type": "artist", 
+            "id": "6FD0unjzGQhX3b6eMccMJe"
+          }
+        ], 
+        "duration_ms": 224533, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "6tjsbxQfec18FUXENKbpem"
+      }, 
+      {
+        "name": "Kilo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/404TEhmFoA1bhMUFaQQgzI"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1f3f85a95c589e582a6237227be028b4b08796cd", 
+        "is_playable": true, 
+        "uri": "spotify:track:404TEhmFoA1bhMUFaQQgzI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/404TEhmFoA1bhMUFaQQgzI", 
+        "artists": [
+          {
+            "name": "Ghostface Killah", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+            }, 
+            "uri": "spotify:artist:6FD0unjzGQhX3b6eMccMJe", 
+            "href": "https://api.spotify.com/v1/artists/6FD0unjzGQhX3b6eMccMJe", 
+            "type": "artist", 
+            "id": "6FD0unjzGQhX3b6eMccMJe"
+          }, 
+          {
+            "name": "Raekwon", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+            }, 
+            "uri": "spotify:artist:2yQf6b8hxahZaT5dHlWaB1", 
+            "href": "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1", 
+            "type": "artist", 
+            "id": "2yQf6b8hxahZaT5dHlWaB1"
+          }
+        ], 
+        "duration_ms": 240266, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "404TEhmFoA1bhMUFaQQgzI"
+      }, 
+      {
+        "name": "The Champ", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1sc9JmJrVNG60DdkpIkq5E"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a25d0b6279523218a52e6ff5e66f745dad8e32a0", 
+        "is_playable": true, 
+        "uri": "spotify:track:1sc9JmJrVNG60DdkpIkq5E", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1sc9JmJrVNG60DdkpIkq5E", 
+        "artists": [
+          {
+            "name": "Ghostface Killah", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+            }, 
+            "uri": "spotify:artist:6FD0unjzGQhX3b6eMccMJe", 
+            "href": "https://api.spotify.com/v1/artists/6FD0unjzGQhX3b6eMccMJe", 
+            "type": "artist", 
+            "id": "6FD0unjzGQhX3b6eMccMJe"
+          }
+        ], 
+        "duration_ms": 249306, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "1sc9JmJrVNG60DdkpIkq5E"
+      }, 
+      {
+        "name": "Major Operation (Skit)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/217dJErl1DJisIFpTU6qkX"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6ff8ae94192a480770bfefa3aa729f800ba2edc0", 
+        "is_playable": true, 
+        "uri": "spotify:track:217dJErl1DJisIFpTU6qkX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/217dJErl1DJisIFpTU6qkX", 
+        "artists": [
+          {
+            "name": "Ghostface Killah", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+            }, 
+            "uri": "spotify:artist:6FD0unjzGQhX3b6eMccMJe", 
+            "href": "https://api.spotify.com/v1/artists/6FD0unjzGQhX3b6eMccMJe", 
+            "type": "artist", 
+            "id": "6FD0unjzGQhX3b6eMccMJe"
+          }
+        ], 
+        "duration_ms": 6893, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "217dJErl1DJisIFpTU6qkX"
+      }, 
+      {
+        "name": "9 Milli Bros", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4H19xnZ65BcWYwfpXS8BCH"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d97f2899458876c8f5913e35d41de001509dadba", 
+        "is_playable": true, 
+        "uri": "spotify:track:4H19xnZ65BcWYwfpXS8BCH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4H19xnZ65BcWYwfpXS8BCH", 
+        "artists": [
+          {
+            "name": "Ghostface Killah", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+            }, 
+            "uri": "spotify:artist:6FD0unjzGQhX3b6eMccMJe", 
+            "href": "https://api.spotify.com/v1/artists/6FD0unjzGQhX3b6eMccMJe", 
+            "type": "artist", 
+            "id": "6FD0unjzGQhX3b6eMccMJe"
+          }, 
+          {
+            "name": "Wu-Tang Clan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+            }, 
+            "uri": "spotify:artist:34EP7KEpOjXcM2TCat1ISk", 
+            "href": "https://api.spotify.com/v1/artists/34EP7KEpOjXcM2TCat1ISk", 
+            "type": "artist", 
+            "id": "34EP7KEpOjXcM2TCat1ISk"
+          }
+        ], 
+        "duration_ms": 254640, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "4H19xnZ65BcWYwfpXS8BCH"
+      }, 
+      {
+        "name": "Beauty Jackson", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/55eSADudaSM9Aj5A2oemuA"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e3f67acaac082d386f309192c5516fef237b7c3d", 
+        "is_playable": true, 
+        "uri": "spotify:track:55eSADudaSM9Aj5A2oemuA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/55eSADudaSM9Aj5A2oemuA", 
+        "artists": [
+          {
+            "name": "Ghostface Killah", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+            }, 
+            "uri": "spotify:artist:6FD0unjzGQhX3b6eMccMJe", 
+            "href": "https://api.spotify.com/v1/artists/6FD0unjzGQhX3b6eMccMJe", 
+            "type": "artist", 
+            "id": "6FD0unjzGQhX3b6eMccMJe"
+          }
+        ], 
+        "duration_ms": 92360, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "55eSADudaSM9Aj5A2oemuA"
+      }, 
+      {
+        "name": "Heart Street Directions (Skit)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2oKboy7LL2lwtCyRD0LYMA"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/84b79312b8e9077c01912ccbe5345c5f8df1f485", 
+        "is_playable": true, 
+        "uri": "spotify:track:2oKboy7LL2lwtCyRD0LYMA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2oKboy7LL2lwtCyRD0LYMA", 
+        "artists": [
+          {
+            "name": "Ghostface Killah", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+            }, 
+            "uri": "spotify:artist:6FD0unjzGQhX3b6eMccMJe", 
+            "href": "https://api.spotify.com/v1/artists/6FD0unjzGQhX3b6eMccMJe", 
+            "type": "artist", 
+            "id": "6FD0unjzGQhX3b6eMccMJe"
+          }
+        ], 
+        "duration_ms": 54600, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "2oKboy7LL2lwtCyRD0LYMA"
+      }, 
+      {
+        "name": "Columbus Exchange (Skit)/ Crackspot", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7qI7zwtTZK9y5Gjauli4Jx"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/65c967d198ebee3537d7f3337a03f713da4a8b56", 
+        "is_playable": true, 
+        "uri": "spotify:track:7qI7zwtTZK9y5Gjauli4Jx", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7qI7zwtTZK9y5Gjauli4Jx", 
+        "artists": [
+          {
+            "name": "Ghostface Killah", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+            }, 
+            "uri": "spotify:artist:6FD0unjzGQhX3b6eMccMJe", 
+            "href": "https://api.spotify.com/v1/artists/6FD0unjzGQhX3b6eMccMJe", 
+            "type": "artist", 
+            "id": "6FD0unjzGQhX3b6eMccMJe"
+          }
+        ], 
+        "duration_ms": 141600, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "7qI7zwtTZK9y5Gjauli4Jx"
+      }, 
+      {
+        "name": "R.A.G.U.", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0ETcsXvZIT11ImXbtiG4rv"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fd6798def3bc8e544313850cc094df400761377f", 
+        "is_playable": true, 
+        "uri": "spotify:track:0ETcsXvZIT11ImXbtiG4rv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0ETcsXvZIT11ImXbtiG4rv", 
+        "artists": [
+          {
+            "name": "Ghostface Killah", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+            }, 
+            "uri": "spotify:artist:6FD0unjzGQhX3b6eMccMJe", 
+            "href": "https://api.spotify.com/v1/artists/6FD0unjzGQhX3b6eMccMJe", 
+            "type": "artist", 
+            "id": "6FD0unjzGQhX3b6eMccMJe"
+          }, 
+          {
+            "name": "Raekwon", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+            }, 
+            "uri": "spotify:artist:2yQf6b8hxahZaT5dHlWaB1", 
+            "href": "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1", 
+            "type": "artist", 
+            "id": "2yQf6b8hxahZaT5dHlWaB1"
+          }
+        ], 
+        "duration_ms": 159773, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "0ETcsXvZIT11ImXbtiG4rv"
+      }, 
+      {
+        "name": "Bad Mouth Kid (Skit)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6A2UELxyRJrJujrYOhPBFD"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b1256689978e55268828dec4c65c2b51af6b6d8b", 
+        "is_playable": true, 
+        "uri": "spotify:track:6A2UELxyRJrJujrYOhPBFD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6A2UELxyRJrJujrYOhPBFD", 
+        "artists": [
+          {
+            "name": "Ghostface Killah", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+            }, 
+            "uri": "spotify:artist:6FD0unjzGQhX3b6eMccMJe", 
+            "href": "https://api.spotify.com/v1/artists/6FD0unjzGQhX3b6eMccMJe", 
+            "type": "artist", 
+            "id": "6FD0unjzGQhX3b6eMccMJe"
+          }
+        ], 
+        "duration_ms": 70093, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "6A2UELxyRJrJujrYOhPBFD"
+      }, 
+      {
+        "name": "Whip You With A Strap", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0kqisMIfDimaCCjEML6thO"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f87708f394e9054c0a92bd3f2855467685067da6", 
+        "is_playable": true, 
+        "uri": "spotify:track:0kqisMIfDimaCCjEML6thO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0kqisMIfDimaCCjEML6thO", 
+        "artists": [
+          {
+            "name": "Ghostface Killah", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+            }, 
+            "uri": "spotify:artist:6FD0unjzGQhX3b6eMccMJe", 
+            "href": "https://api.spotify.com/v1/artists/6FD0unjzGQhX3b6eMccMJe", 
+            "type": "artist", 
+            "id": "6FD0unjzGQhX3b6eMccMJe"
+          }
+        ], 
+        "duration_ms": 171840, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "0kqisMIfDimaCCjEML6thO"
+      }, 
+      {
+        "name": "Back Like That", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/50MoyMDOBkItXT32zc150h"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e9ca41a0da0c5199d5712560589746656168fc4a", 
+        "is_playable": true, 
+        "uri": "spotify:track:50MoyMDOBkItXT32zc150h", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/50MoyMDOBkItXT32zc150h", 
+        "artists": [
+          {
+            "name": "Ghostface Killah", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+            }, 
+            "uri": "spotify:artist:6FD0unjzGQhX3b6eMccMJe", 
+            "href": "https://api.spotify.com/v1/artists/6FD0unjzGQhX3b6eMccMJe", 
+            "type": "artist", 
+            "id": "6FD0unjzGQhX3b6eMccMJe"
+          }, 
+          {
+            "name": "Ne-Yo", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+            }, 
+            "uri": "spotify:artist:21E3waRsmPlU7jZsS13rcj", 
+            "href": "https://api.spotify.com/v1/artists/21E3waRsmPlU7jZsS13rcj", 
+            "type": "artist", 
+            "id": "21E3waRsmPlU7jZsS13rcj"
+          }
+        ], 
+        "duration_ms": 242000, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "50MoyMDOBkItXT32zc150h"
+      }, 
+      {
+        "name": "Be Easy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Nz2IoTSGHT8o7o1tFpYdZ"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b84f80a96559ea0a747d9029c01c9caa7cb4af03", 
+        "is_playable": true, 
+        "uri": "spotify:track:3Nz2IoTSGHT8o7o1tFpYdZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3Nz2IoTSGHT8o7o1tFpYdZ", 
+        "artists": [
+          {
+            "name": "Ghostface Killah", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+            }, 
+            "uri": "spotify:artist:6FD0unjzGQhX3b6eMccMJe", 
+            "href": "https://api.spotify.com/v1/artists/6FD0unjzGQhX3b6eMccMJe", 
+            "type": "artist", 
+            "id": "6FD0unjzGQhX3b6eMccMJe"
+          }, 
+          {
+            "name": "Trife Da God", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3JzjGlJcZDcwbYuw8Aak3R"
+            }, 
+            "uri": "spotify:artist:3JzjGlJcZDcwbYuw8Aak3R", 
+            "href": "https://api.spotify.com/v1/artists/3JzjGlJcZDcwbYuw8Aak3R", 
+            "type": "artist", 
+            "id": "3JzjGlJcZDcwbYuw8Aak3R"
+          }
+        ], 
+        "duration_ms": 199600, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "3Nz2IoTSGHT8o7o1tFpYdZ"
+      }, 
+      {
+        "name": "Clipse of Doom", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7kXZyZhTMi1m2g0IunntQb"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0c6648c911e80dbc3f67ea349db6c3c6f648c17f", 
+        "is_playable": true, 
+        "uri": "spotify:track:7kXZyZhTMi1m2g0IunntQb", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7kXZyZhTMi1m2g0IunntQb", 
+        "artists": [
+          {
+            "name": "Ghostface Killah", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+            }, 
+            "uri": "spotify:artist:6FD0unjzGQhX3b6eMccMJe", 
+            "href": "https://api.spotify.com/v1/artists/6FD0unjzGQhX3b6eMccMJe", 
+            "type": "artist", 
+            "id": "6FD0unjzGQhX3b6eMccMJe"
+          }, 
+          {
+            "name": "Trife", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2WP6obWWFMbDECHzRBvrsz"
+            }, 
+            "uri": "spotify:artist:2WP6obWWFMbDECHzRBvrsz", 
+            "href": "https://api.spotify.com/v1/artists/2WP6obWWFMbDECHzRBvrsz", 
+            "type": "artist", 
+            "id": "2WP6obWWFMbDECHzRBvrsz"
+          }
+        ], 
+        "duration_ms": 189160, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "7kXZyZhTMi1m2g0IunntQb"
+      }, 
+      {
+        "name": "Jellyfish", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3v4mmUNWo3NEHwaCFYtjVV"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9d91279c5a80aaf9ff1e8d4e0a41d02a61836d23", 
+        "is_playable": true, 
+        "uri": "spotify:track:3v4mmUNWo3NEHwaCFYtjVV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3v4mmUNWo3NEHwaCFYtjVV", 
+        "artists": [
+          {
+            "name": "Ghostface Killah", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+            }, 
+            "uri": "spotify:artist:6FD0unjzGQhX3b6eMccMJe", 
+            "href": "https://api.spotify.com/v1/artists/6FD0unjzGQhX3b6eMccMJe", 
+            "type": "artist", 
+            "id": "6FD0unjzGQhX3b6eMccMJe"
+          }, 
+          {
+            "name": "Theodore Unit", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3etQyCmhwVq3MCsOWAqgSq"
+            }, 
+            "uri": "spotify:artist:3etQyCmhwVq3MCsOWAqgSq", 
+            "href": "https://api.spotify.com/v1/artists/3etQyCmhwVq3MCsOWAqgSq", 
+            "type": "artist", 
+            "id": "3etQyCmhwVq3MCsOWAqgSq"
+          }, 
+          {
+            "name": "Capadonna", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2eYwDmrGMLrRMXGh2lE11c"
+            }, 
+            "uri": "spotify:artist:2eYwDmrGMLrRMXGh2lE11c", 
+            "href": "https://api.spotify.com/v1/artists/2eYwDmrGMLrRMXGh2lE11c", 
+            "type": "artist", 
+            "id": "2eYwDmrGMLrRMXGh2lE11c"
+          }, 
+          {
+            "name": "Shawn Wigs", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5M5l5sGsFWGeQuqLkrjQgQ"
+            }, 
+            "uri": "spotify:artist:5M5l5sGsFWGeQuqLkrjQgQ", 
+            "href": "https://api.spotify.com/v1/artists/5M5l5sGsFWGeQuqLkrjQgQ", 
+            "type": "artist", 
+            "id": "5M5l5sGsFWGeQuqLkrjQgQ"
+          }, 
+          {
+            "name": "Trife", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2WP6obWWFMbDECHzRBvrsz"
+            }, 
+            "uri": "spotify:artist:2WP6obWWFMbDECHzRBvrsz", 
+            "href": "https://api.spotify.com/v1/artists/2WP6obWWFMbDECHzRBvrsz", 
+            "type": "artist", 
+            "id": "2WP6obWWFMbDECHzRBvrsz"
+          }
+        ], 
+        "duration_ms": 230893, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "3v4mmUNWo3NEHwaCFYtjVV"
+      }, 
+      {
+        "name": "Dogs Of War", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7JGymFIha9yb5fiAEEvUNX"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ebdc408a168de625ac200f5c1cf7f7778b9b879e", 
+        "is_playable": true, 
+        "uri": "spotify:track:7JGymFIha9yb5fiAEEvUNX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7JGymFIha9yb5fiAEEvUNX", 
+        "artists": [
+          {
+            "name": "Ghostface Killah", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+            }, 
+            "uri": "spotify:artist:6FD0unjzGQhX3b6eMccMJe", 
+            "href": "https://api.spotify.com/v1/artists/6FD0unjzGQhX3b6eMccMJe", 
+            "type": "artist", 
+            "id": "6FD0unjzGQhX3b6eMccMJe"
+          }, 
+          {
+            "name": "Raekwon", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+            }, 
+            "uri": "spotify:artist:2yQf6b8hxahZaT5dHlWaB1", 
+            "href": "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1", 
+            "type": "artist", 
+            "id": "2yQf6b8hxahZaT5dHlWaB1"
+          }, 
+          {
+            "name": "Theodore Unit", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3etQyCmhwVq3MCsOWAqgSq"
+            }, 
+            "uri": "spotify:artist:3etQyCmhwVq3MCsOWAqgSq", 
+            "href": "https://api.spotify.com/v1/artists/3etQyCmhwVq3MCsOWAqgSq", 
+            "type": "artist", 
+            "id": "3etQyCmhwVq3MCsOWAqgSq"
+          }, 
+          {
+            "name": "Capadonna", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2eYwDmrGMLrRMXGh2lE11c"
+            }, 
+            "uri": "spotify:artist:2eYwDmrGMLrRMXGh2lE11c", 
+            "href": "https://api.spotify.com/v1/artists/2eYwDmrGMLrRMXGh2lE11c", 
+            "type": "artist", 
+            "id": "2eYwDmrGMLrRMXGh2lE11c"
+          }, 
+          {
+            "name": "Trife", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2WP6obWWFMbDECHzRBvrsz"
+            }, 
+            "uri": "spotify:artist:2WP6obWWFMbDECHzRBvrsz", 
+            "href": "https://api.spotify.com/v1/artists/2WP6obWWFMbDECHzRBvrsz", 
+            "type": "artist", 
+            "id": "2WP6obWWFMbDECHzRBvrsz"
+          }, 
+          {
+            "name": "Sun God", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5FtiFDKYXZVHrm011mhQmL"
+            }, 
+            "uri": "spotify:artist:5FtiFDKYXZVHrm011mhQmL", 
+            "href": "https://api.spotify.com/v1/artists/5FtiFDKYXZVHrm011mhQmL", 
+            "type": "artist", 
+            "id": "5FtiFDKYXZVHrm011mhQmL"
+          }
+        ], 
+        "duration_ms": 244253, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "7JGymFIha9yb5fiAEEvUNX"
+      }, 
+      {
+        "name": "Barbershop", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2pCYKgqsvToHFnuFznqsiy"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c45d79295d52c30541419802ed0266c91df97af8", 
+        "is_playable": true, 
+        "uri": "spotify:track:2pCYKgqsvToHFnuFznqsiy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2pCYKgqsvToHFnuFznqsiy", 
+        "artists": [
+          {
+            "name": "Ghostface Killah", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+            }, 
+            "uri": "spotify:artist:6FD0unjzGQhX3b6eMccMJe", 
+            "href": "https://api.spotify.com/v1/artists/6FD0unjzGQhX3b6eMccMJe", 
+            "type": "artist", 
+            "id": "6FD0unjzGQhX3b6eMccMJe"
+          }
+        ], 
+        "duration_ms": 116760, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "2pCYKgqsvToHFnuFznqsiy"
+      }, 
+      {
+        "name": "Ms. Sweetwater (Skit)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/12w0pBU1sNG8i9629FdKDT"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/10f1654b450b11acecc357b18f6db886149d1be0", 
+        "is_playable": true, 
+        "uri": "spotify:track:12w0pBU1sNG8i9629FdKDT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/12w0pBU1sNG8i9629FdKDT", 
+        "artists": [
+          {
+            "name": "Ghostface Killah", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+            }, 
+            "uri": "spotify:artist:6FD0unjzGQhX3b6eMccMJe", 
+            "href": "https://api.spotify.com/v1/artists/6FD0unjzGQhX3b6eMccMJe", 
+            "type": "artist", 
+            "id": "6FD0unjzGQhX3b6eMccMJe"
+          }
+        ], 
+        "duration_ms": 14293, 
+        "track_number": 19, 
+        "type": "track", 
+        "id": "12w0pBU1sNG8i9629FdKDT"
+      }, 
+      {
+        "name": "Big Girl", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/64sVw6DVYbyu8vwqXEi6SK"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6b539aaacb6bb8ea3b5ae0b9cacfa33e736c2afc", 
+        "is_playable": true, 
+        "uri": "spotify:track:64sVw6DVYbyu8vwqXEi6SK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/64sVw6DVYbyu8vwqXEi6SK", 
+        "artists": [
+          {
+            "name": "Ghostface Killah", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+            }, 
+            "uri": "spotify:artist:6FD0unjzGQhX3b6eMccMJe", 
+            "href": "https://api.spotify.com/v1/artists/6FD0unjzGQhX3b6eMccMJe", 
+            "type": "artist", 
+            "id": "6FD0unjzGQhX3b6eMccMJe"
+          }
+        ], 
+        "duration_ms": 215906, 
+        "track_number": 20, 
+        "type": "track", 
+        "id": "64sVw6DVYbyu8vwqXEi6SK"
+      }, 
+      {
+        "name": "Underwater", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/46vifuWHSXBZyF9O5znmtH"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c257e208f96c838a04dd9b410cc2a612a7953ace", 
+        "is_playable": true, 
+        "uri": "spotify:track:46vifuWHSXBZyF9O5znmtH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/46vifuWHSXBZyF9O5znmtH", 
+        "artists": [
+          {
+            "name": "Ghostface Killah", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+            }, 
+            "uri": "spotify:artist:6FD0unjzGQhX3b6eMccMJe", 
+            "href": "https://api.spotify.com/v1/artists/6FD0unjzGQhX3b6eMccMJe", 
+            "type": "artist", 
+            "id": "6FD0unjzGQhX3b6eMccMJe"
+          }
+        ], 
+        "duration_ms": 123400, 
+        "track_number": 21, 
+        "type": "track", 
+        "id": "46vifuWHSXBZyF9O5znmtH"
+      }, 
+      {
+        "name": "The Ironman Takeover (Skit)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0CceuchLK9zbsWQsDDMc66"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9847da1f2baf7ae927501a301e0a6b70d43b7070", 
+        "is_playable": true, 
+        "uri": "spotify:track:0CceuchLK9zbsWQsDDMc66", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0CceuchLK9zbsWQsDDMc66", 
+        "artists": [
+          {
+            "name": "Ghostface Killah", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+            }, 
+            "uri": "spotify:artist:6FD0unjzGQhX3b6eMccMJe", 
+            "href": "https://api.spotify.com/v1/artists/6FD0unjzGQhX3b6eMccMJe", 
+            "type": "artist", 
+            "id": "6FD0unjzGQhX3b6eMccMJe"
+          }
+        ], 
+        "duration_ms": 5266, 
+        "track_number": 22, 
+        "type": "track", 
+        "id": "0CceuchLK9zbsWQsDDMc66"
+      }, 
+      {
+        "name": "Momma", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1iej8CG0rzKo3TwX6VkQ64"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8df4bfcb094c2a91dafae8d91041c86dbd19d8e3", 
+        "is_playable": true, 
+        "uri": "spotify:track:1iej8CG0rzKo3TwX6VkQ64", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1iej8CG0rzKo3TwX6VkQ64", 
+        "artists": [
+          {
+            "name": "Ghostface Killah", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+            }, 
+            "uri": "spotify:artist:6FD0unjzGQhX3b6eMccMJe", 
+            "href": "https://api.spotify.com/v1/artists/6FD0unjzGQhX3b6eMccMJe", 
+            "type": "artist", 
+            "id": "6FD0unjzGQhX3b6eMccMJe"
+          }, 
+          {
+            "name": "Megan Rochell", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/37ov0HF6bvjFWYrCz4uR4h"
+            }, 
+            "uri": "spotify:artist:37ov0HF6bvjFWYrCz4uR4h", 
+            "href": "https://api.spotify.com/v1/artists/37ov0HF6bvjFWYrCz4uR4h", 
+            "type": "artist", 
+            "id": "37ov0HF6bvjFWYrCz4uR4h"
+          }
+        ], 
+        "duration_ms": 288226, 
+        "track_number": 23, 
+        "type": "track", 
+        "id": "1iej8CG0rzKo3TwX6VkQ64"
+      }, 
+      {
+        "name": "Three Bricks", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Xwi90sPv3DqBcq15FUlkg"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2ff5fdd0e4f0844605f12c589748434fdd8c2cbc", 
+        "is_playable": true, 
+        "uri": "spotify:track:4Xwi90sPv3DqBcq15FUlkg", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4Xwi90sPv3DqBcq15FUlkg", 
+        "artists": [
+          {
+            "name": "Ghostface Killah", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+            }, 
+            "uri": "spotify:artist:6FD0unjzGQhX3b6eMccMJe", 
+            "href": "https://api.spotify.com/v1/artists/6FD0unjzGQhX3b6eMccMJe", 
+            "type": "artist", 
+            "id": "6FD0unjzGQhX3b6eMccMJe"
+          }, 
+          {
+            "name": "The Notorious B.I.G.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+            }, 
+            "uri": "spotify:artist:5me0Irg2ANcsgc93uaYrpb", 
+            "href": "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb", 
+            "type": "artist", 
+            "id": "5me0Irg2ANcsgc93uaYrpb"
+          }, 
+          {
+            "name": "Raekwon", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+            }, 
+            "uri": "spotify:artist:2yQf6b8hxahZaT5dHlWaB1", 
+            "href": "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1", 
+            "type": "artist", 
+            "id": "2yQf6b8hxahZaT5dHlWaB1"
+          }
+        ], 
+        "duration_ms": 298120, 
+        "track_number": 24, 
+        "type": "track", 
+        "id": "4Xwi90sPv3DqBcq15FUlkg"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/4WCU7L1JSvZ8xWDdBo6qMb/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 24, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/4WCU7L1JSvZ8xWDdBo6qMb", 
+  "copyrights": [
+    {
+      "text": "(C) 2006 The Island Def Jam Music Group", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 2006 The Island Def Jam Music Group", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Ghostface Killah", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+      }, 
+      "uri": "spotify:artist:6FD0unjzGQhX3b6eMccMJe", 
+      "href": "https://api.spotify.com/v1/artists/6FD0unjzGQhX3b6eMccMJe", 
+      "type": "artist", 
+      "id": "6FD0unjzGQhX3b6eMccMJe"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/16650d5f3cac48c46f7a9809b964d024173096f7", 
+      "width": 640, 
+      "height": 638
+    }, 
+    {
+      "url": "https://i.scdn.co/image/55c578fdc34b4b5a9b3c05c955a074afba737c8e", 
+      "width": 300, 
+      "height": 299
+    }, 
+    {
+      "url": "https://i.scdn.co/image/23aca2f13a52598e46a3a89e053a012ce07e8d0e", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00602498799024"
+  }, 
+  "type": "album", 
+  "id": "4WCU7L1JSvZ8xWDdBo6qMb", 
+  "name": "Fishscale"
+}

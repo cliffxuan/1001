@@ -1,0 +1,487 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4CfyfJWb1HSabAjdcLeThs"
+  }, 
+  "release_date": "2012-01-01", 
+  "popularity": 45, 
+  "genres": [], 
+  "uri": "spotify:album:4CfyfJWb1HSabAjdcLeThs", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Tutti Frutti", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Os0VNtvEnRFlXSK5dvOFu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e7270f4a075b04fea65fc2330aeec7a35c353c7e", 
+        "is_playable": true, 
+        "uri": "spotify:track:3Os0VNtvEnRFlXSK5dvOFu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3Os0VNtvEnRFlXSK5dvOFu", 
+        "artists": [
+          {
+            "name": "Little Richard", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+            }, 
+            "uri": "spotify:artist:4xls23Ye9WR9yy3yYMpAMm", 
+            "href": "https://api.spotify.com/v1/artists/4xls23Ye9WR9yy3yYMpAMm", 
+            "type": "artist", 
+            "id": "4xls23Ye9WR9yy3yYMpAMm"
+          }
+        ], 
+        "duration_ms": 146640, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "3Os0VNtvEnRFlXSK5dvOFu"
+      }, 
+      {
+        "name": "True, Fine Mama", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6HwhwEbCjoPsAkaApecR3r"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/04177c3b2903841f2400dc93639486958c9145dc", 
+        "is_playable": true, 
+        "uri": "spotify:track:6HwhwEbCjoPsAkaApecR3r", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6HwhwEbCjoPsAkaApecR3r", 
+        "artists": [
+          {
+            "name": "Little Richard", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+            }, 
+            "uri": "spotify:artist:4xls23Ye9WR9yy3yYMpAMm", 
+            "href": "https://api.spotify.com/v1/artists/4xls23Ye9WR9yy3yYMpAMm", 
+            "type": "artist", 
+            "id": "4xls23Ye9WR9yy3yYMpAMm"
+          }
+        ], 
+        "duration_ms": 163613, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "6HwhwEbCjoPsAkaApecR3r"
+      }, 
+      {
+        "name": "Can't Believe You Wanna Leave", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7BkkwFjreJxJWi3yOlPkVe"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d34c0937564c688eece13ff3d69f41574ca17c59", 
+        "is_playable": true, 
+        "uri": "spotify:track:7BkkwFjreJxJWi3yOlPkVe", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7BkkwFjreJxJWi3yOlPkVe", 
+        "artists": [
+          {
+            "name": "Little Richard", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+            }, 
+            "uri": "spotify:artist:4xls23Ye9WR9yy3yYMpAMm", 
+            "href": "https://api.spotify.com/v1/artists/4xls23Ye9WR9yy3yYMpAMm", 
+            "type": "artist", 
+            "id": "4xls23Ye9WR9yy3yYMpAMm"
+          }
+        ], 
+        "duration_ms": 148106, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "7BkkwFjreJxJWi3yOlPkVe"
+      }, 
+      {
+        "name": "Ready Teddy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6sDEUkpzpfFGWNExaTEGLh"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8bfcd80139cbe58c807e1ff7245167c559b71cdc", 
+        "is_playable": true, 
+        "uri": "spotify:track:6sDEUkpzpfFGWNExaTEGLh", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6sDEUkpzpfFGWNExaTEGLh", 
+        "artists": [
+          {
+            "name": "Little Richard", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+            }, 
+            "uri": "spotify:artist:4xls23Ye9WR9yy3yYMpAMm", 
+            "href": "https://api.spotify.com/v1/artists/4xls23Ye9WR9yy3yYMpAMm", 
+            "type": "artist", 
+            "id": "4xls23Ye9WR9yy3yYMpAMm"
+          }
+        ], 
+        "duration_ms": 129600, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "6sDEUkpzpfFGWNExaTEGLh"
+      }, 
+      {
+        "name": "Baby", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/04DHVW3KQCNLu2JO5hJvaw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/173a5ee13a64c934148d010b56087d540df3cd19", 
+        "is_playable": true, 
+        "uri": "spotify:track:04DHVW3KQCNLu2JO5hJvaw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/04DHVW3KQCNLu2JO5hJvaw", 
+        "artists": [
+          {
+            "name": "Little Richard", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+            }, 
+            "uri": "spotify:artist:4xls23Ye9WR9yy3yYMpAMm", 
+            "href": "https://api.spotify.com/v1/artists/4xls23Ye9WR9yy3yYMpAMm", 
+            "type": "artist", 
+            "id": "4xls23Ye9WR9yy3yYMpAMm"
+          }
+        ], 
+        "duration_ms": 126640, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "04DHVW3KQCNLu2JO5hJvaw"
+      }, 
+      {
+        "name": "Slippin' and Slidin'", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4gt7infLh0vcPPy3PyCG28"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c0790934959946e1a32c21e4d64164069b10aaa5", 
+        "is_playable": true, 
+        "uri": "spotify:track:4gt7infLh0vcPPy3PyCG28", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4gt7infLh0vcPPy3PyCG28", 
+        "artists": [
+          {
+            "name": "Little Richard", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+            }, 
+            "uri": "spotify:artist:4xls23Ye9WR9yy3yYMpAMm", 
+            "href": "https://api.spotify.com/v1/artists/4xls23Ye9WR9yy3yYMpAMm", 
+            "type": "artist", 
+            "id": "4xls23Ye9WR9yy3yYMpAMm"
+          }
+        ], 
+        "duration_ms": 164960, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "4gt7infLh0vcPPy3PyCG28"
+      }, 
+      {
+        "name": "Long Tall Sally", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6qb0O5HW7H4q6R0AbP38Ko"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/db924a5974ffb69e2a57d2acd271933a1be757a7", 
+        "is_playable": true, 
+        "uri": "spotify:track:6qb0O5HW7H4q6R0AbP38Ko", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6qb0O5HW7H4q6R0AbP38Ko", 
+        "artists": [
+          {
+            "name": "Little Richard", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+            }, 
+            "uri": "spotify:artist:4xls23Ye9WR9yy3yYMpAMm", 
+            "href": "https://api.spotify.com/v1/artists/4xls23Ye9WR9yy3yYMpAMm", 
+            "type": "artist", 
+            "id": "4xls23Ye9WR9yy3yYMpAMm"
+          }
+        ], 
+        "duration_ms": 131853, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "6qb0O5HW7H4q6R0AbP38Ko"
+      }, 
+      {
+        "name": "Miss Ann", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3HgZaKsSH9U5i618qA1pUW"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0760314f0dafcf15686ef142662d898e13b232f6", 
+        "is_playable": true, 
+        "uri": "spotify:track:3HgZaKsSH9U5i618qA1pUW", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3HgZaKsSH9U5i618qA1pUW", 
+        "artists": [
+          {
+            "name": "Little Richard", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+            }, 
+            "uri": "spotify:artist:4xls23Ye9WR9yy3yYMpAMm", 
+            "href": "https://api.spotify.com/v1/artists/4xls23Ye9WR9yy3yYMpAMm", 
+            "type": "artist", 
+            "id": "4xls23Ye9WR9yy3yYMpAMm"
+          }
+        ], 
+        "duration_ms": 137786, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "3HgZaKsSH9U5i618qA1pUW"
+      }, 
+      {
+        "name": "Oh Why?", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6jM3N8U5SdiAw5jgh9bdFG"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7a1add70cf884762fa9bafc624d37f7be8f2268d", 
+        "is_playable": true, 
+        "uri": "spotify:track:6jM3N8U5SdiAw5jgh9bdFG", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6jM3N8U5SdiAw5jgh9bdFG", 
+        "artists": [
+          {
+            "name": "Little Richard", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+            }, 
+            "uri": "spotify:artist:4xls23Ye9WR9yy3yYMpAMm", 
+            "href": "https://api.spotify.com/v1/artists/4xls23Ye9WR9yy3yYMpAMm", 
+            "type": "artist", 
+            "id": "4xls23Ye9WR9yy3yYMpAMm"
+          }
+        ], 
+        "duration_ms": 130320, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "6jM3N8U5SdiAw5jgh9bdFG"
+      }, 
+      {
+        "name": "Rip It Up", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6uTeN7RRma9HDqRJgDnz0Q"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ad13bf148c5e2f711615ba179b82f9bfaf7549b1", 
+        "is_playable": true, 
+        "uri": "spotify:track:6uTeN7RRma9HDqRJgDnz0Q", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6uTeN7RRma9HDqRJgDnz0Q", 
+        "artists": [
+          {
+            "name": "Little Richard", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+            }, 
+            "uri": "spotify:artist:4xls23Ye9WR9yy3yYMpAMm", 
+            "href": "https://api.spotify.com/v1/artists/4xls23Ye9WR9yy3yYMpAMm", 
+            "type": "artist", 
+            "id": "4xls23Ye9WR9yy3yYMpAMm"
+          }
+        ], 
+        "duration_ms": 144360, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "6uTeN7RRma9HDqRJgDnz0Q"
+      }, 
+      {
+        "name": "Jenny Jenny", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3bVv1dKF1BtObtWWrw6MlK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a3766fd28feac943e8706aa57ed2446e23422154", 
+        "is_playable": true, 
+        "uri": "spotify:track:3bVv1dKF1BtObtWWrw6MlK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3bVv1dKF1BtObtWWrw6MlK", 
+        "artists": [
+          {
+            "name": "Little Richard", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+            }, 
+            "uri": "spotify:artist:4xls23Ye9WR9yy3yYMpAMm", 
+            "href": "https://api.spotify.com/v1/artists/4xls23Ye9WR9yy3yYMpAMm", 
+            "type": "artist", 
+            "id": "4xls23Ye9WR9yy3yYMpAMm"
+          }
+        ], 
+        "duration_ms": 125146, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "3bVv1dKF1BtObtWWrw6MlK"
+      }, 
+      {
+        "name": "She's Got It", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4lFjlJx9RkUdlw9rJT0LAD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/170ec5fe5dab69fad4eb7257cbb31631b0493bc6", 
+        "is_playable": true, 
+        "uri": "spotify:track:4lFjlJx9RkUdlw9rJT0LAD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4lFjlJx9RkUdlw9rJT0LAD", 
+        "artists": [
+          {
+            "name": "Little Richard", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+            }, 
+            "uri": "spotify:artist:4xls23Ye9WR9yy3yYMpAMm", 
+            "href": "https://api.spotify.com/v1/artists/4xls23Ye9WR9yy3yYMpAMm", 
+            "type": "artist", 
+            "id": "4xls23Ye9WR9yy3yYMpAMm"
+          }
+        ], 
+        "duration_ms": 147866, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "4lFjlJx9RkUdlw9rJT0LAD"
+      }, 
+      {
+        "name": "Baby - Demo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5tgP9tkdg5VuV3LlLTYwkN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/70625fbd9e4e7f24b3115a952fb50a26d7887b5c", 
+        "is_playable": true, 
+        "uri": "spotify:track:5tgP9tkdg5VuV3LlLTYwkN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5tgP9tkdg5VuV3LlLTYwkN", 
+        "artists": [
+          {
+            "name": "Little Richard", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+            }, 
+            "uri": "spotify:artist:4xls23Ye9WR9yy3yYMpAMm", 
+            "href": "https://api.spotify.com/v1/artists/4xls23Ye9WR9yy3yYMpAMm", 
+            "type": "artist", 
+            "id": "4xls23Ye9WR9yy3yYMpAMm"
+          }
+        ], 
+        "duration_ms": 262666, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "5tgP9tkdg5VuV3LlLTYwkN"
+      }, 
+      {
+        "name": "All Night Long - Demo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Do4WJS2W7QoerzChWcxJl"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/81f9d1e86a6da86812075b5296519aa10a4879ba", 
+        "is_playable": true, 
+        "uri": "spotify:track:2Do4WJS2W7QoerzChWcxJl", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2Do4WJS2W7QoerzChWcxJl", 
+        "artists": [
+          {
+            "name": "Little Richard", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+            }, 
+            "uri": "spotify:artist:4xls23Ye9WR9yy3yYMpAMm", 
+            "href": "https://api.spotify.com/v1/artists/4xls23Ye9WR9yy3yYMpAMm", 
+            "type": "artist", 
+            "id": "4xls23Ye9WR9yy3yYMpAMm"
+          }
+        ], 
+        "duration_ms": 170240, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "2Do4WJS2W7QoerzChWcxJl"
+      }, 
+      {
+        "name": "Interview With Specialty Records Founder Art Rupe", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6rxD8NVexnDTuIy8XtLOiP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ecf36d0bf394e82dfce0787772af456b4f387d6f", 
+        "is_playable": true, 
+        "uri": "spotify:track:6rxD8NVexnDTuIy8XtLOiP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6rxD8NVexnDTuIy8XtLOiP", 
+        "artists": [
+          {
+            "name": "Little Richard", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+            }, 
+            "uri": "spotify:artist:4xls23Ye9WR9yy3yYMpAMm", 
+            "href": "https://api.spotify.com/v1/artists/4xls23Ye9WR9yy3yYMpAMm", 
+            "type": "artist", 
+            "id": "4xls23Ye9WR9yy3yYMpAMm"
+          }
+        ], 
+        "duration_ms": 553813, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "6rxD8NVexnDTuIy8XtLOiP"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/4CfyfJWb1HSabAjdcLeThs/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 15, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/4CfyfJWb1HSabAjdcLeThs", 
+  "copyrights": [
+    {
+      "text": "(C) 2012 Concord Music Group, Inc.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 2012 Concord Music Group, Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Little Richard", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+      }, 
+      "uri": "spotify:artist:4xls23Ye9WR9yy3yYMpAMm", 
+      "href": "https://api.spotify.com/v1/artists/4xls23Ye9WR9yy3yYMpAMm", 
+      "type": "artist", 
+      "id": "4xls23Ye9WR9yy3yYMpAMm"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/fb36bb0ef94eadab1876fdfd7dd2638ca22c1861", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/7e53ddf8c0a59087b70183aeff5d8431e98eb978", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/f74f5da49a9b50a900b5f8db2e5727e0de134df8", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00888072338265"
+  }, 
+  "type": "album", 
+  "id": "4CfyfJWb1HSabAjdcLeThs", 
+  "name": "Here's Little Richard [Remastered & Expanded]"
+}

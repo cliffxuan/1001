@@ -1,0 +1,679 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX"
+  }, 
+  "release_date": "2014-03-28", 
+  "popularity": 49, 
+  "genres": [], 
+  "uri": "spotify:album:4pox3k0CGuwwAknR9GtcoX", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Money Changes Everything", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4YkjAjUGilu4kAhCWm8Jt0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ce659b6b8c8cd16ee3a2b7290e1532f43899e051", 
+        "is_playable": true, 
+        "uri": "spotify:track:4YkjAjUGilu4kAhCWm8Jt0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4YkjAjUGilu4kAhCWm8Jt0", 
+        "artists": [
+          {
+            "name": "Cyndi Lauper", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+            }, 
+            "uri": "spotify:artist:2BTZIqw0ntH9MvilQ3ewNY", 
+            "href": "https://api.spotify.com/v1/artists/2BTZIqw0ntH9MvilQ3ewNY", 
+            "type": "artist", 
+            "id": "2BTZIqw0ntH9MvilQ3ewNY"
+          }
+        ], 
+        "duration_ms": 305453, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "4YkjAjUGilu4kAhCWm8Jt0"
+      }, 
+      {
+        "name": "Girls Just Want to Have Fun", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2zjt2hHBbiv5SuxYg8Z7eP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/66fd04a729097fa0ca3cdd283ae6e008fe935759", 
+        "is_playable": true, 
+        "uri": "spotify:track:2zjt2hHBbiv5SuxYg8Z7eP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2zjt2hHBbiv5SuxYg8Z7eP", 
+        "artists": [
+          {
+            "name": "Cyndi Lauper", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+            }, 
+            "uri": "spotify:artist:2BTZIqw0ntH9MvilQ3ewNY", 
+            "href": "https://api.spotify.com/v1/artists/2BTZIqw0ntH9MvilQ3ewNY", 
+            "type": "artist", 
+            "id": "2BTZIqw0ntH9MvilQ3ewNY"
+          }
+        ], 
+        "duration_ms": 238120, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "2zjt2hHBbiv5SuxYg8Z7eP"
+      }, 
+      {
+        "name": "When You Were Mine", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7KQVZXU9d5ReQiAC2fPze7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6e3f38ce2d38087f83f707710cda5e735a3e379b", 
+        "is_playable": true, 
+        "uri": "spotify:track:7KQVZXU9d5ReQiAC2fPze7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7KQVZXU9d5ReQiAC2fPze7", 
+        "artists": [
+          {
+            "name": "Cyndi Lauper", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+            }, 
+            "uri": "spotify:artist:2BTZIqw0ntH9MvilQ3ewNY", 
+            "href": "https://api.spotify.com/v1/artists/2BTZIqw0ntH9MvilQ3ewNY", 
+            "type": "artist", 
+            "id": "2BTZIqw0ntH9MvilQ3ewNY"
+          }
+        ], 
+        "duration_ms": 306546, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "7KQVZXU9d5ReQiAC2fPze7"
+      }, 
+      {
+        "name": "Time After Time", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Jj6MF0xDOMA3Ut2Z368Bx"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a2537a1c041fa2e6a0e102df6980ed522e2d0ab3", 
+        "is_playable": true, 
+        "uri": "spotify:track:1Jj6MF0xDOMA3Ut2Z368Bx", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1Jj6MF0xDOMA3Ut2Z368Bx", 
+        "artists": [
+          {
+            "name": "Cyndi Lauper", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+            }, 
+            "uri": "spotify:artist:2BTZIqw0ntH9MvilQ3ewNY", 
+            "href": "https://api.spotify.com/v1/artists/2BTZIqw0ntH9MvilQ3ewNY", 
+            "type": "artist", 
+            "id": "2BTZIqw0ntH9MvilQ3ewNY"
+          }
+        ], 
+        "duration_ms": 243066, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "1Jj6MF0xDOMA3Ut2Z368Bx"
+      }, 
+      {
+        "name": "She Bop", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3ptxtmBTnLLPJZQo32IFLI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c60a4c45b197c180f324c27829063fb9b7966974", 
+        "is_playable": true, 
+        "uri": "spotify:track:3ptxtmBTnLLPJZQo32IFLI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3ptxtmBTnLLPJZQo32IFLI", 
+        "artists": [
+          {
+            "name": "Cyndi Lauper", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+            }, 
+            "uri": "spotify:artist:2BTZIqw0ntH9MvilQ3ewNY", 
+            "href": "https://api.spotify.com/v1/artists/2BTZIqw0ntH9MvilQ3ewNY", 
+            "type": "artist", 
+            "id": "2BTZIqw0ntH9MvilQ3ewNY"
+          }
+        ], 
+        "duration_ms": 232133, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "3ptxtmBTnLLPJZQo32IFLI"
+      }, 
+      {
+        "name": "All Through the Night", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0SJn99MXmNfCD3j2E03QA2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/99244ebe2a5fc04af5937728e472b825a31f116c", 
+        "is_playable": true, 
+        "uri": "spotify:track:0SJn99MXmNfCD3j2E03QA2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0SJn99MXmNfCD3j2E03QA2", 
+        "artists": [
+          {
+            "name": "Cyndi Lauper", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+            }, 
+            "uri": "spotify:artist:2BTZIqw0ntH9MvilQ3ewNY", 
+            "href": "https://api.spotify.com/v1/artists/2BTZIqw0ntH9MvilQ3ewNY", 
+            "type": "artist", 
+            "id": "2BTZIqw0ntH9MvilQ3ewNY"
+          }
+        ], 
+        "duration_ms": 272626, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "0SJn99MXmNfCD3j2E03QA2"
+      }, 
+      {
+        "name": "Witness", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2tdXZBmGbkAzhe4HJXROrI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/89334e7b77814142c82b6726f691ed2c55cc98f6", 
+        "is_playable": true, 
+        "uri": "spotify:track:2tdXZBmGbkAzhe4HJXROrI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2tdXZBmGbkAzhe4HJXROrI", 
+        "artists": [
+          {
+            "name": "Cyndi Lauper", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+            }, 
+            "uri": "spotify:artist:2BTZIqw0ntH9MvilQ3ewNY", 
+            "href": "https://api.spotify.com/v1/artists/2BTZIqw0ntH9MvilQ3ewNY", 
+            "type": "artist", 
+            "id": "2BTZIqw0ntH9MvilQ3ewNY"
+          }
+        ], 
+        "duration_ms": 220213, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "2tdXZBmGbkAzhe4HJXROrI"
+      }, 
+      {
+        "name": "I'll Kiss You", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0EupF62QPaE5aercadcSY2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ae21e951f413ed0d3d4a75eb3503061af1ce298a", 
+        "is_playable": true, 
+        "uri": "spotify:track:0EupF62QPaE5aercadcSY2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0EupF62QPaE5aercadcSY2", 
+        "artists": [
+          {
+            "name": "Cyndi Lauper", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+            }, 
+            "uri": "spotify:artist:2BTZIqw0ntH9MvilQ3ewNY", 
+            "href": "https://api.spotify.com/v1/artists/2BTZIqw0ntH9MvilQ3ewNY", 
+            "type": "artist", 
+            "id": "2BTZIqw0ntH9MvilQ3ewNY"
+          }
+        ], 
+        "duration_ms": 252386, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "0EupF62QPaE5aercadcSY2"
+      }, 
+      {
+        "name": "He's so Unusual", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7vfcxmzsMvr6Pr8qVamVLT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/770e4c2cc93008e6b24b144c884c6ef22bad30d3", 
+        "is_playable": true, 
+        "uri": "spotify:track:7vfcxmzsMvr6Pr8qVamVLT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7vfcxmzsMvr6Pr8qVamVLT", 
+        "artists": [
+          {
+            "name": "Cyndi Lauper", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+            }, 
+            "uri": "spotify:artist:2BTZIqw0ntH9MvilQ3ewNY", 
+            "href": "https://api.spotify.com/v1/artists/2BTZIqw0ntH9MvilQ3ewNY", 
+            "type": "artist", 
+            "id": "2BTZIqw0ntH9MvilQ3ewNY"
+          }
+        ], 
+        "duration_ms": 46106, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "7vfcxmzsMvr6Pr8qVamVLT"
+      }, 
+      {
+        "name": "Yeah Yeah", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0MUboQjeGmOzqG1ppMVLHg"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/63583347caa950bc415ef8fc0456e99e1ebc0ae2", 
+        "is_playable": true, 
+        "uri": "spotify:track:0MUboQjeGmOzqG1ppMVLHg", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0MUboQjeGmOzqG1ppMVLHg", 
+        "artists": [
+          {
+            "name": "Cyndi Lauper", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+            }, 
+            "uri": "spotify:artist:2BTZIqw0ntH9MvilQ3ewNY", 
+            "href": "https://api.spotify.com/v1/artists/2BTZIqw0ntH9MvilQ3ewNY", 
+            "type": "artist", 
+            "id": "2BTZIqw0ntH9MvilQ3ewNY"
+          }
+        ], 
+        "duration_ms": 198146, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "0MUboQjeGmOzqG1ppMVLHg"
+      }, 
+      {
+        "name": "Girls Just Want to Have Fun - 2013 Yolanda Be Cool Remix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2QiyUyv72Fb2ZAAz6SOBBv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d4302ac8c0cd5e618a13aed2715dbb3f296f8213", 
+        "is_playable": true, 
+        "uri": "spotify:track:2QiyUyv72Fb2ZAAz6SOBBv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2QiyUyv72Fb2ZAAz6SOBBv", 
+        "artists": [
+          {
+            "name": "Cyndi Lauper", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+            }, 
+            "uri": "spotify:artist:2BTZIqw0ntH9MvilQ3ewNY", 
+            "href": "https://api.spotify.com/v1/artists/2BTZIqw0ntH9MvilQ3ewNY", 
+            "type": "artist", 
+            "id": "2BTZIqw0ntH9MvilQ3ewNY"
+          }
+        ], 
+        "duration_ms": 352973, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "2QiyUyv72Fb2ZAAz6SOBBv"
+      }, 
+      {
+        "name": "Time After Time - 2013 NERVO Back in time remix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4fwDppR4vzV1ICgHRBvC9k"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/77f65179889ba71e4a04c7144619a28286dfb1cd", 
+        "is_playable": true, 
+        "uri": "spotify:track:4fwDppR4vzV1ICgHRBvC9k", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4fwDppR4vzV1ICgHRBvC9k", 
+        "artists": [
+          {
+            "name": "Cyndi Lauper", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+            }, 
+            "uri": "spotify:artist:2BTZIqw0ntH9MvilQ3ewNY", 
+            "href": "https://api.spotify.com/v1/artists/2BTZIqw0ntH9MvilQ3ewNY", 
+            "type": "artist", 
+            "id": "2BTZIqw0ntH9MvilQ3ewNY"
+          }
+        ], 
+        "duration_ms": 293173, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "4fwDppR4vzV1ICgHRBvC9k"
+      }, 
+      {
+        "name": "Time After Time - 2013 Bent Collective Remix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/11nWS3DVvzhIyATYMHKd25"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b6389716d9b50f52daa05acb575b11528414a0db", 
+        "is_playable": true, 
+        "uri": "spotify:track:11nWS3DVvzhIyATYMHKd25", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/11nWS3DVvzhIyATYMHKd25", 
+        "artists": [
+          {
+            "name": "Cyndi Lauper", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+            }, 
+            "uri": "spotify:artist:2BTZIqw0ntH9MvilQ3ewNY", 
+            "href": "https://api.spotify.com/v1/artists/2BTZIqw0ntH9MvilQ3ewNY", 
+            "type": "artist", 
+            "id": "2BTZIqw0ntH9MvilQ3ewNY"
+          }
+        ], 
+        "duration_ms": 435826, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "11nWS3DVvzhIyATYMHKd25"
+      }, 
+      {
+        "name": "Girls Just Want to Have Fun - Early Guitar Demo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6LGUj8hrzB0KFSbBUKeaDP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/da596c61feebdb6c992ff5a892833096a1a68ebf", 
+        "is_playable": true, 
+        "uri": "spotify:track:6LGUj8hrzB0KFSbBUKeaDP", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6LGUj8hrzB0KFSbBUKeaDP", 
+        "artists": [
+          {
+            "name": "Cyndi Lauper", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+            }, 
+            "uri": "spotify:artist:2BTZIqw0ntH9MvilQ3ewNY", 
+            "href": "https://api.spotify.com/v1/artists/2BTZIqw0ntH9MvilQ3ewNY", 
+            "type": "artist", 
+            "id": "2BTZIqw0ntH9MvilQ3ewNY"
+          }
+        ], 
+        "duration_ms": 212320, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "6LGUj8hrzB0KFSbBUKeaDP"
+      }, 
+      {
+        "name": "All Through the Night - 1983 Rehearsal, with Studio Dialog", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/34qRe5ahIiehFojoBJQOzm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8590ff662609947ca9a85844e838b4c8ca04b5e7", 
+        "is_playable": true, 
+        "uri": "spotify:track:34qRe5ahIiehFojoBJQOzm", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/34qRe5ahIiehFojoBJQOzm", 
+        "artists": [
+          {
+            "name": "Cyndi Lauper", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+            }, 
+            "uri": "spotify:artist:2BTZIqw0ntH9MvilQ3ewNY", 
+            "href": "https://api.spotify.com/v1/artists/2BTZIqw0ntH9MvilQ3ewNY", 
+            "type": "artist", 
+            "id": "2BTZIqw0ntH9MvilQ3ewNY"
+          }
+        ], 
+        "duration_ms": 330026, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "34qRe5ahIiehFojoBJQOzm"
+      }, 
+      {
+        "name": "Rules and Regulations - 1983 Rehearsal", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7mJE2OLspqzeMTrsiMCBDF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/98da9add31fba807793f6ad02cc20c7336f9d849", 
+        "is_playable": true, 
+        "uri": "spotify:track:7mJE2OLspqzeMTrsiMCBDF", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/7mJE2OLspqzeMTrsiMCBDF", 
+        "artists": [
+          {
+            "name": "Cyndi Lauper", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+            }, 
+            "uri": "spotify:artist:2BTZIqw0ntH9MvilQ3ewNY", 
+            "href": "https://api.spotify.com/v1/artists/2BTZIqw0ntH9MvilQ3ewNY", 
+            "type": "artist", 
+            "id": "2BTZIqw0ntH9MvilQ3ewNY"
+          }
+        ], 
+        "duration_ms": 161400, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "7mJE2OLspqzeMTrsiMCBDF"
+      }, 
+      {
+        "name": "Money Changes Everything - Demo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5P3dneFAVreiYxo9n2p0mv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7677bd31adcbd56d3251a5d6696a24a3c40eb529", 
+        "is_playable": true, 
+        "uri": "spotify:track:5P3dneFAVreiYxo9n2p0mv", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5P3dneFAVreiYxo9n2p0mv", 
+        "artists": [
+          {
+            "name": "Cyndi Lauper", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+            }, 
+            "uri": "spotify:artist:2BTZIqw0ntH9MvilQ3ewNY", 
+            "href": "https://api.spotify.com/v1/artists/2BTZIqw0ntH9MvilQ3ewNY", 
+            "type": "artist", 
+            "id": "2BTZIqw0ntH9MvilQ3ewNY"
+          }
+        ], 
+        "duration_ms": 292640, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "5P3dneFAVreiYxo9n2p0mv"
+      }, 
+      {
+        "name": "Girls Just Want to Have Fun - Demo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2T9zJGSqMl87X1Vbfj2vwy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ab844ac8d8180f2c64911b7af2fb0bde933d43a7", 
+        "is_playable": true, 
+        "uri": "spotify:track:2T9zJGSqMl87X1Vbfj2vwy", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/2T9zJGSqMl87X1Vbfj2vwy", 
+        "artists": [
+          {
+            "name": "Cyndi Lauper", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+            }, 
+            "uri": "spotify:artist:2BTZIqw0ntH9MvilQ3ewNY", 
+            "href": "https://api.spotify.com/v1/artists/2BTZIqw0ntH9MvilQ3ewNY", 
+            "type": "artist", 
+            "id": "2BTZIqw0ntH9MvilQ3ewNY"
+          }
+        ], 
+        "duration_ms": 202573, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "2T9zJGSqMl87X1Vbfj2vwy"
+      }, 
+      {
+        "name": "Right Train, Wrong Track - Non LP B-Side", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6sq3FpnJrotjx1Vi5brcA7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ec0aac38e7f76b3f21e29bf91ba043cc11b4d162", 
+        "is_playable": true, 
+        "uri": "spotify:track:6sq3FpnJrotjx1Vi5brcA7", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6sq3FpnJrotjx1Vi5brcA7", 
+        "artists": [
+          {
+            "name": "Cyndi Lauper", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+            }, 
+            "uri": "spotify:artist:2BTZIqw0ntH9MvilQ3ewNY", 
+            "href": "https://api.spotify.com/v1/artists/2BTZIqw0ntH9MvilQ3ewNY", 
+            "type": "artist", 
+            "id": "2BTZIqw0ntH9MvilQ3ewNY"
+          }
+        ], 
+        "duration_ms": 280840, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "6sq3FpnJrotjx1Vi5brcA7"
+      }, 
+      {
+        "name": "Witness - Live, Boston, 1984", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4F2qayDnExNPSjdfabKbWJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/11474ac25e210b71d22affd1ae235e56d40fdaa4", 
+        "is_playable": true, 
+        "uri": "spotify:track:4F2qayDnExNPSjdfabKbWJ", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4F2qayDnExNPSjdfabKbWJ", 
+        "artists": [
+          {
+            "name": "Cyndi Lauper", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+            }, 
+            "uri": "spotify:artist:2BTZIqw0ntH9MvilQ3ewNY", 
+            "href": "https://api.spotify.com/v1/artists/2BTZIqw0ntH9MvilQ3ewNY", 
+            "type": "artist", 
+            "id": "2BTZIqw0ntH9MvilQ3ewNY"
+          }
+        ], 
+        "duration_ms": 192533, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "4F2qayDnExNPSjdfabKbWJ"
+      }, 
+      {
+        "name": "She Bop - 1984 Arthur Baker Remix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3WSOJ2AB3uOtTXXKNulW5l"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3e1ed8d3683114085b5d0fec70298be494a47156", 
+        "is_playable": true, 
+        "uri": "spotify:track:3WSOJ2AB3uOtTXXKNulW5l", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/3WSOJ2AB3uOtTXXKNulW5l", 
+        "artists": [
+          {
+            "name": "Cyndi Lauper", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+            }, 
+            "uri": "spotify:artist:2BTZIqw0ntH9MvilQ3ewNY", 
+            "href": "https://api.spotify.com/v1/artists/2BTZIqw0ntH9MvilQ3ewNY", 
+            "type": "artist", 
+            "id": "2BTZIqw0ntH9MvilQ3ewNY"
+          }
+        ], 
+        "duration_ms": 387640, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "3WSOJ2AB3uOtTXXKNulW5l"
+      }, 
+      {
+        "name": "Time After Time - Work in Progress Rough Mix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4ypHjAfC8MG7O3ujjRfh39"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b48d73fcd6d44995ef18c4a742691e776497f109", 
+        "is_playable": true, 
+        "uri": "spotify:track:4ypHjAfC8MG7O3ujjRfh39", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4ypHjAfC8MG7O3ujjRfh39", 
+        "artists": [
+          {
+            "name": "Cyndi Lauper", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+            }, 
+            "uri": "spotify:artist:2BTZIqw0ntH9MvilQ3ewNY", 
+            "href": "https://api.spotify.com/v1/artists/2BTZIqw0ntH9MvilQ3ewNY", 
+            "type": "artist", 
+            "id": "2BTZIqw0ntH9MvilQ3ewNY"
+          }
+        ], 
+        "duration_ms": 240666, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "4ypHjAfC8MG7O3ujjRfh39"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/4pox3k0CGuwwAknR9GtcoX/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 22, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/4pox3k0CGuwwAknR9GtcoX", 
+  "copyrights": [
+    {
+      "text": "This compilation (P) 2014 Epic Records, a division of Sony Music Entertainment", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Cyndi Lauper", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+      }, 
+      "uri": "spotify:artist:2BTZIqw0ntH9MvilQ3ewNY", 
+      "href": "https://api.spotify.com/v1/artists/2BTZIqw0ntH9MvilQ3ewNY", 
+      "type": "artist", 
+      "id": "2BTZIqw0ntH9MvilQ3ewNY"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/2550aa0e9f3b16ac45f3f0f88d8450b13ec0076e", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/49e108debb5e5428c8ab8a5d29125f973ac019c3", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/de7dcc066e31f2652ab9a71045967bc5ff69064a", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "886444329651"
+  }, 
+  "type": "album", 
+  "id": "4pox3k0CGuwwAknR9GtcoX", 
+  "name": "She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition)"
+}

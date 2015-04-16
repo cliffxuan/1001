@@ -1,0 +1,291 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3MANoCcmaHWeXSuWiO3iVo"
+  }, 
+  "release_date": "1969-08-05", 
+  "popularity": 56, 
+  "genres": [], 
+  "uri": "spotify:album:3MANoCcmaHWeXSuWiO3iVo", 
+  "tracks": {
+    "items": [
+      {
+        "name": "1969", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4nJCE9UyNXhuERnSX8YgSH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4a11b146e381dcb5e70b9df41f8fe28408c76458", 
+        "is_playable": true, 
+        "uri": "spotify:track:4nJCE9UyNXhuERnSX8YgSH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4nJCE9UyNXhuERnSX8YgSH", 
+        "artists": [
+          {
+            "name": "The Stooges", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
+            }, 
+            "uri": "spotify:artist:4BFMTELQyWJU1SwqcXMBm3", 
+            "href": "https://api.spotify.com/v1/artists/4BFMTELQyWJU1SwqcXMBm3", 
+            "type": "artist", 
+            "id": "4BFMTELQyWJU1SwqcXMBm3"
+          }
+        ], 
+        "duration_ms": 246773, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "4nJCE9UyNXhuERnSX8YgSH"
+      }, 
+      {
+        "name": "I Wanna Be Your Dog", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/672N8DGGTOLCOgWe0koX5g"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/849686e2c86b98da98b2c60048f44d54bf06403b", 
+        "is_playable": true, 
+        "uri": "spotify:track:672N8DGGTOLCOgWe0koX5g", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/672N8DGGTOLCOgWe0koX5g", 
+        "artists": [
+          {
+            "name": "The Stooges", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
+            }, 
+            "uri": "spotify:artist:4BFMTELQyWJU1SwqcXMBm3", 
+            "href": "https://api.spotify.com/v1/artists/4BFMTELQyWJU1SwqcXMBm3", 
+            "type": "artist", 
+            "id": "4BFMTELQyWJU1SwqcXMBm3"
+          }
+        ], 
+        "duration_ms": 188560, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "672N8DGGTOLCOgWe0koX5g"
+      }, 
+      {
+        "name": "We Will Fall", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3oLQBfQ72rvum90BXxPshy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6c6057b3b49fce747701f6dd1e80003097bfbf13", 
+        "is_playable": true, 
+        "uri": "spotify:track:3oLQBfQ72rvum90BXxPshy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3oLQBfQ72rvum90BXxPshy", 
+        "artists": [
+          {
+            "name": "The Stooges", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
+            }, 
+            "uri": "spotify:artist:4BFMTELQyWJU1SwqcXMBm3", 
+            "href": "https://api.spotify.com/v1/artists/4BFMTELQyWJU1SwqcXMBm3", 
+            "type": "artist", 
+            "id": "4BFMTELQyWJU1SwqcXMBm3"
+          }
+        ], 
+        "duration_ms": 618426, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "3oLQBfQ72rvum90BXxPshy"
+      }, 
+      {
+        "name": "No Fun", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6JCkmtc6yDQW1w8jh3iFqS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a91aa5445ab42f1b24d460e8e4f5ad885c64691a", 
+        "is_playable": true, 
+        "uri": "spotify:track:6JCkmtc6yDQW1w8jh3iFqS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6JCkmtc6yDQW1w8jh3iFqS", 
+        "artists": [
+          {
+            "name": "The Stooges", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
+            }, 
+            "uri": "spotify:artist:4BFMTELQyWJU1SwqcXMBm3", 
+            "href": "https://api.spotify.com/v1/artists/4BFMTELQyWJU1SwqcXMBm3", 
+            "type": "artist", 
+            "id": "4BFMTELQyWJU1SwqcXMBm3"
+          }
+        ], 
+        "duration_ms": 315866, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "6JCkmtc6yDQW1w8jh3iFqS"
+      }, 
+      {
+        "name": "Real Cool Time", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/307IImYFsNamgUw0Qd8Pep"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6321ebf38f8724210485a7ca15c5969dff95df76", 
+        "is_playable": true, 
+        "uri": "spotify:track:307IImYFsNamgUw0Qd8Pep", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/307IImYFsNamgUw0Qd8Pep", 
+        "artists": [
+          {
+            "name": "The Stooges", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
+            }, 
+            "uri": "spotify:artist:4BFMTELQyWJU1SwqcXMBm3", 
+            "href": "https://api.spotify.com/v1/artists/4BFMTELQyWJU1SwqcXMBm3", 
+            "type": "artist", 
+            "id": "4BFMTELQyWJU1SwqcXMBm3"
+          }
+        ], 
+        "duration_ms": 152333, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "307IImYFsNamgUw0Qd8Pep"
+      }, 
+      {
+        "name": "Ann", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Amt4QBz4NkIkN796yz6Xo"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/51807880745f21353dbd5c47aff708b30a342538", 
+        "is_playable": true, 
+        "uri": "spotify:track:5Amt4QBz4NkIkN796yz6Xo", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5Amt4QBz4NkIkN796yz6Xo", 
+        "artists": [
+          {
+            "name": "The Stooges", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
+            }, 
+            "uri": "spotify:artist:4BFMTELQyWJU1SwqcXMBm3", 
+            "href": "https://api.spotify.com/v1/artists/4BFMTELQyWJU1SwqcXMBm3", 
+            "type": "artist", 
+            "id": "4BFMTELQyWJU1SwqcXMBm3"
+          }
+        ], 
+        "duration_ms": 179800, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "5Amt4QBz4NkIkN796yz6Xo"
+      }, 
+      {
+        "name": "Not Right", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0lcuhtx0HtZeWFUYFqIi5P"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/041e304f8045ef6604be3d0b6765c43dde75f0e2", 
+        "is_playable": true, 
+        "uri": "spotify:track:0lcuhtx0HtZeWFUYFqIi5P", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0lcuhtx0HtZeWFUYFqIi5P", 
+        "artists": [
+          {
+            "name": "The Stooges", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
+            }, 
+            "uri": "spotify:artist:4BFMTELQyWJU1SwqcXMBm3", 
+            "href": "https://api.spotify.com/v1/artists/4BFMTELQyWJU1SwqcXMBm3", 
+            "type": "artist", 
+            "id": "4BFMTELQyWJU1SwqcXMBm3"
+          }
+        ], 
+        "duration_ms": 171133, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "0lcuhtx0HtZeWFUYFqIi5P"
+      }, 
+      {
+        "name": "Little Doll", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7N3iRcPV8z5jcbAsvNs5Aw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f76d384a220c8c26c4135d065ce4cdc1256908d7", 
+        "is_playable": true, 
+        "uri": "spotify:track:7N3iRcPV8z5jcbAsvNs5Aw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7N3iRcPV8z5jcbAsvNs5Aw", 
+        "artists": [
+          {
+            "name": "The Stooges", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
+            }, 
+            "uri": "spotify:artist:4BFMTELQyWJU1SwqcXMBm3", 
+            "href": "https://api.spotify.com/v1/artists/4BFMTELQyWJU1SwqcXMBm3", 
+            "type": "artist", 
+            "id": "4BFMTELQyWJU1SwqcXMBm3"
+          }
+        ], 
+        "duration_ms": 200800, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "7N3iRcPV8z5jcbAsvNs5Aw"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/3MANoCcmaHWeXSuWiO3iVo/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 8, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/3MANoCcmaHWeXSuWiO3iVo", 
+  "copyrights": [
+    {
+      "text": "1969 Elektra Entertainment.", 
+      "type": "C"
+    }, 
+    {
+      "text": "1969 Elektra Entertainment. Marketed by Rhino Entertainment Company, a Warner Music Group Company.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "The Stooges", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
+      }, 
+      "uri": "spotify:artist:4BFMTELQyWJU1SwqcXMBm3", 
+      "href": "https://api.spotify.com/v1/artists/4BFMTELQyWJU1SwqcXMBm3", 
+      "type": "artist", 
+      "id": "4BFMTELQyWJU1SwqcXMBm3"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/68df83f2771000e2923147388755a6949de1fa10", 
+      "width": 640, 
+      "height": 633
+    }, 
+    {
+      "url": "https://i.scdn.co/image/7ff9a40add5c14858bd506358c58af25c163b592", 
+      "width": 300, 
+      "height": 297
+    }, 
+    {
+      "url": "https://i.scdn.co/image/455c04c5271ee6d229941a75335eefbc972c0de7", 
+      "width": 64, 
+      "height": 63
+    }
+  ], 
+  "external_ids": {
+    "upc": "603497948512"
+  }, 
+  "type": "album", 
+  "id": "3MANoCcmaHWeXSuWiO3iVo", 
+  "name": "The Stooges"
+}

@@ -1,0 +1,535 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/39jgim5XzgEWo7OsCcxxxO"
+  }, 
+  "release_date": "1971", 
+  "popularity": 29, 
+  "genres": [], 
+  "uri": "spotify:album:39jgim5XzgEWo7OsCcxxxO", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Melody", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5JMMgwS3NmbP0mtySNYFfr"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/553afa4f108301d67e0a5860deae91f87bcbc3d8", 
+        "is_playable": true, 
+        "uri": "spotify:track:5JMMgwS3NmbP0mtySNYFfr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5JMMgwS3NmbP0mtySNYFfr", 
+        "artists": [
+          {
+            "name": "Serge Gainsbourg", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+            }, 
+            "uri": "spotify:artist:01C9OoXDvCKkGcf735Tcfo", 
+            "href": "https://api.spotify.com/v1/artists/01C9OoXDvCKkGcf735Tcfo", 
+            "type": "artist", 
+            "id": "01C9OoXDvCKkGcf735Tcfo"
+          }
+        ], 
+        "duration_ms": 450386, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "5JMMgwS3NmbP0mtySNYFfr"
+      }, 
+      {
+        "name": "Ballade De Melody Nelson", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2lmaHr8ih1E5GWEVmn50k5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/389d44a3518bb89ec9e06c7c8bbfd4ed61b13a5d", 
+        "is_playable": true, 
+        "uri": "spotify:track:2lmaHr8ih1E5GWEVmn50k5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2lmaHr8ih1E5GWEVmn50k5", 
+        "artists": [
+          {
+            "name": "Serge Gainsbourg", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+            }, 
+            "uri": "spotify:artist:01C9OoXDvCKkGcf735Tcfo", 
+            "href": "https://api.spotify.com/v1/artists/01C9OoXDvCKkGcf735Tcfo", 
+            "type": "artist", 
+            "id": "01C9OoXDvCKkGcf735Tcfo"
+          }, 
+          {
+            "name": "Jane Birkin", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5"
+            }, 
+            "uri": "spotify:artist:4XYH5Be5pn1qkxhfaID3J5", 
+            "href": "https://api.spotify.com/v1/artists/4XYH5Be5pn1qkxhfaID3J5", 
+            "type": "artist", 
+            "id": "4XYH5Be5pn1qkxhfaID3J5"
+          }
+        ], 
+        "duration_ms": 120573, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "2lmaHr8ih1E5GWEVmn50k5"
+      }, 
+      {
+        "name": "Valse De Melody", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6uS6OSuVdnbQ2G7Pz662z5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b76eb66a1b18471c621c7610821141aa18c40ad8", 
+        "is_playable": true, 
+        "uri": "spotify:track:6uS6OSuVdnbQ2G7Pz662z5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6uS6OSuVdnbQ2G7Pz662z5", 
+        "artists": [
+          {
+            "name": "Serge Gainsbourg", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+            }, 
+            "uri": "spotify:artist:01C9OoXDvCKkGcf735Tcfo", 
+            "href": "https://api.spotify.com/v1/artists/01C9OoXDvCKkGcf735Tcfo", 
+            "type": "artist", 
+            "id": "01C9OoXDvCKkGcf735Tcfo"
+          }
+        ], 
+        "duration_ms": 91800, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "6uS6OSuVdnbQ2G7Pz662z5"
+      }, 
+      {
+        "name": "Ah Melody", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4TcEHWXiGDgeADIKjTPcBU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a1ef6ef4e7cf49eec4039c4101f9583df34ae085", 
+        "is_playable": true, 
+        "uri": "spotify:track:4TcEHWXiGDgeADIKjTPcBU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4TcEHWXiGDgeADIKjTPcBU", 
+        "artists": [
+          {
+            "name": "Serge Gainsbourg", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+            }, 
+            "uri": "spotify:artist:01C9OoXDvCKkGcf735Tcfo", 
+            "href": "https://api.spotify.com/v1/artists/01C9OoXDvCKkGcf735Tcfo", 
+            "type": "artist", 
+            "id": "01C9OoXDvCKkGcf735Tcfo"
+          }
+        ], 
+        "duration_ms": 106906, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "4TcEHWXiGDgeADIKjTPcBU"
+      }, 
+      {
+        "name": "L'H\u00f4tel Particulier - BOF \"Melody Nelson\"", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/24jVVZSHHuwnIWJnfp8ILY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b599b7fd537840b962340f4f8339ebf36986a73b", 
+        "is_playable": true, 
+        "uri": "spotify:track:24jVVZSHHuwnIWJnfp8ILY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/24jVVZSHHuwnIWJnfp8ILY", 
+        "artists": [
+          {
+            "name": "Serge Gainsbourg", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+            }, 
+            "uri": "spotify:artist:01C9OoXDvCKkGcf735Tcfo", 
+            "href": "https://api.spotify.com/v1/artists/01C9OoXDvCKkGcf735Tcfo", 
+            "type": "artist", 
+            "id": "01C9OoXDvCKkGcf735Tcfo"
+          }
+        ], 
+        "duration_ms": 245960, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "24jVVZSHHuwnIWJnfp8ILY"
+      }, 
+      {
+        "name": "En Melody", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5nYnHc3AS5hFoK75sr4bng"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ac1b6e204a91b1079ef348504d01809b5fcdbc71", 
+        "is_playable": true, 
+        "uri": "spotify:track:5nYnHc3AS5hFoK75sr4bng", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5nYnHc3AS5hFoK75sr4bng", 
+        "artists": [
+          {
+            "name": "Serge Gainsbourg", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+            }, 
+            "uri": "spotify:artist:01C9OoXDvCKkGcf735Tcfo", 
+            "href": "https://api.spotify.com/v1/artists/01C9OoXDvCKkGcf735Tcfo", 
+            "type": "artist", 
+            "id": "01C9OoXDvCKkGcf735Tcfo"
+          }
+        ], 
+        "duration_ms": 205640, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "5nYnHc3AS5hFoK75sr4bng"
+      }, 
+      {
+        "name": "Cargo Culte", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0KSayI7hYqFLe75u6EWb7q"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c5ab6fae8c78065f51204690523502f395fcbd56", 
+        "is_playable": true, 
+        "uri": "spotify:track:0KSayI7hYqFLe75u6EWb7q", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0KSayI7hYqFLe75u6EWb7q", 
+        "artists": [
+          {
+            "name": "Serge Gainsbourg", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+            }, 
+            "uri": "spotify:artist:01C9OoXDvCKkGcf735Tcfo", 
+            "href": "https://api.spotify.com/v1/artists/01C9OoXDvCKkGcf735Tcfo", 
+            "type": "artist", 
+            "id": "01C9OoXDvCKkGcf735Tcfo"
+          }
+        ], 
+        "duration_ms": 456640, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "0KSayI7hYqFLe75u6EWb7q"
+      }, 
+      {
+        "name": "Melody - Prise Compl\u00e8te", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4aUompu3XJsdVTCYVZq1Z0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0cc126494f17db9fb113ec5ee24556c5e7b24e7c", 
+        "is_playable": true, 
+        "uri": "spotify:track:4aUompu3XJsdVTCYVZq1Z0", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4aUompu3XJsdVTCYVZq1Z0", 
+        "artists": [
+          {
+            "name": "Serge Gainsbourg", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+            }, 
+            "uri": "spotify:artist:01C9OoXDvCKkGcf735Tcfo", 
+            "href": "https://api.spotify.com/v1/artists/01C9OoXDvCKkGcf735Tcfo", 
+            "type": "artist", 
+            "id": "01C9OoXDvCKkGcf735Tcfo"
+          }
+        ], 
+        "duration_ms": 565866, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "4aUompu3XJsdVTCYVZq1Z0"
+      }, 
+      {
+        "name": "Ballade De Melody Nelson - Prise Voix Alternative", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3YRueLOv0gbNQsVTVmCxoO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/09dc7151b6fc1b28ded50240dda57320753e22de", 
+        "is_playable": true, 
+        "uri": "spotify:track:3YRueLOv0gbNQsVTVmCxoO", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/3YRueLOv0gbNQsVTVmCxoO", 
+        "artists": [
+          {
+            "name": "Serge Gainsbourg", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+            }, 
+            "uri": "spotify:artist:01C9OoXDvCKkGcf735Tcfo", 
+            "href": "https://api.spotify.com/v1/artists/01C9OoXDvCKkGcf735Tcfo", 
+            "type": "artist", 
+            "id": "01C9OoXDvCKkGcf735Tcfo"
+          }, 
+          {
+            "name": "Jane Birkin", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5"
+            }, 
+            "uri": "spotify:artist:4XYH5Be5pn1qkxhfaID3J5", 
+            "href": "https://api.spotify.com/v1/artists/4XYH5Be5pn1qkxhfaID3J5", 
+            "type": "artist", 
+            "id": "4XYH5Be5pn1qkxhfaID3J5"
+          }
+        ], 
+        "duration_ms": 127293, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "3YRueLOv0gbNQsVTVmCxoO"
+      }, 
+      {
+        "name": "Valse De Melody - Prise Voix Alternative", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7mfRkXD8IwxWenJ0aYPtOt"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3051296a546a84f770e793e078c28c54680b71d9", 
+        "is_playable": true, 
+        "uri": "spotify:track:7mfRkXD8IwxWenJ0aYPtOt", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/7mfRkXD8IwxWenJ0aYPtOt", 
+        "artists": [
+          {
+            "name": "Serge Gainsbourg", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+            }, 
+            "uri": "spotify:artist:01C9OoXDvCKkGcf735Tcfo", 
+            "href": "https://api.spotify.com/v1/artists/01C9OoXDvCKkGcf735Tcfo", 
+            "type": "artist", 
+            "id": "01C9OoXDvCKkGcf735Tcfo"
+          }
+        ], 
+        "duration_ms": 99746, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "7mfRkXD8IwxWenJ0aYPtOt"
+      }, 
+      {
+        "name": "Ah Melody - Prise Voix Alternative", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Jyq2wZvHEyarxUyzCYFsy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/52bf9a93e5f01e92c59625169783c048d7d4a82a", 
+        "is_playable": true, 
+        "uri": "spotify:track:5Jyq2wZvHEyarxUyzCYFsy", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5Jyq2wZvHEyarxUyzCYFsy", 
+        "artists": [
+          {
+            "name": "Serge Gainsbourg", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+            }, 
+            "uri": "spotify:artist:01C9OoXDvCKkGcf735Tcfo", 
+            "href": "https://api.spotify.com/v1/artists/01C9OoXDvCKkGcf735Tcfo", 
+            "type": "artist", 
+            "id": "01C9OoXDvCKkGcf735Tcfo"
+          }
+        ], 
+        "duration_ms": 114933, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "5Jyq2wZvHEyarxUyzCYFsy"
+      }, 
+      {
+        "name": "Melody Lit Babar - Version De Travail Chant\u00e9e / Titre In\u00e9dit", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Acb2hO4ZfYJswvjxMyC7G"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/27e36ac5922714ba3f72cd83813c8c0c117e2ebd", 
+        "is_playable": true, 
+        "uri": "spotify:track:1Acb2hO4ZfYJswvjxMyC7G", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1Acb2hO4ZfYJswvjxMyC7G", 
+        "artists": [
+          {
+            "name": "Serge Gainsbourg", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+            }, 
+            "uri": "spotify:artist:01C9OoXDvCKkGcf735Tcfo", 
+            "href": "https://api.spotify.com/v1/artists/01C9OoXDvCKkGcf735Tcfo", 
+            "type": "artist", 
+            "id": "01C9OoXDvCKkGcf735Tcfo"
+          }
+        ], 
+        "duration_ms": 63026, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "1Acb2hO4ZfYJswvjxMyC7G"
+      }, 
+      {
+        "name": "Melody Lit Babar - Version De Travail Instrumentale / Titre In\u00e9dit", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5OF7rNKgAVMLvRfwNvHKDy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9edbd1e8861b2670903abe1ad152fd932d41dcd9", 
+        "is_playable": true, 
+        "uri": "spotify:track:5OF7rNKgAVMLvRfwNvHKDy", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5OF7rNKgAVMLvRfwNvHKDy", 
+        "artists": [
+          {
+            "name": "Serge Gainsbourg", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+            }, 
+            "uri": "spotify:artist:01C9OoXDvCKkGcf735Tcfo", 
+            "href": "https://api.spotify.com/v1/artists/01C9OoXDvCKkGcf735Tcfo", 
+            "type": "artist", 
+            "id": "01C9OoXDvCKkGcf735Tcfo"
+          }
+        ], 
+        "duration_ms": 71773, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "5OF7rNKgAVMLvRfwNvHKDy"
+      }, 
+      {
+        "name": "L'H\u00f4tel Particulier - Prise Compl\u00e8te", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1hQgCeoqgTJSyoewGq6PWs"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4f442f60542fd14a09bced556b805a6cdc1314bc", 
+        "is_playable": true, 
+        "uri": "spotify:track:1hQgCeoqgTJSyoewGq6PWs", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1hQgCeoqgTJSyoewGq6PWs", 
+        "artists": [
+          {
+            "name": "Serge Gainsbourg", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+            }, 
+            "uri": "spotify:artist:01C9OoXDvCKkGcf735Tcfo", 
+            "href": "https://api.spotify.com/v1/artists/01C9OoXDvCKkGcf735Tcfo", 
+            "type": "artist", 
+            "id": "01C9OoXDvCKkGcf735Tcfo"
+          }
+        ], 
+        "duration_ms": 310120, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "1hQgCeoqgTJSyoewGq6PWs"
+      }, 
+      {
+        "name": "En Melody - Version Solo De Violon Complet", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7oS5RekyfhveLWRdYhmVSS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c7261f02762b13a4c466a5a7d69579d94b4b6c64", 
+        "is_playable": true, 
+        "uri": "spotify:track:7oS5RekyfhveLWRdYhmVSS", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/7oS5RekyfhveLWRdYhmVSS", 
+        "artists": [
+          {
+            "name": "Serge Gainsbourg", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+            }, 
+            "uri": "spotify:artist:01C9OoXDvCKkGcf735Tcfo", 
+            "href": "https://api.spotify.com/v1/artists/01C9OoXDvCKkGcf735Tcfo", 
+            "type": "artist", 
+            "id": "01C9OoXDvCKkGcf735Tcfo"
+          }
+        ], 
+        "duration_ms": 219640, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "7oS5RekyfhveLWRdYhmVSS"
+      }, 
+      {
+        "name": "Cargo Culte - Version Instrumentale", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3z7uzw51vblozRq8U0hTiJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bbed6872eecfd357eb1a28fbde353bdd5c58902a", 
+        "is_playable": true, 
+        "uri": "spotify:track:3z7uzw51vblozRq8U0hTiJ", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/3z7uzw51vblozRq8U0hTiJ", 
+        "artists": [
+          {
+            "name": "Serge Gainsbourg", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+            }, 
+            "uri": "spotify:artist:01C9OoXDvCKkGcf735Tcfo", 
+            "href": "https://api.spotify.com/v1/artists/01C9OoXDvCKkGcf735Tcfo", 
+            "type": "artist", 
+            "id": "01C9OoXDvCKkGcf735Tcfo"
+          }
+        ], 
+        "duration_ms": 464426, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "3z7uzw51vblozRq8U0hTiJ"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/39jgim5XzgEWo7OsCcxxxO/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 16, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/39jgim5XzgEWo7OsCcxxxO", 
+  "copyrights": [
+    {
+      "text": "(C) 2011 Mercury Music Group", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 2011 Mercury Music Group", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Serge Gainsbourg", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+      }, 
+      "uri": "spotify:artist:01C9OoXDvCKkGcf735Tcfo", 
+      "href": "https://api.spotify.com/v1/artists/01C9OoXDvCKkGcf735Tcfo", 
+      "type": "artist", 
+      "id": "01C9OoXDvCKkGcf735Tcfo"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/9e2823fcd4d28e230d8ec6d63dc4e7799b4cffb5", 
+      "width": 640, 
+      "height": 579
+    }, 
+    {
+      "url": "https://i.scdn.co/image/26ea71d7e4b8e8bfb5f49a4d5bff54f1e974732e", 
+      "width": 300, 
+      "height": 272
+    }, 
+    {
+      "url": "https://i.scdn.co/image/ac27ec902d10f0ddb80af7ce82034ced7bddfc40", 
+      "width": 64, 
+      "height": 58
+    }
+  ], 
+  "external_ids": {
+    "upc": "00602527893662"
+  }, 
+  "type": "album", 
+  "id": "39jgim5XzgEWo7OsCcxxxO", 
+  "name": "Histoire De Melody Nelson - 40\u00e8me Anniversaire"
+}

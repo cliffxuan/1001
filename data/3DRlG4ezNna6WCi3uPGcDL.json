@@ -1,0 +1,655 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3DRlG4ezNna6WCi3uPGcDL"
+  }, 
+  "release_date": "1993", 
+  "popularity": 47, 
+  "genres": [], 
+  "uri": "spotify:album:3DRlG4ezNna6WCi3uPGcDL", 
+  "tracks": {
+    "items": [
+      {
+        "name": "6'1\"", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4tQlHSl6AvUKmPuXiXQUbG"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3ffd1164287337fa5decb3dd2ae3dbaf82618112", 
+        "is_playable": true, 
+        "uri": "spotify:track:4tQlHSl6AvUKmPuXiXQUbG", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4tQlHSl6AvUKmPuXiXQUbG", 
+        "artists": [
+          {
+            "name": "Liz Phair", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
+            }, 
+            "uri": "spotify:artist:2LXeJdQVcFkhkWydphLI74", 
+            "href": "https://api.spotify.com/v1/artists/2LXeJdQVcFkhkWydphLI74", 
+            "type": "artist", 
+            "id": "2LXeJdQVcFkhkWydphLI74"
+          }
+        ], 
+        "duration_ms": 186666, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "4tQlHSl6AvUKmPuXiXQUbG"
+      }, 
+      {
+        "name": "Help Me Mary", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4ntxdfA5PQxIT0Trjdh7fg"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ec11a328337cebfe2d11ac94a32589cb7fe97da2", 
+        "is_playable": true, 
+        "uri": "spotify:track:4ntxdfA5PQxIT0Trjdh7fg", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4ntxdfA5PQxIT0Trjdh7fg", 
+        "artists": [
+          {
+            "name": "Liz Phair", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
+            }, 
+            "uri": "spotify:artist:2LXeJdQVcFkhkWydphLI74", 
+            "href": "https://api.spotify.com/v1/artists/2LXeJdQVcFkhkWydphLI74", 
+            "type": "artist", 
+            "id": "2LXeJdQVcFkhkWydphLI74"
+          }
+        ], 
+        "duration_ms": 136266, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "4ntxdfA5PQxIT0Trjdh7fg"
+      }, 
+      {
+        "name": "Glory", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4SQs1VjMcTnGTP8u3Zj42q"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2379544013f41ee78c79b56dd6cd33a9d6825ced", 
+        "is_playable": true, 
+        "uri": "spotify:track:4SQs1VjMcTnGTP8u3Zj42q", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4SQs1VjMcTnGTP8u3Zj42q", 
+        "artists": [
+          {
+            "name": "Liz Phair", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
+            }, 
+            "uri": "spotify:artist:2LXeJdQVcFkhkWydphLI74", 
+            "href": "https://api.spotify.com/v1/artists/2LXeJdQVcFkhkWydphLI74", 
+            "type": "artist", 
+            "id": "2LXeJdQVcFkhkWydphLI74"
+          }
+        ], 
+        "duration_ms": 89866, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "4SQs1VjMcTnGTP8u3Zj42q"
+      }, 
+      {
+        "name": "Dance Of The Seven Veils", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3SmYAfEck5p3Ot28Ps8lCo"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f440796e3cecc5815187660647aea1dcdeada2c8", 
+        "is_playable": true, 
+        "uri": "spotify:track:3SmYAfEck5p3Ot28Ps8lCo", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3SmYAfEck5p3Ot28Ps8lCo", 
+        "artists": [
+          {
+            "name": "Liz Phair", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
+            }, 
+            "uri": "spotify:artist:2LXeJdQVcFkhkWydphLI74", 
+            "href": "https://api.spotify.com/v1/artists/2LXeJdQVcFkhkWydphLI74", 
+            "type": "artist", 
+            "id": "2LXeJdQVcFkhkWydphLI74"
+          }
+        ], 
+        "duration_ms": 149640, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "3SmYAfEck5p3Ot28Ps8lCo"
+      }, 
+      {
+        "name": "Never Said", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1YavIlstxard9kLKRAqe72"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e0f70f45eccdab3ab0db1e5e26f457f4cee76506", 
+        "is_playable": true, 
+        "uri": "spotify:track:1YavIlstxard9kLKRAqe72", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1YavIlstxard9kLKRAqe72", 
+        "artists": [
+          {
+            "name": "Liz Phair", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
+            }, 
+            "uri": "spotify:artist:2LXeJdQVcFkhkWydphLI74", 
+            "href": "https://api.spotify.com/v1/artists/2LXeJdQVcFkhkWydphLI74", 
+            "type": "artist", 
+            "id": "2LXeJdQVcFkhkWydphLI74"
+          }
+        ], 
+        "duration_ms": 196213, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "1YavIlstxard9kLKRAqe72"
+      }, 
+      {
+        "name": "Soap Star Joe", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0ZzE3Vob6jLUD0UOY8Jp9W"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3134556af0c6b1b4a268c02609e648f132b0357d", 
+        "is_playable": true, 
+        "uri": "spotify:track:0ZzE3Vob6jLUD0UOY8Jp9W", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0ZzE3Vob6jLUD0UOY8Jp9W", 
+        "artists": [
+          {
+            "name": "Liz Phair", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
+            }, 
+            "uri": "spotify:artist:2LXeJdQVcFkhkWydphLI74", 
+            "href": "https://api.spotify.com/v1/artists/2LXeJdQVcFkhkWydphLI74", 
+            "type": "artist", 
+            "id": "2LXeJdQVcFkhkWydphLI74"
+          }
+        ], 
+        "duration_ms": 164280, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "0ZzE3Vob6jLUD0UOY8Jp9W"
+      }, 
+      {
+        "name": "Explain It To Me", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1UVvMMunt0PnrT8jdNRPqI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cb17fe273260cc530927648efbcb306cec94304d", 
+        "is_playable": true, 
+        "uri": "spotify:track:1UVvMMunt0PnrT8jdNRPqI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1UVvMMunt0PnrT8jdNRPqI", 
+        "artists": [
+          {
+            "name": "Liz Phair", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
+            }, 
+            "uri": "spotify:artist:2LXeJdQVcFkhkWydphLI74", 
+            "href": "https://api.spotify.com/v1/artists/2LXeJdQVcFkhkWydphLI74", 
+            "type": "artist", 
+            "id": "2LXeJdQVcFkhkWydphLI74"
+          }
+        ], 
+        "duration_ms": 191813, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "1UVvMMunt0PnrT8jdNRPqI"
+      }, 
+      {
+        "name": "Canary", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3KNpCWPRcYHWwwbORcDwiv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ce614aa92f0513f657f46f6f3022dae956ccf636", 
+        "is_playable": true, 
+        "uri": "spotify:track:3KNpCWPRcYHWwwbORcDwiv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3KNpCWPRcYHWwwbORcDwiv", 
+        "artists": [
+          {
+            "name": "Liz Phair", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
+            }, 
+            "uri": "spotify:artist:2LXeJdQVcFkhkWydphLI74", 
+            "href": "https://api.spotify.com/v1/artists/2LXeJdQVcFkhkWydphLI74", 
+            "type": "artist", 
+            "id": "2LXeJdQVcFkhkWydphLI74"
+          }
+        ], 
+        "duration_ms": 199640, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "3KNpCWPRcYHWwwbORcDwiv"
+      }, 
+      {
+        "name": "Mesmerizing", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6hrSDeoVJOC76F6pfAGFEu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a814d1454ca17928433c8108d3d611fc43a92311", 
+        "is_playable": true, 
+        "uri": "spotify:track:6hrSDeoVJOC76F6pfAGFEu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6hrSDeoVJOC76F6pfAGFEu", 
+        "artists": [
+          {
+            "name": "Liz Phair", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
+            }, 
+            "uri": "spotify:artist:2LXeJdQVcFkhkWydphLI74", 
+            "href": "https://api.spotify.com/v1/artists/2LXeJdQVcFkhkWydphLI74", 
+            "type": "artist", 
+            "id": "2LXeJdQVcFkhkWydphLI74"
+          }
+        ], 
+        "duration_ms": 235973, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "6hrSDeoVJOC76F6pfAGFEu"
+      }, 
+      {
+        "name": "Fuck And Run", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Em7i85XSDX3M2ZtKz1BIO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5d2ad2b89d992c3895b91b5180c21803b16731a6", 
+        "is_playable": true, 
+        "uri": "spotify:track:6Em7i85XSDX3M2ZtKz1BIO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6Em7i85XSDX3M2ZtKz1BIO", 
+        "artists": [
+          {
+            "name": "Liz Phair", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
+            }, 
+            "uri": "spotify:artist:2LXeJdQVcFkhkWydphLI74", 
+            "href": "https://api.spotify.com/v1/artists/2LXeJdQVcFkhkWydphLI74", 
+            "type": "artist", 
+            "id": "2LXeJdQVcFkhkWydphLI74"
+          }
+        ], 
+        "duration_ms": 187933, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "6Em7i85XSDX3M2ZtKz1BIO"
+      }, 
+      {
+        "name": "Girls! Girls! Girls!", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0SaVkHEfwWgg0UDuXcrxmS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4fea1ecf96d6aa57ba2055c7aaaf4baac033da40", 
+        "is_playable": true, 
+        "uri": "spotify:track:0SaVkHEfwWgg0UDuXcrxmS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0SaVkHEfwWgg0UDuXcrxmS", 
+        "artists": [
+          {
+            "name": "Liz Phair", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
+            }, 
+            "uri": "spotify:artist:2LXeJdQVcFkhkWydphLI74", 
+            "href": "https://api.spotify.com/v1/artists/2LXeJdQVcFkhkWydphLI74", 
+            "type": "artist", 
+            "id": "2LXeJdQVcFkhkWydphLI74"
+          }
+        ], 
+        "duration_ms": 140280, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "0SaVkHEfwWgg0UDuXcrxmS"
+      }, 
+      {
+        "name": "Divorce Song", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1EFr30TXZOfNdnA78s3qCN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/00bb7a6c8b2b5c58b3cb44b0ae05abd9588d0a30", 
+        "is_playable": true, 
+        "uri": "spotify:track:1EFr30TXZOfNdnA78s3qCN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1EFr30TXZOfNdnA78s3qCN", 
+        "artists": [
+          {
+            "name": "Liz Phair", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
+            }, 
+            "uri": "spotify:artist:2LXeJdQVcFkhkWydphLI74", 
+            "href": "https://api.spotify.com/v1/artists/2LXeJdQVcFkhkWydphLI74", 
+            "type": "artist", 
+            "id": "2LXeJdQVcFkhkWydphLI74"
+          }
+        ], 
+        "duration_ms": 200093, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "1EFr30TXZOfNdnA78s3qCN"
+      }, 
+      {
+        "name": "Shatter", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0tsrkk1ETgZpo7PsdCYQ8T"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/65b079ca08c47922de5908b70ad6b433bfb061cd", 
+        "is_playable": true, 
+        "uri": "spotify:track:0tsrkk1ETgZpo7PsdCYQ8T", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0tsrkk1ETgZpo7PsdCYQ8T", 
+        "artists": [
+          {
+            "name": "Liz Phair", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
+            }, 
+            "uri": "spotify:artist:2LXeJdQVcFkhkWydphLI74", 
+            "href": "https://api.spotify.com/v1/artists/2LXeJdQVcFkhkWydphLI74", 
+            "type": "artist", 
+            "id": "2LXeJdQVcFkhkWydphLI74"
+          }
+        ], 
+        "duration_ms": 328866, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "0tsrkk1ETgZpo7PsdCYQ8T"
+      }, 
+      {
+        "name": "Flower", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0mKNCrp5sRLg1e6PWFbyq9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c23d3553bb7f586487499ca896c029703d09e942", 
+        "is_playable": true, 
+        "uri": "spotify:track:0mKNCrp5sRLg1e6PWFbyq9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0mKNCrp5sRLg1e6PWFbyq9", 
+        "artists": [
+          {
+            "name": "Liz Phair", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
+            }, 
+            "uri": "spotify:artist:2LXeJdQVcFkhkWydphLI74", 
+            "href": "https://api.spotify.com/v1/artists/2LXeJdQVcFkhkWydphLI74", 
+            "type": "artist", 
+            "id": "2LXeJdQVcFkhkWydphLI74"
+          }
+        ], 
+        "duration_ms": 123053, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "0mKNCrp5sRLg1e6PWFbyq9"
+      }, 
+      {
+        "name": "Johnny Sunshine", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1I796CvNPNPtBR3odGkgcU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fa70808610356f91d5f3ae4e277074914884b6c7", 
+        "is_playable": true, 
+        "uri": "spotify:track:1I796CvNPNPtBR3odGkgcU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1I796CvNPNPtBR3odGkgcU", 
+        "artists": [
+          {
+            "name": "Liz Phair", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
+            }, 
+            "uri": "spotify:artist:2LXeJdQVcFkhkWydphLI74", 
+            "href": "https://api.spotify.com/v1/artists/2LXeJdQVcFkhkWydphLI74", 
+            "type": "artist", 
+            "id": "2LXeJdQVcFkhkWydphLI74"
+          }
+        ], 
+        "duration_ms": 206986, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "1I796CvNPNPtBR3odGkgcU"
+      }, 
+      {
+        "name": "Gunshy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4YGnvd1EzX37RuSj4VC0J5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/05ca241a3aa09ba70de68ab551bfdd5fefc26ad1", 
+        "is_playable": true, 
+        "uri": "spotify:track:4YGnvd1EzX37RuSj4VC0J5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4YGnvd1EzX37RuSj4VC0J5", 
+        "artists": [
+          {
+            "name": "Liz Phair", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
+            }, 
+            "uri": "spotify:artist:2LXeJdQVcFkhkWydphLI74", 
+            "href": "https://api.spotify.com/v1/artists/2LXeJdQVcFkhkWydphLI74", 
+            "type": "artist", 
+            "id": "2LXeJdQVcFkhkWydphLI74"
+          }
+        ], 
+        "duration_ms": 195306, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "4YGnvd1EzX37RuSj4VC0J5"
+      }, 
+      {
+        "name": "Stratford-On-Guy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5SMaoDryGYSqsXKIyF9Alh"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cc26a64ed23cd857dfa2d6d436efbea8c97fd6c9", 
+        "is_playable": true, 
+        "uri": "spotify:track:5SMaoDryGYSqsXKIyF9Alh", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5SMaoDryGYSqsXKIyF9Alh", 
+        "artists": [
+          {
+            "name": "Liz Phair", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
+            }, 
+            "uri": "spotify:artist:2LXeJdQVcFkhkWydphLI74", 
+            "href": "https://api.spotify.com/v1/artists/2LXeJdQVcFkhkWydphLI74", 
+            "type": "artist", 
+            "id": "2LXeJdQVcFkhkWydphLI74"
+          }
+        ], 
+        "duration_ms": 179453, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "5SMaoDryGYSqsXKIyF9Alh"
+      }, 
+      {
+        "name": "Strange Loop", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4al3xCK94ydTHn2Omif7nL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ea5a2350c406c16160bfd6472c10d9b4b7065286", 
+        "is_playable": true, 
+        "uri": "spotify:track:4al3xCK94ydTHn2Omif7nL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4al3xCK94ydTHn2Omif7nL", 
+        "artists": [
+          {
+            "name": "Liz Phair", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
+            }, 
+            "uri": "spotify:artist:2LXeJdQVcFkhkWydphLI74", 
+            "href": "https://api.spotify.com/v1/artists/2LXeJdQVcFkhkWydphLI74", 
+            "type": "artist", 
+            "id": "2LXeJdQVcFkhkWydphLI74"
+          }
+        ], 
+        "duration_ms": 296826, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "4al3xCK94ydTHn2Omif7nL"
+      }, 
+      {
+        "name": "Ant In Alaska", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3J0JZzhQPwEmmiEtA3f2Cq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b46c4809db2e51dd6793acae658670a56968775c", 
+        "is_playable": true, 
+        "uri": "spotify:track:3J0JZzhQPwEmmiEtA3f2Cq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3J0JZzhQPwEmmiEtA3f2Cq", 
+        "artists": [
+          {
+            "name": "Liz Phair", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
+            }, 
+            "uri": "spotify:artist:2LXeJdQVcFkhkWydphLI74", 
+            "href": "https://api.spotify.com/v1/artists/2LXeJdQVcFkhkWydphLI74", 
+            "type": "artist", 
+            "id": "2LXeJdQVcFkhkWydphLI74"
+          }
+        ], 
+        "duration_ms": 348240, 
+        "track_number": 19, 
+        "type": "track", 
+        "id": "3J0JZzhQPwEmmiEtA3f2Cq"
+      }, 
+      {
+        "name": "Say You", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/65NIUuRoE48a6jqvOVCWM1"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d483808fd1697cf3ff6c25d18626e6bbbe5a05e2", 
+        "is_playable": true, 
+        "uri": "spotify:track:65NIUuRoE48a6jqvOVCWM1", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/65NIUuRoE48a6jqvOVCWM1", 
+        "artists": [
+          {
+            "name": "Liz Phair", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
+            }, 
+            "uri": "spotify:artist:2LXeJdQVcFkhkWydphLI74", 
+            "href": "https://api.spotify.com/v1/artists/2LXeJdQVcFkhkWydphLI74", 
+            "type": "artist", 
+            "id": "2LXeJdQVcFkhkWydphLI74"
+          }
+        ], 
+        "duration_ms": 204520, 
+        "track_number": 20, 
+        "type": "track", 
+        "id": "65NIUuRoE48a6jqvOVCWM1"
+      }, 
+      {
+        "name": "Instrumental", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0D3Z44NVzJESd4Wd6INwKG"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8a06bc8fa6af114330995b746575f623b6b38446", 
+        "is_playable": true, 
+        "uri": "spotify:track:0D3Z44NVzJESd4Wd6INwKG", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0D3Z44NVzJESd4Wd6INwKG", 
+        "artists": [
+          {
+            "name": "Liz Phair", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
+            }, 
+            "uri": "spotify:artist:2LXeJdQVcFkhkWydphLI74", 
+            "href": "https://api.spotify.com/v1/artists/2LXeJdQVcFkhkWydphLI74", 
+            "type": "artist", 
+            "id": "2LXeJdQVcFkhkWydphLI74"
+          }
+        ], 
+        "duration_ms": 208973, 
+        "track_number": 21, 
+        "type": "track", 
+        "id": "0D3Z44NVzJESd4Wd6INwKG"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/3DRlG4ezNna6WCi3uPGcDL/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 21, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/3DRlG4ezNna6WCi3uPGcDL", 
+  "copyrights": [
+    {
+      "text": "2008 National Anthem under exclusive license to ATO Records, LLC", 
+      "type": "C"
+    }, 
+    {
+      "text": "2008 National Anthem under exclusive license to ATO Records, LLC", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Liz Phair", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
+      }, 
+      "uri": "spotify:artist:2LXeJdQVcFkhkWydphLI74", 
+      "href": "https://api.spotify.com/v1/artists/2LXeJdQVcFkhkWydphLI74", 
+      "type": "artist", 
+      "id": "2LXeJdQVcFkhkWydphLI74"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/be4a1cdeffdbd69588e634321838409ab7e7c64d", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/771aeabed96a4eb99cb7a56314b3abf81b2df8b9", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/9d6e291f16806baed763ee361c66f6b910758b28", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "880882162726"
+  }, 
+  "type": "album", 
+  "id": "3DRlG4ezNna6WCi3uPGcDL", 
+  "name": "Exile In Guyville"
+}

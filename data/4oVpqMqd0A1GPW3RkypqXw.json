@@ -1,0 +1,405 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4oVpqMqd0A1GPW3RkypqXw"
+  }, 
+  "release_date": "2005-05-24", 
+  "popularity": 51, 
+  "genres": [], 
+  "uri": "spotify:album:4oVpqMqd0A1GPW3RkypqXw", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Be (Intro)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3E8PkaM1BIxy4zh7HbVScC"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/afb2c1effe016999fee64ce62818588dcc4cdb2c", 
+        "is_playable": true, 
+        "uri": "spotify:track:3E8PkaM1BIxy4zh7HbVScC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3E8PkaM1BIxy4zh7HbVScC", 
+        "artists": [
+          {
+            "name": "Common", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+            }, 
+            "uri": "spotify:artist:2GHclqNVjqGuiE5mA7BEoc", 
+            "href": "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc", 
+            "type": "artist", 
+            "id": "2GHclqNVjqGuiE5mA7BEoc"
+          }
+        ], 
+        "duration_ms": 144200, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "3E8PkaM1BIxy4zh7HbVScC"
+      }, 
+      {
+        "name": "The Corner", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2oCHf0BC7BJV2XGQmrMuDj"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a3f20555ae487578757c806bf59fd0e1f87b14d9", 
+        "is_playable": true, 
+        "uri": "spotify:track:2oCHf0BC7BJV2XGQmrMuDj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2oCHf0BC7BJV2XGQmrMuDj", 
+        "artists": [
+          {
+            "name": "Common", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+            }, 
+            "uri": "spotify:artist:2GHclqNVjqGuiE5mA7BEoc", 
+            "href": "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc", 
+            "type": "artist", 
+            "id": "2GHclqNVjqGuiE5mA7BEoc"
+          }, 
+          {
+            "name": "The Last Poets", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/58Wl2AJZWwfvEn2eAWJbIG"
+            }, 
+            "uri": "spotify:artist:58Wl2AJZWwfvEn2eAWJbIG", 
+            "href": "https://api.spotify.com/v1/artists/58Wl2AJZWwfvEn2eAWJbIG", 
+            "type": "artist", 
+            "id": "58Wl2AJZWwfvEn2eAWJbIG"
+          }
+        ], 
+        "duration_ms": 225333, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "2oCHf0BC7BJV2XGQmrMuDj"
+      }, 
+      {
+        "name": "GO!", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2krGqhlbsTOOHN6RAzdnG0"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1629a661ad653d0f61e58dfffa551dc5d5ff902f", 
+        "is_playable": true, 
+        "uri": "spotify:track:2krGqhlbsTOOHN6RAzdnG0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2krGqhlbsTOOHN6RAzdnG0", 
+        "artists": [
+          {
+            "name": "Common", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+            }, 
+            "uri": "spotify:artist:2GHclqNVjqGuiE5mA7BEoc", 
+            "href": "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc", 
+            "type": "artist", 
+            "id": "2GHclqNVjqGuiE5mA7BEoc"
+          }
+        ], 
+        "duration_ms": 224160, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "2krGqhlbsTOOHN6RAzdnG0"
+      }, 
+      {
+        "name": "Faithful", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2VdzkKz4H8LJ6pxW3dn0Xc"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1244721f087803aae7c5121b0226143fc5966f33", 
+        "is_playable": true, 
+        "uri": "spotify:track:2VdzkKz4H8LJ6pxW3dn0Xc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2VdzkKz4H8LJ6pxW3dn0Xc", 
+        "artists": [
+          {
+            "name": "Common", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+            }, 
+            "uri": "spotify:artist:2GHclqNVjqGuiE5mA7BEoc", 
+            "href": "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc", 
+            "type": "artist", 
+            "id": "2GHclqNVjqGuiE5mA7BEoc"
+          }
+        ], 
+        "duration_ms": 213080, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "2VdzkKz4H8LJ6pxW3dn0Xc"
+      }, 
+      {
+        "name": "Testify", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/05Svsi42ztU0cw4diuwAc3"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/091f5f022cc9a7cdd41d8f9a25343221754000f6", 
+        "is_playable": true, 
+        "uri": "spotify:track:05Svsi42ztU0cw4diuwAc3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/05Svsi42ztU0cw4diuwAc3", 
+        "artists": [
+          {
+            "name": "Common", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+            }, 
+            "uri": "spotify:artist:2GHclqNVjqGuiE5mA7BEoc", 
+            "href": "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc", 
+            "type": "artist", 
+            "id": "2GHclqNVjqGuiE5mA7BEoc"
+          }
+        ], 
+        "duration_ms": 156893, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "05Svsi42ztU0cw4diuwAc3"
+      }, 
+      {
+        "name": "Love is...", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/62Z1WqTrDU2H3pTVFczleo"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d9f75d1e7e2bcbf89abb74300942191f4092d609", 
+        "is_playable": true, 
+        "uri": "spotify:track:62Z1WqTrDU2H3pTVFczleo", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/62Z1WqTrDU2H3pTVFczleo", 
+        "artists": [
+          {
+            "name": "Common", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+            }, 
+            "uri": "spotify:artist:2GHclqNVjqGuiE5mA7BEoc", 
+            "href": "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc", 
+            "type": "artist", 
+            "id": "2GHclqNVjqGuiE5mA7BEoc"
+          }
+        ], 
+        "duration_ms": 250426, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "62Z1WqTrDU2H3pTVFczleo"
+      }, 
+      {
+        "name": "Chi-City", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5boKtpXGC4641i7byXbmoE"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ff595249bc0bce5e3f548f3191bc1abca8610177", 
+        "is_playable": true, 
+        "uri": "spotify:track:5boKtpXGC4641i7byXbmoE", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5boKtpXGC4641i7byXbmoE", 
+        "artists": [
+          {
+            "name": "Common", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+            }, 
+            "uri": "spotify:artist:2GHclqNVjqGuiE5mA7BEoc", 
+            "href": "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc", 
+            "type": "artist", 
+            "id": "2GHclqNVjqGuiE5mA7BEoc"
+          }
+        ], 
+        "duration_ms": 207000, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "5boKtpXGC4641i7byXbmoE"
+      }, 
+      {
+        "name": "The Food", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3YYteeLZAPGp0jdXITBg3n"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9a266a85352635a6903145db22ab8911ef3b1025", 
+        "is_playable": true, 
+        "uri": "spotify:track:3YYteeLZAPGp0jdXITBg3n", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3YYteeLZAPGp0jdXITBg3n", 
+        "artists": [
+          {
+            "name": "Common", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+            }, 
+            "uri": "spotify:artist:2GHclqNVjqGuiE5mA7BEoc", 
+            "href": "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc", 
+            "type": "artist", 
+            "id": "2GHclqNVjqGuiE5mA7BEoc"
+          }
+        ], 
+        "duration_ms": 216866, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "3YYteeLZAPGp0jdXITBg3n"
+      }, 
+      {
+        "name": "Real People", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3nBY1LnY0PazmNcWMV2HZ0"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5927776a050b3608d1a116f6b76bac4289557e4d", 
+        "is_playable": true, 
+        "uri": "spotify:track:3nBY1LnY0PazmNcWMV2HZ0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3nBY1LnY0PazmNcWMV2HZ0", 
+        "artists": [
+          {
+            "name": "Common", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+            }, 
+            "uri": "spotify:artist:2GHclqNVjqGuiE5mA7BEoc", 
+            "href": "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc", 
+            "type": "artist", 
+            "id": "2GHclqNVjqGuiE5mA7BEoc"
+          }
+        ], 
+        "duration_ms": 168160, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "3nBY1LnY0PazmNcWMV2HZ0"
+      }, 
+      {
+        "name": "They Say", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4drSkwt3viWJxU80A7LCAh"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b41b113c06249a7bfacf79d76987c77f998306dd", 
+        "is_playable": true, 
+        "uri": "spotify:track:4drSkwt3viWJxU80A7LCAh", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4drSkwt3viWJxU80A7LCAh", 
+        "artists": [
+          {
+            "name": "Common", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+            }, 
+            "uri": "spotify:artist:2GHclqNVjqGuiE5mA7BEoc", 
+            "href": "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc", 
+            "type": "artist", 
+            "id": "2GHclqNVjqGuiE5mA7BEoc"
+          }, 
+          {
+            "name": "John Legend", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+            }, 
+            "uri": "spotify:artist:5y2Xq6xcjJb2jVM54GHK3t", 
+            "href": "https://api.spotify.com/v1/artists/5y2Xq6xcjJb2jVM54GHK3t", 
+            "type": "artist", 
+            "id": "5y2Xq6xcjJb2jVM54GHK3t"
+          }, 
+          {
+            "name": "Kanye West", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+            }, 
+            "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x", 
+            "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x", 
+            "type": "artist", 
+            "id": "5K4W6rqBFWDnAN6FQUkS6x"
+          }
+        ], 
+        "duration_ms": 237040, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "4drSkwt3viWJxU80A7LCAh"
+      }, 
+      {
+        "name": "It's Your World - Part 1 & 2 (Explicit)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/65mmMkejcpmphyL4gvkvmp"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/932c798fe9dc73553260c535a4d5ccbd8652580c", 
+        "is_playable": true, 
+        "uri": "spotify:track:65mmMkejcpmphyL4gvkvmp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/65mmMkejcpmphyL4gvkvmp", 
+        "artists": [
+          {
+            "name": "Common", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+            }, 
+            "uri": "spotify:artist:2GHclqNVjqGuiE5mA7BEoc", 
+            "href": "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc", 
+            "type": "artist", 
+            "id": "2GHclqNVjqGuiE5mA7BEoc"
+          }
+        ], 
+        "duration_ms": 513733, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "65mmMkejcpmphyL4gvkvmp"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/4oVpqMqd0A1GPW3RkypqXw/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 11, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/4oVpqMqd0A1GPW3RkypqXw", 
+  "copyrights": [
+    {
+      "text": "(C) 2005 Geffen Records", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 2005 Geffen Records", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Common", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+      }, 
+      "uri": "spotify:artist:2GHclqNVjqGuiE5mA7BEoc", 
+      "href": "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc", 
+      "type": "artist", 
+      "id": "2GHclqNVjqGuiE5mA7BEoc"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/6eb89c0ada50ad46200bf471b3bd23d0531092dc", 
+      "width": 630, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/f8b0234e7ab63757a22f1de462e8ae93bcc00f10", 
+      "width": 295, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/ec4926c34d065690c81540ac17222bd6b22693bc", 
+      "width": 63, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00602498818626"
+  }, 
+  "type": "album", 
+  "id": "4oVpqMqd0A1GPW3RkypqXw", 
+  "name": "Be"
+}

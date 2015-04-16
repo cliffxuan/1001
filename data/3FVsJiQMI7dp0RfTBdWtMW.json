@@ -1,0 +1,487 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3FVsJiQMI7dp0RfTBdWtMW"
+  }, 
+  "release_date": "1986", 
+  "popularity": 45, 
+  "genres": [], 
+  "uri": "spotify:album:3FVsJiQMI7dp0RfTBdWtMW", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Summer's Cauldron - 2001 - Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5X5WJEY8b5Z052VvkzbF8W"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a46e0b86bfa9a3bf60eb9ddfaee726ee0c4df9d5", 
+        "is_playable": true, 
+        "uri": "spotify:track:5X5WJEY8b5Z052VvkzbF8W", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5X5WJEY8b5Z052VvkzbF8W", 
+        "artists": [
+          {
+            "name": "XTC", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
+            }, 
+            "uri": "spotify:artist:2qT62DYO8Ajb276vUJmvhz", 
+            "href": "https://api.spotify.com/v1/artists/2qT62DYO8Ajb276vUJmvhz", 
+            "type": "artist", 
+            "id": "2qT62DYO8Ajb276vUJmvhz"
+          }
+        ], 
+        "duration_ms": 199760, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "5X5WJEY8b5Z052VvkzbF8W"
+      }, 
+      {
+        "name": "Grass - 2001 - Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4GpmzLeUrLirnvzjb1epVy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d291aace7956b1855d47e064f7183c51aacb857a", 
+        "is_playable": true, 
+        "uri": "spotify:track:4GpmzLeUrLirnvzjb1epVy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4GpmzLeUrLirnvzjb1epVy", 
+        "artists": [
+          {
+            "name": "XTC", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
+            }, 
+            "uri": "spotify:artist:2qT62DYO8Ajb276vUJmvhz", 
+            "href": "https://api.spotify.com/v1/artists/2qT62DYO8Ajb276vUJmvhz", 
+            "type": "artist", 
+            "id": "2qT62DYO8Ajb276vUJmvhz"
+          }
+        ], 
+        "duration_ms": 185800, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "4GpmzLeUrLirnvzjb1epVy"
+      }, 
+      {
+        "name": "The Meeting Place - 2001 - Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3lVj1Ybfk9VhK9x9N8F2MM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f87fc451709b6c27420d19ec8167005259893c06", 
+        "is_playable": true, 
+        "uri": "spotify:track:3lVj1Ybfk9VhK9x9N8F2MM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3lVj1Ybfk9VhK9x9N8F2MM", 
+        "artists": [
+          {
+            "name": "XTC", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
+            }, 
+            "uri": "spotify:artist:2qT62DYO8Ajb276vUJmvhz", 
+            "href": "https://api.spotify.com/v1/artists/2qT62DYO8Ajb276vUJmvhz", 
+            "type": "artist", 
+            "id": "2qT62DYO8Ajb276vUJmvhz"
+          }
+        ], 
+        "duration_ms": 194106, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "3lVj1Ybfk9VhK9x9N8F2MM"
+      }, 
+      {
+        "name": "That's Really Super, Supergirl - 2001 - Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1QSe34AvBgTBTpRK3RLpQe"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d5e045ab536384cb9165038d665ff6bf4b04b66b", 
+        "is_playable": true, 
+        "uri": "spotify:track:1QSe34AvBgTBTpRK3RLpQe", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1QSe34AvBgTBTpRK3RLpQe", 
+        "artists": [
+          {
+            "name": "XTC", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
+            }, 
+            "uri": "spotify:artist:2qT62DYO8Ajb276vUJmvhz", 
+            "href": "https://api.spotify.com/v1/artists/2qT62DYO8Ajb276vUJmvhz", 
+            "type": "artist", 
+            "id": "2qT62DYO8Ajb276vUJmvhz"
+          }
+        ], 
+        "duration_ms": 201000, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "1QSe34AvBgTBTpRK3RLpQe"
+      }, 
+      {
+        "name": "Ballet For A Rainy Day - 2001 - Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2cTK6BnEKdLSDDJtr3Ccjc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4f0640f8c0b786cb662fadaafeb6015527ea2769", 
+        "is_playable": true, 
+        "uri": "spotify:track:2cTK6BnEKdLSDDJtr3Ccjc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2cTK6BnEKdLSDDJtr3Ccjc", 
+        "artists": [
+          {
+            "name": "XTC", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
+            }, 
+            "uri": "spotify:artist:2qT62DYO8Ajb276vUJmvhz", 
+            "href": "https://api.spotify.com/v1/artists/2qT62DYO8Ajb276vUJmvhz", 
+            "type": "artist", 
+            "id": "2qT62DYO8Ajb276vUJmvhz"
+          }
+        ], 
+        "duration_ms": 170200, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "2cTK6BnEKdLSDDJtr3Ccjc"
+      }, 
+      {
+        "name": "1000 Umbrellas - 2001 - Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2oom5xiFhbRpgqq8kYo7Nk"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2303b8312f7e01ab3becbb1d2364bac01b3a1852", 
+        "is_playable": true, 
+        "uri": "spotify:track:2oom5xiFhbRpgqq8kYo7Nk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2oom5xiFhbRpgqq8kYo7Nk", 
+        "artists": [
+          {
+            "name": "XTC", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
+            }, 
+            "uri": "spotify:artist:2qT62DYO8Ajb276vUJmvhz", 
+            "href": "https://api.spotify.com/v1/artists/2qT62DYO8Ajb276vUJmvhz", 
+            "type": "artist", 
+            "id": "2qT62DYO8Ajb276vUJmvhz"
+          }
+        ], 
+        "duration_ms": 224200, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "2oom5xiFhbRpgqq8kYo7Nk"
+      }, 
+      {
+        "name": "Season Cycle - 2001 - Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5eXHvRvEiq1cwgFUc1T1mG"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8b3f773c5e7f5759ec09e569458c9f240edc17d7", 
+        "is_playable": true, 
+        "uri": "spotify:track:5eXHvRvEiq1cwgFUc1T1mG", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5eXHvRvEiq1cwgFUc1T1mG", 
+        "artists": [
+          {
+            "name": "XTC", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
+            }, 
+            "uri": "spotify:artist:2qT62DYO8Ajb276vUJmvhz", 
+            "href": "https://api.spotify.com/v1/artists/2qT62DYO8Ajb276vUJmvhz", 
+            "type": "artist", 
+            "id": "2qT62DYO8Ajb276vUJmvhz"
+          }
+        ], 
+        "duration_ms": 201666, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "5eXHvRvEiq1cwgFUc1T1mG"
+      }, 
+      {
+        "name": "Earn Enough For Us - 2001 - Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2JwsJrJhzW2zVoRkT22XXY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1f0b789cf51ec5413029b781081e859ae9152418", 
+        "is_playable": true, 
+        "uri": "spotify:track:2JwsJrJhzW2zVoRkT22XXY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2JwsJrJhzW2zVoRkT22XXY", 
+        "artists": [
+          {
+            "name": "XTC", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
+            }, 
+            "uri": "spotify:artist:2qT62DYO8Ajb276vUJmvhz", 
+            "href": "https://api.spotify.com/v1/artists/2qT62DYO8Ajb276vUJmvhz", 
+            "type": "artist", 
+            "id": "2qT62DYO8Ajb276vUJmvhz"
+          }
+        ], 
+        "duration_ms": 174000, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "2JwsJrJhzW2zVoRkT22XXY"
+      }, 
+      {
+        "name": "Big Day - 2001 - Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0uyL8272RoVI3gmLPtoJR2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5b10cbbfedfa3c4beefbfa01fa509239b3827509", 
+        "is_playable": true, 
+        "uri": "spotify:track:0uyL8272RoVI3gmLPtoJR2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0uyL8272RoVI3gmLPtoJR2", 
+        "artists": [
+          {
+            "name": "XTC", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
+            }, 
+            "uri": "spotify:artist:2qT62DYO8Ajb276vUJmvhz", 
+            "href": "https://api.spotify.com/v1/artists/2qT62DYO8Ajb276vUJmvhz", 
+            "type": "artist", 
+            "id": "2qT62DYO8Ajb276vUJmvhz"
+          }
+        ], 
+        "duration_ms": 212160, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "0uyL8272RoVI3gmLPtoJR2"
+      }, 
+      {
+        "name": "Another Satellite - 2001 - Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/33AF7hOhrSkitVY3aV7rPO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/884afc963f0c386b19e644581d835b042e0383c4", 
+        "is_playable": true, 
+        "uri": "spotify:track:33AF7hOhrSkitVY3aV7rPO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/33AF7hOhrSkitVY3aV7rPO", 
+        "artists": [
+          {
+            "name": "XTC", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
+            }, 
+            "uri": "spotify:artist:2qT62DYO8Ajb276vUJmvhz", 
+            "href": "https://api.spotify.com/v1/artists/2qT62DYO8Ajb276vUJmvhz", 
+            "type": "artist", 
+            "id": "2qT62DYO8Ajb276vUJmvhz"
+          }
+        ], 
+        "duration_ms": 255933, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "33AF7hOhrSkitVY3aV7rPO"
+      }, 
+      {
+        "name": "Mermaid Smiled - 2001 - Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0KXus3z8nOrnT0XoUAkyLp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1da48c67998c339a9f0729a17120d2c34af17250", 
+        "is_playable": true, 
+        "uri": "spotify:track:0KXus3z8nOrnT0XoUAkyLp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0KXus3z8nOrnT0XoUAkyLp", 
+        "artists": [
+          {
+            "name": "XTC", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
+            }, 
+            "uri": "spotify:artist:2qT62DYO8Ajb276vUJmvhz", 
+            "href": "https://api.spotify.com/v1/artists/2qT62DYO8Ajb276vUJmvhz", 
+            "type": "artist", 
+            "id": "2qT62DYO8Ajb276vUJmvhz"
+          }
+        ], 
+        "duration_ms": 146373, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "0KXus3z8nOrnT0XoUAkyLp"
+      }, 
+      {
+        "name": "The Man Who Sailed Around His Soul - 2001 - Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1xFAzdujgG4tpvgTdPTe29"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/391f6169526c17cbbdf982c9ce1ba47afb8d84e2", 
+        "is_playable": true, 
+        "uri": "spotify:track:1xFAzdujgG4tpvgTdPTe29", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1xFAzdujgG4tpvgTdPTe29", 
+        "artists": [
+          {
+            "name": "XTC", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
+            }, 
+            "uri": "spotify:artist:2qT62DYO8Ajb276vUJmvhz", 
+            "href": "https://api.spotify.com/v1/artists/2qT62DYO8Ajb276vUJmvhz", 
+            "type": "artist", 
+            "id": "2qT62DYO8Ajb276vUJmvhz"
+          }
+        ], 
+        "duration_ms": 204226, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "1xFAzdujgG4tpvgTdPTe29"
+      }, 
+      {
+        "name": "Dying - 2001 - Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5hxXcBDNGRsq5zkP54VjT7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f268f12df5105784947ce2c81523558fe32ecfa9", 
+        "is_playable": true, 
+        "uri": "spotify:track:5hxXcBDNGRsq5zkP54VjT7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5hxXcBDNGRsq5zkP54VjT7", 
+        "artists": [
+          {
+            "name": "XTC", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
+            }, 
+            "uri": "spotify:artist:2qT62DYO8Ajb276vUJmvhz", 
+            "href": "https://api.spotify.com/v1/artists/2qT62DYO8Ajb276vUJmvhz", 
+            "type": "artist", 
+            "id": "2qT62DYO8Ajb276vUJmvhz"
+          }
+        ], 
+        "duration_ms": 151373, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "5hxXcBDNGRsq5zkP54VjT7"
+      }, 
+      {
+        "name": "Sacrificial Bonfire - 2001 - Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/23dqdi0EpPA3Hgh0fYo6k7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c37f15da817866f13178d2d49942c8e16f7e07ca", 
+        "is_playable": true, 
+        "uri": "spotify:track:23dqdi0EpPA3Hgh0fYo6k7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/23dqdi0EpPA3Hgh0fYo6k7", 
+        "artists": [
+          {
+            "name": "XTC", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
+            }, 
+            "uri": "spotify:artist:2qT62DYO8Ajb276vUJmvhz", 
+            "href": "https://api.spotify.com/v1/artists/2qT62DYO8Ajb276vUJmvhz", 
+            "type": "artist", 
+            "id": "2qT62DYO8Ajb276vUJmvhz"
+          }
+        ], 
+        "duration_ms": 229693, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "23dqdi0EpPA3Hgh0fYo6k7"
+      }, 
+      {
+        "name": "Dear God - 2001 - Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6nFdjV1Ko66O111x74K2kn"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3217c89c2ff45df72a89a9ed28bcf48fd2e455f1", 
+        "is_playable": true, 
+        "uri": "spotify:track:6nFdjV1Ko66O111x74K2kn", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6nFdjV1Ko66O111x74K2kn", 
+        "artists": [
+          {
+            "name": "XTC", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
+            }, 
+            "uri": "spotify:artist:2qT62DYO8Ajb276vUJmvhz", 
+            "href": "https://api.spotify.com/v1/artists/2qT62DYO8Ajb276vUJmvhz", 
+            "type": "artist", 
+            "id": "2qT62DYO8Ajb276vUJmvhz"
+          }
+        ], 
+        "duration_ms": 219506, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "6nFdjV1Ko66O111x74K2kn"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/3FVsJiQMI7dp0RfTBdWtMW/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 15, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/3FVsJiQMI7dp0RfTBdWtMW", 
+  "copyrights": [
+    {
+      "text": "(C) 2001 Virgin Records LtdThis label copy information is the subject of copyright protection. All rights reserved.(C) 2001 Virgin Records Ltd", 
+      "type": "C"
+    }, 
+    {
+      "text": "Digital Remaster (P) 2001 The copyright in this sound recording is owned by Virgin Records Ltd", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "XTC", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
+      }, 
+      "uri": "spotify:artist:2qT62DYO8Ajb276vUJmvhz", 
+      "href": "https://api.spotify.com/v1/artists/2qT62DYO8Ajb276vUJmvhz", 
+      "type": "artist", 
+      "id": "2qT62DYO8Ajb276vUJmvhz"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/362878519be635fb53e125d2fd2d7288978d76a3", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/49655c10c814f39945cd70dfc0b5a8ceb74d6fd3", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/bdb5ce9f3943d56ebba408bbf5d3a230133bf93e", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00724385069055"
+  }, 
+  "type": "album", 
+  "id": "3FVsJiQMI7dp0RfTBdWtMW", 
+  "name": "Skylarking"
+}

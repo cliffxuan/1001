@@ -1,0 +1,727 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0JnN0ZgNrYxz3Gk725HiAd"
+  }, 
+  "release_date": "1999-02-23", 
+  "popularity": 65, 
+  "genres": [], 
+  "uri": "spotify:album:0JnN0ZgNrYxz3Gk725HiAd", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Public Service Announcement", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5yHbIJxzTF9UVRcJIpT1j2"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fd04e442a67cafb7bcf18c0c07f91061d66b2da4", 
+        "is_playable": true, 
+        "uri": "spotify:track:5yHbIJxzTF9UVRcJIpT1j2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5yHbIJxzTF9UVRcJIpT1j2", 
+        "artists": [
+          {
+            "name": "Eminem", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            }, 
+            "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR", 
+            "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR", 
+            "type": "artist", 
+            "id": "7dGJo4pcD2V6oG8kP0tJRR"
+          }
+        ], 
+        "duration_ms": 33204, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "5yHbIJxzTF9UVRcJIpT1j2"
+      }, 
+      {
+        "name": "My Name Is", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2NBtFVoUJBc1SU4IM9Ipj7"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/03ec33b1bc39ab1e87f439e8722cfc52c3001de0", 
+        "is_playable": true, 
+        "uri": "spotify:track:2NBtFVoUJBc1SU4IM9Ipj7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2NBtFVoUJBc1SU4IM9Ipj7", 
+        "artists": [
+          {
+            "name": "Eminem", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            }, 
+            "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR", 
+            "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR", 
+            "type": "artist", 
+            "id": "7dGJo4pcD2V6oG8kP0tJRR"
+          }
+        ], 
+        "duration_ms": 268400, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "2NBtFVoUJBc1SU4IM9Ipj7"
+      }, 
+      {
+        "name": "Guilty Conscience", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3bKTf7Zr9Nh8A46nOvj3sI"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/11bc2373a0609d4d8107cbfe3103d858e88a74dd", 
+        "is_playable": true, 
+        "uri": "spotify:track:3bKTf7Zr9Nh8A46nOvj3sI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3bKTf7Zr9Nh8A46nOvj3sI", 
+        "artists": [
+          {
+            "name": "Eminem", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            }, 
+            "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR", 
+            "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR", 
+            "type": "artist", 
+            "id": "7dGJo4pcD2V6oG8kP0tJRR"
+          }, 
+          {
+            "name": "Dr. Dre", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+            }, 
+            "uri": "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7", 
+            "href": "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7", 
+            "type": "artist", 
+            "id": "6DPYiyq5kWVQS4RGwxzPC7"
+          }
+        ], 
+        "duration_ms": 199333, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "3bKTf7Zr9Nh8A46nOvj3sI"
+      }, 
+      {
+        "name": "Brain Damage", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/56wRzRP0qlws0Cc1fFSLl6"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0abb12560ce981f41d8cda220f41bf85d7e7e419", 
+        "is_playable": true, 
+        "uri": "spotify:track:56wRzRP0qlws0Cc1fFSLl6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/56wRzRP0qlws0Cc1fFSLl6", 
+        "artists": [
+          {
+            "name": "Eminem", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            }, 
+            "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR", 
+            "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR", 
+            "type": "artist", 
+            "id": "7dGJo4pcD2V6oG8kP0tJRR"
+          }
+        ], 
+        "duration_ms": 226733, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "56wRzRP0qlws0Cc1fFSLl6"
+      }, 
+      {
+        "name": "Paul - Skit", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3uRUDCZ9lfpFv5q4nosQTr"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/642d96d5a83e783d01359cc6fc8835dd5872e3f8", 
+        "is_playable": true, 
+        "uri": "spotify:track:3uRUDCZ9lfpFv5q4nosQTr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3uRUDCZ9lfpFv5q4nosQTr", 
+        "artists": [
+          {
+            "name": "Eminem", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            }, 
+            "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR", 
+            "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR", 
+            "type": "artist", 
+            "id": "7dGJo4pcD2V6oG8kP0tJRR"
+          }, 
+          {
+            "name": "Paul \"Bunyan\" Rosenburg", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tNFRvXj9S5Ie2j56G1zsW"
+            }, 
+            "uri": "spotify:artist:4tNFRvXj9S5Ie2j56G1zsW", 
+            "href": "https://api.spotify.com/v1/artists/4tNFRvXj9S5Ie2j56G1zsW", 
+            "type": "artist", 
+            "id": "4tNFRvXj9S5Ie2j56G1zsW"
+          }
+        ], 
+        "duration_ms": 15789, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "3uRUDCZ9lfpFv5q4nosQTr"
+      }, 
+      {
+        "name": "If I Had", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7d860a4Ewep1YOywmpALlX"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7f05830ad190f148b0103de6f49228427cd4c224", 
+        "is_playable": true, 
+        "uri": "spotify:track:7d860a4Ewep1YOywmpALlX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7d860a4Ewep1YOywmpALlX", 
+        "artists": [
+          {
+            "name": "Eminem", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            }, 
+            "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR", 
+            "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR", 
+            "type": "artist", 
+            "id": "7dGJo4pcD2V6oG8kP0tJRR"
+          }
+        ], 
+        "duration_ms": 245506, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "7d860a4Ewep1YOywmpALlX"
+      }, 
+      {
+        "name": "'97 Bonnie & Clyde", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4sWeMvDe3PiHb750SmP0Gp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ab1c44198561a9e284adb0c5467171cf44f782be", 
+        "is_playable": true, 
+        "uri": "spotify:track:4sWeMvDe3PiHb750SmP0Gp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4sWeMvDe3PiHb750SmP0Gp", 
+        "artists": [
+          {
+            "name": "Eminem", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            }, 
+            "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR", 
+            "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR", 
+            "type": "artist", 
+            "id": "7dGJo4pcD2V6oG8kP0tJRR"
+          }
+        ], 
+        "duration_ms": 316400, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "4sWeMvDe3PiHb750SmP0Gp"
+      }, 
+      {
+        "name": "Bitch - Skit", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/05yngu2zNNdRHIyHNhUiFZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/41b4dd041c6d704940ac6b87827d47e1c9e22d45", 
+        "is_playable": true, 
+        "uri": "spotify:track:05yngu2zNNdRHIyHNhUiFZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/05yngu2zNNdRHIyHNhUiFZ", 
+        "artists": [
+          {
+            "name": "Eminem", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            }, 
+            "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR", 
+            "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR", 
+            "type": "artist", 
+            "id": "7dGJo4pcD2V6oG8kP0tJRR"
+          }, 
+          {
+            "name": "Zoe Winkler", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Y4xUiE2JutzTNXVTypyWQ"
+            }, 
+            "uri": "spotify:artist:1Y4xUiE2JutzTNXVTypyWQ", 
+            "href": "https://api.spotify.com/v1/artists/1Y4xUiE2JutzTNXVTypyWQ", 
+            "type": "artist", 
+            "id": "1Y4xUiE2JutzTNXVTypyWQ"
+          }
+        ], 
+        "duration_ms": 19693, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "05yngu2zNNdRHIyHNhUiFZ"
+      }, 
+      {
+        "name": "Role Model", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Eciph2yHE41t2EJTmFjx6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/611273ddc2f57ff17b0e8bb91d6024441d227804", 
+        "is_playable": true, 
+        "uri": "spotify:track:6Eciph2yHE41t2EJTmFjx6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6Eciph2yHE41t2EJTmFjx6", 
+        "artists": [
+          {
+            "name": "Eminem", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            }, 
+            "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR", 
+            "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR", 
+            "type": "artist", 
+            "id": "7dGJo4pcD2V6oG8kP0tJRR"
+          }
+        ], 
+        "duration_ms": 205400, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "6Eciph2yHE41t2EJTmFjx6"
+      }, 
+      {
+        "name": "Lounge - Skit", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3KsjOcKoKQTXZDWSLOm6RI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ca97d6d6f6beaa51640dc52620e926e3ae20056c", 
+        "is_playable": true, 
+        "uri": "spotify:track:3KsjOcKoKQTXZDWSLOm6RI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3KsjOcKoKQTXZDWSLOm6RI", 
+        "artists": [
+          {
+            "name": "Eminem", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            }, 
+            "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR", 
+            "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR", 
+            "type": "artist", 
+            "id": "7dGJo4pcD2V6oG8kP0tJRR"
+          }, 
+          {
+            "name": "Jeff Bass", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/29LUur2mpi5s0OdMueyuvO"
+            }, 
+            "uri": "spotify:artist:29LUur2mpi5s0OdMueyuvO", 
+            "href": "https://api.spotify.com/v1/artists/29LUur2mpi5s0OdMueyuvO", 
+            "type": "artist", 
+            "id": "29LUur2mpi5s0OdMueyuvO"
+          }, 
+          {
+            "name": "Mark Bass", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VWX9qiAkIUd4vrUK0Q2LU"
+            }, 
+            "uri": "spotify:artist:3VWX9qiAkIUd4vrUK0Q2LU", 
+            "href": "https://api.spotify.com/v1/artists/3VWX9qiAkIUd4vrUK0Q2LU", 
+            "type": "artist", 
+            "id": "3VWX9qiAkIUd4vrUK0Q2LU"
+          }
+        ], 
+        "duration_ms": 46533, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "3KsjOcKoKQTXZDWSLOm6RI"
+      }, 
+      {
+        "name": "My Fault", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/33CaELR9y7lZDA4NDdXIrb"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e1294d33cb5b66d500ad6f7e9683117b46f6a342", 
+        "is_playable": true, 
+        "uri": "spotify:track:33CaELR9y7lZDA4NDdXIrb", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/33CaELR9y7lZDA4NDdXIrb", 
+        "artists": [
+          {
+            "name": "Eminem", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            }, 
+            "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR", 
+            "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR", 
+            "type": "artist", 
+            "id": "7dGJo4pcD2V6oG8kP0tJRR"
+          }
+        ], 
+        "duration_ms": 241580, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "33CaELR9y7lZDA4NDdXIrb"
+      }, 
+      {
+        "name": "Ken Kaniff - Skit", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1eLSUIHOT5RZ3ICYoCxayU"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4a7e92251f5d41a02a6361da84a86d94ca9255c8", 
+        "is_playable": true, 
+        "uri": "spotify:track:1eLSUIHOT5RZ3ICYoCxayU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1eLSUIHOT5RZ3ICYoCxayU", 
+        "artists": [
+          {
+            "name": "Eminem", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            }, 
+            "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR", 
+            "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR", 
+            "type": "artist", 
+            "id": "7dGJo4pcD2V6oG8kP0tJRR"
+          }, 
+          {
+            "name": "Aristotle", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NHHBPPF40cVfX9u3ANdm1"
+            }, 
+            "uri": "spotify:artist:0NHHBPPF40cVfX9u3ANdm1", 
+            "href": "https://api.spotify.com/v1/artists/0NHHBPPF40cVfX9u3ANdm1", 
+            "type": "artist", 
+            "id": "0NHHBPPF40cVfX9u3ANdm1"
+          }, 
+          {
+            "name": "Mark Bass", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VWX9qiAkIUd4vrUK0Q2LU"
+            }, 
+            "uri": "spotify:artist:3VWX9qiAkIUd4vrUK0Q2LU", 
+            "href": "https://api.spotify.com/v1/artists/3VWX9qiAkIUd4vrUK0Q2LU", 
+            "type": "artist", 
+            "id": "3VWX9qiAkIUd4vrUK0Q2LU"
+          }
+        ], 
+        "duration_ms": 76306, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "1eLSUIHOT5RZ3ICYoCxayU"
+      }, 
+      {
+        "name": "Cum On Everybody", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5tg4wf8MeUUhanGyOo3b2i"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a606ef402b27f4885408a0649a95bbb0202849be", 
+        "is_playable": true, 
+        "uri": "spotify:track:5tg4wf8MeUUhanGyOo3b2i", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5tg4wf8MeUUhanGyOo3b2i", 
+        "artists": [
+          {
+            "name": "Eminem", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            }, 
+            "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR", 
+            "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR", 
+            "type": "artist", 
+            "id": "7dGJo4pcD2V6oG8kP0tJRR"
+          }
+        ], 
+        "duration_ms": 219226, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "5tg4wf8MeUUhanGyOo3b2i"
+      }, 
+      {
+        "name": "Rock Bottom", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1OoVM5W5FvOFmmWs5o2GHa"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/165c645d0e7776b727adb76b4217af80a9a8ac0d", 
+        "is_playable": true, 
+        "uri": "spotify:track:1OoVM5W5FvOFmmWs5o2GHa", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1OoVM5W5FvOFmmWs5o2GHa", 
+        "artists": [
+          {
+            "name": "Eminem", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            }, 
+            "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR", 
+            "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR", 
+            "type": "artist", 
+            "id": "7dGJo4pcD2V6oG8kP0tJRR"
+          }
+        ], 
+        "duration_ms": 214087, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "1OoVM5W5FvOFmmWs5o2GHa"
+      }, 
+      {
+        "name": "Just Don't Give A Fuck", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5rWWWBemT4yxqQAQVJ9dLy"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/745f3383b36b60e20dae0faea57fa68ef7e02e36", 
+        "is_playable": true, 
+        "uri": "spotify:track:5rWWWBemT4yxqQAQVJ9dLy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5rWWWBemT4yxqQAQVJ9dLy", 
+        "artists": [
+          {
+            "name": "Eminem", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            }, 
+            "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR", 
+            "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR", 
+            "type": "artist", 
+            "id": "7dGJo4pcD2V6oG8kP0tJRR"
+          }
+        ], 
+        "duration_ms": 242560, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "5rWWWBemT4yxqQAQVJ9dLy"
+      }, 
+      {
+        "name": "Soap - Skit", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5eYx105FkkQoitlxYUbAqv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a0891f877201b41e5ce026de2727e8445ab7088e", 
+        "is_playable": true, 
+        "uri": "spotify:track:5eYx105FkkQoitlxYUbAqv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5eYx105FkkQoitlxYUbAqv", 
+        "artists": [
+          {
+            "name": "Eminem", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            }, 
+            "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR", 
+            "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR", 
+            "type": "artist", 
+            "id": "7dGJo4pcD2V6oG8kP0tJRR"
+          }, 
+          {
+            "name": "Jeff Bass", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/29LUur2mpi5s0OdMueyuvO"
+            }, 
+            "uri": "spotify:artist:29LUur2mpi5s0OdMueyuvO", 
+            "href": "https://api.spotify.com/v1/artists/29LUur2mpi5s0OdMueyuvO", 
+            "type": "artist", 
+            "id": "29LUur2mpi5s0OdMueyuvO"
+          }, 
+          {
+            "name": "Royce Da 5'9\"", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns"
+            }, 
+            "uri": "spotify:artist:6DVipHzYsPlIoA0DW8Gmns", 
+            "href": "https://api.spotify.com/v1/artists/6DVipHzYsPlIoA0DW8Gmns", 
+            "type": "artist", 
+            "id": "6DVipHzYsPlIoA0DW8Gmns"
+          }
+        ], 
+        "duration_ms": 34600, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "5eYx105FkkQoitlxYUbAqv"
+      }, 
+      {
+        "name": "As The World Turns", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0uAcUaDFPaf8bpQYRFIvdI"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/527ee4e9afc34c0283ffafb8101786880a8577a4", 
+        "is_playable": true, 
+        "uri": "spotify:track:0uAcUaDFPaf8bpQYRFIvdI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0uAcUaDFPaf8bpQYRFIvdI", 
+        "artists": [
+          {
+            "name": "Eminem", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            }, 
+            "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR", 
+            "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR", 
+            "type": "artist", 
+            "id": "7dGJo4pcD2V6oG8kP0tJRR"
+          }
+        ], 
+        "duration_ms": 265333, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "0uAcUaDFPaf8bpQYRFIvdI"
+      }, 
+      {
+        "name": "I'm Shady", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4x26byiOAyTMIoimefDcLB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/37faebafc9c405d3f03e98d3c7ead499f0908355", 
+        "is_playable": true, 
+        "uri": "spotify:track:4x26byiOAyTMIoimefDcLB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4x26byiOAyTMIoimefDcLB", 
+        "artists": [
+          {
+            "name": "Eminem", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            }, 
+            "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR", 
+            "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR", 
+            "type": "artist", 
+            "id": "7dGJo4pcD2V6oG8kP0tJRR"
+          }
+        ], 
+        "duration_ms": 211951, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "4x26byiOAyTMIoimefDcLB"
+      }, 
+      {
+        "name": "Bad Meets Evil", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7DIvF0D0eeRuA3wzFD4fAB"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/833a95679bf308f9c6b899fcf9909112f63198ad", 
+        "is_playable": true, 
+        "uri": "spotify:track:7DIvF0D0eeRuA3wzFD4fAB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7DIvF0D0eeRuA3wzFD4fAB", 
+        "artists": [
+          {
+            "name": "Eminem", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            }, 
+            "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR", 
+            "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR", 
+            "type": "artist", 
+            "id": "7dGJo4pcD2V6oG8kP0tJRR"
+          }, 
+          {
+            "name": "Royce Da 5'9\"", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns"
+            }, 
+            "uri": "spotify:artist:6DVipHzYsPlIoA0DW8Gmns", 
+            "href": "https://api.spotify.com/v1/artists/6DVipHzYsPlIoA0DW8Gmns", 
+            "type": "artist", 
+            "id": "6DVipHzYsPlIoA0DW8Gmns"
+          }
+        ], 
+        "duration_ms": 253066, 
+        "track_number": 19, 
+        "type": "track", 
+        "id": "7DIvF0D0eeRuA3wzFD4fAB"
+      }, 
+      {
+        "name": "Still Don't Give A Fuck", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7I7KB8R7tbNuEJGvrXTLLm"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/af65b8f694d68e0f45d52a1748741efb4d42ae1f", 
+        "is_playable": true, 
+        "uri": "spotify:track:7I7KB8R7tbNuEJGvrXTLLm", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7I7KB8R7tbNuEJGvrXTLLm", 
+        "artists": [
+          {
+            "name": "Eminem", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            }, 
+            "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR", 
+            "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR", 
+            "type": "artist", 
+            "id": "7dGJo4pcD2V6oG8kP0tJRR"
+          }
+        ], 
+        "duration_ms": 252693, 
+        "track_number": 20, 
+        "type": "track", 
+        "id": "7I7KB8R7tbNuEJGvrXTLLm"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/0JnN0ZgNrYxz3Gk725HiAd/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 20, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/0JnN0ZgNrYxz3Gk725HiAd", 
+  "copyrights": [
+    {
+      "text": "(C) 1998 Aftermath Entertainment/Interscope Records", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1999 Aftermath Entertainment/Interscope Records", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Eminem", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+      }, 
+      "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR", 
+      "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR", 
+      "type": "artist", 
+      "id": "7dGJo4pcD2V6oG8kP0tJRR"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/be56b27125c02ccbffec64f64752ad83faa414b0", 
+      "width": 640, 
+      "height": 629
+    }, 
+    {
+      "url": "https://i.scdn.co/image/86c91c6d4df8e9e2a6e61e658a8cf72f45153501", 
+      "width": 300, 
+      "height": 295
+    }, 
+    {
+      "url": "https://i.scdn.co/image/120516dd1204f96ec1f15859410e2fc7049ad6bc", 
+      "width": 64, 
+      "height": 63
+    }
+  ], 
+  "external_ids": {
+    "upc": "00606949028725"
+  }, 
+  "type": "album", 
+  "id": "0JnN0ZgNrYxz3Gk725HiAd", 
+  "name": "The Slim Shady LP"
+}

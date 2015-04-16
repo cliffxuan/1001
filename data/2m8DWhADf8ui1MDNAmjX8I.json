@@ -1,0 +1,679 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2m8DWhADf8ui1MDNAmjX8I"
+  }, 
+  "release_date": "1967", 
+  "popularity": 38, 
+  "genres": [], 
+  "uri": "spotify:album:2m8DWhADf8ui1MDNAmjX8I", 
+  "tracks": {
+    "items": [
+      {
+        "name": "She Has Funny Cars - Stereo Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0IZxEmegUYtB4AVQ96sYoe"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/eb226c262c2af48d385c7f5a6495a72a0786c4f6", 
+        "is_playable": true, 
+        "uri": "spotify:track:0IZxEmegUYtB4AVQ96sYoe", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0IZxEmegUYtB4AVQ96sYoe", 
+        "artists": [
+          {
+            "name": "Jefferson Airplane", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+            }, 
+            "uri": "spotify:artist:2qFr8w5sWUITRlzZ9kZotF", 
+            "href": "https://api.spotify.com/v1/artists/2qFr8w5sWUITRlzZ9kZotF", 
+            "type": "artist", 
+            "id": "2qFr8w5sWUITRlzZ9kZotF"
+          }
+        ], 
+        "duration_ms": 191946, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "0IZxEmegUYtB4AVQ96sYoe"
+      }, 
+      {
+        "name": "Somebody to Love - Stereo Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0hckaViDtkJj6CWQYo2DUM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/72d28986631bc414be99fb2f6342368dcf2857cb", 
+        "is_playable": true, 
+        "uri": "spotify:track:0hckaViDtkJj6CWQYo2DUM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0hckaViDtkJj6CWQYo2DUM", 
+        "artists": [
+          {
+            "name": "Jefferson Airplane", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+            }, 
+            "uri": "spotify:artist:2qFr8w5sWUITRlzZ9kZotF", 
+            "href": "https://api.spotify.com/v1/artists/2qFr8w5sWUITRlzZ9kZotF", 
+            "type": "artist", 
+            "id": "2qFr8w5sWUITRlzZ9kZotF"
+          }
+        ], 
+        "duration_ms": 176920, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "0hckaViDtkJj6CWQYo2DUM"
+      }, 
+      {
+        "name": "My Best Friend - Stereo Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0VcTtDoptrBhdpeFUDH7mz"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b086b0389c19adc48d60eb79a9a70824ec5731d7", 
+        "is_playable": true, 
+        "uri": "spotify:track:0VcTtDoptrBhdpeFUDH7mz", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0VcTtDoptrBhdpeFUDH7mz", 
+        "artists": [
+          {
+            "name": "Jefferson Airplane", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+            }, 
+            "uri": "spotify:artist:2qFr8w5sWUITRlzZ9kZotF", 
+            "href": "https://api.spotify.com/v1/artists/2qFr8w5sWUITRlzZ9kZotF", 
+            "type": "artist", 
+            "id": "2qFr8w5sWUITRlzZ9kZotF"
+          }
+        ], 
+        "duration_ms": 182346, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "0VcTtDoptrBhdpeFUDH7mz"
+      }, 
+      {
+        "name": "Today - Stereo Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2aTF0PSyLHcrIP0oZIsEty"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0c39dd64d2ceedb81be05b234b52d20da094184d", 
+        "is_playable": true, 
+        "uri": "spotify:track:2aTF0PSyLHcrIP0oZIsEty", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2aTF0PSyLHcrIP0oZIsEty", 
+        "artists": [
+          {
+            "name": "Jefferson Airplane", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+            }, 
+            "uri": "spotify:artist:2qFr8w5sWUITRlzZ9kZotF", 
+            "href": "https://api.spotify.com/v1/artists/2qFr8w5sWUITRlzZ9kZotF", 
+            "type": "artist", 
+            "id": "2qFr8w5sWUITRlzZ9kZotF"
+          }
+        ], 
+        "duration_ms": 181453, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "2aTF0PSyLHcrIP0oZIsEty"
+      }, 
+      {
+        "name": "Comin' Back To Me - Stereo Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2h9ApXFkoHJciwIF2PrZeT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5d549f44487ba211a8fa87a42a540369239ad053", 
+        "is_playable": true, 
+        "uri": "spotify:track:2h9ApXFkoHJciwIF2PrZeT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2h9ApXFkoHJciwIF2PrZeT", 
+        "artists": [
+          {
+            "name": "Jefferson Airplane", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+            }, 
+            "uri": "spotify:artist:2qFr8w5sWUITRlzZ9kZotF", 
+            "href": "https://api.spotify.com/v1/artists/2qFr8w5sWUITRlzZ9kZotF", 
+            "type": "artist", 
+            "id": "2qFr8w5sWUITRlzZ9kZotF"
+          }
+        ], 
+        "duration_ms": 320506, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "2h9ApXFkoHJciwIF2PrZeT"
+      }, 
+      {
+        "name": "3/5 Of A Mile In 10 Seconds - Stereo Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6SKX2YAeLqwAfxbyuvVnWN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3463d9c285aacb7f284300290afc1cece3c7f94c", 
+        "is_playable": true, 
+        "uri": "spotify:track:6SKX2YAeLqwAfxbyuvVnWN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6SKX2YAeLqwAfxbyuvVnWN", 
+        "artists": [
+          {
+            "name": "Jefferson Airplane", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+            }, 
+            "uri": "spotify:artist:2qFr8w5sWUITRlzZ9kZotF", 
+            "href": "https://api.spotify.com/v1/artists/2qFr8w5sWUITRlzZ9kZotF", 
+            "type": "artist", 
+            "id": "2qFr8w5sWUITRlzZ9kZotF"
+          }
+        ], 
+        "duration_ms": 223333, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "6SKX2YAeLqwAfxbyuvVnWN"
+      }, 
+      {
+        "name": "D.C.B.A. - 25 - Stereo Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1HTX1J1dBjBL2j5IgnqNoX"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b1de891bd77629d6777b1226835edbb05484213c", 
+        "is_playable": true, 
+        "uri": "spotify:track:1HTX1J1dBjBL2j5IgnqNoX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1HTX1J1dBjBL2j5IgnqNoX", 
+        "artists": [
+          {
+            "name": "Jefferson Airplane", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+            }, 
+            "uri": "spotify:artist:2qFr8w5sWUITRlzZ9kZotF", 
+            "href": "https://api.spotify.com/v1/artists/2qFr8w5sWUITRlzZ9kZotF", 
+            "type": "artist", 
+            "id": "2qFr8w5sWUITRlzZ9kZotF"
+          }
+        ], 
+        "duration_ms": 157733, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "1HTX1J1dBjBL2j5IgnqNoX"
+      }, 
+      {
+        "name": "How Do You Feel - Stereo Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3rYQPjR1HOSc8I61vciE0s"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/75822891d01d216240c94dee4c0745d9856a47b2", 
+        "is_playable": true, 
+        "uri": "spotify:track:3rYQPjR1HOSc8I61vciE0s", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3rYQPjR1HOSc8I61vciE0s", 
+        "artists": [
+          {
+            "name": "Jefferson Airplane", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+            }, 
+            "uri": "spotify:artist:2qFr8w5sWUITRlzZ9kZotF", 
+            "href": "https://api.spotify.com/v1/artists/2qFr8w5sWUITRlzZ9kZotF", 
+            "type": "artist", 
+            "id": "2qFr8w5sWUITRlzZ9kZotF"
+          }
+        ], 
+        "duration_ms": 212653, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "3rYQPjR1HOSc8I61vciE0s"
+      }, 
+      {
+        "name": "Embryonic Journey - Stereo Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4RzXYK7U5RGr2tBDueONJ1"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/75a7d4c50ab9ec9d2baa857575cbdaf62686a01e", 
+        "is_playable": true, 
+        "uri": "spotify:track:4RzXYK7U5RGr2tBDueONJ1", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4RzXYK7U5RGr2tBDueONJ1", 
+        "artists": [
+          {
+            "name": "Jefferson Airplane", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+            }, 
+            "uri": "spotify:artist:2qFr8w5sWUITRlzZ9kZotF", 
+            "href": "https://api.spotify.com/v1/artists/2qFr8w5sWUITRlzZ9kZotF", 
+            "type": "artist", 
+            "id": "2qFr8w5sWUITRlzZ9kZotF"
+          }
+        ], 
+        "duration_ms": 113186, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "4RzXYK7U5RGr2tBDueONJ1"
+      }, 
+      {
+        "name": "White Rabbit - Stereo Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1FuREEwH3Dc9jEItAR9JWr"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/00d91f4f316245d7f99f696945299042ebb09a5d", 
+        "is_playable": true, 
+        "uri": "spotify:track:1FuREEwH3Dc9jEItAR9JWr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1FuREEwH3Dc9jEItAR9JWr", 
+        "artists": [
+          {
+            "name": "Jefferson Airplane", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+            }, 
+            "uri": "spotify:artist:2qFr8w5sWUITRlzZ9kZotF", 
+            "href": "https://api.spotify.com/v1/artists/2qFr8w5sWUITRlzZ9kZotF", 
+            "type": "artist", 
+            "id": "2qFr8w5sWUITRlzZ9kZotF"
+          }
+        ], 
+        "duration_ms": 152480, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "1FuREEwH3Dc9jEItAR9JWr"
+      }, 
+      {
+        "name": "Plastic Fantastic Lover - Mono Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/50rrQk0xWkJFaTpwH5zs9N"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bcac8c88b7b29cf56d9cdfc2f4ed2b403b756d3a", 
+        "is_playable": true, 
+        "uri": "spotify:track:50rrQk0xWkJFaTpwH5zs9N", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/50rrQk0xWkJFaTpwH5zs9N", 
+        "artists": [
+          {
+            "name": "Jefferson Airplane", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+            }, 
+            "uri": "spotify:artist:2qFr8w5sWUITRlzZ9kZotF", 
+            "href": "https://api.spotify.com/v1/artists/2qFr8w5sWUITRlzZ9kZotF", 
+            "type": "artist", 
+            "id": "2qFr8w5sWUITRlzZ9kZotF"
+          }
+        ], 
+        "duration_ms": 156813, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "50rrQk0xWkJFaTpwH5zs9N"
+      }, 
+      {
+        "name": "She Has Funny Cars - Mono Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/47XlKzNoowFby5o3YN4xKF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/209b13cb1863a74a8f3202bc2db47a2c6ac66388", 
+        "is_playable": true, 
+        "uri": "spotify:track:47XlKzNoowFby5o3YN4xKF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/47XlKzNoowFby5o3YN4xKF", 
+        "artists": [
+          {
+            "name": "Jefferson Airplane", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+            }, 
+            "uri": "spotify:artist:2qFr8w5sWUITRlzZ9kZotF", 
+            "href": "https://api.spotify.com/v1/artists/2qFr8w5sWUITRlzZ9kZotF", 
+            "type": "artist", 
+            "id": "2qFr8w5sWUITRlzZ9kZotF"
+          }
+        ], 
+        "duration_ms": 184040, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "47XlKzNoowFby5o3YN4xKF"
+      }, 
+      {
+        "name": "Somebody To Love - Mono Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4eGg7HLJFrpx7J70Q4zMDc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ea2a0e34770d800aee8e861c41be9917ef510646", 
+        "is_playable": true, 
+        "uri": "spotify:track:4eGg7HLJFrpx7J70Q4zMDc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4eGg7HLJFrpx7J70Q4zMDc", 
+        "artists": [
+          {
+            "name": "Jefferson Airplane", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+            }, 
+            "uri": "spotify:artist:2qFr8w5sWUITRlzZ9kZotF", 
+            "href": "https://api.spotify.com/v1/artists/2qFr8w5sWUITRlzZ9kZotF", 
+            "type": "artist", 
+            "id": "2qFr8w5sWUITRlzZ9kZotF"
+          }
+        ], 
+        "duration_ms": 178480, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "4eGg7HLJFrpx7J70Q4zMDc"
+      }, 
+      {
+        "name": "My Best Friend - Mono Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5i2ROVOYXjYU5paXWp1JHQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/88cb8455f077dd092b72cdfbda1358f80aa840c7", 
+        "is_playable": true, 
+        "uri": "spotify:track:5i2ROVOYXjYU5paXWp1JHQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5i2ROVOYXjYU5paXWp1JHQ", 
+        "artists": [
+          {
+            "name": "Jefferson Airplane", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+            }, 
+            "uri": "spotify:artist:2qFr8w5sWUITRlzZ9kZotF", 
+            "href": "https://api.spotify.com/v1/artists/2qFr8w5sWUITRlzZ9kZotF", 
+            "type": "artist", 
+            "id": "2qFr8w5sWUITRlzZ9kZotF"
+          }
+        ], 
+        "duration_ms": 182133, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "5i2ROVOYXjYU5paXWp1JHQ"
+      }, 
+      {
+        "name": "Today - Mono Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3c7tIdnKGT7aAhoE4gZKpa"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0ccf9ce5036f7af328507d2bde107781ccb8e79c", 
+        "is_playable": true, 
+        "uri": "spotify:track:3c7tIdnKGT7aAhoE4gZKpa", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3c7tIdnKGT7aAhoE4gZKpa", 
+        "artists": [
+          {
+            "name": "Jefferson Airplane", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+            }, 
+            "uri": "spotify:artist:2qFr8w5sWUITRlzZ9kZotF", 
+            "href": "https://api.spotify.com/v1/artists/2qFr8w5sWUITRlzZ9kZotF", 
+            "type": "artist", 
+            "id": "2qFr8w5sWUITRlzZ9kZotF"
+          }
+        ], 
+        "duration_ms": 181186, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "3c7tIdnKGT7aAhoE4gZKpa"
+      }, 
+      {
+        "name": "Comin' Back To Me - Mono Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1E1ebCfSfnTH5sRggdigKR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/497e9edeff3225355f14499f145ca6a2e9e2e3cb", 
+        "is_playable": true, 
+        "uri": "spotify:track:1E1ebCfSfnTH5sRggdigKR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1E1ebCfSfnTH5sRggdigKR", 
+        "artists": [
+          {
+            "name": "Jefferson Airplane", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+            }, 
+            "uri": "spotify:artist:2qFr8w5sWUITRlzZ9kZotF", 
+            "href": "https://api.spotify.com/v1/artists/2qFr8w5sWUITRlzZ9kZotF", 
+            "type": "artist", 
+            "id": "2qFr8w5sWUITRlzZ9kZotF"
+          }
+        ], 
+        "duration_ms": 326200, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "1E1ebCfSfnTH5sRggdigKR"
+      }, 
+      {
+        "name": "3/5 of A Mile In 10 Seconds - Mono Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6bar2hgiqGzBXd08LdMOox"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6221a220bae6a3e0a2d05c61f8a6ff92566ef9ee", 
+        "is_playable": true, 
+        "uri": "spotify:track:6bar2hgiqGzBXd08LdMOox", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6bar2hgiqGzBXd08LdMOox", 
+        "artists": [
+          {
+            "name": "Jefferson Airplane", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+            }, 
+            "uri": "spotify:artist:2qFr8w5sWUITRlzZ9kZotF", 
+            "href": "https://api.spotify.com/v1/artists/2qFr8w5sWUITRlzZ9kZotF", 
+            "type": "artist", 
+            "id": "2qFr8w5sWUITRlzZ9kZotF"
+          }
+        ], 
+        "duration_ms": 224053, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "6bar2hgiqGzBXd08LdMOox"
+      }, 
+      {
+        "name": "D.C.B.A. - 25 - Mono Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/18NUTVmzdZOHfzMbmi9izB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/96413c4e7c2ddbfede03463bc8141dae7b71eb4a", 
+        "is_playable": true, 
+        "uri": "spotify:track:18NUTVmzdZOHfzMbmi9izB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/18NUTVmzdZOHfzMbmi9izB", 
+        "artists": [
+          {
+            "name": "Jefferson Airplane", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+            }, 
+            "uri": "spotify:artist:2qFr8w5sWUITRlzZ9kZotF", 
+            "href": "https://api.spotify.com/v1/artists/2qFr8w5sWUITRlzZ9kZotF", 
+            "type": "artist", 
+            "id": "2qFr8w5sWUITRlzZ9kZotF"
+          }
+        ], 
+        "duration_ms": 156680, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "18NUTVmzdZOHfzMbmi9izB"
+      }, 
+      {
+        "name": "How Do You Feel - Mono Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5PhMNgqNXQLhLni0v5n4uj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/623ccf1013535d7e8302e74008b02c5686ed9105", 
+        "is_playable": true, 
+        "uri": "spotify:track:5PhMNgqNXQLhLni0v5n4uj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5PhMNgqNXQLhLni0v5n4uj", 
+        "artists": [
+          {
+            "name": "Jefferson Airplane", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+            }, 
+            "uri": "spotify:artist:2qFr8w5sWUITRlzZ9kZotF", 
+            "href": "https://api.spotify.com/v1/artists/2qFr8w5sWUITRlzZ9kZotF", 
+            "type": "artist", 
+            "id": "2qFr8w5sWUITRlzZ9kZotF"
+          }
+        ], 
+        "duration_ms": 211733, 
+        "track_number": 19, 
+        "type": "track", 
+        "id": "5PhMNgqNXQLhLni0v5n4uj"
+      }, 
+      {
+        "name": "Embryonic Journey - Mono Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0UYKvixTgTxjbdyUouWNUp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6318420cba65189b491d1d6875810a4892e302ad", 
+        "is_playable": true, 
+        "uri": "spotify:track:0UYKvixTgTxjbdyUouWNUp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0UYKvixTgTxjbdyUouWNUp", 
+        "artists": [
+          {
+            "name": "Jefferson Airplane", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+            }, 
+            "uri": "spotify:artist:2qFr8w5sWUITRlzZ9kZotF", 
+            "href": "https://api.spotify.com/v1/artists/2qFr8w5sWUITRlzZ9kZotF", 
+            "type": "artist", 
+            "id": "2qFr8w5sWUITRlzZ9kZotF"
+          }
+        ], 
+        "duration_ms": 113453, 
+        "track_number": 20, 
+        "type": "track", 
+        "id": "0UYKvixTgTxjbdyUouWNUp"
+      }, 
+      {
+        "name": "White Rabbit - Mono Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4j2E5qYqlsZ1fOLdLM7E57"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ebf516e881b14892780aa55c03bc73a7579c4ded", 
+        "is_playable": true, 
+        "uri": "spotify:track:4j2E5qYqlsZ1fOLdLM7E57", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4j2E5qYqlsZ1fOLdLM7E57", 
+        "artists": [
+          {
+            "name": "Jefferson Airplane", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+            }, 
+            "uri": "spotify:artist:2qFr8w5sWUITRlzZ9kZotF", 
+            "href": "https://api.spotify.com/v1/artists/2qFr8w5sWUITRlzZ9kZotF", 
+            "type": "artist", 
+            "id": "2qFr8w5sWUITRlzZ9kZotF"
+          }
+        ], 
+        "duration_ms": 151426, 
+        "track_number": 21, 
+        "type": "track", 
+        "id": "4j2E5qYqlsZ1fOLdLM7E57"
+      }, 
+      {
+        "name": "Plastic Fantastic Lover - Mono Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Zzb9ASdi5zZ1zmfAlfEC3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/361f8f1611c541cdf8c10f841d1d84e8d39c7abf", 
+        "is_playable": true, 
+        "uri": "spotify:track:0Zzb9ASdi5zZ1zmfAlfEC3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0Zzb9ASdi5zZ1zmfAlfEC3", 
+        "artists": [
+          {
+            "name": "Jefferson Airplane", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+            }, 
+            "uri": "spotify:artist:2qFr8w5sWUITRlzZ9kZotF", 
+            "href": "https://api.spotify.com/v1/artists/2qFr8w5sWUITRlzZ9kZotF", 
+            "type": "artist", 
+            "id": "2qFr8w5sWUITRlzZ9kZotF"
+          }
+        ], 
+        "duration_ms": 156560, 
+        "track_number": 22, 
+        "type": "track", 
+        "id": "0Zzb9ASdi5zZ1zmfAlfEC3"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/2m8DWhADf8ui1MDNAmjX8I/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 22, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/2m8DWhADf8ui1MDNAmjX8I", 
+  "copyrights": [
+    {
+      "text": "(P) Recorded prior to 1972. All rights reserved by BMG Entertainment.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Jefferson Airplane", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+      }, 
+      "uri": "spotify:artist:2qFr8w5sWUITRlzZ9kZotF", 
+      "href": "https://api.spotify.com/v1/artists/2qFr8w5sWUITRlzZ9kZotF", 
+      "type": "artist", 
+      "id": "2qFr8w5sWUITRlzZ9kZotF"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/8200247862e8e286b139c6316c6c6b43f42650ad", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/f9c3d675e08026cf474ef17edb1431eb4ccc66fe", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/1306797c48de25048380aca4eb84229a8ded7baf", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "078636803128"
+  }, 
+  "type": "album", 
+  "id": "2m8DWhADf8ui1MDNAmjX8I", 
+  "name": "Surrealistic Pillow"
+}

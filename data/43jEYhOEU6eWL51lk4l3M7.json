@@ -1,0 +1,319 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/43jEYhOEU6eWL51lk4l3M7"
+  }, 
+  "release_date": "1984-05-04", 
+  "popularity": 45, 
+  "genres": [], 
+  "uri": "spotify:album:43jEYhOEU6eWL51lk4l3M7", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Silver", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5fHQo2XBn6gQjlI7YbbVhl"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/afcd442084735da230e7f85ab3ab80190e44724e", 
+        "is_playable": true, 
+        "uri": "spotify:track:5fHQo2XBn6gQjlI7YbbVhl", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5fHQo2XBn6gQjlI7YbbVhl", 
+        "artists": [
+          {
+            "name": "Echo And The Bunnymen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+            }, 
+            "uri": "spotify:artist:0fgYKF9Avljex0L9Wt5b8Z", 
+            "href": "https://api.spotify.com/v1/artists/0fgYKF9Avljex0L9Wt5b8Z", 
+            "type": "artist", 
+            "id": "0fgYKF9Avljex0L9Wt5b8Z"
+          }
+        ], 
+        "duration_ms": 199346, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "5fHQo2XBn6gQjlI7YbbVhl"
+      }, 
+      {
+        "name": "Nocturnal Me", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5V9FrOjiLqd9eyiny1s78a"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b5fbfc9f8a44fa69aee35a69dc8f58ad8a757fd8", 
+        "is_playable": true, 
+        "uri": "spotify:track:5V9FrOjiLqd9eyiny1s78a", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5V9FrOjiLqd9eyiny1s78a", 
+        "artists": [
+          {
+            "name": "Echo And The Bunnymen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+            }, 
+            "uri": "spotify:artist:0fgYKF9Avljex0L9Wt5b8Z", 
+            "href": "https://api.spotify.com/v1/artists/0fgYKF9Avljex0L9Wt5b8Z", 
+            "type": "artist", 
+            "id": "0fgYKF9Avljex0L9Wt5b8Z"
+          }
+        ], 
+        "duration_ms": 297960, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "5V9FrOjiLqd9eyiny1s78a"
+      }, 
+      {
+        "name": "Crystal Days", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3QuKnygcetUPu8z3Cw6Rg3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b9808d9c28adaf28a5e7a32737442fda1ec566cb", 
+        "is_playable": true, 
+        "uri": "spotify:track:3QuKnygcetUPu8z3Cw6Rg3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3QuKnygcetUPu8z3Cw6Rg3", 
+        "artists": [
+          {
+            "name": "Echo And The Bunnymen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+            }, 
+            "uri": "spotify:artist:0fgYKF9Avljex0L9Wt5b8Z", 
+            "href": "https://api.spotify.com/v1/artists/0fgYKF9Avljex0L9Wt5b8Z", 
+            "type": "artist", 
+            "id": "0fgYKF9Avljex0L9Wt5b8Z"
+          }
+        ], 
+        "duration_ms": 144800, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "3QuKnygcetUPu8z3Cw6Rg3"
+      }, 
+      {
+        "name": "The Yo Yo Man", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4MiRCn3rNIyf1r6dPzDvYO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fd90822485c3ba49feb311fbd9a4a1fb30d0b7b9", 
+        "is_playable": true, 
+        "uri": "spotify:track:4MiRCn3rNIyf1r6dPzDvYO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4MiRCn3rNIyf1r6dPzDvYO", 
+        "artists": [
+          {
+            "name": "Echo And The Bunnymen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+            }, 
+            "uri": "spotify:artist:0fgYKF9Avljex0L9Wt5b8Z", 
+            "href": "https://api.spotify.com/v1/artists/0fgYKF9Avljex0L9Wt5b8Z", 
+            "type": "artist", 
+            "id": "0fgYKF9Avljex0L9Wt5b8Z"
+          }
+        ], 
+        "duration_ms": 190680, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "4MiRCn3rNIyf1r6dPzDvYO"
+      }, 
+      {
+        "name": "Thorn Of Crowns", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6TlDRQfDuKWw3FEDNPq1zv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/703181a7d9f5b107e969dc3ae4beae02733fd7aa", 
+        "is_playable": true, 
+        "uri": "spotify:track:6TlDRQfDuKWw3FEDNPq1zv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6TlDRQfDuKWw3FEDNPq1zv", 
+        "artists": [
+          {
+            "name": "Echo And The Bunnymen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+            }, 
+            "uri": "spotify:artist:0fgYKF9Avljex0L9Wt5b8Z", 
+            "href": "https://api.spotify.com/v1/artists/0fgYKF9Avljex0L9Wt5b8Z", 
+            "type": "artist", 
+            "id": "0fgYKF9Avljex0L9Wt5b8Z"
+          }
+        ], 
+        "duration_ms": 292080, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "6TlDRQfDuKWw3FEDNPq1zv"
+      }, 
+      {
+        "name": "The Killing Moon", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0cOf4csnt4DeXSkFmBjULw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6302936ee31936cff41881033a28c22fcfabcc2f", 
+        "is_playable": true, 
+        "uri": "spotify:track:0cOf4csnt4DeXSkFmBjULw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0cOf4csnt4DeXSkFmBjULw", 
+        "artists": [
+          {
+            "name": "Echo And The Bunnymen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+            }, 
+            "uri": "spotify:artist:0fgYKF9Avljex0L9Wt5b8Z", 
+            "href": "https://api.spotify.com/v1/artists/0fgYKF9Avljex0L9Wt5b8Z", 
+            "type": "artist", 
+            "id": "0fgYKF9Avljex0L9Wt5b8Z"
+          }
+        ], 
+        "duration_ms": 345799, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "0cOf4csnt4DeXSkFmBjULw"
+      }, 
+      {
+        "name": "Seven Seas", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2L7FTi2Fopo0ZJX0MkUXKS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/68c35f8bacfae3ae1f0993bd6641c742b23ac5c3", 
+        "is_playable": true, 
+        "uri": "spotify:track:2L7FTi2Fopo0ZJX0MkUXKS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2L7FTi2Fopo0ZJX0MkUXKS", 
+        "artists": [
+          {
+            "name": "Echo And The Bunnymen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+            }, 
+            "uri": "spotify:artist:0fgYKF9Avljex0L9Wt5b8Z", 
+            "href": "https://api.spotify.com/v1/artists/0fgYKF9Avljex0L9Wt5b8Z", 
+            "type": "artist", 
+            "id": "0fgYKF9Avljex0L9Wt5b8Z"
+          }
+        ], 
+        "duration_ms": 199386, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "2L7FTi2Fopo0ZJX0MkUXKS"
+      }, 
+      {
+        "name": "My Kingdom", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2DYdxniURYpM3B7hWV5Cos"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e14551454a42954e266165d528a79e0fa24699d4", 
+        "is_playable": true, 
+        "uri": "spotify:track:2DYdxniURYpM3B7hWV5Cos", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2DYdxniURYpM3B7hWV5Cos", 
+        "artists": [
+          {
+            "name": "Echo And The Bunnymen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+            }, 
+            "uri": "spotify:artist:0fgYKF9Avljex0L9Wt5b8Z", 
+            "href": "https://api.spotify.com/v1/artists/0fgYKF9Avljex0L9Wt5b8Z", 
+            "type": "artist", 
+            "id": "0fgYKF9Avljex0L9Wt5b8Z"
+          }
+        ], 
+        "duration_ms": 245306, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "2DYdxniURYpM3B7hWV5Cos"
+      }, 
+      {
+        "name": "Ocean Rain", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1KtwAeCarQx3VA5fcnQU8K"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0ab849c79bd8a07c5abe92d3f3119e2d395010bd", 
+        "is_playable": true, 
+        "uri": "spotify:track:1KtwAeCarQx3VA5fcnQU8K", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1KtwAeCarQx3VA5fcnQU8K", 
+        "artists": [
+          {
+            "name": "Echo And The Bunnymen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+            }, 
+            "uri": "spotify:artist:0fgYKF9Avljex0L9Wt5b8Z", 
+            "href": "https://api.spotify.com/v1/artists/0fgYKF9Avljex0L9Wt5b8Z", 
+            "type": "artist", 
+            "id": "0fgYKF9Avljex0L9Wt5b8Z"
+          }
+        ], 
+        "duration_ms": 312666, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "1KtwAeCarQx3VA5fcnQU8K"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/43jEYhOEU6eWL51lk4l3M7/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 9, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/43jEYhOEU6eWL51lk4l3M7", 
+  "copyrights": [
+    {
+      "text": "1984 Warner Music UK Ltd", 
+      "type": "C"
+    }, 
+    {
+      "text": "1984 Warner Music UK Ltd", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Echo And The Bunnymen", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+      }, 
+      "uri": "spotify:artist:0fgYKF9Avljex0L9Wt5b8Z", 
+      "href": "https://api.spotify.com/v1/artists/0fgYKF9Avljex0L9Wt5b8Z", 
+      "type": "artist", 
+      "id": "0fgYKF9Avljex0L9Wt5b8Z"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/8abee1406c28865c67d350a2ff239b215f98ac99", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/68115c3b33036f276930c1c2934aea4a60ad46bb", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/785e0c8d648f775fbb78b48975cef67c80c470a8", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "075992508469"
+  }, 
+  "type": "album", 
+  "id": "43jEYhOEU6eWL51lk4l3M7", 
+  "name": "Ocean Rain"
+}

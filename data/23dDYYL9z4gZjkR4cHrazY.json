@@ -1,0 +1,427 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/23dDYYL9z4gZjkR4cHrazY"
+  }, 
+  "release_date": "1993-03-29", 
+  "popularity": 49, 
+  "genres": [], 
+  "uri": "spotify:album:23dDYYL9z4gZjkR4cHrazY", 
+  "tracks": {
+    "items": [
+      {
+        "name": "So Young (Remastered)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7nNu4mmw822NRsMUmQPbw9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bfa93b82d4e5fd36a0f3cb61c5088aeb6dafe013", 
+        "is_playable": true, 
+        "uri": "spotify:track:7nNu4mmw822NRsMUmQPbw9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7nNu4mmw822NRsMUmQPbw9", 
+        "artists": [
+          {
+            "name": "Suede", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
+            }, 
+            "uri": "spotify:artist:6PHIK3kjWggLtVygsOtpqS", 
+            "href": "https://api.spotify.com/v1/artists/6PHIK3kjWggLtVygsOtpqS", 
+            "type": "artist", 
+            "id": "6PHIK3kjWggLtVygsOtpqS"
+          }
+        ], 
+        "duration_ms": 218826, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "7nNu4mmw822NRsMUmQPbw9"
+      }, 
+      {
+        "name": "Animal Nitrate (Remastered)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7FTmBYe7DHiOx1ZdaNzbZb"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/00b2ce55c0fb5547204a3ba3f36f632344b11f97", 
+        "is_playable": true, 
+        "uri": "spotify:track:7FTmBYe7DHiOx1ZdaNzbZb", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7FTmBYe7DHiOx1ZdaNzbZb", 
+        "artists": [
+          {
+            "name": "Suede", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
+            }, 
+            "uri": "spotify:artist:6PHIK3kjWggLtVygsOtpqS", 
+            "href": "https://api.spotify.com/v1/artists/6PHIK3kjWggLtVygsOtpqS", 
+            "type": "artist", 
+            "id": "6PHIK3kjWggLtVygsOtpqS"
+          }
+        ], 
+        "duration_ms": 206333, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "7FTmBYe7DHiOx1ZdaNzbZb"
+      }, 
+      {
+        "name": "She\u2019s Not Dead (Remastered)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2IXCt7WJqr7I03BE5fr44X"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0b1582d61195d92ad79176b2a1ffe514b4285ad7", 
+        "is_playable": true, 
+        "uri": "spotify:track:2IXCt7WJqr7I03BE5fr44X", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2IXCt7WJqr7I03BE5fr44X", 
+        "artists": [
+          {
+            "name": "Suede", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
+            }, 
+            "uri": "spotify:artist:6PHIK3kjWggLtVygsOtpqS", 
+            "href": "https://api.spotify.com/v1/artists/6PHIK3kjWggLtVygsOtpqS", 
+            "type": "artist", 
+            "id": "6PHIK3kjWggLtVygsOtpqS"
+          }
+        ], 
+        "duration_ms": 273973, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "2IXCt7WJqr7I03BE5fr44X"
+      }, 
+      {
+        "name": "Moving (Remastered)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/67iuAjOodlCEhYFhdBwrzf"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/56e6930f7eb4607310bbc25b32f957e0259e8222", 
+        "is_playable": true, 
+        "uri": "spotify:track:67iuAjOodlCEhYFhdBwrzf", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/67iuAjOodlCEhYFhdBwrzf", 
+        "artists": [
+          {
+            "name": "Suede", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
+            }, 
+            "uri": "spotify:artist:6PHIK3kjWggLtVygsOtpqS", 
+            "href": "https://api.spotify.com/v1/artists/6PHIK3kjWggLtVygsOtpqS", 
+            "type": "artist", 
+            "id": "6PHIK3kjWggLtVygsOtpqS"
+          }
+        ], 
+        "duration_ms": 170453, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "67iuAjOodlCEhYFhdBwrzf"
+      }, 
+      {
+        "name": "Pantomime Horse (Remastered)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/58eGQNtt7sbBxlDQh5QwcT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8fa999035eadf7bbdad8a1188e4ac14e9e3637e7", 
+        "is_playable": true, 
+        "uri": "spotify:track:58eGQNtt7sbBxlDQh5QwcT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/58eGQNtt7sbBxlDQh5QwcT", 
+        "artists": [
+          {
+            "name": "Suede", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
+            }, 
+            "uri": "spotify:artist:6PHIK3kjWggLtVygsOtpqS", 
+            "href": "https://api.spotify.com/v1/artists/6PHIK3kjWggLtVygsOtpqS", 
+            "type": "artist", 
+            "id": "6PHIK3kjWggLtVygsOtpqS"
+          }
+        ], 
+        "duration_ms": 350080, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "58eGQNtt7sbBxlDQh5QwcT"
+      }, 
+      {
+        "name": "The Drowners (Remastered)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3rGj4Y2nIBehsEmU1w8XvV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c1d9dbe7657b4e1e75fa9fd93f109ea29f98c13a", 
+        "is_playable": true, 
+        "uri": "spotify:track:3rGj4Y2nIBehsEmU1w8XvV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3rGj4Y2nIBehsEmU1w8XvV", 
+        "artists": [
+          {
+            "name": "Suede", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
+            }, 
+            "uri": "spotify:artist:6PHIK3kjWggLtVygsOtpqS", 
+            "href": "https://api.spotify.com/v1/artists/6PHIK3kjWggLtVygsOtpqS", 
+            "type": "artist", 
+            "id": "6PHIK3kjWggLtVygsOtpqS"
+          }
+        ], 
+        "duration_ms": 250160, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "3rGj4Y2nIBehsEmU1w8XvV"
+      }, 
+      {
+        "name": "Sleeping Pills (Remastered)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1pO9SG1ie61D4OYHEMjTyr"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a793a29299e6be571f65d2ded348044339b878b6", 
+        "is_playable": true, 
+        "uri": "spotify:track:1pO9SG1ie61D4OYHEMjTyr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1pO9SG1ie61D4OYHEMjTyr", 
+        "artists": [
+          {
+            "name": "Suede", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
+            }, 
+            "uri": "spotify:artist:6PHIK3kjWggLtVygsOtpqS", 
+            "href": "https://api.spotify.com/v1/artists/6PHIK3kjWggLtVygsOtpqS", 
+            "type": "artist", 
+            "id": "6PHIK3kjWggLtVygsOtpqS"
+          }
+        ], 
+        "duration_ms": 230933, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "1pO9SG1ie61D4OYHEMjTyr"
+      }, 
+      {
+        "name": "Breakdown (Remastered)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6mMTeXyCqfJaFMc6u8OuRX"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2a06a52f89a9b56f5efcffd3b1838d8207c2c934", 
+        "is_playable": true, 
+        "uri": "spotify:track:6mMTeXyCqfJaFMc6u8OuRX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6mMTeXyCqfJaFMc6u8OuRX", 
+        "artists": [
+          {
+            "name": "Suede", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
+            }, 
+            "uri": "spotify:artist:6PHIK3kjWggLtVygsOtpqS", 
+            "href": "https://api.spotify.com/v1/artists/6PHIK3kjWggLtVygsOtpqS", 
+            "type": "artist", 
+            "id": "6PHIK3kjWggLtVygsOtpqS"
+          }
+        ], 
+        "duration_ms": 362573, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "6mMTeXyCqfJaFMc6u8OuRX"
+      }, 
+      {
+        "name": "Metal Mickey (Remastered)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3P9KXKu9uxcJhUKYL4bU5Y"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ef33ae9ce5a179003aec78abd07373846929d46b", 
+        "is_playable": true, 
+        "uri": "spotify:track:3P9KXKu9uxcJhUKYL4bU5Y", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3P9KXKu9uxcJhUKYL4bU5Y", 
+        "artists": [
+          {
+            "name": "Suede", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
+            }, 
+            "uri": "spotify:artist:6PHIK3kjWggLtVygsOtpqS", 
+            "href": "https://api.spotify.com/v1/artists/6PHIK3kjWggLtVygsOtpqS", 
+            "type": "artist", 
+            "id": "6PHIK3kjWggLtVygsOtpqS"
+          }
+        ], 
+        "duration_ms": 207893, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "3P9KXKu9uxcJhUKYL4bU5Y"
+      }, 
+      {
+        "name": "Animal Lover (Remastered)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2ebuLJkgQJTaF9k0U400tk"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d590f6eff857b408721318eea835396bda229912", 
+        "is_playable": true, 
+        "uri": "spotify:track:2ebuLJkgQJTaF9k0U400tk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2ebuLJkgQJTaF9k0U400tk", 
+        "artists": [
+          {
+            "name": "Suede", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
+            }, 
+            "uri": "spotify:artist:6PHIK3kjWggLtVygsOtpqS", 
+            "href": "https://api.spotify.com/v1/artists/6PHIK3kjWggLtVygsOtpqS", 
+            "type": "artist", 
+            "id": "6PHIK3kjWggLtVygsOtpqS"
+          }
+        ], 
+        "duration_ms": 257773, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "2ebuLJkgQJTaF9k0U400tk"
+      }, 
+      {
+        "name": "The Next Life (Remastered)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6XCiPVpitsVDbbTf5Hv47a"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/48b3f210cadc3574028cb7f8606358344075d314", 
+        "is_playable": true, 
+        "uri": "spotify:track:6XCiPVpitsVDbbTf5Hv47a", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6XCiPVpitsVDbbTf5Hv47a", 
+        "artists": [
+          {
+            "name": "Suede", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
+            }, 
+            "uri": "spotify:artist:6PHIK3kjWggLtVygsOtpqS", 
+            "href": "https://api.spotify.com/v1/artists/6PHIK3kjWggLtVygsOtpqS", 
+            "type": "artist", 
+            "id": "6PHIK3kjWggLtVygsOtpqS"
+          }
+        ], 
+        "duration_ms": 222266, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "6XCiPVpitsVDbbTf5Hv47a"
+      }, 
+      {
+        "name": "He's Dead (Rocking Horse Demo) [Remastered]", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/798m4YfH7lzcZBjdyBFz21"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/80660446ccf05db8ee1212f1663daf16924d02a6", 
+        "is_playable": true, 
+        "uri": "spotify:track:798m4YfH7lzcZBjdyBFz21", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/798m4YfH7lzcZBjdyBFz21", 
+        "artists": [
+          {
+            "name": "Suede", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
+            }, 
+            "uri": "spotify:artist:6PHIK3kjWggLtVygsOtpqS", 
+            "href": "https://api.spotify.com/v1/artists/6PHIK3kjWggLtVygsOtpqS", 
+            "type": "artist", 
+            "id": "6PHIK3kjWggLtVygsOtpqS"
+          }
+        ], 
+        "duration_ms": 251040, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "798m4YfH7lzcZBjdyBFz21"
+      }, 
+      {
+        "name": "Where The Pigs Don\u2019t Fly (Remastered) - B-side of \"Metal Micky\"", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3CwJdI82VgPJr1t70V785f"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5b3e0aa9e8b4c7c517044f32cb2df0a412a81d82", 
+        "is_playable": true, 
+        "uri": "spotify:track:3CwJdI82VgPJr1t70V785f", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3CwJdI82VgPJr1t70V785f", 
+        "artists": [
+          {
+            "name": "Suede", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
+            }, 
+            "uri": "spotify:artist:6PHIK3kjWggLtVygsOtpqS", 
+            "href": "https://api.spotify.com/v1/artists/6PHIK3kjWggLtVygsOtpqS", 
+            "type": "artist", 
+            "id": "6PHIK3kjWggLtVygsOtpqS"
+          }
+        ], 
+        "duration_ms": 335520, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "3CwJdI82VgPJr1t70V785f"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/23dDYYL9z4gZjkR4cHrazY/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 13, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/23dDYYL9z4gZjkR4cHrazY", 
+  "copyrights": [
+    {
+      "text": "(C) 2011 Demon Music Group Ltd", 
+      "type": "C"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Suede", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
+      }, 
+      "uri": "spotify:artist:6PHIK3kjWggLtVygsOtpqS", 
+      "href": "https://api.spotify.com/v1/artists/6PHIK3kjWggLtVygsOtpqS", 
+      "type": "artist", 
+      "id": "6PHIK3kjWggLtVygsOtpqS"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ccd4e6201f92bc472563189b286ba4445bf7c767", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/15e8803b49169b9c2ac82049f0bad336e6f35b14", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/a506ec4565a1dee39d6b8f17108865296d04daae", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "5032698662029"
+  }, 
+  "type": "album", 
+  "id": "23dDYYL9z4gZjkR4cHrazY", 
+  "name": "Suede (Remastered)"
+}

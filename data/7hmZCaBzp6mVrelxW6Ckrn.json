@@ -1,0 +1,487 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
+  }, 
+  "release_date": "2000-09-05", 
+  "popularity": 64, 
+  "genres": [], 
+  "uri": "spotify:album:7hmZCaBzp6mVrelxW6Ckrn", 
+  "tracks": {
+    "items": [
+      {
+        "name": "(Argument with David Rawlings Concerning Morrisey)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2nZPNcfEgpfOEIvaOn5O71"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/989fef7ccaed23ae9da97cedeabee7589cd164f4", 
+        "is_playable": true, 
+        "uri": "spotify:track:2nZPNcfEgpfOEIvaOn5O71", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2nZPNcfEgpfOEIvaOn5O71", 
+        "artists": [
+          {
+            "name": "Ryan Adams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+            }, 
+            "uri": "spotify:artist:2qc41rNTtdLK0tV3mJn2Pm", 
+            "href": "https://api.spotify.com/v1/artists/2qc41rNTtdLK0tV3mJn2Pm", 
+            "type": "artist", 
+            "id": "2qc41rNTtdLK0tV3mJn2Pm"
+          }
+        ], 
+        "duration_ms": 37826, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "2nZPNcfEgpfOEIvaOn5O71"
+      }, 
+      {
+        "name": "To Be Young (Is to Be Sad, Is to Be High)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0aLk2Za7r0eGlLOepW2hzL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3aff6ef19ac3ab15ec0a90d3461fb1ba90dab027", 
+        "is_playable": true, 
+        "uri": "spotify:track:0aLk2Za7r0eGlLOepW2hzL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0aLk2Za7r0eGlLOepW2hzL", 
+        "artists": [
+          {
+            "name": "Ryan Adams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+            }, 
+            "uri": "spotify:artist:2qc41rNTtdLK0tV3mJn2Pm", 
+            "href": "https://api.spotify.com/v1/artists/2qc41rNTtdLK0tV3mJn2Pm", 
+            "type": "artist", 
+            "id": "2qc41rNTtdLK0tV3mJn2Pm"
+          }
+        ], 
+        "duration_ms": 184400, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "0aLk2Za7r0eGlLOepW2hzL"
+      }, 
+      {
+        "name": "My Winding Wheel", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2xogiMuoVDFDKpxgZpmPfQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f396ba985854b2b9bbb481d3c2eeed843daded92", 
+        "is_playable": true, 
+        "uri": "spotify:track:2xogiMuoVDFDKpxgZpmPfQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2xogiMuoVDFDKpxgZpmPfQ", 
+        "artists": [
+          {
+            "name": "Ryan Adams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+            }, 
+            "uri": "spotify:artist:2qc41rNTtdLK0tV3mJn2Pm", 
+            "href": "https://api.spotify.com/v1/artists/2qc41rNTtdLK0tV3mJn2Pm", 
+            "type": "artist", 
+            "id": "2qc41rNTtdLK0tV3mJn2Pm"
+          }
+        ], 
+        "duration_ms": 193106, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "2xogiMuoVDFDKpxgZpmPfQ"
+      }, 
+      {
+        "name": "Amy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7qzqcfLHBAUherRXgW4Ul7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/dae06c6bbd0906e5e0cd4e8a7900e7a335631f93", 
+        "is_playable": true, 
+        "uri": "spotify:track:7qzqcfLHBAUherRXgW4Ul7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7qzqcfLHBAUherRXgW4Ul7", 
+        "artists": [
+          {
+            "name": "Ryan Adams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+            }, 
+            "uri": "spotify:artist:2qc41rNTtdLK0tV3mJn2Pm", 
+            "href": "https://api.spotify.com/v1/artists/2qc41rNTtdLK0tV3mJn2Pm", 
+            "type": "artist", 
+            "id": "2qc41rNTtdLK0tV3mJn2Pm"
+          }
+        ], 
+        "duration_ms": 226333, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "7qzqcfLHBAUherRXgW4Ul7"
+      }, 
+      {
+        "name": "Oh My Sweet Carolina", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Zcr8xMMZyNT5wMsj3SWmw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c88d73057f882a0f1445d444cd6b7a5a35f234b6", 
+        "is_playable": true, 
+        "uri": "spotify:track:2Zcr8xMMZyNT5wMsj3SWmw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2Zcr8xMMZyNT5wMsj3SWmw", 
+        "artists": [
+          {
+            "name": "Ryan Adams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+            }, 
+            "uri": "spotify:artist:2qc41rNTtdLK0tV3mJn2Pm", 
+            "href": "https://api.spotify.com/v1/artists/2qc41rNTtdLK0tV3mJn2Pm", 
+            "type": "artist", 
+            "id": "2qc41rNTtdLK0tV3mJn2Pm"
+          }
+        ], 
+        "duration_ms": 297333, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "2Zcr8xMMZyNT5wMsj3SWmw"
+      }, 
+      {
+        "name": "Bartering Lines", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0bkV9Clv4lnhpVRKST2Iwp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d979d315fb2cf37648d7cc0d7a1debcaf8b56379", 
+        "is_playable": true, 
+        "uri": "spotify:track:0bkV9Clv4lnhpVRKST2Iwp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0bkV9Clv4lnhpVRKST2Iwp", 
+        "artists": [
+          {
+            "name": "Ryan Adams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+            }, 
+            "uri": "spotify:artist:2qc41rNTtdLK0tV3mJn2Pm", 
+            "href": "https://api.spotify.com/v1/artists/2qc41rNTtdLK0tV3mJn2Pm", 
+            "type": "artist", 
+            "id": "2qc41rNTtdLK0tV3mJn2Pm"
+          }
+        ], 
+        "duration_ms": 239826, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "0bkV9Clv4lnhpVRKST2Iwp"
+      }, 
+      {
+        "name": "Call Me on Your Way Back Home", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6VOvaFEQ6juSEiFPCQp4E7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5cddbeb908b5221f8ec534114670f1d01046298c", 
+        "is_playable": true, 
+        "uri": "spotify:track:6VOvaFEQ6juSEiFPCQp4E7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6VOvaFEQ6juSEiFPCQp4E7", 
+        "artists": [
+          {
+            "name": "Ryan Adams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+            }, 
+            "uri": "spotify:artist:2qc41rNTtdLK0tV3mJn2Pm", 
+            "href": "https://api.spotify.com/v1/artists/2qc41rNTtdLK0tV3mJn2Pm", 
+            "type": "artist", 
+            "id": "2qc41rNTtdLK0tV3mJn2Pm"
+          }
+        ], 
+        "duration_ms": 189733, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "6VOvaFEQ6juSEiFPCQp4E7"
+      }, 
+      {
+        "name": "Damn Sam (I Love a Woman That Rains)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/07A4I35sBKxJ43iPZmWMqZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5d76f04572dbcca6cb5936b992c2fb4fcbc55e4c", 
+        "is_playable": true, 
+        "uri": "spotify:track:07A4I35sBKxJ43iPZmWMqZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/07A4I35sBKxJ43iPZmWMqZ", 
+        "artists": [
+          {
+            "name": "Ryan Adams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+            }, 
+            "uri": "spotify:artist:2qc41rNTtdLK0tV3mJn2Pm", 
+            "href": "https://api.spotify.com/v1/artists/2qc41rNTtdLK0tV3mJn2Pm", 
+            "type": "artist", 
+            "id": "2qc41rNTtdLK0tV3mJn2Pm"
+          }
+        ], 
+        "duration_ms": 128600, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "07A4I35sBKxJ43iPZmWMqZ"
+      }, 
+      {
+        "name": "Come Pick Me Up", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0lngUitwRDbvZ5yVO76dVN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7e5869837168b7af2df255e4183f4f6621c0dc93", 
+        "is_playable": true, 
+        "uri": "spotify:track:0lngUitwRDbvZ5yVO76dVN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0lngUitwRDbvZ5yVO76dVN", 
+        "artists": [
+          {
+            "name": "Ryan Adams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+            }, 
+            "uri": "spotify:artist:2qc41rNTtdLK0tV3mJn2Pm", 
+            "href": "https://api.spotify.com/v1/artists/2qc41rNTtdLK0tV3mJn2Pm", 
+            "type": "artist", 
+            "id": "2qc41rNTtdLK0tV3mJn2Pm"
+          }
+        ], 
+        "duration_ms": 318333, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "0lngUitwRDbvZ5yVO76dVN"
+      }, 
+      {
+        "name": "To Be the One", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/54BC2Ptdi8PwnWAlKtdQH3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/77f33bb844f82d392493d92b7be7ed5217235b8f", 
+        "is_playable": true, 
+        "uri": "spotify:track:54BC2Ptdi8PwnWAlKtdQH3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/54BC2Ptdi8PwnWAlKtdQH3", 
+        "artists": [
+          {
+            "name": "Ryan Adams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+            }, 
+            "uri": "spotify:artist:2qc41rNTtdLK0tV3mJn2Pm", 
+            "href": "https://api.spotify.com/v1/artists/2qc41rNTtdLK0tV3mJn2Pm", 
+            "type": "artist", 
+            "id": "2qc41rNTtdLK0tV3mJn2Pm"
+          }
+        ], 
+        "duration_ms": 181333, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "54BC2Ptdi8PwnWAlKtdQH3"
+      }, 
+      {
+        "name": "Why Do They Leave?", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/69ssbOW3LgQnLE62Z4FNrO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6c3748af1b73a9b690420e43d1337d17820fecc0", 
+        "is_playable": true, 
+        "uri": "spotify:track:69ssbOW3LgQnLE62Z4FNrO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/69ssbOW3LgQnLE62Z4FNrO", 
+        "artists": [
+          {
+            "name": "Ryan Adams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+            }, 
+            "uri": "spotify:artist:2qc41rNTtdLK0tV3mJn2Pm", 
+            "href": "https://api.spotify.com/v1/artists/2qc41rNTtdLK0tV3mJn2Pm", 
+            "type": "artist", 
+            "id": "2qc41rNTtdLK0tV3mJn2Pm"
+          }
+        ], 
+        "duration_ms": 218666, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "69ssbOW3LgQnLE62Z4FNrO"
+      }, 
+      {
+        "name": "Shakedown on 9th Street", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7mkiPWtd5pGqEXGvDaXWJC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3debffaa89934555b64e3b5ba8feb3db64db5b69", 
+        "is_playable": true, 
+        "uri": "spotify:track:7mkiPWtd5pGqEXGvDaXWJC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7mkiPWtd5pGqEXGvDaXWJC", 
+        "artists": [
+          {
+            "name": "Ryan Adams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+            }, 
+            "uri": "spotify:artist:2qc41rNTtdLK0tV3mJn2Pm", 
+            "href": "https://api.spotify.com/v1/artists/2qc41rNTtdLK0tV3mJn2Pm", 
+            "type": "artist", 
+            "id": "2qc41rNTtdLK0tV3mJn2Pm"
+          }
+        ], 
+        "duration_ms": 173000, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "7mkiPWtd5pGqEXGvDaXWJC"
+      }, 
+      {
+        "name": "Don't Ask for the Water", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3S2EQVmeNx1TJGMHoWVhG8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/be82e2ebbe51e43ad0285b55bb14d02c68854c2d", 
+        "is_playable": true, 
+        "uri": "spotify:track:3S2EQVmeNx1TJGMHoWVhG8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3S2EQVmeNx1TJGMHoWVhG8", 
+        "artists": [
+          {
+            "name": "Ryan Adams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+            }, 
+            "uri": "spotify:artist:2qc41rNTtdLK0tV3mJn2Pm", 
+            "href": "https://api.spotify.com/v1/artists/2qc41rNTtdLK0tV3mJn2Pm", 
+            "type": "artist", 
+            "id": "2qc41rNTtdLK0tV3mJn2Pm"
+          }
+        ], 
+        "duration_ms": 176173, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "3S2EQVmeNx1TJGMHoWVhG8"
+      }, 
+      {
+        "name": "In My Time of Need", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4JIGrn55PH4BNnoofFKnYc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6d9ea3c297a02a0f67f074982fecdaadb6046d91", 
+        "is_playable": true, 
+        "uri": "spotify:track:4JIGrn55PH4BNnoofFKnYc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4JIGrn55PH4BNnoofFKnYc", 
+        "artists": [
+          {
+            "name": "Ryan Adams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+            }, 
+            "uri": "spotify:artist:2qc41rNTtdLK0tV3mJn2Pm", 
+            "href": "https://api.spotify.com/v1/artists/2qc41rNTtdLK0tV3mJn2Pm", 
+            "type": "artist", 
+            "id": "2qc41rNTtdLK0tV3mJn2Pm"
+          }
+        ], 
+        "duration_ms": 339493, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "4JIGrn55PH4BNnoofFKnYc"
+      }, 
+      {
+        "name": "Sweet Lil' Gal (23rd/1st)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/23NWxd7edhDwu5kYaOqLd1"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0b1ed27747d670d499bd2a680d178d132e7496f2", 
+        "is_playable": true, 
+        "uri": "spotify:track:23NWxd7edhDwu5kYaOqLd1", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/23NWxd7edhDwu5kYaOqLd1", 
+        "artists": [
+          {
+            "name": "Ryan Adams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+            }, 
+            "uri": "spotify:artist:2qc41rNTtdLK0tV3mJn2Pm", 
+            "href": "https://api.spotify.com/v1/artists/2qc41rNTtdLK0tV3mJn2Pm", 
+            "type": "artist", 
+            "id": "2qc41rNTtdLK0tV3mJn2Pm"
+          }
+        ], 
+        "duration_ms": 219000, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "23NWxd7edhDwu5kYaOqLd1"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/7hmZCaBzp6mVrelxW6Ckrn/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 15, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/7hmZCaBzp6mVrelxW6Ckrn", 
+  "copyrights": [
+    {
+      "text": "2013 Pax Am Records", 
+      "type": "C"
+    }, 
+    {
+      "text": "2013 Pax Am Records", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Ryan Adams", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+      }, 
+      "uri": "spotify:artist:2qc41rNTtdLK0tV3mJn2Pm", 
+      "href": "https://api.spotify.com/v1/artists/2qc41rNTtdLK0tV3mJn2Pm", 
+      "type": "artist", 
+      "id": "2qc41rNTtdLK0tV3mJn2Pm"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/64ace84bd2bd7339e24d7b7c49aec89404b5b7ea", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/43b3715cdd187a0911ab2e3770712f25e88066aa", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/ff5f812beab5b4e348995dfb57087ef20c32070f", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "851007003255"
+  }, 
+  "type": "album", 
+  "id": "7hmZCaBzp6mVrelxW6Ckrn", 
+  "name": "Heartbreaker"
+}

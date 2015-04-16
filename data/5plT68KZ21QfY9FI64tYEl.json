@@ -1,0 +1,375 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5plT68KZ21QfY9FI64tYEl"
+  }, 
+  "release_date": "1976-03-15", 
+  "popularity": 42, 
+  "genres": [], 
+  "uri": "spotify:album:5plT68KZ21QfY9FI64tYEl", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Detroit Rock City - 2012 Remix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2RiMkMbfMqt3bDLVHhut1n"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/aad7acd4d8df1faf4e4f916619e3a2b01ca5b699", 
+        "is_playable": true, 
+        "uri": "spotify:track:2RiMkMbfMqt3bDLVHhut1n", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2RiMkMbfMqt3bDLVHhut1n", 
+        "artists": [
+          {
+            "name": "KISS", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+            }, 
+            "uri": "spotify:artist:07XSN3sPlIlB2L2XNcTwJw", 
+            "href": "https://api.spotify.com/v1/artists/07XSN3sPlIlB2L2XNcTwJw", 
+            "type": "artist", 
+            "id": "07XSN3sPlIlB2L2XNcTwJw"
+          }
+        ], 
+        "duration_ms": 315693, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "2RiMkMbfMqt3bDLVHhut1n"
+      }, 
+      {
+        "name": "King Of The Night Time World - 2012 Remix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3e6U5H9rg6VjwG4IEFqkVq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/657d8b83b6a02f5b1b45776874f491551adc653f", 
+        "is_playable": true, 
+        "uri": "spotify:track:3e6U5H9rg6VjwG4IEFqkVq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3e6U5H9rg6VjwG4IEFqkVq", 
+        "artists": [
+          {
+            "name": "KISS", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+            }, 
+            "uri": "spotify:artist:07XSN3sPlIlB2L2XNcTwJw", 
+            "href": "https://api.spotify.com/v1/artists/07XSN3sPlIlB2L2XNcTwJw", 
+            "type": "artist", 
+            "id": "07XSN3sPlIlB2L2XNcTwJw"
+          }
+        ], 
+        "duration_ms": 199040, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "3e6U5H9rg6VjwG4IEFqkVq"
+      }, 
+      {
+        "name": "God Of Thunder - 2012 Remix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2BnZOjg1ABw57526IRq6Je"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/969c9e95a25eae0a87ea3edcea8af3170237efd0", 
+        "is_playable": true, 
+        "uri": "spotify:track:2BnZOjg1ABw57526IRq6Je", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2BnZOjg1ABw57526IRq6Je", 
+        "artists": [
+          {
+            "name": "KISS", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+            }, 
+            "uri": "spotify:artist:07XSN3sPlIlB2L2XNcTwJw", 
+            "href": "https://api.spotify.com/v1/artists/07XSN3sPlIlB2L2XNcTwJw", 
+            "type": "artist", 
+            "id": "07XSN3sPlIlB2L2XNcTwJw"
+          }
+        ], 
+        "duration_ms": 253480, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "2BnZOjg1ABw57526IRq6Je"
+      }, 
+      {
+        "name": "Great Expectations - 2012 Remix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3aB3uFRoG9bhdJUNpmJhF9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9fcf9a04b388e8fc66b981329234858b88598a92", 
+        "is_playable": true, 
+        "uri": "spotify:track:3aB3uFRoG9bhdJUNpmJhF9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3aB3uFRoG9bhdJUNpmJhF9", 
+        "artists": [
+          {
+            "name": "KISS", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+            }, 
+            "uri": "spotify:artist:07XSN3sPlIlB2L2XNcTwJw", 
+            "href": "https://api.spotify.com/v1/artists/07XSN3sPlIlB2L2XNcTwJw", 
+            "type": "artist", 
+            "id": "07XSN3sPlIlB2L2XNcTwJw"
+          }
+        ], 
+        "duration_ms": 262373, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "3aB3uFRoG9bhdJUNpmJhF9"
+      }, 
+      {
+        "name": "Flaming Youth - 2012 Remix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6tyAWdzGB3VVqNuvzYSgwl"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ffa9e12e822a9861292c1d28c77e5f6aa65cf9a2", 
+        "is_playable": true, 
+        "uri": "spotify:track:6tyAWdzGB3VVqNuvzYSgwl", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6tyAWdzGB3VVqNuvzYSgwl", 
+        "artists": [
+          {
+            "name": "KISS", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+            }, 
+            "uri": "spotify:artist:07XSN3sPlIlB2L2XNcTwJw", 
+            "href": "https://api.spotify.com/v1/artists/07XSN3sPlIlB2L2XNcTwJw", 
+            "type": "artist", 
+            "id": "07XSN3sPlIlB2L2XNcTwJw"
+          }
+        ], 
+        "duration_ms": 177653, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "6tyAWdzGB3VVqNuvzYSgwl"
+      }, 
+      {
+        "name": "Sweet Pain - 2012 Remix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Vysrp5VRmjAIwvV50Pnud"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4635c2bd42640712bd4942dda0c631d447b020d8", 
+        "is_playable": true, 
+        "uri": "spotify:track:4Vysrp5VRmjAIwvV50Pnud", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4Vysrp5VRmjAIwvV50Pnud", 
+        "artists": [
+          {
+            "name": "KISS", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+            }, 
+            "uri": "spotify:artist:07XSN3sPlIlB2L2XNcTwJw", 
+            "href": "https://api.spotify.com/v1/artists/07XSN3sPlIlB2L2XNcTwJw", 
+            "type": "artist", 
+            "id": "07XSN3sPlIlB2L2XNcTwJw"
+          }
+        ], 
+        "duration_ms": 199440, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "4Vysrp5VRmjAIwvV50Pnud"
+      }, 
+      {
+        "name": "Shout It Out Loud - 2012 Remix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/53UwiXe7zIyZuziP1K5Rms"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4f9b7dd36b6214740e3848fc7284fbbf0db85f8e", 
+        "is_playable": true, 
+        "uri": "spotify:track:53UwiXe7zIyZuziP1K5Rms", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/53UwiXe7zIyZuziP1K5Rms", 
+        "artists": [
+          {
+            "name": "KISS", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+            }, 
+            "uri": "spotify:artist:07XSN3sPlIlB2L2XNcTwJw", 
+            "href": "https://api.spotify.com/v1/artists/07XSN3sPlIlB2L2XNcTwJw", 
+            "type": "artist", 
+            "id": "07XSN3sPlIlB2L2XNcTwJw"
+          }
+        ], 
+        "duration_ms": 168026, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "53UwiXe7zIyZuziP1K5Rms"
+      }, 
+      {
+        "name": "Beth - 2012 Remix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0p732AWsjjIgHb1cD8KMjm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/40d083417fc3fcb1f52d7bfbaaffa6424836823e", 
+        "is_playable": true, 
+        "uri": "spotify:track:0p732AWsjjIgHb1cD8KMjm", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0p732AWsjjIgHb1cD8KMjm", 
+        "artists": [
+          {
+            "name": "KISS", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+            }, 
+            "uri": "spotify:artist:07XSN3sPlIlB2L2XNcTwJw", 
+            "href": "https://api.spotify.com/v1/artists/07XSN3sPlIlB2L2XNcTwJw", 
+            "type": "artist", 
+            "id": "07XSN3sPlIlB2L2XNcTwJw"
+          }
+        ], 
+        "duration_ms": 166346, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "0p732AWsjjIgHb1cD8KMjm"
+      }, 
+      {
+        "name": "Do You Love Me - 2012 Remix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Lefddyr5OR48vm2bUPe6J"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7ba7acf4fcf926f78d7f9a893ff3e30d27d4ffb4", 
+        "is_playable": true, 
+        "uri": "spotify:track:5Lefddyr5OR48vm2bUPe6J", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5Lefddyr5OR48vm2bUPe6J", 
+        "artists": [
+          {
+            "name": "KISS", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+            }, 
+            "uri": "spotify:artist:07XSN3sPlIlB2L2XNcTwJw", 
+            "href": "https://api.spotify.com/v1/artists/07XSN3sPlIlB2L2XNcTwJw", 
+            "type": "artist", 
+            "id": "07XSN3sPlIlB2L2XNcTwJw"
+          }
+        ], 
+        "duration_ms": 212306, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "5Lefddyr5OR48vm2bUPe6J"
+      }, 
+      {
+        "name": "Rock And Roll Party - 2012 Remix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1jHLdnjjyL7K8dr88Xepjp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/df7296e231da3cf41a6325a8a24d5bdf9ca9fbbc", 
+        "is_playable": true, 
+        "uri": "spotify:track:1jHLdnjjyL7K8dr88Xepjp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1jHLdnjjyL7K8dr88Xepjp", 
+        "artists": [
+          {
+            "name": "KISS", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+            }, 
+            "uri": "spotify:artist:07XSN3sPlIlB2L2XNcTwJw", 
+            "href": "https://api.spotify.com/v1/artists/07XSN3sPlIlB2L2XNcTwJw", 
+            "type": "artist", 
+            "id": "07XSN3sPlIlB2L2XNcTwJw"
+          }
+        ], 
+        "duration_ms": 84413, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "1jHLdnjjyL7K8dr88Xepjp"
+      }, 
+      {
+        "name": "Sweet Pain - Original Guitar Solo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4MsP0YJAagfx50GW4TmMrH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4d2b08d0423cc9587d779023aeea5bae3c9df575", 
+        "is_playable": true, 
+        "uri": "spotify:track:4MsP0YJAagfx50GW4TmMrH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4MsP0YJAagfx50GW4TmMrH", 
+        "artists": [
+          {
+            "name": "KISS", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+            }, 
+            "uri": "spotify:artist:07XSN3sPlIlB2L2XNcTwJw", 
+            "href": "https://api.spotify.com/v1/artists/07XSN3sPlIlB2L2XNcTwJw", 
+            "type": "artist", 
+            "id": "07XSN3sPlIlB2L2XNcTwJw"
+          }
+        ], 
+        "duration_ms": 198866, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "4MsP0YJAagfx50GW4TmMrH"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/5plT68KZ21QfY9FI64tYEl/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 11, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/5plT68KZ21QfY9FI64tYEl", 
+  "copyrights": [
+    {
+      "text": "(C) 2012 The Island Def Jam Music Group", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 2012 The Island Def Jam Music Group", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "KISS", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+      }, 
+      "uri": "spotify:artist:07XSN3sPlIlB2L2XNcTwJw", 
+      "href": "https://api.spotify.com/v1/artists/07XSN3sPlIlB2L2XNcTwJw", 
+      "type": "artist", 
+      "id": "07XSN3sPlIlB2L2XNcTwJw"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/7fe944362bdd647c3f3092da0646d010e6dd5d79", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/faad2fe5a9e93383fe51a6025780b719013c9a8f", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/3574e3577d35ec1d64a5c6ad1879d57cd5c1750d", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00602527946542"
+  }, 
+  "type": "album", 
+  "id": "5plT68KZ21QfY9FI64tYEl", 
+  "name": "Destroyer (Resurrected)"
+}

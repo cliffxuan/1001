@@ -1,0 +1,963 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5rMkR5qNON8Eqj94hXK3vQ"
+  }, 
+  "release_date": "1996", 
+  "popularity": 30, 
+  "genres": [], 
+  "uri": "spotify:album:5rMkR5qNON8Eqj94hXK3vQ", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Skunk", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7qctwdcRHcMF0DpIH5CqDV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f15575b7f1c2ea87cb6a2037d07654cfd50d68f5", 
+        "is_playable": true, 
+        "uri": "spotify:track:7qctwdcRHcMF0DpIH5CqDV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7qctwdcRHcMF0DpIH5CqDV", 
+        "artists": [
+          {
+            "name": "The Jon Spencer Blues Explosion", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+            }, 
+            "uri": "spotify:artist:2NOhotupwYbKRNJF7LMDPG", 
+            "href": "https://api.spotify.com/v1/artists/2NOhotupwYbKRNJF7LMDPG", 
+            "type": "artist", 
+            "id": "2NOhotupwYbKRNJF7LMDPG"
+          }
+        ], 
+        "duration_ms": 159480, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "7qctwdcRHcMF0DpIH5CqDV"
+      }, 
+      {
+        "name": "Identify", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1FuOi1tTERc30doaPanPJk"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ab904df679326e33a26e5ba61842ba1259f01499", 
+        "is_playable": true, 
+        "uri": "spotify:track:1FuOi1tTERc30doaPanPJk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1FuOi1tTERc30doaPanPJk", 
+        "artists": [
+          {
+            "name": "The Jon Spencer Blues Explosion", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+            }, 
+            "uri": "spotify:artist:2NOhotupwYbKRNJF7LMDPG", 
+            "href": "https://api.spotify.com/v1/artists/2NOhotupwYbKRNJF7LMDPG", 
+            "type": "artist", 
+            "id": "2NOhotupwYbKRNJF7LMDPG"
+          }
+        ], 
+        "duration_ms": 68106, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "1FuOi1tTERc30doaPanPJk"
+      }, 
+      {
+        "name": "Wail", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0YUoakGfRKsi6baNMSuVOO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/abef17ff4184ae86dd4f7e48d4d7ee64411b1afe", 
+        "is_playable": true, 
+        "uri": "spotify:track:0YUoakGfRKsi6baNMSuVOO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0YUoakGfRKsi6baNMSuVOO", 
+        "artists": [
+          {
+            "name": "The Jon Spencer Blues Explosion", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+            }, 
+            "uri": "spotify:artist:2NOhotupwYbKRNJF7LMDPG", 
+            "href": "https://api.spotify.com/v1/artists/2NOhotupwYbKRNJF7LMDPG", 
+            "type": "artist", 
+            "id": "2NOhotupwYbKRNJF7LMDPG"
+          }
+        ], 
+        "duration_ms": 189026, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "0YUoakGfRKsi6baNMSuVOO"
+      }, 
+      {
+        "name": "Fuck Shit Up", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/17iBJouEk93mGDw0t05Dxv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ccacee47dfb484ebc98110ac8f1163c63a9cb729", 
+        "is_playable": true, 
+        "uri": "spotify:track:17iBJouEk93mGDw0t05Dxv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/17iBJouEk93mGDw0t05Dxv", 
+        "artists": [
+          {
+            "name": "The Jon Spencer Blues Explosion", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+            }, 
+            "uri": "spotify:artist:2NOhotupwYbKRNJF7LMDPG", 
+            "href": "https://api.spotify.com/v1/artists/2NOhotupwYbKRNJF7LMDPG", 
+            "type": "artist", 
+            "id": "2NOhotupwYbKRNJF7LMDPG"
+          }
+        ], 
+        "duration_ms": 189000, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "17iBJouEk93mGDw0t05Dxv"
+      }, 
+      {
+        "name": "2Kindsa Love", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/50JOPRe1j3M4VeWIMiVmBo"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bf24603f0455fa5235b203e1468f724486c00b6e", 
+        "is_playable": true, 
+        "uri": "spotify:track:50JOPRe1j3M4VeWIMiVmBo", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/50JOPRe1j3M4VeWIMiVmBo", 
+        "artists": [
+          {
+            "name": "The Jon Spencer Blues Explosion", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+            }, 
+            "uri": "spotify:artist:2NOhotupwYbKRNJF7LMDPG", 
+            "href": "https://api.spotify.com/v1/artists/2NOhotupwYbKRNJF7LMDPG", 
+            "type": "artist", 
+            "id": "2NOhotupwYbKRNJF7LMDPG"
+          }
+        ], 
+        "duration_ms": 182600, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "50JOPRe1j3M4VeWIMiVmBo"
+      }, 
+      {
+        "name": "Love All Of Me", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5E4cvtjDClAIP4FCZkZyJ7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f0995d6e6deb83494ed99b9368e7dce348b88aea", 
+        "is_playable": true, 
+        "uri": "spotify:track:5E4cvtjDClAIP4FCZkZyJ7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5E4cvtjDClAIP4FCZkZyJ7", 
+        "artists": [
+          {
+            "name": "The Jon Spencer Blues Explosion", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+            }, 
+            "uri": "spotify:artist:2NOhotupwYbKRNJF7LMDPG", 
+            "href": "https://api.spotify.com/v1/artists/2NOhotupwYbKRNJF7LMDPG", 
+            "type": "artist", 
+            "id": "2NOhotupwYbKRNJF7LMDPG"
+          }
+        ], 
+        "duration_ms": 118493, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "5E4cvtjDClAIP4FCZkZyJ7"
+      }, 
+      {
+        "name": "Chicken Dog", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2wyyzBuEd6EJSygeSheTAd"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/93470b05b1362d312224e2e7d17d8b6961c04da8", 
+        "is_playable": true, 
+        "uri": "spotify:track:2wyyzBuEd6EJSygeSheTAd", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2wyyzBuEd6EJSygeSheTAd", 
+        "artists": [
+          {
+            "name": "The Jon Spencer Blues Explosion", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+            }, 
+            "uri": "spotify:artist:2NOhotupwYbKRNJF7LMDPG", 
+            "href": "https://api.spotify.com/v1/artists/2NOhotupwYbKRNJF7LMDPG", 
+            "type": "artist", 
+            "id": "2NOhotupwYbKRNJF7LMDPG"
+          }
+        ], 
+        "duration_ms": 181293, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "2wyyzBuEd6EJSygeSheTAd"
+      }, 
+      {
+        "name": "Rocketship", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0IWCjWcAW97Szjz1ek2lJU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3fb1b0f8c17749cd7cd0dcb232a262d7f1e38594", 
+        "is_playable": true, 
+        "uri": "spotify:track:0IWCjWcAW97Szjz1ek2lJU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0IWCjWcAW97Szjz1ek2lJU", 
+        "artists": [
+          {
+            "name": "The Jon Spencer Blues Explosion", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+            }, 
+            "uri": "spotify:artist:2NOhotupwYbKRNJF7LMDPG", 
+            "href": "https://api.spotify.com/v1/artists/2NOhotupwYbKRNJF7LMDPG", 
+            "type": "artist", 
+            "id": "2NOhotupwYbKRNJF7LMDPG"
+          }
+        ], 
+        "duration_ms": 194826, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "0IWCjWcAW97Szjz1ek2lJU"
+      }, 
+      {
+        "name": "Dynamite Lover", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1tFdqX0VzWlJ0sxVVmvSKC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e62dfbf1141134f8da3cfb59043c6b705b16aad7", 
+        "is_playable": true, 
+        "uri": "spotify:track:1tFdqX0VzWlJ0sxVVmvSKC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1tFdqX0VzWlJ0sxVVmvSKC", 
+        "artists": [
+          {
+            "name": "The Jon Spencer Blues Explosion", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+            }, 
+            "uri": "spotify:artist:2NOhotupwYbKRNJF7LMDPG", 
+            "href": "https://api.spotify.com/v1/artists/2NOhotupwYbKRNJF7LMDPG", 
+            "type": "artist", 
+            "id": "2NOhotupwYbKRNJF7LMDPG"
+          }
+        ], 
+        "duration_ms": 177453, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "1tFdqX0VzWlJ0sxVVmvSKC"
+      }, 
+      {
+        "name": "Hot Shot", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5myBGHPUF4K9ommT1USOdb"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0a7f92b150c1222da243c9edc075083bef1d7f17", 
+        "is_playable": true, 
+        "uri": "spotify:track:5myBGHPUF4K9ommT1USOdb", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5myBGHPUF4K9ommT1USOdb", 
+        "artists": [
+          {
+            "name": "The Jon Spencer Blues Explosion", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+            }, 
+            "uri": "spotify:artist:2NOhotupwYbKRNJF7LMDPG", 
+            "href": "https://api.spotify.com/v1/artists/2NOhotupwYbKRNJF7LMDPG", 
+            "type": "artist", 
+            "id": "2NOhotupwYbKRNJF7LMDPG"
+          }
+        ], 
+        "duration_ms": 129253, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "5myBGHPUF4K9ommT1USOdb"
+      }, 
+      {
+        "name": "Can't Stop", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1fU9TrTXpJVkFQU2kAn5fp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/13492725394117fd86a9a7eab65c1d1f5f42cef0", 
+        "is_playable": true, 
+        "uri": "spotify:track:1fU9TrTXpJVkFQU2kAn5fp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1fU9TrTXpJVkFQU2kAn5fp", 
+        "artists": [
+          {
+            "name": "The Jon Spencer Blues Explosion", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+            }, 
+            "uri": "spotify:artist:2NOhotupwYbKRNJF7LMDPG", 
+            "href": "https://api.spotify.com/v1/artists/2NOhotupwYbKRNJF7LMDPG", 
+            "type": "artist", 
+            "id": "2NOhotupwYbKRNJF7LMDPG"
+          }
+        ], 
+        "duration_ms": 173320, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "1fU9TrTXpJVkFQU2kAn5fp"
+      }, 
+      {
+        "name": "Firefly Child", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/362ww8DZAyld1toySgen8L"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a0fde2ec7579cdd582e59ea12adc715455e11b4a", 
+        "is_playable": true, 
+        "uri": "spotify:track:362ww8DZAyld1toySgen8L", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/362ww8DZAyld1toySgen8L", 
+        "artists": [
+          {
+            "name": "The Jon Spencer Blues Explosion", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+            }, 
+            "uri": "spotify:artist:2NOhotupwYbKRNJF7LMDPG", 
+            "href": "https://api.spotify.com/v1/artists/2NOhotupwYbKRNJF7LMDPG", 
+            "type": "artist", 
+            "id": "2NOhotupwYbKRNJF7LMDPG"
+          }
+        ], 
+        "duration_ms": 205040, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "362ww8DZAyld1toySgen8L"
+      }, 
+      {
+        "name": "Eyeballin", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2aQMa3wg7XLfkgBY8Alccj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3d1f20036aa331ab898727f8582bf297cb65c3c6", 
+        "is_playable": true, 
+        "uri": "spotify:track:2aQMa3wg7XLfkgBY8Alccj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2aQMa3wg7XLfkgBY8Alccj", 
+        "artists": [
+          {
+            "name": "The Jon Spencer Blues Explosion", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+            }, 
+            "uri": "spotify:artist:2NOhotupwYbKRNJF7LMDPG", 
+            "href": "https://api.spotify.com/v1/artists/2NOhotupwYbKRNJF7LMDPG", 
+            "type": "artist", 
+            "id": "2NOhotupwYbKRNJF7LMDPG"
+          }
+        ], 
+        "duration_ms": 198760, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "2aQMa3wg7XLfkgBY8Alccj"
+      }, 
+      {
+        "name": "R.L. Got Soul", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0mrEIxa9V6WvVkqxHROaPj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2db8123286bdfc35e95d4991e80763de139f06e9", 
+        "is_playable": true, 
+        "uri": "spotify:track:0mrEIxa9V6WvVkqxHROaPj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0mrEIxa9V6WvVkqxHROaPj", 
+        "artists": [
+          {
+            "name": "The Jon Spencer Blues Explosion", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+            }, 
+            "uri": "spotify:artist:2NOhotupwYbKRNJF7LMDPG", 
+            "href": "https://api.spotify.com/v1/artists/2NOhotupwYbKRNJF7LMDPG", 
+            "type": "artist", 
+            "id": "2NOhotupwYbKRNJF7LMDPG"
+          }
+        ], 
+        "duration_ms": 243640, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "0mrEIxa9V6WvVkqxHROaPj"
+      }, 
+      {
+        "name": "Get Over Here", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4k0uixngLEmVnZKTy4SQbE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/40382b3a681009921c2dcd7f7bbfc90307150c36", 
+        "is_playable": true, 
+        "uri": "spotify:track:4k0uixngLEmVnZKTy4SQbE", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4k0uixngLEmVnZKTy4SQbE", 
+        "artists": [
+          {
+            "name": "The Jon Spencer Blues Explosion", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+            }, 
+            "uri": "spotify:artist:2NOhotupwYbKRNJF7LMDPG", 
+            "href": "https://api.spotify.com/v1/artists/2NOhotupwYbKRNJF7LMDPG", 
+            "type": "artist", 
+            "id": "2NOhotupwYbKRNJF7LMDPG"
+          }
+        ], 
+        "duration_ms": 125786, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "4k0uixngLEmVnZKTy4SQbE"
+      }, 
+      {
+        "name": "Sticky", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2y7WMIEsdKNbV7Er1Vo4Eb"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ee469a0852c2f5e58301c5d4fb736511ea2ab991", 
+        "is_playable": true, 
+        "uri": "spotify:track:2y7WMIEsdKNbV7Er1Vo4Eb", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2y7WMIEsdKNbV7Er1Vo4Eb", 
+        "artists": [
+          {
+            "name": "The Jon Spencer Blues Explosion", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+            }, 
+            "uri": "spotify:artist:2NOhotupwYbKRNJF7LMDPG", 
+            "href": "https://api.spotify.com/v1/artists/2NOhotupwYbKRNJF7LMDPG", 
+            "type": "artist", 
+            "id": "2NOhotupwYbKRNJF7LMDPG"
+          }
+        ], 
+        "duration_ms": 173546, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "2y7WMIEsdKNbV7Er1Vo4Eb"
+      }, 
+      {
+        "name": "Cool Vee", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4j4YOIyAgvV4QBmzDOVWvb"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/498a17e586b5658c29effc3ba78dfe57942437fd", 
+        "is_playable": true, 
+        "uri": "spotify:track:4j4YOIyAgvV4QBmzDOVWvb", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4j4YOIyAgvV4QBmzDOVWvb", 
+        "artists": [
+          {
+            "name": "The Jon Spencer Blues Explosion", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+            }, 
+            "uri": "spotify:artist:2NOhotupwYbKRNJF7LMDPG", 
+            "href": "https://api.spotify.com/v1/artists/2NOhotupwYbKRNJF7LMDPG", 
+            "type": "artist", 
+            "id": "2NOhotupwYbKRNJF7LMDPG"
+          }
+        ], 
+        "duration_ms": 250933, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "4j4YOIyAgvV4QBmzDOVWvb"
+      }, 
+      {
+        "name": "Fish Sauce", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1iaVrJ6ENNIGDNY5NTxvaA"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2cf77dd6fedbba9cd6ddfb8565a0ebd4a0591ac5", 
+        "is_playable": true, 
+        "uri": "spotify:track:1iaVrJ6ENNIGDNY5NTxvaA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1iaVrJ6ENNIGDNY5NTxvaA", 
+        "artists": [
+          {
+            "name": "The Jon Spencer Blues Explosion", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+            }, 
+            "uri": "spotify:artist:2NOhotupwYbKRNJF7LMDPG", 
+            "href": "https://api.spotify.com/v1/artists/2NOhotupwYbKRNJF7LMDPG", 
+            "type": "artist", 
+            "id": "2NOhotupwYbKRNJF7LMDPG"
+          }
+        ], 
+        "duration_ms": 208373, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "1iaVrJ6ENNIGDNY5NTxvaA"
+      }, 
+      {
+        "name": "Yellow Eyes", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5HRSXqOcYitwDr2RDKIx7g"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/87b50fd0596bab38c9c0dcf4496a42c27d1b5bd7", 
+        "is_playable": true, 
+        "uri": "spotify:track:5HRSXqOcYitwDr2RDKIx7g", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5HRSXqOcYitwDr2RDKIx7g", 
+        "artists": [
+          {
+            "name": "The Jon Spencer Blues Explosion", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+            }, 
+            "uri": "spotify:artist:2NOhotupwYbKRNJF7LMDPG", 
+            "href": "https://api.spotify.com/v1/artists/2NOhotupwYbKRNJF7LMDPG", 
+            "type": "artist", 
+            "id": "2NOhotupwYbKRNJF7LMDPG"
+          }
+        ], 
+        "duration_ms": 237160, 
+        "track_number": 19, 
+        "type": "track", 
+        "id": "5HRSXqOcYitwDr2RDKIx7g"
+      }, 
+      {
+        "name": "Turn Up Greene", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0U9U56jm9lhReaVVyjRmwn"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4cc345f7f54755d3c8b5d6c798377813226470e6", 
+        "is_playable": true, 
+        "uri": "spotify:track:0U9U56jm9lhReaVVyjRmwn", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0U9U56jm9lhReaVVyjRmwn", 
+        "artists": [
+          {
+            "name": "The Jon Spencer Blues Explosion", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+            }, 
+            "uri": "spotify:artist:2NOhotupwYbKRNJF7LMDPG", 
+            "href": "https://api.spotify.com/v1/artists/2NOhotupwYbKRNJF7LMDPG", 
+            "type": "artist", 
+            "id": "2NOhotupwYbKRNJF7LMDPG"
+          }
+        ], 
+        "duration_ms": 172413, 
+        "track_number": 20, 
+        "type": "track", 
+        "id": "0U9U56jm9lhReaVVyjRmwn"
+      }, 
+      {
+        "name": "Buscemi", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1OznyYRDezhggDvxqOOMMI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/85d89ec0ac78b16da5304339e2452d4907639987", 
+        "is_playable": true, 
+        "uri": "spotify:track:1OznyYRDezhggDvxqOOMMI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1OznyYRDezhggDvxqOOMMI", 
+        "artists": [
+          {
+            "name": "The Jon Spencer Blues Explosion", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+            }, 
+            "uri": "spotify:artist:2NOhotupwYbKRNJF7LMDPG", 
+            "href": "https://api.spotify.com/v1/artists/2NOhotupwYbKRNJF7LMDPG", 
+            "type": "artist", 
+            "id": "2NOhotupwYbKRNJF7LMDPG"
+          }
+        ], 
+        "duration_ms": 102400, 
+        "track_number": 21, 
+        "type": "track", 
+        "id": "1OznyYRDezhggDvxqOOMMI"
+      }, 
+      {
+        "name": "Get With It", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6HvR42jrQHQWXIHfURs6ab"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/573f9c2b843b6082727eb0188b20102e333199cd", 
+        "is_playable": true, 
+        "uri": "spotify:track:6HvR42jrQHQWXIHfURs6ab", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6HvR42jrQHQWXIHfURs6ab", 
+        "artists": [
+          {
+            "name": "The Jon Spencer Blues Explosion", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+            }, 
+            "uri": "spotify:artist:2NOhotupwYbKRNJF7LMDPG", 
+            "href": "https://api.spotify.com/v1/artists/2NOhotupwYbKRNJF7LMDPG", 
+            "type": "artist", 
+            "id": "2NOhotupwYbKRNJF7LMDPG"
+          }
+        ], 
+        "duration_ms": 94640, 
+        "track_number": 22, 
+        "type": "track", 
+        "id": "6HvR42jrQHQWXIHfURs6ab"
+      }, 
+      {
+        "name": "Let's Smerf", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0TQJJ3oBellK3KtKOMMQ5b"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2977ce9421aa05745aeb8d9d5e432df1ad2a2e06", 
+        "is_playable": true, 
+        "uri": "spotify:track:0TQJJ3oBellK3KtKOMMQ5b", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0TQJJ3oBellK3KtKOMMQ5b", 
+        "artists": [
+          {
+            "name": "The Jon Spencer Blues Explosion", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+            }, 
+            "uri": "spotify:artist:2NOhotupwYbKRNJF7LMDPG", 
+            "href": "https://api.spotify.com/v1/artists/2NOhotupwYbKRNJF7LMDPG", 
+            "type": "artist", 
+            "id": "2NOhotupwYbKRNJF7LMDPG"
+          }
+        ], 
+        "duration_ms": 132106, 
+        "track_number": 23, 
+        "type": "track", 
+        "id": "0TQJJ3oBellK3KtKOMMQ5b"
+      }, 
+      {
+        "name": "Down Low", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2JBqee1qe3uABRnjlqXtHC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f0d0d8ba63f95b73415a7a5996c1bcdf17cc6d70", 
+        "is_playable": true, 
+        "uri": "spotify:track:2JBqee1qe3uABRnjlqXtHC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2JBqee1qe3uABRnjlqXtHC", 
+        "artists": [
+          {
+            "name": "The Jon Spencer Blues Explosion", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+            }, 
+            "uri": "spotify:artist:2NOhotupwYbKRNJF7LMDPG", 
+            "href": "https://api.spotify.com/v1/artists/2NOhotupwYbKRNJF7LMDPG", 
+            "type": "artist", 
+            "id": "2NOhotupwYbKRNJF7LMDPG"
+          }
+        ], 
+        "duration_ms": 122120, 
+        "track_number": 24, 
+        "type": "track", 
+        "id": "2JBqee1qe3uABRnjlqXtHC"
+      }, 
+      {
+        "name": "Chocolate Joe", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7ChmnEVQ8gGJbsrV19yJAF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/939f16d0e915e3ef31ca5d976ea0531f9bc5e790", 
+        "is_playable": true, 
+        "uri": "spotify:track:7ChmnEVQ8gGJbsrV19yJAF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7ChmnEVQ8gGJbsrV19yJAF", 
+        "artists": [
+          {
+            "name": "The Jon Spencer Blues Explosion", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+            }, 
+            "uri": "spotify:artist:2NOhotupwYbKRNJF7LMDPG", 
+            "href": "https://api.spotify.com/v1/artists/2NOhotupwYbKRNJF7LMDPG", 
+            "type": "artist", 
+            "id": "2NOhotupwYbKRNJF7LMDPG"
+          }
+        ], 
+        "duration_ms": 152453, 
+        "track_number": 25, 
+        "type": "track", 
+        "id": "7ChmnEVQ8gGJbsrV19yJAF"
+      }, 
+      {
+        "name": "Judah Love Theme", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/386aOrB767FKu6cuhVfDDN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/600ebf440b61f1ed4686474dc60a74c79b5cc65d", 
+        "is_playable": true, 
+        "uri": "spotify:track:386aOrB767FKu6cuhVfDDN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/386aOrB767FKu6cuhVfDDN", 
+        "artists": [
+          {
+            "name": "The Jon Spencer Blues Explosion", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+            }, 
+            "uri": "spotify:artist:2NOhotupwYbKRNJF7LMDPG", 
+            "href": "https://api.spotify.com/v1/artists/2NOhotupwYbKRNJF7LMDPG", 
+            "type": "artist", 
+            "id": "2NOhotupwYbKRNJF7LMDPG"
+          }
+        ], 
+        "duration_ms": 86826, 
+        "track_number": 26, 
+        "type": "track", 
+        "id": "386aOrB767FKu6cuhVfDDN"
+      }, 
+      {
+        "name": "Dig My Shit", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4I4MqL0b7edYm1Y9VuQJbL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3f1a31d1343411286d41e08c85f884c67148bb0a", 
+        "is_playable": true, 
+        "uri": "spotify:track:4I4MqL0b7edYm1Y9VuQJbL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4I4MqL0b7edYm1Y9VuQJbL", 
+        "artists": [
+          {
+            "name": "The Jon Spencer Blues Explosion", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+            }, 
+            "uri": "spotify:artist:2NOhotupwYbKRNJF7LMDPG", 
+            "href": "https://api.spotify.com/v1/artists/2NOhotupwYbKRNJF7LMDPG", 
+            "type": "artist", 
+            "id": "2NOhotupwYbKRNJF7LMDPG"
+          }
+        ], 
+        "duration_ms": 98200, 
+        "track_number": 27, 
+        "type": "track", 
+        "id": "4I4MqL0b7edYm1Y9VuQJbL"
+      }, 
+      {
+        "name": "Roosevelt Hotel Blues (feat. Beck & Money Mark)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3T94fgAchQicLIguNYpTxj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b72dfec9d1fcd0eb797641dd06d854978110de3b", 
+        "is_playable": true, 
+        "uri": "spotify:track:3T94fgAchQicLIguNYpTxj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3T94fgAchQicLIguNYpTxj", 
+        "artists": [
+          {
+            "name": "The Jon Spencer Blues Explosion", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+            }, 
+            "uri": "spotify:artist:2NOhotupwYbKRNJF7LMDPG", 
+            "href": "https://api.spotify.com/v1/artists/2NOhotupwYbKRNJF7LMDPG", 
+            "type": "artist", 
+            "id": "2NOhotupwYbKRNJF7LMDPG"
+          }
+        ], 
+        "duration_ms": 203626, 
+        "track_number": 28, 
+        "type": "track", 
+        "id": "3T94fgAchQicLIguNYpTxj"
+      }, 
+      {
+        "name": "Radio Ad: Announcer #1", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/05KkW38fD8L3GgxUBC9PNz"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/80091d5fba490f48bf5b756ef02aaacfee909be5", 
+        "is_playable": true, 
+        "uri": "spotify:track:05KkW38fD8L3GgxUBC9PNz", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/05KkW38fD8L3GgxUBC9PNz", 
+        "artists": [
+          {
+            "name": "The Jon Spencer Blues Explosion", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+            }, 
+            "uri": "spotify:artist:2NOhotupwYbKRNJF7LMDPG", 
+            "href": "https://api.spotify.com/v1/artists/2NOhotupwYbKRNJF7LMDPG", 
+            "type": "artist", 
+            "id": "2NOhotupwYbKRNJF7LMDPG"
+          }
+        ], 
+        "duration_ms": 69720, 
+        "track_number": 29, 
+        "type": "track", 
+        "id": "05KkW38fD8L3GgxUBC9PNz"
+      }, 
+      {
+        "name": "Radio Ad: Ernie Eddie", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5gIWS8qvdwrt3Z6ti8W2x5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e97364cba79a6686fa2441c245392095c40c93c7", 
+        "is_playable": true, 
+        "uri": "spotify:track:5gIWS8qvdwrt3Z6ti8W2x5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5gIWS8qvdwrt3Z6ti8W2x5", 
+        "artists": [
+          {
+            "name": "The Jon Spencer Blues Explosion", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+            }, 
+            "uri": "spotify:artist:2NOhotupwYbKRNJF7LMDPG", 
+            "href": "https://api.spotify.com/v1/artists/2NOhotupwYbKRNJF7LMDPG", 
+            "type": "artist", 
+            "id": "2NOhotupwYbKRNJF7LMDPG"
+          }
+        ], 
+        "duration_ms": 31613, 
+        "track_number": 30, 
+        "type": "track", 
+        "id": "5gIWS8qvdwrt3Z6ti8W2x5"
+      }, 
+      {
+        "name": "Radio Ad: Announcer #2", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Qp6BV36mHqLMfT9xEpD7k"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e0ea289cbb59c3e31c186987e7bad02e83217913", 
+        "is_playable": true, 
+        "uri": "spotify:track:3Qp6BV36mHqLMfT9xEpD7k", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3Qp6BV36mHqLMfT9xEpD7k", 
+        "artists": [
+          {
+            "name": "The Jon Spencer Blues Explosion", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+            }, 
+            "uri": "spotify:artist:2NOhotupwYbKRNJF7LMDPG", 
+            "href": "https://api.spotify.com/v1/artists/2NOhotupwYbKRNJF7LMDPG", 
+            "type": "artist", 
+            "id": "2NOhotupwYbKRNJF7LMDPG"
+          }
+        ], 
+        "duration_ms": 50213, 
+        "track_number": 31, 
+        "type": "track", 
+        "id": "3Qp6BV36mHqLMfT9xEpD7k"
+      }, 
+      {
+        "name": "Radio Ad: Street Sez-Me", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5BsF1eNB1zzCjSsdBBFfHU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f3a0c8406ec0ab75c860c800830905bf89ab2510", 
+        "is_playable": true, 
+        "uri": "spotify:track:5BsF1eNB1zzCjSsdBBFfHU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5BsF1eNB1zzCjSsdBBFfHU", 
+        "artists": [
+          {
+            "name": "The Jon Spencer Blues Explosion", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+            }, 
+            "uri": "spotify:artist:2NOhotupwYbKRNJF7LMDPG", 
+            "href": "https://api.spotify.com/v1/artists/2NOhotupwYbKRNJF7LMDPG", 
+            "type": "artist", 
+            "id": "2NOhotupwYbKRNJF7LMDPG"
+          }
+        ], 
+        "duration_ms": 40386, 
+        "track_number": 32, 
+        "type": "track", 
+        "id": "5BsF1eNB1zzCjSsdBBFfHU"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/5rMkR5qNON8Eqj94hXK3vQ/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 32, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/5rMkR5qNON8Eqj94hXK3vQ", 
+  "copyrights": [
+    {
+      "text": "The Jon Spencer Blues Explosion", 
+      "type": "C"
+    }, 
+    {
+      "text": "The Jon Spencer Blues Explosion", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "The Jon Spencer Blues Explosion", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+      }, 
+      "uri": "spotify:artist:2NOhotupwYbKRNJF7LMDPG", 
+      "href": "https://api.spotify.com/v1/artists/2NOhotupwYbKRNJF7LMDPG", 
+      "type": "artist", 
+      "id": "2NOhotupwYbKRNJF7LMDPG"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/65cf69013c1c07f4c00c7a2fc7a64bf48d59ce9b", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/5ea14e771d2e1e7db8282b610a83c1e66aa5de06", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/f2d363ec2c5bd9fbe0447b1577a39168a77df4fb", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "5060156658321"
+  }, 
+  "type": "album", 
+  "id": "5rMkR5qNON8Eqj94hXK3vQ", 
+  "name": "Now I Got Worry"
+}

@@ -1,0 +1,459 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY"
+  }, 
+  "release_date": "1975-09-01", 
+  "popularity": 48, 
+  "genres": [], 
+  "uri": "spotify:album:6uoeezh45SYEb8lcT8gDTY", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Sky Saw - 2004 Digital Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1sr1NnVTSUZL2xGzlkiq1G"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/76ea09bbdf10afda4763e025c1c4039473e52f9b", 
+        "is_playable": true, 
+        "uri": "spotify:track:1sr1NnVTSUZL2xGzlkiq1G", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1sr1NnVTSUZL2xGzlkiq1G", 
+        "artists": [
+          {
+            "name": "Brian Eno", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+            }, 
+            "uri": "spotify:artist:7MSUfLeTdDEoZiJPDSBXgi", 
+            "href": "https://api.spotify.com/v1/artists/7MSUfLeTdDEoZiJPDSBXgi", 
+            "type": "artist", 
+            "id": "7MSUfLeTdDEoZiJPDSBXgi"
+          }
+        ], 
+        "duration_ms": 207666, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "1sr1NnVTSUZL2xGzlkiq1G"
+      }, 
+      {
+        "name": "Over Fire Island - 2004 Digital Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Sodk3mkwv4Gvp2sF3obaE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/35e28cc9df5700d63b92c38a3d1137c038defe15", 
+        "is_playable": true, 
+        "uri": "spotify:track:5Sodk3mkwv4Gvp2sF3obaE", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5Sodk3mkwv4Gvp2sF3obaE", 
+        "artists": [
+          {
+            "name": "Brian Eno", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+            }, 
+            "uri": "spotify:artist:7MSUfLeTdDEoZiJPDSBXgi", 
+            "href": "https://api.spotify.com/v1/artists/7MSUfLeTdDEoZiJPDSBXgi", 
+            "type": "artist", 
+            "id": "7MSUfLeTdDEoZiJPDSBXgi"
+          }
+        ], 
+        "duration_ms": 111213, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "5Sodk3mkwv4Gvp2sF3obaE"
+      }, 
+      {
+        "name": "St Elmo's Fire - 2004 Digital Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0UROPTHqU5C7TI1N8wOkIF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/645069e1de78b5b5f441fd25f2171cf42b72860d", 
+        "is_playable": true, 
+        "uri": "spotify:track:0UROPTHqU5C7TI1N8wOkIF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0UROPTHqU5C7TI1N8wOkIF", 
+        "artists": [
+          {
+            "name": "Brian Eno", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+            }, 
+            "uri": "spotify:artist:7MSUfLeTdDEoZiJPDSBXgi", 
+            "href": "https://api.spotify.com/v1/artists/7MSUfLeTdDEoZiJPDSBXgi", 
+            "type": "artist", 
+            "id": "7MSUfLeTdDEoZiJPDSBXgi"
+          }
+        ], 
+        "duration_ms": 182413, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "0UROPTHqU5C7TI1N8wOkIF"
+      }, 
+      {
+        "name": "In Dark Trees - 2004 Digital Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/41RiTUEXw8uoCtLd8pcHVy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b94f59dd88a6a272f033bd3dfdb7243fab438e33", 
+        "is_playable": true, 
+        "uri": "spotify:track:41RiTUEXw8uoCtLd8pcHVy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/41RiTUEXw8uoCtLd8pcHVy", 
+        "artists": [
+          {
+            "name": "Brian Eno", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+            }, 
+            "uri": "spotify:artist:7MSUfLeTdDEoZiJPDSBXgi", 
+            "href": "https://api.spotify.com/v1/artists/7MSUfLeTdDEoZiJPDSBXgi", 
+            "type": "artist", 
+            "id": "7MSUfLeTdDEoZiJPDSBXgi"
+          }
+        ], 
+        "duration_ms": 151573, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "41RiTUEXw8uoCtLd8pcHVy"
+      }, 
+      {
+        "name": "The Big Ship - 2004 Digital Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2d9KBVxb6bUfVCjjv1JAVe"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/879128af0462f7c4d67ab4ef04cd28d5ac77ea73", 
+        "is_playable": true, 
+        "uri": "spotify:track:2d9KBVxb6bUfVCjjv1JAVe", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2d9KBVxb6bUfVCjjv1JAVe", 
+        "artists": [
+          {
+            "name": "Brian Eno", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+            }, 
+            "uri": "spotify:artist:7MSUfLeTdDEoZiJPDSBXgi", 
+            "href": "https://api.spotify.com/v1/artists/7MSUfLeTdDEoZiJPDSBXgi", 
+            "type": "artist", 
+            "id": "7MSUfLeTdDEoZiJPDSBXgi"
+          }
+        ], 
+        "duration_ms": 181933, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "2d9KBVxb6bUfVCjjv1JAVe"
+      }, 
+      {
+        "name": "I'll Come Running - 2004 Digital Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6ZWVeMysm8Q8zZu3lKnY2v"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c75a9603a6fb3bc49efd63f04c2bfaf3a60176c2", 
+        "is_playable": true, 
+        "uri": "spotify:track:6ZWVeMysm8Q8zZu3lKnY2v", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6ZWVeMysm8Q8zZu3lKnY2v", 
+        "artists": [
+          {
+            "name": "Brian Eno", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+            }, 
+            "uri": "spotify:artist:7MSUfLeTdDEoZiJPDSBXgi", 
+            "href": "https://api.spotify.com/v1/artists/7MSUfLeTdDEoZiJPDSBXgi", 
+            "type": "artist", 
+            "id": "7MSUfLeTdDEoZiJPDSBXgi"
+          }
+        ], 
+        "duration_ms": 229826, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "6ZWVeMysm8Q8zZu3lKnY2v"
+      }, 
+      {
+        "name": "Another Green World - 2004 Digital Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/660j84jp8ljIwLFiAFprlb"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/669cc119466920d468a0c02100fb617cf5843f9b", 
+        "is_playable": true, 
+        "uri": "spotify:track:660j84jp8ljIwLFiAFprlb", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/660j84jp8ljIwLFiAFprlb", 
+        "artists": [
+          {
+            "name": "Brian Eno", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+            }, 
+            "uri": "spotify:artist:7MSUfLeTdDEoZiJPDSBXgi", 
+            "href": "https://api.spotify.com/v1/artists/7MSUfLeTdDEoZiJPDSBXgi", 
+            "type": "artist", 
+            "id": "7MSUfLeTdDEoZiJPDSBXgi"
+          }
+        ], 
+        "duration_ms": 101706, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "660j84jp8ljIwLFiAFprlb"
+      }, 
+      {
+        "name": "Sombre Reptiles - 2004 Digital Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/09owruFWkS2w3SXKdbmBbw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/35b5f8219c8fccbd0f35535d5c59512358169272", 
+        "is_playable": true, 
+        "uri": "spotify:track:09owruFWkS2w3SXKdbmBbw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/09owruFWkS2w3SXKdbmBbw", 
+        "artists": [
+          {
+            "name": "Brian Eno", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+            }, 
+            "uri": "spotify:artist:7MSUfLeTdDEoZiJPDSBXgi", 
+            "href": "https://api.spotify.com/v1/artists/7MSUfLeTdDEoZiJPDSBXgi", 
+            "type": "artist", 
+            "id": "7MSUfLeTdDEoZiJPDSBXgi"
+          }
+        ], 
+        "duration_ms": 141040, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "09owruFWkS2w3SXKdbmBbw"
+      }, 
+      {
+        "name": "Little Fishes - 2004 Digital Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3OfarDQxOfjSTctf9G26MA"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c7566e5a332ef566bebe9d55e9b96272775e8f5b", 
+        "is_playable": true, 
+        "uri": "spotify:track:3OfarDQxOfjSTctf9G26MA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3OfarDQxOfjSTctf9G26MA", 
+        "artists": [
+          {
+            "name": "Brian Eno", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+            }, 
+            "uri": "spotify:artist:7MSUfLeTdDEoZiJPDSBXgi", 
+            "href": "https://api.spotify.com/v1/artists/7MSUfLeTdDEoZiJPDSBXgi", 
+            "type": "artist", 
+            "id": "7MSUfLeTdDEoZiJPDSBXgi"
+          }
+        ], 
+        "duration_ms": 94600, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "3OfarDQxOfjSTctf9G26MA"
+      }, 
+      {
+        "name": "Golden Hours - 2004 Digital Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0ikLV7zMypPFyLH57cKpRO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1637b765bd9ff5c08242568319b3789034b844ba", 
+        "is_playable": true, 
+        "uri": "spotify:track:0ikLV7zMypPFyLH57cKpRO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0ikLV7zMypPFyLH57cKpRO", 
+        "artists": [
+          {
+            "name": "Brian Eno", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+            }, 
+            "uri": "spotify:artist:7MSUfLeTdDEoZiJPDSBXgi", 
+            "href": "https://api.spotify.com/v1/artists/7MSUfLeTdDEoZiJPDSBXgi", 
+            "type": "artist", 
+            "id": "7MSUfLeTdDEoZiJPDSBXgi"
+          }
+        ], 
+        "duration_ms": 240160, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "0ikLV7zMypPFyLH57cKpRO"
+      }, 
+      {
+        "name": "Becalmed - 2004 Digital Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3qq8XPwF2DoBhENRgLQ7ET"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/871c5af4e8cc254871fa80aa7fc441cc1e6ad464", 
+        "is_playable": true, 
+        "uri": "spotify:track:3qq8XPwF2DoBhENRgLQ7ET", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3qq8XPwF2DoBhENRgLQ7ET", 
+        "artists": [
+          {
+            "name": "Brian Eno", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+            }, 
+            "uri": "spotify:artist:7MSUfLeTdDEoZiJPDSBXgi", 
+            "href": "https://api.spotify.com/v1/artists/7MSUfLeTdDEoZiJPDSBXgi", 
+            "type": "artist", 
+            "id": "7MSUfLeTdDEoZiJPDSBXgi"
+          }
+        ], 
+        "duration_ms": 236760, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "3qq8XPwF2DoBhENRgLQ7ET"
+      }, 
+      {
+        "name": "Zawinul/Lava - 2004 Digital Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Q3ku4n6R1Ax3IYTEevKIH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0dae8ce7ff40cc0f7c05c7013f276d7e7092585f", 
+        "is_playable": true, 
+        "uri": "spotify:track:1Q3ku4n6R1Ax3IYTEevKIH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1Q3ku4n6R1Ax3IYTEevKIH", 
+        "artists": [
+          {
+            "name": "Brian Eno", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+            }, 
+            "uri": "spotify:artist:7MSUfLeTdDEoZiJPDSBXgi", 
+            "href": "https://api.spotify.com/v1/artists/7MSUfLeTdDEoZiJPDSBXgi", 
+            "type": "artist", 
+            "id": "7MSUfLeTdDEoZiJPDSBXgi"
+          }
+        ], 
+        "duration_ms": 180293, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "1Q3ku4n6R1Ax3IYTEevKIH"
+      }, 
+      {
+        "name": "Everything Merges With The Night - 2004 Digital Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5pAR56gg3tYThEeH0VM3iB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d55c04fdbd53247dbf07c4b2c1cdff8a242e3609", 
+        "is_playable": true, 
+        "uri": "spotify:track:5pAR56gg3tYThEeH0VM3iB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5pAR56gg3tYThEeH0VM3iB", 
+        "artists": [
+          {
+            "name": "Brian Eno", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+            }, 
+            "uri": "spotify:artist:7MSUfLeTdDEoZiJPDSBXgi", 
+            "href": "https://api.spotify.com/v1/artists/7MSUfLeTdDEoZiJPDSBXgi", 
+            "type": "artist", 
+            "id": "7MSUfLeTdDEoZiJPDSBXgi"
+          }
+        ], 
+        "duration_ms": 239306, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "5pAR56gg3tYThEeH0VM3iB"
+      }, 
+      {
+        "name": "Spirits Drifting - 2004 Digital Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0CUTdiwHWlO3VGWHQxpbeo"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4b94d2fbf690874433c56c6df7147a552a1e8b9a", 
+        "is_playable": true, 
+        "uri": "spotify:track:0CUTdiwHWlO3VGWHQxpbeo", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0CUTdiwHWlO3VGWHQxpbeo", 
+        "artists": [
+          {
+            "name": "Brian Eno", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+            }, 
+            "uri": "spotify:artist:7MSUfLeTdDEoZiJPDSBXgi", 
+            "href": "https://api.spotify.com/v1/artists/7MSUfLeTdDEoZiJPDSBXgi", 
+            "type": "artist", 
+            "id": "7MSUfLeTdDEoZiJPDSBXgi"
+          }
+        ], 
+        "duration_ms": 156773, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "0CUTdiwHWlO3VGWHQxpbeo"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/6uoeezh45SYEb8lcT8gDTY/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 14, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/6uoeezh45SYEb8lcT8gDTY", 
+  "copyrights": [
+    {
+      "text": "(C) 2004 Virgin Records Ltd This label copy information is the subject of copyright protection. All rights reserved. (C) 2004 Virgin Records Ltd", 
+      "type": "C"
+    }, 
+    {
+      "text": "Digital Remaster (P) 2004 The copyright in this sound recording is owned by Virgin Records Ltd", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Brian Eno", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+      }, 
+      "uri": "spotify:artist:7MSUfLeTdDEoZiJPDSBXgi", 
+      "href": "https://api.spotify.com/v1/artists/7MSUfLeTdDEoZiJPDSBXgi", 
+      "type": "artist", 
+      "id": "7MSUfLeTdDEoZiJPDSBXgi"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/6a9d1989212633ef0c667dd908e427a5f3e358e9", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/0b6846c41480382e9c367806c506c04345962419", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/f7257f34e36be2ff7641140971d603b2f6907d12", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00724357729154"
+  }, 
+  "type": "album", 
+  "id": "6uoeezh45SYEb8lcT8gDTY", 
+  "name": "Another Green World"
+}

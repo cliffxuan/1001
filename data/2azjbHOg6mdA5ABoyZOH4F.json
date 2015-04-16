@@ -1,0 +1,347 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2azjbHOg6mdA5ABoyZOH4F"
+  }, 
+  "release_date": "1990-07-01", 
+  "popularity": 60, 
+  "genres": [], 
+  "uri": "spotify:album:2azjbHOg6mdA5ABoyZOH4F", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Feels So Different", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/28wCUOYcxYxzdbCh9f1vLg"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e7334cf704c697a53b8360d05a7123b63ad57348", 
+        "is_playable": true, 
+        "uri": "spotify:track:28wCUOYcxYxzdbCh9f1vLg", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/28wCUOYcxYxzdbCh9f1vLg", 
+        "artists": [
+          {
+            "name": "Sinead O'Connor", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+            }, 
+            "uri": "spotify:artist:4sD9znwiVFx9cgRPZ42aQ1", 
+            "href": "https://api.spotify.com/v1/artists/4sD9znwiVFx9cgRPZ42aQ1", 
+            "type": "artist", 
+            "id": "4sD9znwiVFx9cgRPZ42aQ1"
+          }
+        ], 
+        "duration_ms": 406373, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "28wCUOYcxYxzdbCh9f1vLg"
+      }, 
+      {
+        "name": "I Am Stretched On Your Grave", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5fNwO990tJUzsh3sWp5dd7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5da55fb8ef0f949d10340d862b4e202a416e46d9", 
+        "is_playable": true, 
+        "uri": "spotify:track:5fNwO990tJUzsh3sWp5dd7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5fNwO990tJUzsh3sWp5dd7", 
+        "artists": [
+          {
+            "name": "Sinead O'Connor", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+            }, 
+            "uri": "spotify:artist:4sD9znwiVFx9cgRPZ42aQ1", 
+            "href": "https://api.spotify.com/v1/artists/4sD9znwiVFx9cgRPZ42aQ1", 
+            "type": "artist", 
+            "id": "4sD9znwiVFx9cgRPZ42aQ1"
+          }
+        ], 
+        "duration_ms": 333386, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "5fNwO990tJUzsh3sWp5dd7"
+      }, 
+      {
+        "name": "Three Babies", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7oWzfWD5sdiZWpVrlDdqnz"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/561abd180bec204392612fb0c8b151813fb0a96c", 
+        "is_playable": true, 
+        "uri": "spotify:track:7oWzfWD5sdiZWpVrlDdqnz", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7oWzfWD5sdiZWpVrlDdqnz", 
+        "artists": [
+          {
+            "name": "Sinead O'Connor", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+            }, 
+            "uri": "spotify:artist:4sD9znwiVFx9cgRPZ42aQ1", 
+            "href": "https://api.spotify.com/v1/artists/4sD9znwiVFx9cgRPZ42aQ1", 
+            "type": "artist", 
+            "id": "4sD9znwiVFx9cgRPZ42aQ1"
+          }
+        ], 
+        "duration_ms": 283546, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "7oWzfWD5sdiZWpVrlDdqnz"
+      }, 
+      {
+        "name": "The Emperor's New Clothes", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6MO4dxtjlm5JJmVzUyobIb"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/321d06257cb86627f5866bc8cb774764bc16e24e", 
+        "is_playable": true, 
+        "uri": "spotify:track:6MO4dxtjlm5JJmVzUyobIb", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6MO4dxtjlm5JJmVzUyobIb", 
+        "artists": [
+          {
+            "name": "Sinead O'Connor", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+            }, 
+            "uri": "spotify:artist:4sD9znwiVFx9cgRPZ42aQ1", 
+            "href": "https://api.spotify.com/v1/artists/4sD9znwiVFx9cgRPZ42aQ1", 
+            "type": "artist", 
+            "id": "4sD9znwiVFx9cgRPZ42aQ1"
+          }
+        ], 
+        "duration_ms": 316493, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "6MO4dxtjlm5JJmVzUyobIb"
+      }, 
+      {
+        "name": "Black Boys On Mopeds", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/21hqg77e6sv0evR88NI9TJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b42b8fb167cefb231067f2cfc08167a54c40791e", 
+        "is_playable": true, 
+        "uri": "spotify:track:21hqg77e6sv0evR88NI9TJ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/21hqg77e6sv0evR88NI9TJ", 
+        "artists": [
+          {
+            "name": "Sinead O'Connor", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+            }, 
+            "uri": "spotify:artist:4sD9znwiVFx9cgRPZ42aQ1", 
+            "href": "https://api.spotify.com/v1/artists/4sD9znwiVFx9cgRPZ42aQ1", 
+            "type": "artist", 
+            "id": "4sD9znwiVFx9cgRPZ42aQ1"
+          }
+        ], 
+        "duration_ms": 232933, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "21hqg77e6sv0evR88NI9TJ"
+      }, 
+      {
+        "name": "Nothing Compares 2 U", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4j6Hkosuk9xHcowXjtwefs"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e9cf92752ba4885224131ee13dc950246d5bbd2a", 
+        "is_playable": true, 
+        "uri": "spotify:track:4j6Hkosuk9xHcowXjtwefs", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4j6Hkosuk9xHcowXjtwefs", 
+        "artists": [
+          {
+            "name": "Sinead O'Connor", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+            }, 
+            "uri": "spotify:artist:4sD9znwiVFx9cgRPZ42aQ1", 
+            "href": "https://api.spotify.com/v1/artists/4sD9znwiVFx9cgRPZ42aQ1", 
+            "type": "artist", 
+            "id": "4sD9znwiVFx9cgRPZ42aQ1"
+          }
+        ], 
+        "duration_ms": 280040, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "4j6Hkosuk9xHcowXjtwefs"
+      }, 
+      {
+        "name": "Jump In The River", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3tGBknDStPHXRubtaBhebF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/070cc7fc3a78d9709f270fc46694d7e3ce3bb7f8", 
+        "is_playable": true, 
+        "uri": "spotify:track:3tGBknDStPHXRubtaBhebF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3tGBknDStPHXRubtaBhebF", 
+        "artists": [
+          {
+            "name": "Sinead O'Connor", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+            }, 
+            "uri": "spotify:artist:4sD9znwiVFx9cgRPZ42aQ1", 
+            "href": "https://api.spotify.com/v1/artists/4sD9znwiVFx9cgRPZ42aQ1", 
+            "type": "artist", 
+            "id": "4sD9znwiVFx9cgRPZ42aQ1"
+          }
+        ], 
+        "duration_ms": 251960, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "3tGBknDStPHXRubtaBhebF"
+      }, 
+      {
+        "name": "You Cause As Much Sorrow", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/34hsRexFopdn0itN2PHU9z"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b7d1b22d1889baa9630e883d494986b944cdf2dd", 
+        "is_playable": true, 
+        "uri": "spotify:track:34hsRexFopdn0itN2PHU9z", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/34hsRexFopdn0itN2PHU9z", 
+        "artists": [
+          {
+            "name": "Sinead O'Connor", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+            }, 
+            "uri": "spotify:artist:4sD9znwiVFx9cgRPZ42aQ1", 
+            "href": "https://api.spotify.com/v1/artists/4sD9znwiVFx9cgRPZ42aQ1", 
+            "type": "artist", 
+            "id": "4sD9znwiVFx9cgRPZ42aQ1"
+          }
+        ], 
+        "duration_ms": 302626, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "34hsRexFopdn0itN2PHU9z"
+      }, 
+      {
+        "name": "Last Day Of Our Acquaintance", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3EGfRAYOc5vPdJkuiq7fil"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/780e5c5849998c8011b46788026fdde19060cc32", 
+        "is_playable": true, 
+        "uri": "spotify:track:3EGfRAYOc5vPdJkuiq7fil", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3EGfRAYOc5vPdJkuiq7fil", 
+        "artists": [
+          {
+            "name": "Sinead O'Connor", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+            }, 
+            "uri": "spotify:artist:4sD9znwiVFx9cgRPZ42aQ1", 
+            "href": "https://api.spotify.com/v1/artists/4sD9znwiVFx9cgRPZ42aQ1", 
+            "type": "artist", 
+            "id": "4sD9znwiVFx9cgRPZ42aQ1"
+          }
+        ], 
+        "duration_ms": 278880, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "3EGfRAYOc5vPdJkuiq7fil"
+      }, 
+      {
+        "name": "I Do Not Want What I Haven't Got", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1hHJLNd8W3Bb2kRTQbHSyS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/02714757f4d0f583d2343e767a414a15d9ec29c3", 
+        "is_playable": true, 
+        "uri": "spotify:track:1hHJLNd8W3Bb2kRTQbHSyS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1hHJLNd8W3Bb2kRTQbHSyS", 
+        "artists": [
+          {
+            "name": "Sinead O'Connor", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+            }, 
+            "uri": "spotify:artist:4sD9znwiVFx9cgRPZ42aQ1", 
+            "href": "https://api.spotify.com/v1/artists/4sD9znwiVFx9cgRPZ42aQ1", 
+            "type": "artist", 
+            "id": "4sD9znwiVFx9cgRPZ42aQ1"
+          }
+        ], 
+        "duration_ms": 345200, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "1hHJLNd8W3Bb2kRTQbHSyS"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/2azjbHOg6mdA5ABoyZOH4F/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 10, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/2azjbHOg6mdA5ABoyZOH4F", 
+  "copyrights": [
+    {
+      "text": "1990 Chrysalis Records Ltd, a Warner Music Group Company", 
+      "type": "C"
+    }, 
+    {
+      "text": "1990 Chrysalis Records Ltd, a Warner Music Group Company", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Sinead O'Connor", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+      }, 
+      "uri": "spotify:artist:4sD9znwiVFx9cgRPZ42aQ1", 
+      "href": "https://api.spotify.com/v1/artists/4sD9znwiVFx9cgRPZ42aQ1", 
+      "type": "artist", 
+      "id": "4sD9znwiVFx9cgRPZ42aQ1"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/01b4df83f59e309347a3b8658bea60399c4c1b41", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/8c3d9efef8b6ed2902f5bdc03a3a6f8549dd59aa", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/244de77e9e6e937fadfbe7e611479eb7c1a51435", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "0724353459253"
+  }, 
+  "type": "album", 
+  "id": "2azjbHOg6mdA5ABoyZOH4F", 
+  "name": "I Do Not Want What I Haven't Got"
+}

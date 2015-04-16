@@ -1,0 +1,651 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+  }, 
+  "release_date": "1977", 
+  "popularity": 68, 
+  "genres": [], 
+  "uri": "spotify:album:1Mhn9VosyjtWn4dMPFlna6", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Movin' Out (Anthony's Song)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/16GUMo6u3D2qo9a19AkYct"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/007cd4013252f8dbef23ffce6160b8590ff907be", 
+        "is_playable": true, 
+        "uri": "spotify:track:16GUMo6u3D2qo9a19AkYct", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/16GUMo6u3D2qo9a19AkYct", 
+        "artists": [
+          {
+            "name": "Billy Joel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+            }, 
+            "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e", 
+            "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e", 
+            "type": "artist", 
+            "id": "6zFYqv1mOsgBRQbae3JJ9e"
+          }
+        ], 
+        "duration_ms": 210760, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "16GUMo6u3D2qo9a19AkYct"
+      }, 
+      {
+        "name": "The Stranger", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/54xbcKFYv2PC6ujERHppRj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/66d7824b7dc7c2b3c960b4fb32ac2a4f7dfe4e55", 
+        "is_playable": true, 
+        "uri": "spotify:track:54xbcKFYv2PC6ujERHppRj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/54xbcKFYv2PC6ujERHppRj", 
+        "artists": [
+          {
+            "name": "Billy Joel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+            }, 
+            "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e", 
+            "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e", 
+            "type": "artist", 
+            "id": "6zFYqv1mOsgBRQbae3JJ9e"
+          }
+        ], 
+        "duration_ms": 310506, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "54xbcKFYv2PC6ujERHppRj"
+      }, 
+      {
+        "name": "Just the Way You Are", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/652fe9f00e6dfb432cb5a44664967a28c8b9011d", 
+        "is_playable": true, 
+        "uri": "spotify:track:49MHCPzvMLXhRjDantBMVH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/49MHCPzvMLXhRjDantBMVH", 
+        "artists": [
+          {
+            "name": "Billy Joel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+            }, 
+            "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e", 
+            "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e", 
+            "type": "artist", 
+            "id": "6zFYqv1mOsgBRQbae3JJ9e"
+          }
+        ], 
+        "duration_ms": 290573, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "49MHCPzvMLXhRjDantBMVH"
+      }, 
+      {
+        "name": "Scenes from an Italian Restaurant", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3utq2FgD1pkmIoaWfjXWAU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fbd01b5604c1b720d4273e7a5fbf09c988563f00", 
+        "is_playable": true, 
+        "uri": "spotify:track:3utq2FgD1pkmIoaWfjXWAU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3utq2FgD1pkmIoaWfjXWAU", 
+        "artists": [
+          {
+            "name": "Billy Joel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+            }, 
+            "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e", 
+            "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e", 
+            "type": "artist", 
+            "id": "6zFYqv1mOsgBRQbae3JJ9e"
+          }
+        ], 
+        "duration_ms": 456893, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "3utq2FgD1pkmIoaWfjXWAU"
+      }, 
+      {
+        "name": "Vienna", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/719529bffaf4cc162ffddca405efb79dc08c6a76", 
+        "is_playable": true, 
+        "uri": "spotify:track:4U45aEWtQhrm8A5mxPaFZ7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4U45aEWtQhrm8A5mxPaFZ7", 
+        "artists": [
+          {
+            "name": "Billy Joel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+            }, 
+            "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e", 
+            "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e", 
+            "type": "artist", 
+            "id": "6zFYqv1mOsgBRQbae3JJ9e"
+          }
+        ], 
+        "duration_ms": 214240, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "4U45aEWtQhrm8A5mxPaFZ7"
+      }, 
+      {
+        "name": "Only the Good Die Young", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1xOXXYh6lTW8laxlW7JP2J"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8874977d102be83751ba47055dfb5a5f931f9a84", 
+        "is_playable": true, 
+        "uri": "spotify:track:1xOXXYh6lTW8laxlW7JP2J", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1xOXXYh6lTW8laxlW7JP2J", 
+        "artists": [
+          {
+            "name": "Billy Joel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+            }, 
+            "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e", 
+            "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e", 
+            "type": "artist", 
+            "id": "6zFYqv1mOsgBRQbae3JJ9e"
+          }
+        ], 
+        "duration_ms": 235560, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "1xOXXYh6lTW8laxlW7JP2J"
+      }, 
+      {
+        "name": "She's Always a Woman", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6db4f2c83e3f7052871d9eb5bc15b52e765d710f", 
+        "is_playable": true, 
+        "uri": "spotify:track:5RgFlk1fcClZd0Y4SGYhqH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5RgFlk1fcClZd0Y4SGYhqH", 
+        "artists": [
+          {
+            "name": "Billy Joel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+            }, 
+            "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e", 
+            "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e", 
+            "type": "artist", 
+            "id": "6zFYqv1mOsgBRQbae3JJ9e"
+          }
+        ], 
+        "duration_ms": 201373, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "5RgFlk1fcClZd0Y4SGYhqH"
+      }, 
+      {
+        "name": "Get It Right the First Time", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6rEJ6ncZKq9EM3TwyMhTDo"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d58756fe38080fc9da8ff9db9640ca6419202aaa", 
+        "is_playable": true, 
+        "uri": "spotify:track:6rEJ6ncZKq9EM3TwyMhTDo", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6rEJ6ncZKq9EM3TwyMhTDo", 
+        "artists": [
+          {
+            "name": "Billy Joel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+            }, 
+            "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e", 
+            "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e", 
+            "type": "artist", 
+            "id": "6zFYqv1mOsgBRQbae3JJ9e"
+          }
+        ], 
+        "duration_ms": 236973, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "6rEJ6ncZKq9EM3TwyMhTDo"
+      }, 
+      {
+        "name": "Everybody Has a Dream", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1s65HRPwZtSG5dBIBZ0dix"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c10e2cad16463cb38c859fec61536f1aef30c57c", 
+        "is_playable": true, 
+        "uri": "spotify:track:1s65HRPwZtSG5dBIBZ0dix", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1s65HRPwZtSG5dBIBZ0dix", 
+        "artists": [
+          {
+            "name": "Billy Joel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+            }, 
+            "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e", 
+            "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e", 
+            "type": "artist", 
+            "id": "6zFYqv1mOsgBRQbae3JJ9e"
+          }
+        ], 
+        "duration_ms": 396626, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "1s65HRPwZtSG5dBIBZ0dix"
+      }, 
+      {
+        "name": "Miami 2017 (Seen the Lights Go Out On Broadway) - Live Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6uC9fa50cFyDOc1BTOLXiM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/00195a61058217f68f6c6bed32c06d4b19a6cd92", 
+        "is_playable": true, 
+        "uri": "spotify:track:6uC9fa50cFyDOc1BTOLXiM", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6uC9fa50cFyDOc1BTOLXiM", 
+        "artists": [
+          {
+            "name": "Billy Joel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+            }, 
+            "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e", 
+            "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e", 
+            "type": "artist", 
+            "id": "6zFYqv1mOsgBRQbae3JJ9e"
+          }
+        ], 
+        "duration_ms": 311093, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "6uC9fa50cFyDOc1BTOLXiM"
+      }, 
+      {
+        "name": "Prelude / Angry Young Man - Live Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7kYQF3TJwQG9xJhSZJIj6v"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2d19cbaeae21210d7229b7ab065e04902355ba4c", 
+        "is_playable": true, 
+        "uri": "spotify:track:7kYQF3TJwQG9xJhSZJIj6v", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/7kYQF3TJwQG9xJhSZJIj6v", 
+        "artists": [
+          {
+            "name": "Billy Joel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+            }, 
+            "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e", 
+            "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e", 
+            "type": "artist", 
+            "id": "6zFYqv1mOsgBRQbae3JJ9e"
+          }
+        ], 
+        "duration_ms": 364986, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "7kYQF3TJwQG9xJhSZJIj6v"
+      }, 
+      {
+        "name": "New York State of Mind - Live Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3qrmvMrpP4JADQUk8AZZaL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b6f3f535229c399907c0cea0c217900cb8af1663", 
+        "is_playable": true, 
+        "uri": "spotify:track:3qrmvMrpP4JADQUk8AZZaL", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/3qrmvMrpP4JADQUk8AZZaL", 
+        "artists": [
+          {
+            "name": "Billy Joel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+            }, 
+            "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e", 
+            "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e", 
+            "type": "artist", 
+            "id": "6zFYqv1mOsgBRQbae3JJ9e"
+          }
+        ], 
+        "duration_ms": 499653, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "3qrmvMrpP4JADQUk8AZZaL"
+      }, 
+      {
+        "name": "Just the Way You Are - Live Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1nFYpnm7F7iJgvKpSdyZXl"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5b97bd9046231eca9d9de03ca0c2a05f42e631e1", 
+        "is_playable": true, 
+        "uri": "spotify:track:1nFYpnm7F7iJgvKpSdyZXl", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1nFYpnm7F7iJgvKpSdyZXl", 
+        "artists": [
+          {
+            "name": "Billy Joel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+            }, 
+            "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e", 
+            "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e", 
+            "type": "artist", 
+            "id": "6zFYqv1mOsgBRQbae3JJ9e"
+          }
+        ], 
+        "duration_ms": 296120, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "1nFYpnm7F7iJgvKpSdyZXl"
+      }, 
+      {
+        "name": "She's Got a Way - Live Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/55TvHlxObIKvxD1vSn8Q4s"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5b704467321f7971ee524db2b17eddfb608354ba", 
+        "is_playable": true, 
+        "uri": "spotify:track:55TvHlxObIKvxD1vSn8Q4s", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/55TvHlxObIKvxD1vSn8Q4s", 
+        "artists": [
+          {
+            "name": "Billy Joel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+            }, 
+            "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e", 
+            "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e", 
+            "type": "artist", 
+            "id": "6zFYqv1mOsgBRQbae3JJ9e"
+          }
+        ], 
+        "duration_ms": 211906, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "55TvHlxObIKvxD1vSn8Q4s"
+      }, 
+      {
+        "name": "The Entertainer - Live Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2qnNUfbNRInP0CqsXYMYfF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/66eac87c538e5a751d915689f8f55c3b03a53b64", 
+        "is_playable": true, 
+        "uri": "spotify:track:2qnNUfbNRInP0CqsXYMYfF", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/2qnNUfbNRInP0CqsXYMYfF", 
+        "artists": [
+          {
+            "name": "Billy Joel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+            }, 
+            "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e", 
+            "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e", 
+            "type": "artist", 
+            "id": "6zFYqv1mOsgBRQbae3JJ9e"
+          }
+        ], 
+        "duration_ms": 369093, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "2qnNUfbNRInP0CqsXYMYfF"
+      }, 
+      {
+        "name": "Scenes from an Italian Restaurant - Live Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6eM1ju6kLvgzdnT5mJgSJb"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f54803ad4e1d40d28efd605a257a105d16e7fe88", 
+        "is_playable": true, 
+        "uri": "spotify:track:6eM1ju6kLvgzdnT5mJgSJb", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6eM1ju6kLvgzdnT5mJgSJb", 
+        "artists": [
+          {
+            "name": "Billy Joel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+            }, 
+            "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e", 
+            "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e", 
+            "type": "artist", 
+            "id": "6zFYqv1mOsgBRQbae3JJ9e"
+          }
+        ], 
+        "duration_ms": 455333, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "6eM1ju6kLvgzdnT5mJgSJb"
+      }, 
+      {
+        "name": "Band Introductions - Live Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2PeB3kosc35XamDfXy3eAc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/05a613e522e097f3154ce4c8e1c8fe733b215e1d", 
+        "is_playable": true, 
+        "uri": "spotify:track:2PeB3kosc35XamDfXy3eAc", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/2PeB3kosc35XamDfXy3eAc", 
+        "artists": [
+          {
+            "name": "Billy Joel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+            }, 
+            "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e", 
+            "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e", 
+            "type": "artist", 
+            "id": "6zFYqv1mOsgBRQbae3JJ9e"
+          }
+        ], 
+        "duration_ms": 121533, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "2PeB3kosc35XamDfXy3eAc"
+      }, 
+      {
+        "name": "Captain Jack - Live Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6cWv9xpzoAaBjqRg3mCZi3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e01a3e339da016bdd3b190a4ace072b28f158cbe", 
+        "is_playable": true, 
+        "uri": "spotify:track:6cWv9xpzoAaBjqRg3mCZi3", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6cWv9xpzoAaBjqRg3mCZi3", 
+        "artists": [
+          {
+            "name": "Billy Joel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+            }, 
+            "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e", 
+            "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e", 
+            "type": "artist", 
+            "id": "6zFYqv1mOsgBRQbae3JJ9e"
+          }
+        ], 
+        "duration_ms": 411400, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "6cWv9xpzoAaBjqRg3mCZi3"
+      }, 
+      {
+        "name": "I've Loved These Days - Live Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Z8G02M7ncN87m1DexCFC4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a4018b69622eb0b63eeff705ccdcceb799f7d625", 
+        "is_playable": true, 
+        "uri": "spotify:track:0Z8G02M7ncN87m1DexCFC4", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/0Z8G02M7ncN87m1DexCFC4", 
+        "artists": [
+          {
+            "name": "Billy Joel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+            }, 
+            "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e", 
+            "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e", 
+            "type": "artist", 
+            "id": "6zFYqv1mOsgBRQbae3JJ9e"
+          }
+        ], 
+        "duration_ms": 268800, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "0Z8G02M7ncN87m1DexCFC4"
+      }, 
+      {
+        "name": "Say Goodbye to Hollywood - Live Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/20Xtv4fo9ClcgwEGVrdviG"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6dbcc1b11128bde124e25901ab8f890bef8d4348", 
+        "is_playable": true, 
+        "uri": "spotify:track:20Xtv4fo9ClcgwEGVrdviG", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/20Xtv4fo9ClcgwEGVrdviG", 
+        "artists": [
+          {
+            "name": "Billy Joel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+            }, 
+            "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e", 
+            "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e", 
+            "type": "artist", 
+            "id": "6zFYqv1mOsgBRQbae3JJ9e"
+          }
+        ], 
+        "duration_ms": 405213, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "20Xtv4fo9ClcgwEGVrdviG"
+      }, 
+      {
+        "name": "Souvenir - Live Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4adKhxS40S3YGVt31EQfqe"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e3d370d221d60eebd4e696a08bca286f93a38691", 
+        "is_playable": true, 
+        "uri": "spotify:track:4adKhxS40S3YGVt31EQfqe", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4adKhxS40S3YGVt31EQfqe", 
+        "artists": [
+          {
+            "name": "Billy Joel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+            }, 
+            "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e", 
+            "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e", 
+            "type": "artist", 
+            "id": "6zFYqv1mOsgBRQbae3JJ9e"
+          }
+        ], 
+        "duration_ms": 129240, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "4adKhxS40S3YGVt31EQfqe"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/1Mhn9VosyjtWn4dMPFlna6/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 21, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/1Mhn9VosyjtWn4dMPFlna6", 
+  "copyrights": [
+    {
+      "text": "(P) 1977, 2008 Sony Music Entertainment", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Billy Joel", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+      }, 
+      "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e", 
+      "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e", 
+      "type": "artist", 
+      "id": "6zFYqv1mOsgBRQbae3JJ9e"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/e8952f8ceb8cd5873bad47c17bf492a4dd410570", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/d31dba82453e271c6b6c4463e56da06c59cb1ce7", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/0cb40c2939de7701481ea303f42266329718641a", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "886972258126"
+  }, 
+  "type": "album", 
+  "id": "1Mhn9VosyjtWn4dMPFlna6", 
+  "name": "The Stranger (30th Anniversary Legacy Edition)"
+}

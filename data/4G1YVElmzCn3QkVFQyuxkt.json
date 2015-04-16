@@ -1,0 +1,375 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4G1YVElmzCn3QkVFQyuxkt"
+  }, 
+  "release_date": "1990-01-01", 
+  "popularity": 44, 
+  "genres": [], 
+  "uri": "spotify:album:4G1YVElmzCn3QkVFQyuxkt", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Dirty Boots", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6dapkrbmm3HIyonAbCH6vV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c7175e7bf7efc77e0255171dfc2c7b8c4a6c5a05", 
+        "is_playable": true, 
+        "uri": "spotify:track:6dapkrbmm3HIyonAbCH6vV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6dapkrbmm3HIyonAbCH6vV", 
+        "artists": [
+          {
+            "name": "Sonic Youth", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
+            }, 
+            "uri": "spotify:artist:5UqTO8smerMvxHYA5xsXb6", 
+            "href": "https://api.spotify.com/v1/artists/5UqTO8smerMvxHYA5xsXb6", 
+            "type": "artist", 
+            "id": "5UqTO8smerMvxHYA5xsXb6"
+          }
+        ], 
+        "duration_ms": 328600, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "6dapkrbmm3HIyonAbCH6vV"
+      }, 
+      {
+        "name": "Tunic (Song For Karen)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0xnjzxk3Yk638nQqR6LpQD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d86384ebefccc940fff23923104339f137424a77", 
+        "is_playable": true, 
+        "uri": "spotify:track:0xnjzxk3Yk638nQqR6LpQD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0xnjzxk3Yk638nQqR6LpQD", 
+        "artists": [
+          {
+            "name": "Sonic Youth", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
+            }, 
+            "uri": "spotify:artist:5UqTO8smerMvxHYA5xsXb6", 
+            "href": "https://api.spotify.com/v1/artists/5UqTO8smerMvxHYA5xsXb6", 
+            "type": "artist", 
+            "id": "5UqTO8smerMvxHYA5xsXb6"
+          }
+        ], 
+        "duration_ms": 382493, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "0xnjzxk3Yk638nQqR6LpQD"
+      }, 
+      {
+        "name": "Mary-Christ", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2pYxOb8nngOilyiJEZkTWI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/81cb40ee87ecd99569822272f0bcf88147ee18ef", 
+        "is_playable": true, 
+        "uri": "spotify:track:2pYxOb8nngOilyiJEZkTWI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2pYxOb8nngOilyiJEZkTWI", 
+        "artists": [
+          {
+            "name": "Sonic Youth", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
+            }, 
+            "uri": "spotify:artist:5UqTO8smerMvxHYA5xsXb6", 
+            "href": "https://api.spotify.com/v1/artists/5UqTO8smerMvxHYA5xsXb6", 
+            "type": "artist", 
+            "id": "5UqTO8smerMvxHYA5xsXb6"
+          }
+        ], 
+        "duration_ms": 191666, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "2pYxOb8nngOilyiJEZkTWI"
+      }, 
+      {
+        "name": "Kool Thing", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/78zKiwxbnMnTPn3LLW3py7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f7e73f2bafb623e4a5f66140dc8f04441a0b54ce", 
+        "is_playable": true, 
+        "uri": "spotify:track:78zKiwxbnMnTPn3LLW3py7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/78zKiwxbnMnTPn3LLW3py7", 
+        "artists": [
+          {
+            "name": "Sonic Youth", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
+            }, 
+            "uri": "spotify:artist:5UqTO8smerMvxHYA5xsXb6", 
+            "href": "https://api.spotify.com/v1/artists/5UqTO8smerMvxHYA5xsXb6", 
+            "type": "artist", 
+            "id": "5UqTO8smerMvxHYA5xsXb6"
+          }
+        ], 
+        "duration_ms": 246200, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "78zKiwxbnMnTPn3LLW3py7"
+      }, 
+      {
+        "name": "Mote", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4p0c5kojr6aAHGgaYLmpYE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7d1252cb400d55da754af9a05568225c67340bc4", 
+        "is_playable": true, 
+        "uri": "spotify:track:4p0c5kojr6aAHGgaYLmpYE", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4p0c5kojr6aAHGgaYLmpYE", 
+        "artists": [
+          {
+            "name": "Sonic Youth", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
+            }, 
+            "uri": "spotify:artist:5UqTO8smerMvxHYA5xsXb6", 
+            "href": "https://api.spotify.com/v1/artists/5UqTO8smerMvxHYA5xsXb6", 
+            "type": "artist", 
+            "id": "5UqTO8smerMvxHYA5xsXb6"
+          }
+        ], 
+        "duration_ms": 457440, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "4p0c5kojr6aAHGgaYLmpYE"
+      }, 
+      {
+        "name": "My Friend Goo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/60BFPOwA8MIltHVfzMWrvI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/84d978d79c6631087133de70c082861a1cf42719", 
+        "is_playable": true, 
+        "uri": "spotify:track:60BFPOwA8MIltHVfzMWrvI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/60BFPOwA8MIltHVfzMWrvI", 
+        "artists": [
+          {
+            "name": "Sonic Youth", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
+            }, 
+            "uri": "spotify:artist:5UqTO8smerMvxHYA5xsXb6", 
+            "href": "https://api.spotify.com/v1/artists/5UqTO8smerMvxHYA5xsXb6", 
+            "type": "artist", 
+            "id": "5UqTO8smerMvxHYA5xsXb6"
+          }
+        ], 
+        "duration_ms": 139960, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "60BFPOwA8MIltHVfzMWrvI"
+      }, 
+      {
+        "name": "Disappearer", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/087IzohlKmJATCP3YQgzzC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b1f815294b079f2d39526af34ac2622c81102b00", 
+        "is_playable": true, 
+        "uri": "spotify:track:087IzohlKmJATCP3YQgzzC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/087IzohlKmJATCP3YQgzzC", 
+        "artists": [
+          {
+            "name": "Sonic Youth", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
+            }, 
+            "uri": "spotify:artist:5UqTO8smerMvxHYA5xsXb6", 
+            "href": "https://api.spotify.com/v1/artists/5UqTO8smerMvxHYA5xsXb6", 
+            "type": "artist", 
+            "id": "5UqTO8smerMvxHYA5xsXb6"
+          }
+        ], 
+        "duration_ms": 308333, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "087IzohlKmJATCP3YQgzzC"
+      }, 
+      {
+        "name": "Mildred Pierce", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2MdMwlaSpSVzbpqJdOnnee"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6ea82c6b6ba780bd95a8b7f61863d55e7ca7737b", 
+        "is_playable": true, 
+        "uri": "spotify:track:2MdMwlaSpSVzbpqJdOnnee", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2MdMwlaSpSVzbpqJdOnnee", 
+        "artists": [
+          {
+            "name": "Sonic Youth", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
+            }, 
+            "uri": "spotify:artist:5UqTO8smerMvxHYA5xsXb6", 
+            "href": "https://api.spotify.com/v1/artists/5UqTO8smerMvxHYA5xsXb6", 
+            "type": "artist", 
+            "id": "5UqTO8smerMvxHYA5xsXb6"
+          }
+        ], 
+        "duration_ms": 133306, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "2MdMwlaSpSVzbpqJdOnnee"
+      }, 
+      {
+        "name": "Cinderella's Big Score", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0AgGnlK6GLVOHEz9vdMZeq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/98962e1e0bff52f9f54f25ff36592a35b5ee6a64", 
+        "is_playable": true, 
+        "uri": "spotify:track:0AgGnlK6GLVOHEz9vdMZeq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0AgGnlK6GLVOHEz9vdMZeq", 
+        "artists": [
+          {
+            "name": "Sonic Youth", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
+            }, 
+            "uri": "spotify:artist:5UqTO8smerMvxHYA5xsXb6", 
+            "href": "https://api.spotify.com/v1/artists/5UqTO8smerMvxHYA5xsXb6", 
+            "type": "artist", 
+            "id": "5UqTO8smerMvxHYA5xsXb6"
+          }
+        ], 
+        "duration_ms": 354960, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "0AgGnlK6GLVOHEz9vdMZeq"
+      }, 
+      {
+        "name": "Scooter And Jinx", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1p4ytkku1HK0pSaY4OWb2F"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6420e6ed789a3a9668cb7fac6b9cb50fd4dd6efb", 
+        "is_playable": true, 
+        "uri": "spotify:track:1p4ytkku1HK0pSaY4OWb2F", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1p4ytkku1HK0pSaY4OWb2F", 
+        "artists": [
+          {
+            "name": "Sonic Youth", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
+            }, 
+            "uri": "spotify:artist:5UqTO8smerMvxHYA5xsXb6", 
+            "href": "https://api.spotify.com/v1/artists/5UqTO8smerMvxHYA5xsXb6", 
+            "type": "artist", 
+            "id": "5UqTO8smerMvxHYA5xsXb6"
+          }
+        ], 
+        "duration_ms": 66600, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "1p4ytkku1HK0pSaY4OWb2F"
+      }, 
+      {
+        "name": "Titanium Expose", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1WBNknOxjYPbE3bL1tGzaD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/17fb4370fd9595cd598ccb700a09d4928fa7ca72", 
+        "is_playable": true, 
+        "uri": "spotify:track:1WBNknOxjYPbE3bL1tGzaD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1WBNknOxjYPbE3bL1tGzaD", 
+        "artists": [
+          {
+            "name": "Sonic Youth", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
+            }, 
+            "uri": "spotify:artist:5UqTO8smerMvxHYA5xsXb6", 
+            "href": "https://api.spotify.com/v1/artists/5UqTO8smerMvxHYA5xsXb6", 
+            "type": "artist", 
+            "id": "5UqTO8smerMvxHYA5xsXb6"
+          }
+        ], 
+        "duration_ms": 387173, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "1WBNknOxjYPbE3bL1tGzaD"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/4G1YVElmzCn3QkVFQyuxkt/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 11, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/4G1YVElmzCn3QkVFQyuxkt", 
+  "copyrights": [
+    {
+      "text": "(C) 1990 Geffen Records Inc.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1990 Geffen Records Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Sonic Youth", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
+      }, 
+      "uri": "spotify:artist:5UqTO8smerMvxHYA5xsXb6", 
+      "href": "https://api.spotify.com/v1/artists/5UqTO8smerMvxHYA5xsXb6", 
+      "type": "artist", 
+      "id": "5UqTO8smerMvxHYA5xsXb6"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/faecf6a2d22024e22cb8fb40b06350a77b8d169b", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/d5bbe8a7e2554e06e8277a28f4f3fe8c7edd020a", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/ef1d75f489b778f78c24f4a914b2b61dcc6ca255", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00720642429723"
+  }, 
+  "type": "album", 
+  "id": "4G1YVElmzCn3QkVFQyuxkt", 
+  "name": "Goo"
+}

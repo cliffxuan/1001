@@ -1,0 +1,375 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2nXJkqkS1tIKIyhBcFMmwz"
+  }, 
+  "release_date": "2009-08-16", 
+  "popularity": 78, 
+  "genres": [], 
+  "uri": "spotify:album:2nXJkqkS1tIKIyhBcFMmwz", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Intro", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0bXpmJyHHYPk6QBFj25bYF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a657e3cb87b135b02fcd2d38b75402fed5b7b041", 
+        "is_playable": true, 
+        "uri": "spotify:track:0bXpmJyHHYPk6QBFj25bYF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0bXpmJyHHYPk6QBFj25bYF", 
+        "artists": [
+          {
+            "name": "The xx", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+            }, 
+            "uri": "spotify:artist:3iOvXCl6edW5Um0fXEBRXy", 
+            "href": "https://api.spotify.com/v1/artists/3iOvXCl6edW5Um0fXEBRXy", 
+            "type": "artist", 
+            "id": "3iOvXCl6edW5Um0fXEBRXy"
+          }
+        ], 
+        "duration_ms": 127920, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "0bXpmJyHHYPk6QBFj25bYF"
+      }, 
+      {
+        "name": "VCR", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6DXFVsLcEvOTSrkG9G1Cb1"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/95626d25e50ac55ee6d76f86fe4e3628a8e4505a", 
+        "is_playable": true, 
+        "uri": "spotify:track:6DXFVsLcEvOTSrkG9G1Cb1", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6DXFVsLcEvOTSrkG9G1Cb1", 
+        "artists": [
+          {
+            "name": "The xx", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+            }, 
+            "uri": "spotify:artist:3iOvXCl6edW5Um0fXEBRXy", 
+            "href": "https://api.spotify.com/v1/artists/3iOvXCl6edW5Um0fXEBRXy", 
+            "type": "artist", 
+            "id": "3iOvXCl6edW5Um0fXEBRXy"
+          }
+        ], 
+        "duration_ms": 177093, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "6DXFVsLcEvOTSrkG9G1Cb1"
+      }, 
+      {
+        "name": "Crystalised", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6rxEjkoar48SssZePbtb2x"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d372a066d633edde6e5d0575734b9940216b8483", 
+        "is_playable": true, 
+        "uri": "spotify:track:6rxEjkoar48SssZePbtb2x", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6rxEjkoar48SssZePbtb2x", 
+        "artists": [
+          {
+            "name": "The xx", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+            }, 
+            "uri": "spotify:artist:3iOvXCl6edW5Um0fXEBRXy", 
+            "href": "https://api.spotify.com/v1/artists/3iOvXCl6edW5Um0fXEBRXy", 
+            "type": "artist", 
+            "id": "3iOvXCl6edW5Um0fXEBRXy"
+          }
+        ], 
+        "duration_ms": 201946, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "6rxEjkoar48SssZePbtb2x"
+      }, 
+      {
+        "name": "Islands", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2SMn57cBVxoD4TArscpovk"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e539ce2fa7e9db98718cc7685e8cc3ba5dc49211", 
+        "is_playable": true, 
+        "uri": "spotify:track:2SMn57cBVxoD4TArscpovk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2SMn57cBVxoD4TArscpovk", 
+        "artists": [
+          {
+            "name": "The xx", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+            }, 
+            "uri": "spotify:artist:3iOvXCl6edW5Um0fXEBRXy", 
+            "href": "https://api.spotify.com/v1/artists/3iOvXCl6edW5Um0fXEBRXy", 
+            "type": "artist", 
+            "id": "3iOvXCl6edW5Um0fXEBRXy"
+          }
+        ], 
+        "duration_ms": 160720, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "2SMn57cBVxoD4TArscpovk"
+      }, 
+      {
+        "name": "Heart Skipped A Beat", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5HkUwvLeE5Lhd2FZjuXncU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e42e434eead62f04f254678b100d2655f257531c", 
+        "is_playable": true, 
+        "uri": "spotify:track:5HkUwvLeE5Lhd2FZjuXncU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5HkUwvLeE5Lhd2FZjuXncU", 
+        "artists": [
+          {
+            "name": "The xx", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+            }, 
+            "uri": "spotify:artist:3iOvXCl6edW5Um0fXEBRXy", 
+            "href": "https://api.spotify.com/v1/artists/3iOvXCl6edW5Um0fXEBRXy", 
+            "type": "artist", 
+            "id": "3iOvXCl6edW5Um0fXEBRXy"
+          }
+        ], 
+        "duration_ms": 242266, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "5HkUwvLeE5Lhd2FZjuXncU"
+      }, 
+      {
+        "name": "Fantasy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6zwUw48YOZL1CE8toS0WGN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/890766b52997ff90d4c825b1e57ce3364172b664", 
+        "is_playable": true, 
+        "uri": "spotify:track:6zwUw48YOZL1CE8toS0WGN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6zwUw48YOZL1CE8toS0WGN", 
+        "artists": [
+          {
+            "name": "The xx", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+            }, 
+            "uri": "spotify:artist:3iOvXCl6edW5Um0fXEBRXy", 
+            "href": "https://api.spotify.com/v1/artists/3iOvXCl6edW5Um0fXEBRXy", 
+            "type": "artist", 
+            "id": "3iOvXCl6edW5Um0fXEBRXy"
+          }
+        ], 
+        "duration_ms": 158240, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "6zwUw48YOZL1CE8toS0WGN"
+      }, 
+      {
+        "name": "Shelter", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4FfdmvdBN0LnLENhgJrpdQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b0a612bae2acfa25dcc92e3a233e008cf37cd8f6", 
+        "is_playable": true, 
+        "uri": "spotify:track:4FfdmvdBN0LnLENhgJrpdQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4FfdmvdBN0LnLENhgJrpdQ", 
+        "artists": [
+          {
+            "name": "The xx", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+            }, 
+            "uri": "spotify:artist:3iOvXCl6edW5Um0fXEBRXy", 
+            "href": "https://api.spotify.com/v1/artists/3iOvXCl6edW5Um0fXEBRXy", 
+            "type": "artist", 
+            "id": "3iOvXCl6edW5Um0fXEBRXy"
+          }
+        ], 
+        "duration_ms": 270240, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "4FfdmvdBN0LnLENhgJrpdQ"
+      }, 
+      {
+        "name": "Basic Space", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/16NE62lzGmi6ehGTNVI659"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4769bf26fd81d30b32a3da51dc9cac1d88afbb02", 
+        "is_playable": true, 
+        "uri": "spotify:track:16NE62lzGmi6ehGTNVI659", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/16NE62lzGmi6ehGTNVI659", 
+        "artists": [
+          {
+            "name": "The xx", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+            }, 
+            "uri": "spotify:artist:3iOvXCl6edW5Um0fXEBRXy", 
+            "href": "https://api.spotify.com/v1/artists/3iOvXCl6edW5Um0fXEBRXy", 
+            "type": "artist", 
+            "id": "3iOvXCl6edW5Um0fXEBRXy"
+          }
+        ], 
+        "duration_ms": 188120, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "16NE62lzGmi6ehGTNVI659"
+      }, 
+      {
+        "name": "Infinity", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Dl44SWywsIDdz1GgIp9gG"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5c5626786ef3c260f0a862f2c8590533ee0687f1", 
+        "is_playable": true, 
+        "uri": "spotify:track:1Dl44SWywsIDdz1GgIp9gG", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1Dl44SWywsIDdz1GgIp9gG", 
+        "artists": [
+          {
+            "name": "The xx", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+            }, 
+            "uri": "spotify:artist:3iOvXCl6edW5Um0fXEBRXy", 
+            "href": "https://api.spotify.com/v1/artists/3iOvXCl6edW5Um0fXEBRXy", 
+            "type": "artist", 
+            "id": "3iOvXCl6edW5Um0fXEBRXy"
+          }
+        ], 
+        "duration_ms": 313386, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "1Dl44SWywsIDdz1GgIp9gG"
+      }, 
+      {
+        "name": "Night Time", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4JVeSjOgryUGJ0yo4mqYBK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/197bc5321b62d33410c4b12aef07e8fabfa6429a", 
+        "is_playable": true, 
+        "uri": "spotify:track:4JVeSjOgryUGJ0yo4mqYBK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4JVeSjOgryUGJ0yo4mqYBK", 
+        "artists": [
+          {
+            "name": "The xx", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+            }, 
+            "uri": "spotify:artist:3iOvXCl6edW5Um0fXEBRXy", 
+            "href": "https://api.spotify.com/v1/artists/3iOvXCl6edW5Um0fXEBRXy", 
+            "type": "artist", 
+            "id": "3iOvXCl6edW5Um0fXEBRXy"
+          }
+        ], 
+        "duration_ms": 216853, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "4JVeSjOgryUGJ0yo4mqYBK"
+      }, 
+      {
+        "name": "Stars", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6qlfzOpeLcdoSxrgbkR0Zi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/86e7e7e249f1062f5ff686c56e99eb633c59f3e3", 
+        "is_playable": true, 
+        "uri": "spotify:track:6qlfzOpeLcdoSxrgbkR0Zi", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6qlfzOpeLcdoSxrgbkR0Zi", 
+        "artists": [
+          {
+            "name": "The xx", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+            }, 
+            "uri": "spotify:artist:3iOvXCl6edW5Um0fXEBRXy", 
+            "href": "https://api.spotify.com/v1/artists/3iOvXCl6edW5Um0fXEBRXy", 
+            "type": "artist", 
+            "id": "3iOvXCl6edW5Um0fXEBRXy"
+          }
+        ], 
+        "duration_ms": 262640, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "6qlfzOpeLcdoSxrgbkR0Zi"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/2nXJkqkS1tIKIyhBcFMmwz/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 11, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/2nXJkqkS1tIKIyhBcFMmwz", 
+  "copyrights": [
+    {
+      "text": "2009 Young Turks/ XL Recordings Ltd.", 
+      "type": "C"
+    }, 
+    {
+      "text": "2009 Young Turks/ XL Recordings Ltd.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "The xx", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+      }, 
+      "uri": "spotify:artist:3iOvXCl6edW5Um0fXEBRXy", 
+      "href": "https://api.spotify.com/v1/artists/3iOvXCl6edW5Um0fXEBRXy", 
+      "type": "artist", 
+      "id": "3iOvXCl6edW5Um0fXEBRXy"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/3631f331aa9a65dd93f78f8797d8a27cbba53f5f", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/305e9e283562ec1db94617f3fbd2621173e7c6c2", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/4de69061a105be354357e55b61899ea0f8bce01d", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "609008295069"
+  }, 
+  "type": "album", 
+  "id": "2nXJkqkS1tIKIyhBcFMmwz", 
+  "name": "xx"
+}

@@ -1,0 +1,319 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5DM1qCdgGt2zbknnsVn1Ca"
+  }, 
+  "release_date": "1985", 
+  "popularity": 53, 
+  "genres": [], 
+  "uri": "spotify:album:5DM1qCdgGt2zbknnsVn1Ca", 
+  "tracks": {
+    "items": [
+      {
+        "name": "The Headmaster Ritual - 2011 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4tFGNFIIZ9ANSewxGZyiDD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/792020b82bee9df101294bdc358665b2e19b0fd4", 
+        "is_playable": true, 
+        "uri": "spotify:track:4tFGNFIIZ9ANSewxGZyiDD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4tFGNFIIZ9ANSewxGZyiDD", 
+        "artists": [
+          {
+            "name": "The Smiths", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+            }, 
+            "uri": "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8", 
+            "href": "https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8", 
+            "type": "artist", 
+            "id": "3yY2gUcIsjMr8hjo51PoJ8"
+          }
+        ], 
+        "duration_ms": 295440, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "4tFGNFIIZ9ANSewxGZyiDD"
+      }, 
+      {
+        "name": "Rusholme Ruffians - 2011 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6rZ4Q8YW88xCERDq0AEbmt"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3580705d1ad629cb4d0d4d62fada7aaa32c2a82f", 
+        "is_playable": true, 
+        "uri": "spotify:track:6rZ4Q8YW88xCERDq0AEbmt", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6rZ4Q8YW88xCERDq0AEbmt", 
+        "artists": [
+          {
+            "name": "The Smiths", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+            }, 
+            "uri": "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8", 
+            "href": "https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8", 
+            "type": "artist", 
+            "id": "3yY2gUcIsjMr8hjo51PoJ8"
+          }
+        ], 
+        "duration_ms": 260133, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "6rZ4Q8YW88xCERDq0AEbmt"
+      }, 
+      {
+        "name": "I Want The One I Can't Have - 2011 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Bs7pbzxezGyNQO6DjqmC8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7c3d5a322906a6b7904d51ac045a1990f110baa6", 
+        "is_playable": true, 
+        "uri": "spotify:track:4Bs7pbzxezGyNQO6DjqmC8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4Bs7pbzxezGyNQO6DjqmC8", 
+        "artists": [
+          {
+            "name": "The Smiths", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+            }, 
+            "uri": "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8", 
+            "href": "https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8", 
+            "type": "artist", 
+            "id": "3yY2gUcIsjMr8hjo51PoJ8"
+          }
+        ], 
+        "duration_ms": 193800, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "4Bs7pbzxezGyNQO6DjqmC8"
+      }, 
+      {
+        "name": "What She Said - 2011 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1KmBbKdNCsMlpbbopYBvGH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c9f373448d7543edef55f5ef9ffa7182d4a871c6", 
+        "is_playable": true, 
+        "uri": "spotify:track:1KmBbKdNCsMlpbbopYBvGH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1KmBbKdNCsMlpbbopYBvGH", 
+        "artists": [
+          {
+            "name": "The Smiths", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+            }, 
+            "uri": "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8", 
+            "href": "https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8", 
+            "type": "artist", 
+            "id": "3yY2gUcIsjMr8hjo51PoJ8"
+          }
+        ], 
+        "duration_ms": 162573, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "1KmBbKdNCsMlpbbopYBvGH"
+      }, 
+      {
+        "name": "That Joke Isn't Funny Anymore - single version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/48veRDsAEBOJJnVnnabV99"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9f426cfebe660173b71de50b96ed29de236ec12d", 
+        "is_playable": true, 
+        "uri": "spotify:track:48veRDsAEBOJJnVnnabV99", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/48veRDsAEBOJJnVnnabV99", 
+        "artists": [
+          {
+            "name": "The Smiths", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+            }, 
+            "uri": "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8", 
+            "href": "https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8", 
+            "type": "artist", 
+            "id": "3yY2gUcIsjMr8hjo51PoJ8"
+          }
+        ], 
+        "duration_ms": 297586, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "48veRDsAEBOJJnVnnabV99"
+      }, 
+      {
+        "name": "Nowhere Fast - 2011 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3aI6N8o4ZlkPdq479tqKze"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ad264aa2aee228e7cb0459d36b3db8284aa59d57", 
+        "is_playable": true, 
+        "uri": "spotify:track:3aI6N8o4ZlkPdq479tqKze", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3aI6N8o4ZlkPdq479tqKze", 
+        "artists": [
+          {
+            "name": "The Smiths", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+            }, 
+            "uri": "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8", 
+            "href": "https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8", 
+            "type": "artist", 
+            "id": "3yY2gUcIsjMr8hjo51PoJ8"
+          }
+        ], 
+        "duration_ms": 157266, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "3aI6N8o4ZlkPdq479tqKze"
+      }, 
+      {
+        "name": "Well I Wonder - 2011 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3OS4XXm4S42pnESQmtN9MG"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5ec878e7a83ea77724669f9eec211a3e83a7b561", 
+        "is_playable": true, 
+        "uri": "spotify:track:3OS4XXm4S42pnESQmtN9MG", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3OS4XXm4S42pnESQmtN9MG", 
+        "artists": [
+          {
+            "name": "The Smiths", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+            }, 
+            "uri": "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8", 
+            "href": "https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8", 
+            "type": "artist", 
+            "id": "3yY2gUcIsjMr8hjo51PoJ8"
+          }
+        ], 
+        "duration_ms": 239426, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "3OS4XXm4S42pnESQmtN9MG"
+      }, 
+      {
+        "name": "Barbarism Begins At Home - 2011 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/35WDTZhAwkoBF65jGTzF2O"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/45cc75169c13b407343acf64eef8efa763fff50f", 
+        "is_playable": true, 
+        "uri": "spotify:track:35WDTZhAwkoBF65jGTzF2O", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/35WDTZhAwkoBF65jGTzF2O", 
+        "artists": [
+          {
+            "name": "The Smiths", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+            }, 
+            "uri": "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8", 
+            "href": "https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8", 
+            "type": "artist", 
+            "id": "3yY2gUcIsjMr8hjo51PoJ8"
+          }
+        ], 
+        "duration_ms": 413426, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "35WDTZhAwkoBF65jGTzF2O"
+      }, 
+      {
+        "name": "Meat Is Murder - 2011 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1vAvRteHbPcnq7fTTROnNB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9234ab3f7c1bcf95ddeb920218e6858b6333f21b", 
+        "is_playable": true, 
+        "uri": "spotify:track:1vAvRteHbPcnq7fTTROnNB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1vAvRteHbPcnq7fTTROnNB", 
+        "artists": [
+          {
+            "name": "The Smiths", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+            }, 
+            "uri": "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8", 
+            "href": "https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8", 
+            "type": "artist", 
+            "id": "3yY2gUcIsjMr8hjo51PoJ8"
+          }
+        ], 
+        "duration_ms": 373546, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "1vAvRteHbPcnq7fTTROnNB"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/5DM1qCdgGt2zbknnsVn1Ca/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 9, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/5DM1qCdgGt2zbknnsVn1Ca", 
+  "copyrights": [
+    {
+      "text": "1985 Warner Music UK Ltd", 
+      "type": "C"
+    }, 
+    {
+      "text": "2011 Rhino UK, a division of Warner Music UK Ltd.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "The Smiths", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+      }, 
+      "uri": "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8", 
+      "href": "https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8", 
+      "type": "artist", 
+      "id": "3yY2gUcIsjMr8hjo51PoJ8"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/e160b9fc08866c311b1fb5d380ec0b99fbfc1a72", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/b043d763e859a3b1d60f2c17b9615f9cdb8dd821", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/391dfb04d7234681370622db95db532b6f6e760b", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "825646642830"
+  }, 
+  "type": "album", 
+  "id": "5DM1qCdgGt2zbknnsVn1Ca", 
+  "name": "Meat Is Murder"
+}

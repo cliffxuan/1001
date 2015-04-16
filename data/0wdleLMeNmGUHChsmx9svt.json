@@ -1,0 +1,687 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0wdleLMeNmGUHChsmx9svt"
+  }, 
+  "release_date": "2004-03-02", 
+  "popularity": 41, 
+  "genres": [], 
+  "uri": "spotify:album:0wdleLMeNmGUHChsmx9svt", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Intro", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1upedscPNemBk9U6aqEDrh"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e4278bf899fc0e056440fa5eae30d4b48712646c", 
+        "is_playable": true, 
+        "uri": "spotify:track:1upedscPNemBk9U6aqEDrh", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1upedscPNemBk9U6aqEDrh", 
+        "artists": [
+          {
+            "name": "Cee Lo Green", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+            }, 
+            "uri": "spotify:artist:5nLYd9ST4Cnwy6NHaCxbj8", 
+            "href": "https://api.spotify.com/v1/artists/5nLYd9ST4Cnwy6NHaCxbj8", 
+            "type": "artist", 
+            "id": "5nLYd9ST4Cnwy6NHaCxbj8"
+          }
+        ], 
+        "duration_ms": 22800, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "1upedscPNemBk9U6aqEDrh"
+      }, 
+      {
+        "name": "Soul Machine", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6DJuvfRIKWA4PrxBajstxd"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/073d8d68bf3464da1cdf5d10ee5f9a98403e09fc", 
+        "is_playable": true, 
+        "uri": "spotify:track:6DJuvfRIKWA4PrxBajstxd", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6DJuvfRIKWA4PrxBajstxd", 
+        "artists": [
+          {
+            "name": "Cee Lo Green", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+            }, 
+            "uri": "spotify:artist:5nLYd9ST4Cnwy6NHaCxbj8", 
+            "href": "https://api.spotify.com/v1/artists/5nLYd9ST4Cnwy6NHaCxbj8", 
+            "type": "artist", 
+            "id": "5nLYd9ST4Cnwy6NHaCxbj8"
+          }
+        ], 
+        "duration_ms": 100413, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "6DJuvfRIKWA4PrxBajstxd"
+      }, 
+      {
+        "name": "The Art Of Noise", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/405wA3QOK4DHfTuGDZ8i9J"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/86ee6657be6ae331a67e6fd49cadcd331e7391a2", 
+        "is_playable": true, 
+        "uri": "spotify:track:405wA3QOK4DHfTuGDZ8i9J", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/405wA3QOK4DHfTuGDZ8i9J", 
+        "artists": [
+          {
+            "name": "Cee Lo Green", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+            }, 
+            "uri": "spotify:artist:5nLYd9ST4Cnwy6NHaCxbj8", 
+            "href": "https://api.spotify.com/v1/artists/5nLYd9ST4Cnwy6NHaCxbj8", 
+            "type": "artist", 
+            "id": "5nLYd9ST4Cnwy6NHaCxbj8"
+          }, 
+          {
+            "name": "Pharrell Williams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+            }, 
+            "uri": "spotify:artist:2RdwBSPQiwcmiDo9kixcl8", 
+            "href": "https://api.spotify.com/v1/artists/2RdwBSPQiwcmiDo9kixcl8", 
+            "type": "artist", 
+            "id": "2RdwBSPQiwcmiDo9kixcl8"
+          }
+        ], 
+        "duration_ms": 225546, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "405wA3QOK4DHfTuGDZ8i9J"
+      }, 
+      {
+        "name": "Living Again", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3DXX4OOF8mgOyf9Th0cOdr"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ffc9a7f3c182b8329f569e7f75aac39e48402518", 
+        "is_playable": true, 
+        "uri": "spotify:track:3DXX4OOF8mgOyf9Th0cOdr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3DXX4OOF8mgOyf9Th0cOdr", 
+        "artists": [
+          {
+            "name": "Cee Lo Green", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+            }, 
+            "uri": "spotify:artist:5nLYd9ST4Cnwy6NHaCxbj8", 
+            "href": "https://api.spotify.com/v1/artists/5nLYd9ST4Cnwy6NHaCxbj8", 
+            "type": "artist", 
+            "id": "5nLYd9ST4Cnwy6NHaCxbj8"
+          }
+        ], 
+        "duration_ms": 216640, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "3DXX4OOF8mgOyf9Th0cOdr"
+      }, 
+      {
+        "name": "I'll Be Around - Club Mix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2TIGwYiQYr1N5zTOQToDfK"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6435df4b341953cea42a990dadfd943bd1bffb38", 
+        "is_playable": true, 
+        "uri": "spotify:track:2TIGwYiQYr1N5zTOQToDfK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2TIGwYiQYr1N5zTOQToDfK", 
+        "artists": [
+          {
+            "name": "Cee Lo Green", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+            }, 
+            "uri": "spotify:artist:5nLYd9ST4Cnwy6NHaCxbj8", 
+            "href": "https://api.spotify.com/v1/artists/5nLYd9ST4Cnwy6NHaCxbj8", 
+            "type": "artist", 
+            "id": "5nLYd9ST4Cnwy6NHaCxbj8"
+          }, 
+          {
+            "name": "Timbaland", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+            }, 
+            "uri": "spotify:artist:5Y5TRrQiqgUO4S36tzjIRZ", 
+            "href": "https://api.spotify.com/v1/artists/5Y5TRrQiqgUO4S36tzjIRZ", 
+            "type": "artist", 
+            "id": "5Y5TRrQiqgUO4S36tzjIRZ"
+          }
+        ], 
+        "duration_ms": 221400, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "2TIGwYiQYr1N5zTOQToDfK"
+      }, 
+      {
+        "name": "The One", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1UDew3Ly8Pi2aatWYN5fsS"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e79c3647d3da91a5226ea01cc226f8a5938baa97", 
+        "is_playable": true, 
+        "uri": "spotify:track:1UDew3Ly8Pi2aatWYN5fsS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1UDew3Ly8Pi2aatWYN5fsS", 
+        "artists": [
+          {
+            "name": "Cee Lo Green", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+            }, 
+            "uri": "spotify:artist:5nLYd9ST4Cnwy6NHaCxbj8", 
+            "href": "https://api.spotify.com/v1/artists/5nLYd9ST4Cnwy6NHaCxbj8", 
+            "type": "artist", 
+            "id": "5nLYd9ST4Cnwy6NHaCxbj8"
+          }, 
+          {
+            "name": "Jazze Pha", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9"
+            }, 
+            "uri": "spotify:artist:1QkusyyiLCVP97x3TADKV9", 
+            "href": "https://api.spotify.com/v1/artists/1QkusyyiLCVP97x3TADKV9", 
+            "type": "artist", 
+            "id": "1QkusyyiLCVP97x3TADKV9"
+          }, 
+          {
+            "name": "T.I.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+            }, 
+            "uri": "spotify:artist:4OBJLual30L7gRl5UkeRcT", 
+            "href": "https://api.spotify.com/v1/artists/4OBJLual30L7gRl5UkeRcT", 
+            "type": "artist", 
+            "id": "4OBJLual30L7gRl5UkeRcT"
+          }
+        ], 
+        "duration_ms": 282693, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "1UDew3Ly8Pi2aatWYN5fsS"
+      }, 
+      {
+        "name": "My Kind Of People", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2V65t9VeXMJh0e5aG1jU7E"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e76073e06ce3ac20b93b2ded54e27fb78fe23330", 
+        "is_playable": true, 
+        "uri": "spotify:track:2V65t9VeXMJh0e5aG1jU7E", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2V65t9VeXMJh0e5aG1jU7E", 
+        "artists": [
+          {
+            "name": "Cee Lo Green", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+            }, 
+            "uri": "spotify:artist:5nLYd9ST4Cnwy6NHaCxbj8", 
+            "href": "https://api.spotify.com/v1/artists/5nLYd9ST4Cnwy6NHaCxbj8", 
+            "type": "artist", 
+            "id": "5nLYd9ST4Cnwy6NHaCxbj8"
+          }, 
+          {
+            "name": "Jazze Pha", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9"
+            }, 
+            "uri": "spotify:artist:1QkusyyiLCVP97x3TADKV9", 
+            "href": "https://api.spotify.com/v1/artists/1QkusyyiLCVP97x3TADKV9", 
+            "type": "artist", 
+            "id": "1QkusyyiLCVP97x3TADKV9"
+          }, 
+          {
+            "name": "Menta Malone", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5ubLUUMNGIazLcIVE7WmnH"
+            }, 
+            "uri": "spotify:artist:5ubLUUMNGIazLcIVE7WmnH", 
+            "href": "https://api.spotify.com/v1/artists/5ubLUUMNGIazLcIVE7WmnH", 
+            "type": "artist", 
+            "id": "5ubLUUMNGIazLcIVE7WmnH"
+          }
+        ], 
+        "duration_ms": 234453, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "2V65t9VeXMJh0e5aG1jU7E"
+      }, 
+      {
+        "name": "Childz Play", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/30wSbrbxq5iqbRnyooSbEI"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3664dd9435c26551a680d02331d3592379176330", 
+        "is_playable": true, 
+        "uri": "spotify:track:30wSbrbxq5iqbRnyooSbEI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/30wSbrbxq5iqbRnyooSbEI", 
+        "artists": [
+          {
+            "name": "Cee Lo Green", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+            }, 
+            "uri": "spotify:artist:5nLYd9ST4Cnwy6NHaCxbj8", 
+            "href": "https://api.spotify.com/v1/artists/5nLYd9ST4Cnwy6NHaCxbj8", 
+            "type": "artist", 
+            "id": "5nLYd9ST4Cnwy6NHaCxbj8"
+          }, 
+          {
+            "name": "Ludacris", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+            }, 
+            "uri": "spotify:artist:3ipn9JLAPI5GUEo4y4jcoi", 
+            "href": "https://api.spotify.com/v1/artists/3ipn9JLAPI5GUEo4y4jcoi", 
+            "type": "artist", 
+            "id": "3ipn9JLAPI5GUEo4y4jcoi"
+          }
+        ], 
+        "duration_ms": 234466, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "30wSbrbxq5iqbRnyooSbEI"
+      }, 
+      {
+        "name": "I Am Selling Soul", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5wPdWembNLmep39VKEwMOq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/aa0cffa713ec9cdf7490e7c213941f7f627b8414", 
+        "is_playable": true, 
+        "uri": "spotify:track:5wPdWembNLmep39VKEwMOq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5wPdWembNLmep39VKEwMOq", 
+        "artists": [
+          {
+            "name": "Cee Lo Green", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+            }, 
+            "uri": "spotify:artist:5nLYd9ST4Cnwy6NHaCxbj8", 
+            "href": "https://api.spotify.com/v1/artists/5nLYd9ST4Cnwy6NHaCxbj8", 
+            "type": "artist", 
+            "id": "5nLYd9ST4Cnwy6NHaCxbj8"
+          }
+        ], 
+        "duration_ms": 256720, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "5wPdWembNLmep39VKEwMOq"
+      }, 
+      {
+        "name": "All Day Love Affair", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Zk7ZpPo9Cu8Z7uREDLRpH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/69bbfde1cc7d784d679da3d488dfd70aa22c7674", 
+        "is_playable": true, 
+        "uri": "spotify:track:6Zk7ZpPo9Cu8Z7uREDLRpH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6Zk7ZpPo9Cu8Z7uREDLRpH", 
+        "artists": [
+          {
+            "name": "Cee Lo Green", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+            }, 
+            "uri": "spotify:artist:5nLYd9ST4Cnwy6NHaCxbj8", 
+            "href": "https://api.spotify.com/v1/artists/5nLYd9ST4Cnwy6NHaCxbj8", 
+            "type": "artist", 
+            "id": "5nLYd9ST4Cnwy6NHaCxbj8"
+          }
+        ], 
+        "duration_ms": 251613, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "6Zk7ZpPo9Cu8Z7uREDLRpH"
+      }, 
+      {
+        "name": "Evening News", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5QEO7wYoJ2gv6Igs96dAmy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/393cfc184b60548294e640496aa12828d42b9d44", 
+        "is_playable": true, 
+        "uri": "spotify:track:5QEO7wYoJ2gv6Igs96dAmy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5QEO7wYoJ2gv6Igs96dAmy", 
+        "artists": [
+          {
+            "name": "Cee Lo Green", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+            }, 
+            "uri": "spotify:artist:5nLYd9ST4Cnwy6NHaCxbj8", 
+            "href": "https://api.spotify.com/v1/artists/5nLYd9ST4Cnwy6NHaCxbj8", 
+            "type": "artist", 
+            "id": "5nLYd9ST4Cnwy6NHaCxbj8"
+          }, 
+          {
+            "name": "Chazzie", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2l8Sszon3yQDStEHxwXFtV"
+            }, 
+            "uri": "spotify:artist:2l8Sszon3yQDStEHxwXFtV", 
+            "href": "https://api.spotify.com/v1/artists/2l8Sszon3yQDStEHxwXFtV", 
+            "type": "artist", 
+            "id": "2l8Sszon3yQDStEHxwXFtV"
+          }, 
+          {
+            "name": "Sir Cognac the Conversation", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3dAEk1hBGEYXYPmuATRR90"
+            }, 
+            "uri": "spotify:artist:3dAEk1hBGEYXYPmuATRR90", 
+            "href": "https://api.spotify.com/v1/artists/3dAEk1hBGEYXYPmuATRR90", 
+            "type": "artist", 
+            "id": "3dAEk1hBGEYXYPmuATRR90"
+          }
+        ], 
+        "duration_ms": 252213, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "5QEO7wYoJ2gv6Igs96dAmy"
+      }, 
+      {
+        "name": "Scrap Metal", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3e8xmiPev2Cjkh3679ZNyg"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/93223d5788231ad42dab677c7c7f023f3e54a08b", 
+        "is_playable": true, 
+        "uri": "spotify:track:3e8xmiPev2Cjkh3679ZNyg", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3e8xmiPev2Cjkh3679ZNyg", 
+        "artists": [
+          {
+            "name": "Cee Lo Green", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+            }, 
+            "uri": "spotify:artist:5nLYd9ST4Cnwy6NHaCxbj8", 
+            "href": "https://api.spotify.com/v1/artists/5nLYd9ST4Cnwy6NHaCxbj8", 
+            "type": "artist", 
+            "id": "5nLYd9ST4Cnwy6NHaCxbj8"
+          }, 
+          {
+            "name": "Big Rube", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/39uOfkRb9XnAEW9zs3JCbb"
+            }, 
+            "uri": "spotify:artist:39uOfkRb9XnAEW9zs3JCbb", 
+            "href": "https://api.spotify.com/v1/artists/39uOfkRb9XnAEW9zs3JCbb", 
+            "type": "artist", 
+            "id": "39uOfkRb9XnAEW9zs3JCbb"
+          }, 
+          {
+            "name": "G-Rock", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2SvfHV6gN46gkYO5Nz9MU3"
+            }, 
+            "uri": "spotify:artist:2SvfHV6gN46gkYO5Nz9MU3", 
+            "href": "https://api.spotify.com/v1/artists/2SvfHV6gN46gkYO5Nz9MU3", 
+            "type": "artist", 
+            "id": "2SvfHV6gN46gkYO5Nz9MU3"
+          }
+        ], 
+        "duration_ms": 279973, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "3e8xmiPev2Cjkh3679ZNyg"
+      }, 
+      {
+        "name": "Glockappella", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5DPzSyiiGdHD9i5chIP5fX"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/def625a236cd0fd0b4d53606f311b75b66d5f055", 
+        "is_playable": true, 
+        "uri": "spotify:track:5DPzSyiiGdHD9i5chIP5fX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5DPzSyiiGdHD9i5chIP5fX", 
+        "artists": [
+          {
+            "name": "Cee Lo Green", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+            }, 
+            "uri": "spotify:artist:5nLYd9ST4Cnwy6NHaCxbj8", 
+            "href": "https://api.spotify.com/v1/artists/5nLYd9ST4Cnwy6NHaCxbj8", 
+            "type": "artist", 
+            "id": "5nLYd9ST4Cnwy6NHaCxbj8"
+          }
+        ], 
+        "duration_ms": 320893, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "5DPzSyiiGdHD9i5chIP5fX"
+      }, 
+      {
+        "name": "When We Were Friends", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0qn5dX0AbnQYPied7zXlwD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/aa361f02f7b26b92323d182ca8fdd18bf523927b", 
+        "is_playable": true, 
+        "uri": "spotify:track:0qn5dX0AbnQYPied7zXlwD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0qn5dX0AbnQYPied7zXlwD", 
+        "artists": [
+          {
+            "name": "Cee Lo Green", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+            }, 
+            "uri": "spotify:artist:5nLYd9ST4Cnwy6NHaCxbj8", 
+            "href": "https://api.spotify.com/v1/artists/5nLYd9ST4Cnwy6NHaCxbj8", 
+            "type": "artist", 
+            "id": "5nLYd9ST4Cnwy6NHaCxbj8"
+          }
+        ], 
+        "duration_ms": 222746, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "0qn5dX0AbnQYPied7zXlwD"
+      }, 
+      {
+        "name": "Sometimes", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7GDEmQS3YnBPbBIZfrmJpG"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5ea92242bb1e8f2d3d4582d061e40184071d10f9", 
+        "is_playable": true, 
+        "uri": "spotify:track:7GDEmQS3YnBPbBIZfrmJpG", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7GDEmQS3YnBPbBIZfrmJpG", 
+        "artists": [
+          {
+            "name": "Cee Lo Green", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+            }, 
+            "uri": "spotify:artist:5nLYd9ST4Cnwy6NHaCxbj8", 
+            "href": "https://api.spotify.com/v1/artists/5nLYd9ST4Cnwy6NHaCxbj8", 
+            "type": "artist", 
+            "id": "5nLYd9ST4Cnwy6NHaCxbj8"
+          }
+        ], 
+        "duration_ms": 303600, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "7GDEmQS3YnBPbBIZfrmJpG"
+      }, 
+      {
+        "name": "Let's Stay Together", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5WzJu9Jz3ybir26aTQzQKu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/368c46b02c284862700c3d0c5389fe271b643537", 
+        "is_playable": true, 
+        "uri": "spotify:track:5WzJu9Jz3ybir26aTQzQKu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5WzJu9Jz3ybir26aTQzQKu", 
+        "artists": [
+          {
+            "name": "Cee Lo Green", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+            }, 
+            "uri": "spotify:artist:5nLYd9ST4Cnwy6NHaCxbj8", 
+            "href": "https://api.spotify.com/v1/artists/5nLYd9ST4Cnwy6NHaCxbj8", 
+            "type": "artist", 
+            "id": "5nLYd9ST4Cnwy6NHaCxbj8"
+          }, 
+          {
+            "name": "Pharrell Williams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+            }, 
+            "uri": "spotify:artist:2RdwBSPQiwcmiDo9kixcl8", 
+            "href": "https://api.spotify.com/v1/artists/2RdwBSPQiwcmiDo9kixcl8", 
+            "type": "artist", 
+            "id": "2RdwBSPQiwcmiDo9kixcl8"
+          }
+        ], 
+        "duration_ms": 234173, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "5WzJu9Jz3ybir26aTQzQKu"
+      }, 
+      {
+        "name": "Die Trying", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0RWJOjoGvMzrauEEyV0wuE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0c858d72455480cba3d8fda90e7cca31a9328e81", 
+        "is_playable": true, 
+        "uri": "spotify:track:0RWJOjoGvMzrauEEyV0wuE", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0RWJOjoGvMzrauEEyV0wuE", 
+        "artists": [
+          {
+            "name": "Cee Lo Green", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+            }, 
+            "uri": "spotify:artist:5nLYd9ST4Cnwy6NHaCxbj8", 
+            "href": "https://api.spotify.com/v1/artists/5nLYd9ST4Cnwy6NHaCxbj8", 
+            "type": "artist", 
+            "id": "5nLYd9ST4Cnwy6NHaCxbj8"
+          }
+        ], 
+        "duration_ms": 244600, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "0RWJOjoGvMzrauEEyV0wuE"
+      }, 
+      {
+        "name": "What Don't You Do? (Outro)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0dh5Fdaq7icrnJ1tTGRAuK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6928101835c35efcafbdf230bbd7876aa1368f06", 
+        "is_playable": true, 
+        "uri": "spotify:track:0dh5Fdaq7icrnJ1tTGRAuK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0dh5Fdaq7icrnJ1tTGRAuK", 
+        "artists": [
+          {
+            "name": "Cee Lo Green", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+            }, 
+            "uri": "spotify:artist:5nLYd9ST4Cnwy6NHaCxbj8", 
+            "href": "https://api.spotify.com/v1/artists/5nLYd9ST4Cnwy6NHaCxbj8", 
+            "type": "artist", 
+            "id": "5nLYd9ST4Cnwy6NHaCxbj8"
+          }
+        ], 
+        "duration_ms": 20733, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "0dh5Fdaq7icrnJ1tTGRAuK"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/0wdleLMeNmGUHChsmx9svt/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 18, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/0wdleLMeNmGUHChsmx9svt", 
+  "copyrights": [
+    {
+      "text": "(P) 2004 Arista Records, Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Cee Lo Green", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+      }, 
+      "uri": "spotify:artist:5nLYd9ST4Cnwy6NHaCxbj8", 
+      "href": "https://api.spotify.com/v1/artists/5nLYd9ST4Cnwy6NHaCxbj8", 
+      "type": "artist", 
+      "id": "5nLYd9ST4Cnwy6NHaCxbj8"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/8575ee724b425643b585d034c5e991f8102684af", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/51248783a17675e4c64e5fa51757b65e6133163d", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/e608886a6477bbad367477f8b7543aafeb0ebd09", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "828765211123"
+  }, 
+  "type": "album", 
+  "id": "0wdleLMeNmGUHChsmx9svt", 
+  "name": "Cee-Lo Green... Is The Soul Machine"
+}

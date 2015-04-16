@@ -1,0 +1,543 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7ojNQckNp7Tj2BkLJCiiUL"
+  }, 
+  "release_date": "2002-05-21", 
+  "popularity": 42, 
+  "genres": [], 
+  "uri": "spotify:album:7ojNQckNp7Tj2BkLJCiiUL", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Sail Away - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/79zQv3SsEOmyPAgUP4YDjz"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cea44b94f54ec0fb508d882ac550ac1c110bdd12", 
+        "is_playable": true, 
+        "uri": "spotify:track:79zQv3SsEOmyPAgUP4YDjz", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/79zQv3SsEOmyPAgUP4YDjz", 
+        "artists": [
+          {
+            "name": "Randy Newman", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+            }, 
+            "uri": "spotify:artist:3HQyFCFFfJO3KKBlUfZsyW", 
+            "href": "https://api.spotify.com/v1/artists/3HQyFCFFfJO3KKBlUfZsyW", 
+            "type": "artist", 
+            "id": "3HQyFCFFfJO3KKBlUfZsyW"
+          }
+        ], 
+        "duration_ms": 173266, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "79zQv3SsEOmyPAgUP4YDjz"
+      }, 
+      {
+        "name": "Lonely At The Top - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1xYDQddf1bZCs4jQCQRRtG"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3b96d0ca5e7ca812666dfb2afe6b9451b976135e", 
+        "is_playable": true, 
+        "uri": "spotify:track:1xYDQddf1bZCs4jQCQRRtG", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1xYDQddf1bZCs4jQCQRRtG", 
+        "artists": [
+          {
+            "name": "Randy Newman", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+            }, 
+            "uri": "spotify:artist:3HQyFCFFfJO3KKBlUfZsyW", 
+            "href": "https://api.spotify.com/v1/artists/3HQyFCFFfJO3KKBlUfZsyW", 
+            "type": "artist", 
+            "id": "3HQyFCFFfJO3KKBlUfZsyW"
+          }
+        ], 
+        "duration_ms": 147386, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "1xYDQddf1bZCs4jQCQRRtG"
+      }, 
+      {
+        "name": "He Gives Us All His Love - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Se6vKr55KFWQUwtqRqV08"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/47a36950b0fc81855aa3d476e66b41632423f3bd", 
+        "is_playable": true, 
+        "uri": "spotify:track:2Se6vKr55KFWQUwtqRqV08", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2Se6vKr55KFWQUwtqRqV08", 
+        "artists": [
+          {
+            "name": "Randy Newman", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+            }, 
+            "uri": "spotify:artist:3HQyFCFFfJO3KKBlUfZsyW", 
+            "href": "https://api.spotify.com/v1/artists/3HQyFCFFfJO3KKBlUfZsyW", 
+            "type": "artist", 
+            "id": "3HQyFCFFfJO3KKBlUfZsyW"
+          }
+        ], 
+        "duration_ms": 115933, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "2Se6vKr55KFWQUwtqRqV08"
+      }, 
+      {
+        "name": "Last Night I Had A Dream - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3jCMVYaAZJRlqeEbpj27hg"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6facbd5ddd1d881dbf03c152a0f5ab1bd854acf6", 
+        "is_playable": true, 
+        "uri": "spotify:track:3jCMVYaAZJRlqeEbpj27hg", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3jCMVYaAZJRlqeEbpj27hg", 
+        "artists": [
+          {
+            "name": "Randy Newman", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+            }, 
+            "uri": "spotify:artist:3HQyFCFFfJO3KKBlUfZsyW", 
+            "href": "https://api.spotify.com/v1/artists/3HQyFCFFfJO3KKBlUfZsyW", 
+            "type": "artist", 
+            "id": "3HQyFCFFfJO3KKBlUfZsyW"
+          }
+        ], 
+        "duration_ms": 184426, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "3jCMVYaAZJRlqeEbpj27hg"
+      }, 
+      {
+        "name": "Simon Smith And The Amazing Dancing Bear - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2SwS01bg6tSCqeo4SSTHzB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/719989da55431fe165b7f443c86894692990be90", 
+        "is_playable": true, 
+        "uri": "spotify:track:2SwS01bg6tSCqeo4SSTHzB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2SwS01bg6tSCqeo4SSTHzB", 
+        "artists": [
+          {
+            "name": "Randy Newman", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+            }, 
+            "uri": "spotify:artist:3HQyFCFFfJO3KKBlUfZsyW", 
+            "href": "https://api.spotify.com/v1/artists/3HQyFCFFfJO3KKBlUfZsyW", 
+            "type": "artist", 
+            "id": "3HQyFCFFfJO3KKBlUfZsyW"
+          }
+        ], 
+        "duration_ms": 125400, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "2SwS01bg6tSCqeo4SSTHzB"
+      }, 
+      {
+        "name": "Old Man - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Iht13clFnNSltZ5F73n9w"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a4be5eacd378c547840ff435b937df225b345082", 
+        "is_playable": true, 
+        "uri": "spotify:track:1Iht13clFnNSltZ5F73n9w", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1Iht13clFnNSltZ5F73n9w", 
+        "artists": [
+          {
+            "name": "Randy Newman", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+            }, 
+            "uri": "spotify:artist:3HQyFCFFfJO3KKBlUfZsyW", 
+            "href": "https://api.spotify.com/v1/artists/3HQyFCFFfJO3KKBlUfZsyW", 
+            "type": "artist", 
+            "id": "3HQyFCFFfJO3KKBlUfZsyW"
+          }
+        ], 
+        "duration_ms": 163106, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "1Iht13clFnNSltZ5F73n9w"
+      }, 
+      {
+        "name": "Political Science - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3ECyzv2mucP3SjaiQQyLIv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/23a8a7c06c6fd27e56b1ac86e612d6f9943ec65d", 
+        "is_playable": true, 
+        "uri": "spotify:track:3ECyzv2mucP3SjaiQQyLIv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3ECyzv2mucP3SjaiQQyLIv", 
+        "artists": [
+          {
+            "name": "Randy Newman", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+            }, 
+            "uri": "spotify:artist:3HQyFCFFfJO3KKBlUfZsyW", 
+            "href": "https://api.spotify.com/v1/artists/3HQyFCFFfJO3KKBlUfZsyW", 
+            "type": "artist", 
+            "id": "3HQyFCFFfJO3KKBlUfZsyW"
+          }
+        ], 
+        "duration_ms": 123133, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "3ECyzv2mucP3SjaiQQyLIv"
+      }, 
+      {
+        "name": "Burn On - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4eVrvgT94P8WukADoh6E2P"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d68a343fac99587d4ab2d154ed16429cdc5dba88", 
+        "is_playable": true, 
+        "uri": "spotify:track:4eVrvgT94P8WukADoh6E2P", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4eVrvgT94P8WukADoh6E2P", 
+        "artists": [
+          {
+            "name": "Randy Newman", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+            }, 
+            "uri": "spotify:artist:3HQyFCFFfJO3KKBlUfZsyW", 
+            "href": "https://api.spotify.com/v1/artists/3HQyFCFFfJO3KKBlUfZsyW", 
+            "type": "artist", 
+            "id": "3HQyFCFFfJO3KKBlUfZsyW"
+          }
+        ], 
+        "duration_ms": 153400, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "4eVrvgT94P8WukADoh6E2P"
+      }, 
+      {
+        "name": "Memo To My Son - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Vw9sw0Tr4saqD2E75cZ1X"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6b6a39fcb185afe30c99e436371574cdfef28a67", 
+        "is_playable": true, 
+        "uri": "spotify:track:5Vw9sw0Tr4saqD2E75cZ1X", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5Vw9sw0Tr4saqD2E75cZ1X", 
+        "artists": [
+          {
+            "name": "Randy Newman", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+            }, 
+            "uri": "spotify:artist:3HQyFCFFfJO3KKBlUfZsyW", 
+            "href": "https://api.spotify.com/v1/artists/3HQyFCFFfJO3KKBlUfZsyW", 
+            "type": "artist", 
+            "id": "3HQyFCFFfJO3KKBlUfZsyW"
+          }
+        ], 
+        "duration_ms": 115093, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "5Vw9sw0Tr4saqD2E75cZ1X"
+      }, 
+      {
+        "name": "Dayton, Ohio - 1903 - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Pk9GnqqmfKLJ65Opzky9t"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9095b7903d2967c55c8a669615b6e01c2e1d1c46", 
+        "is_playable": true, 
+        "uri": "spotify:track:2Pk9GnqqmfKLJ65Opzky9t", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2Pk9GnqqmfKLJ65Opzky9t", 
+        "artists": [
+          {
+            "name": "Randy Newman", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+            }, 
+            "uri": "spotify:artist:3HQyFCFFfJO3KKBlUfZsyW", 
+            "href": "https://api.spotify.com/v1/artists/3HQyFCFFfJO3KKBlUfZsyW", 
+            "type": "artist", 
+            "id": "3HQyFCFFfJO3KKBlUfZsyW"
+          }
+        ], 
+        "duration_ms": 113000, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "2Pk9GnqqmfKLJ65Opzky9t"
+      }, 
+      {
+        "name": "You Can Leave Your Hat On - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6g15icndZ6ig2CtKcayHHx"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/682ac2a1b409b7947ff9a107ba8e07ce4435da94", 
+        "is_playable": true, 
+        "uri": "spotify:track:6g15icndZ6ig2CtKcayHHx", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6g15icndZ6ig2CtKcayHHx", 
+        "artists": [
+          {
+            "name": "Randy Newman", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+            }, 
+            "uri": "spotify:artist:3HQyFCFFfJO3KKBlUfZsyW", 
+            "href": "https://api.spotify.com/v1/artists/3HQyFCFFfJO3KKBlUfZsyW", 
+            "type": "artist", 
+            "id": "3HQyFCFFfJO3KKBlUfZsyW"
+          }
+        ], 
+        "duration_ms": 198066, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "6g15icndZ6ig2CtKcayHHx"
+      }, 
+      {
+        "name": "God's Song (That's Why I Love Mankind) - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0gvmUlKbABaYKEtOV40aA8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/23dab3ab83c4972e287585411249f6016a253f73", 
+        "is_playable": true, 
+        "uri": "spotify:track:0gvmUlKbABaYKEtOV40aA8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0gvmUlKbABaYKEtOV40aA8", 
+        "artists": [
+          {
+            "name": "Randy Newman", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+            }, 
+            "uri": "spotify:artist:3HQyFCFFfJO3KKBlUfZsyW", 
+            "href": "https://api.spotify.com/v1/artists/3HQyFCFFfJO3KKBlUfZsyW", 
+            "type": "artist", 
+            "id": "3HQyFCFFfJO3KKBlUfZsyW"
+          }
+        ], 
+        "duration_ms": 219973, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "0gvmUlKbABaYKEtOV40aA8"
+      }, 
+      {
+        "name": "Let It Shine - Demo, Previously Unissued Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6sHksaeMEoLfr4vHrJgXaW"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/78b7d9f83c969da2b0d4c1cb29ca246dd39e0f7c", 
+        "is_playable": true, 
+        "uri": "spotify:track:6sHksaeMEoLfr4vHrJgXaW", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6sHksaeMEoLfr4vHrJgXaW", 
+        "artists": [
+          {
+            "name": "Randy Newman", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+            }, 
+            "uri": "spotify:artist:3HQyFCFFfJO3KKBlUfZsyW", 
+            "href": "https://api.spotify.com/v1/artists/3HQyFCFFfJO3KKBlUfZsyW", 
+            "type": "artist", 
+            "id": "3HQyFCFFfJO3KKBlUfZsyW"
+          }
+        ], 
+        "duration_ms": 108226, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "6sHksaeMEoLfr4vHrJgXaW"
+      }, 
+      {
+        "name": "Maybe I'm Doing It Wrong - Studio Version, Previously Unissued Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6lXs05TtXHuFu7uZTx30nq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/56b39cc5ac746330f51d273796d1bc87308b5a7b", 
+        "is_playable": true, 
+        "uri": "spotify:track:6lXs05TtXHuFu7uZTx30nq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6lXs05TtXHuFu7uZTx30nq", 
+        "artists": [
+          {
+            "name": "Randy Newman", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+            }, 
+            "uri": "spotify:artist:3HQyFCFFfJO3KKBlUfZsyW", 
+            "href": "https://api.spotify.com/v1/artists/3HQyFCFFfJO3KKBlUfZsyW", 
+            "type": "artist", 
+            "id": "3HQyFCFFfJO3KKBlUfZsyW"
+          }
+        ], 
+        "duration_ms": 82506, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "6lXs05TtXHuFu7uZTx30nq"
+      }, 
+      {
+        "name": "Dayton, Ohio - 1903 - Early Version, Previously Unissued Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4ru4L9rin6QFnu5lgvGj1P"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e17dd78d226ac0520d0ba40274afc134d2ea5045", 
+        "is_playable": true, 
+        "uri": "spotify:track:4ru4L9rin6QFnu5lgvGj1P", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4ru4L9rin6QFnu5lgvGj1P", 
+        "artists": [
+          {
+            "name": "Randy Newman", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+            }, 
+            "uri": "spotify:artist:3HQyFCFFfJO3KKBlUfZsyW", 
+            "href": "https://api.spotify.com/v1/artists/3HQyFCFFfJO3KKBlUfZsyW", 
+            "type": "artist", 
+            "id": "3HQyFCFFfJO3KKBlUfZsyW"
+          }
+        ], 
+        "duration_ms": 116666, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "4ru4L9rin6QFnu5lgvGj1P"
+      }, 
+      {
+        "name": "You Can Leave Your Hat On - Demo, Previously Unissued Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7plq9LgpCQASO6rnkRyJYS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a84edeaaaba1857513418c4958937a889c43032a", 
+        "is_playable": true, 
+        "uri": "spotify:track:7plq9LgpCQASO6rnkRyJYS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7plq9LgpCQASO6rnkRyJYS", 
+        "artists": [
+          {
+            "name": "Randy Newman", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+            }, 
+            "uri": "spotify:artist:3HQyFCFFfJO3KKBlUfZsyW", 
+            "href": "https://api.spotify.com/v1/artists/3HQyFCFFfJO3KKBlUfZsyW", 
+            "type": "artist", 
+            "id": "3HQyFCFFfJO3KKBlUfZsyW"
+          }
+        ], 
+        "duration_ms": 166333, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "7plq9LgpCQASO6rnkRyJYS"
+      }, 
+      {
+        "name": "Sail Away - Early Version, Previously Unissued Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3N0GSg9ut5Pe5u0QtsKcMw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/86dde58520ef5ed376f46f45aa3a71db522c08a9", 
+        "is_playable": true, 
+        "uri": "spotify:track:3N0GSg9ut5Pe5u0QtsKcMw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3N0GSg9ut5Pe5u0QtsKcMw", 
+        "artists": [
+          {
+            "name": "Randy Newman", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+            }, 
+            "uri": "spotify:artist:3HQyFCFFfJO3KKBlUfZsyW", 
+            "href": "https://api.spotify.com/v1/artists/3HQyFCFFfJO3KKBlUfZsyW", 
+            "type": "artist", 
+            "id": "3HQyFCFFfJO3KKBlUfZsyW"
+          }
+        ], 
+        "duration_ms": 199933, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "3N0GSg9ut5Pe5u0QtsKcMw"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/7ojNQckNp7Tj2BkLJCiiUL/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 17, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/7ojNQckNp7Tj2BkLJCiiUL", 
+  "copyrights": [
+    {
+      "text": "2005 Warner Bros. Records Inc. Manufactured and Marketed by Warner Strategic Marketing", 
+      "type": "C"
+    }, 
+    {
+      "text": "2005 Warner Bros. Records Inc. Manufactured and Marketed by Warner Strategic Marketing", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Randy Newman", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+      }, 
+      "uri": "spotify:artist:3HQyFCFFfJO3KKBlUfZsyW", 
+      "href": "https://api.spotify.com/v1/artists/3HQyFCFFfJO3KKBlUfZsyW", 
+      "type": "artist", 
+      "id": "3HQyFCFFfJO3KKBlUfZsyW"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/af1feeb53d6ac9925c5633acc0372311de98fed4", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/14bf44a625fc896a21413fb0c49062e25831c0f9", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/60b7b372ca935ff3c2fa5e76de71d81f5e2ce995", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "081227824464"
+  }, 
+  "type": "album", 
+  "id": "7ojNQckNp7Tj2BkLJCiiUL", 
+  "name": "Sail Away"
+}

@@ -1,0 +1,515 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1zcOyLZRT2TyxReQ55AEbM"
+  }, 
+  "release_date": "2000-04-08", 
+  "popularity": 54, 
+  "genres": [], 
+  "uri": "spotify:album:1zcOyLZRT2TyxReQ55AEbM", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Son Of Sam", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3KHwIfNoUN99Jwg9pjeo5p"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3656cc2eebd057e91efcfffdc6ec8eb425a8c81e", 
+        "is_playable": true, 
+        "uri": "spotify:track:3KHwIfNoUN99Jwg9pjeo5p", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3KHwIfNoUN99Jwg9pjeo5p", 
+        "artists": [
+          {
+            "name": "Elliott Smith", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+            }, 
+            "uri": "spotify:artist:2ApaG60P4r0yhBoDCGD8YG", 
+            "href": "https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG", 
+            "type": "artist", 
+            "id": "2ApaG60P4r0yhBoDCGD8YG"
+          }
+        ], 
+        "duration_ms": 184333, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "3KHwIfNoUN99Jwg9pjeo5p"
+      }, 
+      {
+        "name": "Somebody That I Used To Know", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0LtliXTRs1Ih2JGi3DW9Ts"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6f53e68defad2ebd47470d7ea847ce55fceff496", 
+        "is_playable": true, 
+        "uri": "spotify:track:0LtliXTRs1Ih2JGi3DW9Ts", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0LtliXTRs1Ih2JGi3DW9Ts", 
+        "artists": [
+          {
+            "name": "Elliott Smith", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+            }, 
+            "uri": "spotify:artist:2ApaG60P4r0yhBoDCGD8YG", 
+            "href": "https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG", 
+            "type": "artist", 
+            "id": "2ApaG60P4r0yhBoDCGD8YG"
+          }
+        ], 
+        "duration_ms": 129333, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "0LtliXTRs1Ih2JGi3DW9Ts"
+      }, 
+      {
+        "name": "Junk Bond Trader", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Du760YYL04wH7WchIeaOF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c078eb0517e3852ad9db198b0c6c3931b2f667cd", 
+        "is_playable": true, 
+        "uri": "spotify:track:0Du760YYL04wH7WchIeaOF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0Du760YYL04wH7WchIeaOF", 
+        "artists": [
+          {
+            "name": "Elliott Smith", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+            }, 
+            "uri": "spotify:artist:2ApaG60P4r0yhBoDCGD8YG", 
+            "href": "https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG", 
+            "type": "artist", 
+            "id": "2ApaG60P4r0yhBoDCGD8YG"
+          }
+        ], 
+        "duration_ms": 229693, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "0Du760YYL04wH7WchIeaOF"
+      }, 
+      {
+        "name": "Everything Reminds Me Of Her", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4MsGy0LDvJrRd69uMmRNSo"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e7586ed5c6aaa75baf4dc93a12a41112d0957ee6", 
+        "is_playable": true, 
+        "uri": "spotify:track:4MsGy0LDvJrRd69uMmRNSo", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4MsGy0LDvJrRd69uMmRNSo", 
+        "artists": [
+          {
+            "name": "Elliott Smith", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+            }, 
+            "uri": "spotify:artist:2ApaG60P4r0yhBoDCGD8YG", 
+            "href": "https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG", 
+            "type": "artist", 
+            "id": "2ApaG60P4r0yhBoDCGD8YG"
+          }
+        ], 
+        "duration_ms": 157706, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "4MsGy0LDvJrRd69uMmRNSo"
+      }, 
+      {
+        "name": "Everything Means Nothing To Me", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0u59AlLY8QrqIsi81vJIra"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c4ea56f64258610213fd371fc2a81ccb240cb501", 
+        "is_playable": true, 
+        "uri": "spotify:track:0u59AlLY8QrqIsi81vJIra", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0u59AlLY8QrqIsi81vJIra", 
+        "artists": [
+          {
+            "name": "Elliott Smith", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+            }, 
+            "uri": "spotify:artist:2ApaG60P4r0yhBoDCGD8YG", 
+            "href": "https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG", 
+            "type": "artist", 
+            "id": "2ApaG60P4r0yhBoDCGD8YG"
+          }
+        ], 
+        "duration_ms": 144333, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "0u59AlLY8QrqIsi81vJIra"
+      }, 
+      {
+        "name": "L.A.", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4pmlDRJL8XB3LBVpUt8zyc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4e99672b7712e3e1ce532d88c32df91ac401de3b", 
+        "is_playable": true, 
+        "uri": "spotify:track:4pmlDRJL8XB3LBVpUt8zyc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4pmlDRJL8XB3LBVpUt8zyc", 
+        "artists": [
+          {
+            "name": "Elliott Smith", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+            }, 
+            "uri": "spotify:artist:2ApaG60P4r0yhBoDCGD8YG", 
+            "href": "https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG", 
+            "type": "artist", 
+            "id": "2ApaG60P4r0yhBoDCGD8YG"
+          }
+        ], 
+        "duration_ms": 194133, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "4pmlDRJL8XB3LBVpUt8zyc"
+      }, 
+      {
+        "name": "In The Lost And Found (Honky Bach)/The Roost", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6kU6DLqPGAO02uGIrVGyMH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cedbe61aecb97b3bbfcc7da78ef0a077a03e8341", 
+        "is_playable": true, 
+        "uri": "spotify:track:6kU6DLqPGAO02uGIrVGyMH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6kU6DLqPGAO02uGIrVGyMH", 
+        "artists": [
+          {
+            "name": "Elliott Smith", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+            }, 
+            "uri": "spotify:artist:2ApaG60P4r0yhBoDCGD8YG", 
+            "href": "https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG", 
+            "type": "artist", 
+            "id": "2ApaG60P4r0yhBoDCGD8YG"
+          }
+        ], 
+        "duration_ms": 272893, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "6kU6DLqPGAO02uGIrVGyMH"
+      }, 
+      {
+        "name": "Stupidity Tries", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/56xHQTfaDPvGYRmDL45SaE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b01b0833282b02691d49bd154810721bd530d510", 
+        "is_playable": true, 
+        "uri": "spotify:track:56xHQTfaDPvGYRmDL45SaE", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/56xHQTfaDPvGYRmDL45SaE", 
+        "artists": [
+          {
+            "name": "Elliott Smith", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+            }, 
+            "uri": "spotify:artist:2ApaG60P4r0yhBoDCGD8YG", 
+            "href": "https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG", 
+            "type": "artist", 
+            "id": "2ApaG60P4r0yhBoDCGD8YG"
+          }
+        ], 
+        "duration_ms": 263933, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "56xHQTfaDPvGYRmDL45SaE"
+      }, 
+      {
+        "name": "Easy Way Out", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/43KgjsvAVUvUGeBilmPFeL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6fd8b696688eea69c4280c3b4107365accc0a38e", 
+        "is_playable": true, 
+        "uri": "spotify:track:43KgjsvAVUvUGeBilmPFeL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/43KgjsvAVUvUGeBilmPFeL", 
+        "artists": [
+          {
+            "name": "Elliott Smith", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+            }, 
+            "uri": "spotify:artist:2ApaG60P4r0yhBoDCGD8YG", 
+            "href": "https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG", 
+            "type": "artist", 
+            "id": "2ApaG60P4r0yhBoDCGD8YG"
+          }
+        ], 
+        "duration_ms": 164200, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "43KgjsvAVUvUGeBilmPFeL"
+      }, 
+      {
+        "name": "Wouldn't Mama Be Proud", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2QtBtySFCZR9YxsbmZB3tt"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a264f81b0d4ad776e7a7152460a589fc0b3dceeb", 
+        "is_playable": true, 
+        "uri": "spotify:track:2QtBtySFCZR9YxsbmZB3tt", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2QtBtySFCZR9YxsbmZB3tt", 
+        "artists": [
+          {
+            "name": "Elliott Smith", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+            }, 
+            "uri": "spotify:artist:2ApaG60P4r0yhBoDCGD8YG", 
+            "href": "https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG", 
+            "type": "artist", 
+            "id": "2ApaG60P4r0yhBoDCGD8YG"
+          }
+        ], 
+        "duration_ms": 205800, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "2QtBtySFCZR9YxsbmZB3tt"
+      }, 
+      {
+        "name": "Colorbars", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3kaw8KDU2FYFPRVTeGWTdR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/edcdb1776faf4e01b95f43019f2ad60624c700c5", 
+        "is_playable": true, 
+        "uri": "spotify:track:3kaw8KDU2FYFPRVTeGWTdR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3kaw8KDU2FYFPRVTeGWTdR", 
+        "artists": [
+          {
+            "name": "Elliott Smith", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+            }, 
+            "uri": "spotify:artist:2ApaG60P4r0yhBoDCGD8YG", 
+            "href": "https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG", 
+            "type": "artist", 
+            "id": "2ApaG60P4r0yhBoDCGD8YG"
+          }
+        ], 
+        "duration_ms": 139800, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "3kaw8KDU2FYFPRVTeGWTdR"
+      }, 
+      {
+        "name": "Happiness/The Gondola Man", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Fcx88F6S6gyBGOtH3wowy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5483a6d6a56c2ba1c2c9ad4136d451e5d261d732", 
+        "is_playable": true, 
+        "uri": "spotify:track:6Fcx88F6S6gyBGOtH3wowy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6Fcx88F6S6gyBGOtH3wowy", 
+        "artists": [
+          {
+            "name": "Elliott Smith", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+            }, 
+            "uri": "spotify:artist:2ApaG60P4r0yhBoDCGD8YG", 
+            "href": "https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG", 
+            "type": "artist", 
+            "id": "2ApaG60P4r0yhBoDCGD8YG"
+          }
+        ], 
+        "duration_ms": 304400, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "6Fcx88F6S6gyBGOtH3wowy"
+      }, 
+      {
+        "name": "Pretty Mary Kay", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2kZGNZTWVU5ua5es4XstDe"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4314797e818c71f6f5e15e0562042707f80c4516", 
+        "is_playable": true, 
+        "uri": "spotify:track:2kZGNZTWVU5ua5es4XstDe", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2kZGNZTWVU5ua5es4XstDe", 
+        "artists": [
+          {
+            "name": "Elliott Smith", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+            }, 
+            "uri": "spotify:artist:2ApaG60P4r0yhBoDCGD8YG", 
+            "href": "https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG", 
+            "type": "artist", 
+            "id": "2ApaG60P4r0yhBoDCGD8YG"
+          }
+        ], 
+        "duration_ms": 156000, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "2kZGNZTWVU5ua5es4XstDe"
+      }, 
+      {
+        "name": "Better Be Quiet Now", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4viCcpYGFktLeFFLcHXk5G"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b5b872bbe90de867c52c6199dd5e6dc797811aaa", 
+        "is_playable": true, 
+        "uri": "spotify:track:4viCcpYGFktLeFFLcHXk5G", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4viCcpYGFktLeFFLcHXk5G", 
+        "artists": [
+          {
+            "name": "Elliott Smith", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+            }, 
+            "uri": "spotify:artist:2ApaG60P4r0yhBoDCGD8YG", 
+            "href": "https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG", 
+            "type": "artist", 
+            "id": "2ApaG60P4r0yhBoDCGD8YG"
+          }
+        ], 
+        "duration_ms": 215000, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "4viCcpYGFktLeFFLcHXk5G"
+      }, 
+      {
+        "name": "Can't Make A Sound", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7LGxg9cw1SVJuMJwAAJs6Q"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/38379dd7ac9089d6a55ee69b387ad91b0a819467", 
+        "is_playable": true, 
+        "uri": "spotify:track:7LGxg9cw1SVJuMJwAAJs6Q", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7LGxg9cw1SVJuMJwAAJs6Q", 
+        "artists": [
+          {
+            "name": "Elliott Smith", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+            }, 
+            "uri": "spotify:artist:2ApaG60P4r0yhBoDCGD8YG", 
+            "href": "https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG", 
+            "type": "artist", 
+            "id": "2ApaG60P4r0yhBoDCGD8YG"
+          }
+        ], 
+        "duration_ms": 258733, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "7LGxg9cw1SVJuMJwAAJs6Q"
+      }, 
+      {
+        "name": "Bye", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5NcXK9kwgFVAZHWa0Jglua"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e6988a60f392baa50e0ea1169ca81b70ce20ca8a", 
+        "is_playable": true, 
+        "uri": "spotify:track:5NcXK9kwgFVAZHWa0Jglua", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5NcXK9kwgFVAZHWa0Jglua", 
+        "artists": [
+          {
+            "name": "Elliott Smith", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+            }, 
+            "uri": "spotify:artist:2ApaG60P4r0yhBoDCGD8YG", 
+            "href": "https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG", 
+            "type": "artist", 
+            "id": "2ApaG60P4r0yhBoDCGD8YG"
+          }
+        ], 
+        "duration_ms": 113240, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "5NcXK9kwgFVAZHWa0Jglua"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/1zcOyLZRT2TyxReQ55AEbM/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 16, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/1zcOyLZRT2TyxReQ55AEbM", 
+  "copyrights": [
+    {
+      "text": "(C) 2000 SKG Music L.L.C.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 2000 SKG Music L.L.C.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Elliott Smith", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+      }, 
+      "uri": "spotify:artist:2ApaG60P4r0yhBoDCGD8YG", 
+      "href": "https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG", 
+      "type": "artist", 
+      "id": "2ApaG60P4r0yhBoDCGD8YG"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ce84ef0ef918c28b2361435d8f5bd4e2befbeb0a", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/aef6f6aaf3c387f07af42794761da132331334c2", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/5af8917ef3f1e6faf05d20dab5d036eca1c7c12a", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00600445022522"
+  }, 
+  "type": "album", 
+  "id": "1zcOyLZRT2TyxReQ55AEbM", 
+  "name": "Figure 8"
+}

@@ -1,0 +1,459 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4RrOVT9WGLuZuUdeVKF1rm"
+  }, 
+  "release_date": "2014-10-30", 
+  "popularity": 28, 
+  "genres": [], 
+  "uri": "spotify:album:4RrOVT9WGLuZuUdeVKF1rm", 
+  "tracks": {
+    "items": [
+      {
+        "name": "I\u2019m a Lonesome Fugitive", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/49WYSwb0lz3SD7mxOFhVTN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3e5799da6facc2e4cb971d5fc808cd7fed273b93", 
+        "is_playable": true, 
+        "uri": "spotify:track:49WYSwb0lz3SD7mxOFhVTN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/49WYSwb0lz3SD7mxOFhVTN", 
+        "artists": [
+          {
+            "name": "Merle Haggard", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+            }, 
+            "uri": "spotify:artist:2ptmyXoL7poH6Zq62h1QT9", 
+            "href": "https://api.spotify.com/v1/artists/2ptmyXoL7poH6Zq62h1QT9", 
+            "type": "artist", 
+            "id": "2ptmyXoL7poH6Zq62h1QT9"
+          }
+        ], 
+        "duration_ms": 96281, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "49WYSwb0lz3SD7mxOFhVTN"
+      }, 
+      {
+        "name": "Okie From Muskogee", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/26N9vfPhvjD2o5o25NnAlc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/77a668fc1a32ff82e38c5968ff1409a9401b34c2", 
+        "is_playable": true, 
+        "uri": "spotify:track:26N9vfPhvjD2o5o25NnAlc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/26N9vfPhvjD2o5o25NnAlc", 
+        "artists": [
+          {
+            "name": "Merle Haggard", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+            }, 
+            "uri": "spotify:artist:2ptmyXoL7poH6Zq62h1QT9", 
+            "href": "https://api.spotify.com/v1/artists/2ptmyXoL7poH6Zq62h1QT9", 
+            "type": "artist", 
+            "id": "2ptmyXoL7poH6Zq62h1QT9"
+          }
+        ], 
+        "duration_ms": 160406, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "26N9vfPhvjD2o5o25NnAlc"
+      }, 
+      {
+        "name": "Working Man Blues", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2wNxpOpsU1sTEkHzt3E8Pf"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/da8486bbbb22255f5a38b982d673b78daeeeb3df", 
+        "is_playable": true, 
+        "uri": "spotify:track:2wNxpOpsU1sTEkHzt3E8Pf", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2wNxpOpsU1sTEkHzt3E8Pf", 
+        "artists": [
+          {
+            "name": "Merle Haggard", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+            }, 
+            "uri": "spotify:artist:2ptmyXoL7poH6Zq62h1QT9", 
+            "href": "https://api.spotify.com/v1/artists/2ptmyXoL7poH6Zq62h1QT9", 
+            "type": "artist", 
+            "id": "2ptmyXoL7poH6Zq62h1QT9"
+          }
+        ], 
+        "duration_ms": 163695, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "2wNxpOpsU1sTEkHzt3E8Pf"
+      }, 
+      {
+        "name": "Soldier\u2019s Letter", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/71vwvEjOFhizBYrU8DCOni"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f74230d67d441e34fec6796161cb8c6f4dfb5a32", 
+        "is_playable": true, 
+        "uri": "spotify:track:71vwvEjOFhizBYrU8DCOni", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/71vwvEjOFhizBYrU8DCOni", 
+        "artists": [
+          {
+            "name": "Merle Haggard", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+            }, 
+            "uri": "spotify:artist:2ptmyXoL7poH6Zq62h1QT9", 
+            "href": "https://api.spotify.com/v1/artists/2ptmyXoL7poH6Zq62h1QT9", 
+            "type": "artist", 
+            "id": "2ptmyXoL7poH6Zq62h1QT9"
+          }
+        ], 
+        "duration_ms": 151101, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "71vwvEjOFhizBYrU8DCOni"
+      }, 
+      {
+        "name": "Momma Tried", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2bnh7UlyuWH04lHtlY8Jp6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0e2e1aa692beb1291f036d22afe16369be05456b", 
+        "is_playable": true, 
+        "uri": "spotify:track:2bnh7UlyuWH04lHtlY8Jp6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2bnh7UlyuWH04lHtlY8Jp6", 
+        "artists": [
+          {
+            "name": "Merle Haggard", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+            }, 
+            "uri": "spotify:artist:2ptmyXoL7poH6Zq62h1QT9", 
+            "href": "https://api.spotify.com/v1/artists/2ptmyXoL7poH6Zq62h1QT9", 
+            "type": "artist", 
+            "id": "2ptmyXoL7poH6Zq62h1QT9"
+          }
+        ], 
+        "duration_ms": 145250, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "2bnh7UlyuWH04lHtlY8Jp6"
+      }, 
+      {
+        "name": "I Can\u2019t Be Myself", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7ecEZRjIbyTNnMNeNHO3lv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3803b8f1c38ec00e2e36554022a787a48ac9302e", 
+        "is_playable": true, 
+        "uri": "spotify:track:7ecEZRjIbyTNnMNeNHO3lv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7ecEZRjIbyTNnMNeNHO3lv", 
+        "artists": [
+          {
+            "name": "Merle Haggard", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+            }, 
+            "uri": "spotify:artist:2ptmyXoL7poH6Zq62h1QT9", 
+            "href": "https://api.spotify.com/v1/artists/2ptmyXoL7poH6Zq62h1QT9", 
+            "type": "artist", 
+            "id": "2ptmyXoL7poH6Zq62h1QT9"
+          }
+        ], 
+        "duration_ms": 125994, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "7ecEZRjIbyTNnMNeNHO3lv"
+      }, 
+      {
+        "name": "The Fighting Side of Me", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4ZcSkYFCAQHIKlQc0XuGrv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/51ec37026181324ae5491fdda3f525a72171afb3", 
+        "is_playable": true, 
+        "uri": "spotify:track:4ZcSkYFCAQHIKlQc0XuGrv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4ZcSkYFCAQHIKlQc0XuGrv", 
+        "artists": [
+          {
+            "name": "Merle Haggard", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+            }, 
+            "uri": "spotify:artist:2ptmyXoL7poH6Zq62h1QT9", 
+            "href": "https://api.spotify.com/v1/artists/2ptmyXoL7poH6Zq62h1QT9", 
+            "type": "artist", 
+            "id": "2ptmyXoL7poH6Zq62h1QT9"
+          }
+        ], 
+        "duration_ms": 163736, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "4ZcSkYFCAQHIKlQc0XuGrv"
+      }, 
+      {
+        "name": "Blue Yodel", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/11XewBJC6QyxyAmSGOmJy3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/56155c3147e84b69b6edfa6e5b9615306805a7fe", 
+        "is_playable": true, 
+        "uri": "spotify:track:11XewBJC6QyxyAmSGOmJy3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/11XewBJC6QyxyAmSGOmJy3", 
+        "artists": [
+          {
+            "name": "Merle Haggard", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+            }, 
+            "uri": "spotify:artist:2ptmyXoL7poH6Zq62h1QT9", 
+            "href": "https://api.spotify.com/v1/artists/2ptmyXoL7poH6Zq62h1QT9", 
+            "type": "artist", 
+            "id": "2ptmyXoL7poH6Zq62h1QT9"
+          }
+        ], 
+        "duration_ms": 173853, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "11XewBJC6QyxyAmSGOmJy3"
+      }, 
+      {
+        "name": "Silver Wings", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5aZzsxsbRfW4QVX4hmjAOh"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c743b8d3efa36fd066533120dd89f8fc328abf14", 
+        "is_playable": true, 
+        "uri": "spotify:track:5aZzsxsbRfW4QVX4hmjAOh", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5aZzsxsbRfW4QVX4hmjAOh", 
+        "artists": [
+          {
+            "name": "Merle Haggard", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+            }, 
+            "uri": "spotify:artist:2ptmyXoL7poH6Zq62h1QT9", 
+            "href": "https://api.spotify.com/v1/artists/2ptmyXoL7poH6Zq62h1QT9", 
+            "type": "artist", 
+            "id": "2ptmyXoL7poH6Zq62h1QT9"
+          }
+        ], 
+        "duration_ms": 144449, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "5aZzsxsbRfW4QVX4hmjAOh"
+      }, 
+      {
+        "name": "Hobo Bill", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1NOm3GQrYNPKNYfErRFktW"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1f3232908fbe6168e5802700bed7264187eeaec3", 
+        "is_playable": true, 
+        "uri": "spotify:track:1NOm3GQrYNPKNYfErRFktW", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1NOm3GQrYNPKNYfErRFktW", 
+        "artists": [
+          {
+            "name": "Merle Haggard", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+            }, 
+            "uri": "spotify:artist:2ptmyXoL7poH6Zq62h1QT9", 
+            "href": "https://api.spotify.com/v1/artists/2ptmyXoL7poH6Zq62h1QT9", 
+            "type": "artist", 
+            "id": "2ptmyXoL7poH6Zq62h1QT9"
+          }
+        ], 
+        "duration_ms": 113091, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "1NOm3GQrYNPKNYfErRFktW"
+      }, 
+      {
+        "name": "Swinging Doors", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6E54LO9D0TnqoYHTuQiaDR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/07ab63ac7b5f4e4346e13919b06531073f504309", 
+        "is_playable": true, 
+        "uri": "spotify:track:6E54LO9D0TnqoYHTuQiaDR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6E54LO9D0TnqoYHTuQiaDR", 
+        "artists": [
+          {
+            "name": "Merle Haggard", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+            }, 
+            "uri": "spotify:artist:2ptmyXoL7poH6Zq62h1QT9", 
+            "href": "https://api.spotify.com/v1/artists/2ptmyXoL7poH6Zq62h1QT9", 
+            "type": "artist", 
+            "id": "2ptmyXoL7poH6Zq62h1QT9"
+          }
+        ], 
+        "duration_ms": 61361, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "6E54LO9D0TnqoYHTuQiaDR"
+      }, 
+      {
+        "name": "Today I started Loving You Again", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2dSk9zk73HQPD65NrEWFyU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1d860cf280d409771bfb44d17139882bdb00929c", 
+        "is_playable": true, 
+        "uri": "spotify:track:2dSk9zk73HQPD65NrEWFyU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2dSk9zk73HQPD65NrEWFyU", 
+        "artists": [
+          {
+            "name": "Merle Haggard", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+            }, 
+            "uri": "spotify:artist:2ptmyXoL7poH6Zq62h1QT9", 
+            "href": "https://api.spotify.com/v1/artists/2ptmyXoL7poH6Zq62h1QT9", 
+            "type": "artist", 
+            "id": "2ptmyXoL7poH6Zq62h1QT9"
+          }
+        ], 
+        "duration_ms": 121475, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "2dSk9zk73HQPD65NrEWFyU"
+      }, 
+      {
+        "name": "Right or Wrong", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3BbJ2zBtQChiQQRfSTOClR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/989135f4f504d7679ad82319223f0d65173f7e1f", 
+        "is_playable": true, 
+        "uri": "spotify:track:3BbJ2zBtQChiQQRfSTOClR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3BbJ2zBtQChiQQRfSTOClR", 
+        "artists": [
+          {
+            "name": "Merle Haggard", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+            }, 
+            "uri": "spotify:artist:2ptmyXoL7poH6Zq62h1QT9", 
+            "href": "https://api.spotify.com/v1/artists/2ptmyXoL7poH6Zq62h1QT9", 
+            "type": "artist", 
+            "id": "2ptmyXoL7poH6Zq62h1QT9"
+          }
+        ], 
+        "duration_ms": 176018, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "3BbJ2zBtQChiQQRfSTOClR"
+      }, 
+      {
+        "name": "Sing Me Back Home / Branded Man", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6GhQtE2aTeU7eyUKov3KoR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fea2ea411bda9863f68d756c76ce9a24be77c956", 
+        "is_playable": true, 
+        "uri": "spotify:track:6GhQtE2aTeU7eyUKov3KoR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6GhQtE2aTeU7eyUKov3KoR", 
+        "artists": [
+          {
+            "name": "Merle Haggard", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+            }, 
+            "uri": "spotify:artist:2ptmyXoL7poH6Zq62h1QT9", 
+            "href": "https://api.spotify.com/v1/artists/2ptmyXoL7poH6Zq62h1QT9", 
+            "type": "artist", 
+            "id": "2ptmyXoL7poH6Zq62h1QT9"
+          }
+        ], 
+        "duration_ms": 191558, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "6GhQtE2aTeU7eyUKov3KoR"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/4RrOVT9WGLuZuUdeVKF1rm/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 14, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/4RrOVT9WGLuZuUdeVKF1rm", 
+  "copyrights": [
+    {
+      "text": "2014 Delta", 
+      "type": "C"
+    }, 
+    {
+      "text": "2014 Delta", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Merle Haggard", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+      }, 
+      "uri": "spotify:artist:2ptmyXoL7poH6Zq62h1QT9", 
+      "href": "https://api.spotify.com/v1/artists/2ptmyXoL7poH6Zq62h1QT9", 
+      "type": "artist", 
+      "id": "2ptmyXoL7poH6Zq62h1QT9"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/9e3aaabe7719f0fcd89a06d4b725fb53398393a3", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/f919e0ffbc1061b424ae9601ebb0f062f61cefca", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/9f462e8ab460c60d9b1dbccfdaf38d8fcedfccbc", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "5004952010563"
+  }, 
+  "type": "album", 
+  "id": "4RrOVT9WGLuZuUdeVKF1rm", 
+  "name": "Merle Haggard - I\u2019m a Lonesome Fugitive"
+}

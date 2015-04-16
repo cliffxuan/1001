@@ -1,0 +1,1411 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7lXAm2zYd3D3yrh2YuG6jB"
+  }, 
+  "release_date": "2007-01-01", 
+  "popularity": 42, 
+  "genres": [], 
+  "uri": "spotify:album:7lXAm2zYd3D3yrh2YuG6jB", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Welcome To The Working Week", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2jrXksa5BOGQnov228JMe9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5311a376495dbf22661dc2b184e9d0b422947a01", 
+        "is_playable": true, 
+        "uri": "spotify:track:2jrXksa5BOGQnov228JMe9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2jrXksa5BOGQnov228JMe9", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 83053, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "2jrXksa5BOGQnov228JMe9"
+      }, 
+      {
+        "name": "Miracle Man", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5FUTiShzlHi6lkLv3KfhgE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/03272a6c401fd62d1663d4cf287e4645ac94ea1f", 
+        "is_playable": true, 
+        "uri": "spotify:track:5FUTiShzlHi6lkLv3KfhgE", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5FUTiShzlHi6lkLv3KfhgE", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 211373, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "5FUTiShzlHi6lkLv3KfhgE"
+      }, 
+      {
+        "name": "No Dancing", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Ftp3zTcjMu2oKbdi2eJDS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/740261645c2b03eac8c3bc4dbff60e7860acd5e6", 
+        "is_playable": true, 
+        "uri": "spotify:track:0Ftp3zTcjMu2oKbdi2eJDS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0Ftp3zTcjMu2oKbdi2eJDS", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 160706, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "0Ftp3zTcjMu2oKbdi2eJDS"
+      }, 
+      {
+        "name": "Blame It On Cain", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4YIeAP0RDnPApt9UxT0DhJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fc3d1349f68ae6278e5c4f2603ee6f0913ea7d49", 
+        "is_playable": true, 
+        "uri": "spotify:track:4YIeAP0RDnPApt9UxT0DhJ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4YIeAP0RDnPApt9UxT0DhJ", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 169760, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "4YIeAP0RDnPApt9UxT0DhJ"
+      }, 
+      {
+        "name": "Alison", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0pw5rfwxKuRJju5J7457yV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/de6eb1ee3990e2ba87ff0135f83bc4a6ad2c1797", 
+        "is_playable": true, 
+        "uri": "spotify:track:0pw5rfwxKuRJju5J7457yV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0pw5rfwxKuRJju5J7457yV", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 204533, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "0pw5rfwxKuRJju5J7457yV"
+      }, 
+      {
+        "name": "Sneaky Feelings", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7znvNAud3Yl2CYZ2Pezugr"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1f9e3c5a31a0ed52232b233fda8669e95553a97f", 
+        "is_playable": true, 
+        "uri": "spotify:track:7znvNAud3Yl2CYZ2Pezugr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7znvNAud3Yl2CYZ2Pezugr", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 131186, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "7znvNAud3Yl2CYZ2Pezugr"
+      }, 
+      {
+        "name": "(The Angels Wanna Wear My) Red Shoes", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0zXTNqBVPZekZsPYIiJtas"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ea4d0069862dc20b3c43f0698d967372c23204a9", 
+        "is_playable": true, 
+        "uri": "spotify:track:0zXTNqBVPZekZsPYIiJtas", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0zXTNqBVPZekZsPYIiJtas", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 167680, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "0zXTNqBVPZekZsPYIiJtas"
+      }, 
+      {
+        "name": "Less Than Zero", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5aPLua8QeuETyXVK8X0CdB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/20439bedec67a85ac56b6926b10044dff6d8202a", 
+        "is_playable": true, 
+        "uri": "spotify:track:5aPLua8QeuETyXVK8X0CdB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5aPLua8QeuETyXVK8X0CdB", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 198906, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "5aPLua8QeuETyXVK8X0CdB"
+      }, 
+      {
+        "name": "Mystery Dance", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Xx9OKL3Ut6oPqbxKN50tN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/99c05950bb1cced8f3e8b00aa21252a8ab8522e5", 
+        "is_playable": true, 
+        "uri": "spotify:track:2Xx9OKL3Ut6oPqbxKN50tN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2Xx9OKL3Ut6oPqbxKN50tN", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 95866, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "2Xx9OKL3Ut6oPqbxKN50tN"
+      }, 
+      {
+        "name": "Pay It Back", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6srCKPYKhGPCE8wgQlggH8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c79b892b7cd651ec11604b20f8b33c59a4cdf9f5", 
+        "is_playable": true, 
+        "uri": "spotify:track:6srCKPYKhGPCE8wgQlggH8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6srCKPYKhGPCE8wgQlggH8", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 152653, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "6srCKPYKhGPCE8wgQlggH8"
+      }, 
+      {
+        "name": "I'm Not Angry", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Psj5eWzI8qN8MLiGdJY8i"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ba73d6f31eff4f93d5960745e059b9c858d9d2d5", 
+        "is_playable": true, 
+        "uri": "spotify:track:0Psj5eWzI8qN8MLiGdJY8i", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0Psj5eWzI8qN8MLiGdJY8i", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 179320, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "0Psj5eWzI8qN8MLiGdJY8i"
+      }, 
+      {
+        "name": "Waiting For The End Of The World", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6I34faHP7VHiK1Ph8p7fMe"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a5e115dc151d8deac46f7aa77c7314313213a6cc", 
+        "is_playable": true, 
+        "uri": "spotify:track:6I34faHP7VHiK1Ph8p7fMe", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6I34faHP7VHiK1Ph8p7fMe", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 202893, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "6I34faHP7VHiK1Ph8p7fMe"
+      }, 
+      {
+        "name": "Watching The Detectives", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1RVi3bzxadOQTPDxs9SDpg"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c637bc343784a9776d2fb3d057dab57c20fc067a", 
+        "is_playable": true, 
+        "uri": "spotify:track:1RVi3bzxadOQTPDxs9SDpg", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1RVi3bzxadOQTPDxs9SDpg", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 226040, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "1RVi3bzxadOQTPDxs9SDpg"
+      }, 
+      {
+        "name": "No Action - EarlyVersion", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/10vtqD1MxtE7lfePcHuTQa"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/db961cc96bb6a57ff4afc82a5faa891578b405b5", 
+        "is_playable": true, 
+        "uri": "spotify:track:10vtqD1MxtE7lfePcHuTQa", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/10vtqD1MxtE7lfePcHuTQa", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 134426, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "10vtqD1MxtE7lfePcHuTQa"
+      }, 
+      {
+        "name": "Living In Paradise - Early Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4zhHGul9HHAPli8oZwLs1e"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f670ed361e1d1ca5215d51d9df434d6a10510045", 
+        "is_playable": true, 
+        "uri": "spotify:track:4zhHGul9HHAPli8oZwLs1e", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4zhHGul9HHAPli8oZwLs1e", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 180226, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "4zhHGul9HHAPli8oZwLs1e"
+      }, 
+      {
+        "name": "Radio Sweetheart - Out-Take", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Aqo40O0dUVyghZ5LolFV6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/36e397b6ab50be6380f88cfb74fabbff26de7a56", 
+        "is_playable": true, 
+        "uri": "spotify:track:6Aqo40O0dUVyghZ5LolFV6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6Aqo40O0dUVyghZ5LolFV6", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 150466, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "6Aqo40O0dUVyghZ5LolFV6"
+      }, 
+      {
+        "name": "Stranger In The House - Out-Take", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4QwQNXezEP05JEFHjDZnd1"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/626e324c6881b3c7a91064dab7dc7d09de3e7696", 
+        "is_playable": true, 
+        "uri": "spotify:track:4QwQNXezEP05JEFHjDZnd1", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4QwQNXezEP05JEFHjDZnd1", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 182840, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "4QwQNXezEP05JEFHjDZnd1"
+      }, 
+      {
+        "name": "Welcome To The Working Week - Demo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3ZomwuvWFZanhsr8sNl8ks"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/421fc05890e310ed9d126bfdebbf9fafa62bac87", 
+        "is_playable": true, 
+        "uri": "spotify:track:3ZomwuvWFZanhsr8sNl8ks", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3ZomwuvWFZanhsr8sNl8ks", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 85840, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "3ZomwuvWFZanhsr8sNl8ks"
+      }, 
+      {
+        "name": "Blue Minute - Demo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1E8UMrdF51sqGNKtcxkCY6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/437c3f11e66a044704887e566d88c2e3343dbe83", 
+        "is_playable": true, 
+        "uri": "spotify:track:1E8UMrdF51sqGNKtcxkCY6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1E8UMrdF51sqGNKtcxkCY6", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 93546, 
+        "track_number": 19, 
+        "type": "track", 
+        "id": "1E8UMrdF51sqGNKtcxkCY6"
+      }, 
+      {
+        "name": "Miracle Man - Demo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3NHvDbkmFW7O4zXHBOyyra"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7c91f2d0f2c2c6f85c13a80f91b0ab94797bbd63", 
+        "is_playable": true, 
+        "uri": "spotify:track:3NHvDbkmFW7O4zXHBOyyra", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3NHvDbkmFW7O4zXHBOyyra", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 142213, 
+        "track_number": 20, 
+        "type": "track", 
+        "id": "3NHvDbkmFW7O4zXHBOyyra"
+      }, 
+      {
+        "name": "Waiting For The End Of The World - Demo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5a8zRJ5sqiCuNRYDBRV1IN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e851d58fb69f4b4ae8d2f3ccccb7088efd38ad78", 
+        "is_playable": true, 
+        "uri": "spotify:track:5a8zRJ5sqiCuNRYDBRV1IN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5a8zRJ5sqiCuNRYDBRV1IN", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 147946, 
+        "track_number": 21, 
+        "type": "track", 
+        "id": "5a8zRJ5sqiCuNRYDBRV1IN"
+      }, 
+      {
+        "name": "Call On Me - Demo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5vhKpe3i0ysr1zi9qn4qwV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6abb330c2c1393041160766b539b3078a4841567", 
+        "is_playable": true, 
+        "uri": "spotify:track:5vhKpe3i0ysr1zi9qn4qwV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5vhKpe3i0ysr1zi9qn4qwV", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 118213, 
+        "track_number": 22, 
+        "type": "track", 
+        "id": "5vhKpe3i0ysr1zi9qn4qwV"
+      }, 
+      {
+        "name": "(The Angels Wanna Wear My) Red Shoes - demo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1wznX4EoN1KaS3gkMUieN6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cecdd4cbc74c9318aec1603229253721cb3c8102", 
+        "is_playable": true, 
+        "uri": "spotify:track:1wznX4EoN1KaS3gkMUieN6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1wznX4EoN1KaS3gkMUieN6", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 121400, 
+        "track_number": 23, 
+        "type": "track", 
+        "id": "1wznX4EoN1KaS3gkMUieN6"
+      }, 
+      {
+        "name": "I Don't Want To Go Home - Demo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3We3PQuhPfaOKlQSIh5PJe"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/eede0c6a7f2baf6189809bf3eb15e2a6c05bc15f", 
+        "is_playable": true, 
+        "uri": "spotify:track:3We3PQuhPfaOKlQSIh5PJe", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3We3PQuhPfaOKlQSIh5PJe", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 103773, 
+        "track_number": 24, 
+        "type": "track", 
+        "id": "3We3PQuhPfaOKlQSIh5PJe"
+      }, 
+      {
+        "name": "I Hear A Melody - Demo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6srZeZpXfjmffpcaOHSIFK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2858461adfc0a24a4236d92d96c9e7816f6a0ddd", 
+        "is_playable": true, 
+        "uri": "spotify:track:6srZeZpXfjmffpcaOHSIFK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6srZeZpXfjmffpcaOHSIFK", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 130880, 
+        "track_number": 25, 
+        "type": "track", 
+        "id": "6srZeZpXfjmffpcaOHSIFK"
+      }, 
+      {
+        "name": "Introduction By Dave Robinson - 1977/Live At The Nashville Rooms", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0DF5NvxEGLR0LEwTDW0D6D"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/581ba9785a44ec3345c38a8cd58ed69ba43ea616", 
+        "is_playable": true, 
+        "uri": "spotify:track:0DF5NvxEGLR0LEwTDW0D6D", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/0DF5NvxEGLR0LEwTDW0D6D", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 26106, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "0DF5NvxEGLR0LEwTDW0D6D"
+      }, 
+      {
+        "name": "Welcome To The Working Week - 1997/Live At The Nashville Rooms", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3hyYcfoCIfoCGYgjPystV8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e75e5697ded66c26dd3c986c808c642a60bd59ad", 
+        "is_playable": true, 
+        "uri": "spotify:track:3hyYcfoCIfoCGYgjPystV8", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/3hyYcfoCIfoCGYgjPystV8", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 78960, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "3hyYcfoCIfoCGYgjPystV8"
+      }, 
+      {
+        "name": "Blame It On Cain - 1977/Live At The Nashville Rooms", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4QRjGayoK8Z5G80U8ILKDG"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/44d7201d173984a7867c25faf272256ab98d7405", 
+        "is_playable": true, 
+        "uri": "spotify:track:4QRjGayoK8Z5G80U8ILKDG", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4QRjGayoK8Z5G80U8ILKDG", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 173226, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "4QRjGayoK8Z5G80U8ILKDG"
+      }, 
+      {
+        "name": "No Dancing - 1997/Live At The Nashville Rooms", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4eBrhJgkmkLFYWouVA1uPL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/354d97aabce711efa12d253d12d3d977eff17085", 
+        "is_playable": true, 
+        "uri": "spotify:track:4eBrhJgkmkLFYWouVA1uPL", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4eBrhJgkmkLFYWouVA1uPL", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 177893, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "4eBrhJgkmkLFYWouVA1uPL"
+      }, 
+      {
+        "name": "Waiting For The End Of The World - 1997/Live At The Nashville Rooms", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1pNSZ2zanioLBtiahW3QZM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9da700ec936d47fed67954b9b0ac30ef4ba29ccd", 
+        "is_playable": true, 
+        "uri": "spotify:track:1pNSZ2zanioLBtiahW3QZM", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1pNSZ2zanioLBtiahW3QZM", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 234253, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "1pNSZ2zanioLBtiahW3QZM"
+      }, 
+      {
+        "name": "Night Rally - 1997/Live At The Nashville Rooms", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7kXZaguQQEYaJoQTDdJWVv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e957a5c07d44e4c4fc5f89e46043e52c73a50130", 
+        "is_playable": true, 
+        "uri": "spotify:track:7kXZaguQQEYaJoQTDdJWVv", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/7kXZaguQQEYaJoQTDdJWVv", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 154733, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "7kXZaguQQEYaJoQTDdJWVv"
+      }, 
+      {
+        "name": "Hoover Factory - 1977/Live At The Nashville Rooms", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4shDPM0mVxujrtEMntkBtB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cbbbbf213a58f0268872ea7b88ce7724a7ba07d4", 
+        "is_playable": true, 
+        "uri": "spotify:track:4shDPM0mVxujrtEMntkBtB", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4shDPM0mVxujrtEMntkBtB", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 121573, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "4shDPM0mVxujrtEMntkBtB"
+      }, 
+      {
+        "name": "No Action - 1997/Live At The Nashville Rooms", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5epN8O16OZgtq73aN8HlbB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/91b0c2a9787ec0015cf8d8c28baae92648e7b212", 
+        "is_playable": true, 
+        "uri": "spotify:track:5epN8O16OZgtq73aN8HlbB", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5epN8O16OZgtq73aN8HlbB", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 151760, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "5epN8O16OZgtq73aN8HlbB"
+      }, 
+      {
+        "name": "(I Don't Want To Go To) Chelsea - 1977/Live At The Nashville Rooms", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3VBNbXhjMFE6vE8uGvjXCa"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bc36d3336d19e5993ac7b7aea63991bac323a22c", 
+        "is_playable": true, 
+        "uri": "spotify:track:3VBNbXhjMFE6vE8uGvjXCa", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/3VBNbXhjMFE6vE8uGvjXCa", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 183120, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "3VBNbXhjMFE6vE8uGvjXCa"
+      }, 
+      {
+        "name": "Miracle Man - 1997/Live At The Nashville Rooms", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4oM3ebQdAekhYvs2FqafvF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/37c5c5ff662eaee8dd0c41793a4e8fbc97b165e8", 
+        "is_playable": true, 
+        "uri": "spotify:track:4oM3ebQdAekhYvs2FqafvF", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4oM3ebQdAekhYvs2FqafvF", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 233173, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "4oM3ebQdAekhYvs2FqafvF"
+      }, 
+      {
+        "name": "The Beat - 1997/Live At The Nashville Rooms", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1kYNr2d4dBKFFckQgSwuPm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/20a991e48f8aecc3315cda627d8d30dd5d2c154d", 
+        "is_playable": true, 
+        "uri": "spotify:track:1kYNr2d4dBKFFckQgSwuPm", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1kYNr2d4dBKFFckQgSwuPm", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 226480, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "1kYNr2d4dBKFFckQgSwuPm"
+      }, 
+      {
+        "name": "Less Than Zero - 1977/Live At The Nashville Rooms", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2tqz7dS7UVSHz79JX3u6FB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/31e0ee80905d5c57ba68d62824de94f7852c39f2", 
+        "is_playable": true, 
+        "uri": "spotify:track:2tqz7dS7UVSHz79JX3u6FB", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/2tqz7dS7UVSHz79JX3u6FB", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 207626, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "2tqz7dS7UVSHz79JX3u6FB"
+      }, 
+      {
+        "name": "(The Angels Wanna Wear My) Red Shoes - 1977/Live At The Nashville Rooms", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5UmNM2qt5YOMipdlNlJjUR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/30e47388da63aab7307ea5d2923a8b884ec38966", 
+        "is_playable": true, 
+        "uri": "spotify:track:5UmNM2qt5YOMipdlNlJjUR", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5UmNM2qt5YOMipdlNlJjUR", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 177880, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "5UmNM2qt5YOMipdlNlJjUR"
+      }, 
+      {
+        "name": "Lipstick Vogue - 1997/Live At The Nashville Rooms", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7nHdz3Aa9CzjsESGIFH08U"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cac4d532fee34a873a93340a02352b9a2df03518", 
+        "is_playable": true, 
+        "uri": "spotify:track:7nHdz3Aa9CzjsESGIFH08U", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/7nHdz3Aa9CzjsESGIFH08U", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 239600, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "7nHdz3Aa9CzjsESGIFH08U"
+      }, 
+      {
+        "name": "Watching The Detectives - 1997/Live At The Nashville Rooms", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5aTCIU3Vv9bAv0wtKe5y25"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9162c4a74ece4209170528a4e2f2d6645b70373c", 
+        "is_playable": true, 
+        "uri": "spotify:track:5aTCIU3Vv9bAv0wtKe5y25", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5aTCIU3Vv9bAv0wtKe5y25", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 263840, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "5aTCIU3Vv9bAv0wtKe5y25"
+      }, 
+      {
+        "name": "Lip Service - 1977/Live At The Nashville Rooms", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5SJURWjJXtKNYa4jE88ySn"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c6870f9c62fa0f43fdb60d10fa484fd5a18deac5", 
+        "is_playable": true, 
+        "uri": "spotify:track:5SJURWjJXtKNYa4jE88ySn", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5SJURWjJXtKNYa4jE88ySn", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 271920, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "5SJURWjJXtKNYa4jE88ySn"
+      }, 
+      {
+        "name": "Mystery Dance - 1997/Live At The Nashville Rooms", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2nDSEzt0GfxP6aClbYk0r6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b21ea81b73f1a54e78f71182d46814ba7fd2451a", 
+        "is_playable": true, 
+        "uri": "spotify:track:2nDSEzt0GfxP6aClbYk0r6", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/2nDSEzt0GfxP6aClbYk0r6", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 214293, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "2nDSEzt0GfxP6aClbYk0r6"
+      }, 
+      {
+        "name": "Alison - 1977/Live At The Nashville Rooms", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4cB1dLwJp7RtZuC3v0WwwJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/eba2fa4b644556fb5476aa740430deae4f233daf", 
+        "is_playable": true, 
+        "uri": "spotify:track:4cB1dLwJp7RtZuC3v0WwwJ", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4cB1dLwJp7RtZuC3v0WwwJ", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 213280, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "4cB1dLwJp7RtZuC3v0WwwJ"
+      }, 
+      {
+        "name": "Pay It Back - 1997/Live At The Nashville Rooms - Soundcheck", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6543BG71D3zUXR1cBiTJgW"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5dfa65ab2cb5e8b294ce888a2d76c0b84cb706f1", 
+        "is_playable": true, 
+        "uri": "spotify:track:6543BG71D3zUXR1cBiTJgW", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6543BG71D3zUXR1cBiTJgW", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 143586, 
+        "track_number": 19, 
+        "type": "track", 
+        "id": "6543BG71D3zUXR1cBiTJgW"
+      }, 
+      {
+        "name": "Radio Sweetheart - 1997/Live At The Nashville Rooms - Soundcheck", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5fsBiXxFKvCuO6lw5TuVQC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3421f1c8446a8f951cd07f2cccf7bcd79ad9d7aa", 
+        "is_playable": true, 
+        "uri": "spotify:track:5fsBiXxFKvCuO6lw5TuVQC", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5fsBiXxFKvCuO6lw5TuVQC", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 176893, 
+        "track_number": 20, 
+        "type": "track", 
+        "id": "5fsBiXxFKvCuO6lw5TuVQC"
+      }, 
+      {
+        "name": "Sneaky Feelings - 1997/Live At The Nashville Rooms - Soundcheck", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2B4Ib5eJxi6jg3n43duevI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1fb9184404768f2bca58d9a8f8629a8ac411a5bc", 
+        "is_playable": true, 
+        "uri": "spotify:track:2B4Ib5eJxi6jg3n43duevI", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/2B4Ib5eJxi6jg3n43duevI", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 136666, 
+        "track_number": 21, 
+        "type": "track", 
+        "id": "2B4Ib5eJxi6jg3n43duevI"
+      }, 
+      {
+        "name": "Crawling To The USA - 1977/Live At The Nashville Rooms - Soundcheck", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1pH4oARNtZu1fiim5NAvyC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c7379a4086fae674a0f717df31fdfa3ec5ccf870", 
+        "is_playable": true, 
+        "uri": "spotify:track:1pH4oARNtZu1fiim5NAvyC", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1pH4oARNtZu1fiim5NAvyC", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 179973, 
+        "track_number": 22, 
+        "type": "track", 
+        "id": "1pH4oARNtZu1fiim5NAvyC"
+      }, 
+      {
+        "name": "Alison - 1977/Live At The Nashville Rooms - Soundcheck", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5VdagOUbP0L3Tv3yxapgrv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6f94dbe676d6eeb45506690c0ee4eab96986315c", 
+        "is_playable": true, 
+        "uri": "spotify:track:5VdagOUbP0L3Tv3yxapgrv", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5VdagOUbP0L3Tv3yxapgrv", 
+        "artists": [
+          {
+            "name": "Elvis Costello", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+            }, 
+            "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+            "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+            "type": "artist", 
+            "id": "2BGRfQgtzikz1pzAD0kaEn"
+          }
+        ], 
+        "duration_ms": 205560, 
+        "track_number": 23, 
+        "type": "track", 
+        "id": "5VdagOUbP0L3Tv3yxapgrv"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/7lXAm2zYd3D3yrh2YuG6jB/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 48, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/7lXAm2zYd3D3yrh2YuG6jB", 
+  "copyrights": [
+    {
+      "text": "(C) 2007 Elvis Costello, under exclusive license to Universal Music Enterprises, a Division of UMG Recordings, Inc.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 2007 Elvis Costello, under exclusive license to Universal Music Enterprises, a Division of UMG Recordings, Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Elvis Costello", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+      }, 
+      "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn", 
+      "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn", 
+      "type": "artist", 
+      "id": "2BGRfQgtzikz1pzAD0kaEn"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/51851abbecea3a223d955988ab7444e1d11be668", 
+      "width": 640, 
+      "height": 575
+    }, 
+    {
+      "url": "https://i.scdn.co/image/55cf846b66eedce772239e80cf548d8fa7405668", 
+      "width": 300, 
+      "height": 270
+    }, 
+    {
+      "url": "https://i.scdn.co/image/49ab5c508eddaf7d7bdd4fff8095b7f027283e99", 
+      "width": 64, 
+      "height": 58
+    }
+  ], 
+  "external_ids": {
+    "upc": "00602517414785"
+  }, 
+  "type": "album", 
+  "id": "7lXAm2zYd3D3yrh2YuG6jB", 
+  "name": "My Aim Is True (Deluxe Edition)"
+}

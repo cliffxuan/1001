@@ -1,0 +1,375 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
+  }, 
+  "release_date": "1992-02-21", 
+  "popularity": 66, 
+  "genres": [], 
+  "uri": "spotify:album:7kW0cpKgSVsEqcc8xgbSb0", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Mouth For War", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6rkeaQRCWZxwkjhyqgxjXi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5748de00867fe182884384922da7b2ed931c4aea", 
+        "is_playable": true, 
+        "uri": "spotify:track:6rkeaQRCWZxwkjhyqgxjXi", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6rkeaQRCWZxwkjhyqgxjXi", 
+        "artists": [
+          {
+            "name": "Pantera", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+            }, 
+            "uri": "spotify:artist:14pVkFUHDL207LzLHtSA18", 
+            "href": "https://api.spotify.com/v1/artists/14pVkFUHDL207LzLHtSA18", 
+            "type": "artist", 
+            "id": "14pVkFUHDL207LzLHtSA18"
+          }
+        ], 
+        "duration_ms": 237346, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "6rkeaQRCWZxwkjhyqgxjXi"
+      }, 
+      {
+        "name": "A New Level", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Tdx85q8KQIcIZJ9XoHblt"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/45d2faaff0e5be740f2f13816248550b0a8db7e6", 
+        "is_playable": true, 
+        "uri": "spotify:track:5Tdx85q8KQIcIZJ9XoHblt", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5Tdx85q8KQIcIZJ9XoHblt", 
+        "artists": [
+          {
+            "name": "Pantera", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+            }, 
+            "uri": "spotify:artist:14pVkFUHDL207LzLHtSA18", 
+            "href": "https://api.spotify.com/v1/artists/14pVkFUHDL207LzLHtSA18", 
+            "type": "artist", 
+            "id": "14pVkFUHDL207LzLHtSA18"
+          }
+        ], 
+        "duration_ms": 237466, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "5Tdx85q8KQIcIZJ9XoHblt"
+      }, 
+      {
+        "name": "Walk", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/72091af49d9ea52f9ff2680e515ac19e1c1a9c1e", 
+        "is_playable": true, 
+        "uri": "spotify:track:7fcfNW0XxTWlwVlftzfDOR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7fcfNW0XxTWlwVlftzfDOR", 
+        "artists": [
+          {
+            "name": "Pantera", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+            }, 
+            "uri": "spotify:artist:14pVkFUHDL207LzLHtSA18", 
+            "href": "https://api.spotify.com/v1/artists/14pVkFUHDL207LzLHtSA18", 
+            "type": "artist", 
+            "id": "14pVkFUHDL207LzLHtSA18"
+          }
+        ], 
+        "duration_ms": 315120, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "7fcfNW0XxTWlwVlftzfDOR"
+      }, 
+      {
+        "name": "Fucking Hostile", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5RU50TPTgtxJLFNunUS2p5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/61629a72194a5805c93fe617636f28bb950ab422", 
+        "is_playable": true, 
+        "uri": "spotify:track:5RU50TPTgtxJLFNunUS2p5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5RU50TPTgtxJLFNunUS2p5", 
+        "artists": [
+          {
+            "name": "Pantera", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+            }, 
+            "uri": "spotify:artist:14pVkFUHDL207LzLHtSA18", 
+            "href": "https://api.spotify.com/v1/artists/14pVkFUHDL207LzLHtSA18", 
+            "type": "artist", 
+            "id": "14pVkFUHDL207LzLHtSA18"
+          }
+        ], 
+        "duration_ms": 168600, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "5RU50TPTgtxJLFNunUS2p5"
+      }, 
+      {
+        "name": "This Love", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Yfpc5zHc9pElVCQ1bPlF4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5528baae5e2bb042e73f804c0f18cd7910b4ab3a", 
+        "is_playable": true, 
+        "uri": "spotify:track:0Yfpc5zHc9pElVCQ1bPlF4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0Yfpc5zHc9pElVCQ1bPlF4", 
+        "artists": [
+          {
+            "name": "Pantera", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+            }, 
+            "uri": "spotify:artist:14pVkFUHDL207LzLHtSA18", 
+            "href": "https://api.spotify.com/v1/artists/14pVkFUHDL207LzLHtSA18", 
+            "type": "artist", 
+            "id": "14pVkFUHDL207LzLHtSA18"
+          }
+        ], 
+        "duration_ms": 393706, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "0Yfpc5zHc9pElVCQ1bPlF4"
+      }, 
+      {
+        "name": "Rise", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1GgdgDHlEdmwbCZLLzV4Ik"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a9f6fb32bde0de729719168945feb3083e46c433", 
+        "is_playable": true, 
+        "uri": "spotify:track:1GgdgDHlEdmwbCZLLzV4Ik", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1GgdgDHlEdmwbCZLLzV4Ik", 
+        "artists": [
+          {
+            "name": "Pantera", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+            }, 
+            "uri": "spotify:artist:14pVkFUHDL207LzLHtSA18", 
+            "href": "https://api.spotify.com/v1/artists/14pVkFUHDL207LzLHtSA18", 
+            "type": "artist", 
+            "id": "14pVkFUHDL207LzLHtSA18"
+          }
+        ], 
+        "duration_ms": 276573, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "1GgdgDHlEdmwbCZLLzV4Ik"
+      }, 
+      {
+        "name": "No Good (Attack The Radical)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5q272ZCgwndbAJJhGdG2mI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2ec638d16a88ac597fa7f579f3bdda8105b1990a", 
+        "is_playable": true, 
+        "uri": "spotify:track:5q272ZCgwndbAJJhGdG2mI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5q272ZCgwndbAJJhGdG2mI", 
+        "artists": [
+          {
+            "name": "Pantera", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+            }, 
+            "uri": "spotify:artist:14pVkFUHDL207LzLHtSA18", 
+            "href": "https://api.spotify.com/v1/artists/14pVkFUHDL207LzLHtSA18", 
+            "type": "artist", 
+            "id": "14pVkFUHDL207LzLHtSA18"
+          }
+        ], 
+        "duration_ms": 289760, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "5q272ZCgwndbAJJhGdG2mI"
+      }, 
+      {
+        "name": "Live In A Hole", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5gUcLzosEDmiPLDpQUKqTP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d6460d26c1ac27c7e481198a1f9c99092ef6aafa", 
+        "is_playable": true, 
+        "uri": "spotify:track:5gUcLzosEDmiPLDpQUKqTP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5gUcLzosEDmiPLDpQUKqTP", 
+        "artists": [
+          {
+            "name": "Pantera", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+            }, 
+            "uri": "spotify:artist:14pVkFUHDL207LzLHtSA18", 
+            "href": "https://api.spotify.com/v1/artists/14pVkFUHDL207LzLHtSA18", 
+            "type": "artist", 
+            "id": "14pVkFUHDL207LzLHtSA18"
+          }
+        ], 
+        "duration_ms": 300373, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "5gUcLzosEDmiPLDpQUKqTP"
+      }, 
+      {
+        "name": "Regular People (Conceit)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0YgOMJldhmvg5mE2H2AbUA"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7cddfd25dab162858d26ac62b5a3026872408d2c", 
+        "is_playable": true, 
+        "uri": "spotify:track:0YgOMJldhmvg5mE2H2AbUA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0YgOMJldhmvg5mE2H2AbUA", 
+        "artists": [
+          {
+            "name": "Pantera", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+            }, 
+            "uri": "spotify:artist:14pVkFUHDL207LzLHtSA18", 
+            "href": "https://api.spotify.com/v1/artists/14pVkFUHDL207LzLHtSA18", 
+            "type": "artist", 
+            "id": "14pVkFUHDL207LzLHtSA18"
+          }
+        ], 
+        "duration_ms": 327533, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "0YgOMJldhmvg5mE2H2AbUA"
+      }, 
+      {
+        "name": "By Demons Be Driven", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Kl2BY1d8KHjOjY3cynftv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bd04e37514ba6d4d15b11de6c401e453c37577e1", 
+        "is_playable": true, 
+        "uri": "spotify:track:6Kl2BY1d8KHjOjY3cynftv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6Kl2BY1d8KHjOjY3cynftv", 
+        "artists": [
+          {
+            "name": "Pantera", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+            }, 
+            "uri": "spotify:artist:14pVkFUHDL207LzLHtSA18", 
+            "href": "https://api.spotify.com/v1/artists/14pVkFUHDL207LzLHtSA18", 
+            "type": "artist", 
+            "id": "14pVkFUHDL207LzLHtSA18"
+          }
+        ], 
+        "duration_ms": 280333, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "6Kl2BY1d8KHjOjY3cynftv"
+      }, 
+      {
+        "name": "Hollow", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1lM1ZHTvfKi5CMRjsZ4Sg9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/12d2c6b41055c284be67ac341d1745a6d4414687", 
+        "is_playable": true, 
+        "uri": "spotify:track:1lM1ZHTvfKi5CMRjsZ4Sg9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1lM1ZHTvfKi5CMRjsZ4Sg9", 
+        "artists": [
+          {
+            "name": "Pantera", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+            }, 
+            "uri": "spotify:artist:14pVkFUHDL207LzLHtSA18", 
+            "href": "https://api.spotify.com/v1/artists/14pVkFUHDL207LzLHtSA18", 
+            "type": "artist", 
+            "id": "14pVkFUHDL207LzLHtSA18"
+          }
+        ], 
+        "duration_ms": 345733, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "1lM1ZHTvfKi5CMRjsZ4Sg9"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/7kW0cpKgSVsEqcc8xgbSb0/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 11, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/7kW0cpKgSVsEqcc8xgbSb0", 
+  "copyrights": [
+    {
+      "text": "1992 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States.", 
+      "type": "C"
+    }, 
+    {
+      "text": "1992 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Pantera", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+      }, 
+      "uri": "spotify:artist:14pVkFUHDL207LzLHtSA18", 
+      "href": "https://api.spotify.com/v1/artists/14pVkFUHDL207LzLHtSA18", 
+      "type": "artist", 
+      "id": "14pVkFUHDL207LzLHtSA18"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/c4b1ee633fe2d01a9bb7d7e0cb95bf870df25a90", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/0ee7dd0ad4d5f60c647a0640f3861ea56db30626", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/2d1deb74ab6da9c639f762ae0cbfc9955d86de79", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "075679175861"
+  }, 
+  "type": "album", 
+  "id": "7kW0cpKgSVsEqcc8xgbSb0", 
+  "name": "Vulgar Display Of Power"
+}

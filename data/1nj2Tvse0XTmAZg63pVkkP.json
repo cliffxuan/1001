@@ -1,0 +1,375 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1nj2Tvse0XTmAZg63pVkkP"
+  }, 
+  "release_date": "2008-09-21", 
+  "popularity": 54, 
+  "genres": [], 
+  "uri": "spotify:album:1nj2Tvse0XTmAZg63pVkkP", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Halfway Home", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0dFC9hp4bP8lUsuw15pkG3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6f8865632325140424ae57141d9f532b267e16d7", 
+        "is_playable": true, 
+        "uri": "spotify:track:0dFC9hp4bP8lUsuw15pkG3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0dFC9hp4bP8lUsuw15pkG3", 
+        "artists": [
+          {
+            "name": "TV On The Radio", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+            }, 
+            "uri": "spotify:artist:3HJIB8sYPyxrFGuwvKXSLR", 
+            "href": "https://api.spotify.com/v1/artists/3HJIB8sYPyxrFGuwvKXSLR", 
+            "type": "artist", 
+            "id": "3HJIB8sYPyxrFGuwvKXSLR"
+          }
+        ], 
+        "duration_ms": 331693, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "0dFC9hp4bP8lUsuw15pkG3"
+      }, 
+      {
+        "name": "Crying", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5fXU7rkyqD3uvwuWNLIJtO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bc50bd4f4bd72f7dd8a1de2538292d3812b1527f", 
+        "is_playable": true, 
+        "uri": "spotify:track:5fXU7rkyqD3uvwuWNLIJtO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5fXU7rkyqD3uvwuWNLIJtO", 
+        "artists": [
+          {
+            "name": "TV On The Radio", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+            }, 
+            "uri": "spotify:artist:3HJIB8sYPyxrFGuwvKXSLR", 
+            "href": "https://api.spotify.com/v1/artists/3HJIB8sYPyxrFGuwvKXSLR", 
+            "type": "artist", 
+            "id": "3HJIB8sYPyxrFGuwvKXSLR"
+          }
+        ], 
+        "duration_ms": 250613, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "5fXU7rkyqD3uvwuWNLIJtO"
+      }, 
+      {
+        "name": "Dancing Choose", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1HeER6SPJn7hCpTtldmV03"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/dcddd9b1ee9292b6be0c97c2d2239aadd089e756", 
+        "is_playable": true, 
+        "uri": "spotify:track:1HeER6SPJn7hCpTtldmV03", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1HeER6SPJn7hCpTtldmV03", 
+        "artists": [
+          {
+            "name": "TV On The Radio", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+            }, 
+            "uri": "spotify:artist:3HJIB8sYPyxrFGuwvKXSLR", 
+            "href": "https://api.spotify.com/v1/artists/3HJIB8sYPyxrFGuwvKXSLR", 
+            "type": "artist", 
+            "id": "3HJIB8sYPyxrFGuwvKXSLR"
+          }
+        ], 
+        "duration_ms": 176106, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "1HeER6SPJn7hCpTtldmV03"
+      }, 
+      {
+        "name": "Stork & Owl", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/29aZrCK7O7KEpr6aU6HUwp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cdc4fcf6e1640f23a91f6b2d348a13b3ed130eb8", 
+        "is_playable": true, 
+        "uri": "spotify:track:29aZrCK7O7KEpr6aU6HUwp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/29aZrCK7O7KEpr6aU6HUwp", 
+        "artists": [
+          {
+            "name": "TV On The Radio", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+            }, 
+            "uri": "spotify:artist:3HJIB8sYPyxrFGuwvKXSLR", 
+            "href": "https://api.spotify.com/v1/artists/3HJIB8sYPyxrFGuwvKXSLR", 
+            "type": "artist", 
+            "id": "3HJIB8sYPyxrFGuwvKXSLR"
+          }
+        ], 
+        "duration_ms": 241773, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "29aZrCK7O7KEpr6aU6HUwp"
+      }, 
+      {
+        "name": "Golden Age", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5NDB2f4bSZg27nBzcsecw0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8c75d42c9528e210ce49838f39ccd4026c53a948", 
+        "is_playable": true, 
+        "uri": "spotify:track:5NDB2f4bSZg27nBzcsecw0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5NDB2f4bSZg27nBzcsecw0", 
+        "artists": [
+          {
+            "name": "TV On The Radio", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+            }, 
+            "uri": "spotify:artist:3HJIB8sYPyxrFGuwvKXSLR", 
+            "href": "https://api.spotify.com/v1/artists/3HJIB8sYPyxrFGuwvKXSLR", 
+            "type": "artist", 
+            "id": "3HJIB8sYPyxrFGuwvKXSLR"
+          }
+        ], 
+        "duration_ms": 251893, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "5NDB2f4bSZg27nBzcsecw0"
+      }, 
+      {
+        "name": "Family Tree", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Ej8ZvHSq2QNYqqqHF73uB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d0c3b19e0bb4ba268044085d3d404cc87d727f0e", 
+        "is_playable": true, 
+        "uri": "spotify:track:4Ej8ZvHSq2QNYqqqHF73uB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4Ej8ZvHSq2QNYqqqHF73uB", 
+        "artists": [
+          {
+            "name": "TV On The Radio", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+            }, 
+            "uri": "spotify:artist:3HJIB8sYPyxrFGuwvKXSLR", 
+            "href": "https://api.spotify.com/v1/artists/3HJIB8sYPyxrFGuwvKXSLR", 
+            "type": "artist", 
+            "id": "3HJIB8sYPyxrFGuwvKXSLR"
+          }
+        ], 
+        "duration_ms": 333666, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "4Ej8ZvHSq2QNYqqqHF73uB"
+      }, 
+      {
+        "name": "Red Dress", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0k4zwyJ4AOoLtDeEy7Vvuo"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a09768749296cab6304889bbfb3e49a17aba4cf5", 
+        "is_playable": true, 
+        "uri": "spotify:track:0k4zwyJ4AOoLtDeEy7Vvuo", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0k4zwyJ4AOoLtDeEy7Vvuo", 
+        "artists": [
+          {
+            "name": "TV On The Radio", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+            }, 
+            "uri": "spotify:artist:3HJIB8sYPyxrFGuwvKXSLR", 
+            "href": "https://api.spotify.com/v1/artists/3HJIB8sYPyxrFGuwvKXSLR", 
+            "type": "artist", 
+            "id": "3HJIB8sYPyxrFGuwvKXSLR"
+          }
+        ], 
+        "duration_ms": 265160, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "0k4zwyJ4AOoLtDeEy7Vvuo"
+      }, 
+      {
+        "name": "Love Dog", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7ft4BpIbh5AMJyzJIfpRVf"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/616337fccb685e5abf1a6db127396d47ce302e54", 
+        "is_playable": true, 
+        "uri": "spotify:track:7ft4BpIbh5AMJyzJIfpRVf", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7ft4BpIbh5AMJyzJIfpRVf", 
+        "artists": [
+          {
+            "name": "TV On The Radio", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+            }, 
+            "uri": "spotify:artist:3HJIB8sYPyxrFGuwvKXSLR", 
+            "href": "https://api.spotify.com/v1/artists/3HJIB8sYPyxrFGuwvKXSLR", 
+            "type": "artist", 
+            "id": "3HJIB8sYPyxrFGuwvKXSLR"
+          }
+        ], 
+        "duration_ms": 336480, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "7ft4BpIbh5AMJyzJIfpRVf"
+      }, 
+      {
+        "name": "Shout Me Out", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1uaTs4yMOqTw9OvdT5GVUC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3ac96c4db4db52edf34478a7bf5cdf4ed5110d96", 
+        "is_playable": true, 
+        "uri": "spotify:track:1uaTs4yMOqTw9OvdT5GVUC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1uaTs4yMOqTw9OvdT5GVUC", 
+        "artists": [
+          {
+            "name": "TV On The Radio", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+            }, 
+            "uri": "spotify:artist:3HJIB8sYPyxrFGuwvKXSLR", 
+            "href": "https://api.spotify.com/v1/artists/3HJIB8sYPyxrFGuwvKXSLR", 
+            "type": "artist", 
+            "id": "3HJIB8sYPyxrFGuwvKXSLR"
+          }
+        ], 
+        "duration_ms": 255746, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "1uaTs4yMOqTw9OvdT5GVUC"
+      }, 
+      {
+        "name": "DLZ", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6HShLj7GuPA7CC2oeRPUNL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/31c619c20e937163d26f6f6cb5e7ee52596d1751", 
+        "is_playable": true, 
+        "uri": "spotify:track:6HShLj7GuPA7CC2oeRPUNL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6HShLj7GuPA7CC2oeRPUNL", 
+        "artists": [
+          {
+            "name": "TV On The Radio", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+            }, 
+            "uri": "spotify:artist:3HJIB8sYPyxrFGuwvKXSLR", 
+            "href": "https://api.spotify.com/v1/artists/3HJIB8sYPyxrFGuwvKXSLR", 
+            "type": "artist", 
+            "id": "3HJIB8sYPyxrFGuwvKXSLR"
+          }
+        ], 
+        "duration_ms": 228706, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "6HShLj7GuPA7CC2oeRPUNL"
+      }, 
+      {
+        "name": "Lover\u2019s Day", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0lH1x9PDvFJDHqLZZQ602s"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2a6a6cd93643144c08a19fcb799c584727310b12", 
+        "is_playable": true, 
+        "uri": "spotify:track:0lH1x9PDvFJDHqLZZQ602s", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0lH1x9PDvFJDHqLZZQ602s", 
+        "artists": [
+          {
+            "name": "TV On The Radio", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+            }, 
+            "uri": "spotify:artist:3HJIB8sYPyxrFGuwvKXSLR", 
+            "href": "https://api.spotify.com/v1/artists/3HJIB8sYPyxrFGuwvKXSLR", 
+            "type": "artist", 
+            "id": "3HJIB8sYPyxrFGuwvKXSLR"
+          }
+        ], 
+        "duration_ms": 354373, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "0lH1x9PDvFJDHqLZZQ602s"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/1nj2Tvse0XTmAZg63pVkkP/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 11, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/1nj2Tvse0XTmAZg63pVkkP", 
+  "copyrights": [
+    {
+      "text": "2008 Touch and Go Records, exclusively licensed to 4AD", 
+      "type": "C"
+    }, 
+    {
+      "text": "2008 Touch and Go Records, exclusively licensed to 4AD", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "TV On The Radio", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+      }, 
+      "uri": "spotify:artist:3HJIB8sYPyxrFGuwvKXSLR", 
+      "href": "https://api.spotify.com/v1/artists/3HJIB8sYPyxrFGuwvKXSLR", 
+      "type": "artist", 
+      "id": "3HJIB8sYPyxrFGuwvKXSLR"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/7991d3a86012e1761adc0e8369c6f2c198685bd8", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/a1148c5816a88d1a211e92299248429a6f4cc6ec", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/2407bd84bf687fd33b93981bc8ff5732a2ed3421", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "652637282160"
+  }, 
+  "type": "album", 
+  "id": "1nj2Tvse0XTmAZg63pVkkP", 
+  "name": "Dear Science,"
+}

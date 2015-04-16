@@ -1,0 +1,375 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2aFWgTQdB8lG7DuMHIU6uw"
+  }, 
+  "release_date": "1982", 
+  "popularity": 44, 
+  "genres": [], 
+  "uri": "spotify:album:2aFWgTQdB8lG7DuMHIU6uw", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Show Me", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3WZ60yJNx29X79K3QcGLVB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/33106280c1ae610901309b4f83f4535898aca2e9", 
+        "is_playable": true, 
+        "uri": "spotify:track:3WZ60yJNx29X79K3QcGLVB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3WZ60yJNx29X79K3QcGLVB", 
+        "artists": [
+          {
+            "name": "ABC", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2s79xe5F6eUQkjwjww27Fh"
+            }, 
+            "uri": "spotify:artist:2s79xe5F6eUQkjwjww27Fh", 
+            "href": "https://api.spotify.com/v1/artists/2s79xe5F6eUQkjwjww27Fh", 
+            "type": "artist", 
+            "id": "2s79xe5F6eUQkjwjww27Fh"
+          }
+        ], 
+        "duration_ms": 242226, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "3WZ60yJNx29X79K3QcGLVB"
+      }, 
+      {
+        "name": "Poison Arrow", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/46EfOYq59bLsA8KU3UauRK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3d2806ed477aae13c64524c352f3521760310f54", 
+        "is_playable": true, 
+        "uri": "spotify:track:46EfOYq59bLsA8KU3UauRK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/46EfOYq59bLsA8KU3UauRK", 
+        "artists": [
+          {
+            "name": "ABC", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2s79xe5F6eUQkjwjww27Fh"
+            }, 
+            "uri": "spotify:artist:2s79xe5F6eUQkjwjww27Fh", 
+            "href": "https://api.spotify.com/v1/artists/2s79xe5F6eUQkjwjww27Fh", 
+            "type": "artist", 
+            "id": "2s79xe5F6eUQkjwjww27Fh"
+          }
+        ], 
+        "duration_ms": 204280, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "46EfOYq59bLsA8KU3UauRK"
+      }, 
+      {
+        "name": "Many Happy Returns", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4qinWsC87b7PAAHaMHTPH2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e33d5d74e63c57a616f2b0c2741e7760fc388f5b", 
+        "is_playable": true, 
+        "uri": "spotify:track:4qinWsC87b7PAAHaMHTPH2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4qinWsC87b7PAAHaMHTPH2", 
+        "artists": [
+          {
+            "name": "ABC", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2s79xe5F6eUQkjwjww27Fh"
+            }, 
+            "uri": "spotify:artist:2s79xe5F6eUQkjwjww27Fh", 
+            "href": "https://api.spotify.com/v1/artists/2s79xe5F6eUQkjwjww27Fh", 
+            "type": "artist", 
+            "id": "2s79xe5F6eUQkjwjww27Fh"
+          }
+        ], 
+        "duration_ms": 237853, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "4qinWsC87b7PAAHaMHTPH2"
+      }, 
+      {
+        "name": "Tears Are Not Enough", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2URSx0T7MSOJgLHYCvJIf5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f4f63f40b3dc6b7a751e6853460dd19cbe746282", 
+        "is_playable": true, 
+        "uri": "spotify:track:2URSx0T7MSOJgLHYCvJIf5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2URSx0T7MSOJgLHYCvJIf5", 
+        "artists": [
+          {
+            "name": "ABC", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2s79xe5F6eUQkjwjww27Fh"
+            }, 
+            "uri": "spotify:artist:2s79xe5F6eUQkjwjww27Fh", 
+            "href": "https://api.spotify.com/v1/artists/2s79xe5F6eUQkjwjww27Fh", 
+            "type": "artist", 
+            "id": "2s79xe5F6eUQkjwjww27Fh"
+          }
+        ], 
+        "duration_ms": 211186, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "2URSx0T7MSOJgLHYCvJIf5"
+      }, 
+      {
+        "name": "Valentine's Day", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2BsYTlEAKzg3s6DXZKx211"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4fdc558d8aa79c66ccf88c6ba65497be21a16fc0", 
+        "is_playable": true, 
+        "uri": "spotify:track:2BsYTlEAKzg3s6DXZKx211", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2BsYTlEAKzg3s6DXZKx211", 
+        "artists": [
+          {
+            "name": "ABC", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2s79xe5F6eUQkjwjww27Fh"
+            }, 
+            "uri": "spotify:artist:2s79xe5F6eUQkjwjww27Fh", 
+            "href": "https://api.spotify.com/v1/artists/2s79xe5F6eUQkjwjww27Fh", 
+            "type": "artist", 
+            "id": "2s79xe5F6eUQkjwjww27Fh"
+          }
+        ], 
+        "duration_ms": 220589, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "2BsYTlEAKzg3s6DXZKx211"
+      }, 
+      {
+        "name": "The Look Of Love (Part 1)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5PZJJDmGY5blmaj9znH1tA"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ab9407111c3407e33b23328b818206da4c0ae4b6", 
+        "is_playable": true, 
+        "uri": "spotify:track:5PZJJDmGY5blmaj9znH1tA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5PZJJDmGY5blmaj9znH1tA", 
+        "artists": [
+          {
+            "name": "ABC", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2s79xe5F6eUQkjwjww27Fh"
+            }, 
+            "uri": "spotify:artist:2s79xe5F6eUQkjwjww27Fh", 
+            "href": "https://api.spotify.com/v1/artists/2s79xe5F6eUQkjwjww27Fh", 
+            "type": "artist", 
+            "id": "2s79xe5F6eUQkjwjww27Fh"
+          }
+        ], 
+        "duration_ms": 209026, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "5PZJJDmGY5blmaj9znH1tA"
+      }, 
+      {
+        "name": "Date Stamp", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/53nTUKltCOLmb5eLuf092H"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/55108f1112b4dce4aa694e5f9b4a35b071266a6a", 
+        "is_playable": true, 
+        "uri": "spotify:track:53nTUKltCOLmb5eLuf092H", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/53nTUKltCOLmb5eLuf092H", 
+        "artists": [
+          {
+            "name": "ABC", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2s79xe5F6eUQkjwjww27Fh"
+            }, 
+            "uri": "spotify:artist:2s79xe5F6eUQkjwjww27Fh", 
+            "href": "https://api.spotify.com/v1/artists/2s79xe5F6eUQkjwjww27Fh", 
+            "type": "artist", 
+            "id": "2s79xe5F6eUQkjwjww27Fh"
+          }
+        ], 
+        "duration_ms": 231346, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "53nTUKltCOLmb5eLuf092H"
+      }, 
+      {
+        "name": "All Of My Heart", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1kMQxBXEuQwd05AzN58N0s"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1db09ce751e398d9d76a58c6d4cfbbc02be19bd0", 
+        "is_playable": true, 
+        "uri": "spotify:track:1kMQxBXEuQwd05AzN58N0s", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1kMQxBXEuQwd05AzN58N0s", 
+        "artists": [
+          {
+            "name": "ABC", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2s79xe5F6eUQkjwjww27Fh"
+            }, 
+            "uri": "spotify:artist:2s79xe5F6eUQkjwjww27Fh", 
+            "href": "https://api.spotify.com/v1/artists/2s79xe5F6eUQkjwjww27Fh", 
+            "type": "artist", 
+            "id": "2s79xe5F6eUQkjwjww27Fh"
+          }
+        ], 
+        "duration_ms": 317626, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "1kMQxBXEuQwd05AzN58N0s"
+      }, 
+      {
+        "name": "4 Ever 2 Gether", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4viMblXI44LN0qwc4r3ZVA"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/039e1ee684f6fd75a8b9f4c8c2afe8f7ceff54e0", 
+        "is_playable": true, 
+        "uri": "spotify:track:4viMblXI44LN0qwc4r3ZVA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4viMblXI44LN0qwc4r3ZVA", 
+        "artists": [
+          {
+            "name": "ABC", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2s79xe5F6eUQkjwjww27Fh"
+            }, 
+            "uri": "spotify:artist:2s79xe5F6eUQkjwjww27Fh", 
+            "href": "https://api.spotify.com/v1/artists/2s79xe5F6eUQkjwjww27Fh", 
+            "type": "artist", 
+            "id": "2s79xe5F6eUQkjwjww27Fh"
+          }
+        ], 
+        "duration_ms": 333973, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "4viMblXI44LN0qwc4r3ZVA"
+      }, 
+      {
+        "name": "The Look Of Love (Part 4)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/772XZ1er5Clo0zW9UFUmpc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f0c4a80f88001044ef328650b65d0c13b1b6d43f", 
+        "is_playable": true, 
+        "uri": "spotify:track:772XZ1er5Clo0zW9UFUmpc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/772XZ1er5Clo0zW9UFUmpc", 
+        "artists": [
+          {
+            "name": "ABC", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2s79xe5F6eUQkjwjww27Fh"
+            }, 
+            "uri": "spotify:artist:2s79xe5F6eUQkjwjww27Fh", 
+            "href": "https://api.spotify.com/v1/artists/2s79xe5F6eUQkjwjww27Fh", 
+            "type": "artist", 
+            "id": "2s79xe5F6eUQkjwjww27Fh"
+          }
+        ], 
+        "duration_ms": 62106, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "772XZ1er5Clo0zW9UFUmpc"
+      }, 
+      {
+        "name": "Theme From \"Mantrap\"", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1UEaA5fUJycJ0z7MWWjzcT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e133106403307269c1c762ecd52694a2d03a190a", 
+        "is_playable": true, 
+        "uri": "spotify:track:1UEaA5fUJycJ0z7MWWjzcT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1UEaA5fUJycJ0z7MWWjzcT", 
+        "artists": [
+          {
+            "name": "ABC", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2s79xe5F6eUQkjwjww27Fh"
+            }, 
+            "uri": "spotify:artist:2s79xe5F6eUQkjwjww27Fh", 
+            "href": "https://api.spotify.com/v1/artists/2s79xe5F6eUQkjwjww27Fh", 
+            "type": "artist", 
+            "id": "2s79xe5F6eUQkjwjww27Fh"
+          }
+        ], 
+        "duration_ms": 259226, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "1UEaA5fUJycJ0z7MWWjzcT"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/2aFWgTQdB8lG7DuMHIU6uw/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 11, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/2aFWgTQdB8lG7DuMHIU6uw", 
+  "copyrights": [
+    {
+      "text": "(C) 1998 Mercury Records Limited", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1998 Mercury Records Limited", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "ABC", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2s79xe5F6eUQkjwjww27Fh"
+      }, 
+      "uri": "spotify:artist:2s79xe5F6eUQkjwjww27Fh", 
+      "href": "https://api.spotify.com/v1/artists/2s79xe5F6eUQkjwjww27Fh", 
+      "type": "artist", 
+      "id": "2s79xe5F6eUQkjwjww27Fh"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/b4b3c521618251dec9abb28e35aac38677d9b05b", 
+      "width": 640, 
+      "height": 634
+    }, 
+    {
+      "url": "https://i.scdn.co/image/0e6e2b4689ce443289ee6744cc5764c8839257a7", 
+      "width": 300, 
+      "height": 297
+    }, 
+    {
+      "url": "https://i.scdn.co/image/d3ca3c218d6357f82708e3e4c5f0781485aea405", 
+      "width": 64, 
+      "height": 63
+    }
+  ], 
+  "external_ids": {
+    "upc": "00731453825024"
+  }, 
+  "type": "album", 
+  "id": "2aFWgTQdB8lG7DuMHIU6uw", 
+  "name": "The Lexicon Of Love"
+}

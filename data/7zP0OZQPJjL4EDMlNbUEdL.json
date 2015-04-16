@@ -1,0 +1,459 @@
+{
+  "genres": [], 
+  "release_date_precision": "month", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7zP0OZQPJjL4EDMlNbUEdL"
+  }, 
+  "release_date": "1971-08", 
+  "popularity": 30, 
+  "album_type": "album", 
+  "uri": "spotify:album:7zP0OZQPJjL4EDMlNbUEdL", 
+  "tracks": {
+    "items": [
+      {
+        "name": "The Virgin", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1nnA8OjgrmZSBLx3Yxtxxo"
+        }, 
+        "explicit": false, 
+        "uri": "spotify:track:1nnA8OjgrmZSBLx3Yxtxxo", 
+        "is_playable": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/af97fb4c390ede7b53be1c5283ceff1130f5d914", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1nnA8OjgrmZSBLx3Yxtxxo", 
+        "artists": [
+          {
+            "name": "Gene Clark", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX"
+            }, 
+            "uri": "spotify:artist:040Bv6cZTRh30LyyYVXgJX", 
+            "href": "https://api.spotify.com/v1/artists/040Bv6cZTRh30LyyYVXgJX", 
+            "type": "artist", 
+            "id": "040Bv6cZTRh30LyyYVXgJX"
+          }
+        ], 
+        "duration_ms": 217200, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "1nnA8OjgrmZSBLx3Yxtxxo"
+      }, 
+      {
+        "name": "With Tomorrow", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0qXrXop7j6gBYgRDbrF6IH"
+        }, 
+        "explicit": false, 
+        "uri": "spotify:track:0qXrXop7j6gBYgRDbrF6IH", 
+        "is_playable": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/63d2c283b5d93b071ac912963ab289f3d1f9a6c7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0qXrXop7j6gBYgRDbrF6IH", 
+        "artists": [
+          {
+            "name": "Gene Clark", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX"
+            }, 
+            "uri": "spotify:artist:040Bv6cZTRh30LyyYVXgJX", 
+            "href": "https://api.spotify.com/v1/artists/040Bv6cZTRh30LyyYVXgJX", 
+            "type": "artist", 
+            "id": "040Bv6cZTRh30LyyYVXgJX"
+          }
+        ], 
+        "duration_ms": 145600, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "0qXrXop7j6gBYgRDbrF6IH"
+      }, 
+      {
+        "name": "White Light", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3pH4oHme1esQGnyU3I5hYc"
+        }, 
+        "explicit": false, 
+        "uri": "spotify:track:3pH4oHme1esQGnyU3I5hYc", 
+        "is_playable": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d042d9c947ddd0cb4bfd0dc8d48db4abd886593c", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3pH4oHme1esQGnyU3I5hYc", 
+        "artists": [
+          {
+            "name": "Gene Clark", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX"
+            }, 
+            "uri": "spotify:artist:040Bv6cZTRh30LyyYVXgJX", 
+            "href": "https://api.spotify.com/v1/artists/040Bv6cZTRh30LyyYVXgJX", 
+            "type": "artist", 
+            "id": "040Bv6cZTRh30LyyYVXgJX"
+          }
+        ], 
+        "duration_ms": 217933, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "3pH4oHme1esQGnyU3I5hYc"
+      }, 
+      {
+        "name": "Because Of You", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2cBxoYOLfBw8isTOxL1QQP"
+        }, 
+        "explicit": false, 
+        "uri": "spotify:track:2cBxoYOLfBw8isTOxL1QQP", 
+        "is_playable": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9e745f0f82a81b4666bc4b61d6608efdacb99364", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2cBxoYOLfBw8isTOxL1QQP", 
+        "artists": [
+          {
+            "name": "Gene Clark", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX"
+            }, 
+            "uri": "spotify:artist:040Bv6cZTRh30LyyYVXgJX", 
+            "href": "https://api.spotify.com/v1/artists/040Bv6cZTRh30LyyYVXgJX", 
+            "type": "artist", 
+            "id": "040Bv6cZTRh30LyyYVXgJX"
+          }
+        ], 
+        "duration_ms": 242933, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "2cBxoYOLfBw8isTOxL1QQP"
+      }, 
+      {
+        "name": "One In A Hundred", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5OtuubEB0pRl3puJ36D1Lr"
+        }, 
+        "explicit": false, 
+        "uri": "spotify:track:5OtuubEB0pRl3puJ36D1Lr", 
+        "is_playable": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cb753f5f8b04d015f6501779bacf06e1073edda5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5OtuubEB0pRl3puJ36D1Lr", 
+        "artists": [
+          {
+            "name": "Gene Clark", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX"
+            }, 
+            "uri": "spotify:artist:040Bv6cZTRh30LyyYVXgJX", 
+            "href": "https://api.spotify.com/v1/artists/040Bv6cZTRh30LyyYVXgJX", 
+            "type": "artist", 
+            "id": "040Bv6cZTRh30LyyYVXgJX"
+          }
+        ], 
+        "duration_ms": 213280, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "5OtuubEB0pRl3puJ36D1Lr"
+      }, 
+      {
+        "name": "For A Spanish Guitar", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2RA8Oaf35xRophWLSaRfSL"
+        }, 
+        "explicit": false, 
+        "uri": "spotify:track:2RA8Oaf35xRophWLSaRfSL", 
+        "is_playable": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/355f0103a0d794909aae19c22b983282cb6304f6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2RA8Oaf35xRophWLSaRfSL", 
+        "artists": [
+          {
+            "name": "Gene Clark", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX"
+            }, 
+            "uri": "spotify:artist:040Bv6cZTRh30LyyYVXgJX", 
+            "href": "https://api.spotify.com/v1/artists/040Bv6cZTRh30LyyYVXgJX", 
+            "type": "artist", 
+            "id": "040Bv6cZTRh30LyyYVXgJX"
+          }
+        ], 
+        "duration_ms": 298786, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "2RA8Oaf35xRophWLSaRfSL"
+      }, 
+      {
+        "name": "Where My Love Lies Asleep", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Opf0aoywAQP6VozjJrWJn"
+        }, 
+        "explicit": false, 
+        "uri": "spotify:track:2Opf0aoywAQP6VozjJrWJn", 
+        "is_playable": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e7d5bf5d73b413a588690bafb99f2a4f4781c45c", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2Opf0aoywAQP6VozjJrWJn", 
+        "artists": [
+          {
+            "name": "Gene Clark", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX"
+            }, 
+            "uri": "spotify:artist:040Bv6cZTRh30LyyYVXgJX", 
+            "href": "https://api.spotify.com/v1/artists/040Bv6cZTRh30LyyYVXgJX", 
+            "type": "artist", 
+            "id": "040Bv6cZTRh30LyyYVXgJX"
+          }
+        ], 
+        "duration_ms": 260519, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "2Opf0aoywAQP6VozjJrWJn"
+      }, 
+      {
+        "name": "Tears Of Rage", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Ozhtm5KTqglf7IgyQs58M"
+        }, 
+        "explicit": false, 
+        "uri": "spotify:track:3Ozhtm5KTqglf7IgyQs58M", 
+        "is_playable": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ce2b4913ab20db135f563cc4e19a1cf8ad004b04", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3Ozhtm5KTqglf7IgyQs58M", 
+        "artists": [
+          {
+            "name": "Gene Clark", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX"
+            }, 
+            "uri": "spotify:artist:040Bv6cZTRh30LyyYVXgJX", 
+            "href": "https://api.spotify.com/v1/artists/040Bv6cZTRh30LyyYVXgJX", 
+            "type": "artist", 
+            "id": "040Bv6cZTRh30LyyYVXgJX"
+          }
+        ], 
+        "duration_ms": 252880, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "3Ozhtm5KTqglf7IgyQs58M"
+      }, 
+      {
+        "name": "1975", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Vic33yjPxUYKlgWC4fl2u"
+        }, 
+        "explicit": false, 
+        "uri": "spotify:track:6Vic33yjPxUYKlgWC4fl2u", 
+        "is_playable": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b0d49463c8d10c849fefb6a1d3195bacb97f63a5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6Vic33yjPxUYKlgWC4fl2u", 
+        "artists": [
+          {
+            "name": "Gene Clark", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX"
+            }, 
+            "uri": "spotify:artist:040Bv6cZTRh30LyyYVXgJX", 
+            "href": "https://api.spotify.com/v1/artists/040Bv6cZTRh30LyyYVXgJX", 
+            "type": "artist", 
+            "id": "040Bv6cZTRh30LyyYVXgJX"
+          }
+        ], 
+        "duration_ms": 227613, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "6Vic33yjPxUYKlgWC4fl2u"
+      }, 
+      {
+        "name": "Because Of You - Alternate Mix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4pz30zKlbdFTcJk85btWlM"
+        }, 
+        "explicit": false, 
+        "uri": "spotify:track:4pz30zKlbdFTcJk85btWlM", 
+        "is_playable": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b750ec94290701c0838d5f1c9ae56529f74624c6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4pz30zKlbdFTcJk85btWlM", 
+        "artists": [
+          {
+            "name": "Gene Clark", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX"
+            }, 
+            "uri": "spotify:artist:040Bv6cZTRh30LyyYVXgJX", 
+            "href": "https://api.spotify.com/v1/artists/040Bv6cZTRh30LyyYVXgJX", 
+            "type": "artist", 
+            "id": "040Bv6cZTRh30LyyYVXgJX"
+          }
+        ], 
+        "duration_ms": 244813, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "4pz30zKlbdFTcJk85btWlM"
+      }, 
+      {
+        "name": "Stand By Me", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/06pT78fhaPH5TvrlgF0BuS"
+        }, 
+        "explicit": false, 
+        "uri": "spotify:track:06pT78fhaPH5TvrlgF0BuS", 
+        "is_playable": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1532566404e4c2309ffdbf26b1ea654e6c0be2f4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/06pT78fhaPH5TvrlgF0BuS", 
+        "artists": [
+          {
+            "name": "Gene Clark", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX"
+            }, 
+            "uri": "spotify:artist:040Bv6cZTRh30LyyYVXgJX", 
+            "href": "https://api.spotify.com/v1/artists/040Bv6cZTRh30LyyYVXgJX", 
+            "type": "artist", 
+            "id": "040Bv6cZTRh30LyyYVXgJX"
+          }
+        ], 
+        "duration_ms": 163946, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "06pT78fhaPH5TvrlgF0BuS"
+      }, 
+      {
+        "name": "Ship Of The Lord", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/35ZGOPJ4EOO8xYvzlAcnx1"
+        }, 
+        "explicit": false, 
+        "uri": "spotify:track:35ZGOPJ4EOO8xYvzlAcnx1", 
+        "is_playable": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/698b54dada374e5740de389f9d90b054f81c53f4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/35ZGOPJ4EOO8xYvzlAcnx1", 
+        "artists": [
+          {
+            "name": "Gene Clark", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX"
+            }, 
+            "uri": "spotify:artist:040Bv6cZTRh30LyyYVXgJX", 
+            "href": "https://api.spotify.com/v1/artists/040Bv6cZTRh30LyyYVXgJX", 
+            "type": "artist", 
+            "id": "040Bv6cZTRh30LyyYVXgJX"
+          }
+        ], 
+        "duration_ms": 152293, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "35ZGOPJ4EOO8xYvzlAcnx1"
+      }, 
+      {
+        "name": "Opening Night", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6PD6T1qdz7wGvNJr0LfUOd"
+        }, 
+        "explicit": false, 
+        "uri": "spotify:track:6PD6T1qdz7wGvNJr0LfUOd", 
+        "is_playable": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e042dc4b117f4516dd21cf154303067a72a332c9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6PD6T1qdz7wGvNJr0LfUOd", 
+        "artists": [
+          {
+            "name": "Gene Clark", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX"
+            }, 
+            "uri": "spotify:artist:040Bv6cZTRh30LyyYVXgJX", 
+            "href": "https://api.spotify.com/v1/artists/040Bv6cZTRh30LyyYVXgJX", 
+            "type": "artist", 
+            "id": "040Bv6cZTRh30LyyYVXgJX"
+          }
+        ], 
+        "duration_ms": 240333, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "6PD6T1qdz7wGvNJr0LfUOd"
+      }, 
+      {
+        "name": "Winter In", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5TLa607d9865kzmNvyHMlm"
+        }, 
+        "explicit": false, 
+        "uri": "spotify:track:5TLa607d9865kzmNvyHMlm", 
+        "is_playable": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/540660144590ab7b95613de52fac778ab54f2524", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5TLa607d9865kzmNvyHMlm", 
+        "artists": [
+          {
+            "name": "Gene Clark", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX"
+            }, 
+            "uri": "spotify:artist:040Bv6cZTRh30LyyYVXgJX", 
+            "href": "https://api.spotify.com/v1/artists/040Bv6cZTRh30LyyYVXgJX", 
+            "type": "artist", 
+            "id": "040Bv6cZTRh30LyyYVXgJX"
+          }
+        ], 
+        "duration_ms": 201560, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "5TLa607d9865kzmNvyHMlm"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/7zP0OZQPJjL4EDMlNbUEdL/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 14, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/7zP0OZQPJjL4EDMlNbUEdL", 
+  "copyrights": [
+    {
+      "text": "(C) 2002 A&M Records", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 2002 A&M Records", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Gene Clark", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX"
+      }, 
+      "uri": "spotify:artist:040Bv6cZTRh30LyyYVXgJX", 
+      "href": "https://api.spotify.com/v1/artists/040Bv6cZTRh30LyyYVXgJX", 
+      "type": "artist", 
+      "id": "040Bv6cZTRh30LyyYVXgJX"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/f5c3001d45f143263a2af4deed9a5a66ea71cd75", 
+      "width": 640, 
+      "height": 634
+    }, 
+    {
+      "url": "https://i.scdn.co/image/7bcb30416c3ae33d404c5fda311d1476b060f00f", 
+      "width": 300, 
+      "height": 297
+    }, 
+    {
+      "url": "https://i.scdn.co/image/0426d124dc0562466d037b6193f4a816ff76850c", 
+      "width": 64, 
+      "height": 63
+    }
+  ], 
+  "external_ids": {
+    "upc": "00606949320928"
+  }, 
+  "type": "album", 
+  "id": "7zP0OZQPJjL4EDMlNbUEdL", 
+  "name": "White Light (Remaster)"
+}

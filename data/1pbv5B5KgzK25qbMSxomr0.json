@@ -1,0 +1,515 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1pbv5B5KgzK25qbMSxomr0"
+  }, 
+  "release_date": "1998", 
+  "popularity": 45, 
+  "genres": [], 
+  "uri": "spotify:album:1pbv5B5KgzK25qbMSxomr0", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Clandestino", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7EqhETnKMB92rp5tgyKPn9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d7668658dc60dd240a3ee4ac36b519e14ef10ef4", 
+        "is_playable": true, 
+        "uri": "spotify:track:7EqhETnKMB92rp5tgyKPn9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7EqhETnKMB92rp5tgyKPn9", 
+        "artists": [
+          {
+            "name": "Manu Chao", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+            }, 
+            "uri": "spotify:artist:6wH6iStAh4KIaWfuhf0NYM", 
+            "href": "https://api.spotify.com/v1/artists/6wH6iStAh4KIaWfuhf0NYM", 
+            "type": "artist", 
+            "id": "6wH6iStAh4KIaWfuhf0NYM"
+          }
+        ], 
+        "duration_ms": 145560, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "7EqhETnKMB92rp5tgyKPn9"
+      }, 
+      {
+        "name": "Desaparecido", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5qye87Ucj1Q7k5rwfqkPTy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/873f23e3896efc3928ccc775a6cf8b31adfdf65a", 
+        "is_playable": true, 
+        "uri": "spotify:track:5qye87Ucj1Q7k5rwfqkPTy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5qye87Ucj1Q7k5rwfqkPTy", 
+        "artists": [
+          {
+            "name": "Manu Chao", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+            }, 
+            "uri": "spotify:artist:6wH6iStAh4KIaWfuhf0NYM", 
+            "href": "https://api.spotify.com/v1/artists/6wH6iStAh4KIaWfuhf0NYM", 
+            "type": "artist", 
+            "id": "6wH6iStAh4KIaWfuhf0NYM"
+          }
+        ], 
+        "duration_ms": 227160, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "5qye87Ucj1Q7k5rwfqkPTy"
+      }, 
+      {
+        "name": "Bongo bong", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2SUd7akvmHCdbSEJJFAo9l"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2230e588d70270a3c9c2cf6e7ac11ae71bcaeff2", 
+        "is_playable": true, 
+        "uri": "spotify:track:2SUd7akvmHCdbSEJJFAo9l", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2SUd7akvmHCdbSEJJFAo9l", 
+        "artists": [
+          {
+            "name": "Manu Chao", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+            }, 
+            "uri": "spotify:artist:6wH6iStAh4KIaWfuhf0NYM", 
+            "href": "https://api.spotify.com/v1/artists/6wH6iStAh4KIaWfuhf0NYM", 
+            "type": "artist", 
+            "id": "6wH6iStAh4KIaWfuhf0NYM"
+          }
+        ], 
+        "duration_ms": 158426, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "2SUd7akvmHCdbSEJJFAo9l"
+      }, 
+      {
+        "name": "Je ne t'aime plus", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7EcypZWwOO3cTCAUJ68ojL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/00e96cd3ff0598f05a99201e9970e77a55a583ac", 
+        "is_playable": true, 
+        "uri": "spotify:track:7EcypZWwOO3cTCAUJ68ojL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7EcypZWwOO3cTCAUJ68ojL", 
+        "artists": [
+          {
+            "name": "Manu Chao", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+            }, 
+            "uri": "spotify:artist:6wH6iStAh4KIaWfuhf0NYM", 
+            "href": "https://api.spotify.com/v1/artists/6wH6iStAh4KIaWfuhf0NYM", 
+            "type": "artist", 
+            "id": "6wH6iStAh4KIaWfuhf0NYM"
+          }
+        ], 
+        "duration_ms": 122760, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "7EcypZWwOO3cTCAUJ68ojL"
+      }, 
+      {
+        "name": "Mentira", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2PdDiGXwOnaHD8eEC0f6q6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7b972a65b34a87b479791b726b260f35a0990c78", 
+        "is_playable": true, 
+        "uri": "spotify:track:2PdDiGXwOnaHD8eEC0f6q6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2PdDiGXwOnaHD8eEC0f6q6", 
+        "artists": [
+          {
+            "name": "Manu Chao", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+            }, 
+            "uri": "spotify:artist:6wH6iStAh4KIaWfuhf0NYM", 
+            "href": "https://api.spotify.com/v1/artists/6wH6iStAh4KIaWfuhf0NYM", 
+            "type": "artist", 
+            "id": "6wH6iStAh4KIaWfuhf0NYM"
+          }
+        ], 
+        "duration_ms": 277013, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "2PdDiGXwOnaHD8eEC0f6q6"
+      }, 
+      {
+        "name": "Lagrimas de oro", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2xZe3tuNj29HyiGxsln192"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c10d805418ce84c7244dc331d943032c19b511a8", 
+        "is_playable": true, 
+        "uri": "spotify:track:2xZe3tuNj29HyiGxsln192", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2xZe3tuNj29HyiGxsln192", 
+        "artists": [
+          {
+            "name": "Manu Chao", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+            }, 
+            "uri": "spotify:artist:6wH6iStAh4KIaWfuhf0NYM", 
+            "href": "https://api.spotify.com/v1/artists/6wH6iStAh4KIaWfuhf0NYM", 
+            "type": "artist", 
+            "id": "6wH6iStAh4KIaWfuhf0NYM"
+          }
+        ], 
+        "duration_ms": 177573, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "2xZe3tuNj29HyiGxsln192"
+      }, 
+      {
+        "name": "Mama call", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5kASMWdCLudGeFCuWU79Ng"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9c9d2b94efb3436c48ebf6d360ed875342c8dcc6", 
+        "is_playable": true, 
+        "uri": "spotify:track:5kASMWdCLudGeFCuWU79Ng", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5kASMWdCLudGeFCuWU79Ng", 
+        "artists": [
+          {
+            "name": "Manu Chao", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+            }, 
+            "uri": "spotify:artist:6wH6iStAh4KIaWfuhf0NYM", 
+            "href": "https://api.spotify.com/v1/artists/6wH6iStAh4KIaWfuhf0NYM", 
+            "type": "artist", 
+            "id": "6wH6iStAh4KIaWfuhf0NYM"
+          }
+        ], 
+        "duration_ms": 141226, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "5kASMWdCLudGeFCuWU79Ng"
+      }, 
+      {
+        "name": "Luna y sol", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/41zEXufHsk24PyFmVOESXW"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7feb476e00f4af7aba33e46f6900cbe0c46fdeb9", 
+        "is_playable": true, 
+        "uri": "spotify:track:41zEXufHsk24PyFmVOESXW", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/41zEXufHsk24PyFmVOESXW", 
+        "artists": [
+          {
+            "name": "Manu Chao", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+            }, 
+            "uri": "spotify:artist:6wH6iStAh4KIaWfuhf0NYM", 
+            "href": "https://api.spotify.com/v1/artists/6wH6iStAh4KIaWfuhf0NYM", 
+            "type": "artist", 
+            "id": "6wH6iStAh4KIaWfuhf0NYM"
+          }
+        ], 
+        "duration_ms": 187306, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "41zEXufHsk24PyFmVOESXW"
+      }, 
+      {
+        "name": "Por el suelo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6YTPvllrRygkw27luDLLRJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2a8557fc13c280f2dff5513beee4cbb715c10fb1", 
+        "is_playable": true, 
+        "uri": "spotify:track:6YTPvllrRygkw27luDLLRJ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6YTPvllrRygkw27luDLLRJ", 
+        "artists": [
+          {
+            "name": "Manu Chao", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+            }, 
+            "uri": "spotify:artist:6wH6iStAh4KIaWfuhf0NYM", 
+            "href": "https://api.spotify.com/v1/artists/6wH6iStAh4KIaWfuhf0NYM", 
+            "type": "artist", 
+            "id": "6wH6iStAh4KIaWfuhf0NYM"
+          }
+        ], 
+        "duration_ms": 141413, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "6YTPvllrRygkw27luDLLRJ"
+      }, 
+      {
+        "name": "Welcome to Tijuana", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1d5wbHyzinH0EQnOFfz3gH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b5530931bd375508b3fbe8573f759c1ea86dd5b5", 
+        "is_playable": true, 
+        "uri": "spotify:track:1d5wbHyzinH0EQnOFfz3gH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1d5wbHyzinH0EQnOFfz3gH", 
+        "artists": [
+          {
+            "name": "Manu Chao", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+            }, 
+            "uri": "spotify:artist:6wH6iStAh4KIaWfuhf0NYM", 
+            "href": "https://api.spotify.com/v1/artists/6wH6iStAh4KIaWfuhf0NYM", 
+            "type": "artist", 
+            "id": "6wH6iStAh4KIaWfuhf0NYM"
+          }
+        ], 
+        "duration_ms": 244093, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "1d5wbHyzinH0EQnOFfz3gH"
+      }, 
+      {
+        "name": "Dia lunadia pena", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1cmWfbUuGjk0jymRwrVVVq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9775c6791efd28cae514252226ebcdb426b70d53", 
+        "is_playable": true, 
+        "uri": "spotify:track:1cmWfbUuGjk0jymRwrVVVq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1cmWfbUuGjk0jymRwrVVVq", 
+        "artists": [
+          {
+            "name": "Manu Chao", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+            }, 
+            "uri": "spotify:artist:6wH6iStAh4KIaWfuhf0NYM", 
+            "href": "https://api.spotify.com/v1/artists/6wH6iStAh4KIaWfuhf0NYM", 
+            "type": "artist", 
+            "id": "6wH6iStAh4KIaWfuhf0NYM"
+          }
+        ], 
+        "duration_ms": 90133, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "1cmWfbUuGjk0jymRwrVVVq"
+      }, 
+      {
+        "name": "Malegria", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1bjdhIX3FxstPhrj7ABtda"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2cd305fb7b4bf510f06c7acc3740343fb3f07cd2", 
+        "is_playable": true, 
+        "uri": "spotify:track:1bjdhIX3FxstPhrj7ABtda", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1bjdhIX3FxstPhrj7ABtda", 
+        "artists": [
+          {
+            "name": "Manu Chao", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+            }, 
+            "uri": "spotify:artist:6wH6iStAh4KIaWfuhf0NYM", 
+            "href": "https://api.spotify.com/v1/artists/6wH6iStAh4KIaWfuhf0NYM", 
+            "type": "artist", 
+            "id": "6wH6iStAh4KIaWfuhf0NYM"
+          }
+        ], 
+        "duration_ms": 175280, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "1bjdhIX3FxstPhrj7ABtda"
+      }, 
+      {
+        "name": "La vie a 2", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1MZsz3DQEEt9whPRWXYA7s"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/642226eb3c664379fb2fd8b63adbe54577a83f0e", 
+        "is_playable": true, 
+        "uri": "spotify:track:1MZsz3DQEEt9whPRWXYA7s", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1MZsz3DQEEt9whPRWXYA7s", 
+        "artists": [
+          {
+            "name": "Manu Chao", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+            }, 
+            "uri": "spotify:artist:6wH6iStAh4KIaWfuhf0NYM", 
+            "href": "https://api.spotify.com/v1/artists/6wH6iStAh4KIaWfuhf0NYM", 
+            "type": "artist", 
+            "id": "6wH6iStAh4KIaWfuhf0NYM"
+          }
+        ], 
+        "duration_ms": 180573, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "1MZsz3DQEEt9whPRWXYA7s"
+      }, 
+      {
+        "name": "Minha galera", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Y4C9XyeC1yv6FTuAEPXAC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fa1974c7b79ca0a01e4c5ec34c5c33fa90cf63f9", 
+        "is_playable": true, 
+        "uri": "spotify:track:1Y4C9XyeC1yv6FTuAEPXAC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1Y4C9XyeC1yv6FTuAEPXAC", 
+        "artists": [
+          {
+            "name": "Manu Chao", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+            }, 
+            "uri": "spotify:artist:6wH6iStAh4KIaWfuhf0NYM", 
+            "href": "https://api.spotify.com/v1/artists/6wH6iStAh4KIaWfuhf0NYM", 
+            "type": "artist", 
+            "id": "6wH6iStAh4KIaWfuhf0NYM"
+          }
+        ], 
+        "duration_ms": 141720, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "1Y4C9XyeC1yv6FTuAEPXAC"
+      }, 
+      {
+        "name": "La despedida", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6WINY2FVar9u0Bp1a4GE8A"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/aa93803a6dbe2012b83767aefeda9c8abc83e85c", 
+        "is_playable": true, 
+        "uri": "spotify:track:6WINY2FVar9u0Bp1a4GE8A", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6WINY2FVar9u0Bp1a4GE8A", 
+        "artists": [
+          {
+            "name": "Manu Chao", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+            }, 
+            "uri": "spotify:artist:6wH6iStAh4KIaWfuhf0NYM", 
+            "href": "https://api.spotify.com/v1/artists/6wH6iStAh4KIaWfuhf0NYM", 
+            "type": "artist", 
+            "id": "6wH6iStAh4KIaWfuhf0NYM"
+          }
+        ], 
+        "duration_ms": 189586, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "6WINY2FVar9u0Bp1a4GE8A"
+      }, 
+      {
+        "name": "El viento", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1n4epnzQxX1eDb7UMrMlUx"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/27680ab180cd000eee0eff818405359fea558f56", 
+        "is_playable": true, 
+        "uri": "spotify:track:1n4epnzQxX1eDb7UMrMlUx", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1n4epnzQxX1eDb7UMrMlUx", 
+        "artists": [
+          {
+            "name": "Manu Chao", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+            }, 
+            "uri": "spotify:artist:6wH6iStAh4KIaWfuhf0NYM", 
+            "href": "https://api.spotify.com/v1/artists/6wH6iStAh4KIaWfuhf0NYM", 
+            "type": "artist", 
+            "id": "6wH6iStAh4KIaWfuhf0NYM"
+          }
+        ], 
+        "duration_ms": 148840, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "1n4epnzQxX1eDb7UMrMlUx"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/1pbv5B5KgzK25qbMSxomr0/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 16, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/1pbv5B5KgzK25qbMSxomr0", 
+  "copyrights": [
+    {
+      "text": "2013 Radio Bemba under exclusive license to Because Music", 
+      "type": "C"
+    }, 
+    {
+      "text": "2013 Radio Bemba under exclusive license to Because Music", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Manu Chao", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+      }, 
+      "uri": "spotify:artist:6wH6iStAh4KIaWfuhf0NYM", 
+      "href": "https://api.spotify.com/v1/artists/6wH6iStAh4KIaWfuhf0NYM", 
+      "type": "artist", 
+      "id": "6wH6iStAh4KIaWfuhf0NYM"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/dfb49ebb87fa47a24b29defbb1a2e00425ccf20c", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/d94d7574dc978fb44ea6783294ab064033aeed63", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/28114312a1bdb00096122c0bd64f2d9d6093b545", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "825646340699"
+  }, 
+  "type": "album", 
+  "id": "1pbv5B5KgzK25qbMSxomr0", 
+  "name": "Clandestino"
+}

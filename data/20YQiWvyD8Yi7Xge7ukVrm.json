@@ -1,0 +1,679 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/20YQiWvyD8Yi7Xge7ukVrm"
+  }, 
+  "release_date": "2012-05-04", 
+  "popularity": 51, 
+  "genres": [], 
+  "uri": "spotify:album:20YQiWvyD8Yi7Xge7ukVrm", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Only Shallow - Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/67jatXAtqVqAntRWTgLgDy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/04ec5aea53d568c302e1ba3e80fa953d46aa2080", 
+        "is_playable": true, 
+        "uri": "spotify:track:67jatXAtqVqAntRWTgLgDy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/67jatXAtqVqAntRWTgLgDy", 
+        "artists": [
+          {
+            "name": "My Bloody Valentine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+            }, 
+            "uri": "spotify:artist:3G3Gdm0ZRAOxLrbyjfhii5", 
+            "href": "https://api.spotify.com/v1/artists/3G3Gdm0ZRAOxLrbyjfhii5", 
+            "type": "artist", 
+            "id": "3G3Gdm0ZRAOxLrbyjfhii5"
+          }
+        ], 
+        "duration_ms": 257573, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "67jatXAtqVqAntRWTgLgDy"
+      }, 
+      {
+        "name": "Loomer - Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4z8GgIwK12UE8tZd2E4myL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/757822a0274bf4cce4427908b5435ece565414ed", 
+        "is_playable": true, 
+        "uri": "spotify:track:4z8GgIwK12UE8tZd2E4myL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4z8GgIwK12UE8tZd2E4myL", 
+        "artists": [
+          {
+            "name": "My Bloody Valentine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+            }, 
+            "uri": "spotify:artist:3G3Gdm0ZRAOxLrbyjfhii5", 
+            "href": "https://api.spotify.com/v1/artists/3G3Gdm0ZRAOxLrbyjfhii5", 
+            "type": "artist", 
+            "id": "3G3Gdm0ZRAOxLrbyjfhii5"
+          }
+        ], 
+        "duration_ms": 158240, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "4z8GgIwK12UE8tZd2E4myL"
+      }, 
+      {
+        "name": "Touched - Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6cBdboM5KUYv7UcHocWiQi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f1af97503855d5ae3c4b75a420d16f3c17763aed", 
+        "is_playable": true, 
+        "uri": "spotify:track:6cBdboM5KUYv7UcHocWiQi", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6cBdboM5KUYv7UcHocWiQi", 
+        "artists": [
+          {
+            "name": "My Bloody Valentine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+            }, 
+            "uri": "spotify:artist:3G3Gdm0ZRAOxLrbyjfhii5", 
+            "href": "https://api.spotify.com/v1/artists/3G3Gdm0ZRAOxLrbyjfhii5", 
+            "type": "artist", 
+            "id": "3G3Gdm0ZRAOxLrbyjfhii5"
+          }
+        ], 
+        "duration_ms": 56626, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "6cBdboM5KUYv7UcHocWiQi"
+      }, 
+      {
+        "name": "To Here Knows When - Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6aSwXlr2OH7af5AZ7eHUSt"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fc2fffaa56e50b1e73ba67416db8f9a51f6c61dd", 
+        "is_playable": true, 
+        "uri": "spotify:track:6aSwXlr2OH7af5AZ7eHUSt", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6aSwXlr2OH7af5AZ7eHUSt", 
+        "artists": [
+          {
+            "name": "My Bloody Valentine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+            }, 
+            "uri": "spotify:artist:3G3Gdm0ZRAOxLrbyjfhii5", 
+            "href": "https://api.spotify.com/v1/artists/3G3Gdm0ZRAOxLrbyjfhii5", 
+            "type": "artist", 
+            "id": "3G3Gdm0ZRAOxLrbyjfhii5"
+          }
+        ], 
+        "duration_ms": 331000, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "6aSwXlr2OH7af5AZ7eHUSt"
+      }, 
+      {
+        "name": "When You Sleep - Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0d2MdbpCO8QhEPeA3qnKqB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c3f3914fb0799ea2133adff5aaad621c67e70c8e", 
+        "is_playable": true, 
+        "uri": "spotify:track:0d2MdbpCO8QhEPeA3qnKqB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0d2MdbpCO8QhEPeA3qnKqB", 
+        "artists": [
+          {
+            "name": "My Bloody Valentine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+            }, 
+            "uri": "spotify:artist:3G3Gdm0ZRAOxLrbyjfhii5", 
+            "href": "https://api.spotify.com/v1/artists/3G3Gdm0ZRAOxLrbyjfhii5", 
+            "type": "artist", 
+            "id": "3G3Gdm0ZRAOxLrbyjfhii5"
+          }
+        ], 
+        "duration_ms": 251800, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "0d2MdbpCO8QhEPeA3qnKqB"
+      }, 
+      {
+        "name": "I Only Said - Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7jGQklcqnaDTbbXUwksOd5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5ae46b8a81fa4721eb0b76e5deaa095503a4cda2", 
+        "is_playable": true, 
+        "uri": "spotify:track:7jGQklcqnaDTbbXUwksOd5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7jGQklcqnaDTbbXUwksOd5", 
+        "artists": [
+          {
+            "name": "My Bloody Valentine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+            }, 
+            "uri": "spotify:artist:3G3Gdm0ZRAOxLrbyjfhii5", 
+            "href": "https://api.spotify.com/v1/artists/3G3Gdm0ZRAOxLrbyjfhii5", 
+            "type": "artist", 
+            "id": "3G3Gdm0ZRAOxLrbyjfhii5"
+          }
+        ], 
+        "duration_ms": 334440, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "7jGQklcqnaDTbbXUwksOd5"
+      }, 
+      {
+        "name": "Come in Alone - Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/35HU86dDkJ18RcITyWTBD2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5b7b4b70e682d62ffce61469de374cf91a1dcc50", 
+        "is_playable": true, 
+        "uri": "spotify:track:35HU86dDkJ18RcITyWTBD2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/35HU86dDkJ18RcITyWTBD2", 
+        "artists": [
+          {
+            "name": "My Bloody Valentine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+            }, 
+            "uri": "spotify:artist:3G3Gdm0ZRAOxLrbyjfhii5", 
+            "href": "https://api.spotify.com/v1/artists/3G3Gdm0ZRAOxLrbyjfhii5", 
+            "type": "artist", 
+            "id": "3G3Gdm0ZRAOxLrbyjfhii5"
+          }
+        ], 
+        "duration_ms": 238733, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "35HU86dDkJ18RcITyWTBD2"
+      }, 
+      {
+        "name": "Sometimes - Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3gGK41F7JahO3dssrEHa7X"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6700589e3b1daf06763b6faa0ba6a88bc69d853f", 
+        "is_playable": true, 
+        "uri": "spotify:track:3gGK41F7JahO3dssrEHa7X", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3gGK41F7JahO3dssrEHa7X", 
+        "artists": [
+          {
+            "name": "My Bloody Valentine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+            }, 
+            "uri": "spotify:artist:3G3Gdm0ZRAOxLrbyjfhii5", 
+            "href": "https://api.spotify.com/v1/artists/3G3Gdm0ZRAOxLrbyjfhii5", 
+            "type": "artist", 
+            "id": "3G3Gdm0ZRAOxLrbyjfhii5"
+          }
+        ], 
+        "duration_ms": 319133, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "3gGK41F7JahO3dssrEHa7X"
+      }, 
+      {
+        "name": "Blown A Wish - Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2BVz9fYxUq6BtltWVY2bNl"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5caa7db6d27539ad06108b243019b04a583bcdd4", 
+        "is_playable": true, 
+        "uri": "spotify:track:2BVz9fYxUq6BtltWVY2bNl", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2BVz9fYxUq6BtltWVY2bNl", 
+        "artists": [
+          {
+            "name": "My Bloody Valentine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+            }, 
+            "uri": "spotify:artist:3G3Gdm0ZRAOxLrbyjfhii5", 
+            "href": "https://api.spotify.com/v1/artists/3G3Gdm0ZRAOxLrbyjfhii5", 
+            "type": "artist", 
+            "id": "3G3Gdm0ZRAOxLrbyjfhii5"
+          }
+        ], 
+        "duration_ms": 216493, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "2BVz9fYxUq6BtltWVY2bNl"
+      }, 
+      {
+        "name": "What You Want - Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3M0Pi20ewvmbLEFGQvxrDE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a8721802bb834ecce224a0ea210eae3fce6febe9", 
+        "is_playable": true, 
+        "uri": "spotify:track:3M0Pi20ewvmbLEFGQvxrDE", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3M0Pi20ewvmbLEFGQvxrDE", 
+        "artists": [
+          {
+            "name": "My Bloody Valentine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+            }, 
+            "uri": "spotify:artist:3G3Gdm0ZRAOxLrbyjfhii5", 
+            "href": "https://api.spotify.com/v1/artists/3G3Gdm0ZRAOxLrbyjfhii5", 
+            "type": "artist", 
+            "id": "3G3Gdm0ZRAOxLrbyjfhii5"
+          }
+        ], 
+        "duration_ms": 333773, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "3M0Pi20ewvmbLEFGQvxrDE"
+      }, 
+      {
+        "name": "Soon - Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1unh7tJrDhKe7RcK9taMCf"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c25501be9451ccdf6362f703379b213efae52071", 
+        "is_playable": true, 
+        "uri": "spotify:track:1unh7tJrDhKe7RcK9taMCf", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1unh7tJrDhKe7RcK9taMCf", 
+        "artists": [
+          {
+            "name": "My Bloody Valentine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+            }, 
+            "uri": "spotify:artist:3G3Gdm0ZRAOxLrbyjfhii5", 
+            "href": "https://api.spotify.com/v1/artists/3G3Gdm0ZRAOxLrbyjfhii5", 
+            "type": "artist", 
+            "id": "3G3Gdm0ZRAOxLrbyjfhii5"
+          }
+        ], 
+        "duration_ms": 421066, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "1unh7tJrDhKe7RcK9taMCf"
+      }, 
+      {
+        "name": "Only Shallow - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2XxYwbLAqcPnYNH7gUXCmw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9a375f3fcb92a7fdd1c4986ca2d7f8673accd6fc", 
+        "is_playable": true, 
+        "uri": "spotify:track:2XxYwbLAqcPnYNH7gUXCmw", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/2XxYwbLAqcPnYNH7gUXCmw", 
+        "artists": [
+          {
+            "name": "My Bloody Valentine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+            }, 
+            "uri": "spotify:artist:3G3Gdm0ZRAOxLrbyjfhii5", 
+            "href": "https://api.spotify.com/v1/artists/3G3Gdm0ZRAOxLrbyjfhii5", 
+            "type": "artist", 
+            "id": "3G3Gdm0ZRAOxLrbyjfhii5"
+          }
+        ], 
+        "duration_ms": 258053, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "2XxYwbLAqcPnYNH7gUXCmw"
+      }, 
+      {
+        "name": "Loomer - Remastered (DAT 2006) Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3H4hUpdVhQZDUqiRFfiFoK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d6af32252e2180c0354d2ce731681b5a084b7af6", 
+        "is_playable": true, 
+        "uri": "spotify:track:3H4hUpdVhQZDUqiRFfiFoK", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/3H4hUpdVhQZDUqiRFfiFoK", 
+        "artists": [
+          {
+            "name": "My Bloody Valentine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+            }, 
+            "uri": "spotify:artist:3G3Gdm0ZRAOxLrbyjfhii5", 
+            "href": "https://api.spotify.com/v1/artists/3G3Gdm0ZRAOxLrbyjfhii5", 
+            "type": "artist", 
+            "id": "3G3Gdm0ZRAOxLrbyjfhii5"
+          }
+        ], 
+        "duration_ms": 158333, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "3H4hUpdVhQZDUqiRFfiFoK"
+      }, 
+      {
+        "name": "Touched - Remastered (DAT 2006) Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4AFO5eC3RppZIxBy4k8u3k"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b388e186f620fb231afb226ee2d68eebb430a92e", 
+        "is_playable": true, 
+        "uri": "spotify:track:4AFO5eC3RppZIxBy4k8u3k", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4AFO5eC3RppZIxBy4k8u3k", 
+        "artists": [
+          {
+            "name": "My Bloody Valentine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+            }, 
+            "uri": "spotify:artist:3G3Gdm0ZRAOxLrbyjfhii5", 
+            "href": "https://api.spotify.com/v1/artists/3G3Gdm0ZRAOxLrbyjfhii5", 
+            "type": "artist", 
+            "id": "3G3Gdm0ZRAOxLrbyjfhii5"
+          }
+        ], 
+        "duration_ms": 56640, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "4AFO5eC3RppZIxBy4k8u3k"
+      }, 
+      {
+        "name": "To Here Knows When - Remastered (DAT 2006) Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2patmUyqyMMvTj2qNAJ0BB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b6bd919449b3d8a886adda16b6afb016230c7fb2", 
+        "is_playable": true, 
+        "uri": "spotify:track:2patmUyqyMMvTj2qNAJ0BB", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/2patmUyqyMMvTj2qNAJ0BB", 
+        "artists": [
+          {
+            "name": "My Bloody Valentine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+            }, 
+            "uri": "spotify:artist:3G3Gdm0ZRAOxLrbyjfhii5", 
+            "href": "https://api.spotify.com/v1/artists/3G3Gdm0ZRAOxLrbyjfhii5", 
+            "type": "artist", 
+            "id": "3G3Gdm0ZRAOxLrbyjfhii5"
+          }
+        ], 
+        "duration_ms": 331306, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "2patmUyqyMMvTj2qNAJ0BB"
+      }, 
+      {
+        "name": "When You Sleep - Remastered (DAT 2006) Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/02E3KVqzF2j3IjibZ8o4ML"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f98e8edcf7a4f063d49afcdbed8820b9ca6165d5", 
+        "is_playable": true, 
+        "uri": "spotify:track:02E3KVqzF2j3IjibZ8o4ML", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/02E3KVqzF2j3IjibZ8o4ML", 
+        "artists": [
+          {
+            "name": "My Bloody Valentine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+            }, 
+            "uri": "spotify:artist:3G3Gdm0ZRAOxLrbyjfhii5", 
+            "href": "https://api.spotify.com/v1/artists/3G3Gdm0ZRAOxLrbyjfhii5", 
+            "type": "artist", 
+            "id": "3G3Gdm0ZRAOxLrbyjfhii5"
+          }
+        ], 
+        "duration_ms": 251880, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "02E3KVqzF2j3IjibZ8o4ML"
+      }, 
+      {
+        "name": "I Only Said - Remastered (DAT 2006) Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3ObBA1ROGJmOPHq3StXF8Q"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/48943e00a1bb22e91d6514c956ae36e7f8270295", 
+        "is_playable": true, 
+        "uri": "spotify:track:3ObBA1ROGJmOPHq3StXF8Q", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/3ObBA1ROGJmOPHq3StXF8Q", 
+        "artists": [
+          {
+            "name": "My Bloody Valentine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+            }, 
+            "uri": "spotify:artist:3G3Gdm0ZRAOxLrbyjfhii5", 
+            "href": "https://api.spotify.com/v1/artists/3G3Gdm0ZRAOxLrbyjfhii5", 
+            "type": "artist", 
+            "id": "3G3Gdm0ZRAOxLrbyjfhii5"
+          }
+        ], 
+        "duration_ms": 334413, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "3ObBA1ROGJmOPHq3StXF8Q"
+      }, 
+      {
+        "name": "Come in Alone - Remastered (DAT 2006) Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6VxezXXKxDyix7rCieI9g4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/67e3ce4d5b6cd65a408a3ece3daddb921f980d5b", 
+        "is_playable": true, 
+        "uri": "spotify:track:6VxezXXKxDyix7rCieI9g4", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6VxezXXKxDyix7rCieI9g4", 
+        "artists": [
+          {
+            "name": "My Bloody Valentine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+            }, 
+            "uri": "spotify:artist:3G3Gdm0ZRAOxLrbyjfhii5", 
+            "href": "https://api.spotify.com/v1/artists/3G3Gdm0ZRAOxLrbyjfhii5", 
+            "type": "artist", 
+            "id": "3G3Gdm0ZRAOxLrbyjfhii5"
+          }
+        ], 
+        "duration_ms": 238800, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "6VxezXXKxDyix7rCieI9g4"
+      }, 
+      {
+        "name": "Sometimes - Remastered (DAT 2006) Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7CpkwchF5SAOfIwevpl8vc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e18ed5da44f767a0f1b11c895c49fd0f84ce9fc7", 
+        "is_playable": true, 
+        "uri": "spotify:track:7CpkwchF5SAOfIwevpl8vc", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/7CpkwchF5SAOfIwevpl8vc", 
+        "artists": [
+          {
+            "name": "My Bloody Valentine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+            }, 
+            "uri": "spotify:artist:3G3Gdm0ZRAOxLrbyjfhii5", 
+            "href": "https://api.spotify.com/v1/artists/3G3Gdm0ZRAOxLrbyjfhii5", 
+            "type": "artist", 
+            "id": "3G3Gdm0ZRAOxLrbyjfhii5"
+          }
+        ], 
+        "duration_ms": 319240, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "7CpkwchF5SAOfIwevpl8vc"
+      }, 
+      {
+        "name": "Blown A Wish - Remastered (DAT 2006) Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7jliTAPyf6zxDfxAcxIVFK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/db4dff1ae45d176ffca9f886bce69ab61caa5cb7", 
+        "is_playable": true, 
+        "uri": "spotify:track:7jliTAPyf6zxDfxAcxIVFK", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/7jliTAPyf6zxDfxAcxIVFK", 
+        "artists": [
+          {
+            "name": "My Bloody Valentine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+            }, 
+            "uri": "spotify:artist:3G3Gdm0ZRAOxLrbyjfhii5", 
+            "href": "https://api.spotify.com/v1/artists/3G3Gdm0ZRAOxLrbyjfhii5", 
+            "type": "artist", 
+            "id": "3G3Gdm0ZRAOxLrbyjfhii5"
+          }
+        ], 
+        "duration_ms": 216613, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "7jliTAPyf6zxDfxAcxIVFK"
+      }, 
+      {
+        "name": "What You Want - Remastered (DAT 2006) Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4dT72X0OldpTKRWf5l8P7t"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7c79ac38e6316ca42640f8ffa6e51dd6595d70c4", 
+        "is_playable": true, 
+        "uri": "spotify:track:4dT72X0OldpTKRWf5l8P7t", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4dT72X0OldpTKRWf5l8P7t", 
+        "artists": [
+          {
+            "name": "My Bloody Valentine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+            }, 
+            "uri": "spotify:artist:3G3Gdm0ZRAOxLrbyjfhii5", 
+            "href": "https://api.spotify.com/v1/artists/3G3Gdm0ZRAOxLrbyjfhii5", 
+            "type": "artist", 
+            "id": "3G3Gdm0ZRAOxLrbyjfhii5"
+          }
+        ], 
+        "duration_ms": 333373, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "4dT72X0OldpTKRWf5l8P7t"
+      }, 
+      {
+        "name": "Soon - Remastered (DAT 2006) Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5fvM7GWe8VT0cemqt7PkCJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/10c94994da8542bf628c705844cd4aba1df9ec46", 
+        "is_playable": true, 
+        "uri": "spotify:track:5fvM7GWe8VT0cemqt7PkCJ", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5fvM7GWe8VT0cemqt7PkCJ", 
+        "artists": [
+          {
+            "name": "My Bloody Valentine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+            }, 
+            "uri": "spotify:artist:3G3Gdm0ZRAOxLrbyjfhii5", 
+            "href": "https://api.spotify.com/v1/artists/3G3Gdm0ZRAOxLrbyjfhii5", 
+            "type": "artist", 
+            "id": "3G3Gdm0ZRAOxLrbyjfhii5"
+          }
+        ], 
+        "duration_ms": 421466, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "5fvM7GWe8VT0cemqt7PkCJ"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/20YQiWvyD8Yi7Xge7ukVrm/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 22, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/20YQiWvyD8Yi7Xge7ukVrm", 
+  "copyrights": [
+    {
+      "text": "(P) 2012 Sony Music Entertainment UK Limited", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "My Bloody Valentine", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+      }, 
+      "uri": "spotify:artist:3G3Gdm0ZRAOxLrbyjfhii5", 
+      "href": "https://api.spotify.com/v1/artists/3G3Gdm0ZRAOxLrbyjfhii5", 
+      "type": "artist", 
+      "id": "3G3Gdm0ZRAOxLrbyjfhii5"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/cd38bf0fc3a2465d8fe3fbaf1e0cbe3e6c04d4c5", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/ea708240bb0d63f19668674bddaf01be234eb477", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/173470b67deafdaca95d1e1b25ab42f9a7467ea5", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "884977591101"
+  }, 
+  "type": "album", 
+  "id": "20YQiWvyD8Yi7Xge7ukVrm", 
+  "name": "Loveless"
+}

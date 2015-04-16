@@ -1,0 +1,427 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3Dg3quPRLDCsEqnzgPl6PE"
+  }, 
+  "release_date": "1972-07-21", 
+  "popularity": 40, 
+  "genres": [], 
+  "uri": "spotify:album:3Dg3quPRLDCsEqnzgPl6PE", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Metal Guru", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0HoMdjB1XwwMlyPfTV7DEj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/071ea0d55acf47431995d3fd23e48efc5892f22c", 
+        "is_playable": true, 
+        "uri": "spotify:track:0HoMdjB1XwwMlyPfTV7DEj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0HoMdjB1XwwMlyPfTV7DEj", 
+        "artists": [
+          {
+            "name": "T. Rex", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+            }, 
+            "uri": "spotify:artist:3dBVyJ7JuOMt4GE9607Qin", 
+            "href": "https://api.spotify.com/v1/artists/3dBVyJ7JuOMt4GE9607Qin", 
+            "type": "artist", 
+            "id": "3dBVyJ7JuOMt4GE9607Qin"
+          }
+        ], 
+        "duration_ms": 149786, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "0HoMdjB1XwwMlyPfTV7DEj"
+      }, 
+      {
+        "name": "Mystic Lady", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7gTKESr2RY2TzlNgVFo3Il"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/37438815c5540f90b2647c89fa75199d5c09a4fc", 
+        "is_playable": true, 
+        "uri": "spotify:track:7gTKESr2RY2TzlNgVFo3Il", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7gTKESr2RY2TzlNgVFo3Il", 
+        "artists": [
+          {
+            "name": "T. Rex", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+            }, 
+            "uri": "spotify:artist:3dBVyJ7JuOMt4GE9607Qin", 
+            "href": "https://api.spotify.com/v1/artists/3dBVyJ7JuOMt4GE9607Qin", 
+            "type": "artist", 
+            "id": "3dBVyJ7JuOMt4GE9607Qin"
+          }
+        ], 
+        "duration_ms": 194240, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "7gTKESr2RY2TzlNgVFo3Il"
+      }, 
+      {
+        "name": "Rock On", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2hZ6Ra83Spir16gU1OYsnm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1aab8cc77e794b7a65236797b8ab6dd28f3c6aac", 
+        "is_playable": true, 
+        "uri": "spotify:track:2hZ6Ra83Spir16gU1OYsnm", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2hZ6Ra83Spir16gU1OYsnm", 
+        "artists": [
+          {
+            "name": "T. Rex", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+            }, 
+            "uri": "spotify:artist:3dBVyJ7JuOMt4GE9607Qin", 
+            "href": "https://api.spotify.com/v1/artists/3dBVyJ7JuOMt4GE9607Qin", 
+            "type": "artist", 
+            "id": "3dBVyJ7JuOMt4GE9607Qin"
+          }
+        ], 
+        "duration_ms": 206546, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "2hZ6Ra83Spir16gU1OYsnm"
+      }, 
+      {
+        "name": "The Slider", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5qjMccDPyynG6EfBtEBcH0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b4e94fb18b96cdfebfe110bdc2a53da72af2170c", 
+        "is_playable": true, 
+        "uri": "spotify:track:5qjMccDPyynG6EfBtEBcH0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5qjMccDPyynG6EfBtEBcH0", 
+        "artists": [
+          {
+            "name": "T. Rex", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+            }, 
+            "uri": "spotify:artist:3dBVyJ7JuOMt4GE9607Qin", 
+            "href": "https://api.spotify.com/v1/artists/3dBVyJ7JuOMt4GE9607Qin", 
+            "type": "artist", 
+            "id": "3dBVyJ7JuOMt4GE9607Qin"
+          }
+        ], 
+        "duration_ms": 202573, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "5qjMccDPyynG6EfBtEBcH0"
+      }, 
+      {
+        "name": "Baby Boomerang", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7Lm9LXFQd4ewa6CO7YXJTG"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/24557abffe02aa182519bdeabcef769d64f36df4", 
+        "is_playable": true, 
+        "uri": "spotify:track:7Lm9LXFQd4ewa6CO7YXJTG", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7Lm9LXFQd4ewa6CO7YXJTG", 
+        "artists": [
+          {
+            "name": "T. Rex", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+            }, 
+            "uri": "spotify:artist:3dBVyJ7JuOMt4GE9607Qin", 
+            "href": "https://api.spotify.com/v1/artists/3dBVyJ7JuOMt4GE9607Qin", 
+            "type": "artist", 
+            "id": "3dBVyJ7JuOMt4GE9607Qin"
+          }
+        ], 
+        "duration_ms": 136680, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "7Lm9LXFQd4ewa6CO7YXJTG"
+      }, 
+      {
+        "name": "Spaceball Ricochet", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6WnCyGQV6NXQ0sRqPI15NJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/00431786f92c704a8b7c229abdc06ac2fe43e110", 
+        "is_playable": true, 
+        "uri": "spotify:track:6WnCyGQV6NXQ0sRqPI15NJ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6WnCyGQV6NXQ0sRqPI15NJ", 
+        "artists": [
+          {
+            "name": "T. Rex", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+            }, 
+            "uri": "spotify:artist:3dBVyJ7JuOMt4GE9607Qin", 
+            "href": "https://api.spotify.com/v1/artists/3dBVyJ7JuOMt4GE9607Qin", 
+            "type": "artist", 
+            "id": "3dBVyJ7JuOMt4GE9607Qin"
+          }
+        ], 
+        "duration_ms": 216426, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "6WnCyGQV6NXQ0sRqPI15NJ"
+      }, 
+      {
+        "name": "Buick Mackane", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4MYQmhDkFCC7HTrVCdWhGE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/85828e8bcd31ba7393dbbd48c876d93d09fb11a5", 
+        "is_playable": true, 
+        "uri": "spotify:track:4MYQmhDkFCC7HTrVCdWhGE", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4MYQmhDkFCC7HTrVCdWhGE", 
+        "artists": [
+          {
+            "name": "T. Rex", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+            }, 
+            "uri": "spotify:artist:3dBVyJ7JuOMt4GE9607Qin", 
+            "href": "https://api.spotify.com/v1/artists/3dBVyJ7JuOMt4GE9607Qin", 
+            "type": "artist", 
+            "id": "3dBVyJ7JuOMt4GE9607Qin"
+          }
+        ], 
+        "duration_ms": 214440, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "4MYQmhDkFCC7HTrVCdWhGE"
+      }, 
+      {
+        "name": "Telegram Sam", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/58zvkTcVYecJvk5fl44PyV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a23de2e61184bc81252b61c23439d779ccf57ce8", 
+        "is_playable": true, 
+        "uri": "spotify:track:58zvkTcVYecJvk5fl44PyV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/58zvkTcVYecJvk5fl44PyV", 
+        "artists": [
+          {
+            "name": "T. Rex", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+            }, 
+            "uri": "spotify:artist:3dBVyJ7JuOMt4GE9607Qin", 
+            "href": "https://api.spotify.com/v1/artists/3dBVyJ7JuOMt4GE9607Qin", 
+            "type": "artist", 
+            "id": "3dBVyJ7JuOMt4GE9607Qin"
+          }
+        ], 
+        "duration_ms": 225773, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "58zvkTcVYecJvk5fl44PyV"
+      }, 
+      {
+        "name": "Rabbit Fighter", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2zGhC0VDIH3HaAOMk1gufb"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d783216402efeb2c644bcb902536ab04917b4758", 
+        "is_playable": true, 
+        "uri": "spotify:track:2zGhC0VDIH3HaAOMk1gufb", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2zGhC0VDIH3HaAOMk1gufb", 
+        "artists": [
+          {
+            "name": "T. Rex", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+            }, 
+            "uri": "spotify:artist:3dBVyJ7JuOMt4GE9607Qin", 
+            "href": "https://api.spotify.com/v1/artists/3dBVyJ7JuOMt4GE9607Qin", 
+            "type": "artist", 
+            "id": "3dBVyJ7JuOMt4GE9607Qin"
+          }
+        ], 
+        "duration_ms": 235640, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "2zGhC0VDIH3HaAOMk1gufb"
+      }, 
+      {
+        "name": "Baby Strange", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6LUVk3ZRndtyHPyiEbj2ai"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/589da44dac3d08d45e20e1ea6304e9e780c7283f", 
+        "is_playable": true, 
+        "uri": "spotify:track:6LUVk3ZRndtyHPyiEbj2ai", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6LUVk3ZRndtyHPyiEbj2ai", 
+        "artists": [
+          {
+            "name": "T. Rex", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+            }, 
+            "uri": "spotify:artist:3dBVyJ7JuOMt4GE9607Qin", 
+            "href": "https://api.spotify.com/v1/artists/3dBVyJ7JuOMt4GE9607Qin", 
+            "type": "artist", 
+            "id": "3dBVyJ7JuOMt4GE9607Qin"
+          }
+        ], 
+        "duration_ms": 186440, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "6LUVk3ZRndtyHPyiEbj2ai"
+      }, 
+      {
+        "name": "Ballrooms Of Mars", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5HAOJdzhQj33hrosuzzfoK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5ea3ed97bea3c68fd7efcf1ce7ef5a4713d571d3", 
+        "is_playable": true, 
+        "uri": "spotify:track:5HAOJdzhQj33hrosuzzfoK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5HAOJdzhQj33hrosuzzfoK", 
+        "artists": [
+          {
+            "name": "T. Rex", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+            }, 
+            "uri": "spotify:artist:3dBVyJ7JuOMt4GE9607Qin", 
+            "href": "https://api.spotify.com/v1/artists/3dBVyJ7JuOMt4GE9607Qin", 
+            "type": "artist", 
+            "id": "3dBVyJ7JuOMt4GE9607Qin"
+          }
+        ], 
+        "duration_ms": 247733, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "5HAOJdzhQj33hrosuzzfoK"
+      }, 
+      {
+        "name": "Chariot Choogle", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1qB37FiFl3MyxGccHEQ2Ek"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9682c43275b2de33544a1dd0a924936eebfe0553", 
+        "is_playable": true, 
+        "uri": "spotify:track:1qB37FiFl3MyxGccHEQ2Ek", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1qB37FiFl3MyxGccHEQ2Ek", 
+        "artists": [
+          {
+            "name": "T. Rex", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+            }, 
+            "uri": "spotify:artist:3dBVyJ7JuOMt4GE9607Qin", 
+            "href": "https://api.spotify.com/v1/artists/3dBVyJ7JuOMt4GE9607Qin", 
+            "type": "artist", 
+            "id": "3dBVyJ7JuOMt4GE9607Qin"
+          }
+        ], 
+        "duration_ms": 165600, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "1qB37FiFl3MyxGccHEQ2Ek"
+      }, 
+      {
+        "name": "Main Man", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0xP0FRFHs4Aip8z5onx0xd"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0c0ed1ed3683aa388eada87604aed43def6568e9", 
+        "is_playable": true, 
+        "uri": "spotify:track:0xP0FRFHs4Aip8z5onx0xd", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0xP0FRFHs4Aip8z5onx0xd", 
+        "artists": [
+          {
+            "name": "T. Rex", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+            }, 
+            "uri": "spotify:artist:3dBVyJ7JuOMt4GE9607Qin", 
+            "href": "https://api.spotify.com/v1/artists/3dBVyJ7JuOMt4GE9607Qin", 
+            "type": "artist", 
+            "id": "3dBVyJ7JuOMt4GE9607Qin"
+          }
+        ], 
+        "duration_ms": 254706, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "0xP0FRFHs4Aip8z5onx0xd"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/3Dg3quPRLDCsEqnzgPl6PE/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 13, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/3Dg3quPRLDCsEqnzgPl6PE", 
+  "copyrights": [
+    {
+      "text": "(C) 2007 Demon Music Group Ltd.", 
+      "type": "C"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "T. Rex", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+      }, 
+      "uri": "spotify:artist:3dBVyJ7JuOMt4GE9607Qin", 
+      "href": "https://api.spotify.com/v1/artists/3dBVyJ7JuOMt4GE9607Qin", 
+      "type": "artist", 
+      "id": "3dBVyJ7JuOMt4GE9607Qin"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/fbb5ca50e7a200398f8451b9877b7f866eb28f61", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/f4dded31ebc9f5d744bf43325c908d084a6cf3c0", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/3bd8ea4cd3b4396b98a9bf3201d26b03ac910aac", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "5032698460120"
+  }, 
+  "type": "album", 
+  "id": "3Dg3quPRLDCsEqnzgPl6PE", 
+  "name": "The Slider"
+}

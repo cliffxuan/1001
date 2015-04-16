@@ -1,0 +1,599 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
+  }, 
+  "release_date": "1991-09-24", 
+  "popularity": 72, 
+  "genres": [], 
+  "uri": "spotify:album:30Perjew8HyGkdSmqguYyg", 
+  "tracks": {
+    "items": [
+      {
+        "name": "The Power Of Equality", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0eX5QY6o5cb9W72zVmWWjV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c822787673975cb5064bf2afffa8f7d4d20557b1", 
+        "is_playable": true, 
+        "uri": "spotify:track:0eX5QY6o5cb9W72zVmWWjV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0eX5QY6o5cb9W72zVmWWjV", 
+        "artists": [
+          {
+            "name": "Red Hot Chili Peppers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+            }, 
+            "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5", 
+            "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5", 
+            "type": "artist", 
+            "id": "0L8ExT028jH3ddEcZwqJJ5"
+          }
+        ], 
+        "duration_ms": 243506, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "0eX5QY6o5cb9W72zVmWWjV"
+      }, 
+      {
+        "name": "If You Have To Ask", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2R6go62CuxqqX0w1TgXxes"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a220b8990c38d3be8720e9eabcdb92f276539f8b", 
+        "is_playable": true, 
+        "uri": "spotify:track:2R6go62CuxqqX0w1TgXxes", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2R6go62CuxqqX0w1TgXxes", 
+        "artists": [
+          {
+            "name": "Red Hot Chili Peppers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+            }, 
+            "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5", 
+            "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5", 
+            "type": "artist", 
+            "id": "0L8ExT028jH3ddEcZwqJJ5"
+          }
+        ], 
+        "duration_ms": 216666, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "2R6go62CuxqqX0w1TgXxes"
+      }, 
+      {
+        "name": "Breaking The Girl", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0cG9ocYqYOIVtgiWTmTe3g"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7df1ac9dccb0183665ea9162e1dc524fd0d6d9aa", 
+        "is_playable": true, 
+        "uri": "spotify:track:0cG9ocYqYOIVtgiWTmTe3g", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0cG9ocYqYOIVtgiWTmTe3g", 
+        "artists": [
+          {
+            "name": "Red Hot Chili Peppers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+            }, 
+            "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5", 
+            "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5", 
+            "type": "artist", 
+            "id": "0L8ExT028jH3ddEcZwqJJ5"
+          }
+        ], 
+        "duration_ms": 294600, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "0cG9ocYqYOIVtgiWTmTe3g"
+      }, 
+      {
+        "name": "Funky Monks", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/68uWKoPwSxYE6DVylRA1XI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f723d2b7624a01d8a7f6ce45aa592dd044ec59d7", 
+        "is_playable": true, 
+        "uri": "spotify:track:68uWKoPwSxYE6DVylRA1XI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/68uWKoPwSxYE6DVylRA1XI", 
+        "artists": [
+          {
+            "name": "Red Hot Chili Peppers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+            }, 
+            "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5", 
+            "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5", 
+            "type": "artist", 
+            "id": "0L8ExT028jH3ddEcZwqJJ5"
+          }
+        ], 
+        "duration_ms": 323306, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "68uWKoPwSxYE6DVylRA1XI"
+      }, 
+      {
+        "name": "Suck My Kiss", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0psB5QzGb4653K0uaPgEyh"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1f22e5fa88e61a8d4f97d53127605c55fca84efd", 
+        "is_playable": true, 
+        "uri": "spotify:track:0psB5QzGb4653K0uaPgEyh", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0psB5QzGb4653K0uaPgEyh", 
+        "artists": [
+          {
+            "name": "Red Hot Chili Peppers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+            }, 
+            "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5", 
+            "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5", 
+            "type": "artist", 
+            "id": "0L8ExT028jH3ddEcZwqJJ5"
+          }
+        ], 
+        "duration_ms": 215040, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "0psB5QzGb4653K0uaPgEyh"
+      }, 
+      {
+        "name": "I Could Have Lied", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0NSbiBKXoODbsPwjSivfBr"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3176cb855346d4f4746b9c028b5ebe078a9a9c17", 
+        "is_playable": true, 
+        "uri": "spotify:track:0NSbiBKXoODbsPwjSivfBr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0NSbiBKXoODbsPwjSivfBr", 
+        "artists": [
+          {
+            "name": "Red Hot Chili Peppers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+            }, 
+            "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5", 
+            "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5", 
+            "type": "artist", 
+            "id": "0L8ExT028jH3ddEcZwqJJ5"
+          }
+        ], 
+        "duration_ms": 244426, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "0NSbiBKXoODbsPwjSivfBr"
+      }, 
+      {
+        "name": "Mellowship Slinky In B Major", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5TYQonY07iJP2ULhR4ptce"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8b90f8fbd46cdbf748732e0d4339f49e254473ee", 
+        "is_playable": true, 
+        "uri": "spotify:track:5TYQonY07iJP2ULhR4ptce", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5TYQonY07iJP2ULhR4ptce", 
+        "artists": [
+          {
+            "name": "Red Hot Chili Peppers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+            }, 
+            "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5", 
+            "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5", 
+            "type": "artist", 
+            "id": "0L8ExT028jH3ddEcZwqJJ5"
+          }
+        ], 
+        "duration_ms": 239893, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "5TYQonY07iJP2ULhR4ptce"
+      }, 
+      {
+        "name": "The Righteous & The Wicked", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5ITOTuCOy6y4PB55CSZADE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d6e484cb2ec843900cf239de88d2fac4a3f9ac20", 
+        "is_playable": true, 
+        "uri": "spotify:track:5ITOTuCOy6y4PB55CSZADE", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5ITOTuCOy6y4PB55CSZADE", 
+        "artists": [
+          {
+            "name": "Red Hot Chili Peppers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+            }, 
+            "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5", 
+            "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5", 
+            "type": "artist", 
+            "id": "0L8ExT028jH3ddEcZwqJJ5"
+          }
+        ], 
+        "duration_ms": 248000, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "5ITOTuCOy6y4PB55CSZADE"
+      }, 
+      {
+        "name": "Give It Away", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e30d014b4b47bd3fe30f1ffffe50ffde06ea7f57", 
+        "is_playable": true, 
+        "uri": "spotify:track:0uppYCG86ajpV2hSR3dJJ0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0uppYCG86ajpV2hSR3dJJ0", 
+        "artists": [
+          {
+            "name": "Red Hot Chili Peppers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+            }, 
+            "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5", 
+            "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5", 
+            "type": "artist", 
+            "id": "0L8ExT028jH3ddEcZwqJJ5"
+          }
+        ], 
+        "duration_ms": 284266, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "0uppYCG86ajpV2hSR3dJJ0"
+      }, 
+      {
+        "name": "Blood Sugar Sex Magik", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4ddA4oHvhrGx196qF5ZyQe"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/189bdb4fbfd41e03ba2af79bc2721ad9f91b48cb", 
+        "is_playable": true, 
+        "uri": "spotify:track:4ddA4oHvhrGx196qF5ZyQe", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4ddA4oHvhrGx196qF5ZyQe", 
+        "artists": [
+          {
+            "name": "Red Hot Chili Peppers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+            }, 
+            "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5", 
+            "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5", 
+            "type": "artist", 
+            "id": "0L8ExT028jH3ddEcZwqJJ5"
+          }
+        ], 
+        "duration_ms": 271133, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "4ddA4oHvhrGx196qF5ZyQe"
+      }, 
+      {
+        "name": "Under The Bridge", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b426a82b863ce3a253c69394e63901135795d203", 
+        "is_playable": true, 
+        "uri": "spotify:track:3d9DChrdc6BOeFsbrZ3Is0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3d9DChrdc6BOeFsbrZ3Is0", 
+        "artists": [
+          {
+            "name": "Red Hot Chili Peppers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+            }, 
+            "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5", 
+            "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5", 
+            "type": "artist", 
+            "id": "0L8ExT028jH3ddEcZwqJJ5"
+          }
+        ], 
+        "duration_ms": 265506, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "3d9DChrdc6BOeFsbrZ3Is0"
+      }, 
+      {
+        "name": "Naked In The Rain", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6xid2NOIS1aqviPPe67OqF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2a362d35da7c152c30867ce53cae423a5037668f", 
+        "is_playable": true, 
+        "uri": "spotify:track:6xid2NOIS1aqviPPe67OqF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6xid2NOIS1aqviPPe67OqF", 
+        "artists": [
+          {
+            "name": "Red Hot Chili Peppers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+            }, 
+            "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5", 
+            "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5", 
+            "type": "artist", 
+            "id": "0L8ExT028jH3ddEcZwqJJ5"
+          }
+        ], 
+        "duration_ms": 265626, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "6xid2NOIS1aqviPPe67OqF"
+      }, 
+      {
+        "name": "Apache Rose Peacock", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3p3BfV7NeWCAHx9tSwsJEQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8e9c5cc52c30a52ea8098af8f0c14da134e903a5", 
+        "is_playable": true, 
+        "uri": "spotify:track:3p3BfV7NeWCAHx9tSwsJEQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3p3BfV7NeWCAHx9tSwsJEQ", 
+        "artists": [
+          {
+            "name": "Red Hot Chili Peppers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+            }, 
+            "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5", 
+            "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5", 
+            "type": "artist", 
+            "id": "0L8ExT028jH3ddEcZwqJJ5"
+          }
+        ], 
+        "duration_ms": 281840, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "3p3BfV7NeWCAHx9tSwsJEQ"
+      }, 
+      {
+        "name": "The Greeting Song", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5HYKskVhty99c7Txyydwmp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4dbe76be767c1429e1f63e9c6ebe5faef8bde058", 
+        "is_playable": true, 
+        "uri": "spotify:track:5HYKskVhty99c7Txyydwmp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5HYKskVhty99c7Txyydwmp", 
+        "artists": [
+          {
+            "name": "Red Hot Chili Peppers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+            }, 
+            "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5", 
+            "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5", 
+            "type": "artist", 
+            "id": "0L8ExT028jH3ddEcZwqJJ5"
+          }
+        ], 
+        "duration_ms": 193440, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "5HYKskVhty99c7Txyydwmp"
+      }, 
+      {
+        "name": "My Lovely Man", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/402sXCQikR6VV2x2265Jsm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/877ef881c70816ca778a595206ccb53784985df5", 
+        "is_playable": true, 
+        "uri": "spotify:track:402sXCQikR6VV2x2265Jsm", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/402sXCQikR6VV2x2265Jsm", 
+        "artists": [
+          {
+            "name": "Red Hot Chili Peppers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+            }, 
+            "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5", 
+            "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5", 
+            "type": "artist", 
+            "id": "0L8ExT028jH3ddEcZwqJJ5"
+          }
+        ], 
+        "duration_ms": 279026, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "402sXCQikR6VV2x2265Jsm"
+      }, 
+      {
+        "name": "Sir Psycho Sexy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1J5ZXurCRQdFHWfOiFt12x"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/41ea97d35f4abd8fea67fcfd46d1d6eddba662fa", 
+        "is_playable": true, 
+        "uri": "spotify:track:1J5ZXurCRQdFHWfOiFt12x", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1J5ZXurCRQdFHWfOiFt12x", 
+        "artists": [
+          {
+            "name": "Red Hot Chili Peppers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+            }, 
+            "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5", 
+            "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5", 
+            "type": "artist", 
+            "id": "0L8ExT028jH3ddEcZwqJJ5"
+          }
+        ], 
+        "duration_ms": 496600, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "1J5ZXurCRQdFHWfOiFt12x"
+      }, 
+      {
+        "name": "They're Red Hot", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1jQ0EZPAY3HpBRgUev6X1Q"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/52b51419efd74917218d7ee6d3cb5838595730bb", 
+        "is_playable": true, 
+        "uri": "spotify:track:1jQ0EZPAY3HpBRgUev6X1Q", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1jQ0EZPAY3HpBRgUev6X1Q", 
+        "artists": [
+          {
+            "name": "Red Hot Chili Peppers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+            }, 
+            "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5", 
+            "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5", 
+            "type": "artist", 
+            "id": "0L8ExT028jH3ddEcZwqJJ5"
+          }
+        ], 
+        "duration_ms": 71840, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "1jQ0EZPAY3HpBRgUev6X1Q"
+      }, 
+      {
+        "name": "Little Miss Lover - Bonus Track", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1CNDe1BS7dKfUsYb5vm5rO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/318eda5f99d46696c6e9c8098d57cbae2bb2aad7", 
+        "is_playable": true, 
+        "uri": "spotify:track:1CNDe1BS7dKfUsYb5vm5rO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1CNDe1BS7dKfUsYb5vm5rO", 
+        "artists": [
+          {
+            "name": "Red Hot Chili Peppers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+            }, 
+            "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5", 
+            "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5", 
+            "type": "artist", 
+            "id": "0L8ExT028jH3ddEcZwqJJ5"
+          }
+        ], 
+        "duration_ms": 158550, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "1CNDe1BS7dKfUsYb5vm5rO"
+      }, 
+      {
+        "name": "Castles Made Of Sand - Bonus Track", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7mUNyl16vX2OrKqMAuZJF9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/55b0264b73d103d1545b9cab43ffb14e0b70189d", 
+        "is_playable": true, 
+        "uri": "spotify:track:7mUNyl16vX2OrKqMAuZJF9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7mUNyl16vX2OrKqMAuZJF9", 
+        "artists": [
+          {
+            "name": "Red Hot Chili Peppers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+            }, 
+            "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5", 
+            "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5", 
+            "type": "artist", 
+            "id": "0L8ExT028jH3ddEcZwqJJ5"
+          }
+        ], 
+        "duration_ms": 198689, 
+        "track_number": 19, 
+        "type": "track", 
+        "id": "7mUNyl16vX2OrKqMAuZJF9"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/30Perjew8HyGkdSmqguYyg/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 19, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/30Perjew8HyGkdSmqguYyg", 
+  "copyrights": [
+    {
+      "text": "2006 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S.", 
+      "type": "C"
+    }, 
+    {
+      "text": "2006 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Red Hot Chili Peppers", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+      }, 
+      "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5", 
+      "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5", 
+      "type": "artist", 
+      "id": "0L8ExT028jH3ddEcZwqJJ5"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/4b506ae477f893b0effb729a299c7261950cb3dc", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/39a7962875c189290dab782c666a2ba7062c2ad6", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/6b6cab5817bf80e13cf05d6456e13c94ed8e413e", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "093624424369"
+  }, 
+  "type": "album", 
+  "id": "30Perjew8HyGkdSmqguYyg", 
+  "name": "Blood Sugar Sex Magik (Deluxe Version)"
+}

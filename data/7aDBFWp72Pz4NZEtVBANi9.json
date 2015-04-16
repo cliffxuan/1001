@@ -1,0 +1,429 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9"
+  }, 
+  "release_date": "1997-09-03", 
+  "popularity": 60, 
+  "genres": [], 
+  "uri": "spotify:album:7aDBFWp72Pz4NZEtVBANi9", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Honey", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5NaOWLOmVjcA3M5spRATN9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b70b56d90180fde5853d94d9c1b4ac4f4d8dc2b5", 
+        "is_playable": true, 
+        "uri": "spotify:track:5NaOWLOmVjcA3M5spRATN9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5NaOWLOmVjcA3M5spRATN9", 
+        "artists": [
+          {
+            "name": "Mariah Carey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+            }, 
+            "uri": "spotify:artist:4iHNK0tOyZPYnBU7nGAgpQ", 
+            "href": "https://api.spotify.com/v1/artists/4iHNK0tOyZPYnBU7nGAgpQ", 
+            "type": "artist", 
+            "id": "4iHNK0tOyZPYnBU7nGAgpQ"
+          }
+        ], 
+        "duration_ms": 299826, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "5NaOWLOmVjcA3M5spRATN9"
+      }, 
+      {
+        "name": "Butterfly", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3hp4ojt7tHLWwz6SaR7vkw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/14c515e88ef0a9591988c9284e14a75ef3b8c124", 
+        "is_playable": true, 
+        "uri": "spotify:track:3hp4ojt7tHLWwz6SaR7vkw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3hp4ojt7tHLWwz6SaR7vkw", 
+        "artists": [
+          {
+            "name": "Mariah Carey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+            }, 
+            "uri": "spotify:artist:4iHNK0tOyZPYnBU7nGAgpQ", 
+            "href": "https://api.spotify.com/v1/artists/4iHNK0tOyZPYnBU7nGAgpQ", 
+            "type": "artist", 
+            "id": "4iHNK0tOyZPYnBU7nGAgpQ"
+          }
+        ], 
+        "duration_ms": 273933, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "3hp4ojt7tHLWwz6SaR7vkw"
+      }, 
+      {
+        "name": "My All", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3RSpK5Y0y5tl25qvssrwJ6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5687e465371bfb560d70c17145f83976267bcc81", 
+        "is_playable": true, 
+        "uri": "spotify:track:3RSpK5Y0y5tl25qvssrwJ6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3RSpK5Y0y5tl25qvssrwJ6", 
+        "artists": [
+          {
+            "name": "Mariah Carey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+            }, 
+            "uri": "spotify:artist:4iHNK0tOyZPYnBU7nGAgpQ", 
+            "href": "https://api.spotify.com/v1/artists/4iHNK0tOyZPYnBU7nGAgpQ", 
+            "type": "artist", 
+            "id": "4iHNK0tOyZPYnBU7nGAgpQ"
+          }
+        ], 
+        "duration_ms": 230933, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "3RSpK5Y0y5tl25qvssrwJ6"
+      }, 
+      {
+        "name": "The Roof", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4gNeiiz86Y5wekGwfIybXW"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d9842303be36885d0f2762b9547e337445b6328b", 
+        "is_playable": true, 
+        "uri": "spotify:track:4gNeiiz86Y5wekGwfIybXW", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4gNeiiz86Y5wekGwfIybXW", 
+        "artists": [
+          {
+            "name": "Mariah Carey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+            }, 
+            "uri": "spotify:artist:4iHNK0tOyZPYnBU7nGAgpQ", 
+            "href": "https://api.spotify.com/v1/artists/4iHNK0tOyZPYnBU7nGAgpQ", 
+            "type": "artist", 
+            "id": "4iHNK0tOyZPYnBU7nGAgpQ"
+          }
+        ], 
+        "duration_ms": 314040, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "4gNeiiz86Y5wekGwfIybXW"
+      }, 
+      {
+        "name": "Fourth of July", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1YisXNr4DPHcPB4v5XfQ0t"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/683edc243bcb43ffa6412493b50dbda48bfe9ff0", 
+        "is_playable": true, 
+        "uri": "spotify:track:1YisXNr4DPHcPB4v5XfQ0t", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1YisXNr4DPHcPB4v5XfQ0t", 
+        "artists": [
+          {
+            "name": "Mariah Carey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+            }, 
+            "uri": "spotify:artist:4iHNK0tOyZPYnBU7nGAgpQ", 
+            "href": "https://api.spotify.com/v1/artists/4iHNK0tOyZPYnBU7nGAgpQ", 
+            "type": "artist", 
+            "id": "4iHNK0tOyZPYnBU7nGAgpQ"
+          }
+        ], 
+        "duration_ms": 262573, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "1YisXNr4DPHcPB4v5XfQ0t"
+      }, 
+      {
+        "name": "Breakdown", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6iUlUzSGZzKtlCvQ3wCVZD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e509a7050207553233700191e7ab4d831b95a2fa", 
+        "is_playable": true, 
+        "uri": "spotify:track:6iUlUzSGZzKtlCvQ3wCVZD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6iUlUzSGZzKtlCvQ3wCVZD", 
+        "artists": [
+          {
+            "name": "Mariah Carey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+            }, 
+            "uri": "spotify:artist:4iHNK0tOyZPYnBU7nGAgpQ", 
+            "href": "https://api.spotify.com/v1/artists/4iHNK0tOyZPYnBU7nGAgpQ", 
+            "type": "artist", 
+            "id": "4iHNK0tOyZPYnBU7nGAgpQ"
+          }, 
+          {
+            "name": "Krayzie Bone", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR"
+            }, 
+            "uri": "spotify:artist:53B8dEQzmtefvkdCAkO0YR", 
+            "href": "https://api.spotify.com/v1/artists/53B8dEQzmtefvkdCAkO0YR", 
+            "type": "artist", 
+            "id": "53B8dEQzmtefvkdCAkO0YR"
+          }, 
+          {
+            "name": "Wishbone", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2sOiBwjfUdeBmjuths6iVB"
+            }, 
+            "uri": "spotify:artist:2sOiBwjfUdeBmjuths6iVB", 
+            "href": "https://api.spotify.com/v1/artists/2sOiBwjfUdeBmjuths6iVB", 
+            "type": "artist", 
+            "id": "2sOiBwjfUdeBmjuths6iVB"
+          }
+        ], 
+        "duration_ms": 283573, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "6iUlUzSGZzKtlCvQ3wCVZD"
+      }, 
+      {
+        "name": "Babydoll", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Me3nF2ee0DCQ0MXuMxaGj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cb1ce59d648df81dc5aba1ff9442cb5f08eb2e13", 
+        "is_playable": true, 
+        "uri": "spotify:track:2Me3nF2ee0DCQ0MXuMxaGj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2Me3nF2ee0DCQ0MXuMxaGj", 
+        "artists": [
+          {
+            "name": "Mariah Carey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+            }, 
+            "uri": "spotify:artist:4iHNK0tOyZPYnBU7nGAgpQ", 
+            "href": "https://api.spotify.com/v1/artists/4iHNK0tOyZPYnBU7nGAgpQ", 
+            "type": "artist", 
+            "id": "4iHNK0tOyZPYnBU7nGAgpQ"
+          }
+        ], 
+        "duration_ms": 306240, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "2Me3nF2ee0DCQ0MXuMxaGj"
+      }, 
+      {
+        "name": "Close My Eyes", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0sFTeQMlO1jJgxyfdDrAZl"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f1cf326eecddbf1a81d06943ae4a812553d71e08", 
+        "is_playable": true, 
+        "uri": "spotify:track:0sFTeQMlO1jJgxyfdDrAZl", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0sFTeQMlO1jJgxyfdDrAZl", 
+        "artists": [
+          {
+            "name": "Mariah Carey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+            }, 
+            "uri": "spotify:artist:4iHNK0tOyZPYnBU7nGAgpQ", 
+            "href": "https://api.spotify.com/v1/artists/4iHNK0tOyZPYnBU7nGAgpQ", 
+            "type": "artist", 
+            "id": "4iHNK0tOyZPYnBU7nGAgpQ"
+          }
+        ], 
+        "duration_ms": 259866, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "0sFTeQMlO1jJgxyfdDrAZl"
+      }, 
+      {
+        "name": "Whenever You Call", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2PWnjWaIVuDeT4mXZgHWgR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c8e412e1ab9c7dce302575d6c3b983d9c483e2f6", 
+        "is_playable": true, 
+        "uri": "spotify:track:2PWnjWaIVuDeT4mXZgHWgR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2PWnjWaIVuDeT4mXZgHWgR", 
+        "artists": [
+          {
+            "name": "Mariah Carey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+            }, 
+            "uri": "spotify:artist:4iHNK0tOyZPYnBU7nGAgpQ", 
+            "href": "https://api.spotify.com/v1/artists/4iHNK0tOyZPYnBU7nGAgpQ", 
+            "type": "artist", 
+            "id": "4iHNK0tOyZPYnBU7nGAgpQ"
+          }
+        ], 
+        "duration_ms": 260626, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "2PWnjWaIVuDeT4mXZgHWgR"
+      }, 
+      {
+        "name": "Fly Away (Butterfly Reprise)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4EmUMZZlRubBd1q97ik0m3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a9c71c422d02ae8ad6ca79302c0dc428dd9f135c", 
+        "is_playable": true, 
+        "uri": "spotify:track:4EmUMZZlRubBd1q97ik0m3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4EmUMZZlRubBd1q97ik0m3", 
+        "artists": [
+          {
+            "name": "Mariah Carey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+            }, 
+            "uri": "spotify:artist:4iHNK0tOyZPYnBU7nGAgpQ", 
+            "href": "https://api.spotify.com/v1/artists/4iHNK0tOyZPYnBU7nGAgpQ", 
+            "type": "artist", 
+            "id": "4iHNK0tOyZPYnBU7nGAgpQ"
+          }
+        ], 
+        "duration_ms": 229106, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "4EmUMZZlRubBd1q97ik0m3"
+      }, 
+      {
+        "name": "The Beautiful Ones (Featuring Dru Hill)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6t0c7t14prrgAZ0yLXMlrv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/313bca53fc3242de7c341dac72f8f3b5089cf6a1", 
+        "is_playable": true, 
+        "uri": "spotify:track:6t0c7t14prrgAZ0yLXMlrv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6t0c7t14prrgAZ0yLXMlrv", 
+        "artists": [
+          {
+            "name": "Mariah Carey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+            }, 
+            "uri": "spotify:artist:4iHNK0tOyZPYnBU7nGAgpQ", 
+            "href": "https://api.spotify.com/v1/artists/4iHNK0tOyZPYnBU7nGAgpQ", 
+            "type": "artist", 
+            "id": "4iHNK0tOyZPYnBU7nGAgpQ"
+          }, 
+          {
+            "name": "Dru Hill", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
+            }, 
+            "uri": "spotify:artist:1255GTUKNCLCTvH9ctD4cT", 
+            "href": "https://api.spotify.com/v1/artists/1255GTUKNCLCTvH9ctD4cT", 
+            "type": "artist", 
+            "id": "1255GTUKNCLCTvH9ctD4cT"
+          }
+        ], 
+        "duration_ms": 417666, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "6t0c7t14prrgAZ0yLXMlrv"
+      }, 
+      {
+        "name": "Outside", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5bRQLbNUqL8jx07dal6JHZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7e357bcba9b5e5b5faf8c303d038fa27c52842e4", 
+        "is_playable": true, 
+        "uri": "spotify:track:5bRQLbNUqL8jx07dal6JHZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5bRQLbNUqL8jx07dal6JHZ", 
+        "artists": [
+          {
+            "name": "Mariah Carey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+            }, 
+            "uri": "spotify:artist:4iHNK0tOyZPYnBU7nGAgpQ", 
+            "href": "https://api.spotify.com/v1/artists/4iHNK0tOyZPYnBU7nGAgpQ", 
+            "type": "artist", 
+            "id": "4iHNK0tOyZPYnBU7nGAgpQ"
+          }
+        ], 
+        "duration_ms": 286066, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "5bRQLbNUqL8jx07dal6JHZ"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/7aDBFWp72Pz4NZEtVBANi9/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 12, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/7aDBFWp72Pz4NZEtVBANi9", 
+  "copyrights": [
+    {
+      "text": "1997 Sony Music Entertainment Inc. WARNING: All Rights Reserved. Unauthorized duplication is a violation of applicable laws.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Mariah Carey", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+      }, 
+      "uri": "spotify:artist:4iHNK0tOyZPYnBU7nGAgpQ", 
+      "href": "https://api.spotify.com/v1/artists/4iHNK0tOyZPYnBU7nGAgpQ", 
+      "type": "artist", 
+      "id": "4iHNK0tOyZPYnBU7nGAgpQ"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/78e4e190f0e43bed7d11226d15990647fc91d742", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/cce0023a753adc4d95afbe6f9eb2d0e72f187347", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/743d114a6c3097accc5f62db657e0b4863bf1cb1", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "074646783528"
+  }, 
+  "type": "album", 
+  "id": "7aDBFWp72Pz4NZEtVBANi9", 
+  "name": "Butterfly"
+}

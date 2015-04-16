@@ -1,0 +1,785 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/555WoCHGKNICMGGO7o1eTc"
+  }, 
+  "release_date": "2004-01-01", 
+  "popularity": 62, 
+  "genres": [], 
+  "uri": "spotify:album:555WoCHGKNICMGGO7o1eTc", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Intro", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3a1FXBrLTZWoE9TV7G3nEs"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6d8f91c0fbfb00bbbe1619f47b577dd76c0137ac", 
+        "is_playable": true, 
+        "uri": "spotify:track:3a1FXBrLTZWoE9TV7G3nEs", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3a1FXBrLTZWoE9TV7G3nEs", 
+        "artists": [
+          {
+            "name": "Kanye West", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+            }, 
+            "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x", 
+            "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x", 
+            "type": "artist", 
+            "id": "5K4W6rqBFWDnAN6FQUkS6x"
+          }
+        ], 
+        "duration_ms": 19160, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "3a1FXBrLTZWoE9TV7G3nEs"
+      }, 
+      {
+        "name": "We Don't Care", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0VxmkF1dUhzCtTsFP48iex"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bb4e778b4f1b0db3ca065a4fc072969504b5d561", 
+        "is_playable": true, 
+        "uri": "spotify:track:0VxmkF1dUhzCtTsFP48iex", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0VxmkF1dUhzCtTsFP48iex", 
+        "artists": [
+          {
+            "name": "Kanye West", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+            }, 
+            "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x", 
+            "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x", 
+            "type": "artist", 
+            "id": "5K4W6rqBFWDnAN6FQUkS6x"
+          }
+        ], 
+        "duration_ms": 239840, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "0VxmkF1dUhzCtTsFP48iex"
+      }, 
+      {
+        "name": "Graduation Day", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2AuPPkAusM0nWBGDNw8xz8"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8dac9093d8e22b1e22ef73a20b6b4f2f17777a86", 
+        "is_playable": true, 
+        "uri": "spotify:track:2AuPPkAusM0nWBGDNw8xz8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2AuPPkAusM0nWBGDNw8xz8", 
+        "artists": [
+          {
+            "name": "Kanye West", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+            }, 
+            "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x", 
+            "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x", 
+            "type": "artist", 
+            "id": "5K4W6rqBFWDnAN6FQUkS6x"
+          }
+        ], 
+        "duration_ms": 82000, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "2AuPPkAusM0nWBGDNw8xz8"
+      }, 
+      {
+        "name": "All Falls Down", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3rz4J87q1ZCVOoqzOIGJ3k"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0f0c559ba45b584bf5a661b9326a812b5ae55ed9", 
+        "is_playable": true, 
+        "uri": "spotify:track:3rz4J87q1ZCVOoqzOIGJ3k", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3rz4J87q1ZCVOoqzOIGJ3k", 
+        "artists": [
+          {
+            "name": "Kanye West", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+            }, 
+            "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x", 
+            "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x", 
+            "type": "artist", 
+            "id": "5K4W6rqBFWDnAN6FQUkS6x"
+          }, 
+          {
+            "name": "Syleena Johnson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1lE6SEy8f84Zhjvp7r8yTD"
+            }, 
+            "uri": "spotify:artist:1lE6SEy8f84Zhjvp7r8yTD", 
+            "href": "https://api.spotify.com/v1/artists/1lE6SEy8f84Zhjvp7r8yTD", 
+            "type": "artist", 
+            "id": "1lE6SEy8f84Zhjvp7r8yTD"
+          }
+        ], 
+        "duration_ms": 223560, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "3rz4J87q1ZCVOoqzOIGJ3k"
+      }, 
+      {
+        "name": "I'll Fly Away", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7migaugubEoz9Xo8fG4XBY"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/87552a0ee09d5fb85c984e361544f54081ab7a93", 
+        "is_playable": true, 
+        "uri": "spotify:track:7migaugubEoz9Xo8fG4XBY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7migaugubEoz9Xo8fG4XBY", 
+        "artists": [
+          {
+            "name": "Kanye West", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+            }, 
+            "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x", 
+            "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x", 
+            "type": "artist", 
+            "id": "5K4W6rqBFWDnAN6FQUkS6x"
+          }
+        ], 
+        "duration_ms": 69706, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "7migaugubEoz9Xo8fG4XBY"
+      }, 
+      {
+        "name": "Spaceship", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5ch2e2kQVZEClRgS3IKCTt"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/83507fecb4450977ed7e77c2caa2306890a2a6a5", 
+        "is_playable": true, 
+        "uri": "spotify:track:5ch2e2kQVZEClRgS3IKCTt", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5ch2e2kQVZEClRgS3IKCTt", 
+        "artists": [
+          {
+            "name": "Kanye West", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+            }, 
+            "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x", 
+            "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x", 
+            "type": "artist", 
+            "id": "5K4W6rqBFWDnAN6FQUkS6x"
+          }, 
+          {
+            "name": "GLC", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2hZ6jVi1cao5VlJHAEPzU7"
+            }, 
+            "uri": "spotify:artist:2hZ6jVi1cao5VlJHAEPzU7", 
+            "href": "https://api.spotify.com/v1/artists/2hZ6jVi1cao5VlJHAEPzU7", 
+            "type": "artist", 
+            "id": "2hZ6jVi1cao5VlJHAEPzU7"
+          }, 
+          {
+            "name": "Consequence", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm"
+            }, 
+            "uri": "spotify:artist:5KkgZ31b9eDwkvo9oMIrSm", 
+            "href": "https://api.spotify.com/v1/artists/5KkgZ31b9eDwkvo9oMIrSm", 
+            "type": "artist", 
+            "id": "5KkgZ31b9eDwkvo9oMIrSm"
+          }
+        ], 
+        "duration_ms": 324093, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "5ch2e2kQVZEClRgS3IKCTt"
+      }, 
+      {
+        "name": "Jesus Walks", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/40n4IT5Vpg0AA1kxbz4i3P"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e624f07dd827ba0b689711de2c09c4c28a35cc64", 
+        "is_playable": true, 
+        "uri": "spotify:track:40n4IT5Vpg0AA1kxbz4i3P", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/40n4IT5Vpg0AA1kxbz4i3P", 
+        "artists": [
+          {
+            "name": "Kanye West", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+            }, 
+            "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x", 
+            "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x", 
+            "type": "artist", 
+            "id": "5K4W6rqBFWDnAN6FQUkS6x"
+          }
+        ], 
+        "duration_ms": 193773, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "40n4IT5Vpg0AA1kxbz4i3P"
+      }, 
+      {
+        "name": "Never Let Me Down", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5yMmbDIvahQv8mmQMTS3Tg"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ce5686d10226c4ec2d4e83bdd5afcd2aab163fe6", 
+        "is_playable": true, 
+        "uri": "spotify:track:5yMmbDIvahQv8mmQMTS3Tg", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5yMmbDIvahQv8mmQMTS3Tg", 
+        "artists": [
+          {
+            "name": "Kanye West", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+            }, 
+            "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x", 
+            "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x", 
+            "type": "artist", 
+            "id": "5K4W6rqBFWDnAN6FQUkS6x"
+          }, 
+          {
+            "name": "JAY Z", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+            }, 
+            "uri": "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB", 
+            "href": "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB", 
+            "type": "artist", 
+            "id": "3nFkdlSjzX9mRTtwJOzDYB"
+          }, 
+          {
+            "name": "J. Ivy", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn"
+            }, 
+            "uri": "spotify:artist:0hKpvarswO34Ks5iPNmEXn", 
+            "href": "https://api.spotify.com/v1/artists/0hKpvarswO34Ks5iPNmEXn", 
+            "type": "artist", 
+            "id": "0hKpvarswO34Ks5iPNmEXn"
+          }
+        ], 
+        "duration_ms": 324400, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "5yMmbDIvahQv8mmQMTS3Tg"
+      }, 
+      {
+        "name": "Get Em High", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0CEV1sQaXSWekl6PahxVGj"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9d6cc84a4be2db2b34ff971ba23507c37f9b8e2b", 
+        "is_playable": true, 
+        "uri": "spotify:track:0CEV1sQaXSWekl6PahxVGj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0CEV1sQaXSWekl6PahxVGj", 
+        "artists": [
+          {
+            "name": "Kanye West", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+            }, 
+            "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x", 
+            "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x", 
+            "type": "artist", 
+            "id": "5K4W6rqBFWDnAN6FQUkS6x"
+          }, 
+          {
+            "name": "Talib Kweli", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
+            }, 
+            "uri": "spotify:artist:0lEssBAxQl2In4RpaB1C2Y", 
+            "href": "https://api.spotify.com/v1/artists/0lEssBAxQl2In4RpaB1C2Y", 
+            "type": "artist", 
+            "id": "0lEssBAxQl2In4RpaB1C2Y"
+          }, 
+          {
+            "name": "Common", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+            }, 
+            "uri": "spotify:artist:2GHclqNVjqGuiE5mA7BEoc", 
+            "href": "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc", 
+            "type": "artist", 
+            "id": "2GHclqNVjqGuiE5mA7BEoc"
+          }
+        ], 
+        "duration_ms": 289266, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "0CEV1sQaXSWekl6PahxVGj"
+      }, 
+      {
+        "name": "Workout Plan", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1XebohGnO5EP32NnqMBKRP"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/92eb139adef086a8d25bcde8563251b6f52a7be7", 
+        "is_playable": true, 
+        "uri": "spotify:track:1XebohGnO5EP32NnqMBKRP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1XebohGnO5EP32NnqMBKRP", 
+        "artists": [
+          {
+            "name": "Kanye West", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+            }, 
+            "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x", 
+            "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x", 
+            "type": "artist", 
+            "id": "5K4W6rqBFWDnAN6FQUkS6x"
+          }
+        ], 
+        "duration_ms": 46160, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "1XebohGnO5EP32NnqMBKRP"
+      }, 
+      {
+        "name": "The New Workout Plan", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0MK9oZtpl9RXMC6CPaNpew"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/dd1440e4d9071d436a1d8717dec3665928264654", 
+        "is_playable": true, 
+        "uri": "spotify:track:0MK9oZtpl9RXMC6CPaNpew", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0MK9oZtpl9RXMC6CPaNpew", 
+        "artists": [
+          {
+            "name": "Kanye West", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+            }, 
+            "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x", 
+            "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x", 
+            "type": "artist", 
+            "id": "5K4W6rqBFWDnAN6FQUkS6x"
+          }
+        ], 
+        "duration_ms": 322666, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "0MK9oZtpl9RXMC6CPaNpew"
+      }, 
+      {
+        "name": "Slow Jamz", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3TA1XUeHp6aES1ToQRPGwr"
+        }, 
+        "explicit": true, 
+        "preview_url": null, 
+        "is_playable": false, 
+        "uri": "spotify:track:3TA1XUeHp6aES1ToQRPGwr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3TA1XUeHp6aES1ToQRPGwr", 
+        "artists": [
+          {
+            "name": "Twista", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS"
+            }, 
+            "uri": "spotify:artist:6vbY3hOaCAhC7VjucswgdS", 
+            "href": "https://api.spotify.com/v1/artists/6vbY3hOaCAhC7VjucswgdS", 
+            "type": "artist", 
+            "id": "6vbY3hOaCAhC7VjucswgdS"
+          }, 
+          {
+            "name": "Kanye West", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+            }, 
+            "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x", 
+            "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x", 
+            "type": "artist", 
+            "id": "5K4W6rqBFWDnAN6FQUkS6x"
+          }, 
+          {
+            "name": "Jamie Foxx", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
+            }, 
+            "uri": "spotify:artist:7LnaAXbDVIL75IVPnndf7w", 
+            "href": "https://api.spotify.com/v1/artists/7LnaAXbDVIL75IVPnndf7w", 
+            "type": "artist", 
+            "id": "7LnaAXbDVIL75IVPnndf7w"
+          }
+        ], 
+        "duration_ms": 316106, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "3TA1XUeHp6aES1ToQRPGwr"
+      }, 
+      {
+        "name": "Breathe In Breathe Out", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6FeOEiH2RhRunELM3dzAj7"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9f2ac7e9a0322fd44e2dc7be856a3870755b4579", 
+        "is_playable": true, 
+        "uri": "spotify:track:6FeOEiH2RhRunELM3dzAj7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6FeOEiH2RhRunELM3dzAj7", 
+        "artists": [
+          {
+            "name": "Kanye West", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+            }, 
+            "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x", 
+            "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x", 
+            "type": "artist", 
+            "id": "5K4W6rqBFWDnAN6FQUkS6x"
+          }, 
+          {
+            "name": "Ludacris", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+            }, 
+            "uri": "spotify:artist:3ipn9JLAPI5GUEo4y4jcoi", 
+            "href": "https://api.spotify.com/v1/artists/3ipn9JLAPI5GUEo4y4jcoi", 
+            "type": "artist", 
+            "id": "3ipn9JLAPI5GUEo4y4jcoi"
+          }
+        ], 
+        "duration_ms": 246866, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "6FeOEiH2RhRunELM3dzAj7"
+      }, 
+      {
+        "name": "School Spirit Skit 1 - Skit 1", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1oZJ5JL5mVSjZEhwhP6HGG"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ad93524b538d72764ea42315409925655cee2a47", 
+        "is_playable": true, 
+        "uri": "spotify:track:1oZJ5JL5mVSjZEhwhP6HGG", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1oZJ5JL5mVSjZEhwhP6HGG", 
+        "artists": [
+          {
+            "name": "Kanye West", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+            }, 
+            "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x", 
+            "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x", 
+            "type": "artist", 
+            "id": "5K4W6rqBFWDnAN6FQUkS6x"
+          }
+        ], 
+        "duration_ms": 78693, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "1oZJ5JL5mVSjZEhwhP6HGG"
+      }, 
+      {
+        "name": "School Spirit", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4ZWGUDC0KDpqKCdGzWUKGs"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6bf1d9c238abf6f3049fd36f04233a5103218608", 
+        "is_playable": true, 
+        "uri": "spotify:track:4ZWGUDC0KDpqKCdGzWUKGs", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4ZWGUDC0KDpqKCdGzWUKGs", 
+        "artists": [
+          {
+            "name": "Kanye West", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+            }, 
+            "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x", 
+            "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x", 
+            "type": "artist", 
+            "id": "5K4W6rqBFWDnAN6FQUkS6x"
+          }
+        ], 
+        "duration_ms": 182373, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "4ZWGUDC0KDpqKCdGzWUKGs"
+      }, 
+      {
+        "name": "School Spirit Skit 2 - Skit 2", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3yhmm1skSx2ALTshaBtMCy"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/03250ab2f086c5bcb9e67d4d1c634b0fb3b0f72e", 
+        "is_playable": true, 
+        "uri": "spotify:track:3yhmm1skSx2ALTshaBtMCy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3yhmm1skSx2ALTshaBtMCy", 
+        "artists": [
+          {
+            "name": "Kanye West", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+            }, 
+            "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x", 
+            "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x", 
+            "type": "artist", 
+            "id": "5K4W6rqBFWDnAN6FQUkS6x"
+          }
+        ], 
+        "duration_ms": 43226, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "3yhmm1skSx2ALTshaBtMCy"
+      }, 
+      {
+        "name": "Lil Jimmy Skit", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1kP402qWxMQmXdd1gmsDXr"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e4ee767f43c211616d72243f2d75c29e98cbf795", 
+        "is_playable": true, 
+        "uri": "spotify:track:1kP402qWxMQmXdd1gmsDXr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1kP402qWxMQmXdd1gmsDXr", 
+        "artists": [
+          {
+            "name": "Kanye West", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+            }, 
+            "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x", 
+            "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x", 
+            "type": "artist", 
+            "id": "5K4W6rqBFWDnAN6FQUkS6x"
+          }
+        ], 
+        "duration_ms": 53426, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "1kP402qWxMQmXdd1gmsDXr"
+      }, 
+      {
+        "name": "Two Words", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0L2VNyCLmA7hr13L8umWMX"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/79913b3ab54b7349cdf4919507fc6cfe74188912", 
+        "is_playable": true, 
+        "uri": "spotify:track:0L2VNyCLmA7hr13L8umWMX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0L2VNyCLmA7hr13L8umWMX", 
+        "artists": [
+          {
+            "name": "Kanye West", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+            }, 
+            "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x", 
+            "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x", 
+            "type": "artist", 
+            "id": "5K4W6rqBFWDnAN6FQUkS6x"
+          }, 
+          {
+            "name": "Mos Def", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+            }, 
+            "uri": "spotify:artist:0Mz5XE0kb1GBnbLQm2VbcO", 
+            "href": "https://api.spotify.com/v1/artists/0Mz5XE0kb1GBnbLQm2VbcO", 
+            "type": "artist", 
+            "id": "0Mz5XE0kb1GBnbLQm2VbcO"
+          }, 
+          {
+            "name": "Freeway", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2Jwr7hGoSNK3S3QBxh3T0z"
+            }, 
+            "uri": "spotify:artist:2Jwr7hGoSNK3S3QBxh3T0z", 
+            "href": "https://api.spotify.com/v1/artists/2Jwr7hGoSNK3S3QBxh3T0z", 
+            "type": "artist", 
+            "id": "2Jwr7hGoSNK3S3QBxh3T0z"
+          }, 
+          {
+            "name": "The Boys Choir Of Harlem", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Cp14KBRtDwGucKNPUyT11"
+            }, 
+            "uri": "spotify:artist:7Cp14KBRtDwGucKNPUyT11", 
+            "href": "https://api.spotify.com/v1/artists/7Cp14KBRtDwGucKNPUyT11", 
+            "type": "artist", 
+            "id": "7Cp14KBRtDwGucKNPUyT11"
+          }
+        ], 
+        "duration_ms": 266240, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "0L2VNyCLmA7hr13L8umWMX"
+      }, 
+      {
+        "name": "Through The Wire", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0ncPdmNqiMvKK1J36Dgr6f"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a8ad41826d8203ce5b5b6a67d29322e7d36dc93c", 
+        "is_playable": true, 
+        "uri": "spotify:track:0ncPdmNqiMvKK1J36Dgr6f", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0ncPdmNqiMvKK1J36Dgr6f", 
+        "artists": [
+          {
+            "name": "Kanye West", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+            }, 
+            "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x", 
+            "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x", 
+            "type": "artist", 
+            "id": "5K4W6rqBFWDnAN6FQUkS6x"
+          }
+        ], 
+        "duration_ms": 221226, 
+        "track_number": 19, 
+        "type": "track", 
+        "id": "0ncPdmNqiMvKK1J36Dgr6f"
+      }, 
+      {
+        "name": "Family Business", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3xm012kKV1lLOpsoM0NGF5"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/aeeeab528b4b6c37d11f3dd57d7d836c349648fa", 
+        "is_playable": true, 
+        "uri": "spotify:track:3xm012kKV1lLOpsoM0NGF5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3xm012kKV1lLOpsoM0NGF5", 
+        "artists": [
+          {
+            "name": "Kanye West", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+            }, 
+            "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x", 
+            "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x", 
+            "type": "artist", 
+            "id": "5K4W6rqBFWDnAN6FQUkS6x"
+          }
+        ], 
+        "duration_ms": 278906, 
+        "track_number": 20, 
+        "type": "track", 
+        "id": "3xm012kKV1lLOpsoM0NGF5"
+      }, 
+      {
+        "name": "Last Call", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7Dm4MSc9WYtpzkedcxrAT4"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/dbc60bb0adfc470a718d4ff33036ca2ee7f8cd03", 
+        "is_playable": true, 
+        "uri": "spotify:track:7Dm4MSc9WYtpzkedcxrAT4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7Dm4MSc9WYtpzkedcxrAT4", 
+        "artists": [
+          {
+            "name": "Kanye West", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+            }, 
+            "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x", 
+            "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x", 
+            "type": "artist", 
+            "id": "5K4W6rqBFWDnAN6FQUkS6x"
+          }
+        ], 
+        "duration_ms": 760933, 
+        "track_number": 21, 
+        "type": "track", 
+        "id": "7Dm4MSc9WYtpzkedcxrAT4"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/555WoCHGKNICMGGO7o1eTc/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 21, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/555WoCHGKNICMGGO7o1eTc", 
+  "copyrights": [
+    {
+      "text": "(C) 2004 Roc-A-Fella Records, LLC", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 2004 Roc-A-Fella Records, LLC", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Kanye West", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+      }, 
+      "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x", 
+      "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x", 
+      "type": "artist", 
+      "id": "5K4W6rqBFWDnAN6FQUkS6x"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/0260e69cbe15b7ade0963b707215f145e39b5236", 
+      "width": 640, 
+      "height": 634
+    }, 
+    {
+      "url": "https://i.scdn.co/image/2ea6ee2881ffc28e50aafa8254dee27ab9f58220", 
+      "width": 300, 
+      "height": 297
+    }, 
+    {
+      "url": "https://i.scdn.co/image/55c58e993745c5b27a411906bb922340ef428bee", 
+      "width": 64, 
+      "height": 63
+    }
+  ], 
+  "external_ids": {
+    "upc": "00602498620618"
+  }, 
+  "type": "album", 
+  "id": "555WoCHGKNICMGGO7o1eTc", 
+  "name": "The College Dropout"
+}

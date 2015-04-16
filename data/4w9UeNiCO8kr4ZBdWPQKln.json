@@ -1,0 +1,627 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4w9UeNiCO8kr4ZBdWPQKln"
+  }, 
+  "release_date": "2001-01-01", 
+  "popularity": 49, 
+  "genres": [], 
+  "uri": "spotify:album:4w9UeNiCO8kr4ZBdWPQKln", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Concrete Jungle - Jamaican Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7kk6WzuiBh2ZQ5KmCSvXzN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e7c4de3f8fc1640ece11154c6d0cdd630ca29a9a", 
+        "is_playable": true, 
+        "uri": "spotify:track:7kk6WzuiBh2ZQ5KmCSvXzN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7kk6WzuiBh2ZQ5KmCSvXzN", 
+        "artists": [
+          {
+            "name": "The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+            }, 
+            "uri": "spotify:artist:6uSKeCyQEhvPC2NODgiqFE", 
+            "href": "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE", 
+            "type": "artist", 
+            "id": "6uSKeCyQEhvPC2NODgiqFE"
+          }
+        ], 
+        "duration_ms": 255373, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "7kk6WzuiBh2ZQ5KmCSvXzN"
+      }, 
+      {
+        "name": "Stir It Up - Jamaican Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4ZdyIQ4pdsdLE7ZNwD4Kah"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a2e4cc254dc33cd0b3c011179d79ecd1d8f541e6", 
+        "is_playable": true, 
+        "uri": "spotify:track:4ZdyIQ4pdsdLE7ZNwD4Kah", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4ZdyIQ4pdsdLE7ZNwD4Kah", 
+        "artists": [
+          {
+            "name": "The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+            }, 
+            "uri": "spotify:artist:6uSKeCyQEhvPC2NODgiqFE", 
+            "href": "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE", 
+            "type": "artist", 
+            "id": "6uSKeCyQEhvPC2NODgiqFE"
+          }
+        ], 
+        "duration_ms": 219103, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "4ZdyIQ4pdsdLE7ZNwD4Kah"
+      }, 
+      {
+        "name": "High Tide Or Low Tide - Jamaican Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0W8fGWBYCps4S3aPj3Rz5h"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/51c369d77cb611244c9ff23585a24f4be4ff63f7", 
+        "is_playable": true, 
+        "uri": "spotify:track:0W8fGWBYCps4S3aPj3Rz5h", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0W8fGWBYCps4S3aPj3Rz5h", 
+        "artists": [
+          {
+            "name": "Bob Marley & The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+            }, 
+            "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD", 
+            "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD", 
+            "type": "artist", 
+            "id": "2QsynagSdAqZj3U9HgDzjD"
+          }
+        ], 
+        "duration_ms": 284258, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "0W8fGWBYCps4S3aPj3Rz5h"
+      }, 
+      {
+        "name": "Stop That Train - Jamaican Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2gTYC7wvYeV6pweH42fKIy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/50014d83f4c4d6194a3c2e4e53610824e4e3c2ae", 
+        "is_playable": true, 
+        "uri": "spotify:track:2gTYC7wvYeV6pweH42fKIy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2gTYC7wvYeV6pweH42fKIy", 
+        "artists": [
+          {
+            "name": "The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+            }, 
+            "uri": "spotify:artist:6uSKeCyQEhvPC2NODgiqFE", 
+            "href": "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE", 
+            "type": "artist", 
+            "id": "6uSKeCyQEhvPC2NODgiqFE"
+          }
+        ], 
+        "duration_ms": 235125, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "2gTYC7wvYeV6pweH42fKIy"
+      }, 
+      {
+        "name": "400 Years - Jamaican Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3moTYkGvFj61sZN6LHcJwL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2e7648833eaf13f88cc52f160fab7291e5c7e304", 
+        "is_playable": true, 
+        "uri": "spotify:track:3moTYkGvFj61sZN6LHcJwL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3moTYkGvFj61sZN6LHcJwL", 
+        "artists": [
+          {
+            "name": "The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+            }, 
+            "uri": "spotify:artist:6uSKeCyQEhvPC2NODgiqFE", 
+            "href": "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE", 
+            "type": "artist", 
+            "id": "6uSKeCyQEhvPC2NODgiqFE"
+          }
+        ], 
+        "duration_ms": 182276, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "3moTYkGvFj61sZN6LHcJwL"
+      }, 
+      {
+        "name": "Baby We've Got A Date (Rock It Baby) - Jamaican Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/049TACK03TuhDzL64J2Umv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c70f61754c5ce3390094f9f9d4ab026142e4b37a", 
+        "is_playable": true, 
+        "uri": "spotify:track:049TACK03TuhDzL64J2Umv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/049TACK03TuhDzL64J2Umv", 
+        "artists": [
+          {
+            "name": "The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+            }, 
+            "uri": "spotify:artist:6uSKeCyQEhvPC2NODgiqFE", 
+            "href": "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE", 
+            "type": "artist", 
+            "id": "6uSKeCyQEhvPC2NODgiqFE"
+          }
+        ], 
+        "duration_ms": 244831, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "049TACK03TuhDzL64J2Umv"
+      }, 
+      {
+        "name": "Midnight Ravers - Jamaican Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1UoOYlXVDQ031jLVskuFAs"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6d635f46ca38e6dfe96cbedac98f4eaef211a9b0", 
+        "is_playable": true, 
+        "uri": "spotify:track:1UoOYlXVDQ031jLVskuFAs", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1UoOYlXVDQ031jLVskuFAs", 
+        "artists": [
+          {
+            "name": "The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+            }, 
+            "uri": "spotify:artist:6uSKeCyQEhvPC2NODgiqFE", 
+            "href": "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE", 
+            "type": "artist", 
+            "id": "6uSKeCyQEhvPC2NODgiqFE"
+          }
+        ], 
+        "duration_ms": 309011, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "1UoOYlXVDQ031jLVskuFAs"
+      }, 
+      {
+        "name": "All Day All Night - Jamaican Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7AnhlEX6adyaXe4S28UKXD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2f2d928687d12718e1103cd51e09992082f243af", 
+        "is_playable": true, 
+        "uri": "spotify:track:7AnhlEX6adyaXe4S28UKXD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7AnhlEX6adyaXe4S28UKXD", 
+        "artists": [
+          {
+            "name": "The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+            }, 
+            "uri": "spotify:artist:6uSKeCyQEhvPC2NODgiqFE", 
+            "href": "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE", 
+            "type": "artist", 
+            "id": "6uSKeCyQEhvPC2NODgiqFE"
+          }
+        ], 
+        "duration_ms": 208886, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "7AnhlEX6adyaXe4S28UKXD"
+      }, 
+      {
+        "name": "Slave Driver - Jamaican Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2mlIffcK13Tb658PvlKps0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/aa8f447d95a27202a830fa0c42384f646ac985b1", 
+        "is_playable": true, 
+        "uri": "spotify:track:2mlIffcK13Tb658PvlKps0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2mlIffcK13Tb658PvlKps0", 
+        "artists": [
+          {
+            "name": "The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+            }, 
+            "uri": "spotify:artist:6uSKeCyQEhvPC2NODgiqFE", 
+            "href": "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE", 
+            "type": "artist", 
+            "id": "6uSKeCyQEhvPC2NODgiqFE"
+          }
+        ], 
+        "duration_ms": 176332, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "2mlIffcK13Tb658PvlKps0"
+      }, 
+      {
+        "name": "Kinky Reggae - Jamaican Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/361fnT8mthkRH4ihUHzutK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3c38d1cc9f7847b0114b9430f37ac48006fab40c", 
+        "is_playable": true, 
+        "uri": "spotify:track:361fnT8mthkRH4ihUHzutK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/361fnT8mthkRH4ihUHzutK", 
+        "artists": [
+          {
+            "name": "The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+            }, 
+            "uri": "spotify:artist:6uSKeCyQEhvPC2NODgiqFE", 
+            "href": "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE", 
+            "type": "artist", 
+            "id": "6uSKeCyQEhvPC2NODgiqFE"
+          }
+        ], 
+        "duration_ms": 224211, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "361fnT8mthkRH4ihUHzutK"
+      }, 
+      {
+        "name": "No More Trouble - Jamaican Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0SvkWYvoTPW2Bd8gqawcJG"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b92013deca40dfc93fe84ca8c33fcf7d772a5991", 
+        "is_playable": true, 
+        "uri": "spotify:track:0SvkWYvoTPW2Bd8gqawcJG", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0SvkWYvoTPW2Bd8gqawcJG", 
+        "artists": [
+          {
+            "name": "The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+            }, 
+            "uri": "spotify:artist:6uSKeCyQEhvPC2NODgiqFE", 
+            "href": "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE", 
+            "type": "artist", 
+            "id": "6uSKeCyQEhvPC2NODgiqFE"
+          }
+        ], 
+        "duration_ms": 315837, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "0SvkWYvoTPW2Bd8gqawcJG"
+      }, 
+      {
+        "name": "Concrete Jungle - Original Album Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0BTy3cSsHxNkEuxJENJfd5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a7a997bc512b3d9306cfaf0a11a147e92449001e", 
+        "is_playable": true, 
+        "uri": "spotify:track:0BTy3cSsHxNkEuxJENJfd5", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/0BTy3cSsHxNkEuxJENJfd5", 
+        "artists": [
+          {
+            "name": "Bob Marley & The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+            }, 
+            "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD", 
+            "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD", 
+            "type": "artist", 
+            "id": "2QsynagSdAqZj3U9HgDzjD"
+          }
+        ], 
+        "duration_ms": 254351, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "0BTy3cSsHxNkEuxJENJfd5"
+      }, 
+      {
+        "name": "Slave Driver - Original Album Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6FCQmxm7zeeK4n6AWS4JjQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/88c1f20da9a1a123b6baf3806373893d16982fd0", 
+        "is_playable": true, 
+        "uri": "spotify:track:6FCQmxm7zeeK4n6AWS4JjQ", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6FCQmxm7zeeK4n6AWS4JjQ", 
+        "artists": [
+          {
+            "name": "Bob Marley & The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+            }, 
+            "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD", 
+            "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD", 
+            "type": "artist", 
+            "id": "2QsynagSdAqZj3U9HgDzjD"
+          }
+        ], 
+        "duration_ms": 174614, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "6FCQmxm7zeeK4n6AWS4JjQ"
+      }, 
+      {
+        "name": "400 Years - Original Album Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5uAxcolq13FeRJimuX549L"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2e4075ba024ab1302bdfd4697ac0c2a8322474a1", 
+        "is_playable": true, 
+        "uri": "spotify:track:5uAxcolq13FeRJimuX549L", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5uAxcolq13FeRJimuX549L", 
+        "artists": [
+          {
+            "name": "Bob Marley & The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+            }, 
+            "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD", 
+            "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD", 
+            "type": "artist", 
+            "id": "2QsynagSdAqZj3U9HgDzjD"
+          }
+        ], 
+        "duration_ms": 166254, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "5uAxcolq13FeRJimuX549L"
+      }, 
+      {
+        "name": "Stop That Train - Original Album Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3IAFJYl2uXQS6CiDO1G76c"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/869b41a9024734cba1376315a7e2f70b328af252", 
+        "is_playable": true, 
+        "uri": "spotify:track:3IAFJYl2uXQS6CiDO1G76c", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/3IAFJYl2uXQS6CiDO1G76c", 
+        "artists": [
+          {
+            "name": "Bob Marley & The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+            }, 
+            "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD", 
+            "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD", 
+            "type": "artist", 
+            "id": "2QsynagSdAqZj3U9HgDzjD"
+          }
+        ], 
+        "duration_ms": 236379, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "3IAFJYl2uXQS6CiDO1G76c"
+      }, 
+      {
+        "name": "Baby We've Got A Date (Rock It Baby) - Original Album Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1oNvFKxkuoiEhT6H5piOrF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0427c4bd6965e98c7b9459f42190d8937c611dca", 
+        "is_playable": true, 
+        "uri": "spotify:track:1oNvFKxkuoiEhT6H5piOrF", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1oNvFKxkuoiEhT6H5piOrF", 
+        "artists": [
+          {
+            "name": "Bob Marley & The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+            }, 
+            "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD", 
+            "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD", 
+            "type": "artist", 
+            "id": "2QsynagSdAqZj3U9HgDzjD"
+          }
+        ], 
+        "duration_ms": 238050, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "1oNvFKxkuoiEhT6H5piOrF"
+      }, 
+      {
+        "name": "Stir It Up - Original Album Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1EPVhySScieqRoYWj8pIEN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/28de7217efc9e7846a23d6cbef6680169af4ce35", 
+        "is_playable": true, 
+        "uri": "spotify:track:1EPVhySScieqRoYWj8pIEN", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1EPVhySScieqRoYWj8pIEN", 
+        "artists": [
+          {
+            "name": "Bob Marley & The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+            }, 
+            "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD", 
+            "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD", 
+            "type": "artist", 
+            "id": "2QsynagSdAqZj3U9HgDzjD"
+          }
+        ], 
+        "duration_ms": 334274, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "1EPVhySScieqRoYWj8pIEN"
+      }, 
+      {
+        "name": "Kinky Reggae - Original Album Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6mcNJp1eiXC0Z1ydOBEBT4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1ebe6cc261daf87edf98295984493689ee5446e4", 
+        "is_playable": true, 
+        "uri": "spotify:track:6mcNJp1eiXC0Z1ydOBEBT4", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6mcNJp1eiXC0Z1ydOBEBT4", 
+        "artists": [
+          {
+            "name": "Bob Marley & The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+            }, 
+            "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD", 
+            "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD", 
+            "type": "artist", 
+            "id": "2QsynagSdAqZj3U9HgDzjD"
+          }
+        ], 
+        "duration_ms": 219057, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "6mcNJp1eiXC0Z1ydOBEBT4"
+      }, 
+      {
+        "name": "No More Trouble - Original Album Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/33O7hUD6mPGBKiUzYu5nW6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9170e00e9e1d81e1d4138d3a60d890a14318f681", 
+        "is_playable": true, 
+        "uri": "spotify:track:33O7hUD6mPGBKiUzYu5nW6", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/33O7hUD6mPGBKiUzYu5nW6", 
+        "artists": [
+          {
+            "name": "Bob Marley & The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+            }, 
+            "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD", 
+            "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD", 
+            "type": "artist", 
+            "id": "2QsynagSdAqZj3U9HgDzjD"
+          }
+        ], 
+        "duration_ms": 239722, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "33O7hUD6mPGBKiUzYu5nW6"
+      }, 
+      {
+        "name": "Midnight Ravers - Original Album Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0JM1hep2LDBG9Kxc8GWrd1"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b16b2e8d117d680c78437219ec90ec57755be984", 
+        "is_playable": true, 
+        "uri": "spotify:track:0JM1hep2LDBG9Kxc8GWrd1", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/0JM1hep2LDBG9Kxc8GWrd1", 
+        "artists": [
+          {
+            "name": "Bob Marley & The Wailers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+            }, 
+            "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD", 
+            "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD", 
+            "type": "artist", 
+            "id": "2QsynagSdAqZj3U9HgDzjD"
+          }
+        ], 
+        "duration_ms": 307525, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "0JM1hep2LDBG9Kxc8GWrd1"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/4w9UeNiCO8kr4ZBdWPQKln/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 20, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/4w9UeNiCO8kr4ZBdWPQKln", 
+  "copyrights": [
+    {
+      "text": "(C) 2001 Universal Island Records Ltd. A Universal Music Company.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 2001 Universal Island Records Ltd. A Universal Music Company.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Bob Marley & The Wailers", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+      }, 
+      "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD", 
+      "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD", 
+      "type": "artist", 
+      "id": "2QsynagSdAqZj3U9HgDzjD"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/125be211bf0a5d5c69e000921e0d1dc7bc9369a3", 
+      "width": 640, 
+      "height": 634
+    }, 
+    {
+      "url": "https://i.scdn.co/image/2c48cf9307c4bdff873e3e024acda0571dff9fb8", 
+      "width": 300, 
+      "height": 297
+    }, 
+    {
+      "url": "https://i.scdn.co/image/344adc772e5386c115d8782133c5cecd8d4216cb", 
+      "width": 64, 
+      "height": 63
+    }
+  ], 
+  "external_ids": {
+    "upc": "00731454863520"
+  }, 
+  "type": "album", 
+  "id": "4w9UeNiCO8kr4ZBdWPQKln", 
+  "name": "Catch A Fire (Deluxe Edition)"
+}

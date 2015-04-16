@@ -1,0 +1,951 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
+  }, 
+  "release_date": "2002-09-23", 
+  "popularity": 76, 
+  "genres": [], 
+  "uri": "spotify:album:0QVoYzGd1p8Z3ohEaM0lsc", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Heartbreak Hotel", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2IfE8FhnPPEBSS4rL1qhBb"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bed7c852f38b7ce522113a02eeb04e8993866fab", 
+        "is_playable": true, 
+        "uri": "spotify:track:2IfE8FhnPPEBSS4rL1qhBb", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2IfE8FhnPPEBSS4rL1qhBb", 
+        "artists": [
+          {
+            "name": "Elvis Presley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            }, 
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+            "type": "artist", 
+            "id": "43ZHCT0cAZBISjO8DG9PnE"
+          }
+        ], 
+        "duration_ms": 127960, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "2IfE8FhnPPEBSS4rL1qhBb"
+      }, 
+      {
+        "name": "Don't Be Cruel", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4zzXm1QJQXWLyUfFhWZBRg"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bd684231d4a64c2da8c45e925c31bce37e77c720", 
+        "is_playable": true, 
+        "uri": "spotify:track:4zzXm1QJQXWLyUfFhWZBRg", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4zzXm1QJQXWLyUfFhWZBRg", 
+        "artists": [
+          {
+            "name": "Elvis Presley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            }, 
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+            "type": "artist", 
+            "id": "43ZHCT0cAZBISjO8DG9PnE"
+          }
+        ], 
+        "duration_ms": 122866, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "4zzXm1QJQXWLyUfFhWZBRg"
+      }, 
+      {
+        "name": "Hound Dog", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0JOw67rq2X6NDz5AJP9uIG"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/04b7cd2ab6edf7648d37420b86de448f4a70e614", 
+        "is_playable": true, 
+        "uri": "spotify:track:0JOw67rq2X6NDz5AJP9uIG", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0JOw67rq2X6NDz5AJP9uIG", 
+        "artists": [
+          {
+            "name": "Elvis Presley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            }, 
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+            "type": "artist", 
+            "id": "43ZHCT0cAZBISjO8DG9PnE"
+          }
+        ], 
+        "duration_ms": 133293, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "0JOw67rq2X6NDz5AJP9uIG"
+      }, 
+      {
+        "name": "Love Me Tender", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7iBBcw61QVJxI3NDzlpX2E"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f622a1419986d9d5ec8c4b77cf1e72e84f1254b7", 
+        "is_playable": true, 
+        "uri": "spotify:track:7iBBcw61QVJxI3NDzlpX2E", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7iBBcw61QVJxI3NDzlpX2E", 
+        "artists": [
+          {
+            "name": "Elvis Presley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            }, 
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+            "type": "artist", 
+            "id": "43ZHCT0cAZBISjO8DG9PnE"
+          }
+        ], 
+        "duration_ms": 162066, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "7iBBcw61QVJxI3NDzlpX2E"
+      }, 
+      {
+        "name": "Too Much", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Dr0EbXrRpMs5GeCjOxnE5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/015187fa53be0b4da1090bd809531987332104d2", 
+        "is_playable": true, 
+        "uri": "spotify:track:6Dr0EbXrRpMs5GeCjOxnE5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6Dr0EbXrRpMs5GeCjOxnE5", 
+        "artists": [
+          {
+            "name": "Elvis Presley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            }, 
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+            "type": "artist", 
+            "id": "43ZHCT0cAZBISjO8DG9PnE"
+          }
+        ], 
+        "duration_ms": 154840, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "6Dr0EbXrRpMs5GeCjOxnE5"
+      }, 
+      {
+        "name": "All Shook Up", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0M3S5KQewKAaXZb19gGqnh"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8d947a10c0f2679cb18042bff8ee24d2c478448e", 
+        "is_playable": true, 
+        "uri": "spotify:track:0M3S5KQewKAaXZb19gGqnh", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0M3S5KQewKAaXZb19gGqnh", 
+        "artists": [
+          {
+            "name": "Elvis Presley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            }, 
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+            "type": "artist", 
+            "id": "43ZHCT0cAZBISjO8DG9PnE"
+          }
+        ], 
+        "duration_ms": 118066, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "0M3S5KQewKAaXZb19gGqnh"
+      }, 
+      {
+        "name": "(Let Me Be Your) Teddy Bear", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4FjkmQ9JYaIeh1NxeLEO80"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/996e568390b39d6553cfc0cda9152d0ff54e9fa0", 
+        "is_playable": true, 
+        "uri": "spotify:track:4FjkmQ9JYaIeh1NxeLEO80", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4FjkmQ9JYaIeh1NxeLEO80", 
+        "artists": [
+          {
+            "name": "Elvis Presley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            }, 
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+            "type": "artist", 
+            "id": "43ZHCT0cAZBISjO8DG9PnE"
+          }
+        ], 
+        "duration_ms": 106626, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "4FjkmQ9JYaIeh1NxeLEO80"
+      }, 
+      {
+        "name": "Jailhouse Rock", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6pyex9B1kBoRIuabBAc4m8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fa7061f7112d69c2352ee904b5425f2d068153c6", 
+        "is_playable": true, 
+        "uri": "spotify:track:6pyex9B1kBoRIuabBAc4m8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6pyex9B1kBoRIuabBAc4m8", 
+        "artists": [
+          {
+            "name": "Elvis Presley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            }, 
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+            "type": "artist", 
+            "id": "43ZHCT0cAZBISjO8DG9PnE"
+          }
+        ], 
+        "duration_ms": 155333, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "6pyex9B1kBoRIuabBAc4m8"
+      }, 
+      {
+        "name": "Don't", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4HVSaFbEwvptCAzLlOr2UZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d387a7f3096187e277e416bc359e3fe5169e1614", 
+        "is_playable": true, 
+        "uri": "spotify:track:4HVSaFbEwvptCAzLlOr2UZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4HVSaFbEwvptCAzLlOr2UZ", 
+        "artists": [
+          {
+            "name": "Elvis Presley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            }, 
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+            "type": "artist", 
+            "id": "43ZHCT0cAZBISjO8DG9PnE"
+          }, 
+          {
+            "name": "The Jordanaires", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv"
+            }, 
+            "uri": "spotify:artist:6CXezToiGS8K6jr9kr8Muv", 
+            "href": "https://api.spotify.com/v1/artists/6CXezToiGS8K6jr9kr8Muv", 
+            "type": "artist", 
+            "id": "6CXezToiGS8K6jr9kr8Muv"
+          }
+        ], 
+        "duration_ms": 168906, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "4HVSaFbEwvptCAzLlOr2UZ"
+      }, 
+      {
+        "name": "Hard Headed Woman - (from the Hal Wallis Production \"King Creole\", a Paramount picture)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2DG7sOMQthZCGxHbqNWzz0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9a64792bc7372f096d056f92d0fa3b644afb233b", 
+        "is_playable": true, 
+        "uri": "spotify:track:2DG7sOMQthZCGxHbqNWzz0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2DG7sOMQthZCGxHbqNWzz0", 
+        "artists": [
+          {
+            "name": "Elvis Presley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            }, 
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+            "type": "artist", 
+            "id": "43ZHCT0cAZBISjO8DG9PnE"
+          }
+        ], 
+        "duration_ms": 114240, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "2DG7sOMQthZCGxHbqNWzz0"
+      }, 
+      {
+        "name": "One Night", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1W5Vp1lP4uhlxyUwgxQq4f"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a4e58bdfdf3ed061e7b4ac15330eecdf3e8b9f58", 
+        "is_playable": true, 
+        "uri": "spotify:track:1W5Vp1lP4uhlxyUwgxQq4f", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1W5Vp1lP4uhlxyUwgxQq4f", 
+        "artists": [
+          {
+            "name": "Elvis Presley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            }, 
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+            "type": "artist", 
+            "id": "43ZHCT0cAZBISjO8DG9PnE"
+          }
+        ], 
+        "duration_ms": 152426, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "1W5Vp1lP4uhlxyUwgxQq4f"
+      }, 
+      {
+        "name": "(Now and Then There's) A Fool Such as I", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2TGiDvXSDPCcBTfaMtmsRc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/efa87c6ba8432a9b2954eb5d71ebbe2c944aa605", 
+        "is_playable": true, 
+        "uri": "spotify:track:2TGiDvXSDPCcBTfaMtmsRc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2TGiDvXSDPCcBTfaMtmsRc", 
+        "artists": [
+          {
+            "name": "Elvis Presley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            }, 
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+            "type": "artist", 
+            "id": "43ZHCT0cAZBISjO8DG9PnE"
+          }
+        ], 
+        "duration_ms": 159360, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "2TGiDvXSDPCcBTfaMtmsRc"
+      }, 
+      {
+        "name": "A Big Hunk O' Love", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6PUsG2iMvCjnPFLjydO1RR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8cfc670ebac9c47a477a4908a9c7533f5b6d2bd7", 
+        "is_playable": true, 
+        "uri": "spotify:track:6PUsG2iMvCjnPFLjydO1RR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6PUsG2iMvCjnPFLjydO1RR", 
+        "artists": [
+          {
+            "name": "Elvis Presley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            }, 
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+            "type": "artist", 
+            "id": "43ZHCT0cAZBISjO8DG9PnE"
+          }
+        ], 
+        "duration_ms": 133093, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "6PUsG2iMvCjnPFLjydO1RR"
+      }, 
+      {
+        "name": "Stuck on You", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7bA1DHtoJAvqyL42gHwOLa"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0c81a8892d2291cd2985d9ebb81607b511db5227", 
+        "is_playable": true, 
+        "uri": "spotify:track:7bA1DHtoJAvqyL42gHwOLa", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7bA1DHtoJAvqyL42gHwOLa", 
+        "artists": [
+          {
+            "name": "Elvis Presley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            }, 
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+            "type": "artist", 
+            "id": "43ZHCT0cAZBISjO8DG9PnE"
+          }
+        ], 
+        "duration_ms": 138826, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "7bA1DHtoJAvqyL42gHwOLa"
+      }, 
+      {
+        "name": "It's Now or Never", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1XunTmhOcj3xwh4b8P3isX"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/df82a2be78d7aa73c6e36d1aed47d1cc2e8a0b27", 
+        "is_playable": true, 
+        "uri": "spotify:track:1XunTmhOcj3xwh4b8P3isX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1XunTmhOcj3xwh4b8P3isX", 
+        "artists": [
+          {
+            "name": "Elvis Presley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            }, 
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+            "type": "artist", 
+            "id": "43ZHCT0cAZBISjO8DG9PnE"
+          }
+        ], 
+        "duration_ms": 194600, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "1XunTmhOcj3xwh4b8P3isX"
+      }, 
+      {
+        "name": "Are You Lonesome Tonight? - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4wM7V31TsZzzDBEH02Hltb"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5cd564410b980003e12da8eda20f5370129738d4", 
+        "is_playable": true, 
+        "uri": "spotify:track:4wM7V31TsZzzDBEH02Hltb", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4wM7V31TsZzzDBEH02Hltb", 
+        "artists": [
+          {
+            "name": "Elvis Presley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            }, 
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+            "type": "artist", 
+            "id": "43ZHCT0cAZBISjO8DG9PnE"
+          }
+        ], 
+        "duration_ms": 186506, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "4wM7V31TsZzzDBEH02Hltb"
+      }, 
+      {
+        "name": "Wooden Heart", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5QWQ9ChSbNDTSx1iZp961C"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6b03ffc30ce16f60d7079efa31803d806f02a0a2", 
+        "is_playable": true, 
+        "uri": "spotify:track:5QWQ9ChSbNDTSx1iZp961C", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5QWQ9ChSbNDTSx1iZp961C", 
+        "artists": [
+          {
+            "name": "Elvis Presley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            }, 
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+            "type": "artist", 
+            "id": "43ZHCT0cAZBISjO8DG9PnE"
+          }
+        ], 
+        "duration_ms": 121600, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "5QWQ9ChSbNDTSx1iZp961C"
+      }, 
+      {
+        "name": "Surrender", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Qkixf9OjJp5a4XphaONKO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/13dca34c77226f15b3e959cb52d032a4e3e2783b", 
+        "is_playable": true, 
+        "uri": "spotify:track:5Qkixf9OjJp5a4XphaONKO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5Qkixf9OjJp5a4XphaONKO", 
+        "artists": [
+          {
+            "name": "Elvis Presley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            }, 
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+            "type": "artist", 
+            "id": "43ZHCT0cAZBISjO8DG9PnE"
+          }
+        ], 
+        "duration_ms": 112226, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "5Qkixf9OjJp5a4XphaONKO"
+      }, 
+      {
+        "name": "(Marie's The Name) His Latest Flame", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4qbLOU1T7xgTH87eUSkvJ1"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bc7b64ba65262083afd01fa0e736cac5d6ebde37", 
+        "is_playable": true, 
+        "uri": "spotify:track:4qbLOU1T7xgTH87eUSkvJ1", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4qbLOU1T7xgTH87eUSkvJ1", 
+        "artists": [
+          {
+            "name": "Elvis Presley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            }, 
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+            "type": "artist", 
+            "id": "43ZHCT0cAZBISjO8DG9PnE"
+          }
+        ], 
+        "duration_ms": 127093, 
+        "track_number": 19, 
+        "type": "track", 
+        "id": "4qbLOU1T7xgTH87eUSkvJ1"
+      }, 
+      {
+        "name": "Can't Help Falling in Love", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4hAUynwghvrqDXs1ejKNEq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6a2e3a2617eaa6de9cdd44e982b26e989a78d2f8", 
+        "is_playable": true, 
+        "uri": "spotify:track:4hAUynwghvrqDXs1ejKNEq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4hAUynwghvrqDXs1ejKNEq", 
+        "artists": [
+          {
+            "name": "Elvis Presley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            }, 
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+            "type": "artist", 
+            "id": "43ZHCT0cAZBISjO8DG9PnE"
+          }
+        ], 
+        "duration_ms": 177840, 
+        "track_number": 20, 
+        "type": "track", 
+        "id": "4hAUynwghvrqDXs1ejKNEq"
+      }, 
+      {
+        "name": "Good Luck Charm", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4ZexY8LcZkPd89dYPxf8LH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/eb203e3ce230e4e7f971d35ebc4b4f3f77e7329c", 
+        "is_playable": true, 
+        "uri": "spotify:track:4ZexY8LcZkPd89dYPxf8LH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4ZexY8LcZkPd89dYPxf8LH", 
+        "artists": [
+          {
+            "name": "Elvis Presley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            }, 
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+            "type": "artist", 
+            "id": "43ZHCT0cAZBISjO8DG9PnE"
+          }
+        ], 
+        "duration_ms": 145400, 
+        "track_number": 21, 
+        "type": "track", 
+        "id": "4ZexY8LcZkPd89dYPxf8LH"
+      }, 
+      {
+        "name": "She's Not You - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7ntXUTgbm0PHd68xlS7QOC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8936cc38f82aa2b23de5ffb696918d8045be8fae", 
+        "is_playable": true, 
+        "uri": "spotify:track:7ntXUTgbm0PHd68xlS7QOC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7ntXUTgbm0PHd68xlS7QOC", 
+        "artists": [
+          {
+            "name": "Elvis Presley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            }, 
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+            "type": "artist", 
+            "id": "43ZHCT0cAZBISjO8DG9PnE"
+          }
+        ], 
+        "duration_ms": 129026, 
+        "track_number": 22, 
+        "type": "track", 
+        "id": "7ntXUTgbm0PHd68xlS7QOC"
+      }, 
+      {
+        "name": "Return to Sender", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2cdzutoqFK6sfW6exi7oXh"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/835a89c4a7217fb9070a3e5ea3546e7023869303", 
+        "is_playable": true, 
+        "uri": "spotify:track:2cdzutoqFK6sfW6exi7oXh", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2cdzutoqFK6sfW6exi7oXh", 
+        "artists": [
+          {
+            "name": "Elvis Presley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            }, 
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+            "type": "artist", 
+            "id": "43ZHCT0cAZBISjO8DG9PnE"
+          }
+        ], 
+        "duration_ms": 128306, 
+        "track_number": 23, 
+        "type": "track", 
+        "id": "2cdzutoqFK6sfW6exi7oXh"
+      }, 
+      {
+        "name": "(You're The) Devil in Disguise", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0D1pEisM3QkiacGXJe5dmd"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ce5a9ebe970ca3d544dedecd14cc4f869aebf032", 
+        "is_playable": true, 
+        "uri": "spotify:track:0D1pEisM3QkiacGXJe5dmd", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0D1pEisM3QkiacGXJe5dmd", 
+        "artists": [
+          {
+            "name": "Elvis Presley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            }, 
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+            "type": "artist", 
+            "id": "43ZHCT0cAZBISjO8DG9PnE"
+          }
+        ], 
+        "duration_ms": 140426, 
+        "track_number": 24, 
+        "type": "track", 
+        "id": "0D1pEisM3QkiacGXJe5dmd"
+      }, 
+      {
+        "name": "Crying in the Chapel", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Vzr9AOdHw65UHoK1Vuxls"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/34ff961f4064e41b260200eac1506bfc4e23a069", 
+        "is_playable": true, 
+        "uri": "spotify:track:1Vzr9AOdHw65UHoK1Vuxls", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1Vzr9AOdHw65UHoK1Vuxls", 
+        "artists": [
+          {
+            "name": "Elvis Presley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            }, 
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+            "type": "artist", 
+            "id": "43ZHCT0cAZBISjO8DG9PnE"
+          }
+        ], 
+        "duration_ms": 143266, 
+        "track_number": 25, 
+        "type": "track", 
+        "id": "1Vzr9AOdHw65UHoK1Vuxls"
+      }, 
+      {
+        "name": "In the Ghetto", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6csLL0MBNVIMx19PfsKsW7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/036675a7ddcd689963d0ed9ebeaaa28a6063b671", 
+        "is_playable": true, 
+        "uri": "spotify:track:6csLL0MBNVIMx19PfsKsW7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6csLL0MBNVIMx19PfsKsW7", 
+        "artists": [
+          {
+            "name": "Elvis Presley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            }, 
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+            "type": "artist", 
+            "id": "43ZHCT0cAZBISjO8DG9PnE"
+          }
+        ], 
+        "duration_ms": 177573, 
+        "track_number": 26, 
+        "type": "track", 
+        "id": "6csLL0MBNVIMx19PfsKsW7"
+      }, 
+      {
+        "name": "Suspicious Minds", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6KDG8vvFerlCU63IXdw1zb"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d2001e966a38e77816ba5adeb76df4fbe848db3d", 
+        "is_playable": true, 
+        "uri": "spotify:track:6KDG8vvFerlCU63IXdw1zb", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6KDG8vvFerlCU63IXdw1zb", 
+        "artists": [
+          {
+            "name": "Elvis Presley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            }, 
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+            "type": "artist", 
+            "id": "43ZHCT0cAZBISjO8DG9PnE"
+          }
+        ], 
+        "duration_ms": 272360, 
+        "track_number": 27, 
+        "type": "track", 
+        "id": "6KDG8vvFerlCU63IXdw1zb"
+      }, 
+      {
+        "name": "The Wonder Of You", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1kvbxvZzSSWGaHGBY7r7C1"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9f76df9bbcd259082fe8ced5585da30936564b35", 
+        "is_playable": true, 
+        "uri": "spotify:track:1kvbxvZzSSWGaHGBY7r7C1", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1kvbxvZzSSWGaHGBY7r7C1", 
+        "artists": [
+          {
+            "name": "Elvis Presley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            }, 
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+            "type": "artist", 
+            "id": "43ZHCT0cAZBISjO8DG9PnE"
+          }
+        ], 
+        "duration_ms": 145973, 
+        "track_number": 28, 
+        "type": "track", 
+        "id": "1kvbxvZzSSWGaHGBY7r7C1"
+      }, 
+      {
+        "name": "Burning Love", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7akmE0AToGj8eLidXVWoI6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/60b9f9b6b19e1831caf34631af2d510bf877540b", 
+        "is_playable": true, 
+        "uri": "spotify:track:7akmE0AToGj8eLidXVWoI6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7akmE0AToGj8eLidXVWoI6", 
+        "artists": [
+          {
+            "name": "Elvis Presley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            }, 
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+            "type": "artist", 
+            "id": "43ZHCT0cAZBISjO8DG9PnE"
+          }
+        ], 
+        "duration_ms": 176840, 
+        "track_number": 29, 
+        "type": "track", 
+        "id": "7akmE0AToGj8eLidXVWoI6"
+      }, 
+      {
+        "name": "Way Down", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Ya87xcJInskhE5joOq9tP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/081d89ac7aeed75d02d2544660576d1e8f6e1994", 
+        "is_playable": true, 
+        "uri": "spotify:track:1Ya87xcJInskhE5joOq9tP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1Ya87xcJInskhE5joOq9tP", 
+        "artists": [
+          {
+            "name": "Elvis Presley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            }, 
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+            "type": "artist", 
+            "id": "43ZHCT0cAZBISjO8DG9PnE"
+          }
+        ], 
+        "duration_ms": 157333, 
+        "track_number": 30, 
+        "type": "track", 
+        "id": "1Ya87xcJInskhE5joOq9tP"
+      }, 
+      {
+        "name": "A Little Less Conversation - JXL Radio Edit Remix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7FNIEfhhBlzsZFxCwI5Nwh"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2bdfe727abc1bcf787183d9eb998d51e9c31e8ff", 
+        "is_playable": true, 
+        "uri": "spotify:track:7FNIEfhhBlzsZFxCwI5Nwh", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7FNIEfhhBlzsZFxCwI5Nwh", 
+        "artists": [
+          {
+            "name": "Elvis Presley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            }, 
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+            "type": "artist", 
+            "id": "43ZHCT0cAZBISjO8DG9PnE"
+          }, 
+          {
+            "name": "JXL", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6EkPaTMpQmLwR7CgYiKHha"
+            }, 
+            "uri": "spotify:artist:6EkPaTMpQmLwR7CgYiKHha", 
+            "href": "https://api.spotify.com/v1/artists/6EkPaTMpQmLwR7CgYiKHha", 
+            "type": "artist", 
+            "id": "6EkPaTMpQmLwR7CgYiKHha"
+          }
+        ], 
+        "duration_ms": 213240, 
+        "track_number": 31, 
+        "type": "track", 
+        "id": "7FNIEfhhBlzsZFxCwI5Nwh"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/0QVoYzGd1p8Z3ohEaM0lsc/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 31, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/0QVoYzGd1p8Z3ohEaM0lsc", 
+  "copyrights": [
+    {
+      "text": "This Compilation (P) 2002 Sony Music Entertainment", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Elvis Presley", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+      }, 
+      "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+      "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+      "type": "artist", 
+      "id": "43ZHCT0cAZBISjO8DG9PnE"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/725c77471dea914e9f4c59fa802b57661c452bfd", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/96bfadbe248ad7015da263483c84162c3ee24db0", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/8baee915db2d43d19c56b43c6e7a8dabf0a9cd8f", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "884977724691"
+  }, 
+  "type": "album", 
+  "id": "0QVoYzGd1p8Z3ohEaM0lsc", 
+  "name": "Elvis 30 #1 Hits"
+}

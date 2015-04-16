@@ -1,0 +1,459 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0rRNLpdA8nA8Sm8Fk490b9"
+  }, 
+  "release_date": "2003-03-31", 
+  "popularity": 71, 
+  "genres": [], 
+  "uri": "spotify:album:0rRNLpdA8nA8Sm8Fk490b9", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Seven Nation Army", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3m6KkYKdnbffMpGd9Pm9FP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e7b4b04dabb90271b2fcc6c0eb7de8a0b4c46cec", 
+        "is_playable": true, 
+        "uri": "spotify:track:3m6KkYKdnbffMpGd9Pm9FP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3m6KkYKdnbffMpGd9Pm9FP", 
+        "artists": [
+          {
+            "name": "The White Stripes", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+            }, 
+            "uri": "spotify:artist:4F84IBURUo98rz4r61KF70", 
+            "href": "https://api.spotify.com/v1/artists/4F84IBURUo98rz4r61KF70", 
+            "type": "artist", 
+            "id": "4F84IBURUo98rz4r61KF70"
+          }
+        ], 
+        "duration_ms": 231920, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "3m6KkYKdnbffMpGd9Pm9FP"
+      }, 
+      {
+        "name": "Black Math", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3zdZYMK6gpCBXoSBNqEwCi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c7e736fb911938f461a0eede455c5f1e570556a1", 
+        "is_playable": true, 
+        "uri": "spotify:track:3zdZYMK6gpCBXoSBNqEwCi", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3zdZYMK6gpCBXoSBNqEwCi", 
+        "artists": [
+          {
+            "name": "The White Stripes", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+            }, 
+            "uri": "spotify:artist:4F84IBURUo98rz4r61KF70", 
+            "href": "https://api.spotify.com/v1/artists/4F84IBURUo98rz4r61KF70", 
+            "type": "artist", 
+            "id": "4F84IBURUo98rz4r61KF70"
+          }
+        ], 
+        "duration_ms": 183880, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "3zdZYMK6gpCBXoSBNqEwCi"
+      }, 
+      {
+        "name": "There\u2019s No Home For You Here", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/25p4XsP6BRF96U3CaSq7qf"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8968d2bf5499c358114742b9c42e1ef4065d7d2d", 
+        "is_playable": true, 
+        "uri": "spotify:track:25p4XsP6BRF96U3CaSq7qf", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/25p4XsP6BRF96U3CaSq7qf", 
+        "artists": [
+          {
+            "name": "The White Stripes", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+            }, 
+            "uri": "spotify:artist:4F84IBURUo98rz4r61KF70", 
+            "href": "https://api.spotify.com/v1/artists/4F84IBURUo98rz4r61KF70", 
+            "type": "artist", 
+            "id": "4F84IBURUo98rz4r61KF70"
+          }
+        ], 
+        "duration_ms": 223626, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "25p4XsP6BRF96U3CaSq7qf"
+      }, 
+      {
+        "name": "I Just Don\u2019t Know What To Do With Myself", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2STKkcZkAEBGU3ekVrHYDr"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2681e6242a8e36dc486108bd260455a7e371c15e", 
+        "is_playable": true, 
+        "uri": "spotify:track:2STKkcZkAEBGU3ekVrHYDr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2STKkcZkAEBGU3ekVrHYDr", 
+        "artists": [
+          {
+            "name": "The White Stripes", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+            }, 
+            "uri": "spotify:artist:4F84IBURUo98rz4r61KF70", 
+            "href": "https://api.spotify.com/v1/artists/4F84IBURUo98rz4r61KF70", 
+            "type": "artist", 
+            "id": "4F84IBURUo98rz4r61KF70"
+          }
+        ], 
+        "duration_ms": 166533, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "2STKkcZkAEBGU3ekVrHYDr"
+      }, 
+      {
+        "name": "In The Cold, Cold Night", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Ho4l3GybjYrURJiT8wAbq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8f5fcdf1c909069ee6fa081ac91117944db3ca8d", 
+        "is_playable": true, 
+        "uri": "spotify:track:6Ho4l3GybjYrURJiT8wAbq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6Ho4l3GybjYrURJiT8wAbq", 
+        "artists": [
+          {
+            "name": "The White Stripes", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+            }, 
+            "uri": "spotify:artist:4F84IBURUo98rz4r61KF70", 
+            "href": "https://api.spotify.com/v1/artists/4F84IBURUo98rz4r61KF70", 
+            "type": "artist", 
+            "id": "4F84IBURUo98rz4r61KF70"
+          }
+        ], 
+        "duration_ms": 178413, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "6Ho4l3GybjYrURJiT8wAbq"
+      }, 
+      {
+        "name": "I Want To Be The Boy...", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0dYL7lcRjKIckzlaZgbKJy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/03ca3793d146e7bb35549021fc185c843fde4308", 
+        "is_playable": true, 
+        "uri": "spotify:track:0dYL7lcRjKIckzlaZgbKJy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0dYL7lcRjKIckzlaZgbKJy", 
+        "artists": [
+          {
+            "name": "The White Stripes", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+            }, 
+            "uri": "spotify:artist:4F84IBURUo98rz4r61KF70", 
+            "href": "https://api.spotify.com/v1/artists/4F84IBURUo98rz4r61KF70", 
+            "type": "artist", 
+            "id": "4F84IBURUo98rz4r61KF70"
+          }
+        ], 
+        "duration_ms": 200520, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "0dYL7lcRjKIckzlaZgbKJy"
+      }, 
+      {
+        "name": "You\u2019ve Got Her In Your Pocket", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/33wg6qhynk1XKD6HM1Yaad"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/94556db05df21b049403affb5fba2bc5a4ebefdf", 
+        "is_playable": true, 
+        "uri": "spotify:track:33wg6qhynk1XKD6HM1Yaad", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/33wg6qhynk1XKD6HM1Yaad", 
+        "artists": [
+          {
+            "name": "The White Stripes", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+            }, 
+            "uri": "spotify:artist:4F84IBURUo98rz4r61KF70", 
+            "href": "https://api.spotify.com/v1/artists/4F84IBURUo98rz4r61KF70", 
+            "type": "artist", 
+            "id": "4F84IBURUo98rz4r61KF70"
+          }
+        ], 
+        "duration_ms": 219800, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "33wg6qhynk1XKD6HM1Yaad"
+      }, 
+      {
+        "name": "Ball And Biscuit", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5SI9IqXXoXic1gy93XVdS0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1aed82b4146b750f0d78b2fbd0bbff31f94dc53d", 
+        "is_playable": true, 
+        "uri": "spotify:track:5SI9IqXXoXic1gy93XVdS0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5SI9IqXXoXic1gy93XVdS0", 
+        "artists": [
+          {
+            "name": "The White Stripes", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+            }, 
+            "uri": "spotify:artist:4F84IBURUo98rz4r61KF70", 
+            "href": "https://api.spotify.com/v1/artists/4F84IBURUo98rz4r61KF70", 
+            "type": "artist", 
+            "id": "4F84IBURUo98rz4r61KF70"
+          }
+        ], 
+        "duration_ms": 438960, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "5SI9IqXXoXic1gy93XVdS0"
+      }, 
+      {
+        "name": "The Hardest Button To Button", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7N3DKWBC8pKoTf0JzyYKaj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/70961a1f5a6c23fc205c54f336b78fbcf97ca6c5", 
+        "is_playable": true, 
+        "uri": "spotify:track:7N3DKWBC8pKoTf0JzyYKaj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7N3DKWBC8pKoTf0JzyYKaj", 
+        "artists": [
+          {
+            "name": "The White Stripes", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+            }, 
+            "uri": "spotify:artist:4F84IBURUo98rz4r61KF70", 
+            "href": "https://api.spotify.com/v1/artists/4F84IBURUo98rz4r61KF70", 
+            "type": "artist", 
+            "id": "4F84IBURUo98rz4r61KF70"
+          }
+        ], 
+        "duration_ms": 212320, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "7N3DKWBC8pKoTf0JzyYKaj"
+      }, 
+      {
+        "name": "Little Acorns", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1wUGFXo5loMTDS5bkFS2HR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/34f79c972a3b525e5034a882ac77ddc6543632de", 
+        "is_playable": true, 
+        "uri": "spotify:track:1wUGFXo5loMTDS5bkFS2HR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1wUGFXo5loMTDS5bkFS2HR", 
+        "artists": [
+          {
+            "name": "The White Stripes", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+            }, 
+            "uri": "spotify:artist:4F84IBURUo98rz4r61KF70", 
+            "href": "https://api.spotify.com/v1/artists/4F84IBURUo98rz4r61KF70", 
+            "type": "artist", 
+            "id": "4F84IBURUo98rz4r61KF70"
+          }
+        ], 
+        "duration_ms": 249213, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "1wUGFXo5loMTDS5bkFS2HR"
+      }, 
+      {
+        "name": "Hypnotise", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0m8tnq77KFbRDWCKGR404P"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/66d6fefd97386c2172df0f95e1ca76d3d7058e62", 
+        "is_playable": true, 
+        "uri": "spotify:track:0m8tnq77KFbRDWCKGR404P", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0m8tnq77KFbRDWCKGR404P", 
+        "artists": [
+          {
+            "name": "The White Stripes", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+            }, 
+            "uri": "spotify:artist:4F84IBURUo98rz4r61KF70", 
+            "href": "https://api.spotify.com/v1/artists/4F84IBURUo98rz4r61KF70", 
+            "type": "artist", 
+            "id": "4F84IBURUo98rz4r61KF70"
+          }
+        ], 
+        "duration_ms": 108466, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "0m8tnq77KFbRDWCKGR404P"
+      }, 
+      {
+        "name": "The Air Near My Fingers", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/03ZIYIkSXFEe8eKeG6qzE8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/891a41b55a0f34db801c7707033d3bad5de2b1f9", 
+        "is_playable": true, 
+        "uri": "spotify:track:03ZIYIkSXFEe8eKeG6qzE8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/03ZIYIkSXFEe8eKeG6qzE8", 
+        "artists": [
+          {
+            "name": "The White Stripes", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+            }, 
+            "uri": "spotify:artist:4F84IBURUo98rz4r61KF70", 
+            "href": "https://api.spotify.com/v1/artists/4F84IBURUo98rz4r61KF70", 
+            "type": "artist", 
+            "id": "4F84IBURUo98rz4r61KF70"
+          }
+        ], 
+        "duration_ms": 220346, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "03ZIYIkSXFEe8eKeG6qzE8"
+      }, 
+      {
+        "name": "Girl, You Have No Faith In Medicine", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4rYlKl0AI9uUCnFQXSmjFF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/628b154c0c6ccdba7ba8b6fae1b92c14a5f45f4c", 
+        "is_playable": true, 
+        "uri": "spotify:track:4rYlKl0AI9uUCnFQXSmjFF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4rYlKl0AI9uUCnFQXSmjFF", 
+        "artists": [
+          {
+            "name": "The White Stripes", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+            }, 
+            "uri": "spotify:artist:4F84IBURUo98rz4r61KF70", 
+            "href": "https://api.spotify.com/v1/artists/4F84IBURUo98rz4r61KF70", 
+            "type": "artist", 
+            "id": "4F84IBURUo98rz4r61KF70"
+          }
+        ], 
+        "duration_ms": 197733, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "4rYlKl0AI9uUCnFQXSmjFF"
+      }, 
+      {
+        "name": "It\u2019s True That We Love One Another", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/46vItXJiYujbUSDQAGxwuY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e7bbb9285ec182343d40cf3c0008e31f615ccdb2", 
+        "is_playable": true, 
+        "uri": "spotify:track:46vItXJiYujbUSDQAGxwuY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/46vItXJiYujbUSDQAGxwuY", 
+        "artists": [
+          {
+            "name": "The White Stripes", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+            }, 
+            "uri": "spotify:artist:4F84IBURUo98rz4r61KF70", 
+            "href": "https://api.spotify.com/v1/artists/4F84IBURUo98rz4r61KF70", 
+            "type": "artist", 
+            "id": "4F84IBURUo98rz4r61KF70"
+          }
+        ], 
+        "duration_ms": 162440, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "46vItXJiYujbUSDQAGxwuY"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/0rRNLpdA8nA8Sm8Fk490b9/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 14, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/0rRNLpdA8nA8Sm8Fk490b9", 
+  "copyrights": [
+    {
+      "text": "2003 XL Recordings Ltd under eclusive license from Third Man Recordings", 
+      "type": "C"
+    }, 
+    {
+      "text": "2003 XL Recordings Ltd under exclusive license from Third Man Recordings", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "The White Stripes", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+      }, 
+      "uri": "spotify:artist:4F84IBURUo98rz4r61KF70", 
+      "href": "https://api.spotify.com/v1/artists/4F84IBURUo98rz4r61KF70", 
+      "type": "artist", 
+      "id": "4F84IBURUo98rz4r61KF70"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/7c7667a66c195842a18341b754ddff1e57295774", 
+      "width": 640, 
+      "height": 618
+    }, 
+    {
+      "url": "https://i.scdn.co/image/4d761858e1541ef386a0b8a9f1047805db754a6d", 
+      "width": 300, 
+      "height": 290
+    }, 
+    {
+      "url": "https://i.scdn.co/image/7b5248fbae00aae3c9d6d01abb24b32578aa3f31", 
+      "width": 64, 
+      "height": 62
+    }
+  ], 
+  "external_ids": {
+    "upc": "634904016227"
+  }, 
+  "type": "album", 
+  "id": "0rRNLpdA8nA8Sm8Fk490b9", 
+  "name": "Elephant"
+}

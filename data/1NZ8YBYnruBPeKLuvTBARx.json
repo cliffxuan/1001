@@ -1,0 +1,375 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1NZ8YBYnruBPeKLuvTBARx"
+  }, 
+  "release_date": "1988", 
+  "popularity": 39, 
+  "genres": [], 
+  "uri": "spotify:album:1NZ8YBYnruBPeKLuvTBARx", 
+  "tracks": {
+    "items": [
+      {
+        "name": "I Got You", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/10X5I5ghDvNXfzsUXoLn8N"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1e77637e41e431b9025e976bc03b63b980bd14e0", 
+        "is_playable": true, 
+        "uri": "spotify:track:10X5I5ghDvNXfzsUXoLn8N", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/10X5I5ghDvNXfzsUXoLn8N", 
+        "artists": [
+          {
+            "name": "Dwight Yoakam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+            }, 
+            "uri": "spotify:artist:2sxmKe3CUrWnx7eoXMhOlW", 
+            "href": "https://api.spotify.com/v1/artists/2sxmKe3CUrWnx7eoXMhOlW", 
+            "type": "artist", 
+            "id": "2sxmKe3CUrWnx7eoXMhOlW"
+          }
+        ], 
+        "duration_ms": 208373, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "10X5I5ghDvNXfzsUXoLn8N"
+      }, 
+      {
+        "name": "One More Name", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4aQQsGAsQpC1RB0TJLOlGd"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7d73c3b5150bb3d5937d6b6e29e1308fba814c1d", 
+        "is_playable": true, 
+        "uri": "spotify:track:4aQQsGAsQpC1RB0TJLOlGd", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4aQQsGAsQpC1RB0TJLOlGd", 
+        "artists": [
+          {
+            "name": "Dwight Yoakam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+            }, 
+            "uri": "spotify:artist:2sxmKe3CUrWnx7eoXMhOlW", 
+            "href": "https://api.spotify.com/v1/artists/2sxmKe3CUrWnx7eoXMhOlW", 
+            "type": "artist", 
+            "id": "2sxmKe3CUrWnx7eoXMhOlW"
+          }
+        ], 
+        "duration_ms": 186173, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "4aQQsGAsQpC1RB0TJLOlGd"
+      }, 
+      {
+        "name": "What I Don't Know", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0l1it2Mk8pVG6OjTVkNn87"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0c7c482ccaf61d3b6668ee2828ddac38f5ff55b2", 
+        "is_playable": true, 
+        "uri": "spotify:track:0l1it2Mk8pVG6OjTVkNn87", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0l1it2Mk8pVG6OjTVkNn87", 
+        "artists": [
+          {
+            "name": "Dwight Yoakam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+            }, 
+            "uri": "spotify:artist:2sxmKe3CUrWnx7eoXMhOlW", 
+            "href": "https://api.spotify.com/v1/artists/2sxmKe3CUrWnx7eoXMhOlW", 
+            "type": "artist", 
+            "id": "2sxmKe3CUrWnx7eoXMhOlW"
+          }
+        ], 
+        "duration_ms": 226733, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "0l1it2Mk8pVG6OjTVkNn87"
+      }, 
+      {
+        "name": "Home Of The Blues", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2zNeNjbLaY1YSI3e5dKSbV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/37371470b65df9a2770732fa2a7f79c480878364", 
+        "is_playable": true, 
+        "uri": "spotify:track:2zNeNjbLaY1YSI3e5dKSbV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2zNeNjbLaY1YSI3e5dKSbV", 
+        "artists": [
+          {
+            "name": "Dwight Yoakam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+            }, 
+            "uri": "spotify:artist:2sxmKe3CUrWnx7eoXMhOlW", 
+            "href": "https://api.spotify.com/v1/artists/2sxmKe3CUrWnx7eoXMhOlW", 
+            "type": "artist", 
+            "id": "2sxmKe3CUrWnx7eoXMhOlW"
+          }
+        ], 
+        "duration_ms": 172440, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "2zNeNjbLaY1YSI3e5dKSbV"
+      }, 
+      {
+        "name": "Buenas Noches Form A Lonely Room [She Wore Red Dresses]", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7yN4UMlSrfDgf1iRiRaUpL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f79c104708f9adcf8b18e4c3b3168593c8e285d4", 
+        "is_playable": true, 
+        "uri": "spotify:track:7yN4UMlSrfDgf1iRiRaUpL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7yN4UMlSrfDgf1iRiRaUpL", 
+        "artists": [
+          {
+            "name": "Dwight Yoakam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+            }, 
+            "uri": "spotify:artist:2sxmKe3CUrWnx7eoXMhOlW", 
+            "href": "https://api.spotify.com/v1/artists/2sxmKe3CUrWnx7eoXMhOlW", 
+            "type": "artist", 
+            "id": "2sxmKe3CUrWnx7eoXMhOlW"
+          }
+        ], 
+        "duration_ms": 271706, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "7yN4UMlSrfDgf1iRiRaUpL"
+      }, 
+      {
+        "name": "I Hear You Knockin'", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2f93R2FxruiZkFyvj1TE3q"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3dd916ba25abe8eb34df8aa8b238fe643c85054e", 
+        "is_playable": true, 
+        "uri": "spotify:track:2f93R2FxruiZkFyvj1TE3q", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2f93R2FxruiZkFyvj1TE3q", 
+        "artists": [
+          {
+            "name": "Dwight Yoakam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+            }, 
+            "uri": "spotify:artist:2sxmKe3CUrWnx7eoXMhOlW", 
+            "href": "https://api.spotify.com/v1/artists/2sxmKe3CUrWnx7eoXMhOlW", 
+            "type": "artist", 
+            "id": "2sxmKe3CUrWnx7eoXMhOlW"
+          }
+        ], 
+        "duration_ms": 193240, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "2f93R2FxruiZkFyvj1TE3q"
+      }, 
+      {
+        "name": "I Sang Dixie", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0ojNULEKi0EKP4RMEtpKtH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/55e7a2541c0eaf0d998de21b41d4d8a1fb04c30a", 
+        "is_playable": true, 
+        "uri": "spotify:track:0ojNULEKi0EKP4RMEtpKtH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0ojNULEKi0EKP4RMEtpKtH", 
+        "artists": [
+          {
+            "name": "Dwight Yoakam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+            }, 
+            "uri": "spotify:artist:2sxmKe3CUrWnx7eoXMhOlW", 
+            "href": "https://api.spotify.com/v1/artists/2sxmKe3CUrWnx7eoXMhOlW", 
+            "type": "artist", 
+            "id": "2sxmKe3CUrWnx7eoXMhOlW"
+          }
+        ], 
+        "duration_ms": 227546, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "0ojNULEKi0EKP4RMEtpKtH"
+      }, 
+      {
+        "name": "Streets Of Bakersfield", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5B7f2auRhwkl5OjC2bQ58f"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7570856464f96e82e3a28027174a557b2d446dfb", 
+        "is_playable": true, 
+        "uri": "spotify:track:5B7f2auRhwkl5OjC2bQ58f", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5B7f2auRhwkl5OjC2bQ58f", 
+        "artists": [
+          {
+            "name": "Dwight Yoakam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+            }, 
+            "uri": "spotify:artist:2sxmKe3CUrWnx7eoXMhOlW", 
+            "href": "https://api.spotify.com/v1/artists/2sxmKe3CUrWnx7eoXMhOlW", 
+            "type": "artist", 
+            "id": "2sxmKe3CUrWnx7eoXMhOlW"
+          }
+        ], 
+        "duration_ms": 168213, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "5B7f2auRhwkl5OjC2bQ58f"
+      }, 
+      {
+        "name": "Floyd County", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0WJfB6Z7cV4eUTp3Lcv68c"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/602a5205fab453efb72c9f35deb0977e4b420fa9", 
+        "is_playable": true, 
+        "uri": "spotify:track:0WJfB6Z7cV4eUTp3Lcv68c", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0WJfB6Z7cV4eUTp3Lcv68c", 
+        "artists": [
+          {
+            "name": "Dwight Yoakam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+            }, 
+            "uri": "spotify:artist:2sxmKe3CUrWnx7eoXMhOlW", 
+            "href": "https://api.spotify.com/v1/artists/2sxmKe3CUrWnx7eoXMhOlW", 
+            "type": "artist", 
+            "id": "2sxmKe3CUrWnx7eoXMhOlW"
+          }
+        ], 
+        "duration_ms": 175733, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "0WJfB6Z7cV4eUTp3Lcv68c"
+      }, 
+      {
+        "name": "Send Me The Pillow", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7EFCt4OOpADAVkpd3gPiiH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1563d0628849b827e8e762148cb7d4a063660852", 
+        "is_playable": true, 
+        "uri": "spotify:track:7EFCt4OOpADAVkpd3gPiiH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7EFCt4OOpADAVkpd3gPiiH", 
+        "artists": [
+          {
+            "name": "Dwight Yoakam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+            }, 
+            "uri": "spotify:artist:2sxmKe3CUrWnx7eoXMhOlW", 
+            "href": "https://api.spotify.com/v1/artists/2sxmKe3CUrWnx7eoXMhOlW", 
+            "type": "artist", 
+            "id": "2sxmKe3CUrWnx7eoXMhOlW"
+          }
+        ], 
+        "duration_ms": 180506, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "7EFCt4OOpADAVkpd3gPiiH"
+      }, 
+      {
+        "name": "Hold On To God", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1BMVFotM8zz3mlzOJygdxC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/26f482678711cc5db90ac35c94fe3f127932a11a", 
+        "is_playable": true, 
+        "uri": "spotify:track:1BMVFotM8zz3mlzOJygdxC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1BMVFotM8zz3mlzOJygdxC", 
+        "artists": [
+          {
+            "name": "Dwight Yoakam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+            }, 
+            "uri": "spotify:artist:2sxmKe3CUrWnx7eoXMhOlW", 
+            "href": "https://api.spotify.com/v1/artists/2sxmKe3CUrWnx7eoXMhOlW", 
+            "type": "artist", 
+            "id": "2sxmKe3CUrWnx7eoXMhOlW"
+          }
+        ], 
+        "duration_ms": 194666, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "1BMVFotM8zz3mlzOJygdxC"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/1NZ8YBYnruBPeKLuvTBARx/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 11, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/1NZ8YBYnruBPeKLuvTBARx", 
+  "copyrights": [
+    {
+      "text": "1988 Reprise Records.", 
+      "type": "C"
+    }, 
+    {
+      "text": "1988 Reprise Records, a label of Warner Bros. Records. Marketed by Rhino Entertainment Company, a Warner Music Group Company.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Dwight Yoakam", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+      }, 
+      "uri": "spotify:artist:2sxmKe3CUrWnx7eoXMhOlW", 
+      "href": "https://api.spotify.com/v1/artists/2sxmKe3CUrWnx7eoXMhOlW", 
+      "type": "artist", 
+      "id": "2sxmKe3CUrWnx7eoXMhOlW"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/5263e2013669dc6e1e5e2deb6b054013b8000865", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/758f9ae8cbb7a88120f93bdf4fd05cbd1cc85ab3", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/279dd0e13aae09fcdfbc8ab428fd7adbb4d8a671", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "603497961023"
+  }, 
+  "type": "album", 
+  "id": "1NZ8YBYnruBPeKLuvTBARx", 
+  "name": "Buenas Noches From A Lonely Room"
+}

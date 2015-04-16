@@ -1,0 +1,399 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6muSL4nbb1NJFK2zLgmJWo"
+  }, 
+  "release_date": "1996-05-15", 
+  "popularity": 36, 
+  "genres": [], 
+  "uri": "spotify:album:6muSL4nbb1NJFK2zLgmJWo", 
+  "tracks": {
+    "items": [
+      {
+        "name": "God! Show Me Magic", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6OdOepK8ZtvP17h0ESoAaZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b6e9f52d34a404c1aec3c0766dfad1edcb0b198d", 
+        "is_playable": true, 
+        "uri": "spotify:track:6OdOepK8ZtvP17h0ESoAaZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6OdOepK8ZtvP17h0ESoAaZ", 
+        "artists": [
+          {
+            "name": "Super Furry Animals", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0FOcXqJgJ1oq9XfzYTDZmZ"
+            }, 
+            "uri": "spotify:artist:0FOcXqJgJ1oq9XfzYTDZmZ", 
+            "href": "https://api.spotify.com/v1/artists/0FOcXqJgJ1oq9XfzYTDZmZ", 
+            "type": "artist", 
+            "id": "0FOcXqJgJ1oq9XfzYTDZmZ"
+          }
+        ], 
+        "duration_ms": 109273, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "6OdOepK8ZtvP17h0ESoAaZ"
+      }, 
+      {
+        "name": "Fuzzy Birds", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6hK0ln2TayCrTbul9f3Kve"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bc5d0b82c638d2e73de74749cc7c5ccfe1e4aa25", 
+        "is_playable": true, 
+        "uri": "spotify:track:6hK0ln2TayCrTbul9f3Kve", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6hK0ln2TayCrTbul9f3Kve", 
+        "artists": [
+          {
+            "name": "Super Furry Animals", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0FOcXqJgJ1oq9XfzYTDZmZ"
+            }, 
+            "uri": "spotify:artist:0FOcXqJgJ1oq9XfzYTDZmZ", 
+            "href": "https://api.spotify.com/v1/artists/0FOcXqJgJ1oq9XfzYTDZmZ", 
+            "type": "artist", 
+            "id": "0FOcXqJgJ1oq9XfzYTDZmZ"
+          }
+        ], 
+        "duration_ms": 147678, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "6hK0ln2TayCrTbul9f3Kve"
+      }, 
+      {
+        "name": "Something 4 The Weekend", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5rvy7glNYmhpiLUaiEELn2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d4a0db668c55a13036bce156cc1198a85a0a71f3", 
+        "is_playable": true, 
+        "uri": "spotify:track:5rvy7glNYmhpiLUaiEELn2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5rvy7glNYmhpiLUaiEELn2", 
+        "artists": [
+          {
+            "name": "Super Furry Animals", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0FOcXqJgJ1oq9XfzYTDZmZ"
+            }, 
+            "uri": "spotify:artist:0FOcXqJgJ1oq9XfzYTDZmZ", 
+            "href": "https://api.spotify.com/v1/artists/0FOcXqJgJ1oq9XfzYTDZmZ", 
+            "type": "artist", 
+            "id": "0FOcXqJgJ1oq9XfzYTDZmZ"
+          }
+        ], 
+        "duration_ms": 169644, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "5rvy7glNYmhpiLUaiEELn2"
+      }, 
+      {
+        "name": "Frisbee", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Mx92rsHKa9tIW9znVy82j"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9c16af0d9491242f8d0728a67047abc7be01f554", 
+        "is_playable": true, 
+        "uri": "spotify:track:0Mx92rsHKa9tIW9znVy82j", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0Mx92rsHKa9tIW9znVy82j", 
+        "artists": [
+          {
+            "name": "Super Furry Animals", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0FOcXqJgJ1oq9XfzYTDZmZ"
+            }, 
+            "uri": "spotify:artist:0FOcXqJgJ1oq9XfzYTDZmZ", 
+            "href": "https://api.spotify.com/v1/artists/0FOcXqJgJ1oq9XfzYTDZmZ", 
+            "type": "artist", 
+            "id": "0FOcXqJgJ1oq9XfzYTDZmZ"
+          }
+        ], 
+        "duration_ms": 139969, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "0Mx92rsHKa9tIW9znVy82j"
+      }, 
+      {
+        "name": "Hometown Unicorn", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2RVMza1inWpBattKPfrzeK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/43d10aaa31c376d6d5e86da3a78564b04d545261", 
+        "is_playable": true, 
+        "uri": "spotify:track:2RVMza1inWpBattKPfrzeK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2RVMza1inWpBattKPfrzeK", 
+        "artists": [
+          {
+            "name": "Super Furry Animals", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0FOcXqJgJ1oq9XfzYTDZmZ"
+            }, 
+            "uri": "spotify:artist:0FOcXqJgJ1oq9XfzYTDZmZ", 
+            "href": "https://api.spotify.com/v1/artists/0FOcXqJgJ1oq9XfzYTDZmZ", 
+            "type": "artist", 
+            "id": "0FOcXqJgJ1oq9XfzYTDZmZ"
+          }
+        ], 
+        "duration_ms": 213205, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "2RVMza1inWpBattKPfrzeK"
+      }, 
+      {
+        "name": "Gathering Moss", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6RGiDMLN1saicFmlyIJalk"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/278215055b6443301fa3aff125c77649454b4cba", 
+        "is_playable": true, 
+        "uri": "spotify:track:6RGiDMLN1saicFmlyIJalk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6RGiDMLN1saicFmlyIJalk", 
+        "artists": [
+          {
+            "name": "Super Furry Animals", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0FOcXqJgJ1oq9XfzYTDZmZ"
+            }, 
+            "uri": "spotify:artist:0FOcXqJgJ1oq9XfzYTDZmZ", 
+            "href": "https://api.spotify.com/v1/artists/0FOcXqJgJ1oq9XfzYTDZmZ", 
+            "type": "artist", 
+            "id": "0FOcXqJgJ1oq9XfzYTDZmZ"
+          }
+        ], 
+        "duration_ms": 202106, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "6RGiDMLN1saicFmlyIJalk"
+      }, 
+      {
+        "name": "If You Don't Want Me To Destroy You", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6FfuA5TqTqFyTz8ogqYZPZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f5bba1512237dff7cd5f99a9d46ffc52606aed5e", 
+        "is_playable": true, 
+        "uri": "spotify:track:6FfuA5TqTqFyTz8ogqYZPZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6FfuA5TqTqFyTz8ogqYZPZ", 
+        "artists": [
+          {
+            "name": "Super Furry Animals", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0FOcXqJgJ1oq9XfzYTDZmZ"
+            }, 
+            "uri": "spotify:artist:0FOcXqJgJ1oq9XfzYTDZmZ", 
+            "href": "https://api.spotify.com/v1/artists/0FOcXqJgJ1oq9XfzYTDZmZ", 
+            "type": "artist", 
+            "id": "0FOcXqJgJ1oq9XfzYTDZmZ"
+          }
+        ], 
+        "duration_ms": 196162, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "6FfuA5TqTqFyTz8ogqYZPZ"
+      }, 
+      {
+        "name": "Bad Behaviour", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1DKRgW50APtugWCU9oekwT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/baeef645025da6d7d8dedbec06dd21b6611bfb2d", 
+        "is_playable": true, 
+        "uri": "spotify:track:1DKRgW50APtugWCU9oekwT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1DKRgW50APtugWCU9oekwT", 
+        "artists": [
+          {
+            "name": "Super Furry Animals", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0FOcXqJgJ1oq9XfzYTDZmZ"
+            }, 
+            "uri": "spotify:artist:0FOcXqJgJ1oq9XfzYTDZmZ", 
+            "href": "https://api.spotify.com/v1/artists/0FOcXqJgJ1oq9XfzYTDZmZ", 
+            "type": "artist", 
+            "id": "0FOcXqJgJ1oq9XfzYTDZmZ"
+          }
+        ], 
+        "duration_ms": 265868, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "1DKRgW50APtugWCU9oekwT"
+      }, 
+      {
+        "name": "Mario Man", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7LyAqs8eHNGLCf7qnvtgtb"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/32c8046e3f271987247f0405ae1fc9e58caf5430", 
+        "is_playable": true, 
+        "uri": "spotify:track:7LyAqs8eHNGLCf7qnvtgtb", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7LyAqs8eHNGLCf7qnvtgtb", 
+        "artists": [
+          {
+            "name": "Super Furry Animals", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0FOcXqJgJ1oq9XfzYTDZmZ"
+            }, 
+            "uri": "spotify:artist:0FOcXqJgJ1oq9XfzYTDZmZ", 
+            "href": "https://api.spotify.com/v1/artists/0FOcXqJgJ1oq9XfzYTDZmZ", 
+            "type": "artist", 
+            "id": "0FOcXqJgJ1oq9XfzYTDZmZ"
+          }
+        ], 
+        "duration_ms": 247199, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "7LyAqs8eHNGLCf7qnvtgtb"
+      }, 
+      {
+        "name": "Hangin' With Howard Marks", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Bowpv8qepw7ERRuGaibU2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f8e2166d379dc75c735df4eabb6ef90eef2236e9", 
+        "is_playable": true, 
+        "uri": "spotify:track:0Bowpv8qepw7ERRuGaibU2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0Bowpv8qepw7ERRuGaibU2", 
+        "artists": [
+          {
+            "name": "Super Furry Animals", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0FOcXqJgJ1oq9XfzYTDZmZ"
+            }, 
+            "uri": "spotify:artist:0FOcXqJgJ1oq9XfzYTDZmZ", 
+            "href": "https://api.spotify.com/v1/artists/0FOcXqJgJ1oq9XfzYTDZmZ", 
+            "type": "artist", 
+            "id": "0FOcXqJgJ1oq9XfzYTDZmZ"
+          }
+        ], 
+        "duration_ms": 259784, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "0Bowpv8qepw7ERRuGaibU2"
+      }, 
+      {
+        "name": "Long Gone", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1rh7WxAbc7FK8gWgbFtOsP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7327c3f431265ca59d2cb24362ad7060a0242f92", 
+        "is_playable": true, 
+        "uri": "spotify:track:1rh7WxAbc7FK8gWgbFtOsP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1rh7WxAbc7FK8gWgbFtOsP", 
+        "artists": [
+          {
+            "name": "Super Furry Animals", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0FOcXqJgJ1oq9XfzYTDZmZ"
+            }, 
+            "uri": "spotify:artist:0FOcXqJgJ1oq9XfzYTDZmZ", 
+            "href": "https://api.spotify.com/v1/artists/0FOcXqJgJ1oq9XfzYTDZmZ", 
+            "type": "artist", 
+            "id": "0FOcXqJgJ1oq9XfzYTDZmZ"
+          }
+        ], 
+        "duration_ms": 319924, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "1rh7WxAbc7FK8gWgbFtOsP"
+      }, 
+      {
+        "name": "For Now And Ever", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4uTJVF15h4vWCMdF9vNuxi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/93e88f120c0353e739f57ccd09fa3adab1a9cf83", 
+        "is_playable": true, 
+        "uri": "spotify:track:4uTJVF15h4vWCMdF9vNuxi", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4uTJVF15h4vWCMdF9vNuxi", 
+        "artists": [
+          {
+            "name": "Super Furry Animals", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0FOcXqJgJ1oq9XfzYTDZmZ"
+            }, 
+            "uri": "spotify:artist:0FOcXqJgJ1oq9XfzYTDZmZ", 
+            "href": "https://api.spotify.com/v1/artists/0FOcXqJgJ1oq9XfzYTDZmZ", 
+            "type": "artist", 
+            "id": "0FOcXqJgJ1oq9XfzYTDZmZ"
+          }
+        ], 
+        "duration_ms": 212462, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "4uTJVF15h4vWCMdF9vNuxi"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/6muSL4nbb1NJFK2zLgmJWo/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 12, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/6muSL4nbb1NJFK2zLgmJWo", 
+  "copyrights": [
+    {
+      "text": "(P) 1996 Creation Records Limited", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Super Furry Animals", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0FOcXqJgJ1oq9XfzYTDZmZ"
+      }, 
+      "uri": "spotify:artist:0FOcXqJgJ1oq9XfzYTDZmZ", 
+      "href": "https://api.spotify.com/v1/artists/0FOcXqJgJ1oq9XfzYTDZmZ", 
+      "type": "artist", 
+      "id": "0FOcXqJgJ1oq9XfzYTDZmZ"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/3002bb3aec4388a95e15cbd08f013257e0b0e0f5", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/8ff17aca50147da42871852c3616c0cbc18676ad", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/b734ccd3b7c253dfc2f05a90d0784bc37cc57f56", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "5099748399724"
+  }, 
+  "type": "album", 
+  "id": "6muSL4nbb1NJFK2zLgmJWo", 
+  "name": "Fuzzy Logic"
+}

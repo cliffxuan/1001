@@ -1,0 +1,375 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5aQE05ji4wayN65QCZkl0U"
+  }, 
+  "release_date": "1967", 
+  "popularity": 42, 
+  "genres": [], 
+  "uri": "spotify:album:5aQE05ji4wayN65QCZkl0U", 
+  "tracks": {
+    "items": [
+      {
+        "name": "A Girl Like You", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/79d9LM5k2QfpkWYKVRe1fR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5b7f457adbd9394732beed26d6b1366bd08c5955", 
+        "is_playable": true, 
+        "uri": "spotify:track:79d9LM5k2QfpkWYKVRe1fR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/79d9LM5k2QfpkWYKVRe1fR", 
+        "artists": [
+          {
+            "name": "The Young Rascals", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5X3TuTi9OIsJXMGxPwTKM2"
+            }, 
+            "uri": "spotify:artist:5X3TuTi9OIsJXMGxPwTKM2", 
+            "href": "https://api.spotify.com/v1/artists/5X3TuTi9OIsJXMGxPwTKM2", 
+            "type": "artist", 
+            "id": "5X3TuTi9OIsJXMGxPwTKM2"
+          }
+        ], 
+        "duration_ms": 170313, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "79d9LM5k2QfpkWYKVRe1fR"
+      }, 
+      {
+        "name": "Find Somebody", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/49mcO8O2QIuTLUtmxdIrnG"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/407a104c400e1651f3f2eb6489e7a8886c618f37", 
+        "is_playable": true, 
+        "uri": "spotify:track:49mcO8O2QIuTLUtmxdIrnG", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/49mcO8O2QIuTLUtmxdIrnG", 
+        "artists": [
+          {
+            "name": "The Young Rascals", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5X3TuTi9OIsJXMGxPwTKM2"
+            }, 
+            "uri": "spotify:artist:5X3TuTi9OIsJXMGxPwTKM2", 
+            "href": "https://api.spotify.com/v1/artists/5X3TuTi9OIsJXMGxPwTKM2", 
+            "type": "artist", 
+            "id": "5X3TuTi9OIsJXMGxPwTKM2"
+          }
+        ], 
+        "duration_ms": 224050, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "49mcO8O2QIuTLUtmxdIrnG"
+      }, 
+      {
+        "name": "I'm So Happy Now - Single Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6pF3JwlTkx3G1Za2iGOm8i"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4d29fc70ee3a7a1c49fd57a50d5faa535d071658", 
+        "is_playable": true, 
+        "uri": "spotify:track:6pF3JwlTkx3G1Za2iGOm8i", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6pF3JwlTkx3G1Za2iGOm8i", 
+        "artists": [
+          {
+            "name": "The Young Rascals", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5X3TuTi9OIsJXMGxPwTKM2"
+            }, 
+            "uri": "spotify:artist:5X3TuTi9OIsJXMGxPwTKM2", 
+            "href": "https://api.spotify.com/v1/artists/5X3TuTi9OIsJXMGxPwTKM2", 
+            "type": "artist", 
+            "id": "5X3TuTi9OIsJXMGxPwTKM2"
+          }
+        ], 
+        "duration_ms": 171289, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "6pF3JwlTkx3G1Za2iGOm8i"
+      }, 
+      {
+        "name": "Sueno", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Dc674kWJso1MAxrP2Vu3j"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0155d99d6af22f46d4f5f192c065e8e72494d504", 
+        "is_playable": true, 
+        "uri": "spotify:track:6Dc674kWJso1MAxrP2Vu3j", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6Dc674kWJso1MAxrP2Vu3j", 
+        "artists": [
+          {
+            "name": "The Young Rascals", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5X3TuTi9OIsJXMGxPwTKM2"
+            }, 
+            "uri": "spotify:artist:5X3TuTi9OIsJXMGxPwTKM2", 
+            "href": "https://api.spotify.com/v1/artists/5X3TuTi9OIsJXMGxPwTKM2", 
+            "type": "artist", 
+            "id": "5X3TuTi9OIsJXMGxPwTKM2"
+          }
+        ], 
+        "duration_ms": 168955, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "6Dc674kWJso1MAxrP2Vu3j"
+      }, 
+      {
+        "name": "How Can I Be Sure - Single Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4NnhLA66RRLXxKbiiscU9R"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/54dc4c5539d40d569f8123fc77a98eb56d4d2fc7", 
+        "is_playable": true, 
+        "uri": "spotify:track:4NnhLA66RRLXxKbiiscU9R", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4NnhLA66RRLXxKbiiscU9R", 
+        "artists": [
+          {
+            "name": "The Young Rascals", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5X3TuTi9OIsJXMGxPwTKM2"
+            }, 
+            "uri": "spotify:artist:5X3TuTi9OIsJXMGxPwTKM2", 
+            "href": "https://api.spotify.com/v1/artists/5X3TuTi9OIsJXMGxPwTKM2", 
+            "type": "artist", 
+            "id": "5X3TuTi9OIsJXMGxPwTKM2"
+          }
+        ], 
+        "duration_ms": 175075, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "4NnhLA66RRLXxKbiiscU9R"
+      }, 
+      {
+        "name": "Groovin' - Single Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3c2kMiSB86tVq1J4oULmvL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a599dceac5446eda181697a879eb46689cb12d78", 
+        "is_playable": true, 
+        "uri": "spotify:track:3c2kMiSB86tVq1J4oULmvL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3c2kMiSB86tVq1J4oULmvL", 
+        "artists": [
+          {
+            "name": "The Young Rascals", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5X3TuTi9OIsJXMGxPwTKM2"
+            }, 
+            "uri": "spotify:artist:5X3TuTi9OIsJXMGxPwTKM2", 
+            "href": "https://api.spotify.com/v1/artists/5X3TuTi9OIsJXMGxPwTKM2", 
+            "type": "artist", 
+            "id": "5X3TuTi9OIsJXMGxPwTKM2"
+          }
+        ], 
+        "duration_ms": 151289, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "3c2kMiSB86tVq1J4oULmvL"
+      }, 
+      {
+        "name": "If You Knew", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1eiSXNI619kI66AYF9r31T"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/dfe9d137bfdb625f935c4d833139d6906f418f4d", 
+        "is_playable": true, 
+        "uri": "spotify:track:1eiSXNI619kI66AYF9r31T", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1eiSXNI619kI66AYF9r31T", 
+        "artists": [
+          {
+            "name": "The Young Rascals", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5X3TuTi9OIsJXMGxPwTKM2"
+            }, 
+            "uri": "spotify:artist:5X3TuTi9OIsJXMGxPwTKM2", 
+            "href": "https://api.spotify.com/v1/artists/5X3TuTi9OIsJXMGxPwTKM2", 
+            "type": "artist", 
+            "id": "5X3TuTi9OIsJXMGxPwTKM2"
+          }
+        ], 
+        "duration_ms": 187969, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "1eiSXNI619kI66AYF9r31T"
+      }, 
+      {
+        "name": "I Don't Love You Anymore", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5j7S2GUxHu8KUMd23oaQb8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/394b35f51142a0e4bfd4de9528cd9717cb9116ea", 
+        "is_playable": true, 
+        "uri": "spotify:track:5j7S2GUxHu8KUMd23oaQb8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5j7S2GUxHu8KUMd23oaQb8", 
+        "artists": [
+          {
+            "name": "The Young Rascals", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5X3TuTi9OIsJXMGxPwTKM2"
+            }, 
+            "uri": "spotify:artist:5X3TuTi9OIsJXMGxPwTKM2", 
+            "href": "https://api.spotify.com/v1/artists/5X3TuTi9OIsJXMGxPwTKM2", 
+            "type": "artist", 
+            "id": "5X3TuTi9OIsJXMGxPwTKM2"
+          }
+        ], 
+        "duration_ms": 189569, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "5j7S2GUxHu8KUMd23oaQb8"
+      }, 
+      {
+        "name": "You Better Run - Single Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6zqsyB7uIvWrL1iCJzpNrs"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3bb43202c68330a8dbba3f3b582c9c12e6ff61a2", 
+        "is_playable": true, 
+        "uri": "spotify:track:6zqsyB7uIvWrL1iCJzpNrs", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6zqsyB7uIvWrL1iCJzpNrs", 
+        "artists": [
+          {
+            "name": "The Young Rascals", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5X3TuTi9OIsJXMGxPwTKM2"
+            }, 
+            "uri": "spotify:artist:5X3TuTi9OIsJXMGxPwTKM2", 
+            "href": "https://api.spotify.com/v1/artists/5X3TuTi9OIsJXMGxPwTKM2", 
+            "type": "artist", 
+            "id": "5X3TuTi9OIsJXMGxPwTKM2"
+          }
+        ], 
+        "duration_ms": 149702, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "6zqsyB7uIvWrL1iCJzpNrs"
+      }, 
+      {
+        "name": "A Place In The Sun", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5ELbNa03WuL59tdxZWEhUi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1557e9c2cb4537debc0750b9d769e8e9b49d126a", 
+        "is_playable": true, 
+        "uri": "spotify:track:5ELbNa03WuL59tdxZWEhUi", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5ELbNa03WuL59tdxZWEhUi", 
+        "artists": [
+          {
+            "name": "The Young Rascals", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5X3TuTi9OIsJXMGxPwTKM2"
+            }, 
+            "uri": "spotify:artist:5X3TuTi9OIsJXMGxPwTKM2", 
+            "href": "https://api.spotify.com/v1/artists/5X3TuTi9OIsJXMGxPwTKM2", 
+            "type": "artist", 
+            "id": "5X3TuTi9OIsJXMGxPwTKM2"
+          }
+        ], 
+        "duration_ms": 293089, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "5ELbNa03WuL59tdxZWEhUi"
+      }, 
+      {
+        "name": "It's Love", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0r0qoBgedy5QBBwGnokJCT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/308466f415ae45e83065726797779e9c96ce5280", 
+        "is_playable": true, 
+        "uri": "spotify:track:0r0qoBgedy5QBBwGnokJCT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0r0qoBgedy5QBBwGnokJCT", 
+        "artists": [
+          {
+            "name": "The Young Rascals", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5X3TuTi9OIsJXMGxPwTKM2"
+            }, 
+            "uri": "spotify:artist:5X3TuTi9OIsJXMGxPwTKM2", 
+            "href": "https://api.spotify.com/v1/artists/5X3TuTi9OIsJXMGxPwTKM2", 
+            "type": "artist", 
+            "id": "5X3TuTi9OIsJXMGxPwTKM2"
+          }
+        ], 
+        "duration_ms": 193505, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "0r0qoBgedy5QBBwGnokJCT"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/5aQE05ji4wayN65QCZkl0U/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 11, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/5aQE05ji4wayN65QCZkl0U", 
+  "copyrights": [
+    {
+      "text": "1967 Atlantic Records", 
+      "type": "C"
+    }, 
+    {
+      "text": "1967 Atlantic Records. Marketed by Rhino Entertainment Company, a Warner Music Group Company.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "The Young Rascals", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5X3TuTi9OIsJXMGxPwTKM2"
+      }, 
+      "uri": "spotify:artist:5X3TuTi9OIsJXMGxPwTKM2", 
+      "href": "https://api.spotify.com/v1/artists/5X3TuTi9OIsJXMGxPwTKM2", 
+      "type": "artist", 
+      "id": "5X3TuTi9OIsJXMGxPwTKM2"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/c8b5cad97a656518d0585bf6c1caafe84bc379a8", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/31ce8c710dff92209444df27e879e7644e58b69a", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/15adcbdbacc8956a0bf4d80d60da48e08fee4750", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "603497898619"
+  }, 
+  "type": "album", 
+  "id": "5aQE05ji4wayN65QCZkl0U", 
+  "name": "Groovin'"
+}

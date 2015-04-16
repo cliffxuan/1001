@@ -1,0 +1,823 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0sbAKeTchIsRqECNFjPHSf"
+  }, 
+  "release_date": "1980", 
+  "popularity": 61, 
+  "genres": [], 
+  "uri": "spotify:album:0sbAKeTchIsRqECNFjPHSf", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Ace of Spades", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3AVZaAbDvR6rs2NN4n0aAF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/348c83c8d6f804ac51a982d92b7a968d93dbeed1", 
+        "is_playable": true, 
+        "uri": "spotify:track:3AVZaAbDvR6rs2NN4n0aAF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3AVZaAbDvR6rs2NN4n0aAF", 
+        "artists": [
+          {
+            "name": "Mot\u00f6rhead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+            }, 
+            "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M", 
+            "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M", 
+            "type": "artist", 
+            "id": "1DFr97A9HnbV3SKTJFu62M"
+          }
+        ], 
+        "duration_ms": 166706, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "3AVZaAbDvR6rs2NN4n0aAF"
+      }, 
+      {
+        "name": "Love Me Like a Reptile", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6eqIDItQUtPavS99wn0fFj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8d0e912a3695c5d9f24d6899f3f55b213c9ab2dc", 
+        "is_playable": true, 
+        "uri": "spotify:track:6eqIDItQUtPavS99wn0fFj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6eqIDItQUtPavS99wn0fFj", 
+        "artists": [
+          {
+            "name": "Mot\u00f6rhead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+            }, 
+            "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M", 
+            "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M", 
+            "type": "artist", 
+            "id": "1DFr97A9HnbV3SKTJFu62M"
+          }
+        ], 
+        "duration_ms": 200080, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "6eqIDItQUtPavS99wn0fFj"
+      }, 
+      {
+        "name": "Shoot You In the Back", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/754t8uOlMG8WfPTvs98erc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2fd5eff161144548d2065a44f7e0aa6000d88bb9", 
+        "is_playable": true, 
+        "uri": "spotify:track:754t8uOlMG8WfPTvs98erc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/754t8uOlMG8WfPTvs98erc", 
+        "artists": [
+          {
+            "name": "Mot\u00f6rhead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+            }, 
+            "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M", 
+            "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M", 
+            "type": "artist", 
+            "id": "1DFr97A9HnbV3SKTJFu62M"
+          }
+        ], 
+        "duration_ms": 157146, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "754t8uOlMG8WfPTvs98erc"
+      }, 
+      {
+        "name": "Live to Win", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3LcCgKQ02l8PMVflJ7TATW"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8496fe98451035a92397ea0c2f7ffcc7d7829d6e", 
+        "is_playable": true, 
+        "uri": "spotify:track:3LcCgKQ02l8PMVflJ7TATW", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3LcCgKQ02l8PMVflJ7TATW", 
+        "artists": [
+          {
+            "name": "Mot\u00f6rhead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+            }, 
+            "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M", 
+            "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M", 
+            "type": "artist", 
+            "id": "1DFr97A9HnbV3SKTJFu62M"
+          }
+        ], 
+        "duration_ms": 214453, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "3LcCgKQ02l8PMVflJ7TATW"
+      }, 
+      {
+        "name": "Fast and Loose", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6sS1v48gHBSWbxlsvTFUvz"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8dacb3b34a86b355cf7ee79071c7b473cacc7d9d", 
+        "is_playable": true, 
+        "uri": "spotify:track:6sS1v48gHBSWbxlsvTFUvz", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6sS1v48gHBSWbxlsvTFUvz", 
+        "artists": [
+          {
+            "name": "Mot\u00f6rhead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+            }, 
+            "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M", 
+            "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M", 
+            "type": "artist", 
+            "id": "1DFr97A9HnbV3SKTJFu62M"
+          }
+        ], 
+        "duration_ms": 199640, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "6sS1v48gHBSWbxlsvTFUvz"
+      }, 
+      {
+        "name": "(We Are) The Roadcrew", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/114Wuk9tVKpHQCozsDWw85"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ad7c513b9efbd3eaba9644e43393ebf435d6fce6", 
+        "is_playable": true, 
+        "uri": "spotify:track:114Wuk9tVKpHQCozsDWw85", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/114Wuk9tVKpHQCozsDWw85", 
+        "artists": [
+          {
+            "name": "Mot\u00f6rhead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+            }, 
+            "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M", 
+            "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M", 
+            "type": "artist", 
+            "id": "1DFr97A9HnbV3SKTJFu62M"
+          }
+        ], 
+        "duration_ms": 189466, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "114Wuk9tVKpHQCozsDWw85"
+      }, 
+      {
+        "name": "Fire Fire", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6XFeo3ZKXI5gsIijXO5DiT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c9081130aa61c78023a2e88791d7982943364ccf", 
+        "is_playable": true, 
+        "uri": "spotify:track:6XFeo3ZKXI5gsIijXO5DiT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6XFeo3ZKXI5gsIijXO5DiT", 
+        "artists": [
+          {
+            "name": "Mot\u00f6rhead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+            }, 
+            "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M", 
+            "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M", 
+            "type": "artist", 
+            "id": "1DFr97A9HnbV3SKTJFu62M"
+          }
+        ], 
+        "duration_ms": 161613, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "6XFeo3ZKXI5gsIijXO5DiT"
+      }, 
+      {
+        "name": "Jailbait", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2PdcC23K81TokD7RgRu7xg"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6f0f3393fe3281fa44571c024ffc2bd055db33c8", 
+        "is_playable": true, 
+        "uri": "spotify:track:2PdcC23K81TokD7RgRu7xg", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2PdcC23K81TokD7RgRu7xg", 
+        "artists": [
+          {
+            "name": "Mot\u00f6rhead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+            }, 
+            "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M", 
+            "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M", 
+            "type": "artist", 
+            "id": "1DFr97A9HnbV3SKTJFu62M"
+          }
+        ], 
+        "duration_ms": 210866, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "2PdcC23K81TokD7RgRu7xg"
+      }, 
+      {
+        "name": "Dance", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0W6J4jBFFgfXsVnGxoWxR0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6b3f6592fdaf19166a3db04e9097b7b045c7af15", 
+        "is_playable": true, 
+        "uri": "spotify:track:0W6J4jBFFgfXsVnGxoWxR0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0W6J4jBFFgfXsVnGxoWxR0", 
+        "artists": [
+          {
+            "name": "Mot\u00f6rhead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+            }, 
+            "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M", 
+            "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M", 
+            "type": "artist", 
+            "id": "1DFr97A9HnbV3SKTJFu62M"
+          }
+        ], 
+        "duration_ms": 155040, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "0W6J4jBFFgfXsVnGxoWxR0"
+      }, 
+      {
+        "name": "Bite the Bullet", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Ko1tl2tlrox9q0eOwVnUC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5bec435dc3cc954b0427e2c35cdc99615135a8de", 
+        "is_playable": true, 
+        "uri": "spotify:track:6Ko1tl2tlrox9q0eOwVnUC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6Ko1tl2tlrox9q0eOwVnUC", 
+        "artists": [
+          {
+            "name": "Mot\u00f6rhead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+            }, 
+            "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M", 
+            "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M", 
+            "type": "artist", 
+            "id": "1DFr97A9HnbV3SKTJFu62M"
+          }
+        ], 
+        "duration_ms": 98013, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "6Ko1tl2tlrox9q0eOwVnUC"
+      }, 
+      {
+        "name": "The Chase Is Better Than the Catch", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/72HGFfmTJAn60OOn1LsYe8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cbcf0df22f1d2d84184202e115baf23bac5d8963", 
+        "is_playable": true, 
+        "uri": "spotify:track:72HGFfmTJAn60OOn1LsYe8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/72HGFfmTJAn60OOn1LsYe8", 
+        "artists": [
+          {
+            "name": "Mot\u00f6rhead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+            }, 
+            "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M", 
+            "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M", 
+            "type": "artist", 
+            "id": "1DFr97A9HnbV3SKTJFu62M"
+          }
+        ], 
+        "duration_ms": 255480, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "72HGFfmTJAn60OOn1LsYe8"
+      }, 
+      {
+        "name": "The Hammer", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6nhuOU3UPreQrP1DQWat9M"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c8223c459aba71810326a981b62479ec570db07d", 
+        "is_playable": true, 
+        "uri": "spotify:track:6nhuOU3UPreQrP1DQWat9M", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6nhuOU3UPreQrP1DQWat9M", 
+        "artists": [
+          {
+            "name": "Mot\u00f6rhead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+            }, 
+            "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M", 
+            "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M", 
+            "type": "artist", 
+            "id": "1DFr97A9HnbV3SKTJFu62M"
+          }
+        ], 
+        "duration_ms": 166000, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "6nhuOU3UPreQrP1DQWat9M"
+      }, 
+      {
+        "name": "Dirty Love", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0vPIEgyw7HVatrRY5aKC6n"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1c3d2d857fad494231266af53061f9df83adf85c", 
+        "is_playable": true, 
+        "uri": "spotify:track:0vPIEgyw7HVatrRY5aKC6n", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/0vPIEgyw7HVatrRY5aKC6n", 
+        "artists": [
+          {
+            "name": "Mot\u00f6rhead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+            }, 
+            "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M", 
+            "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M", 
+            "type": "artist", 
+            "id": "1DFr97A9HnbV3SKTJFu62M"
+          }
+        ], 
+        "duration_ms": 173973, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "0vPIEgyw7HVatrRY5aKC6n"
+      }, 
+      {
+        "name": "Ace of Spades - Alternative Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3C4jPB33Qn0siITo7CaPqS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a837932a4bd88465990ee73b75667e961ed2eba2", 
+        "is_playable": true, 
+        "uri": "spotify:track:3C4jPB33Qn0siITo7CaPqS", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/3C4jPB33Qn0siITo7CaPqS", 
+        "artists": [
+          {
+            "name": "Mot\u00f6rhead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+            }, 
+            "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M", 
+            "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M", 
+            "type": "artist", 
+            "id": "1DFr97A9HnbV3SKTJFu62M"
+          }
+        ], 
+        "duration_ms": 181960, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "3C4jPB33Qn0siITo7CaPqS"
+      }, 
+      {
+        "name": "Love Me Like a Reptile - Alternative Long Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/02b3QESGwyvuK6hWuLmjWw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c1a0c3a75a998ea492ceb01e529973ee15fc7c82", 
+        "is_playable": true, 
+        "uri": "spotify:track:02b3QESGwyvuK6hWuLmjWw", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/02b3QESGwyvuK6hWuLmjWw", 
+        "artists": [
+          {
+            "name": "Mot\u00f6rhead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+            }, 
+            "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M", 
+            "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M", 
+            "type": "artist", 
+            "id": "1DFr97A9HnbV3SKTJFu62M"
+          }
+        ], 
+        "duration_ms": 254720, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "02b3QESGwyvuK6hWuLmjWw"
+      }, 
+      {
+        "name": "Love Me Like a Reptile - Alternative Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Em1qkUkKzL4aKqt6aZm5f"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ae4d9ae873ec9641d1ea87b047ab24c756c65bf4", 
+        "is_playable": true, 
+        "uri": "spotify:track:0Em1qkUkKzL4aKqt6aZm5f", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/0Em1qkUkKzL4aKqt6aZm5f", 
+        "artists": [
+          {
+            "name": "Mot\u00f6rhead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+            }, 
+            "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M", 
+            "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M", 
+            "type": "artist", 
+            "id": "1DFr97A9HnbV3SKTJFu62M"
+          }
+        ], 
+        "duration_ms": 210053, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "0Em1qkUkKzL4aKqt6aZm5f"
+      }, 
+      {
+        "name": "Shoot You In the Back - Alternative Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2j8AFgaQ0L7xBD9ZeoJ6a8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/df9ba8923d94304039c366e7a0137cfccfca7187", 
+        "is_playable": true, 
+        "uri": "spotify:track:2j8AFgaQ0L7xBD9ZeoJ6a8", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/2j8AFgaQ0L7xBD9ZeoJ6a8", 
+        "artists": [
+          {
+            "name": "Mot\u00f6rhead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+            }, 
+            "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M", 
+            "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M", 
+            "type": "artist", 
+            "id": "1DFr97A9HnbV3SKTJFu62M"
+          }
+        ], 
+        "duration_ms": 189586, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "2j8AFgaQ0L7xBD9ZeoJ6a8"
+      }, 
+      {
+        "name": "Fast and Loose - Alternative Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5W2uNJuOYRHt9rLEh0Bt2x"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6dca90c6761c6fe2997cb3f91ccb4ab04f49f4ef", 
+        "is_playable": true, 
+        "uri": "spotify:track:5W2uNJuOYRHt9rLEh0Bt2x", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5W2uNJuOYRHt9rLEh0Bt2x", 
+        "artists": [
+          {
+            "name": "Mot\u00f6rhead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+            }, 
+            "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M", 
+            "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M", 
+            "type": "artist", 
+            "id": "1DFr97A9HnbV3SKTJFu62M"
+          }
+        ], 
+        "duration_ms": 185013, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "5W2uNJuOYRHt9rLEh0Bt2x"
+      }, 
+      {
+        "name": "(We Are) The Roadcrew - Alternative Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0SpaoC1bbTY7EzipshRt4y"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9d8d55ed1ce7130ec5c96c1b3618f156ceb13a21", 
+        "is_playable": true, 
+        "uri": "spotify:track:0SpaoC1bbTY7EzipshRt4y", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/0SpaoC1bbTY7EzipshRt4y", 
+        "artists": [
+          {
+            "name": "Mot\u00f6rhead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+            }, 
+            "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M", 
+            "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M", 
+            "type": "artist", 
+            "id": "1DFr97A9HnbV3SKTJFu62M"
+          }
+        ], 
+        "duration_ms": 202440, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "0SpaoC1bbTY7EzipshRt4y"
+      }, 
+      {
+        "name": "Fire Fire - Alternative Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Z1XlVh4yOAD8Rw6TesN8s"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/071ccf95ae3da2e14fc3ff1fa46053adf903405b", 
+        "is_playable": true, 
+        "uri": "spotify:track:0Z1XlVh4yOAD8Rw6TesN8s", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/0Z1XlVh4yOAD8Rw6TesN8s", 
+        "artists": [
+          {
+            "name": "Mot\u00f6rhead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+            }, 
+            "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M", 
+            "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M", 
+            "type": "artist", 
+            "id": "1DFr97A9HnbV3SKTJFu62M"
+          }
+        ], 
+        "duration_ms": 159426, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "0Z1XlVh4yOAD8Rw6TesN8s"
+      }, 
+      {
+        "name": "Jailbait - Alternative Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5OEBVijDEFpYVkF5qmVGfi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/15b48ae5c61b2c93fa8dfa6bb534754d78a6692b", 
+        "is_playable": true, 
+        "uri": "spotify:track:5OEBVijDEFpYVkF5qmVGfi", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5OEBVijDEFpYVkF5qmVGfi", 
+        "artists": [
+          {
+            "name": "Mot\u00f6rhead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+            }, 
+            "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M", 
+            "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M", 
+            "type": "artist", 
+            "id": "1DFr97A9HnbV3SKTJFu62M"
+          }
+        ], 
+        "duration_ms": 211640, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "5OEBVijDEFpYVkF5qmVGfi"
+      }, 
+      {
+        "name": "The Hammer - Alternative Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2ubYGzpDKueSTqeD8j43Sy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3e69e5686f8757b797b7d69b4b1e77af70dae3fc", 
+        "is_playable": true, 
+        "uri": "spotify:track:2ubYGzpDKueSTqeD8j43Sy", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/2ubYGzpDKueSTqeD8j43Sy", 
+        "artists": [
+          {
+            "name": "Mot\u00f6rhead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+            }, 
+            "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M", 
+            "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M", 
+            "type": "artist", 
+            "id": "1DFr97A9HnbV3SKTJFu62M"
+          }
+        ], 
+        "duration_ms": 190360, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "2ubYGzpDKueSTqeD8j43Sy"
+      }, 
+      {
+        "name": "Dirty Love - Alternative Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6WqW9SsAwflMqXew51IOPt"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ea369733264ee5c04b10173786ec3c0edb6f2573", 
+        "is_playable": true, 
+        "uri": "spotify:track:6WqW9SsAwflMqXew51IOPt", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6WqW9SsAwflMqXew51IOPt", 
+        "artists": [
+          {
+            "name": "Mot\u00f6rhead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+            }, 
+            "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M", 
+            "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M", 
+            "type": "artist", 
+            "id": "1DFr97A9HnbV3SKTJFu62M"
+          }
+        ], 
+        "duration_ms": 62306, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "6WqW9SsAwflMqXew51IOPt"
+      }, 
+      {
+        "name": "Dirty Love - Alternative Long Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7eaqRIvShEyGivI42fHLz7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/914780aa4465e115e859b46a30aff4a48055d9f3", 
+        "is_playable": true, 
+        "uri": "spotify:track:7eaqRIvShEyGivI42fHLz7", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/7eaqRIvShEyGivI42fHLz7", 
+        "artists": [
+          {
+            "name": "Mot\u00f6rhead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+            }, 
+            "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M", 
+            "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M", 
+            "type": "artist", 
+            "id": "1DFr97A9HnbV3SKTJFu62M"
+          }
+        ], 
+        "duration_ms": 230120, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "7eaqRIvShEyGivI42fHLz7"
+      }, 
+      {
+        "name": "Fast and Loose - BBC Radio 1, David Jensen Session", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7D4y8CvDjyCSoacF3UEvM6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/35c8183f5cd145e3c21227c1b55681b55208d6ca", 
+        "is_playable": true, 
+        "uri": "spotify:track:7D4y8CvDjyCSoacF3UEvM6", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/7D4y8CvDjyCSoacF3UEvM6", 
+        "artists": [
+          {
+            "name": "Mot\u00f6rhead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+            }, 
+            "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M", 
+            "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M", 
+            "type": "artist", 
+            "id": "1DFr97A9HnbV3SKTJFu62M"
+          }
+        ], 
+        "duration_ms": 256786, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "7D4y8CvDjyCSoacF3UEvM6"
+      }, 
+      {
+        "name": "Live to Win - BBC Radio 1, David Jensen Session", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4gMj4v5BuYJX4wKuGDwN6p"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9f7bcf426faf8a8ad589780176cd6eed0fa623e7", 
+        "is_playable": true, 
+        "uri": "spotify:track:4gMj4v5BuYJX4wKuGDwN6p", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4gMj4v5BuYJX4wKuGDwN6p", 
+        "artists": [
+          {
+            "name": "Mot\u00f6rhead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+            }, 
+            "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M", 
+            "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M", 
+            "type": "artist", 
+            "id": "1DFr97A9HnbV3SKTJFu62M"
+          }
+        ], 
+        "duration_ms": 212160, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "4gMj4v5BuYJX4wKuGDwN6p"
+      }, 
+      {
+        "name": "Bite the Bullet / The Chase Is Better Than the Catch - BBC Radio 1, David Jensen Session", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/14Rm1d5279LWjJ7nmfGZOD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4b9030920f94dbf96154cd96ad5d5e48de145171", 
+        "is_playable": true, 
+        "uri": "spotify:track:14Rm1d5279LWjJ7nmfGZOD", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/14Rm1d5279LWjJ7nmfGZOD", 
+        "artists": [
+          {
+            "name": "Mot\u00f6rhead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+            }, 
+            "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M", 
+            "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M", 
+            "type": "artist", 
+            "id": "1DFr97A9HnbV3SKTJFu62M"
+          }
+        ], 
+        "duration_ms": 365040, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "14Rm1d5279LWjJ7nmfGZOD"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/0sbAKeTchIsRqECNFjPHSf/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 27, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/0sbAKeTchIsRqECNFjPHSf", 
+  "copyrights": [
+    {
+      "text": "2008 Sanctuary Records Group Ltd., a BMG Company, under exclusive license to [PIAS] UK Ltd.", 
+      "type": "C"
+    }, 
+    {
+      "text": "2005 Sanctuary Records Group Ltd., a BMG Company, under exclusive license to [PIAS] UK Ltd.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Mot\u00f6rhead", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+      }, 
+      "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M", 
+      "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M", 
+      "type": "artist", 
+      "id": "1DFr97A9HnbV3SKTJFu62M"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/cccb3545fd9a4929b255c1bd374dbff2b8da78e7", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/a61edf780558275054086dd131c85eccc3bbfd61", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/35b85a765d2f2de4f68d93505b181f5a3a201c51", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "5414939491474"
+  }, 
+  "type": "album", 
+  "id": "0sbAKeTchIsRqECNFjPHSf", 
+  "name": "Ace of Spades"
+}

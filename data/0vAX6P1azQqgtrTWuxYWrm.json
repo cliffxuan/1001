@@ -1,0 +1,851 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0vAX6P1azQqgtrTWuxYWrm"
+  }, 
+  "release_date": "1983-04-12", 
+  "popularity": 36, 
+  "genres": [], 
+  "uri": "spotify:album:0vAX6P1azQqgtrTWuxYWrm", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Radio Free Europe", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7A6Z9bZgSq8WRuoDIVNM6P"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4436e31ec12b39957a7b5a232171815ad4977905", 
+        "is_playable": true, 
+        "uri": "spotify:track:7A6Z9bZgSq8WRuoDIVNM6P", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7A6Z9bZgSq8WRuoDIVNM6P", 
+        "artists": [
+          {
+            "name": "R.E.M.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+            }, 
+            "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg", 
+            "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg", 
+            "type": "artist", 
+            "id": "4KWTAlx2RvbpseOGMEmROg"
+          }
+        ], 
+        "duration_ms": 245786, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "7A6Z9bZgSq8WRuoDIVNM6P"
+      }, 
+      {
+        "name": "Pilgrimage", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/14VfvDrgjIK9M3jXVgWO5t"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6405fa5fbdf9ed8710a6ce69246a8dc46637a6c4", 
+        "is_playable": true, 
+        "uri": "spotify:track:14VfvDrgjIK9M3jXVgWO5t", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/14VfvDrgjIK9M3jXVgWO5t", 
+        "artists": [
+          {
+            "name": "R.E.M.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+            }, 
+            "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg", 
+            "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg", 
+            "type": "artist", 
+            "id": "4KWTAlx2RvbpseOGMEmROg"
+          }
+        ], 
+        "duration_ms": 269360, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "14VfvDrgjIK9M3jXVgWO5t"
+      }, 
+      {
+        "name": "Laughing", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/36bCYw9RkRiHTD2wwuJ6xd"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/303196d0159750cc2adadbcaba9d4f940330dda2", 
+        "is_playable": true, 
+        "uri": "spotify:track:36bCYw9RkRiHTD2wwuJ6xd", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/36bCYw9RkRiHTD2wwuJ6xd", 
+        "artists": [
+          {
+            "name": "R.E.M.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+            }, 
+            "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg", 
+            "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg", 
+            "type": "artist", 
+            "id": "4KWTAlx2RvbpseOGMEmROg"
+          }
+        ], 
+        "duration_ms": 237586, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "36bCYw9RkRiHTD2wwuJ6xd"
+      }, 
+      {
+        "name": "Talk About The Passion", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3J2WkycsAdhVzBAPdHJ8oX"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/909bc31859ad8ade6c6b18c51cfbbb49fef010de", 
+        "is_playable": true, 
+        "uri": "spotify:track:3J2WkycsAdhVzBAPdHJ8oX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3J2WkycsAdhVzBAPdHJ8oX", 
+        "artists": [
+          {
+            "name": "R.E.M.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+            }, 
+            "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg", 
+            "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg", 
+            "type": "artist", 
+            "id": "4KWTAlx2RvbpseOGMEmROg"
+          }
+        ], 
+        "duration_ms": 201466, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "3J2WkycsAdhVzBAPdHJ8oX"
+      }, 
+      {
+        "name": "Moral Kiosk", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3KHkWTMwUINANB58kaKB3Q"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c8ac4d67549a7e084dfa439b4c05972f71745062", 
+        "is_playable": true, 
+        "uri": "spotify:track:3KHkWTMwUINANB58kaKB3Q", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3KHkWTMwUINANB58kaKB3Q", 
+        "artists": [
+          {
+            "name": "R.E.M.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+            }, 
+            "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg", 
+            "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg", 
+            "type": "artist", 
+            "id": "4KWTAlx2RvbpseOGMEmROg"
+          }
+        ], 
+        "duration_ms": 212240, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "3KHkWTMwUINANB58kaKB3Q"
+      }, 
+      {
+        "name": "Perfect Circle", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/14llYECh0Hq7A7k4ANI7B3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1b9f05c02875aca45514513bc39fcd21f5243704", 
+        "is_playable": true, 
+        "uri": "spotify:track:14llYECh0Hq7A7k4ANI7B3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/14llYECh0Hq7A7k4ANI7B3", 
+        "artists": [
+          {
+            "name": "R.E.M.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+            }, 
+            "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg", 
+            "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg", 
+            "type": "artist", 
+            "id": "4KWTAlx2RvbpseOGMEmROg"
+          }
+        ], 
+        "duration_ms": 211146, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "14llYECh0Hq7A7k4ANI7B3"
+      }, 
+      {
+        "name": "Catapult", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1wmF3KS7B6yMzGxYfT5rA9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8e3a06d58f841eef32be46c89f8324141a905d79", 
+        "is_playable": true, 
+        "uri": "spotify:track:1wmF3KS7B6yMzGxYfT5rA9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1wmF3KS7B6yMzGxYfT5rA9", 
+        "artists": [
+          {
+            "name": "R.E.M.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+            }, 
+            "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg", 
+            "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg", 
+            "type": "artist", 
+            "id": "4KWTAlx2RvbpseOGMEmROg"
+          }
+        ], 
+        "duration_ms": 236133, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "1wmF3KS7B6yMzGxYfT5rA9"
+      }, 
+      {
+        "name": "Sitting Still", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2pp6riMLgJwOoIWzoN9dzH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9cf7128378a3d6cdb11683c87e184d1a6f118872", 
+        "is_playable": true, 
+        "uri": "spotify:track:2pp6riMLgJwOoIWzoN9dzH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2pp6riMLgJwOoIWzoN9dzH", 
+        "artists": [
+          {
+            "name": "R.E.M.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+            }, 
+            "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg", 
+            "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg", 
+            "type": "artist", 
+            "id": "4KWTAlx2RvbpseOGMEmROg"
+          }
+        ], 
+        "duration_ms": 197840, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "2pp6riMLgJwOoIWzoN9dzH"
+      }, 
+      {
+        "name": "9-9", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7G1rC5pLXbyQV2xrU9JtjT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2016baa4d77bbf30563a42a094c7f7c02bfa0669", 
+        "is_playable": true, 
+        "uri": "spotify:track:7G1rC5pLXbyQV2xrU9JtjT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7G1rC5pLXbyQV2xrU9JtjT", 
+        "artists": [
+          {
+            "name": "R.E.M.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+            }, 
+            "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg", 
+            "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg", 
+            "type": "artist", 
+            "id": "4KWTAlx2RvbpseOGMEmROg"
+          }
+        ], 
+        "duration_ms": 183493, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "7G1rC5pLXbyQV2xrU9JtjT"
+      }, 
+      {
+        "name": "Shaking Through", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7pHSSvxQ6eUBBJYPgyrrl7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/292f77df91a4425eb921e79694f78e720b40726f", 
+        "is_playable": true, 
+        "uri": "spotify:track:7pHSSvxQ6eUBBJYPgyrrl7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7pHSSvxQ6eUBBJYPgyrrl7", 
+        "artists": [
+          {
+            "name": "R.E.M.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+            }, 
+            "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg", 
+            "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg", 
+            "type": "artist", 
+            "id": "4KWTAlx2RvbpseOGMEmROg"
+          }
+        ], 
+        "duration_ms": 270560, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "7pHSSvxQ6eUBBJYPgyrrl7"
+      }, 
+      {
+        "name": "We Walk", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7rGJ62Vavk08dBmzx5TryV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6ba1d65f6e4be511660715310ba6b413dc37c499", 
+        "is_playable": true, 
+        "uri": "spotify:track:7rGJ62Vavk08dBmzx5TryV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7rGJ62Vavk08dBmzx5TryV", 
+        "artists": [
+          {
+            "name": "R.E.M.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+            }, 
+            "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg", 
+            "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg", 
+            "type": "artist", 
+            "id": "4KWTAlx2RvbpseOGMEmROg"
+          }
+        ], 
+        "duration_ms": 181280, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "7rGJ62Vavk08dBmzx5TryV"
+      }, 
+      {
+        "name": "West Of The Fields", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2pQIQouZKcksSNlCNVA9Q8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/89b2f36cfed0aae184832b10dd6e0622ffe2354d", 
+        "is_playable": true, 
+        "uri": "spotify:track:2pQIQouZKcksSNlCNVA9Q8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2pQIQouZKcksSNlCNVA9Q8", 
+        "artists": [
+          {
+            "name": "R.E.M.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+            }, 
+            "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg", 
+            "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg", 
+            "type": "artist", 
+            "id": "4KWTAlx2RvbpseOGMEmROg"
+          }
+        ], 
+        "duration_ms": 201600, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "2pQIQouZKcksSNlCNVA9Q8"
+      }, 
+      {
+        "name": "Laughing - 1983 / Live In Toronto", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/35KkR0QtUi1aVT0N4pKNog"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3a063d04d025f0d86bb1cf8ca910248ee90773f7", 
+        "is_playable": true, 
+        "uri": "spotify:track:35KkR0QtUi1aVT0N4pKNog", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/35KkR0QtUi1aVT0N4pKNog", 
+        "artists": [
+          {
+            "name": "R.E.M.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+            }, 
+            "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg", 
+            "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg", 
+            "type": "artist", 
+            "id": "4KWTAlx2RvbpseOGMEmROg"
+          }
+        ], 
+        "duration_ms": 231933, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "35KkR0QtUi1aVT0N4pKNog"
+      }, 
+      {
+        "name": "Pilgrimage - 1983 / Live In Toronto", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0ZpjG1Ws2eV56i9cdPBYSc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9614db5ec96083ae22d5b0271bbf935e8cd28e73", 
+        "is_playable": true, 
+        "uri": "spotify:track:0ZpjG1Ws2eV56i9cdPBYSc", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/0ZpjG1Ws2eV56i9cdPBYSc", 
+        "artists": [
+          {
+            "name": "R.E.M.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+            }, 
+            "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg", 
+            "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg", 
+            "type": "artist", 
+            "id": "4KWTAlx2RvbpseOGMEmROg"
+          }
+        ], 
+        "duration_ms": 248453, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "0ZpjG1Ws2eV56i9cdPBYSc"
+      }, 
+      {
+        "name": "There She Goes Again - 1983 / Live In Toronto", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4AD1icGWNJ7IdiSHpUJpGB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a66b2036ed4bb1908506f0fdb1afbe2cf8d93fdf", 
+        "is_playable": true, 
+        "uri": "spotify:track:4AD1icGWNJ7IdiSHpUJpGB", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4AD1icGWNJ7IdiSHpUJpGB", 
+        "artists": [
+          {
+            "name": "R.E.M.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+            }, 
+            "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg", 
+            "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg", 
+            "type": "artist", 
+            "id": "4KWTAlx2RvbpseOGMEmROg"
+          }
+        ], 
+        "duration_ms": 163853, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "4AD1icGWNJ7IdiSHpUJpGB"
+      }, 
+      {
+        "name": "7 Chinese Bros. - 1983 / Live In Toronto", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4gTu5FdJ0ow1Df7G6TLmAe"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/31dd577734b2f5c3d4b5e20428360036fdaee591", 
+        "is_playable": true, 
+        "uri": "spotify:track:4gTu5FdJ0ow1Df7G6TLmAe", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4gTu5FdJ0ow1Df7G6TLmAe", 
+        "artists": [
+          {
+            "name": "R.E.M.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+            }, 
+            "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg", 
+            "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg", 
+            "type": "artist", 
+            "id": "4KWTAlx2RvbpseOGMEmROg"
+          }
+        ], 
+        "duration_ms": 255453, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "4gTu5FdJ0ow1Df7G6TLmAe"
+      }, 
+      {
+        "name": "Talk About The Passion - 1983 / Live In Toronto", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3t32Y8H6h0qUXwwI46D9S0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2858b14596fe8a855d5146120d7b47d7d3bb6117", 
+        "is_playable": true, 
+        "uri": "spotify:track:3t32Y8H6h0qUXwwI46D9S0", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/3t32Y8H6h0qUXwwI46D9S0", 
+        "artists": [
+          {
+            "name": "R.E.M.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+            }, 
+            "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg", 
+            "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg", 
+            "type": "artist", 
+            "id": "4KWTAlx2RvbpseOGMEmROg"
+          }
+        ], 
+        "duration_ms": 181760, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "3t32Y8H6h0qUXwwI46D9S0"
+      }, 
+      {
+        "name": "Sitting Still - 1983 / Live In Toronto", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/49EEvPMwqomROuwLlZH8Ud"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cb7a0bde6bad848d5a6f02c04438981ad5b0714d", 
+        "is_playable": true, 
+        "uri": "spotify:track:49EEvPMwqomROuwLlZH8Ud", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/49EEvPMwqomROuwLlZH8Ud", 
+        "artists": [
+          {
+            "name": "R.E.M.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+            }, 
+            "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg", 
+            "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg", 
+            "type": "artist", 
+            "id": "4KWTAlx2RvbpseOGMEmROg"
+          }
+        ], 
+        "duration_ms": 197813, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "49EEvPMwqomROuwLlZH8Ud"
+      }, 
+      {
+        "name": "Harborcoat - 1983 / Live In Toronto", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0KAd73OF0d1epOrK49cBQI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e478936e540c639230ddf790da8e05212a1e1e4a", 
+        "is_playable": true, 
+        "uri": "spotify:track:0KAd73OF0d1epOrK49cBQI", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/0KAd73OF0d1epOrK49cBQI", 
+        "artists": [
+          {
+            "name": "R.E.M.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+            }, 
+            "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg", 
+            "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg", 
+            "type": "artist", 
+            "id": "4KWTAlx2RvbpseOGMEmROg"
+          }
+        ], 
+        "duration_ms": 224200, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "0KAd73OF0d1epOrK49cBQI"
+      }, 
+      {
+        "name": "Catapult - 1983 / Live In Toronto", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3lVDYN7Nw1G0Spe5X5hnn1"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/545f9f9466098b173579d46b76598f779b551e45", 
+        "is_playable": true, 
+        "uri": "spotify:track:3lVDYN7Nw1G0Spe5X5hnn1", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/3lVDYN7Nw1G0Spe5X5hnn1", 
+        "artists": [
+          {
+            "name": "R.E.M.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+            }, 
+            "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg", 
+            "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg", 
+            "type": "artist", 
+            "id": "4KWTAlx2RvbpseOGMEmROg"
+          }
+        ], 
+        "duration_ms": 232786, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "3lVDYN7Nw1G0Spe5X5hnn1"
+      }, 
+      {
+        "name": "Gardening At Night - 1983 / Live In Toronto", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/47JaQeHKPRkSpJz1NZs52m"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e283f3757d53173ec2b6cae9c17ecd81be9b85c7", 
+        "is_playable": true, 
+        "uri": "spotify:track:47JaQeHKPRkSpJz1NZs52m", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/47JaQeHKPRkSpJz1NZs52m", 
+        "artists": [
+          {
+            "name": "R.E.M.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+            }, 
+            "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg", 
+            "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg", 
+            "type": "artist", 
+            "id": "4KWTAlx2RvbpseOGMEmROg"
+          }
+        ], 
+        "duration_ms": 213360, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "47JaQeHKPRkSpJz1NZs52m"
+      }, 
+      {
+        "name": "9-9 - 1983 / Live In Toronto", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3BRXK944DWumpDgGs30OdC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ff2b0cd2737d1ed0c4cdbe67cdcb3b61d8ae5402", 
+        "is_playable": true, 
+        "uri": "spotify:track:3BRXK944DWumpDgGs30OdC", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/3BRXK944DWumpDgGs30OdC", 
+        "artists": [
+          {
+            "name": "R.E.M.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+            }, 
+            "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg", 
+            "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg", 
+            "type": "artist", 
+            "id": "4KWTAlx2RvbpseOGMEmROg"
+          }
+        ], 
+        "duration_ms": 195786, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "3BRXK944DWumpDgGs30OdC"
+      }, 
+      {
+        "name": "Just A Touch - 1983 / Live In Toronto", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/59SIK3lxze0UCjHrUYoFC5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/766428639b4d77578f2b6905a7a8faabcd36f6c6", 
+        "is_playable": true, 
+        "uri": "spotify:track:59SIK3lxze0UCjHrUYoFC5", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/59SIK3lxze0UCjHrUYoFC5", 
+        "artists": [
+          {
+            "name": "R.E.M.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+            }, 
+            "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg", 
+            "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg", 
+            "type": "artist", 
+            "id": "4KWTAlx2RvbpseOGMEmROg"
+          }
+        ], 
+        "duration_ms": 147000, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "59SIK3lxze0UCjHrUYoFC5"
+      }, 
+      {
+        "name": "West Of The Fields - 1983 / Live In Toronto", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0e1C4Mo6h3H21jLLjcvl21"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/42ed0f252752991fa33eb6ff2db6d6506877358a", 
+        "is_playable": true, 
+        "uri": "spotify:track:0e1C4Mo6h3H21jLLjcvl21", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/0e1C4Mo6h3H21jLLjcvl21", 
+        "artists": [
+          {
+            "name": "R.E.M.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+            }, 
+            "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg", 
+            "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg", 
+            "type": "artist", 
+            "id": "4KWTAlx2RvbpseOGMEmROg"
+          }
+        ], 
+        "duration_ms": 186120, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "0e1C4Mo6h3H21jLLjcvl21"
+      }, 
+      {
+        "name": "Radio Free Europe - 1983 / Live In Toronto", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1ii0rmWLlVVnWHF1SGOfk3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/78cf0b02e7757171097e64c92ff2eb8fc1cf7f88", 
+        "is_playable": true, 
+        "uri": "spotify:track:1ii0rmWLlVVnWHF1SGOfk3", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1ii0rmWLlVVnWHF1SGOfk3", 
+        "artists": [
+          {
+            "name": "R.E.M.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+            }, 
+            "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg", 
+            "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg", 
+            "type": "artist", 
+            "id": "4KWTAlx2RvbpseOGMEmROg"
+          }
+        ], 
+        "duration_ms": 225746, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "1ii0rmWLlVVnWHF1SGOfk3"
+      }, 
+      {
+        "name": "We Walk - 1983 / Live In Toronto", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1nut69ob0Tc7mx4KdPziws"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/99b59ddfc69ec63b719d096335ce908cd9e80d51", 
+        "is_playable": true, 
+        "uri": "spotify:track:1nut69ob0Tc7mx4KdPziws", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1nut69ob0Tc7mx4KdPziws", 
+        "artists": [
+          {
+            "name": "R.E.M.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+            }, 
+            "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg", 
+            "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg", 
+            "type": "artist", 
+            "id": "4KWTAlx2RvbpseOGMEmROg"
+          }
+        ], 
+        "duration_ms": 175666, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "1nut69ob0Tc7mx4KdPziws"
+      }, 
+      {
+        "name": "1,000,000 - 1983 / Live In Toronto", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4vwK5vH3BHHXcGflRbDqg4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8469fc4672276174165db6d152f7e71eae94094a", 
+        "is_playable": true, 
+        "uri": "spotify:track:4vwK5vH3BHHXcGflRbDqg4", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4vwK5vH3BHHXcGflRbDqg4", 
+        "artists": [
+          {
+            "name": "R.E.M.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+            }, 
+            "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg", 
+            "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg", 
+            "type": "artist", 
+            "id": "4KWTAlx2RvbpseOGMEmROg"
+          }
+        ], 
+        "duration_ms": 184706, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "4vwK5vH3BHHXcGflRbDqg4"
+      }, 
+      {
+        "name": "Carnival Of Sorts (Boxcars) - 1983 / Live In Toronto", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3LTJ85PuNDeuoEdyow93MU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d5e1da69c20b180d7c205b3527959ad7442287be", 
+        "is_playable": true, 
+        "uri": "spotify:track:3LTJ85PuNDeuoEdyow93MU", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/3LTJ85PuNDeuoEdyow93MU", 
+        "artists": [
+          {
+            "name": "R.E.M.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+            }, 
+            "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg", 
+            "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg", 
+            "type": "artist", 
+            "id": "4KWTAlx2RvbpseOGMEmROg"
+          }
+        ], 
+        "duration_ms": 238413, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "3LTJ85PuNDeuoEdyow93MU"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/0vAX6P1azQqgtrTWuxYWrm/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 28, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/0vAX6P1azQqgtrTWuxYWrm", 
+  "copyrights": [
+    {
+      "text": "(C) 2008 Universal Music Enterprises, a Division of UMG Recordings, Inc.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 2008 Universal Music Enterprises, a Division of UMG Recordings, Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "R.E.M.", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+      }, 
+      "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg", 
+      "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg", 
+      "type": "artist", 
+      "id": "4KWTAlx2RvbpseOGMEmROg"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/80e996d2bfd4947dc60c98491ea30bc020b6c705", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/dcd728e939b36bfb35cb4b1f6b22f83183e17953", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/4eb1c07a125393f60c94b04b371e3f4cc94bb89b", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00602517882881"
+  }, 
+  "type": "album", 
+  "id": "0vAX6P1azQqgtrTWuxYWrm", 
+  "name": "Murmur - Deluxe Edition"
+}

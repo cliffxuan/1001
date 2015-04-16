@@ -1,0 +1,347 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3pIbqidFqx4fVljrJwAaAs"
+  }, 
+  "release_date": "1989-08-28", 
+  "popularity": 19, 
+  "genres": [], 
+  "uri": "spotify:album:3pIbqidFqx4fVljrJwAaAs", 
+  "tracks": {
+    "items": [
+      {
+        "name": "La Fille De La Mort", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/27OMBFMfCSqw1FOsxWqMUZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/942ad23debefb5a8618698a0f04b0d762d78e8aa", 
+        "is_playable": true, 
+        "uri": "spotify:track:27OMBFMfCSqw1FOsxWqMUZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/27OMBFMfCSqw1FOsxWqMUZ", 
+        "artists": [
+          {
+            "name": "The Young Gods", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1xF9B1eiCKUejBnEE9k3sY"
+            }, 
+            "uri": "spotify:artist:1xF9B1eiCKUejBnEE9k3sY", 
+            "href": "https://api.spotify.com/v1/artists/1xF9B1eiCKUejBnEE9k3sY", 
+            "type": "artist", 
+            "id": "1xF9B1eiCKUejBnEE9k3sY"
+          }
+        ], 
+        "duration_ms": 478800, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "27OMBFMfCSqw1FOsxWqMUZ"
+      }, 
+      {
+        "name": "Rue Des Temp\u00eates", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/25pp0rNuH9njYCcAKXYjLU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a0c27b4e1d9236e2c93c9b90917c7edf550b5d36", 
+        "is_playable": true, 
+        "uri": "spotify:track:25pp0rNuH9njYCcAKXYjLU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/25pp0rNuH9njYCcAKXYjLU", 
+        "artists": [
+          {
+            "name": "The Young Gods", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1xF9B1eiCKUejBnEE9k3sY"
+            }, 
+            "uri": "spotify:artist:1xF9B1eiCKUejBnEE9k3sY", 
+            "href": "https://api.spotify.com/v1/artists/1xF9B1eiCKUejBnEE9k3sY", 
+            "type": "artist", 
+            "id": "1xF9B1eiCKUejBnEE9k3sY"
+          }
+        ], 
+        "duration_ms": 171506, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "25pp0rNuH9njYCcAKXYjLU"
+      }, 
+      {
+        "name": "L'Eau Rouge", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0CaSr9d0ZK6W7OuOmAyeOn"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/956a91f2fc22ab5ee4a54eb54ebe25518e913f90", 
+        "is_playable": true, 
+        "uri": "spotify:track:0CaSr9d0ZK6W7OuOmAyeOn", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0CaSr9d0ZK6W7OuOmAyeOn", 
+        "artists": [
+          {
+            "name": "The Young Gods", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1xF9B1eiCKUejBnEE9k3sY"
+            }, 
+            "uri": "spotify:artist:1xF9B1eiCKUejBnEE9k3sY", 
+            "href": "https://api.spotify.com/v1/artists/1xF9B1eiCKUejBnEE9k3sY", 
+            "type": "artist", 
+            "id": "1xF9B1eiCKUejBnEE9k3sY"
+          }
+        ], 
+        "duration_ms": 260666, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "0CaSr9d0ZK6W7OuOmAyeOn"
+      }, 
+      {
+        "name": "Charlotte", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7b1IpZKEaf5wSO4Ndj7yxx"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f8f3f1ffae83d3e5eacc9a02cfa108c3e9eb8593", 
+        "is_playable": true, 
+        "uri": "spotify:track:7b1IpZKEaf5wSO4Ndj7yxx", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7b1IpZKEaf5wSO4Ndj7yxx", 
+        "artists": [
+          {
+            "name": "The Young Gods", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1xF9B1eiCKUejBnEE9k3sY"
+            }, 
+            "uri": "spotify:artist:1xF9B1eiCKUejBnEE9k3sY", 
+            "href": "https://api.spotify.com/v1/artists/1xF9B1eiCKUejBnEE9k3sY", 
+            "type": "artist", 
+            "id": "1xF9B1eiCKUejBnEE9k3sY"
+          }
+        ], 
+        "duration_ms": 122560, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "7b1IpZKEaf5wSO4Ndj7yxx"
+      }, 
+      {
+        "name": "Longue Route", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2dEOQMQJ243w8rlxsD0w2W"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c5378b1de7719514a459b4beec9eb9dc0d8c1725", 
+        "is_playable": true, 
+        "uri": "spotify:track:2dEOQMQJ243w8rlxsD0w2W", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2dEOQMQJ243w8rlxsD0w2W", 
+        "artists": [
+          {
+            "name": "The Young Gods", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1xF9B1eiCKUejBnEE9k3sY"
+            }, 
+            "uri": "spotify:artist:1xF9B1eiCKUejBnEE9k3sY", 
+            "href": "https://api.spotify.com/v1/artists/1xF9B1eiCKUejBnEE9k3sY", 
+            "type": "artist", 
+            "id": "1xF9B1eiCKUejBnEE9k3sY"
+          }
+        ], 
+        "duration_ms": 221400, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "2dEOQMQJ243w8rlxsD0w2W"
+      }, 
+      {
+        "name": "Crier Les Chiens", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0J6PeqqWbeSLEOgEEWjfwf"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/93294171354e06bad0f7f14d29fe434976f91409", 
+        "is_playable": true, 
+        "uri": "spotify:track:0J6PeqqWbeSLEOgEEWjfwf", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0J6PeqqWbeSLEOgEEWjfwf", 
+        "artists": [
+          {
+            "name": "The Young Gods", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1xF9B1eiCKUejBnEE9k3sY"
+            }, 
+            "uri": "spotify:artist:1xF9B1eiCKUejBnEE9k3sY", 
+            "href": "https://api.spotify.com/v1/artists/1xF9B1eiCKUejBnEE9k3sY", 
+            "type": "artist", 
+            "id": "1xF9B1eiCKUejBnEE9k3sY"
+          }
+        ], 
+        "duration_ms": 195440, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "0J6PeqqWbeSLEOgEEWjfwf"
+      }, 
+      {
+        "name": "Ville N\u00f4tre", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Wyc1abFBjBOrnpgfG3GpO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/407ef8b6e512bac800789cce7e2d68db9e254f00", 
+        "is_playable": true, 
+        "uri": "spotify:track:4Wyc1abFBjBOrnpgfG3GpO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4Wyc1abFBjBOrnpgfG3GpO", 
+        "artists": [
+          {
+            "name": "The Young Gods", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1xF9B1eiCKUejBnEE9k3sY"
+            }, 
+            "uri": "spotify:artist:1xF9B1eiCKUejBnEE9k3sY", 
+            "href": "https://api.spotify.com/v1/artists/1xF9B1eiCKUejBnEE9k3sY", 
+            "type": "artist", 
+            "id": "1xF9B1eiCKUejBnEE9k3sY"
+          }
+        ], 
+        "duration_ms": 247733, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "4Wyc1abFBjBOrnpgfG3GpO"
+      }, 
+      {
+        "name": "Les Enfants", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6x4nQHjPD5XKXOS0mlRbQO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/08703532e8e6a23b1ff6bee7283e80848a23f559", 
+        "is_playable": true, 
+        "uri": "spotify:track:6x4nQHjPD5XKXOS0mlRbQO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6x4nQHjPD5XKXOS0mlRbQO", 
+        "artists": [
+          {
+            "name": "The Young Gods", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1xF9B1eiCKUejBnEE9k3sY"
+            }, 
+            "uri": "spotify:artist:1xF9B1eiCKUejBnEE9k3sY", 
+            "href": "https://api.spotify.com/v1/artists/1xF9B1eiCKUejBnEE9k3sY", 
+            "type": "artist", 
+            "id": "1xF9B1eiCKUejBnEE9k3sY"
+          }
+        ], 
+        "duration_ms": 332226, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "6x4nQHjPD5XKXOS0mlRbQO"
+      }, 
+      {
+        "name": "L'Amourir", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/60CAnYr2eAupieFgUg18xQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2b59d21c2fd72513cf4ccafd081623fa8f1ea2f9", 
+        "is_playable": true, 
+        "uri": "spotify:track:60CAnYr2eAupieFgUg18xQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/60CAnYr2eAupieFgUg18xQ", 
+        "artists": [
+          {
+            "name": "The Young Gods", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1xF9B1eiCKUejBnEE9k3sY"
+            }, 
+            "uri": "spotify:artist:1xF9B1eiCKUejBnEE9k3sY", 
+            "href": "https://api.spotify.com/v1/artists/1xF9B1eiCKUejBnEE9k3sY", 
+            "type": "artist", 
+            "id": "1xF9B1eiCKUejBnEE9k3sY"
+          }
+        ], 
+        "duration_ms": 257600, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "60CAnYr2eAupieFgUg18xQ"
+      }, 
+      {
+        "name": "Pas Mal", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0UfP6UIC5Cb8phccZOngR4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/84c025e09ed95c6c7d2439402631e8ced1b8b1ec", 
+        "is_playable": true, 
+        "uri": "spotify:track:0UfP6UIC5Cb8phccZOngR4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0UfP6UIC5Cb8phccZOngR4", 
+        "artists": [
+          {
+            "name": "The Young Gods", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1xF9B1eiCKUejBnEE9k3sY"
+            }, 
+            "uri": "spotify:artist:1xF9B1eiCKUejBnEE9k3sY", 
+            "href": "https://api.spotify.com/v1/artists/1xF9B1eiCKUejBnEE9k3sY", 
+            "type": "artist", 
+            "id": "1xF9B1eiCKUejBnEE9k3sY"
+          }
+        ], 
+        "duration_ms": 165640, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "0UfP6UIC5Cb8phccZOngR4"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/3pIbqidFqx4fVljrJwAaAs/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 10, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/3pIbqidFqx4fVljrJwAaAs", 
+  "copyrights": [
+    {
+      "text": "1989 Play It Again Sam [PIAS]", 
+      "type": "C"
+    }, 
+    {
+      "text": "1989 Play It Again Sam [PIAS]", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "The Young Gods", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1xF9B1eiCKUejBnEE9k3sY"
+      }, 
+      "uri": "spotify:artist:1xF9B1eiCKUejBnEE9k3sY", 
+      "href": "https://api.spotify.com/v1/artists/1xF9B1eiCKUejBnEE9k3sY", 
+      "type": "artist", 
+      "id": "1xF9B1eiCKUejBnEE9k3sY"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/a2d2e344c72496aa6da5fea6a10af9f561b76cfd", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/9e779348b64a98d4ecd5ee1ce98b50f5a0295452", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/feb7f98355244c57f847aa4e6b692c8d0d2855e7", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "5413356413076"
+  }, 
+  "type": "album", 
+  "id": "3pIbqidFqx4fVljrJwAaAs", 
+  "name": "L'Eau Rouge/Red Water"
+}

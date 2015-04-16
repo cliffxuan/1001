@@ -1,0 +1,375 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3gxOtUSRzweDWBKlpj7cG6"
+  }, 
+  "release_date": "1994-01-01", 
+  "popularity": 65, 
+  "genres": [], 
+  "uri": "spotify:album:3gxOtUSRzweDWBKlpj7cG6", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Mysterons", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2bt04YlMnqiwA3T6O9UqBO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fcbb5aee9cfc3b8e2d06f38a73a7d87e7b00d8a0", 
+        "is_playable": true, 
+        "uri": "spotify:track:2bt04YlMnqiwA3T6O9UqBO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2bt04YlMnqiwA3T6O9UqBO", 
+        "artists": [
+          {
+            "name": "Portishead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+            }, 
+            "uri": "spotify:artist:6liAMWkVf5LH7YR9yfFy1Y", 
+            "href": "https://api.spotify.com/v1/artists/6liAMWkVf5LH7YR9yfFy1Y", 
+            "type": "artist", 
+            "id": "6liAMWkVf5LH7YR9yfFy1Y"
+          }
+        ], 
+        "duration_ms": 306200, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "2bt04YlMnqiwA3T6O9UqBO"
+      }, 
+      {
+        "name": "Sour Times", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3jD8mKsaq5iDmLhRGx9hLJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4d268ea90d9d6694d30075313fd093571db0a674", 
+        "is_playable": true, 
+        "uri": "spotify:track:3jD8mKsaq5iDmLhRGx9hLJ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3jD8mKsaq5iDmLhRGx9hLJ", 
+        "artists": [
+          {
+            "name": "Portishead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+            }, 
+            "uri": "spotify:artist:6liAMWkVf5LH7YR9yfFy1Y", 
+            "href": "https://api.spotify.com/v1/artists/6liAMWkVf5LH7YR9yfFy1Y", 
+            "type": "artist", 
+            "id": "6liAMWkVf5LH7YR9yfFy1Y"
+          }
+        ], 
+        "duration_ms": 254000, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "3jD8mKsaq5iDmLhRGx9hLJ"
+      }, 
+      {
+        "name": "Strangers", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3i1tl2s2113hLDInAEuzJD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1545d63d37990d7796b03ee750e94c49145f21af", 
+        "is_playable": true, 
+        "uri": "spotify:track:3i1tl2s2113hLDInAEuzJD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3i1tl2s2113hLDInAEuzJD", 
+        "artists": [
+          {
+            "name": "Portishead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+            }, 
+            "uri": "spotify:artist:6liAMWkVf5LH7YR9yfFy1Y", 
+            "href": "https://api.spotify.com/v1/artists/6liAMWkVf5LH7YR9yfFy1Y", 
+            "type": "artist", 
+            "id": "6liAMWkVf5LH7YR9yfFy1Y"
+          }
+        ], 
+        "duration_ms": 238000, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "3i1tl2s2113hLDInAEuzJD"
+      }, 
+      {
+        "name": "It Could Be Sweet", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7xiXaJlz5cTKL168OBVzun"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0f4a002a1059f848f183d79b1d88ddc20a769b2c", 
+        "is_playable": true, 
+        "uri": "spotify:track:7xiXaJlz5cTKL168OBVzun", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7xiXaJlz5cTKL168OBVzun", 
+        "artists": [
+          {
+            "name": "Portishead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+            }, 
+            "uri": "spotify:artist:6liAMWkVf5LH7YR9yfFy1Y", 
+            "href": "https://api.spotify.com/v1/artists/6liAMWkVf5LH7YR9yfFy1Y", 
+            "type": "artist", 
+            "id": "6liAMWkVf5LH7YR9yfFy1Y"
+          }
+        ], 
+        "duration_ms": 259959, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "7xiXaJlz5cTKL168OBVzun"
+      }, 
+      {
+        "name": "Wandering Star", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5jOaWGURTGf128H5Ck16yX"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c2e7e3b3c1b5bb578b3a89f5f26023dc1a3255bf", 
+        "is_playable": true, 
+        "uri": "spotify:track:5jOaWGURTGf128H5Ck16yX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5jOaWGURTGf128H5Ck16yX", 
+        "artists": [
+          {
+            "name": "Portishead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+            }, 
+            "uri": "spotify:artist:6liAMWkVf5LH7YR9yfFy1Y", 
+            "href": "https://api.spotify.com/v1/artists/6liAMWkVf5LH7YR9yfFy1Y", 
+            "type": "artist", 
+            "id": "6liAMWkVf5LH7YR9yfFy1Y"
+          }
+        ], 
+        "duration_ms": 293973, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "5jOaWGURTGf128H5Ck16yX"
+      }, 
+      {
+        "name": "It's A Fire", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2kpMuwsPGqKJ0wWwP4z55U"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d4cda785a500c0eab0321b3b8e34da66eae13f50", 
+        "is_playable": true, 
+        "uri": "spotify:track:2kpMuwsPGqKJ0wWwP4z55U", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2kpMuwsPGqKJ0wWwP4z55U", 
+        "artists": [
+          {
+            "name": "Portishead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+            }, 
+            "uri": "spotify:artist:6liAMWkVf5LH7YR9yfFy1Y", 
+            "href": "https://api.spotify.com/v1/artists/6liAMWkVf5LH7YR9yfFy1Y", 
+            "type": "artist", 
+            "id": "6liAMWkVf5LH7YR9yfFy1Y"
+          }
+        ], 
+        "duration_ms": 229293, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "2kpMuwsPGqKJ0wWwP4z55U"
+      }, 
+      {
+        "name": "Numb", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5ZNth4o3YvTIMs9KWltgFh"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0e0bb1371767f095361aadb64e4ba177aadac9b5", 
+        "is_playable": true, 
+        "uri": "spotify:track:5ZNth4o3YvTIMs9KWltgFh", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5ZNth4o3YvTIMs9KWltgFh", 
+        "artists": [
+          {
+            "name": "Portishead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+            }, 
+            "uri": "spotify:artist:6liAMWkVf5LH7YR9yfFy1Y", 
+            "href": "https://api.spotify.com/v1/artists/6liAMWkVf5LH7YR9yfFy1Y", 
+            "type": "artist", 
+            "id": "6liAMWkVf5LH7YR9yfFy1Y"
+          }
+        ], 
+        "duration_ms": 237973, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "5ZNth4o3YvTIMs9KWltgFh"
+      }, 
+      {
+        "name": "Roads", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6oRbm1KOqskLTFc1rvGi5F"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a42529d4bd4744994af859eeb16e1e39ee2de955", 
+        "is_playable": true, 
+        "uri": "spotify:track:6oRbm1KOqskLTFc1rvGi5F", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6oRbm1KOqskLTFc1rvGi5F", 
+        "artists": [
+          {
+            "name": "Portishead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+            }, 
+            "uri": "spotify:artist:6liAMWkVf5LH7YR9yfFy1Y", 
+            "href": "https://api.spotify.com/v1/artists/6liAMWkVf5LH7YR9yfFy1Y", 
+            "type": "artist", 
+            "id": "6liAMWkVf5LH7YR9yfFy1Y"
+          }
+        ], 
+        "duration_ms": 305160, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "6oRbm1KOqskLTFc1rvGi5F"
+      }, 
+      {
+        "name": "Pedestal", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2pLd3HDEudPVQYdQpdB8BD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6c07eae3a0c256f97f12363010717db4e0ff2d57", 
+        "is_playable": true, 
+        "uri": "spotify:track:2pLd3HDEudPVQYdQpdB8BD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2pLd3HDEudPVQYdQpdB8BD", 
+        "artists": [
+          {
+            "name": "Portishead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+            }, 
+            "uri": "spotify:artist:6liAMWkVf5LH7YR9yfFy1Y", 
+            "href": "https://api.spotify.com/v1/artists/6liAMWkVf5LH7YR9yfFy1Y", 
+            "type": "artist", 
+            "id": "6liAMWkVf5LH7YR9yfFy1Y"
+          }
+        ], 
+        "duration_ms": 221000, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "2pLd3HDEudPVQYdQpdB8BD"
+      }, 
+      {
+        "name": "Biscuit", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1jQOkDI456dkXWCKdY85mj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6f58a80e521ca3a5e8efd6da37dbd1832ad07e56", 
+        "is_playable": true, 
+        "uri": "spotify:track:1jQOkDI456dkXWCKdY85mj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1jQOkDI456dkXWCKdY85mj", 
+        "artists": [
+          {
+            "name": "Portishead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+            }, 
+            "uri": "spotify:artist:6liAMWkVf5LH7YR9yfFy1Y", 
+            "href": "https://api.spotify.com/v1/artists/6liAMWkVf5LH7YR9yfFy1Y", 
+            "type": "artist", 
+            "id": "6liAMWkVf5LH7YR9yfFy1Y"
+          }
+        ], 
+        "duration_ms": 304106, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "1jQOkDI456dkXWCKdY85mj"
+      }, 
+      {
+        "name": "Glory Box", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/68oUQRwGJGExtkpaSvSbgb"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b5bb94d6b01d832e6198f38d840a6b674c66f527", 
+        "is_playable": true, 
+        "uri": "spotify:track:68oUQRwGJGExtkpaSvSbgb", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/68oUQRwGJGExtkpaSvSbgb", 
+        "artists": [
+          {
+            "name": "Portishead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+            }, 
+            "uri": "spotify:artist:6liAMWkVf5LH7YR9yfFy1Y", 
+            "href": "https://api.spotify.com/v1/artists/6liAMWkVf5LH7YR9yfFy1Y", 
+            "type": "artist", 
+            "id": "6liAMWkVf5LH7YR9yfFy1Y"
+          }
+        ], 
+        "duration_ms": 305560, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "68oUQRwGJGExtkpaSvSbgb"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/3gxOtUSRzweDWBKlpj7cG6/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 11, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/3gxOtUSRzweDWBKlpj7cG6", 
+  "copyrights": [
+    {
+      "text": "(C) 1994 Go! Discs Ltd.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1994 Go! Discs Ltd.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Portishead", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+      }, 
+      "uri": "spotify:artist:6liAMWkVf5LH7YR9yfFy1Y", 
+      "href": "https://api.spotify.com/v1/artists/6liAMWkVf5LH7YR9yfFy1Y", 
+      "type": "artist", 
+      "id": "6liAMWkVf5LH7YR9yfFy1Y"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/b72a514a7a7ba3cd9084192ca6dbe96ec69845bc", 
+      "width": 631, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/9ca833f19ec7df74eda25221b5d6abb9af3b4755", 
+      "width": 296, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/2d232105986681b3ea02c2dddd3541952663742f", 
+      "width": 63, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00042282855329"
+  }, 
+  "type": "album", 
+  "id": "3gxOtUSRzweDWBKlpj7cG6", 
+  "name": "Dummy"
+}

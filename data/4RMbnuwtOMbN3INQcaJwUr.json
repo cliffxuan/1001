@@ -1,0 +1,375 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4RMbnuwtOMbN3INQcaJwUr"
+  }, 
+  "release_date": "1976", 
+  "popularity": 66, 
+  "genres": [], 
+  "uri": "spotify:album:4RMbnuwtOMbN3INQcaJwUr", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Up On Cripple Creek", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4jyiW9JrPpKHlMuP096ZX6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3a687ff33991b77a0f6be7f1b0f72ef4ee7bd04a", 
+        "is_playable": true, 
+        "uri": "spotify:track:4jyiW9JrPpKHlMuP096ZX6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4jyiW9JrPpKHlMuP096ZX6", 
+        "artists": [
+          {
+            "name": "The Band", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+            }, 
+            "uri": "spotify:artist:4vpDg7Y7fU982Ds30zawDA", 
+            "href": "https://api.spotify.com/v1/artists/4vpDg7Y7fU982Ds30zawDA", 
+            "type": "artist", 
+            "id": "4vpDg7Y7fU982Ds30zawDA"
+          }
+        ], 
+        "duration_ms": 271400, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "4jyiW9JrPpKHlMuP096ZX6"
+      }, 
+      {
+        "name": "The Shape I'm In", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1vgynPzfnKfwmMk6mskZ4a"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d0b521e1dc23d374dae079130b02ac5c8f3deff0", 
+        "is_playable": true, 
+        "uri": "spotify:track:1vgynPzfnKfwmMk6mskZ4a", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1vgynPzfnKfwmMk6mskZ4a", 
+        "artists": [
+          {
+            "name": "The Band", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+            }, 
+            "uri": "spotify:artist:4vpDg7Y7fU982Ds30zawDA", 
+            "href": "https://api.spotify.com/v1/artists/4vpDg7Y7fU982Ds30zawDA", 
+            "type": "artist", 
+            "id": "4vpDg7Y7fU982Ds30zawDA"
+          }
+        ], 
+        "duration_ms": 241333, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "1vgynPzfnKfwmMk6mskZ4a"
+      }, 
+      {
+        "name": "The Weight", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2UgZeV435iztRTLrUeOrtk"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0b1724ef5c22e1f42320c5ce3dfbb67e3bbc2eaf", 
+        "is_playable": true, 
+        "uri": "spotify:track:2UgZeV435iztRTLrUeOrtk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2UgZeV435iztRTLrUeOrtk", 
+        "artists": [
+          {
+            "name": "The Band", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+            }, 
+            "uri": "spotify:artist:4vpDg7Y7fU982Ds30zawDA", 
+            "href": "https://api.spotify.com/v1/artists/4vpDg7Y7fU982Ds30zawDA", 
+            "type": "artist", 
+            "id": "4vpDg7Y7fU982Ds30zawDA"
+          }
+        ], 
+        "duration_ms": 274866, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "2UgZeV435iztRTLrUeOrtk"
+      }, 
+      {
+        "name": "It Makes No Difference", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7EOzoljEQPr0LIcKjM4Auo"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/45f0dd8fd9fc3350466c9c9205c7abdb342a937b", 
+        "is_playable": true, 
+        "uri": "spotify:track:7EOzoljEQPr0LIcKjM4Auo", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7EOzoljEQPr0LIcKjM4Auo", 
+        "artists": [
+          {
+            "name": "The Band", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+            }, 
+            "uri": "spotify:artist:4vpDg7Y7fU982Ds30zawDA", 
+            "href": "https://api.spotify.com/v1/artists/4vpDg7Y7fU982Ds30zawDA", 
+            "type": "artist", 
+            "id": "4vpDg7Y7fU982Ds30zawDA"
+          }
+        ], 
+        "duration_ms": 392773, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "7EOzoljEQPr0LIcKjM4Auo"
+      }, 
+      {
+        "name": "Life Is a Carnival", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/08GcRtSWy2YoCPKbNx2wiA"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d34223b51f5a8ff753b0b97de3392c043d2d7d7a", 
+        "is_playable": true, 
+        "uri": "spotify:track:08GcRtSWy2YoCPKbNx2wiA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/08GcRtSWy2YoCPKbNx2wiA", 
+        "artists": [
+          {
+            "name": "The Band", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+            }, 
+            "uri": "spotify:artist:4vpDg7Y7fU982Ds30zawDA", 
+            "href": "https://api.spotify.com/v1/artists/4vpDg7Y7fU982Ds30zawDA", 
+            "type": "artist", 
+            "id": "4vpDg7Y7fU982Ds30zawDA"
+          }
+        ], 
+        "duration_ms": 236226, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "08GcRtSWy2YoCPKbNx2wiA"
+      }, 
+      {
+        "name": "Twilight", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/795Ht1XpBS6uBntWGP4TmA"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bb140688e68cec2a40d83d210007bba8b0003d19", 
+        "is_playable": true, 
+        "uri": "spotify:track:795Ht1XpBS6uBntWGP4TmA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/795Ht1XpBS6uBntWGP4TmA", 
+        "artists": [
+          {
+            "name": "The Band", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+            }, 
+            "uri": "spotify:artist:4vpDg7Y7fU982Ds30zawDA", 
+            "href": "https://api.spotify.com/v1/artists/4vpDg7Y7fU982Ds30zawDA", 
+            "type": "artist", 
+            "id": "4vpDg7Y7fU982Ds30zawDA"
+          }
+        ], 
+        "duration_ms": 196200, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "795Ht1XpBS6uBntWGP4TmA"
+      }, 
+      {
+        "name": "Don't Do It", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5qROqYp29eu5peWw3omdd4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f5998e5f894372673305f030a1cf49c2fe8e63d0", 
+        "is_playable": true, 
+        "uri": "spotify:track:5qROqYp29eu5peWw3omdd4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5qROqYp29eu5peWw3omdd4", 
+        "artists": [
+          {
+            "name": "The Band", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+            }, 
+            "uri": "spotify:artist:4vpDg7Y7fU982Ds30zawDA", 
+            "href": "https://api.spotify.com/v1/artists/4vpDg7Y7fU982Ds30zawDA", 
+            "type": "artist", 
+            "id": "4vpDg7Y7fU982Ds30zawDA"
+          }
+        ], 
+        "duration_ms": 276240, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "5qROqYp29eu5peWw3omdd4"
+      }, 
+      {
+        "name": "Tears of Rage", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5xWCKVv55STb3t50r9IBf7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/172cee339c66fe77de0f8059f2b9f80fcd97a4cc", 
+        "is_playable": true, 
+        "uri": "spotify:track:5xWCKVv55STb3t50r9IBf7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5xWCKVv55STb3t50r9IBf7", 
+        "artists": [
+          {
+            "name": "The Band", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+            }, 
+            "uri": "spotify:artist:4vpDg7Y7fU982Ds30zawDA", 
+            "href": "https://api.spotify.com/v1/artists/4vpDg7Y7fU982Ds30zawDA", 
+            "type": "artist", 
+            "id": "4vpDg7Y7fU982Ds30zawDA"
+          }
+        ], 
+        "duration_ms": 321426, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "5xWCKVv55STb3t50r9IBf7"
+      }, 
+      {
+        "name": "Stage Fright", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7DBYSwLoiMidbrHspSjJ5H"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/66ef2cc6a6a898aeaa56ef294a910355e7e4d036", 
+        "is_playable": true, 
+        "uri": "spotify:track:7DBYSwLoiMidbrHspSjJ5H", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7DBYSwLoiMidbrHspSjJ5H", 
+        "artists": [
+          {
+            "name": "The Band", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+            }, 
+            "uri": "spotify:artist:4vpDg7Y7fU982Ds30zawDA", 
+            "href": "https://api.spotify.com/v1/artists/4vpDg7Y7fU982Ds30zawDA", 
+            "type": "artist", 
+            "id": "4vpDg7Y7fU982Ds30zawDA"
+          }
+        ], 
+        "duration_ms": 221466, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "7DBYSwLoiMidbrHspSjJ5H"
+      }, 
+      {
+        "name": "Ophelia", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6lILD13j0qLxQTFI7Hk31g"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b18f6c03bf6f172e99cd9bf6f87ffb77daad26b2", 
+        "is_playable": true, 
+        "uri": "spotify:track:6lILD13j0qLxQTFI7Hk31g", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6lILD13j0qLxQTFI7Hk31g", 
+        "artists": [
+          {
+            "name": "The Band", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+            }, 
+            "uri": "spotify:artist:4vpDg7Y7fU982Ds30zawDA", 
+            "href": "https://api.spotify.com/v1/artists/4vpDg7Y7fU982Ds30zawDA", 
+            "type": "artist", 
+            "id": "4vpDg7Y7fU982Ds30zawDA"
+          }
+        ], 
+        "duration_ms": 211173, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "6lILD13j0qLxQTFI7Hk31g"
+      }, 
+      {
+        "name": "The Night They Drove Old Dixie Down", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5zO9RvDPry8grjB29ho81D"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/be1afae2655f057422d3342a82b710d5c5f2be5c", 
+        "is_playable": true, 
+        "uri": "spotify:track:5zO9RvDPry8grjB29ho81D", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5zO9RvDPry8grjB29ho81D", 
+        "artists": [
+          {
+            "name": "The Band", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+            }, 
+            "uri": "spotify:artist:4vpDg7Y7fU982Ds30zawDA", 
+            "href": "https://api.spotify.com/v1/artists/4vpDg7Y7fU982Ds30zawDA", 
+            "type": "artist", 
+            "id": "4vpDg7Y7fU982Ds30zawDA"
+          }
+        ], 
+        "duration_ms": 210893, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "5zO9RvDPry8grjB29ho81D"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/4RMbnuwtOMbN3INQcaJwUr/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 11, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/4RMbnuwtOMbN3INQcaJwUr", 
+  "copyrights": [
+    {
+      "text": "(C) 2006 Capitol Records, Inc.", 
+      "type": "C"
+    }, 
+    {
+      "text": "Compilation (P) (C) 2006 Capitol Records, Inc.. All rights reserved. Unauthorized reproduction is a violation of applicable laws. Manufactured by Capitol Catalog,", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "The Band", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+      }, 
+      "uri": "spotify:artist:4vpDg7Y7fU982Ds30zawDA", 
+      "href": "https://api.spotify.com/v1/artists/4vpDg7Y7fU982Ds30zawDA", 
+      "type": "artist", 
+      "id": "4vpDg7Y7fU982Ds30zawDA"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/b8b604349f4beed80d5b923da34ead455be82774", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/2dbf5a5e02da965923ab29e87af2a3b7af03806d", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/1537503f79de84471aaa487b43686d0caeee91dc", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00094638491255"
+  }, 
+  "type": "album", 
+  "id": "4RMbnuwtOMbN3INQcaJwUr", 
+  "name": "Best Of The Band"
+}

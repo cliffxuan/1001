@@ -1,0 +1,375 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0vypdDHTQsoVmVu8OgXEly"
+  }, 
+  "release_date": "1971-12-17", 
+  "popularity": 66, 
+  "genres": [], 
+  "uri": "spotify:album:0vypdDHTQsoVmVu8OgXEly", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Changes - 1999 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1UBilOBSTjHxFBpsHNfykQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cf0decdd78b9eb8596a2da115aa8da5b075cd9c2", 
+        "is_playable": true, 
+        "uri": "spotify:track:1UBilOBSTjHxFBpsHNfykQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1UBilOBSTjHxFBpsHNfykQ", 
+        "artists": [
+          {
+            "name": "David Bowie", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+            }, 
+            "uri": "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy", 
+            "href": "https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy", 
+            "type": "artist", 
+            "id": "0oSGxfWSnnOXhD2fKuz2Gy"
+          }
+        ], 
+        "duration_ms": 214573, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "1UBilOBSTjHxFBpsHNfykQ"
+      }, 
+      {
+        "name": "Oh! You Pretty Things - 1999 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4UPBIL7XukyiFvovtrRYVN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9a0b7886cca4963b7e242b22edb3fd44114d191d", 
+        "is_playable": true, 
+        "uri": "spotify:track:4UPBIL7XukyiFvovtrRYVN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4UPBIL7XukyiFvovtrRYVN", 
+        "artists": [
+          {
+            "name": "David Bowie", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+            }, 
+            "uri": "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy", 
+            "href": "https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy", 
+            "type": "artist", 
+            "id": "0oSGxfWSnnOXhD2fKuz2Gy"
+          }
+        ], 
+        "duration_ms": 192333, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "4UPBIL7XukyiFvovtrRYVN"
+      }, 
+      {
+        "name": "Eight Line Poem - 1999 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4E9iLjQrPnOCYOgRrQTpiL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2463c30d7b46f1724a56e68075e41653d517f8d7", 
+        "is_playable": true, 
+        "uri": "spotify:track:4E9iLjQrPnOCYOgRrQTpiL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4E9iLjQrPnOCYOgRrQTpiL", 
+        "artists": [
+          {
+            "name": "David Bowie", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+            }, 
+            "uri": "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy", 
+            "href": "https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy", 
+            "type": "artist", 
+            "id": "0oSGxfWSnnOXhD2fKuz2Gy"
+          }
+        ], 
+        "duration_ms": 175706, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "4E9iLjQrPnOCYOgRrQTpiL"
+      }, 
+      {
+        "name": "Life On Mars? - 1999 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1C9NuEa1wOF15EOBuWaaxS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/79b14809cedcab031f4fd0f14e807f211ed175ae", 
+        "is_playable": true, 
+        "uri": "spotify:track:1C9NuEa1wOF15EOBuWaaxS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1C9NuEa1wOF15EOBuWaaxS", 
+        "artists": [
+          {
+            "name": "David Bowie", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+            }, 
+            "uri": "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy", 
+            "href": "https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy", 
+            "type": "artist", 
+            "id": "0oSGxfWSnnOXhD2fKuz2Gy"
+          }
+        ], 
+        "duration_ms": 223413, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "1C9NuEa1wOF15EOBuWaaxS"
+      }, 
+      {
+        "name": "Kooks - 1999 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2NOsNak3mXN0Y3678sVn6V"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b642e128966a1c911de55abf68b15330a6ee9e16", 
+        "is_playable": true, 
+        "uri": "spotify:track:2NOsNak3mXN0Y3678sVn6V", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2NOsNak3mXN0Y3678sVn6V", 
+        "artists": [
+          {
+            "name": "David Bowie", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+            }, 
+            "uri": "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy", 
+            "href": "https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy", 
+            "type": "artist", 
+            "id": "0oSGxfWSnnOXhD2fKuz2Gy"
+          }
+        ], 
+        "duration_ms": 173466, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "2NOsNak3mXN0Y3678sVn6V"
+      }, 
+      {
+        "name": "Quicksand - 1999 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1JBg3MrS3FfK32kVyGZbAz"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ff0874601169e2c255ecd79090590a8c0b633321", 
+        "is_playable": true, 
+        "uri": "spotify:track:1JBg3MrS3FfK32kVyGZbAz", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1JBg3MrS3FfK32kVyGZbAz", 
+        "artists": [
+          {
+            "name": "David Bowie", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+            }, 
+            "uri": "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy", 
+            "href": "https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy", 
+            "type": "artist", 
+            "id": "0oSGxfWSnnOXhD2fKuz2Gy"
+          }
+        ], 
+        "duration_ms": 306960, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "1JBg3MrS3FfK32kVyGZbAz"
+      }, 
+      {
+        "name": "Fill Your Heart - 1999 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1iad9hIOVRWfkpe0fGAITi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/00c47dafc0952f2ccfc0aefc1de0543e17ff6dcf", 
+        "is_playable": true, 
+        "uri": "spotify:track:1iad9hIOVRWfkpe0fGAITi", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1iad9hIOVRWfkpe0fGAITi", 
+        "artists": [
+          {
+            "name": "David Bowie", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+            }, 
+            "uri": "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy", 
+            "href": "https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy", 
+            "type": "artist", 
+            "id": "0oSGxfWSnnOXhD2fKuz2Gy"
+          }
+        ], 
+        "duration_ms": 187400, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "1iad9hIOVRWfkpe0fGAITi"
+      }, 
+      {
+        "name": "Andy Warhol - 1999 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Vwjtc0f9F1OBAoUjZDYG1"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e6e7fedfa7e208f423a705c2f168e6881f8e92d3", 
+        "is_playable": true, 
+        "uri": "spotify:track:6Vwjtc0f9F1OBAoUjZDYG1", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6Vwjtc0f9F1OBAoUjZDYG1", 
+        "artists": [
+          {
+            "name": "David Bowie", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+            }, 
+            "uri": "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy", 
+            "href": "https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy", 
+            "type": "artist", 
+            "id": "0oSGxfWSnnOXhD2fKuz2Gy"
+          }
+        ], 
+        "duration_ms": 236840, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "6Vwjtc0f9F1OBAoUjZDYG1"
+      }, 
+      {
+        "name": "Song For Bob Dylan", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/26RKyOFSkv4TW1tVPtjQ2U"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b8883d90ed80d8e4647388746df26faea96c5620", 
+        "is_playable": true, 
+        "uri": "spotify:track:26RKyOFSkv4TW1tVPtjQ2U", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/26RKyOFSkv4TW1tVPtjQ2U", 
+        "artists": [
+          {
+            "name": "David Bowie", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+            }, 
+            "uri": "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy", 
+            "href": "https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy", 
+            "type": "artist", 
+            "id": "0oSGxfWSnnOXhD2fKuz2Gy"
+          }
+        ], 
+        "duration_ms": 252333, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "26RKyOFSkv4TW1tVPtjQ2U"
+      }, 
+      {
+        "name": "Queen Bitch", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7szCdhEyZ2xAEkVyZWS9uB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/34ee84fec8c3ebc44b166a4fce0a7f51178b241b", 
+        "is_playable": true, 
+        "uri": "spotify:track:7szCdhEyZ2xAEkVyZWS9uB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7szCdhEyZ2xAEkVyZWS9uB", 
+        "artists": [
+          {
+            "name": "David Bowie", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+            }, 
+            "uri": "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy", 
+            "href": "https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy", 
+            "type": "artist", 
+            "id": "0oSGxfWSnnOXhD2fKuz2Gy"
+          }
+        ], 
+        "duration_ms": 195640, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "7szCdhEyZ2xAEkVyZWS9uB"
+      }, 
+      {
+        "name": "The Bewlay Brothers - 1999 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7EtSXrD91xJRWi1e8W8JsY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/38928552c1378222f9ce8e13684a9bee28e053f2", 
+        "is_playable": true, 
+        "uri": "spotify:track:7EtSXrD91xJRWi1e8W8JsY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7EtSXrD91xJRWi1e8W8JsY", 
+        "artists": [
+          {
+            "name": "David Bowie", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+            }, 
+            "uri": "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy", 
+            "href": "https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy", 
+            "type": "artist", 
+            "id": "0oSGxfWSnnOXhD2fKuz2Gy"
+          }
+        ], 
+        "duration_ms": 323466, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "7EtSXrD91xJRWi1e8W8JsY"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/0vypdDHTQsoVmVu8OgXEly/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 11, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/0vypdDHTQsoVmVu8OgXEly", 
+  "copyrights": [
+    {
+      "text": "1999 Jones/Tintoretto Entertainment Company LLC This label copy information is the subject of copyright protection. All rights reserved. (C) 1999 Parlophone Records Ltd", 
+      "type": "C"
+    }, 
+    {
+      "text": "1999 Digital Remaster (P) 1999 The copyright in this sound recording is owned by Jones/Tintoretto Entertainment Company LLC under exclusive licence to Parlophone Records Ltd", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "David Bowie", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+      }, 
+      "uri": "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy", 
+      "href": "https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy", 
+      "type": "artist", 
+      "id": "0oSGxfWSnnOXhD2fKuz2Gy"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/cad80da5548ea005abc0d957ef48a87644f4f707", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/1b2d3105a3e87cc9fb011dacc19cbdc9c678d803", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/9ab32a8ddfc7dd37573d3ee5ed518a312d012fb3", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "0724352189953"
+  }, 
+  "type": "album", 
+  "id": "0vypdDHTQsoVmVu8OgXEly", 
+  "name": "Hunky Dory"
+}

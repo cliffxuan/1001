@@ -1,0 +1,507 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7LDCjIEBt6XRKswMZhwDI2"
+  }, 
+  "release_date": "1999-12-03", 
+  "popularity": 30, 
+  "genres": [], 
+  "uri": "spotify:album:7LDCjIEBt6XRKswMZhwDI2", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Aalach Tloumouni", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2TivqoaN5rqiFi9AKVfhU2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/912e46c0db7bca70ba016ffc96d6106d9af15bca", 
+        "is_playable": true, 
+        "uri": "spotify:track:2TivqoaN5rqiFi9AKVfhU2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2TivqoaN5rqiFi9AKVfhU2", 
+        "artists": [
+          {
+            "name": "Khaled", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
+            }, 
+            "uri": "spotify:artist:28ztjHIXceRRntmTUfnmUX", 
+            "href": "https://api.spotify.com/v1/artists/28ztjHIXceRRntmTUfnmUX", 
+            "type": "artist", 
+            "id": "28ztjHIXceRRntmTUfnmUX"
+          }
+        ], 
+        "duration_ms": 304640, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "2TivqoaN5rqiFi9AKVfhU2"
+      }, 
+      {
+        "name": "El Harba Wine", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/06xTphIkYOpc9ECSI8ECOf"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7645d1052e5044dfe0ca4f47bd220d855d39f43d", 
+        "is_playable": true, 
+        "uri": "spotify:track:06xTphIkYOpc9ECSI8ECOf", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/06xTphIkYOpc9ECSI8ECOf", 
+        "artists": [
+          {
+            "name": "Khaled", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
+            }, 
+            "uri": "spotify:artist:28ztjHIXceRRntmTUfnmUX", 
+            "href": "https://api.spotify.com/v1/artists/28ztjHIXceRRntmTUfnmUX", 
+            "type": "artist", 
+            "id": "28ztjHIXceRRntmTUfnmUX"
+          }, 
+          {
+            "name": "Amar", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6QdjZOuApe5DjregmD5BLj"
+            }, 
+            "uri": "spotify:artist:6QdjZOuApe5DjregmD5BLj", 
+            "href": "https://api.spotify.com/v1/artists/6QdjZOuApe5DjregmD5BLj", 
+            "type": "artist", 
+            "id": "6QdjZOuApe5DjregmD5BLj"
+          }
+        ], 
+        "duration_ms": 274880, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "06xTphIkYOpc9ECSI8ECOf"
+      }, 
+      {
+        "name": "C'Est La Nuit - Version Album", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5MUQ1JUKmS6uZxTVAbdO8j"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2bdd86351e373684c4ead49619fee9ef7db560b5", 
+        "is_playable": true, 
+        "uri": "spotify:track:5MUQ1JUKmS6uZxTVAbdO8j", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5MUQ1JUKmS6uZxTVAbdO8j", 
+        "artists": [
+          {
+            "name": "Khaled", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
+            }, 
+            "uri": "spotify:artist:28ztjHIXceRRntmTUfnmUX", 
+            "href": "https://api.spotify.com/v1/artists/28ztjHIXceRRntmTUfnmUX", 
+            "type": "artist", 
+            "id": "28ztjHIXceRRntmTUfnmUX"
+          }
+        ], 
+        "duration_ms": 305440, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "5MUQ1JUKmS6uZxTVAbdO8j"
+      }, 
+      {
+        "name": "Imagine", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1TzAo6TLPCrwEnrAZO8C43"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2791cc928e14a5b30b2965e58b6b3971a104b05c", 
+        "is_playable": true, 
+        "uri": "spotify:track:1TzAo6TLPCrwEnrAZO8C43", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1TzAo6TLPCrwEnrAZO8C43", 
+        "artists": [
+          {
+            "name": "Khaled", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
+            }, 
+            "uri": "spotify:artist:28ztjHIXceRRntmTUfnmUX", 
+            "href": "https://api.spotify.com/v1/artists/28ztjHIXceRRntmTUfnmUX", 
+            "type": "artist", 
+            "id": "28ztjHIXceRRntmTUfnmUX"
+          }, 
+          {
+            "name": "Noa", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6HwRSGDwpltqE6T0xQF8Xu"
+            }, 
+            "uri": "spotify:artist:6HwRSGDwpltqE6T0xQF8Xu", 
+            "href": "https://api.spotify.com/v1/artists/6HwRSGDwpltqE6T0xQF8Xu", 
+            "type": "artist", 
+            "id": "6HwRSGDwpltqE6T0xQF8Xu"
+          }
+        ], 
+        "duration_ms": 246693, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "1TzAo6TLPCrwEnrAZO8C43"
+      }, 
+      {
+        "name": "Trigue Lycee", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0B6HuTBvJXRB9xrX0PlRqe"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0a1d2ccc241e52df8d17ff9bdfd494ad147489e5", 
+        "is_playable": true, 
+        "uri": "spotify:track:0B6HuTBvJXRB9xrX0PlRqe", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0B6HuTBvJXRB9xrX0PlRqe", 
+        "artists": [
+          {
+            "name": "Khaled", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
+            }, 
+            "uri": "spotify:artist:28ztjHIXceRRntmTUfnmUX", 
+            "href": "https://api.spotify.com/v1/artists/28ztjHIXceRRntmTUfnmUX", 
+            "type": "artist", 
+            "id": "28ztjHIXceRRntmTUfnmUX"
+          }
+        ], 
+        "duration_ms": 283160, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "0B6HuTBvJXRB9xrX0PlRqe"
+      }, 
+      {
+        "name": "E'Dir E'Sseba", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5DKuyrhMtVTIYrzCJQkxjI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7cb858d6f40afe2726bdfdb6dfec5d003ba96d52", 
+        "is_playable": true, 
+        "uri": "spotify:track:5DKuyrhMtVTIYrzCJQkxjI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5DKuyrhMtVTIYrzCJQkxjI", 
+        "artists": [
+          {
+            "name": "Khaled", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
+            }, 
+            "uri": "spotify:artist:28ztjHIXceRRntmTUfnmUX", 
+            "href": "https://api.spotify.com/v1/artists/28ztjHIXceRRntmTUfnmUX", 
+            "type": "artist", 
+            "id": "28ztjHIXceRRntmTUfnmUX"
+          }
+        ], 
+        "duration_ms": 351866, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "5DKuyrhMtVTIYrzCJQkxjI"
+      }, 
+      {
+        "name": "Ya Aachkou", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7eHjh0M6pBAnodKd2lojn5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2a76ecd80f0d24895a5b9c9ffe49e51ba98f52a7", 
+        "is_playable": true, 
+        "uri": "spotify:track:7eHjh0M6pBAnodKd2lojn5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7eHjh0M6pBAnodKd2lojn5", 
+        "artists": [
+          {
+            "name": "Khaled", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
+            }, 
+            "uri": "spotify:artist:28ztjHIXceRRntmTUfnmUX", 
+            "href": "https://api.spotify.com/v1/artists/28ztjHIXceRRntmTUfnmUX", 
+            "type": "artist", 
+            "id": "28ztjHIXceRRntmTUfnmUX"
+          }
+        ], 
+        "duration_ms": 235960, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "7eHjh0M6pBAnodKd2lojn5"
+      }, 
+      {
+        "name": "Melha", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6vZIrEj4bmFRbN7eeP5ort"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e5b8d7119b36254b0cbd3f4b98b1fb3b75686a42", 
+        "is_playable": true, 
+        "uri": "spotify:track:6vZIrEj4bmFRbN7eeP5ort", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6vZIrEj4bmFRbN7eeP5ort", 
+        "artists": [
+          {
+            "name": "Khaled", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
+            }, 
+            "uri": "spotify:artist:28ztjHIXceRRntmTUfnmUX", 
+            "href": "https://api.spotify.com/v1/artists/28ztjHIXceRRntmTUfnmUX", 
+            "type": "artist", 
+            "id": "28ztjHIXceRRntmTUfnmUX"
+          }
+        ], 
+        "duration_ms": 367573, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "6vZIrEj4bmFRbN7eeP5ort"
+      }, 
+      {
+        "name": "Raba-Raba", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4cZujqwLmE3RuMmlGhykcj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/126c8cdf2162d41454ccdfd03b5dd41b12b0ce93", 
+        "is_playable": true, 
+        "uri": "spotify:track:4cZujqwLmE3RuMmlGhykcj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4cZujqwLmE3RuMmlGhykcj", 
+        "artists": [
+          {
+            "name": "Khaled", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
+            }, 
+            "uri": "spotify:artist:28ztjHIXceRRntmTUfnmUX", 
+            "href": "https://api.spotify.com/v1/artists/28ztjHIXceRRntmTUfnmUX", 
+            "type": "artist", 
+            "id": "28ztjHIXceRRntmTUfnmUX"
+          }
+        ], 
+        "duration_ms": 337506, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "4cZujqwLmE3RuMmlGhykcj"
+      }, 
+      {
+        "name": "El Bab", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4kcKYF1cVtwULYsS7Ad6Yq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c9e3e64114ad61c4e3d3ab726ad96289079f0e6b", 
+        "is_playable": true, 
+        "uri": "spotify:track:4kcKYF1cVtwULYsS7Ad6Yq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4kcKYF1cVtwULYsS7Ad6Yq", 
+        "artists": [
+          {
+            "name": "Khaled", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
+            }, 
+            "uri": "spotify:artist:28ztjHIXceRRntmTUfnmUX", 
+            "href": "https://api.spotify.com/v1/artists/28ztjHIXceRRntmTUfnmUX", 
+            "type": "artist", 
+            "id": "28ztjHIXceRRntmTUfnmUX"
+          }
+        ], 
+        "duration_ms": 329560, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "4kcKYF1cVtwULYsS7Ad6Yq"
+      }, 
+      {
+        "name": "El Aadyene", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1ep52avMXEGovwYO9GpmNJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/42ab577487cee155139e29192112347d77048f07", 
+        "is_playable": true, 
+        "uri": "spotify:track:1ep52avMXEGovwYO9GpmNJ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1ep52avMXEGovwYO9GpmNJ", 
+        "artists": [
+          {
+            "name": "Khaled", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
+            }, 
+            "uri": "spotify:artist:28ztjHIXceRRntmTUfnmUX", 
+            "href": "https://api.spotify.com/v1/artists/28ztjHIXceRRntmTUfnmUX", 
+            "type": "artist", 
+            "id": "28ztjHIXceRRntmTUfnmUX"
+          }
+        ], 
+        "duration_ms": 337000, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "1ep52avMXEGovwYO9GpmNJ"
+      }, 
+      {
+        "name": "Gouloulha-Dji", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3TrF92zXKFHweelM4Hc7vv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/143003e5a0ad0970bd38559c4d43f8d71192ab6a", 
+        "is_playable": true, 
+        "uri": "spotify:track:3TrF92zXKFHweelM4Hc7vv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3TrF92zXKFHweelM4Hc7vv", 
+        "artists": [
+          {
+            "name": "Khaled", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
+            }, 
+            "uri": "spotify:artist:28ztjHIXceRRntmTUfnmUX", 
+            "href": "https://api.spotify.com/v1/artists/28ztjHIXceRRntmTUfnmUX", 
+            "type": "artist", 
+            "id": "28ztjHIXceRRntmTUfnmUX"
+          }
+        ], 
+        "duration_ms": 337186, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "3TrF92zXKFHweelM4Hc7vv"
+      }, 
+      {
+        "name": "Mele H'Bibti", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/10Mr9Qu1tAt64z4KXPMRTS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d7b71a3eda4643d1713e73bbbadd1de650ec23e9", 
+        "is_playable": true, 
+        "uri": "spotify:track:10Mr9Qu1tAt64z4KXPMRTS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/10Mr9Qu1tAt64z4KXPMRTS", 
+        "artists": [
+          {
+            "name": "Khaled", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
+            }, 
+            "uri": "spotify:artist:28ztjHIXceRRntmTUfnmUX", 
+            "href": "https://api.spotify.com/v1/artists/28ztjHIXceRRntmTUfnmUX", 
+            "type": "artist", 
+            "id": "28ztjHIXceRRntmTUfnmUX"
+          }
+        ], 
+        "duration_ms": 391466, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "10Mr9Qu1tAt64z4KXPMRTS"
+      }, 
+      {
+        "name": "Derwiche Tourneur", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/27iJeZdnHaCHa4WOKHueVL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c5743cd97cdc4aabfd250d2c4c2daf32b806b886", 
+        "is_playable": true, 
+        "uri": "spotify:track:27iJeZdnHaCHa4WOKHueVL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/27iJeZdnHaCHa4WOKHueVL", 
+        "artists": [
+          {
+            "name": "Khaled", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
+            }, 
+            "uri": "spotify:artist:28ztjHIXceRRntmTUfnmUX", 
+            "href": "https://api.spotify.com/v1/artists/28ztjHIXceRRntmTUfnmUX", 
+            "type": "artist", 
+            "id": "28ztjHIXceRRntmTUfnmUX"
+          }
+        ], 
+        "duration_ms": 359520, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "27iJeZdnHaCHa4WOKHueVL"
+      }, 
+      {
+        "name": "Leili - C'Est La Nuit/Version Arabe", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1gylFIyZWnA0jc92q2jqSD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/345a189d65fedb3ee1a8f7561b3ed0c6c93fbc5a", 
+        "is_playable": true, 
+        "uri": "spotify:track:1gylFIyZWnA0jc92q2jqSD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1gylFIyZWnA0jc92q2jqSD", 
+        "artists": [
+          {
+            "name": "Khaled", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
+            }, 
+            "uri": "spotify:artist:28ztjHIXceRRntmTUfnmUX", 
+            "href": "https://api.spotify.com/v1/artists/28ztjHIXceRRntmTUfnmUX", 
+            "type": "artist", 
+            "id": "28ztjHIXceRRntmTUfnmUX"
+          }
+        ], 
+        "duration_ms": 256093, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "1gylFIyZWnA0jc92q2jqSD"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/7LDCjIEBt6XRKswMZhwDI2/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 15, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/7LDCjIEBt6XRKswMZhwDI2", 
+  "copyrights": [
+    {
+      "text": "(C) 1999 Capitol Music France", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1999 Capitol Music France", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Khaled", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
+      }, 
+      "uri": "spotify:artist:28ztjHIXceRRntmTUfnmUX", 
+      "href": "https://api.spotify.com/v1/artists/28ztjHIXceRRntmTUfnmUX", 
+      "type": "artist", 
+      "id": "28ztjHIXceRRntmTUfnmUX"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/85a912b2d21c4f675db6b7fa7bfdf7ad152e67ab", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/cf93cdf7b6e4adf7534508f719a4fda66d61d962", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/3942415eb638f0cf83584ca336824f233ef8547e", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00731454339728"
+  }, 
+  "type": "album", 
+  "id": "7LDCjIEBt6XRKswMZhwDI2", 
+  "name": "Kenza"
+}

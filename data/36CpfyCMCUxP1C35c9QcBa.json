@@ -1,0 +1,515 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/36CpfyCMCUxP1C35c9QcBa"
+  }, 
+  "release_date": "2010", 
+  "popularity": 35, 
+  "genres": [], 
+  "uri": "spotify:album:36CpfyCMCUxP1C35c9QcBa", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Glad - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4uAsQ1aoO2w0hEYdri991j"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0117aded1e158f392b2f532cdb304f4f3a60802d", 
+        "is_playable": true, 
+        "uri": "spotify:track:4uAsQ1aoO2w0hEYdri991j", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4uAsQ1aoO2w0hEYdri991j", 
+        "artists": [
+          {
+            "name": "Traffic", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1CD77o9fbdyQFrHnUPUEsF"
+            }, 
+            "uri": "spotify:artist:1CD77o9fbdyQFrHnUPUEsF", 
+            "href": "https://api.spotify.com/v1/artists/1CD77o9fbdyQFrHnUPUEsF", 
+            "type": "artist", 
+            "id": "1CD77o9fbdyQFrHnUPUEsF"
+          }
+        ], 
+        "duration_ms": 419720, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "4uAsQ1aoO2w0hEYdri991j"
+      }, 
+      {
+        "name": "Freedom Rider - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2hSgCRiSitAURrkzL4zp5w"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b298f826f899151e90e51d6cfbcb2992b8a0006a", 
+        "is_playable": true, 
+        "uri": "spotify:track:2hSgCRiSitAURrkzL4zp5w", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2hSgCRiSitAURrkzL4zp5w", 
+        "artists": [
+          {
+            "name": "Traffic", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1CD77o9fbdyQFrHnUPUEsF"
+            }, 
+            "uri": "spotify:artist:1CD77o9fbdyQFrHnUPUEsF", 
+            "href": "https://api.spotify.com/v1/artists/1CD77o9fbdyQFrHnUPUEsF", 
+            "type": "artist", 
+            "id": "1CD77o9fbdyQFrHnUPUEsF"
+          }
+        ], 
+        "duration_ms": 325986, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "2hSgCRiSitAURrkzL4zp5w"
+      }, 
+      {
+        "name": "Empty Pages - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7xN3FfAV4eEyPhwFY2JLIR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a04be13ba334cec6c5955eb8e310119ef2a74a59", 
+        "is_playable": true, 
+        "uri": "spotify:track:7xN3FfAV4eEyPhwFY2JLIR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7xN3FfAV4eEyPhwFY2JLIR", 
+        "artists": [
+          {
+            "name": "Traffic", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1CD77o9fbdyQFrHnUPUEsF"
+            }, 
+            "uri": "spotify:artist:1CD77o9fbdyQFrHnUPUEsF", 
+            "href": "https://api.spotify.com/v1/artists/1CD77o9fbdyQFrHnUPUEsF", 
+            "type": "artist", 
+            "id": "1CD77o9fbdyQFrHnUPUEsF"
+          }
+        ], 
+        "duration_ms": 274680, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "7xN3FfAV4eEyPhwFY2JLIR"
+      }, 
+      {
+        "name": "Stranger To Himself - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1xiFsLZEoDVhhLKjY5UITL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f73d5ee90dcb13e1fdd938327df7c73d54a86617", 
+        "is_playable": true, 
+        "uri": "spotify:track:1xiFsLZEoDVhhLKjY5UITL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1xiFsLZEoDVhhLKjY5UITL", 
+        "artists": [
+          {
+            "name": "Traffic", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1CD77o9fbdyQFrHnUPUEsF"
+            }, 
+            "uri": "spotify:artist:1CD77o9fbdyQFrHnUPUEsF", 
+            "href": "https://api.spotify.com/v1/artists/1CD77o9fbdyQFrHnUPUEsF", 
+            "type": "artist", 
+            "id": "1CD77o9fbdyQFrHnUPUEsF"
+          }
+        ], 
+        "duration_ms": 232146, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "1xiFsLZEoDVhhLKjY5UITL"
+      }, 
+      {
+        "name": "John Barleycorn (Must Die) - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4nuoe3vmGgtCdTQqaIIn2D"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ea8f42ea30bfcbaeebfb7276922774682ebafdb1", 
+        "is_playable": true, 
+        "uri": "spotify:track:4nuoe3vmGgtCdTQqaIIn2D", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4nuoe3vmGgtCdTQqaIIn2D", 
+        "artists": [
+          {
+            "name": "Traffic", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1CD77o9fbdyQFrHnUPUEsF"
+            }, 
+            "uri": "spotify:artist:1CD77o9fbdyQFrHnUPUEsF", 
+            "href": "https://api.spotify.com/v1/artists/1CD77o9fbdyQFrHnUPUEsF", 
+            "type": "artist", 
+            "id": "1CD77o9fbdyQFrHnUPUEsF"
+          }
+        ], 
+        "duration_ms": 382893, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "4nuoe3vmGgtCdTQqaIIn2D"
+      }, 
+      {
+        "name": "Every Mother's Son - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6uG4swltIoYPitHWRNlVjn"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0027d6249da0fa1dc976897db37aba0ff138e88a", 
+        "is_playable": true, 
+        "uri": "spotify:track:6uG4swltIoYPitHWRNlVjn", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6uG4swltIoYPitHWRNlVjn", 
+        "artists": [
+          {
+            "name": "Traffic", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1CD77o9fbdyQFrHnUPUEsF"
+            }, 
+            "uri": "spotify:artist:1CD77o9fbdyQFrHnUPUEsF", 
+            "href": "https://api.spotify.com/v1/artists/1CD77o9fbdyQFrHnUPUEsF", 
+            "type": "artist", 
+            "id": "1CD77o9fbdyQFrHnUPUEsF"
+          }
+        ], 
+        "duration_ms": 425613, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "6uG4swltIoYPitHWRNlVjn"
+      }, 
+      {
+        "name": "Stranger To Himself - Alternative Mix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0OWRNMDhUGMsIwBnLsLACb"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/397d15fb1d3cb6a60002b00fe8d0eaf544d6e780", 
+        "is_playable": true, 
+        "uri": "spotify:track:0OWRNMDhUGMsIwBnLsLACb", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/0OWRNMDhUGMsIwBnLsLACb", 
+        "artists": [
+          {
+            "name": "Traffic", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1CD77o9fbdyQFrHnUPUEsF"
+            }, 
+            "uri": "spotify:artist:1CD77o9fbdyQFrHnUPUEsF", 
+            "href": "https://api.spotify.com/v1/artists/1CD77o9fbdyQFrHnUPUEsF", 
+            "type": "artist", 
+            "id": "1CD77o9fbdyQFrHnUPUEsF"
+          }
+        ], 
+        "duration_ms": 248986, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "0OWRNMDhUGMsIwBnLsLACb"
+      }, 
+      {
+        "name": "John Barleycorn (Must Die) - First Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0fDRcp8tPb6CHFDe4zRv8J"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b8bc463ee5f3426394f01c68df38aa0e90166223", 
+        "is_playable": true, 
+        "uri": "spotify:track:0fDRcp8tPb6CHFDe4zRv8J", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/0fDRcp8tPb6CHFDe4zRv8J", 
+        "artists": [
+          {
+            "name": "Traffic", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1CD77o9fbdyQFrHnUPUEsF"
+            }, 
+            "uri": "spotify:artist:1CD77o9fbdyQFrHnUPUEsF", 
+            "href": "https://api.spotify.com/v1/artists/1CD77o9fbdyQFrHnUPUEsF", 
+            "type": "artist", 
+            "id": "1CD77o9fbdyQFrHnUPUEsF"
+          }
+        ], 
+        "duration_ms": 305520, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "0fDRcp8tPb6CHFDe4zRv8J"
+      }, 
+      {
+        "name": "Every Mother's Son - Alternative Mix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0gd3aV7cIU5wC55OdkjbA2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7e450cce7d518cb28b7eaf39e4fdbcc1ed7fdbaf", 
+        "is_playable": true, 
+        "uri": "spotify:track:0gd3aV7cIU5wC55OdkjbA2", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/0gd3aV7cIU5wC55OdkjbA2", 
+        "artists": [
+          {
+            "name": "Traffic", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1CD77o9fbdyQFrHnUPUEsF"
+            }, 
+            "uri": "spotify:artist:1CD77o9fbdyQFrHnUPUEsF", 
+            "href": "https://api.spotify.com/v1/artists/1CD77o9fbdyQFrHnUPUEsF", 
+            "type": "artist", 
+            "id": "1CD77o9fbdyQFrHnUPUEsF"
+          }
+        ], 
+        "duration_ms": 423080, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "0gd3aV7cIU5wC55OdkjbA2"
+      }, 
+      {
+        "name": "Intro", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4iyayApEhm2Ic5xUmg44Ig"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/14b700739ff731e32c4992f21b0313fa0108ad8d", 
+        "is_playable": true, 
+        "uri": "spotify:track:4iyayApEhm2Ic5xUmg44Ig", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4iyayApEhm2Ic5xUmg44Ig", 
+        "artists": [
+          {
+            "name": "Traffic", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1CD77o9fbdyQFrHnUPUEsF"
+            }, 
+            "uri": "spotify:artist:1CD77o9fbdyQFrHnUPUEsF", 
+            "href": "https://api.spotify.com/v1/artists/1CD77o9fbdyQFrHnUPUEsF", 
+            "type": "artist", 
+            "id": "1CD77o9fbdyQFrHnUPUEsF"
+          }
+        ], 
+        "duration_ms": 104373, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "4iyayApEhm2Ic5xUmg44Ig"
+      }, 
+      {
+        "name": "Medicated Goo - Live At Fillmore East, New York / 1970", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1cPoI8y85B7ziQRa5yBAbS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4ea31ad8b978748f356fd294a12d70be9d3e1aae", 
+        "is_playable": true, 
+        "uri": "spotify:track:1cPoI8y85B7ziQRa5yBAbS", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1cPoI8y85B7ziQRa5yBAbS", 
+        "artists": [
+          {
+            "name": "Traffic", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1CD77o9fbdyQFrHnUPUEsF"
+            }, 
+            "uri": "spotify:artist:1CD77o9fbdyQFrHnUPUEsF", 
+            "href": "https://api.spotify.com/v1/artists/1CD77o9fbdyQFrHnUPUEsF", 
+            "type": "artist", 
+            "id": "1CD77o9fbdyQFrHnUPUEsF"
+          }
+        ], 
+        "duration_ms": 257493, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "1cPoI8y85B7ziQRa5yBAbS"
+      }, 
+      {
+        "name": "Empty Pages - Live At Fillmore East, New York / 1970", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6A6GyJklTBzHuTTD30R3uv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1b6e3e37e091f7af6a5e0fdd7c46b9df05c66756", 
+        "is_playable": true, 
+        "uri": "spotify:track:6A6GyJklTBzHuTTD30R3uv", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6A6GyJklTBzHuTTD30R3uv", 
+        "artists": [
+          {
+            "name": "Traffic", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1CD77o9fbdyQFrHnUPUEsF"
+            }, 
+            "uri": "spotify:artist:1CD77o9fbdyQFrHnUPUEsF", 
+            "href": "https://api.spotify.com/v1/artists/1CD77o9fbdyQFrHnUPUEsF", 
+            "type": "artist", 
+            "id": "1CD77o9fbdyQFrHnUPUEsF"
+          }
+        ], 
+        "duration_ms": 287053, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "6A6GyJklTBzHuTTD30R3uv"
+      }, 
+      {
+        "name": "40,000 Headmen - Live At Fillmore East, New York / 1970", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6OR62yFbpPOTT1MO0UzeMy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5a218f5c35b9bd3e4c9836382c5452ce210b6059", 
+        "is_playable": true, 
+        "uri": "spotify:track:6OR62yFbpPOTT1MO0UzeMy", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6OR62yFbpPOTT1MO0UzeMy", 
+        "artists": [
+          {
+            "name": "Traffic", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1CD77o9fbdyQFrHnUPUEsF"
+            }, 
+            "uri": "spotify:artist:1CD77o9fbdyQFrHnUPUEsF", 
+            "href": "https://api.spotify.com/v1/artists/1CD77o9fbdyQFrHnUPUEsF", 
+            "type": "artist", 
+            "id": "1CD77o9fbdyQFrHnUPUEsF"
+          }
+        ], 
+        "duration_ms": 270053, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "6OR62yFbpPOTT1MO0UzeMy"
+      }, 
+      {
+        "name": "Who Knows What Tomorrow May Bring - Live At Fillmore East, New York / 1970", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7McS5MkOa3tkdtkimCg74L"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8cfbc6f96c2b3016d54181d9bfb884341c6614bd", 
+        "is_playable": true, 
+        "uri": "spotify:track:7McS5MkOa3tkdtkimCg74L", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/7McS5MkOa3tkdtkimCg74L", 
+        "artists": [
+          {
+            "name": "Traffic", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1CD77o9fbdyQFrHnUPUEsF"
+            }, 
+            "uri": "spotify:artist:1CD77o9fbdyQFrHnUPUEsF", 
+            "href": "https://api.spotify.com/v1/artists/1CD77o9fbdyQFrHnUPUEsF", 
+            "type": "artist", 
+            "id": "1CD77o9fbdyQFrHnUPUEsF"
+          }
+        ], 
+        "duration_ms": 316440, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "7McS5MkOa3tkdtkimCg74L"
+      }, 
+      {
+        "name": "Every Mother's Son - Live At Fillmore East, New York / 1970", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7jWQWZ8Z2A61qdgeKOl7D7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/60eb17b166b2f420fdc571c4fc3360de3b43f3ac", 
+        "is_playable": true, 
+        "uri": "spotify:track:7jWQWZ8Z2A61qdgeKOl7D7", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/7jWQWZ8Z2A61qdgeKOl7D7", 
+        "artists": [
+          {
+            "name": "Traffic", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1CD77o9fbdyQFrHnUPUEsF"
+            }, 
+            "uri": "spotify:artist:1CD77o9fbdyQFrHnUPUEsF", 
+            "href": "https://api.spotify.com/v1/artists/1CD77o9fbdyQFrHnUPUEsF", 
+            "type": "artist", 
+            "id": "1CD77o9fbdyQFrHnUPUEsF"
+          }
+        ], 
+        "duration_ms": 419960, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "7jWQWZ8Z2A61qdgeKOl7D7"
+      }, 
+      {
+        "name": "Glad / Freedom Rider - Live At Fillmore East, New York / 1970", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1bWBsjSzX23RqtIdbqR7Xe"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cc6773986bedb273acffe4f88a13b373ec20fc54", 
+        "is_playable": true, 
+        "uri": "spotify:track:1bWBsjSzX23RqtIdbqR7Xe", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1bWBsjSzX23RqtIdbqR7Xe", 
+        "artists": [
+          {
+            "name": "Traffic", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1CD77o9fbdyQFrHnUPUEsF"
+            }, 
+            "uri": "spotify:artist:1CD77o9fbdyQFrHnUPUEsF", 
+            "href": "https://api.spotify.com/v1/artists/1CD77o9fbdyQFrHnUPUEsF", 
+            "type": "artist", 
+            "id": "1CD77o9fbdyQFrHnUPUEsF"
+          }
+        ], 
+        "duration_ms": 869080, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "1bWBsjSzX23RqtIdbqR7Xe"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/36CpfyCMCUxP1C35c9QcBa/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 16, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/36CpfyCMCUxP1C35c9QcBa", 
+  "copyrights": [
+    {
+      "text": "(C) 2010 Universal-Island Records Ltd.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 2010 Universal-Island Records Ltd.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Traffic", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1CD77o9fbdyQFrHnUPUEsF"
+      }, 
+      "uri": "spotify:artist:1CD77o9fbdyQFrHnUPUEsF", 
+      "href": "https://api.spotify.com/v1/artists/1CD77o9fbdyQFrHnUPUEsF", 
+      "type": "artist", 
+      "id": "1CD77o9fbdyQFrHnUPUEsF"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/3512e9d2569ed7f4c3393cf8f96f8d1a4b3c7a29", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/2191c9190388aeac75efc33489146ca065ac4e2d", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/ea50c26e57588436ed56956884eaedb548fd8aed", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00600753324110"
+  }, 
+  "type": "album", 
+  "id": "36CpfyCMCUxP1C35c9QcBa", 
+  "name": "John Barleycorn Must Die Deluxe Edition"
+}

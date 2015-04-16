@@ -1,0 +1,399 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX"
+  }, 
+  "release_date": "1991-08-12", 
+  "popularity": 79, 
+  "genres": [], 
+  "uri": "spotify:album:37lWyRxkf3wQHCOlXM5WfX", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Enter Sandman", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1hKdDCpiI9mqz1jVHRKG0E"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/41113bb93fe7a245a752e23b695aa6f5b3eec559", 
+        "is_playable": true, 
+        "uri": "spotify:track:1hKdDCpiI9mqz1jVHRKG0E", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1hKdDCpiI9mqz1jVHRKG0E", 
+        "artists": [
+          {
+            "name": "Metallica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            }, 
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+            "type": "artist", 
+            "id": "2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ], 
+        "duration_ms": 331573, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "1hKdDCpiI9mqz1jVHRKG0E"
+      }, 
+      {
+        "name": "Sad But True", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5pQYjzkALsgYOcFTC8DMmU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1c17b25e642e1cca6e84961445e50d0ebb99d4f9", 
+        "is_playable": true, 
+        "uri": "spotify:track:5pQYjzkALsgYOcFTC8DMmU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5pQYjzkALsgYOcFTC8DMmU", 
+        "artists": [
+          {
+            "name": "Metallica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            }, 
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+            "type": "artist", 
+            "id": "2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ], 
+        "duration_ms": 324560, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "5pQYjzkALsgYOcFTC8DMmU"
+      }, 
+      {
+        "name": "Holier Than Thou", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1yOvj5DRzCxeQCts03MVTw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c885d4d30851ba3d74ff3dd7ce92e256c87a8c73", 
+        "is_playable": true, 
+        "uri": "spotify:track:1yOvj5DRzCxeQCts03MVTw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1yOvj5DRzCxeQCts03MVTw", 
+        "artists": [
+          {
+            "name": "Metallica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            }, 
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+            "type": "artist", 
+            "id": "2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ], 
+        "duration_ms": 227733, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "1yOvj5DRzCxeQCts03MVTw"
+      }, 
+      {
+        "name": "The Unforgiven", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5SnOyuBtyzufoXBAKOdcxD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/af088c636d7a59bf34d88207c1906f4ae3f1a1a4", 
+        "is_playable": true, 
+        "uri": "spotify:track:5SnOyuBtyzufoXBAKOdcxD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5SnOyuBtyzufoXBAKOdcxD", 
+        "artists": [
+          {
+            "name": "Metallica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            }, 
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+            "type": "artist", 
+            "id": "2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ], 
+        "duration_ms": 387133, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "5SnOyuBtyzufoXBAKOdcxD"
+      }, 
+      {
+        "name": "Wherever I May Roam", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4zJLpLsfY52ih6y8u4mhKH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bae9c0efe5d39e9f0980b02f697869e91d12ede9", 
+        "is_playable": true, 
+        "uri": "spotify:track:4zJLpLsfY52ih6y8u4mhKH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4zJLpLsfY52ih6y8u4mhKH", 
+        "artists": [
+          {
+            "name": "Metallica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            }, 
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+            "type": "artist", 
+            "id": "2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ], 
+        "duration_ms": 404240, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "4zJLpLsfY52ih6y8u4mhKH"
+      }, 
+      {
+        "name": "Don't Tread On Me", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2ANizw1jaLMP5UQHYyOvri"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cefe4fa3955db053f88c3a6d832949249570e7b2", 
+        "is_playable": true, 
+        "uri": "spotify:track:2ANizw1jaLMP5UQHYyOvri", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2ANizw1jaLMP5UQHYyOvri", 
+        "artists": [
+          {
+            "name": "Metallica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            }, 
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+            "type": "artist", 
+            "id": "2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ], 
+        "duration_ms": 240293, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "2ANizw1jaLMP5UQHYyOvri"
+      }, 
+      {
+        "name": "Through The Never", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1pHHcGYTlIc47MQv031XF9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a239b38d8d2c7d00da1a845745aebb93cd728802", 
+        "is_playable": true, 
+        "uri": "spotify:track:1pHHcGYTlIc47MQv031XF9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1pHHcGYTlIc47MQv031XF9", 
+        "artists": [
+          {
+            "name": "Metallica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            }, 
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+            "type": "artist", 
+            "id": "2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ], 
+        "duration_ms": 244400, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "1pHHcGYTlIc47MQv031XF9"
+      }, 
+      {
+        "name": "Nothing Else Matters", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3ZFwuJwUpIl0GeXsvF1ELf"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0412497220348ab14f8914b85bbda4417c10f032", 
+        "is_playable": true, 
+        "uri": "spotify:track:3ZFwuJwUpIl0GeXsvF1ELf", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3ZFwuJwUpIl0GeXsvF1ELf", 
+        "artists": [
+          {
+            "name": "Metallica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            }, 
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+            "type": "artist", 
+            "id": "2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ], 
+        "duration_ms": 388733, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "3ZFwuJwUpIl0GeXsvF1ELf"
+      }, 
+      {
+        "name": "Of Wolf And Man", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1p9K2Qfhwvgi3hU9YV8Qd8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fe32a920e811f4335121fcd3d3eae42a36de3c43", 
+        "is_playable": true, 
+        "uri": "spotify:track:1p9K2Qfhwvgi3hU9YV8Qd8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1p9K2Qfhwvgi3hU9YV8Qd8", 
+        "artists": [
+          {
+            "name": "Metallica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            }, 
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+            "type": "artist", 
+            "id": "2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ], 
+        "duration_ms": 256600, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "1p9K2Qfhwvgi3hU9YV8Qd8"
+      }, 
+      {
+        "name": "The God That Failed", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4m7SprdGbCH9ifPX5SbdNA"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cbe0bceec28287dad7a24be7cde780d152c6d6a2", 
+        "is_playable": true, 
+        "uri": "spotify:track:4m7SprdGbCH9ifPX5SbdNA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4m7SprdGbCH9ifPX5SbdNA", 
+        "artists": [
+          {
+            "name": "Metallica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            }, 
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+            "type": "artist", 
+            "id": "2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ], 
+        "duration_ms": 308533, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "4m7SprdGbCH9ifPX5SbdNA"
+      }, 
+      {
+        "name": "My Friend Of Misery", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3vqsRpkzpPnOyQr18063s0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/350d6b4fb53a6d59f051140194b547f3ee50d610", 
+        "is_playable": true, 
+        "uri": "spotify:track:3vqsRpkzpPnOyQr18063s0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3vqsRpkzpPnOyQr18063s0", 
+        "artists": [
+          {
+            "name": "Metallica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            }, 
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+            "type": "artist", 
+            "id": "2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ], 
+        "duration_ms": 409640, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "3vqsRpkzpPnOyQr18063s0"
+      }, 
+      {
+        "name": "The Struggle Within", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/09pfTo6hoCr3biYPK8ZXvc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bfc8d371af9b916bcc391dc7582286cb3e79210c", 
+        "is_playable": true, 
+        "uri": "spotify:track:09pfTo6hoCr3biYPK8ZXvc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/09pfTo6hoCr3biYPK8ZXvc", 
+        "artists": [
+          {
+            "name": "Metallica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            }, 
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+            "type": "artist", 
+            "id": "2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ], 
+        "duration_ms": 233893, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "09pfTo6hoCr3biYPK8ZXvc"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/37lWyRxkf3wQHCOlXM5WfX/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 12, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/37lWyRxkf3wQHCOlXM5WfX", 
+  "copyrights": [
+    {
+      "text": "1991 Blackened Recordings", 
+      "type": "C"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Metallica", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+      }, 
+      "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+      "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+      "type": "artist", 
+      "id": "2ye2Wgw4gimLv2eAKyk1NB"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/bbd1f19477ee2cb30c1ae9cece461b156d2bb48d", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/400dee6165a81c49b665d18637e3954213679ee8", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/28674e2f4fbcbfb0028b6b8769af6fce1f44412f", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "093624986553"
+  }, 
+  "type": "album", 
+  "id": "37lWyRxkf3wQHCOlXM5WfX", 
+  "name": "Metallica"
+}

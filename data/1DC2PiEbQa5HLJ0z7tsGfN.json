@@ -1,0 +1,259 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1DC2PiEbQa5HLJ0z7tsGfN"
+  }, 
+  "release_date": "2009-07-20", 
+  "popularity": 5, 
+  "genres": [], 
+  "uri": "spotify:album:1DC2PiEbQa5HLJ0z7tsGfN", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Personality Crisis", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Bmq9HptpVKBUBXfjQWhv1"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d2ffbaf3d1e9aebb815ad17d7f6b7afd0300299e", 
+        "is_playable": true, 
+        "uri": "spotify:track:3Bmq9HptpVKBUBXfjQWhv1", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3Bmq9HptpVKBUBXfjQWhv1", 
+        "artists": [
+          {
+            "name": "New York Dolls", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx"
+            }, 
+            "uri": "spotify:artist:0WhGV9lzljq2QKJ8ipw6jx", 
+            "href": "https://api.spotify.com/v1/artists/0WhGV9lzljq2QKJ8ipw6jx", 
+            "type": "artist", 
+            "id": "0WhGV9lzljq2QKJ8ipw6jx"
+          }
+        ], 
+        "duration_ms": 243866, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "3Bmq9HptpVKBUBXfjQWhv1"
+      }, 
+      {
+        "name": "Paper Pencil And Glue", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5NLjHWJeUWWCGKLYFRqso5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/57f3569b129898da4b432f3fd4410facf91793ef", 
+        "is_playable": true, 
+        "uri": "spotify:track:5NLjHWJeUWWCGKLYFRqso5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5NLjHWJeUWWCGKLYFRqso5", 
+        "artists": [
+          {
+            "name": "Sylvain Sylvain", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7cScrZuqmnuGfX0gfkLlQB"
+            }, 
+            "uri": "spotify:artist:7cScrZuqmnuGfX0gfkLlQB", 
+            "href": "https://api.spotify.com/v1/artists/7cScrZuqmnuGfX0gfkLlQB", 
+            "type": "artist", 
+            "id": "7cScrZuqmnuGfX0gfkLlQB"
+          }
+        ], 
+        "duration_ms": 183560, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "5NLjHWJeUWWCGKLYFRqso5"
+      }, 
+      {
+        "name": "Bad Girl", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4csLj2xL6WxnIa7dCdq8bN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7f7255d33eaf4c4021d7df9eb3bd99e97c6e8599", 
+        "is_playable": true, 
+        "uri": "spotify:track:4csLj2xL6WxnIa7dCdq8bN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4csLj2xL6WxnIa7dCdq8bN", 
+        "artists": [
+          {
+            "name": "New York Dolls", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx"
+            }, 
+            "uri": "spotify:artist:0WhGV9lzljq2QKJ8ipw6jx", 
+            "href": "https://api.spotify.com/v1/artists/0WhGV9lzljq2QKJ8ipw6jx", 
+            "type": "artist", 
+            "id": "0WhGV9lzljq2QKJ8ipw6jx"
+          }
+        ], 
+        "duration_ms": 207733, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "4csLj2xL6WxnIa7dCdq8bN"
+      }, 
+      {
+        "name": "Frenchette", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0YrGw5IknageQMPoAG9x7g"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fa8927bca131827e34e4e8b39169ba5c0246a16f", 
+        "is_playable": true, 
+        "uri": "spotify:track:0YrGw5IknageQMPoAG9x7g", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0YrGw5IknageQMPoAG9x7g", 
+        "artists": [
+          {
+            "name": "Sylvain Sylvain", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7cScrZuqmnuGfX0gfkLlQB"
+            }, 
+            "uri": "spotify:artist:7cScrZuqmnuGfX0gfkLlQB", 
+            "href": "https://api.spotify.com/v1/artists/7cScrZuqmnuGfX0gfkLlQB", 
+            "type": "artist", 
+            "id": "7cScrZuqmnuGfX0gfkLlQB"
+          }
+        ], 
+        "duration_ms": 341320, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "0YrGw5IknageQMPoAG9x7g"
+      }, 
+      {
+        "name": "Subway Train", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2SdHTU9KYfgHhg4kq8X3DW"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/db922ba9981ae7d48977a8ece80ed8c7d62023a1", 
+        "is_playable": true, 
+        "uri": "spotify:track:2SdHTU9KYfgHhg4kq8X3DW", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2SdHTU9KYfgHhg4kq8X3DW", 
+        "artists": [
+          {
+            "name": "New York Dolls", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx"
+            }, 
+            "uri": "spotify:artist:0WhGV9lzljq2QKJ8ipw6jx", 
+            "href": "https://api.spotify.com/v1/artists/0WhGV9lzljq2QKJ8ipw6jx", 
+            "type": "artist", 
+            "id": "0WhGV9lzljq2QKJ8ipw6jx"
+          }
+        ], 
+        "duration_ms": 283560, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "2SdHTU9KYfgHhg4kq8X3DW"
+      }, 
+      {
+        "name": "Trash", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1nBVV8AEvPVl9am2b2VD54"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4cdf49dd22f8996d044f16fadd57964d257b1a49", 
+        "is_playable": true, 
+        "uri": "spotify:track:1nBVV8AEvPVl9am2b2VD54", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1nBVV8AEvPVl9am2b2VD54", 
+        "artists": [
+          {
+            "name": "Sylvain Sylvain", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7cScrZuqmnuGfX0gfkLlQB"
+            }, 
+            "uri": "spotify:artist:7cScrZuqmnuGfX0gfkLlQB", 
+            "href": "https://api.spotify.com/v1/artists/7cScrZuqmnuGfX0gfkLlQB", 
+            "type": "artist", 
+            "id": "7cScrZuqmnuGfX0gfkLlQB"
+          }
+        ], 
+        "duration_ms": 198746, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "1nBVV8AEvPVl9am2b2VD54"
+      }, 
+      {
+        "name": "Looking For A Kiss", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/19WHv3NSIR3a0ZZrEDoNwM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c4592afa4509683b4a0610a5d6d94f4ec7a3d53f", 
+        "is_playable": true, 
+        "uri": "spotify:track:19WHv3NSIR3a0ZZrEDoNwM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/19WHv3NSIR3a0ZZrEDoNwM", 
+        "artists": [
+          {
+            "name": "New York Dolls", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx"
+            }, 
+            "uri": "spotify:artist:0WhGV9lzljq2QKJ8ipw6jx", 
+            "href": "https://api.spotify.com/v1/artists/0WhGV9lzljq2QKJ8ipw6jx", 
+            "type": "artist", 
+            "id": "0WhGV9lzljq2QKJ8ipw6jx"
+          }
+        ], 
+        "duration_ms": 208600, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "19WHv3NSIR3a0ZZrEDoNwM"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/1DC2PiEbQa5HLJ0z7tsGfN/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 7, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/1DC2PiEbQa5HLJ0z7tsGfN", 
+  "copyrights": [
+    {
+      "text": "2009 One Media Publishing", 
+      "type": "C"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "The New York Dolls and Sylvain Sylvain", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3VTbBO3N35jwfi8xBrA4mK"
+      }, 
+      "uri": "spotify:artist:3VTbBO3N35jwfi8xBrA4mK", 
+      "href": "https://api.spotify.com/v1/artists/3VTbBO3N35jwfi8xBrA4mK", 
+      "type": "artist", 
+      "id": "3VTbBO3N35jwfi8xBrA4mK"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/0fd4ec870cbd42aff3b2869832eeca9cc4c6e8d7", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/edb032a97ecd82fef6079d508f4533b8d275cca2", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/f74608bdf63cd769879a07a8ca6ea0a9c95dc041", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "884385766559"
+  }, 
+  "type": "album", 
+  "id": "1DC2PiEbQa5HLJ0z7tsGfN", 
+  "name": "Personality Crisis"
+}

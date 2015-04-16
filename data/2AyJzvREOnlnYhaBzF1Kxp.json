@@ -1,0 +1,459 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2AyJzvREOnlnYhaBzF1Kxp"
+  }, 
+  "release_date": "1989", 
+  "popularity": 49, 
+  "genres": [], 
+  "uri": "spotify:album:2AyJzvREOnlnYhaBzF1Kxp", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Buffalo Stance - 12'' Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3XWgwgbWDI56mf1Wl3cLzb"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/07e6f2916dcde0a894bc101814fc94a0a2f4d1a4", 
+        "is_playable": true, 
+        "uri": "spotify:track:3XWgwgbWDI56mf1Wl3cLzb", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3XWgwgbWDI56mf1Wl3cLzb", 
+        "artists": [
+          {
+            "name": "Neneh Cherry", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD"
+            }, 
+            "uri": "spotify:artist:3JxCEqL9zjKnDJgUhRuRJD", 
+            "href": "https://api.spotify.com/v1/artists/3JxCEqL9zjKnDJgUhRuRJD", 
+            "type": "artist", 
+            "id": "3JxCEqL9zjKnDJgUhRuRJD"
+          }
+        ], 
+        "duration_ms": 342360, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "3XWgwgbWDI56mf1Wl3cLzb"
+      }, 
+      {
+        "name": "Manchild", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5tmkX2fJ7KUAnMz3W1ibEr"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a73cfa97b0207fa864a03cd27fedc7cddf685b63", 
+        "is_playable": true, 
+        "uri": "spotify:track:5tmkX2fJ7KUAnMz3W1ibEr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5tmkX2fJ7KUAnMz3W1ibEr", 
+        "artists": [
+          {
+            "name": "Neneh Cherry", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD"
+            }, 
+            "uri": "spotify:artist:3JxCEqL9zjKnDJgUhRuRJD", 
+            "href": "https://api.spotify.com/v1/artists/3JxCEqL9zjKnDJgUhRuRJD", 
+            "type": "artist", 
+            "id": "3JxCEqL9zjKnDJgUhRuRJD"
+          }
+        ], 
+        "duration_ms": 232333, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "5tmkX2fJ7KUAnMz3W1ibEr"
+      }, 
+      {
+        "name": "Kisses On The Wind", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6F7LbHGLir4Z0sTVNPVgax"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/793d10988795399d91f5ad965e7f53a2eccc8060", 
+        "is_playable": true, 
+        "uri": "spotify:track:6F7LbHGLir4Z0sTVNPVgax", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6F7LbHGLir4Z0sTVNPVgax", 
+        "artists": [
+          {
+            "name": "Neneh Cherry", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD"
+            }, 
+            "uri": "spotify:artist:3JxCEqL9zjKnDJgUhRuRJD", 
+            "href": "https://api.spotify.com/v1/artists/3JxCEqL9zjKnDJgUhRuRJD", 
+            "type": "artist", 
+            "id": "3JxCEqL9zjKnDJgUhRuRJD"
+          }
+        ], 
+        "duration_ms": 237373, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "6F7LbHGLir4Z0sTVNPVgax"
+      }, 
+      {
+        "name": "Inna City Mamma", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4GVaolTPW6jw5fN6nX9FuC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/92ecc901ffe0de3997e7fd2799793c6f40997b30", 
+        "is_playable": true, 
+        "uri": "spotify:track:4GVaolTPW6jw5fN6nX9FuC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4GVaolTPW6jw5fN6nX9FuC", 
+        "artists": [
+          {
+            "name": "Neneh Cherry", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD"
+            }, 
+            "uri": "spotify:artist:3JxCEqL9zjKnDJgUhRuRJD", 
+            "href": "https://api.spotify.com/v1/artists/3JxCEqL9zjKnDJgUhRuRJD", 
+            "type": "artist", 
+            "id": "3JxCEqL9zjKnDJgUhRuRJD"
+          }
+        ], 
+        "duration_ms": 291026, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "4GVaolTPW6jw5fN6nX9FuC"
+      }, 
+      {
+        "name": "The Next Generation", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5301ljaYbSmfl9z9qHG8U1"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/dcc5a7aa6129e839e3939b92a3f4bb45ddb5eb40", 
+        "is_playable": true, 
+        "uri": "spotify:track:5301ljaYbSmfl9z9qHG8U1", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5301ljaYbSmfl9z9qHG8U1", 
+        "artists": [
+          {
+            "name": "Neneh Cherry", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD"
+            }, 
+            "uri": "spotify:artist:3JxCEqL9zjKnDJgUhRuRJD", 
+            "href": "https://api.spotify.com/v1/artists/3JxCEqL9zjKnDJgUhRuRJD", 
+            "type": "artist", 
+            "id": "3JxCEqL9zjKnDJgUhRuRJD"
+          }
+        ], 
+        "duration_ms": 305666, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "5301ljaYbSmfl9z9qHG8U1"
+      }, 
+      {
+        "name": "Love Ghetto", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2NApRuQCdIK9vO0KeniSIv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5812d5556837ce6982ea10fd15bdedacdc7da6f6", 
+        "is_playable": true, 
+        "uri": "spotify:track:2NApRuQCdIK9vO0KeniSIv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2NApRuQCdIK9vO0KeniSIv", 
+        "artists": [
+          {
+            "name": "Neneh Cherry", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD"
+            }, 
+            "uri": "spotify:artist:3JxCEqL9zjKnDJgUhRuRJD", 
+            "href": "https://api.spotify.com/v1/artists/3JxCEqL9zjKnDJgUhRuRJD", 
+            "type": "artist", 
+            "id": "3JxCEqL9zjKnDJgUhRuRJD"
+          }
+        ], 
+        "duration_ms": 269800, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "2NApRuQCdIK9vO0KeniSIv"
+      }, 
+      {
+        "name": "Heart", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7wYlTznyA4pwedDSVZmSfC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bde8555ccfefe5e8bfe0e2933eb2409f10233740", 
+        "is_playable": true, 
+        "uri": "spotify:track:7wYlTznyA4pwedDSVZmSfC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7wYlTznyA4pwedDSVZmSfC", 
+        "artists": [
+          {
+            "name": "Neneh Cherry", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD"
+            }, 
+            "uri": "spotify:artist:3JxCEqL9zjKnDJgUhRuRJD", 
+            "href": "https://api.spotify.com/v1/artists/3JxCEqL9zjKnDJgUhRuRJD", 
+            "type": "artist", 
+            "id": "3JxCEqL9zjKnDJgUhRuRJD"
+          }
+        ], 
+        "duration_ms": 309200, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "7wYlTznyA4pwedDSVZmSfC"
+      }, 
+      {
+        "name": "Phoney Ladies", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/08aGZDTwxGVTUuZPS9W9bu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9b642d014d569a8565c5bd53327682ced3908f33", 
+        "is_playable": true, 
+        "uri": "spotify:track:08aGZDTwxGVTUuZPS9W9bu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/08aGZDTwxGVTUuZPS9W9bu", 
+        "artists": [
+          {
+            "name": "Neneh Cherry", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD"
+            }, 
+            "uri": "spotify:artist:3JxCEqL9zjKnDJgUhRuRJD", 
+            "href": "https://api.spotify.com/v1/artists/3JxCEqL9zjKnDJgUhRuRJD", 
+            "type": "artist", 
+            "id": "3JxCEqL9zjKnDJgUhRuRJD"
+          }
+        ], 
+        "duration_ms": 234706, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "08aGZDTwxGVTUuZPS9W9bu"
+      }, 
+      {
+        "name": "Outre Risque Locomotive", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/10fCAJ0aZDhb98sY7Mh7dB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/885be9b1567b082c75a4094f5243b2780ff068e0", 
+        "is_playable": true, 
+        "uri": "spotify:track:10fCAJ0aZDhb98sY7Mh7dB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/10fCAJ0aZDhb98sY7Mh7dB", 
+        "artists": [
+          {
+            "name": "Neneh Cherry", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD"
+            }, 
+            "uri": "spotify:artist:3JxCEqL9zjKnDJgUhRuRJD", 
+            "href": "https://api.spotify.com/v1/artists/3JxCEqL9zjKnDJgUhRuRJD", 
+            "type": "artist", 
+            "id": "3JxCEqL9zjKnDJgUhRuRJD"
+          }
+        ], 
+        "duration_ms": 305066, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "10fCAJ0aZDhb98sY7Mh7dB"
+      }, 
+      {
+        "name": "So Here I Come", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2QC7nuBSeBef9blIr7ZA7W"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2201d2d1a46549f6b6df640608cc9f61607b8005", 
+        "is_playable": true, 
+        "uri": "spotify:track:2QC7nuBSeBef9blIr7ZA7W", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2QC7nuBSeBef9blIr7ZA7W", 
+        "artists": [
+          {
+            "name": "Neneh Cherry", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD"
+            }, 
+            "uri": "spotify:artist:3JxCEqL9zjKnDJgUhRuRJD", 
+            "href": "https://api.spotify.com/v1/artists/3JxCEqL9zjKnDJgUhRuRJD", 
+            "type": "artist", 
+            "id": "3JxCEqL9zjKnDJgUhRuRJD"
+          }
+        ], 
+        "duration_ms": 243360, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "2QC7nuBSeBef9blIr7ZA7W"
+      }, 
+      {
+        "name": "My Bitch", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2KrvZhWkHmlliCcCnRTER1"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a169eb30add0ecbd5f710d4787446103d645ef61", 
+        "is_playable": true, 
+        "uri": "spotify:track:2KrvZhWkHmlliCcCnRTER1", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2KrvZhWkHmlliCcCnRTER1", 
+        "artists": [
+          {
+            "name": "Neneh Cherry", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD"
+            }, 
+            "uri": "spotify:artist:3JxCEqL9zjKnDJgUhRuRJD", 
+            "href": "https://api.spotify.com/v1/artists/3JxCEqL9zjKnDJgUhRuRJD", 
+            "type": "artist", 
+            "id": "3JxCEqL9zjKnDJgUhRuRJD"
+          }
+        ], 
+        "duration_ms": 327240, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "2KrvZhWkHmlliCcCnRTER1"
+      }, 
+      {
+        "name": "Heart - It's A Demo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6JwcS1mlnzZs8arW1rSqb2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8ce91b9e5787ef43ac7e55ffe861a763a28d5e6c", 
+        "is_playable": true, 
+        "uri": "spotify:track:6JwcS1mlnzZs8arW1rSqb2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6JwcS1mlnzZs8arW1rSqb2", 
+        "artists": [
+          {
+            "name": "Neneh Cherry", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD"
+            }, 
+            "uri": "spotify:artist:3JxCEqL9zjKnDJgUhRuRJD", 
+            "href": "https://api.spotify.com/v1/artists/3JxCEqL9zjKnDJgUhRuRJD", 
+            "type": "artist", 
+            "id": "3JxCEqL9zjKnDJgUhRuRJD"
+          }
+        ], 
+        "duration_ms": 292093, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "6JwcS1mlnzZs8arW1rSqb2"
+      }, 
+      {
+        "name": "Buffalo Stance - Sukka Mix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7qUxnVls5NEOnJHJvdfmin"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/20f1cc535fe24c5a22c8120dc9439bcf4d635928", 
+        "is_playable": true, 
+        "uri": "spotify:track:7qUxnVls5NEOnJHJvdfmin", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7qUxnVls5NEOnJHJvdfmin", 
+        "artists": [
+          {
+            "name": "Neneh Cherry", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD"
+            }, 
+            "uri": "spotify:artist:3JxCEqL9zjKnDJgUhRuRJD", 
+            "href": "https://api.spotify.com/v1/artists/3JxCEqL9zjKnDJgUhRuRJD", 
+            "type": "artist", 
+            "id": "3JxCEqL9zjKnDJgUhRuRJD"
+          }
+        ], 
+        "duration_ms": 321506, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "7qUxnVls5NEOnJHJvdfmin"
+      }, 
+      {
+        "name": "Manchild - Old School Mix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3qgD6PQbiwUBSe1Y4EMjU5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1f458be83db89bb924be46606c152b30a7cc8604", 
+        "is_playable": true, 
+        "uri": "spotify:track:3qgD6PQbiwUBSe1Y4EMjU5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3qgD6PQbiwUBSe1Y4EMjU5", 
+        "artists": [
+          {
+            "name": "Neneh Cherry", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD"
+            }, 
+            "uri": "spotify:artist:3JxCEqL9zjKnDJgUhRuRJD", 
+            "href": "https://api.spotify.com/v1/artists/3JxCEqL9zjKnDJgUhRuRJD", 
+            "type": "artist", 
+            "id": "3JxCEqL9zjKnDJgUhRuRJD"
+          }
+        ], 
+        "duration_ms": 331160, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "3qgD6PQbiwUBSe1Y4EMjU5"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/2AyJzvREOnlnYhaBzF1Kxp/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 14, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/2AyJzvREOnlnYhaBzF1Kxp", 
+  "copyrights": [
+    {
+      "text": "(C) 1989 Virgin Records LtdThis label copy information is the subject of copyright protection. All rights reserved.(C) 1989 Virgin Records Ltd", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1989 The copyright in this sound recording is owned by Virgin Records Ltd", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Neneh Cherry", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD"
+      }, 
+      "uri": "spotify:artist:3JxCEqL9zjKnDJgUhRuRJD", 
+      "href": "https://api.spotify.com/v1/artists/3JxCEqL9zjKnDJgUhRuRJD", 
+      "type": "artist", 
+      "id": "3JxCEqL9zjKnDJgUhRuRJD"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/70f7a778724ad4d99a9f3513a83a8d5d7da1b9d6", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/afd96702a56a04f50a9e05f1e1390f127fd4bac9", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/5c3de0914fde715bd1a6952a312483093b94f315", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00077778611653"
+  }, 
+  "type": "album", 
+  "id": "2AyJzvREOnlnYhaBzF1Kxp", 
+  "name": "Raw Like Sushi"
+}

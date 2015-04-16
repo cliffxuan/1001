@@ -1,0 +1,371 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+  }, 
+  "release_date": "1970-01-26", 
+  "popularity": 69, 
+  "genres": [], 
+  "uri": "spotify:album:0JwHz5SSvpYWuuCNbtYZoV", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Bridge over Troubled Water", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c93b13e994d7cf4b4e4a46328d6e881630c14603", 
+        "is_playable": true, 
+        "uri": "spotify:track:6l8EbYRtQMgKOyc1gcDHF9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6l8EbYRtQMgKOyc1gcDHF9", 
+        "artists": [
+          {
+            "name": "Simon & Garfunkel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+            }, 
+            "uri": "spotify:artist:70cRZdQywnSFp9pnc2WTCE", 
+            "href": "https://api.spotify.com/v1/artists/70cRZdQywnSFp9pnc2WTCE", 
+            "type": "artist", 
+            "id": "70cRZdQywnSFp9pnc2WTCE"
+          }
+        ], 
+        "duration_ms": 293120, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "6l8EbYRtQMgKOyc1gcDHF9"
+      }, 
+      {
+        "name": "El Condor Pasa / If I Could", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1eN42Q7IWRzRBq8eW2Y2TE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ab63fb14756fea96586a2b0a63c8443e454fc2c9", 
+        "is_playable": true, 
+        "uri": "spotify:track:1eN42Q7IWRzRBq8eW2Y2TE", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1eN42Q7IWRzRBq8eW2Y2TE", 
+        "artists": [
+          {
+            "name": "Simon & Garfunkel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+            }, 
+            "uri": "spotify:artist:70cRZdQywnSFp9pnc2WTCE", 
+            "href": "https://api.spotify.com/v1/artists/70cRZdQywnSFp9pnc2WTCE", 
+            "type": "artist", 
+            "id": "70cRZdQywnSFp9pnc2WTCE"
+          }
+        ], 
+        "duration_ms": 187040, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "1eN42Q7IWRzRBq8eW2Y2TE"
+      }, 
+      {
+        "name": "Cecilia", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9e62f5828e97c7649958df89af0ae388753fed0e", 
+        "is_playable": true, 
+        "uri": "spotify:track:6QhXQOpyYvbpdbyjgAqKdY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6QhXQOpyYvbpdbyjgAqKdY", 
+        "artists": [
+          {
+            "name": "Simon & Garfunkel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+            }, 
+            "uri": "spotify:artist:70cRZdQywnSFp9pnc2WTCE", 
+            "href": "https://api.spotify.com/v1/artists/70cRZdQywnSFp9pnc2WTCE", 
+            "type": "artist", 
+            "id": "70cRZdQywnSFp9pnc2WTCE"
+          }
+        ], 
+        "duration_ms": 174826, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "6QhXQOpyYvbpdbyjgAqKdY"
+      }, 
+      {
+        "name": "Keep the Customer Satisfied", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4uIjNF84ZbteunNMxr4Xc0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/93d1e5324409fdb8b72821925d8941f30b1c541b", 
+        "is_playable": true, 
+        "uri": "spotify:track:4uIjNF84ZbteunNMxr4Xc0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4uIjNF84ZbteunNMxr4Xc0", 
+        "artists": [
+          {
+            "name": "Simon & Garfunkel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+            }, 
+            "uri": "spotify:artist:70cRZdQywnSFp9pnc2WTCE", 
+            "href": "https://api.spotify.com/v1/artists/70cRZdQywnSFp9pnc2WTCE", 
+            "type": "artist", 
+            "id": "70cRZdQywnSFp9pnc2WTCE"
+          }
+        ], 
+        "duration_ms": 155373, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "4uIjNF84ZbteunNMxr4Xc0"
+      }, 
+      {
+        "name": "So Long, Frank Lloyd Wright", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4zYloXZV6NwiwXenBTc9DI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fef4fa0e3e098d458821ee444fa075ea18866f01", 
+        "is_playable": true, 
+        "uri": "spotify:track:4zYloXZV6NwiwXenBTc9DI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4zYloXZV6NwiwXenBTc9DI", 
+        "artists": [
+          {
+            "name": "Simon & Garfunkel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+            }, 
+            "uri": "spotify:artist:70cRZdQywnSFp9pnc2WTCE", 
+            "href": "https://api.spotify.com/v1/artists/70cRZdQywnSFp9pnc2WTCE", 
+            "type": "artist", 
+            "id": "70cRZdQywnSFp9pnc2WTCE"
+          }
+        ], 
+        "duration_ms": 221520, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "4zYloXZV6NwiwXenBTc9DI"
+      }, 
+      {
+        "name": "The Boxer", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/599747de0139392f03184b21f42d4349517974d3", 
+        "is_playable": true, 
+        "uri": "spotify:track:76TZCvJ8GitQ2FA1q5dKu0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/76TZCvJ8GitQ2FA1q5dKu0", 
+        "artists": [
+          {
+            "name": "Simon & Garfunkel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+            }, 
+            "uri": "spotify:artist:70cRZdQywnSFp9pnc2WTCE", 
+            "href": "https://api.spotify.com/v1/artists/70cRZdQywnSFp9pnc2WTCE", 
+            "type": "artist", 
+            "id": "70cRZdQywnSFp9pnc2WTCE"
+          }
+        ], 
+        "duration_ms": 308520, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "76TZCvJ8GitQ2FA1q5dKu0"
+      }, 
+      {
+        "name": "Baby Driver", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Bh8l8evdBSIoaK6EP1bWI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fb0d33c0c405a5e724cb038de55a184bd8590095", 
+        "is_playable": true, 
+        "uri": "spotify:track:5Bh8l8evdBSIoaK6EP1bWI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5Bh8l8evdBSIoaK6EP1bWI", 
+        "artists": [
+          {
+            "name": "Simon & Garfunkel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+            }, 
+            "uri": "spotify:artist:70cRZdQywnSFp9pnc2WTCE", 
+            "href": "https://api.spotify.com/v1/artists/70cRZdQywnSFp9pnc2WTCE", 
+            "type": "artist", 
+            "id": "70cRZdQywnSFp9pnc2WTCE"
+          }
+        ], 
+        "duration_ms": 195760, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "5Bh8l8evdBSIoaK6EP1bWI"
+      }, 
+      {
+        "name": "The Only Living Boy in New York", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9a933fe8c1323698c8f618ecab53af288dc0028a", 
+        "is_playable": true, 
+        "uri": "spotify:track:5MbXzXGbqobR8xPVPs8OXA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5MbXzXGbqobR8xPVPs8OXA", 
+        "artists": [
+          {
+            "name": "Simon & Garfunkel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+            }, 
+            "uri": "spotify:artist:70cRZdQywnSFp9pnc2WTCE", 
+            "href": "https://api.spotify.com/v1/artists/70cRZdQywnSFp9pnc2WTCE", 
+            "type": "artist", 
+            "id": "70cRZdQywnSFp9pnc2WTCE"
+          }
+        ], 
+        "duration_ms": 238413, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "5MbXzXGbqobR8xPVPs8OXA"
+      }, 
+      {
+        "name": "Why Don't You Write Me", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0nNI8eyMjDGjPDuQq87aJb"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/24610f644f88fa28c4fe1326fbfe68100078dcad", 
+        "is_playable": true, 
+        "uri": "spotify:track:0nNI8eyMjDGjPDuQq87aJb", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0nNI8eyMjDGjPDuQq87aJb", 
+        "artists": [
+          {
+            "name": "Simon & Garfunkel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+            }, 
+            "uri": "spotify:artist:70cRZdQywnSFp9pnc2WTCE", 
+            "href": "https://api.spotify.com/v1/artists/70cRZdQywnSFp9pnc2WTCE", 
+            "type": "artist", 
+            "id": "70cRZdQywnSFp9pnc2WTCE"
+          }
+        ], 
+        "duration_ms": 166173, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "0nNI8eyMjDGjPDuQq87aJb"
+      }, 
+      {
+        "name": "Bye Bye Love", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1tk4uuDWxk0DTx2X5rGSxe"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9589f7492dc106df3783782c6ff78a161c55f70c", 
+        "is_playable": true, 
+        "uri": "spotify:track:1tk4uuDWxk0DTx2X5rGSxe", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1tk4uuDWxk0DTx2X5rGSxe", 
+        "artists": [
+          {
+            "name": "Simon & Garfunkel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+            }, 
+            "uri": "spotify:artist:70cRZdQywnSFp9pnc2WTCE", 
+            "href": "https://api.spotify.com/v1/artists/70cRZdQywnSFp9pnc2WTCE", 
+            "type": "artist", 
+            "id": "70cRZdQywnSFp9pnc2WTCE"
+          }
+        ], 
+        "duration_ms": 172773, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "1tk4uuDWxk0DTx2X5rGSxe"
+      }, 
+      {
+        "name": "Song for the Asking", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5t9rkF7g7zIU1NFyrSJaQl"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cbfaa694ccc802f313d6f95b4cdfe9f4dd18fa10", 
+        "is_playable": true, 
+        "uri": "spotify:track:5t9rkF7g7zIU1NFyrSJaQl", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5t9rkF7g7zIU1NFyrSJaQl", 
+        "artists": [
+          {
+            "name": "Simon & Garfunkel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+            }, 
+            "uri": "spotify:artist:70cRZdQywnSFp9pnc2WTCE", 
+            "href": "https://api.spotify.com/v1/artists/70cRZdQywnSFp9pnc2WTCE", 
+            "type": "artist", 
+            "id": "70cRZdQywnSFp9pnc2WTCE"
+          }
+        ], 
+        "duration_ms": 110653, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "5t9rkF7g7zIU1NFyrSJaQl"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/0JwHz5SSvpYWuuCNbtYZoV/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 11, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/0JwHz5SSvpYWuuCNbtYZoV", 
+  "copyrights": [
+    {
+      "text": "1970 Sony Music Entertainment Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Simon & Garfunkel", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+      }, 
+      "uri": "spotify:artist:70cRZdQywnSFp9pnc2WTCE", 
+      "href": "https://api.spotify.com/v1/artists/70cRZdQywnSFp9pnc2WTCE", 
+      "type": "artist", 
+      "id": "70cRZdQywnSFp9pnc2WTCE"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/2731ab5abe0510ef27fde730fd0c24c8c191a8ad", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/d77dc3db3a55f0bd5da1050995c67c7c1867b1a8", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/dc906713d5a2f7bd8317b7fccfad9044cde6a602", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "5099749521421"
+  }, 
+  "type": "album", 
+  "id": "0JwHz5SSvpYWuuCNbtYZoV", 
+  "name": "Bridge Over Troubled Water"
+}

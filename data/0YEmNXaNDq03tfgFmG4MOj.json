@@ -1,0 +1,567 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0YEmNXaNDq03tfgFmG4MOj"
+  }, 
+  "release_date": "1966-03-01", 
+  "popularity": 38, 
+  "genres": [], 
+  "uri": "spotify:album:0YEmNXaNDq03tfgFmG4MOj", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Monk Time", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6GjdtrmCSD3ENVp3uE5FcM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/44a05818bd5bbf3532151416306eb9e366ef0e4e", 
+        "is_playable": true, 
+        "uri": "spotify:track:6GjdtrmCSD3ENVp3uE5FcM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6GjdtrmCSD3ENVp3uE5FcM", 
+        "artists": [
+          {
+            "name": "The Monks", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VTNuQRp2wjrWzZX6CXxiy"
+            }, 
+            "uri": "spotify:artist:3VTNuQRp2wjrWzZX6CXxiy", 
+            "href": "https://api.spotify.com/v1/artists/3VTNuQRp2wjrWzZX6CXxiy", 
+            "type": "artist", 
+            "id": "3VTNuQRp2wjrWzZX6CXxiy"
+          }
+        ], 
+        "duration_ms": 164666, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "6GjdtrmCSD3ENVp3uE5FcM"
+      }, 
+      {
+        "name": "Shut Up", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/57Mi3IzYO8jNRSRHwX7OA7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f7c2d088dd77f6df40a1a8e4ca3690910c7c22ca", 
+        "is_playable": true, 
+        "uri": "spotify:track:57Mi3IzYO8jNRSRHwX7OA7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/57Mi3IzYO8jNRSRHwX7OA7", 
+        "artists": [
+          {
+            "name": "The Monks", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VTNuQRp2wjrWzZX6CXxiy"
+            }, 
+            "uri": "spotify:artist:3VTNuQRp2wjrWzZX6CXxiy", 
+            "href": "https://api.spotify.com/v1/artists/3VTNuQRp2wjrWzZX6CXxiy", 
+            "type": "artist", 
+            "id": "3VTNuQRp2wjrWzZX6CXxiy"
+          }
+        ], 
+        "duration_ms": 194226, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "57Mi3IzYO8jNRSRHwX7OA7"
+      }, 
+      {
+        "name": "Boys Are Boys and Girls Are Choice", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1k8TPFg7q2sXRWIWSxyCgK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/eec144630ab0bae2e46253048eadbcd90e51b9e9", 
+        "is_playable": true, 
+        "uri": "spotify:track:1k8TPFg7q2sXRWIWSxyCgK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1k8TPFg7q2sXRWIWSxyCgK", 
+        "artists": [
+          {
+            "name": "The Monks", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VTNuQRp2wjrWzZX6CXxiy"
+            }, 
+            "uri": "spotify:artist:3VTNuQRp2wjrWzZX6CXxiy", 
+            "href": "https://api.spotify.com/v1/artists/3VTNuQRp2wjrWzZX6CXxiy", 
+            "type": "artist", 
+            "id": "3VTNuQRp2wjrWzZX6CXxiy"
+          }
+        ], 
+        "duration_ms": 85466, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "1k8TPFg7q2sXRWIWSxyCgK"
+      }, 
+      {
+        "name": "Higgle-Dy - Piggle-Dy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1vOtRIa93PhqcW4obO7csj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1e7adb4fdbc8bcaebc0debc7179cb0274d7b7591", 
+        "is_playable": true, 
+        "uri": "spotify:track:1vOtRIa93PhqcW4obO7csj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1vOtRIa93PhqcW4obO7csj", 
+        "artists": [
+          {
+            "name": "The Monks", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VTNuQRp2wjrWzZX6CXxiy"
+            }, 
+            "uri": "spotify:artist:3VTNuQRp2wjrWzZX6CXxiy", 
+            "href": "https://api.spotify.com/v1/artists/3VTNuQRp2wjrWzZX6CXxiy", 
+            "type": "artist", 
+            "id": "3VTNuQRp2wjrWzZX6CXxiy"
+          }
+        ], 
+        "duration_ms": 148573, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "1vOtRIa93PhqcW4obO7csj"
+      }, 
+      {
+        "name": "I Hate You", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3XrPNRdFbGZESTGPte23dD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cc9a24ab431816f35461f451c427732850dbe1b2", 
+        "is_playable": true, 
+        "uri": "spotify:track:3XrPNRdFbGZESTGPte23dD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3XrPNRdFbGZESTGPte23dD", 
+        "artists": [
+          {
+            "name": "The Monks", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VTNuQRp2wjrWzZX6CXxiy"
+            }, 
+            "uri": "spotify:artist:3VTNuQRp2wjrWzZX6CXxiy", 
+            "href": "https://api.spotify.com/v1/artists/3VTNuQRp2wjrWzZX6CXxiy", 
+            "type": "artist", 
+            "id": "3VTNuQRp2wjrWzZX6CXxiy"
+          }
+        ], 
+        "duration_ms": 213706, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "3XrPNRdFbGZESTGPte23dD"
+      }, 
+      {
+        "name": "Oh, How To Do Now", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2ydpy4Ub6xclV2BsDxO7S9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/42e27033e8d0b6c6f237212533face86386dee3a", 
+        "is_playable": true, 
+        "uri": "spotify:track:2ydpy4Ub6xclV2BsDxO7S9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2ydpy4Ub6xclV2BsDxO7S9", 
+        "artists": [
+          {
+            "name": "The Monks", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VTNuQRp2wjrWzZX6CXxiy"
+            }, 
+            "uri": "spotify:artist:3VTNuQRp2wjrWzZX6CXxiy", 
+            "href": "https://api.spotify.com/v1/artists/3VTNuQRp2wjrWzZX6CXxiy", 
+            "type": "artist", 
+            "id": "3VTNuQRp2wjrWzZX6CXxiy"
+          }
+        ], 
+        "duration_ms": 196426, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "2ydpy4Ub6xclV2BsDxO7S9"
+      }, 
+      {
+        "name": "Complication", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Sb3TdqgOi35RoL78Y1LtC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2a53606537dceacafe2f1a4d1ba4723fbbc7d1e2", 
+        "is_playable": true, 
+        "uri": "spotify:track:4Sb3TdqgOi35RoL78Y1LtC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4Sb3TdqgOi35RoL78Y1LtC", 
+        "artists": [
+          {
+            "name": "The Monks", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VTNuQRp2wjrWzZX6CXxiy"
+            }, 
+            "uri": "spotify:artist:3VTNuQRp2wjrWzZX6CXxiy", 
+            "href": "https://api.spotify.com/v1/artists/3VTNuQRp2wjrWzZX6CXxiy", 
+            "type": "artist", 
+            "id": "3VTNuQRp2wjrWzZX6CXxiy"
+          }
+        ], 
+        "duration_ms": 142613, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "4Sb3TdqgOi35RoL78Y1LtC"
+      }, 
+      {
+        "name": "We Do Wie Du", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1YqnVgzk9CEu8iOmcIy5J4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ad8aabbb704d6b201a3f4a242603ddbb104ce0f3", 
+        "is_playable": true, 
+        "uri": "spotify:track:1YqnVgzk9CEu8iOmcIy5J4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1YqnVgzk9CEu8iOmcIy5J4", 
+        "artists": [
+          {
+            "name": "The Monks", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VTNuQRp2wjrWzZX6CXxiy"
+            }, 
+            "uri": "spotify:artist:3VTNuQRp2wjrWzZX6CXxiy", 
+            "href": "https://api.spotify.com/v1/artists/3VTNuQRp2wjrWzZX6CXxiy", 
+            "type": "artist", 
+            "id": "3VTNuQRp2wjrWzZX6CXxiy"
+          }
+        ], 
+        "duration_ms": 131320, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "1YqnVgzk9CEu8iOmcIy5J4"
+      }, 
+      {
+        "name": "Drunken Maria", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5dfsP9dqKlYWbA8d7TuD4m"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3b00cbcc4fd75c5d9992128279e4d4d5cb6601c4", 
+        "is_playable": true, 
+        "uri": "spotify:track:5dfsP9dqKlYWbA8d7TuD4m", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5dfsP9dqKlYWbA8d7TuD4m", 
+        "artists": [
+          {
+            "name": "The Monks", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VTNuQRp2wjrWzZX6CXxiy"
+            }, 
+            "uri": "spotify:artist:3VTNuQRp2wjrWzZX6CXxiy", 
+            "href": "https://api.spotify.com/v1/artists/3VTNuQRp2wjrWzZX6CXxiy", 
+            "type": "artist", 
+            "id": "3VTNuQRp2wjrWzZX6CXxiy"
+          }
+        ], 
+        "duration_ms": 106146, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "5dfsP9dqKlYWbA8d7TuD4m"
+      }, 
+      {
+        "name": "Love Came Tumblin' Down", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/53WRGlnie0M4zhOWn4D9vs"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/72624fb5c61702cffd6ac368a2e59977486363a1", 
+        "is_playable": true, 
+        "uri": "spotify:track:53WRGlnie0M4zhOWn4D9vs", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/53WRGlnie0M4zhOWn4D9vs", 
+        "artists": [
+          {
+            "name": "The Monks", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VTNuQRp2wjrWzZX6CXxiy"
+            }, 
+            "uri": "spotify:artist:3VTNuQRp2wjrWzZX6CXxiy", 
+            "href": "https://api.spotify.com/v1/artists/3VTNuQRp2wjrWzZX6CXxiy", 
+            "type": "artist", 
+            "id": "3VTNuQRp2wjrWzZX6CXxiy"
+          }
+        ], 
+        "duration_ms": 150173, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "53WRGlnie0M4zhOWn4D9vs"
+      }, 
+      {
+        "name": "Blast Off!", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Viv1foeTuKaeFYG5TBnAJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/88d3667ca27220d860cd5b4e889ccaa524bcdb1a", 
+        "is_playable": true, 
+        "uri": "spotify:track:0Viv1foeTuKaeFYG5TBnAJ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0Viv1foeTuKaeFYG5TBnAJ", 
+        "artists": [
+          {
+            "name": "The Monks", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VTNuQRp2wjrWzZX6CXxiy"
+            }, 
+            "uri": "spotify:artist:3VTNuQRp2wjrWzZX6CXxiy", 
+            "href": "https://api.spotify.com/v1/artists/3VTNuQRp2wjrWzZX6CXxiy", 
+            "type": "artist", 
+            "id": "3VTNuQRp2wjrWzZX6CXxiy"
+          }
+        ], 
+        "duration_ms": 134266, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "0Viv1foeTuKaeFYG5TBnAJ"
+      }, 
+      {
+        "name": "That's My Girl", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3zDVtPmPafIj6yQh4uuHur"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1cf867264b9ad69a7426cc4ea58ad81a74bf64f8", 
+        "is_playable": true, 
+        "uri": "spotify:track:3zDVtPmPafIj6yQh4uuHur", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3zDVtPmPafIj6yQh4uuHur", 
+        "artists": [
+          {
+            "name": "The Monks", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VTNuQRp2wjrWzZX6CXxiy"
+            }, 
+            "uri": "spotify:artist:3VTNuQRp2wjrWzZX6CXxiy", 
+            "href": "https://api.spotify.com/v1/artists/3VTNuQRp2wjrWzZX6CXxiy", 
+            "type": "artist", 
+            "id": "3VTNuQRp2wjrWzZX6CXxiy"
+          }
+        ], 
+        "duration_ms": 145520, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "3zDVtPmPafIj6yQh4uuHur"
+      }, 
+      {
+        "name": "I Can't Get Over You - Bonus Track", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2B2vZZbyfjukxC251v0I2K"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2ed6abb038a7b1cea606f2ba26213d4bbadefa54", 
+        "is_playable": true, 
+        "uri": "spotify:track:2B2vZZbyfjukxC251v0I2K", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2B2vZZbyfjukxC251v0I2K", 
+        "artists": [
+          {
+            "name": "The Monks", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VTNuQRp2wjrWzZX6CXxiy"
+            }, 
+            "uri": "spotify:artist:3VTNuQRp2wjrWzZX6CXxiy", 
+            "href": "https://api.spotify.com/v1/artists/3VTNuQRp2wjrWzZX6CXxiy", 
+            "type": "artist", 
+            "id": "3VTNuQRp2wjrWzZX6CXxiy"
+          }
+        ], 
+        "duration_ms": 164320, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "2B2vZZbyfjukxC251v0I2K"
+      }, 
+      {
+        "name": "Cuckoo - Bonus Track", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7ySGPhkJBzEI1EcvV1f0bK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2353df00ed484150cd7a8692170705544af17cd3", 
+        "is_playable": true, 
+        "uri": "spotify:track:7ySGPhkJBzEI1EcvV1f0bK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7ySGPhkJBzEI1EcvV1f0bK", 
+        "artists": [
+          {
+            "name": "The Monks", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VTNuQRp2wjrWzZX6CXxiy"
+            }, 
+            "uri": "spotify:artist:3VTNuQRp2wjrWzZX6CXxiy", 
+            "href": "https://api.spotify.com/v1/artists/3VTNuQRp2wjrWzZX6CXxiy", 
+            "type": "artist", 
+            "id": "3VTNuQRp2wjrWzZX6CXxiy"
+          }
+        ], 
+        "duration_ms": 163626, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "7ySGPhkJBzEI1EcvV1f0bK"
+      }, 
+      {
+        "name": "Love Can Tame the Wild - Bonus Track", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7DD7GwnhXajhEHTtRqnfsc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6c237546cbbd57fbd0440772bf2bc01695684a25", 
+        "is_playable": true, 
+        "uri": "spotify:track:7DD7GwnhXajhEHTtRqnfsc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7DD7GwnhXajhEHTtRqnfsc", 
+        "artists": [
+          {
+            "name": "The Monks", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VTNuQRp2wjrWzZX6CXxiy"
+            }, 
+            "uri": "spotify:artist:3VTNuQRp2wjrWzZX6CXxiy", 
+            "href": "https://api.spotify.com/v1/artists/3VTNuQRp2wjrWzZX6CXxiy", 
+            "type": "artist", 
+            "id": "3VTNuQRp2wjrWzZX6CXxiy"
+          }
+        ], 
+        "duration_ms": 158333, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "7DD7GwnhXajhEHTtRqnfsc"
+      }, 
+      {
+        "name": "He Went Down To the Sea - Bonus Track", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3j7FW5Si6zEIpArNsvxYXk"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/86a7adcdb2c16be22162046f877fce3573cadb37", 
+        "is_playable": true, 
+        "uri": "spotify:track:3j7FW5Si6zEIpArNsvxYXk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3j7FW5Si6zEIpArNsvxYXk", 
+        "artists": [
+          {
+            "name": "The Monks", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VTNuQRp2wjrWzZX6CXxiy"
+            }, 
+            "uri": "spotify:artist:3VTNuQRp2wjrWzZX6CXxiy", 
+            "href": "https://api.spotify.com/v1/artists/3VTNuQRp2wjrWzZX6CXxiy", 
+            "type": "artist", 
+            "id": "3VTNuQRp2wjrWzZX6CXxiy"
+          }
+        ], 
+        "duration_ms": 181160, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "3j7FW5Si6zEIpArNsvxYXk"
+      }, 
+      {
+        "name": "Pretty Suzanne - Unreleased Bonus Track", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7dzv3xIm9THGEoYd5F7ZfS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ae41b52603abfaf49f4de107a0d2303477dbf4a7", 
+        "is_playable": true, 
+        "uri": "spotify:track:7dzv3xIm9THGEoYd5F7ZfS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7dzv3xIm9THGEoYd5F7ZfS", 
+        "artists": [
+          {
+            "name": "The Monks", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VTNuQRp2wjrWzZX6CXxiy"
+            }, 
+            "uri": "spotify:artist:3VTNuQRp2wjrWzZX6CXxiy", 
+            "href": "https://api.spotify.com/v1/artists/3VTNuQRp2wjrWzZX6CXxiy", 
+            "type": "artist", 
+            "id": "3VTNuQRp2wjrWzZX6CXxiy"
+          }
+        ], 
+        "duration_ms": 235106, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "7dzv3xIm9THGEoYd5F7ZfS"
+      }, 
+      {
+        "name": "Monk Chant - Live Bonus Track", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Cm2naTFMGB0O9WZhvWf8z"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5b834e8772eb70b195023cf2b87216b986a72511", 
+        "is_playable": true, 
+        "uri": "spotify:track:1Cm2naTFMGB0O9WZhvWf8z", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1Cm2naTFMGB0O9WZhvWf8z", 
+        "artists": [
+          {
+            "name": "The Monks", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VTNuQRp2wjrWzZX6CXxiy"
+            }, 
+            "uri": "spotify:artist:3VTNuQRp2wjrWzZX6CXxiy", 
+            "href": "https://api.spotify.com/v1/artists/3VTNuQRp2wjrWzZX6CXxiy", 
+            "type": "artist", 
+            "id": "3VTNuQRp2wjrWzZX6CXxiy"
+          }
+        ], 
+        "duration_ms": 119906, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "1Cm2naTFMGB0O9WZhvWf8z"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/0YEmNXaNDq03tfgFmG4MOj/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 18, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/0YEmNXaNDq03tfgFmG4MOj", 
+  "copyrights": [
+    {
+      "text": "(C) 2009 Light In The Attic Records & Distribution, LLC", 
+      "type": "C"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "The Monks", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3VTNuQRp2wjrWzZX6CXxiy"
+      }, 
+      "uri": "spotify:artist:3VTNuQRp2wjrWzZX6CXxiy", 
+      "href": "https://api.spotify.com/v1/artists/3VTNuQRp2wjrWzZX6CXxiy", 
+      "type": "artist", 
+      "id": "3VTNuQRp2wjrWzZX6CXxiy"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/948ec436cfb20e6c2312d36b8ce3cb283306df4f", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/b14b4985e0c107fc8fec05f74e74690cad04f820", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/ee6b7d11d4f1ebe5f5d6149ee853e0b25d26bc67", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "844185059558"
+  }, 
+  "type": "album", 
+  "id": "0YEmNXaNDq03tfgFmG4MOj", 
+  "name": "Black Monk Time"
+}

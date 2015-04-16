@@ -1,0 +1,567 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0pkrqPjeq9K5KD0hFqAKNa"
+  }, 
+  "release_date": "1965-06-21", 
+  "popularity": 49, 
+  "genres": [], 
+  "uri": "spotify:album:0pkrqPjeq9K5KD0hFqAKNa", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Mr. Tambourine Man", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2HCaIYjkvWSZzaSKUoOh3d"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4e7a8cb94be931cce079ce0402e2ba70e97d5eae", 
+        "is_playable": true, 
+        "uri": "spotify:track:2HCaIYjkvWSZzaSKUoOh3d", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2HCaIYjkvWSZzaSKUoOh3d", 
+        "artists": [
+          {
+            "name": "The Byrds", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+            }, 
+            "uri": "spotify:artist:1PCZpxHJz7WAMF8EEq8bfc", 
+            "href": "https://api.spotify.com/v1/artists/1PCZpxHJz7WAMF8EEq8bfc", 
+            "type": "artist", 
+            "id": "1PCZpxHJz7WAMF8EEq8bfc"
+          }
+        ], 
+        "duration_ms": 149466, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "2HCaIYjkvWSZzaSKUoOh3d"
+      }, 
+      {
+        "name": "I'll Feel a Whole Lot Better", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2hIGz0CXlqA2ukeuUl8DYP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/695787f5f23eb94e9f55e1a1f11e79a362b14ab1", 
+        "is_playable": true, 
+        "uri": "spotify:track:2hIGz0CXlqA2ukeuUl8DYP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2hIGz0CXlqA2ukeuUl8DYP", 
+        "artists": [
+          {
+            "name": "The Byrds", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+            }, 
+            "uri": "spotify:artist:1PCZpxHJz7WAMF8EEq8bfc", 
+            "href": "https://api.spotify.com/v1/artists/1PCZpxHJz7WAMF8EEq8bfc", 
+            "type": "artist", 
+            "id": "1PCZpxHJz7WAMF8EEq8bfc"
+          }
+        ], 
+        "duration_ms": 151706, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "2hIGz0CXlqA2ukeuUl8DYP"
+      }, 
+      {
+        "name": "Spanish Harlem Incident", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0ZHHgwbaVJThH4Fl0NyBiP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5deb50067e1891476200767aed8c7259c68fe5c3", 
+        "is_playable": true, 
+        "uri": "spotify:track:0ZHHgwbaVJThH4Fl0NyBiP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0ZHHgwbaVJThH4Fl0NyBiP", 
+        "artists": [
+          {
+            "name": "The Byrds", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+            }, 
+            "uri": "spotify:artist:1PCZpxHJz7WAMF8EEq8bfc", 
+            "href": "https://api.spotify.com/v1/artists/1PCZpxHJz7WAMF8EEq8bfc", 
+            "type": "artist", 
+            "id": "1PCZpxHJz7WAMF8EEq8bfc"
+          }
+        ], 
+        "duration_ms": 117466, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "0ZHHgwbaVJThH4Fl0NyBiP"
+      }, 
+      {
+        "name": "You Won't Have to Cry", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5tEGRrYw5YnHuduUNgHmxu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/03807ab7d4848b32d8d73353fd8671808ebb4c4e", 
+        "is_playable": true, 
+        "uri": "spotify:track:5tEGRrYw5YnHuduUNgHmxu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5tEGRrYw5YnHuduUNgHmxu", 
+        "artists": [
+          {
+            "name": "The Byrds", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+            }, 
+            "uri": "spotify:artist:1PCZpxHJz7WAMF8EEq8bfc", 
+            "href": "https://api.spotify.com/v1/artists/1PCZpxHJz7WAMF8EEq8bfc", 
+            "type": "artist", 
+            "id": "1PCZpxHJz7WAMF8EEq8bfc"
+          }
+        ], 
+        "duration_ms": 127933, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "5tEGRrYw5YnHuduUNgHmxu"
+      }, 
+      {
+        "name": "Here Without You", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/07gsAWyHNZA4pUpJGDIqOj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3a133bd6ba607dd54f39ec55255e4ace0ae97c0c", 
+        "is_playable": true, 
+        "uri": "spotify:track:07gsAWyHNZA4pUpJGDIqOj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/07gsAWyHNZA4pUpJGDIqOj", 
+        "artists": [
+          {
+            "name": "The Byrds", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+            }, 
+            "uri": "spotify:artist:1PCZpxHJz7WAMF8EEq8bfc", 
+            "href": "https://api.spotify.com/v1/artists/1PCZpxHJz7WAMF8EEq8bfc", 
+            "type": "artist", 
+            "id": "1PCZpxHJz7WAMF8EEq8bfc"
+          }
+        ], 
+        "duration_ms": 156066, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "07gsAWyHNZA4pUpJGDIqOj"
+      }, 
+      {
+        "name": "The Bells of Rhymney", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1mpv6hIbfG75txI9zJGcf4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b6e7a6ee67a09db60f3b98628670b2cea55e27a4", 
+        "is_playable": true, 
+        "uri": "spotify:track:1mpv6hIbfG75txI9zJGcf4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1mpv6hIbfG75txI9zJGcf4", 
+        "artists": [
+          {
+            "name": "The Byrds", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+            }, 
+            "uri": "spotify:artist:1PCZpxHJz7WAMF8EEq8bfc", 
+            "href": "https://api.spotify.com/v1/artists/1PCZpxHJz7WAMF8EEq8bfc", 
+            "type": "artist", 
+            "id": "1PCZpxHJz7WAMF8EEq8bfc"
+          }
+        ], 
+        "duration_ms": 210466, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "1mpv6hIbfG75txI9zJGcf4"
+      }, 
+      {
+        "name": "All I Really Want to Do", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1MI0O2mwTpdwkZpfWz4J7o"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b0ae0dd3b023369edf4b1ef9d6da19d8dd6c7b61", 
+        "is_playable": true, 
+        "uri": "spotify:track:1MI0O2mwTpdwkZpfWz4J7o", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1MI0O2mwTpdwkZpfWz4J7o", 
+        "artists": [
+          {
+            "name": "The Byrds", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+            }, 
+            "uri": "spotify:artist:1PCZpxHJz7WAMF8EEq8bfc", 
+            "href": "https://api.spotify.com/v1/artists/1PCZpxHJz7WAMF8EEq8bfc", 
+            "type": "artist", 
+            "id": "1PCZpxHJz7WAMF8EEq8bfc"
+          }
+        ], 
+        "duration_ms": 123760, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "1MI0O2mwTpdwkZpfWz4J7o"
+      }, 
+      {
+        "name": "I Knew I'd Want You", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/27e6cMePYD0tleccrEMyHi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b34af6eeb41ef27c87757dbb1021fab32c0cd1c4", 
+        "is_playable": true, 
+        "uri": "spotify:track:27e6cMePYD0tleccrEMyHi", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/27e6cMePYD0tleccrEMyHi", 
+        "artists": [
+          {
+            "name": "The Byrds", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+            }, 
+            "uri": "spotify:artist:1PCZpxHJz7WAMF8EEq8bfc", 
+            "href": "https://api.spotify.com/v1/artists/1PCZpxHJz7WAMF8EEq8bfc", 
+            "type": "artist", 
+            "id": "1PCZpxHJz7WAMF8EEq8bfc"
+          }
+        ], 
+        "duration_ms": 134240, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "27e6cMePYD0tleccrEMyHi"
+      }, 
+      {
+        "name": "It's No Use", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7DRRogrXwPSHJYQMg2yPWd"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/15f5f371f650c943137c07674f143dff2df36ec6", 
+        "is_playable": true, 
+        "uri": "spotify:track:7DRRogrXwPSHJYQMg2yPWd", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7DRRogrXwPSHJYQMg2yPWd", 
+        "artists": [
+          {
+            "name": "The Byrds", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+            }, 
+            "uri": "spotify:artist:1PCZpxHJz7WAMF8EEq8bfc", 
+            "href": "https://api.spotify.com/v1/artists/1PCZpxHJz7WAMF8EEq8bfc", 
+            "type": "artist", 
+            "id": "1PCZpxHJz7WAMF8EEq8bfc"
+          }
+        ], 
+        "duration_ms": 143426, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "7DRRogrXwPSHJYQMg2yPWd"
+      }, 
+      {
+        "name": "Don't Doubt Yourself, Babe", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1JCK5LeTYRLgYrmlVw26PK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/76d5d61a49ea33b606078ec37b6c3b47bab74894", 
+        "is_playable": true, 
+        "uri": "spotify:track:1JCK5LeTYRLgYrmlVw26PK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1JCK5LeTYRLgYrmlVw26PK", 
+        "artists": [
+          {
+            "name": "The Byrds", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+            }, 
+            "uri": "spotify:artist:1PCZpxHJz7WAMF8EEq8bfc", 
+            "href": "https://api.spotify.com/v1/artists/1PCZpxHJz7WAMF8EEq8bfc", 
+            "type": "artist", 
+            "id": "1PCZpxHJz7WAMF8EEq8bfc"
+          }
+        ], 
+        "duration_ms": 174360, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "1JCK5LeTYRLgYrmlVw26PK"
+      }, 
+      {
+        "name": "Chimes of Freedom", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1WEuSuC0tJquFpf2JiMjh7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/27b90d675d23f0a78f19ba00732207d355367749", 
+        "is_playable": true, 
+        "uri": "spotify:track:1WEuSuC0tJquFpf2JiMjh7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1WEuSuC0tJquFpf2JiMjh7", 
+        "artists": [
+          {
+            "name": "The Byrds", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+            }, 
+            "uri": "spotify:artist:1PCZpxHJz7WAMF8EEq8bfc", 
+            "href": "https://api.spotify.com/v1/artists/1PCZpxHJz7WAMF8EEq8bfc", 
+            "type": "artist", 
+            "id": "1PCZpxHJz7WAMF8EEq8bfc"
+          }
+        ], 
+        "duration_ms": 231133, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "1WEuSuC0tJquFpf2JiMjh7"
+      }, 
+      {
+        "name": "We'll Meet Again", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0KQFuxi5CUf3ybEAa4Oc42"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/988a3ffcef093be99fea55b09211ae46af9e8900", 
+        "is_playable": true, 
+        "uri": "spotify:track:0KQFuxi5CUf3ybEAa4Oc42", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0KQFuxi5CUf3ybEAa4Oc42", 
+        "artists": [
+          {
+            "name": "The Byrds", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+            }, 
+            "uri": "spotify:artist:1PCZpxHJz7WAMF8EEq8bfc", 
+            "href": "https://api.spotify.com/v1/artists/1PCZpxHJz7WAMF8EEq8bfc", 
+            "type": "artist", 
+            "id": "1PCZpxHJz7WAMF8EEq8bfc"
+          }
+        ], 
+        "duration_ms": 127466, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "0KQFuxi5CUf3ybEAa4Oc42"
+      }, 
+      {
+        "name": "She Has a Way", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6HW0bRxmpTwSpnPDQZXB3M"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a61e85d9edb65854d3423ca36e48bd192faa84a5", 
+        "is_playable": true, 
+        "uri": "spotify:track:6HW0bRxmpTwSpnPDQZXB3M", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6HW0bRxmpTwSpnPDQZXB3M", 
+        "artists": [
+          {
+            "name": "The Byrds", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+            }, 
+            "uri": "spotify:artist:1PCZpxHJz7WAMF8EEq8bfc", 
+            "href": "https://api.spotify.com/v1/artists/1PCZpxHJz7WAMF8EEq8bfc", 
+            "type": "artist", 
+            "id": "1PCZpxHJz7WAMF8EEq8bfc"
+          }
+        ], 
+        "duration_ms": 144933, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "6HW0bRxmpTwSpnPDQZXB3M"
+      }, 
+      {
+        "name": "I'll Feel a Whole Lot Better - Alternate Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4xRsNEOHd4wxsAa8Jh3ptF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4c28f529a110ab29606138732b3b26971963eb5c", 
+        "is_playable": true, 
+        "uri": "spotify:track:4xRsNEOHd4wxsAa8Jh3ptF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4xRsNEOHd4wxsAa8Jh3ptF", 
+        "artists": [
+          {
+            "name": "The Byrds", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+            }, 
+            "uri": "spotify:artist:1PCZpxHJz7WAMF8EEq8bfc", 
+            "href": "https://api.spotify.com/v1/artists/1PCZpxHJz7WAMF8EEq8bfc", 
+            "type": "artist", 
+            "id": "1PCZpxHJz7WAMF8EEq8bfc"
+          }
+        ], 
+        "duration_ms": 147693, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "4xRsNEOHd4wxsAa8Jh3ptF"
+      }, 
+      {
+        "name": "It's No Use - alternate lead guitar overdub", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Ab7Stw71N40hJy1g3ORaS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fbedac580f63378cb787e96fa991099b736677c4", 
+        "is_playable": true, 
+        "uri": "spotify:track:4Ab7Stw71N40hJy1g3ORaS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4Ab7Stw71N40hJy1g3ORaS", 
+        "artists": [
+          {
+            "name": "The Byrds", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+            }, 
+            "uri": "spotify:artist:1PCZpxHJz7WAMF8EEq8bfc", 
+            "href": "https://api.spotify.com/v1/artists/1PCZpxHJz7WAMF8EEq8bfc", 
+            "type": "artist", 
+            "id": "1PCZpxHJz7WAMF8EEq8bfc"
+          }
+        ], 
+        "duration_ms": 143640, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "4Ab7Stw71N40hJy1g3ORaS"
+      }, 
+      {
+        "name": "You Won't Have to Cry - alternate vocal track/take 2", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3PvLzcdIOh7bCYk2BZ8TQx"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5f518d04f7498b809b24b021f47b5b466e12c9f0", 
+        "is_playable": true, 
+        "uri": "spotify:track:3PvLzcdIOh7bCYk2BZ8TQx", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3PvLzcdIOh7bCYk2BZ8TQx", 
+        "artists": [
+          {
+            "name": "The Byrds", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+            }, 
+            "uri": "spotify:artist:1PCZpxHJz7WAMF8EEq8bfc", 
+            "href": "https://api.spotify.com/v1/artists/1PCZpxHJz7WAMF8EEq8bfc", 
+            "type": "artist", 
+            "id": "1PCZpxHJz7WAMF8EEq8bfc"
+          }
+        ], 
+        "duration_ms": 127360, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "3PvLzcdIOh7bCYk2BZ8TQx"
+      }, 
+      {
+        "name": "All I Really Want to Do - Single Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2y0KZgjc5tb0Azmk2xocso"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5135db0f0e410c657a62a214d1d803004a3ee721", 
+        "is_playable": true, 
+        "uri": "spotify:track:2y0KZgjc5tb0Azmk2xocso", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2y0KZgjc5tb0Azmk2xocso", 
+        "artists": [
+          {
+            "name": "The Byrds", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+            }, 
+            "uri": "spotify:artist:1PCZpxHJz7WAMF8EEq8bfc", 
+            "href": "https://api.spotify.com/v1/artists/1PCZpxHJz7WAMF8EEq8bfc", 
+            "type": "artist", 
+            "id": "1PCZpxHJz7WAMF8EEq8bfc"
+          }
+        ], 
+        "duration_ms": 122400, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "2y0KZgjc5tb0Azmk2xocso"
+      }, 
+      {
+        "name": "You And Me - instrumental backing track - take 13", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0TC17H3zC4YUL9zXBUU6Gr"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/397b9484d10f4f6b5fa826f626568a398864b99d", 
+        "is_playable": true, 
+        "uri": "spotify:track:0TC17H3zC4YUL9zXBUU6Gr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0TC17H3zC4YUL9zXBUU6Gr", 
+        "artists": [
+          {
+            "name": "The Byrds", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+            }, 
+            "uri": "spotify:artist:1PCZpxHJz7WAMF8EEq8bfc", 
+            "href": "https://api.spotify.com/v1/artists/1PCZpxHJz7WAMF8EEq8bfc", 
+            "type": "artist", 
+            "id": "1PCZpxHJz7WAMF8EEq8bfc"
+          }
+        ], 
+        "duration_ms": 131373, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "0TC17H3zC4YUL9zXBUU6Gr"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/0pkrqPjeq9K5KD0hFqAKNa/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 18, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/0pkrqPjeq9K5KD0hFqAKNa", 
+  "copyrights": [
+    {
+      "text": "1996 Sony Music Entertainment Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "The Byrds", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+      }, 
+      "uri": "spotify:artist:1PCZpxHJz7WAMF8EEq8bfc", 
+      "href": "https://api.spotify.com/v1/artists/1PCZpxHJz7WAMF8EEq8bfc", 
+      "type": "artist", 
+      "id": "1PCZpxHJz7WAMF8EEq8bfc"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/9e5756a8a4ea58cd818a88e25d2fecdb1623b33a", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/993a7bc8869fa63e8fa2dad8a603cfdf75589a12", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/659755ae27602dbc049cc22c07af432f8be1e405", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "074646484524"
+  }, 
+  "type": "album", 
+  "id": "0pkrqPjeq9K5KD0hFqAKNa", 
+  "name": "Mr. Tambourine Man"
+}

@@ -1,0 +1,403 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh"
+  }, 
+  "release_date": "1990", 
+  "popularity": 47, 
+  "genres": [], 
+  "uri": "spotify:album:4sTAgYLZy5zwqR3kT1g0oh", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Deee-Lite Theme", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6pvn3Wy1iFcuYCftMumF6P"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3cf3fb7c0b9cf9ca775b33e9fc987419f00222d0", 
+        "is_playable": true, 
+        "uri": "spotify:track:6pvn3Wy1iFcuYCftMumF6P", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6pvn3Wy1iFcuYCftMumF6P", 
+        "artists": [
+          {
+            "name": "Deee-Lite", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5"
+            }, 
+            "uri": "spotify:artist:4eQJIXFEujzhTVVS1gIfu5", 
+            "href": "https://api.spotify.com/v1/artists/4eQJIXFEujzhTVVS1gIfu5", 
+            "type": "artist", 
+            "id": "4eQJIXFEujzhTVVS1gIfu5"
+          }
+        ], 
+        "duration_ms": 129653, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "6pvn3Wy1iFcuYCftMumF6P"
+      }, 
+      {
+        "name": "Good Beat", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3537ctBVaCefYh0r3DpNkC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/17d17eb09d4366632992e06a9c6040670c962ccd", 
+        "is_playable": true, 
+        "uri": "spotify:track:3537ctBVaCefYh0r3DpNkC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3537ctBVaCefYh0r3DpNkC", 
+        "artists": [
+          {
+            "name": "Deee-Lite", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5"
+            }, 
+            "uri": "spotify:artist:4eQJIXFEujzhTVVS1gIfu5", 
+            "href": "https://api.spotify.com/v1/artists/4eQJIXFEujzhTVVS1gIfu5", 
+            "type": "artist", 
+            "id": "4eQJIXFEujzhTVVS1gIfu5"
+          }
+        ], 
+        "duration_ms": 279066, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "3537ctBVaCefYh0r3DpNkC"
+      }, 
+      {
+        "name": "Power Of Love", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2BuTposwmSKxFBgEoi4jES"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/535844204eaed282ece8d35adca2c43b8dd1ef80", 
+        "is_playable": true, 
+        "uri": "spotify:track:2BuTposwmSKxFBgEoi4jES", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2BuTposwmSKxFBgEoi4jES", 
+        "artists": [
+          {
+            "name": "Deee-Lite", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5"
+            }, 
+            "uri": "spotify:artist:4eQJIXFEujzhTVVS1gIfu5", 
+            "href": "https://api.spotify.com/v1/artists/4eQJIXFEujzhTVVS1gIfu5", 
+            "type": "artist", 
+            "id": "4eQJIXFEujzhTVVS1gIfu5"
+          }
+        ], 
+        "duration_ms": 281760, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "2BuTposwmSKxFBgEoi4jES"
+      }, 
+      {
+        "name": "Try Me On... I'm Very You", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0IhZeb2CoLpcIz7OgHUf31"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/73beeee7d6ef69568543e40f317ff7e66fa97e4d", 
+        "is_playable": true, 
+        "uri": "spotify:track:0IhZeb2CoLpcIz7OgHUf31", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0IhZeb2CoLpcIz7OgHUf31", 
+        "artists": [
+          {
+            "name": "Deee-Lite", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5"
+            }, 
+            "uri": "spotify:artist:4eQJIXFEujzhTVVS1gIfu5", 
+            "href": "https://api.spotify.com/v1/artists/4eQJIXFEujzhTVVS1gIfu5", 
+            "type": "artist", 
+            "id": "4eQJIXFEujzhTVVS1gIfu5"
+          }
+        ], 
+        "duration_ms": 318800, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "0IhZeb2CoLpcIz7OgHUf31"
+      }, 
+      {
+        "name": "Smile On", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/60Mh1Dt48Cua1BzFeLr0aB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/faef793cc1007c376d86e7facfa39080964cf922", 
+        "is_playable": true, 
+        "uri": "spotify:track:60Mh1Dt48Cua1BzFeLr0aB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/60Mh1Dt48Cua1BzFeLr0aB", 
+        "artists": [
+          {
+            "name": "Deee-Lite", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5"
+            }, 
+            "uri": "spotify:artist:4eQJIXFEujzhTVVS1gIfu5", 
+            "href": "https://api.spotify.com/v1/artists/4eQJIXFEujzhTVVS1gIfu5", 
+            "type": "artist", 
+            "id": "4eQJIXFEujzhTVVS1gIfu5"
+          }
+        ], 
+        "duration_ms": 238040, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "60Mh1Dt48Cua1BzFeLr0aB"
+      }, 
+      {
+        "name": "What Is Love?", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6pRUSqa2Qo8QV4Ytk8ik9c"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c40482a52d0d754376fba721444bfa99d1b3f6b6", 
+        "is_playable": true, 
+        "uri": "spotify:track:6pRUSqa2Qo8QV4Ytk8ik9c", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6pRUSqa2Qo8QV4Ytk8ik9c", 
+        "artists": [
+          {
+            "name": "Deee-Lite", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5"
+            }, 
+            "uri": "spotify:artist:4eQJIXFEujzhTVVS1gIfu5", 
+            "href": "https://api.spotify.com/v1/artists/4eQJIXFEujzhTVVS1gIfu5", 
+            "type": "artist", 
+            "id": "4eQJIXFEujzhTVVS1gIfu5"
+          }
+        ], 
+        "duration_ms": 220480, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "6pRUSqa2Qo8QV4Ytk8ik9c"
+      }, 
+      {
+        "name": "World Clique", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/51EFUe97fg4qneF790i9cu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b35829d8d3a4d98bf659b37cef61903987f6cfd1", 
+        "is_playable": true, 
+        "uri": "spotify:track:51EFUe97fg4qneF790i9cu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/51EFUe97fg4qneF790i9cu", 
+        "artists": [
+          {
+            "name": "Deee-Lite", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5"
+            }, 
+            "uri": "spotify:artist:4eQJIXFEujzhTVVS1gIfu5", 
+            "href": "https://api.spotify.com/v1/artists/4eQJIXFEujzhTVVS1gIfu5", 
+            "type": "artist", 
+            "id": "4eQJIXFEujzhTVVS1gIfu5"
+          }
+        ], 
+        "duration_ms": 202800, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "51EFUe97fg4qneF790i9cu"
+      }, 
+      {
+        "name": "E.S.P.", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2CpnZ8N7IkHQ3lr72JLt3g"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/977635575588f52dd870d88366d2580e978d9675", 
+        "is_playable": true, 
+        "uri": "spotify:track:2CpnZ8N7IkHQ3lr72JLt3g", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2CpnZ8N7IkHQ3lr72JLt3g", 
+        "artists": [
+          {
+            "name": "Deee-Lite", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5"
+            }, 
+            "uri": "spotify:artist:4eQJIXFEujzhTVVS1gIfu5", 
+            "href": "https://api.spotify.com/v1/artists/4eQJIXFEujzhTVVS1gIfu5", 
+            "type": "artist", 
+            "id": "4eQJIXFEujzhTVVS1gIfu5"
+          }
+        ], 
+        "duration_ms": 224866, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "2CpnZ8N7IkHQ3lr72JLt3g"
+      }, 
+      {
+        "name": "Groove Is In The Heart", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d972fde8a1064d432ab0da2743ff64c1a7c84511", 
+        "is_playable": true, 
+        "uri": "spotify:track:2He3NOyqtLNE3RQPpeDdSb", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2He3NOyqtLNE3RQPpeDdSb", 
+        "artists": [
+          {
+            "name": "Deee-Lite", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5"
+            }, 
+            "uri": "spotify:artist:4eQJIXFEujzhTVVS1gIfu5", 
+            "href": "https://api.spotify.com/v1/artists/4eQJIXFEujzhTVVS1gIfu5", 
+            "type": "artist", 
+            "id": "4eQJIXFEujzhTVVS1gIfu5"
+          }
+        ], 
+        "duration_ms": 231786, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "2He3NOyqtLNE3RQPpeDdSb"
+      }, 
+      {
+        "name": "Who Was That", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Q9bVcmZlXbCF0LHCY0uzc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7ff2a8dccdab301fa6678985fca6e25a1b9e1bd4", 
+        "is_playable": true, 
+        "uri": "spotify:track:4Q9bVcmZlXbCF0LHCY0uzc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4Q9bVcmZlXbCF0LHCY0uzc", 
+        "artists": [
+          {
+            "name": "Deee-Lite", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5"
+            }, 
+            "uri": "spotify:artist:4eQJIXFEujzhTVVS1gIfu5", 
+            "href": "https://api.spotify.com/v1/artists/4eQJIXFEujzhTVVS1gIfu5", 
+            "type": "artist", 
+            "id": "4eQJIXFEujzhTVVS1gIfu5"
+          }
+        ], 
+        "duration_ms": 276866, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "4Q9bVcmZlXbCF0LHCY0uzc"
+      }, 
+      {
+        "name": "Deep Ending", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Olqh1bzR0GoiHh29ns5Ux"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d1eb8e184da7812c03ce7f1771863e1dadfa505d", 
+        "is_playable": true, 
+        "uri": "spotify:track:6Olqh1bzR0GoiHh29ns5Ux", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6Olqh1bzR0GoiHh29ns5Ux", 
+        "artists": [
+          {
+            "name": "Deee-Lite", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5"
+            }, 
+            "uri": "spotify:artist:4eQJIXFEujzhTVVS1gIfu5", 
+            "href": "https://api.spotify.com/v1/artists/4eQJIXFEujzhTVVS1gIfu5", 
+            "type": "artist", 
+            "id": "4eQJIXFEujzhTVVS1gIfu5"
+          }
+        ], 
+        "duration_ms": 229493, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "6Olqh1bzR0GoiHh29ns5Ux"
+      }, 
+      {
+        "name": "Build The Bridge", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2lI7ELuYNnLa8kOXhB3N35"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/44b2e5e67cb9dadcbaeb6ba7bb14d684e9771995", 
+        "is_playable": true, 
+        "uri": "spotify:track:2lI7ELuYNnLa8kOXhB3N35", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2lI7ELuYNnLa8kOXhB3N35", 
+        "artists": [
+          {
+            "name": "Deee-Lite", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5"
+            }, 
+            "uri": "spotify:artist:4eQJIXFEujzhTVVS1gIfu5", 
+            "href": "https://api.spotify.com/v1/artists/4eQJIXFEujzhTVVS1gIfu5", 
+            "type": "artist", 
+            "id": "4eQJIXFEujzhTVVS1gIfu5"
+          }
+        ], 
+        "duration_ms": 271666, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "2lI7ELuYNnLa8kOXhB3N35"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/4sTAgYLZy5zwqR3kT1g0oh/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 12, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/4sTAgYLZy5zwqR3kT1g0oh", 
+  "copyrights": [
+    {
+      "text": "1990 Elektra Entertainment.", 
+      "type": "C"
+    }, 
+    {
+      "text": "1990 Elektra Entertainment. Marketed by Rhino Entertainment Company, a Warner Music Group Company.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Deee-Lite", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5"
+      }, 
+      "uri": "spotify:artist:4eQJIXFEujzhTVVS1gIfu5", 
+      "href": "https://api.spotify.com/v1/artists/4eQJIXFEujzhTVVS1gIfu5", 
+      "type": "artist", 
+      "id": "4eQJIXFEujzhTVVS1gIfu5"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/560d9e93055a2a01db7f49663b6464104e8bbdc1", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/59e41006abe39b961929d0fd7e26c53c518ca810", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/ed140451ee747e3b8ca84f25c36935ca587b8db6", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "075596095761"
+  }, 
+  "type": "album", 
+  "id": "4sTAgYLZy5zwqR3kT1g0oh", 
+  "name": "World Clique"
+}

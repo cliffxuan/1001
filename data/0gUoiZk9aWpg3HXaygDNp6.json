@@ -1,0 +1,375 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0gUoiZk9aWpg3HXaygDNp6"
+  }, 
+  "release_date": "1968", 
+  "popularity": 47, 
+  "genres": [], 
+  "uri": "spotify:album:0gUoiZk9aWpg3HXaygDNp6", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Panis Et Circenses", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3X2fXJr00xbMfUlmmqZj4u"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6e04278d6a9174dd91bd0b889d3f1fda3a6e73ec", 
+        "is_playable": true, 
+        "uri": "spotify:track:3X2fXJr00xbMfUlmmqZj4u", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3X2fXJr00xbMfUlmmqZj4u", 
+        "artists": [
+          {
+            "name": "Os Mutantes", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX"
+            }, 
+            "uri": "spotify:artist:5C0gCCG8N5Dh5dZytIgzLX", 
+            "href": "https://api.spotify.com/v1/artists/5C0gCCG8N5Dh5dZytIgzLX", 
+            "type": "artist", 
+            "id": "5C0gCCG8N5Dh5dZytIgzLX"
+          }
+        ], 
+        "duration_ms": 220453, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "3X2fXJr00xbMfUlmmqZj4u"
+      }, 
+      {
+        "name": "A Minha Menina", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3CCGsOj2efotChiScMmCWg"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d0f4673d41309625ac96232f120a47e9e30766c7", 
+        "is_playable": true, 
+        "uri": "spotify:track:3CCGsOj2efotChiScMmCWg", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3CCGsOj2efotChiScMmCWg", 
+        "artists": [
+          {
+            "name": "Os Mutantes", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX"
+            }, 
+            "uri": "spotify:artist:5C0gCCG8N5Dh5dZytIgzLX", 
+            "href": "https://api.spotify.com/v1/artists/5C0gCCG8N5Dh5dZytIgzLX", 
+            "type": "artist", 
+            "id": "5C0gCCG8N5Dh5dZytIgzLX"
+          }
+        ], 
+        "duration_ms": 284986, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "3CCGsOj2efotChiScMmCWg"
+      }, 
+      {
+        "name": "O Rel\u00f3gio", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4cDBLguMSUSqZfYH4putSR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/75ba12d83467e17468316c1e088381673b77b16e", 
+        "is_playable": true, 
+        "uri": "spotify:track:4cDBLguMSUSqZfYH4putSR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4cDBLguMSUSqZfYH4putSR", 
+        "artists": [
+          {
+            "name": "Os Mutantes", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX"
+            }, 
+            "uri": "spotify:artist:5C0gCCG8N5Dh5dZytIgzLX", 
+            "href": "https://api.spotify.com/v1/artists/5C0gCCG8N5Dh5dZytIgzLX", 
+            "type": "artist", 
+            "id": "5C0gCCG8N5Dh5dZytIgzLX"
+          }
+        ], 
+        "duration_ms": 211786, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "4cDBLguMSUSqZfYH4putSR"
+      }, 
+      {
+        "name": "Adeus Maria Ful\u00f4", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2bK4icZCQ9pAXb72HnqlSV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/273f46fb1251ef4bbfaf3c922610d71a71fcaf62", 
+        "is_playable": true, 
+        "uri": "spotify:track:2bK4icZCQ9pAXb72HnqlSV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2bK4icZCQ9pAXb72HnqlSV", 
+        "artists": [
+          {
+            "name": "Os Mutantes", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX"
+            }, 
+            "uri": "spotify:artist:5C0gCCG8N5Dh5dZytIgzLX", 
+            "href": "https://api.spotify.com/v1/artists/5C0gCCG8N5Dh5dZytIgzLX", 
+            "type": "artist", 
+            "id": "5C0gCCG8N5Dh5dZytIgzLX"
+          }
+        ], 
+        "duration_ms": 186080, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "2bK4icZCQ9pAXb72HnqlSV"
+      }, 
+      {
+        "name": "Baby", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6zw3umfMcnu0z6O4qGmHMM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/51233c4de62d7a7207dce5b75ed154938021a00f", 
+        "is_playable": true, 
+        "uri": "spotify:track:6zw3umfMcnu0z6O4qGmHMM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6zw3umfMcnu0z6O4qGmHMM", 
+        "artists": [
+          {
+            "name": "Os Mutantes", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX"
+            }, 
+            "uri": "spotify:artist:5C0gCCG8N5Dh5dZytIgzLX", 
+            "href": "https://api.spotify.com/v1/artists/5C0gCCG8N5Dh5dZytIgzLX", 
+            "type": "artist", 
+            "id": "5C0gCCG8N5Dh5dZytIgzLX"
+          }
+        ], 
+        "duration_ms": 182186, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "6zw3umfMcnu0z6O4qGmHMM"
+      }, 
+      {
+        "name": "Senhor F", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/133QzJopCdmfYn9vvyHkTN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fd21fc1c51eeea192ad0d9c3b833f9180625e1a2", 
+        "is_playable": true, 
+        "uri": "spotify:track:133QzJopCdmfYn9vvyHkTN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/133QzJopCdmfYn9vvyHkTN", 
+        "artists": [
+          {
+            "name": "Os Mutantes", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX"
+            }, 
+            "uri": "spotify:artist:5C0gCCG8N5Dh5dZytIgzLX", 
+            "href": "https://api.spotify.com/v1/artists/5C0gCCG8N5Dh5dZytIgzLX", 
+            "type": "artist", 
+            "id": "5C0gCCG8N5Dh5dZytIgzLX"
+          }
+        ], 
+        "duration_ms": 155893, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "133QzJopCdmfYn9vvyHkTN"
+      }, 
+      {
+        "name": "Bat Macumba", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/37DLAQUXsHHuyxwfieh8wh"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/dd5632b34566a2e4fb5714638868e5f32cfe5ba6", 
+        "is_playable": true, 
+        "uri": "spotify:track:37DLAQUXsHHuyxwfieh8wh", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/37DLAQUXsHHuyxwfieh8wh", 
+        "artists": [
+          {
+            "name": "Os Mutantes", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX"
+            }, 
+            "uri": "spotify:artist:5C0gCCG8N5Dh5dZytIgzLX", 
+            "href": "https://api.spotify.com/v1/artists/5C0gCCG8N5Dh5dZytIgzLX", 
+            "type": "artist", 
+            "id": "5C0gCCG8N5Dh5dZytIgzLX"
+          }
+        ], 
+        "duration_ms": 190453, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "37DLAQUXsHHuyxwfieh8wh"
+      }, 
+      {
+        "name": "Le Premier Bonheur Du Jour", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5DTzuJUckIUSqXCoX7xkrh"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/90a5648c8f68de078de0ab0590b48a8f7e4eafd6", 
+        "is_playable": true, 
+        "uri": "spotify:track:5DTzuJUckIUSqXCoX7xkrh", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5DTzuJUckIUSqXCoX7xkrh", 
+        "artists": [
+          {
+            "name": "Os Mutantes", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX"
+            }, 
+            "uri": "spotify:artist:5C0gCCG8N5Dh5dZytIgzLX", 
+            "href": "https://api.spotify.com/v1/artists/5C0gCCG8N5Dh5dZytIgzLX", 
+            "type": "artist", 
+            "id": "5C0gCCG8N5Dh5dZytIgzLX"
+          }
+        ], 
+        "duration_ms": 219613, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "5DTzuJUckIUSqXCoX7xkrh"
+      }, 
+      {
+        "name": "Trem Fantasma", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5e30hGhUhytzik4rYesN4N"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/91b6c6cf9f7b74653702b2bc63a178fa04e4d932", 
+        "is_playable": true, 
+        "uri": "spotify:track:5e30hGhUhytzik4rYesN4N", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5e30hGhUhytzik4rYesN4N", 
+        "artists": [
+          {
+            "name": "Os Mutantes", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX"
+            }, 
+            "uri": "spotify:artist:5C0gCCG8N5Dh5dZytIgzLX", 
+            "href": "https://api.spotify.com/v1/artists/5C0gCCG8N5Dh5dZytIgzLX", 
+            "type": "artist", 
+            "id": "5C0gCCG8N5Dh5dZytIgzLX"
+          }
+        ], 
+        "duration_ms": 198586, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "5e30hGhUhytzik4rYesN4N"
+      }, 
+      {
+        "name": "Tempo No Tempo (Once Was A Time I Thought)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3oU3jI0yclFS3ogiltR8Vt"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/32edee00483b1ad4df916d8af49d76601e8f046b", 
+        "is_playable": true, 
+        "uri": "spotify:track:3oU3jI0yclFS3ogiltR8Vt", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3oU3jI0yclFS3ogiltR8Vt", 
+        "artists": [
+          {
+            "name": "Os Mutantes", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX"
+            }, 
+            "uri": "spotify:artist:5C0gCCG8N5Dh5dZytIgzLX", 
+            "href": "https://api.spotify.com/v1/artists/5C0gCCG8N5Dh5dZytIgzLX", 
+            "type": "artist", 
+            "id": "5C0gCCG8N5Dh5dZytIgzLX"
+          }
+        ], 
+        "duration_ms": 108786, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "3oU3jI0yclFS3ogiltR8Vt"
+      }, 
+      {
+        "name": "Ave Gengis Khan", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/450YSLPygMLLXfEclKeSCg"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/44754158cf23dfafbd8f91bf73551070860a2937", 
+        "is_playable": true, 
+        "uri": "spotify:track:450YSLPygMLLXfEclKeSCg", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/450YSLPygMLLXfEclKeSCg", 
+        "artists": [
+          {
+            "name": "Os Mutantes", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX"
+            }, 
+            "uri": "spotify:artist:5C0gCCG8N5Dh5dZytIgzLX", 
+            "href": "https://api.spotify.com/v1/artists/5C0gCCG8N5Dh5dZytIgzLX", 
+            "type": "artist", 
+            "id": "5C0gCCG8N5Dh5dZytIgzLX"
+          }
+        ], 
+        "duration_ms": 231200, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "450YSLPygMLLXfEclKeSCg"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/0gUoiZk9aWpg3HXaygDNp6/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 11, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/0gUoiZk9aWpg3HXaygDNp6", 
+  "copyrights": [
+    {
+      "text": "(C) 1968 Universal Music Ltda", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1968 Universal Music Ltda", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Os Mutantes", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX"
+      }, 
+      "uri": "spotify:artist:5C0gCCG8N5Dh5dZytIgzLX", 
+      "href": "https://api.spotify.com/v1/artists/5C0gCCG8N5Dh5dZytIgzLX", 
+      "type": "artist", 
+      "id": "5C0gCCG8N5Dh5dZytIgzLX"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/dfdebdf64c884d2016f8a7eea909c29e37d53514", 
+      "width": 640, 
+      "height": 634
+    }, 
+    {
+      "url": "https://i.scdn.co/image/94ad4a04d30e62c8cac67a5577e702ec89a6c2f9", 
+      "width": 300, 
+      "height": 297
+    }, 
+    {
+      "url": "https://i.scdn.co/image/f93ddc730083491dc21299b2578fb0877116dab6", 
+      "width": 64, 
+      "height": 63
+    }
+  ], 
+  "external_ids": {
+    "upc": "00042282949820"
+  }, 
+  "type": "album", 
+  "id": "0gUoiZk9aWpg3HXaygDNp6", 
+  "name": "\"Os Mutantes\""
+}

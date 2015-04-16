@@ -1,0 +1,851 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4bPT6Q8ppaSNppk1kbEbLl"
+  }, 
+  "release_date": "1995-12-12", 
+  "popularity": 74, 
+  "genres": [], 
+  "uri": "spotify:album:4bPT6Q8ppaSNppk1kbEbLl", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Mellon Collie and the Infinite Sadness", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6jrNtWLvTRQhIzWkeU9IFX"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4ae39eb0ddc627431a333a1717da1db8e47c3364", 
+        "is_playable": true, 
+        "uri": "spotify:track:6jrNtWLvTRQhIzWkeU9IFX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6jrNtWLvTRQhIzWkeU9IFX", 
+        "artists": [
+          {
+            "name": "The Smashing Pumpkins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+            }, 
+            "uri": "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i", 
+            "href": "https://api.spotify.com/v1/artists/40Yq4vzPs9VNUrIBG5Jr2i", 
+            "type": "artist", 
+            "id": "40Yq4vzPs9VNUrIBG5Jr2i"
+          }
+        ], 
+        "duration_ms": 172920, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "6jrNtWLvTRQhIzWkeU9IFX"
+      }, 
+      {
+        "name": "Tonight, Tonight", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4iCGSi1RonREsPtfEKYj5b"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ed441c6f294188d586ea027c44e70a8e5f518c52", 
+        "is_playable": true, 
+        "uri": "spotify:track:4iCGSi1RonREsPtfEKYj5b", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4iCGSi1RonREsPtfEKYj5b", 
+        "artists": [
+          {
+            "name": "The Smashing Pumpkins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+            }, 
+            "uri": "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i", 
+            "href": "https://api.spotify.com/v1/artists/40Yq4vzPs9VNUrIBG5Jr2i", 
+            "type": "artist", 
+            "id": "40Yq4vzPs9VNUrIBG5Jr2i"
+          }
+        ], 
+        "duration_ms": 254626, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "4iCGSi1RonREsPtfEKYj5b"
+      }, 
+      {
+        "name": "Jellybelly", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6o9SG7Z9yz0OD4JRQaqyQO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/974c0d54dfcda8a5a4bf60132b782c3268b8df6a", 
+        "is_playable": true, 
+        "uri": "spotify:track:6o9SG7Z9yz0OD4JRQaqyQO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6o9SG7Z9yz0OD4JRQaqyQO", 
+        "artists": [
+          {
+            "name": "The Smashing Pumpkins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+            }, 
+            "uri": "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i", 
+            "href": "https://api.spotify.com/v1/artists/40Yq4vzPs9VNUrIBG5Jr2i", 
+            "type": "artist", 
+            "id": "40Yq4vzPs9VNUrIBG5Jr2i"
+          }
+        ], 
+        "duration_ms": 181533, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "6o9SG7Z9yz0OD4JRQaqyQO"
+      }, 
+      {
+        "name": "Zero", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1o2jjiTtiVJEtQyYzcRHnm"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/27a34399b274ec0d953c43d8233877c0ede9b491", 
+        "is_playable": true, 
+        "uri": "spotify:track:1o2jjiTtiVJEtQyYzcRHnm", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1o2jjiTtiVJEtQyYzcRHnm", 
+        "artists": [
+          {
+            "name": "The Smashing Pumpkins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+            }, 
+            "uri": "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i", 
+            "href": "https://api.spotify.com/v1/artists/40Yq4vzPs9VNUrIBG5Jr2i", 
+            "type": "artist", 
+            "id": "40Yq4vzPs9VNUrIBG5Jr2i"
+          }
+        ], 
+        "duration_ms": 160173, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "1o2jjiTtiVJEtQyYzcRHnm"
+      }, 
+      {
+        "name": "Here Is No Why", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3HnsSHTG7QEi77hyfmUefV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fb6aef772ce8cafde0cf0216729ec76abf2ee0fb", 
+        "is_playable": true, 
+        "uri": "spotify:track:3HnsSHTG7QEi77hyfmUefV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3HnsSHTG7QEi77hyfmUefV", 
+        "artists": [
+          {
+            "name": "The Smashing Pumpkins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+            }, 
+            "uri": "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i", 
+            "href": "https://api.spotify.com/v1/artists/40Yq4vzPs9VNUrIBG5Jr2i", 
+            "type": "artist", 
+            "id": "40Yq4vzPs9VNUrIBG5Jr2i"
+          }
+        ], 
+        "duration_ms": 225120, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "3HnsSHTG7QEi77hyfmUefV"
+      }, 
+      {
+        "name": "Bullet With Butterfly Wings", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4qMzPtAZe0C9KWpWIzvZAP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3afc1a7953cc33b90e2ab8c22ca71dd160537fd7", 
+        "is_playable": true, 
+        "uri": "spotify:track:4qMzPtAZe0C9KWpWIzvZAP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4qMzPtAZe0C9KWpWIzvZAP", 
+        "artists": [
+          {
+            "name": "The Smashing Pumpkins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+            }, 
+            "uri": "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i", 
+            "href": "https://api.spotify.com/v1/artists/40Yq4vzPs9VNUrIBG5Jr2i", 
+            "type": "artist", 
+            "id": "40Yq4vzPs9VNUrIBG5Jr2i"
+          }
+        ], 
+        "duration_ms": 258466, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "4qMzPtAZe0C9KWpWIzvZAP"
+      }, 
+      {
+        "name": "To Forgive", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7J9PTba0GLg9VYSM4PCIYF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c79c7711a9f2d76ee2c5eec54e854f8a7f964070", 
+        "is_playable": true, 
+        "uri": "spotify:track:7J9PTba0GLg9VYSM4PCIYF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7J9PTba0GLg9VYSM4PCIYF", 
+        "artists": [
+          {
+            "name": "The Smashing Pumpkins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+            }, 
+            "uri": "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i", 
+            "href": "https://api.spotify.com/v1/artists/40Yq4vzPs9VNUrIBG5Jr2i", 
+            "type": "artist", 
+            "id": "40Yq4vzPs9VNUrIBG5Jr2i"
+          }
+        ], 
+        "duration_ms": 257266, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "7J9PTba0GLg9VYSM4PCIYF"
+      }, 
+      {
+        "name": "An Ode to No One", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/56GPFH3Ya76sgwZjwmJWcl"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/add7cfc528caebd3e0c706a0784237baa3692f2f", 
+        "is_playable": true, 
+        "uri": "spotify:track:56GPFH3Ya76sgwZjwmJWcl", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/56GPFH3Ya76sgwZjwmJWcl", 
+        "artists": [
+          {
+            "name": "The Smashing Pumpkins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+            }, 
+            "uri": "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i", 
+            "href": "https://api.spotify.com/v1/artists/40Yq4vzPs9VNUrIBG5Jr2i", 
+            "type": "artist", 
+            "id": "40Yq4vzPs9VNUrIBG5Jr2i"
+          }
+        ], 
+        "duration_ms": 291733, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "56GPFH3Ya76sgwZjwmJWcl"
+      }, 
+      {
+        "name": "Love", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1zVqcVaYjPxKDhMFFrJfRn"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a45a4d9f06941a3627b03741c5b1b652edff1e44", 
+        "is_playable": true, 
+        "uri": "spotify:track:1zVqcVaYjPxKDhMFFrJfRn", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1zVqcVaYjPxKDhMFFrJfRn", 
+        "artists": [
+          {
+            "name": "The Smashing Pumpkins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+            }, 
+            "uri": "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i", 
+            "href": "https://api.spotify.com/v1/artists/40Yq4vzPs9VNUrIBG5Jr2i", 
+            "type": "artist", 
+            "id": "40Yq4vzPs9VNUrIBG5Jr2i"
+          }
+        ], 
+        "duration_ms": 262760, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "1zVqcVaYjPxKDhMFFrJfRn"
+      }, 
+      {
+        "name": "Cupid De Locke", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7wFYTyLtlJhCL2VTkKsnHR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/84c3855ac6d2c7109be2c675d6aed58045a9157d", 
+        "is_playable": true, 
+        "uri": "spotify:track:7wFYTyLtlJhCL2VTkKsnHR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7wFYTyLtlJhCL2VTkKsnHR", 
+        "artists": [
+          {
+            "name": "The Smashing Pumpkins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+            }, 
+            "uri": "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i", 
+            "href": "https://api.spotify.com/v1/artists/40Yq4vzPs9VNUrIBG5Jr2i", 
+            "type": "artist", 
+            "id": "40Yq4vzPs9VNUrIBG5Jr2i"
+          }
+        ], 
+        "duration_ms": 170280, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "7wFYTyLtlJhCL2VTkKsnHR"
+      }, 
+      {
+        "name": "Galapogos", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6VVdZb0c2y0Mr1zYVUYOib"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a503d92999d4b764018586fa8ceb0630c0a86492", 
+        "is_playable": true, 
+        "uri": "spotify:track:6VVdZb0c2y0Mr1zYVUYOib", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6VVdZb0c2y0Mr1zYVUYOib", 
+        "artists": [
+          {
+            "name": "The Smashing Pumpkins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+            }, 
+            "uri": "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i", 
+            "href": "https://api.spotify.com/v1/artists/40Yq4vzPs9VNUrIBG5Jr2i", 
+            "type": "artist", 
+            "id": "40Yq4vzPs9VNUrIBG5Jr2i"
+          }
+        ], 
+        "duration_ms": 286320, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "6VVdZb0c2y0Mr1zYVUYOib"
+      }, 
+      {
+        "name": "Muzzle", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/583InhqAFS5kMg3FNOBQI6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a08b70dd9834f0d5de7231d75b030ee19e9bbf57", 
+        "is_playable": true, 
+        "uri": "spotify:track:583InhqAFS5kMg3FNOBQI6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/583InhqAFS5kMg3FNOBQI6", 
+        "artists": [
+          {
+            "name": "The Smashing Pumpkins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+            }, 
+            "uri": "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i", 
+            "href": "https://api.spotify.com/v1/artists/40Yq4vzPs9VNUrIBG5Jr2i", 
+            "type": "artist", 
+            "id": "40Yq4vzPs9VNUrIBG5Jr2i"
+          }
+        ], 
+        "duration_ms": 223920, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "583InhqAFS5kMg3FNOBQI6"
+      }, 
+      {
+        "name": "Porcelina of the Vast Oceans", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2I0r4awu38uuWfpEuH35mH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8c0d400b613d0cec987a1b665bf63b0231b9e295", 
+        "is_playable": true, 
+        "uri": "spotify:track:2I0r4awu38uuWfpEuH35mH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2I0r4awu38uuWfpEuH35mH", 
+        "artists": [
+          {
+            "name": "The Smashing Pumpkins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+            }, 
+            "uri": "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i", 
+            "href": "https://api.spotify.com/v1/artists/40Yq4vzPs9VNUrIBG5Jr2i", 
+            "type": "artist", 
+            "id": "40Yq4vzPs9VNUrIBG5Jr2i"
+          }
+        ], 
+        "duration_ms": 561533, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "2I0r4awu38uuWfpEuH35mH"
+      }, 
+      {
+        "name": "Take Me Down", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Wz7j1GXBGTdBbYKflMESo"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6144ef131af9149aae13d2bfc50a43b74a21f286", 
+        "is_playable": true, 
+        "uri": "spotify:track:1Wz7j1GXBGTdBbYKflMESo", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1Wz7j1GXBGTdBbYKflMESo", 
+        "artists": [
+          {
+            "name": "The Smashing Pumpkins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+            }, 
+            "uri": "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i", 
+            "href": "https://api.spotify.com/v1/artists/40Yq4vzPs9VNUrIBG5Jr2i", 
+            "type": "artist", 
+            "id": "40Yq4vzPs9VNUrIBG5Jr2i"
+          }
+        ], 
+        "duration_ms": 174106, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "1Wz7j1GXBGTdBbYKflMESo"
+      }, 
+      {
+        "name": "Where Boys Fear to Tread", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4UWOIltZYQGcAma5NtPZ6t"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f4e0005483d4d38c2f09346de0e3ce5884207bd8", 
+        "is_playable": true, 
+        "uri": "spotify:track:4UWOIltZYQGcAma5NtPZ6t", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4UWOIltZYQGcAma5NtPZ6t", 
+        "artists": [
+          {
+            "name": "The Smashing Pumpkins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+            }, 
+            "uri": "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i", 
+            "href": "https://api.spotify.com/v1/artists/40Yq4vzPs9VNUrIBG5Jr2i", 
+            "type": "artist", 
+            "id": "40Yq4vzPs9VNUrIBG5Jr2i"
+          }
+        ], 
+        "duration_ms": 263546, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "4UWOIltZYQGcAma5NtPZ6t"
+      }, 
+      {
+        "name": "Bodies", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2MJU4Ct0DHikcmaZnM1C4R"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/db4dd85873b99645f1ce0e26d41ffbea2fa63027", 
+        "is_playable": true, 
+        "uri": "spotify:track:2MJU4Ct0DHikcmaZnM1C4R", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/2MJU4Ct0DHikcmaZnM1C4R", 
+        "artists": [
+          {
+            "name": "The Smashing Pumpkins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+            }, 
+            "uri": "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i", 
+            "href": "https://api.spotify.com/v1/artists/40Yq4vzPs9VNUrIBG5Jr2i", 
+            "type": "artist", 
+            "id": "40Yq4vzPs9VNUrIBG5Jr2i"
+          }
+        ], 
+        "duration_ms": 252200, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "2MJU4Ct0DHikcmaZnM1C4R"
+      }, 
+      {
+        "name": "Thirty-Three", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/02BSpb2sKuFgs0Go3LRbTj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/207a1f2b7272ce42292576dd34bfa5f8e1ecbc95", 
+        "is_playable": true, 
+        "uri": "spotify:track:02BSpb2sKuFgs0Go3LRbTj", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/02BSpb2sKuFgs0Go3LRbTj", 
+        "artists": [
+          {
+            "name": "The Smashing Pumpkins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+            }, 
+            "uri": "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i", 
+            "href": "https://api.spotify.com/v1/artists/40Yq4vzPs9VNUrIBG5Jr2i", 
+            "type": "artist", 
+            "id": "40Yq4vzPs9VNUrIBG5Jr2i"
+          }
+        ], 
+        "duration_ms": 250293, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "02BSpb2sKuFgs0Go3LRbTj"
+      }, 
+      {
+        "name": "In the Arms of Sleep", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/71s7gzLPt9bye9vFuIHagb"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/83f10ff7f86acf090134f5d5098f29acc64aa18e", 
+        "is_playable": true, 
+        "uri": "spotify:track:71s7gzLPt9bye9vFuIHagb", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/71s7gzLPt9bye9vFuIHagb", 
+        "artists": [
+          {
+            "name": "The Smashing Pumpkins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+            }, 
+            "uri": "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i", 
+            "href": "https://api.spotify.com/v1/artists/40Yq4vzPs9VNUrIBG5Jr2i", 
+            "type": "artist", 
+            "id": "40Yq4vzPs9VNUrIBG5Jr2i"
+          }
+        ], 
+        "duration_ms": 252533, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "71s7gzLPt9bye9vFuIHagb"
+      }, 
+      {
+        "name": "1979", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Y8Ff1nH44jFywAtpgmleZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cd1c6703570a23f653df31ab81ec2d2d1f8a7d8d", 
+        "is_playable": true, 
+        "uri": "spotify:track:3Y8Ff1nH44jFywAtpgmleZ", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/3Y8Ff1nH44jFywAtpgmleZ", 
+        "artists": [
+          {
+            "name": "The Smashing Pumpkins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+            }, 
+            "uri": "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i", 
+            "href": "https://api.spotify.com/v1/artists/40Yq4vzPs9VNUrIBG5Jr2i", 
+            "type": "artist", 
+            "id": "40Yq4vzPs9VNUrIBG5Jr2i"
+          }
+        ], 
+        "duration_ms": 266200, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "3Y8Ff1nH44jFywAtpgmleZ"
+      }, 
+      {
+        "name": "Tales of a Scorched Earth", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5lKP4l0lskCbsETfNeaz6s"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/17e3cb67a50b013fbde1d3f3ec1d6609c5b1059c", 
+        "is_playable": true, 
+        "uri": "spotify:track:5lKP4l0lskCbsETfNeaz6s", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5lKP4l0lskCbsETfNeaz6s", 
+        "artists": [
+          {
+            "name": "The Smashing Pumpkins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+            }, 
+            "uri": "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i", 
+            "href": "https://api.spotify.com/v1/artists/40Yq4vzPs9VNUrIBG5Jr2i", 
+            "type": "artist", 
+            "id": "40Yq4vzPs9VNUrIBG5Jr2i"
+          }
+        ], 
+        "duration_ms": 225840, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "5lKP4l0lskCbsETfNeaz6s"
+      }, 
+      {
+        "name": "Thru the Eyes of Ruby", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2UnLhBA70OQLGjBINIM6LF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/92c094d4dbbc4f41b24ddcb281d49cd9de01e2c8", 
+        "is_playable": true, 
+        "uri": "spotify:track:2UnLhBA70OQLGjBINIM6LF", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/2UnLhBA70OQLGjBINIM6LF", 
+        "artists": [
+          {
+            "name": "The Smashing Pumpkins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+            }, 
+            "uri": "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i", 
+            "href": "https://api.spotify.com/v1/artists/40Yq4vzPs9VNUrIBG5Jr2i", 
+            "type": "artist", 
+            "id": "40Yq4vzPs9VNUrIBG5Jr2i"
+          }
+        ], 
+        "duration_ms": 458293, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "2UnLhBA70OQLGjBINIM6LF"
+      }, 
+      {
+        "name": "Stumbleine", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1veB8qWnBqWrU5o3HbqfhD"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/80bfc002ea9fe3dadad2396abef3d4d24801c1f3", 
+        "is_playable": true, 
+        "uri": "spotify:track:1veB8qWnBqWrU5o3HbqfhD", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1veB8qWnBqWrU5o3HbqfhD", 
+        "artists": [
+          {
+            "name": "The Smashing Pumpkins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+            }, 
+            "uri": "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i", 
+            "href": "https://api.spotify.com/v1/artists/40Yq4vzPs9VNUrIBG5Jr2i", 
+            "type": "artist", 
+            "id": "40Yq4vzPs9VNUrIBG5Jr2i"
+          }
+        ], 
+        "duration_ms": 174413, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "1veB8qWnBqWrU5o3HbqfhD"
+      }, 
+      {
+        "name": "X.Y.U.", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Knvtd2bSF8L0tloTTosdy"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7eeabcbaa22e6271d30533ef4fbcb9ceb0474240", 
+        "is_playable": true, 
+        "uri": "spotify:track:1Knvtd2bSF8L0tloTTosdy", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1Knvtd2bSF8L0tloTTosdy", 
+        "artists": [
+          {
+            "name": "The Smashing Pumpkins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+            }, 
+            "uri": "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i", 
+            "href": "https://api.spotify.com/v1/artists/40Yq4vzPs9VNUrIBG5Jr2i", 
+            "type": "artist", 
+            "id": "40Yq4vzPs9VNUrIBG5Jr2i"
+          }
+        ], 
+        "duration_ms": 427093, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "1Knvtd2bSF8L0tloTTosdy"
+      }, 
+      {
+        "name": "We Only Come Out At Night", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6GhARgb2Nl2GboIVdQsevV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e34db5632c5f263a1f43b5e33bb7d99392a7c764", 
+        "is_playable": true, 
+        "uri": "spotify:track:6GhARgb2Nl2GboIVdQsevV", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6GhARgb2Nl2GboIVdQsevV", 
+        "artists": [
+          {
+            "name": "The Smashing Pumpkins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+            }, 
+            "uri": "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i", 
+            "href": "https://api.spotify.com/v1/artists/40Yq4vzPs9VNUrIBG5Jr2i", 
+            "type": "artist", 
+            "id": "40Yq4vzPs9VNUrIBG5Jr2i"
+          }
+        ], 
+        "duration_ms": 245253, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "6GhARgb2Nl2GboIVdQsevV"
+      }, 
+      {
+        "name": "Beautiful", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5WBLvG6cJjGyE3kChS6ubu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/100b9ef33f57af040cb548622c9aaff4223f2bbc", 
+        "is_playable": true, 
+        "uri": "spotify:track:5WBLvG6cJjGyE3kChS6ubu", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5WBLvG6cJjGyE3kChS6ubu", 
+        "artists": [
+          {
+            "name": "The Smashing Pumpkins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+            }, 
+            "uri": "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i", 
+            "href": "https://api.spotify.com/v1/artists/40Yq4vzPs9VNUrIBG5Jr2i", 
+            "type": "artist", 
+            "id": "40Yq4vzPs9VNUrIBG5Jr2i"
+          }
+        ], 
+        "duration_ms": 258386, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "5WBLvG6cJjGyE3kChS6ubu"
+      }, 
+      {
+        "name": "Lily (My One and Only)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/32NwlWmmM4h6puix0vzZK4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ed50ad463dd396c15e3ad89f1f1c92b1e28cc6ee", 
+        "is_playable": true, 
+        "uri": "spotify:track:32NwlWmmM4h6puix0vzZK4", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/32NwlWmmM4h6puix0vzZK4", 
+        "artists": [
+          {
+            "name": "The Smashing Pumpkins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+            }, 
+            "uri": "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i", 
+            "href": "https://api.spotify.com/v1/artists/40Yq4vzPs9VNUrIBG5Jr2i", 
+            "type": "artist", 
+            "id": "40Yq4vzPs9VNUrIBG5Jr2i"
+          }
+        ], 
+        "duration_ms": 211906, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "32NwlWmmM4h6puix0vzZK4"
+      }, 
+      {
+        "name": "By Starlight", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4cMIz8ThlNNFjLIsWGzm47"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/35e98ee01de5137d5d3f1b0a7583b77e38606624", 
+        "is_playable": true, 
+        "uri": "spotify:track:4cMIz8ThlNNFjLIsWGzm47", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4cMIz8ThlNNFjLIsWGzm47", 
+        "artists": [
+          {
+            "name": "The Smashing Pumpkins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+            }, 
+            "uri": "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i", 
+            "href": "https://api.spotify.com/v1/artists/40Yq4vzPs9VNUrIBG5Jr2i", 
+            "type": "artist", 
+            "id": "40Yq4vzPs9VNUrIBG5Jr2i"
+          }
+        ], 
+        "duration_ms": 288120, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "4cMIz8ThlNNFjLIsWGzm47"
+      }, 
+      {
+        "name": "Farewell and Goodnight", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6BmkL9sza0bIKKO150spdU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c251e90428fcdb6feba1a1372323c721cf4fe747", 
+        "is_playable": true, 
+        "uri": "spotify:track:6BmkL9sza0bIKKO150spdU", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6BmkL9sza0bIKKO150spdU", 
+        "artists": [
+          {
+            "name": "The Smashing Pumpkins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+            }, 
+            "uri": "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i", 
+            "href": "https://api.spotify.com/v1/artists/40Yq4vzPs9VNUrIBG5Jr2i", 
+            "type": "artist", 
+            "id": "40Yq4vzPs9VNUrIBG5Jr2i"
+          }
+        ], 
+        "duration_ms": 264240, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "6BmkL9sza0bIKKO150spdU"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/4bPT6Q8ppaSNppk1kbEbLl/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 28, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/4bPT6Q8ppaSNppk1kbEbLl", 
+  "copyrights": [
+    {
+      "text": "(C) 2012 Virgin Records", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) (C) 2012 Virgin Records. All rights reserved. Unauthorized reproduction is a violation of applicable laws. Manufactured by Virgin Records, Capitol Records, LLC, 150 Fifth Avenue, New York, NY 10011.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "The Smashing Pumpkins", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+      }, 
+      "uri": "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i", 
+      "href": "https://api.spotify.com/v1/artists/40Yq4vzPs9VNUrIBG5Jr2i", 
+      "type": "artist", 
+      "id": "40Yq4vzPs9VNUrIBG5Jr2i"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/781f636483f9f08e9f183021e81812cdd0512b7e", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/e478c9aa6b08b1816ec54f47a1fbfca38875e0aa", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/89a28e6997c35385dd71237dbffb4d0ca1297584", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "05099997855354"
+  }, 
+  "type": "album", 
+  "id": "4bPT6Q8ppaSNppk1kbEbLl", 
+  "name": "Mellon Collie and the Infinite Sadness (2012 - Remaster)"
+}

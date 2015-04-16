@@ -1,0 +1,403 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
+  }, 
+  "release_date": "2000-01-01", 
+  "popularity": 65, 
+  "genres": [], 
+  "uri": "spotify:album:7a5U0GPoAvT3gvEY66FRuN", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Beautiful Day", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0gzqZ9d1jIKo9psEIthwXe"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/028fe372c257905c7e7692c6ffdde30943aa906d", 
+        "is_playable": true, 
+        "uri": "spotify:track:0gzqZ9d1jIKo9psEIthwXe", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0gzqZ9d1jIKo9psEIthwXe", 
+        "artists": [
+          {
+            "name": "U2", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+            }, 
+            "uri": "spotify:artist:51Blml2LZPmy7TTiAg47vQ", 
+            "href": "https://api.spotify.com/v1/artists/51Blml2LZPmy7TTiAg47vQ", 
+            "type": "artist", 
+            "id": "51Blml2LZPmy7TTiAg47vQ"
+          }
+        ], 
+        "duration_ms": 248400, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "0gzqZ9d1jIKo9psEIthwXe"
+      }, 
+      {
+        "name": "Stuck In A Moment You Can't Get Out Of", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1klDPm7SfsS32hl7KHV9iy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4ecb5015cf107f0258ca92c92fdf851b88f8f942", 
+        "is_playable": true, 
+        "uri": "spotify:track:1klDPm7SfsS32hl7KHV9iy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1klDPm7SfsS32hl7KHV9iy", 
+        "artists": [
+          {
+            "name": "U2", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+            }, 
+            "uri": "spotify:artist:51Blml2LZPmy7TTiAg47vQ", 
+            "href": "https://api.spotify.com/v1/artists/51Blml2LZPmy7TTiAg47vQ", 
+            "type": "artist", 
+            "id": "51Blml2LZPmy7TTiAg47vQ"
+          }
+        ], 
+        "duration_ms": 273466, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "1klDPm7SfsS32hl7KHV9iy"
+      }, 
+      {
+        "name": "Elevation", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4BC2WQKrZdqMX6rHsvVbUy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0ba279b1da8c561f1772c214e5e6e6ed7daea106", 
+        "is_playable": true, 
+        "uri": "spotify:track:4BC2WQKrZdqMX6rHsvVbUy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4BC2WQKrZdqMX6rHsvVbUy", 
+        "artists": [
+          {
+            "name": "U2", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+            }, 
+            "uri": "spotify:artist:51Blml2LZPmy7TTiAg47vQ", 
+            "href": "https://api.spotify.com/v1/artists/51Blml2LZPmy7TTiAg47vQ", 
+            "type": "artist", 
+            "id": "51Blml2LZPmy7TTiAg47vQ"
+          }
+        ], 
+        "duration_ms": 226626, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "4BC2WQKrZdqMX6rHsvVbUy"
+      }, 
+      {
+        "name": "Walk On", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3pUWV5hvXsI9diJ9TeNeCh"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0da41c12375650342010a1f44bfad7c70b99be3d", 
+        "is_playable": true, 
+        "uri": "spotify:track:3pUWV5hvXsI9diJ9TeNeCh", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3pUWV5hvXsI9diJ9TeNeCh", 
+        "artists": [
+          {
+            "name": "U2", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+            }, 
+            "uri": "spotify:artist:51Blml2LZPmy7TTiAg47vQ", 
+            "href": "https://api.spotify.com/v1/artists/51Blml2LZPmy7TTiAg47vQ", 
+            "type": "artist", 
+            "id": "51Blml2LZPmy7TTiAg47vQ"
+          }
+        ], 
+        "duration_ms": 296240, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "3pUWV5hvXsI9diJ9TeNeCh"
+      }, 
+      {
+        "name": "Kite", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Wjaa3vx2BiLGF01AZMlHb"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/46b9214d40ee4a52a0fcd29da7c242e3dfdb9521", 
+        "is_playable": true, 
+        "uri": "spotify:track:4Wjaa3vx2BiLGF01AZMlHb", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4Wjaa3vx2BiLGF01AZMlHb", 
+        "artists": [
+          {
+            "name": "U2", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+            }, 
+            "uri": "spotify:artist:51Blml2LZPmy7TTiAg47vQ", 
+            "href": "https://api.spotify.com/v1/artists/51Blml2LZPmy7TTiAg47vQ", 
+            "type": "artist", 
+            "id": "51Blml2LZPmy7TTiAg47vQ"
+          }
+        ], 
+        "duration_ms": 264333, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "4Wjaa3vx2BiLGF01AZMlHb"
+      }, 
+      {
+        "name": "In A Little While", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1NBf3nsIIaBTikQzV5hICg"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ad97e43b9af15ba73a2fa7352f115fa0d0ac4391", 
+        "is_playable": true, 
+        "uri": "spotify:track:1NBf3nsIIaBTikQzV5hICg", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1NBf3nsIIaBTikQzV5hICg", 
+        "artists": [
+          {
+            "name": "U2", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+            }, 
+            "uri": "spotify:artist:51Blml2LZPmy7TTiAg47vQ", 
+            "href": "https://api.spotify.com/v1/artists/51Blml2LZPmy7TTiAg47vQ", 
+            "type": "artist", 
+            "id": "51Blml2LZPmy7TTiAg47vQ"
+          }
+        ], 
+        "duration_ms": 220733, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "1NBf3nsIIaBTikQzV5hICg"
+      }, 
+      {
+        "name": "Wild Honey", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0yU5K8BVb8N1UTHk2POblO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2b43e61cf9157b6d34c262cfd40eeee060492be9", 
+        "is_playable": true, 
+        "uri": "spotify:track:0yU5K8BVb8N1UTHk2POblO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0yU5K8BVb8N1UTHk2POblO", 
+        "artists": [
+          {
+            "name": "U2", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+            }, 
+            "uri": "spotify:artist:51Blml2LZPmy7TTiAg47vQ", 
+            "href": "https://api.spotify.com/v1/artists/51Blml2LZPmy7TTiAg47vQ", 
+            "type": "artist", 
+            "id": "51Blml2LZPmy7TTiAg47vQ"
+          }
+        ], 
+        "duration_ms": 226893, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "0yU5K8BVb8N1UTHk2POblO"
+      }, 
+      {
+        "name": "Peace On Earth", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7iiWVxIbSWNKZBUxxt8dC5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a2fbb4bf7bc759004d88d3fbc27b55d1e9a6c1fe", 
+        "is_playable": true, 
+        "uri": "spotify:track:7iiWVxIbSWNKZBUxxt8dC5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7iiWVxIbSWNKZBUxxt8dC5", 
+        "artists": [
+          {
+            "name": "U2", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+            }, 
+            "uri": "spotify:artist:51Blml2LZPmy7TTiAg47vQ", 
+            "href": "https://api.spotify.com/v1/artists/51Blml2LZPmy7TTiAg47vQ", 
+            "type": "artist", 
+            "id": "51Blml2LZPmy7TTiAg47vQ"
+          }
+        ], 
+        "duration_ms": 288240, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "7iiWVxIbSWNKZBUxxt8dC5"
+      }, 
+      {
+        "name": "When I Look At The World", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0sUel4RFYFqMEdsyQdQXg6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ddd512c18f9c02dac952f246ea34f6fce55335a8", 
+        "is_playable": true, 
+        "uri": "spotify:track:0sUel4RFYFqMEdsyQdQXg6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0sUel4RFYFqMEdsyQdQXg6", 
+        "artists": [
+          {
+            "name": "U2", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+            }, 
+            "uri": "spotify:artist:51Blml2LZPmy7TTiAg47vQ", 
+            "href": "https://api.spotify.com/v1/artists/51Blml2LZPmy7TTiAg47vQ", 
+            "type": "artist", 
+            "id": "51Blml2LZPmy7TTiAg47vQ"
+          }
+        ], 
+        "duration_ms": 257493, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "0sUel4RFYFqMEdsyQdQXg6"
+      }, 
+      {
+        "name": "New York", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0nNNoP2ldom1hm3Pptbv2Y"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/748549f318492a68322ab1cca66934428dc8e23e", 
+        "is_playable": true, 
+        "uri": "spotify:track:0nNNoP2ldom1hm3Pptbv2Y", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0nNNoP2ldom1hm3Pptbv2Y", 
+        "artists": [
+          {
+            "name": "U2", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+            }, 
+            "uri": "spotify:artist:51Blml2LZPmy7TTiAg47vQ", 
+            "href": "https://api.spotify.com/v1/artists/51Blml2LZPmy7TTiAg47vQ", 
+            "type": "artist", 
+            "id": "51Blml2LZPmy7TTiAg47vQ"
+          }
+        ], 
+        "duration_ms": 330400, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "0nNNoP2ldom1hm3Pptbv2Y"
+      }, 
+      {
+        "name": "Grace", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1ERxZwkfoHM91tdOWVPI78"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/af22ec80c93b18c1bf9d867af0c794ec753388d6", 
+        "is_playable": true, 
+        "uri": "spotify:track:1ERxZwkfoHM91tdOWVPI78", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1ERxZwkfoHM91tdOWVPI78", 
+        "artists": [
+          {
+            "name": "U2", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+            }, 
+            "uri": "spotify:artist:51Blml2LZPmy7TTiAg47vQ", 
+            "href": "https://api.spotify.com/v1/artists/51Blml2LZPmy7TTiAg47vQ", 
+            "type": "artist", 
+            "id": "51Blml2LZPmy7TTiAg47vQ"
+          }
+        ], 
+        "duration_ms": 332773, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "1ERxZwkfoHM91tdOWVPI78"
+      }, 
+      {
+        "name": "The Ground Beneath Her Feet", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Hqw7592X7H3pNh2PKZUBA"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6e151c7cda665544769c94997c37c7a7c64dc08d", 
+        "is_playable": true, 
+        "uri": "spotify:track:3Hqw7592X7H3pNh2PKZUBA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3Hqw7592X7H3pNh2PKZUBA", 
+        "artists": [
+          {
+            "name": "U2", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+            }, 
+            "uri": "spotify:artist:51Blml2LZPmy7TTiAg47vQ", 
+            "href": "https://api.spotify.com/v1/artists/51Blml2LZPmy7TTiAg47vQ", 
+            "type": "artist", 
+            "id": "51Blml2LZPmy7TTiAg47vQ"
+          }
+        ], 
+        "duration_ms": 233866, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "3Hqw7592X7H3pNh2PKZUBA"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/7a5U0GPoAvT3gvEY66FRuN/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 12, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/7a5U0GPoAvT3gvEY66FRuN", 
+  "copyrights": [
+    {
+      "text": "(C) 2000 Universal-Island Records Ltd.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 2000 Universal-Island Records Ltd.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "U2", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+      }, 
+      "uri": "spotify:artist:51Blml2LZPmy7TTiAg47vQ", 
+      "href": "https://api.spotify.com/v1/artists/51Blml2LZPmy7TTiAg47vQ", 
+      "type": "artist", 
+      "id": "51Blml2LZPmy7TTiAg47vQ"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/515919e9fd8a091bc103384e8a0460c0c30aad0d", 
+      "width": 640, 
+      "height": 634
+    }, 
+    {
+      "url": "https://i.scdn.co/image/0a680c32f39d7a9153cbcb816b9cfb579f1ab696", 
+      "width": 300, 
+      "height": 297
+    }, 
+    {
+      "url": "https://i.scdn.co/image/7b454a7b19af8c8f994d8065369dd31871aac917", 
+      "width": 64, 
+      "height": 63
+    }
+  ], 
+  "external_ids": {
+    "upc": "00731454809528"
+  }, 
+  "type": "album", 
+  "id": "7a5U0GPoAvT3gvEY66FRuN", 
+  "name": "All That You Can't Leave Behind"
+}

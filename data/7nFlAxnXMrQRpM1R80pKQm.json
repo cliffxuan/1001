@@ -1,0 +1,459 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7nFlAxnXMrQRpM1R80pKQm"
+  }, 
+  "release_date": "1998-08-05", 
+  "popularity": 62, 
+  "genres": [], 
+  "uri": "spotify:album:7nFlAxnXMrQRpM1R80pKQm", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Bawitdaba", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0f37VQs969vZUL4gVfHRV9"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/00bf23e72a472f8c0e32009ab58898fc26646162", 
+        "is_playable": true, 
+        "uri": "spotify:track:0f37VQs969vZUL4gVfHRV9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0f37VQs969vZUL4gVfHRV9", 
+        "artists": [
+          {
+            "name": "Kid Rock", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+            }, 
+            "uri": "spotify:artist:7dOBabd5O4CvKrg4iriHTM", 
+            "href": "https://api.spotify.com/v1/artists/7dOBabd5O4CvKrg4iriHTM", 
+            "type": "artist", 
+            "id": "7dOBabd5O4CvKrg4iriHTM"
+          }
+        ], 
+        "duration_ms": 265840, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "0f37VQs969vZUL4gVfHRV9"
+      }, 
+      {
+        "name": "Cowboy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/19LT4ZUEeoUdimKE04WJJg"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7869ea3c3132f7c95cdc18ca1beb8c78d35e9865", 
+        "is_playable": true, 
+        "uri": "spotify:track:19LT4ZUEeoUdimKE04WJJg", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/19LT4ZUEeoUdimKE04WJJg", 
+        "artists": [
+          {
+            "name": "Kid Rock", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+            }, 
+            "uri": "spotify:artist:7dOBabd5O4CvKrg4iriHTM", 
+            "href": "https://api.spotify.com/v1/artists/7dOBabd5O4CvKrg4iriHTM", 
+            "type": "artist", 
+            "id": "7dOBabd5O4CvKrg4iriHTM"
+          }
+        ], 
+        "duration_ms": 257866, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "19LT4ZUEeoUdimKE04WJJg"
+      }, 
+      {
+        "name": "Devil Without A Cause", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0p7H3kcuqKSzrJhEEAQZKc"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3cb52d3483ee86b98cc81ada08f35710380a0195", 
+        "is_playable": true, 
+        "uri": "spotify:track:0p7H3kcuqKSzrJhEEAQZKc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0p7H3kcuqKSzrJhEEAQZKc", 
+        "artists": [
+          {
+            "name": "Kid Rock", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+            }, 
+            "uri": "spotify:artist:7dOBabd5O4CvKrg4iriHTM", 
+            "href": "https://api.spotify.com/v1/artists/7dOBabd5O4CvKrg4iriHTM", 
+            "type": "artist", 
+            "id": "7dOBabd5O4CvKrg4iriHTM"
+          }
+        ], 
+        "duration_ms": 332640, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "0p7H3kcuqKSzrJhEEAQZKc"
+      }, 
+      {
+        "name": "I Am The Bullgod", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1k29zSC5RfaFYK5bTpK5O3"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7f7d4adf2000992971cf37480a586427dc65b407", 
+        "is_playable": true, 
+        "uri": "spotify:track:1k29zSC5RfaFYK5bTpK5O3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1k29zSC5RfaFYK5bTpK5O3", 
+        "artists": [
+          {
+            "name": "Kid Rock", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+            }, 
+            "uri": "spotify:artist:7dOBabd5O4CvKrg4iriHTM", 
+            "href": "https://api.spotify.com/v1/artists/7dOBabd5O4CvKrg4iriHTM", 
+            "type": "artist", 
+            "id": "7dOBabd5O4CvKrg4iriHTM"
+          }
+        ], 
+        "duration_ms": 290493, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "1k29zSC5RfaFYK5bTpK5O3"
+      }, 
+      {
+        "name": "Roving Gangster (Rollin')", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1X7XrLsRtbjkwKCOqZwg5y"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f1e32f3aec821959fc841e4ecc95ad46e349574e", 
+        "is_playable": true, 
+        "uri": "spotify:track:1X7XrLsRtbjkwKCOqZwg5y", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1X7XrLsRtbjkwKCOqZwg5y", 
+        "artists": [
+          {
+            "name": "Kid Rock", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+            }, 
+            "uri": "spotify:artist:7dOBabd5O4CvKrg4iriHTM", 
+            "href": "https://api.spotify.com/v1/artists/7dOBabd5O4CvKrg4iriHTM", 
+            "type": "artist", 
+            "id": "7dOBabd5O4CvKrg4iriHTM"
+          }
+        ], 
+        "duration_ms": 264266, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "1X7XrLsRtbjkwKCOqZwg5y"
+      }, 
+      {
+        "name": "Wasting Time", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3QkxmJ4tgA7GcoBr60r0Ci"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d5082622d66897dd65b97d5a49b1e1708feb6a64", 
+        "is_playable": true, 
+        "uri": "spotify:track:3QkxmJ4tgA7GcoBr60r0Ci", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3QkxmJ4tgA7GcoBr60r0Ci", 
+        "artists": [
+          {
+            "name": "Kid Rock", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+            }, 
+            "uri": "spotify:artist:7dOBabd5O4CvKrg4iriHTM", 
+            "href": "https://api.spotify.com/v1/artists/7dOBabd5O4CvKrg4iriHTM", 
+            "type": "artist", 
+            "id": "7dOBabd5O4CvKrg4iriHTM"
+          }
+        ], 
+        "duration_ms": 242066, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "3QkxmJ4tgA7GcoBr60r0Ci"
+      }, 
+      {
+        "name": "Welcome 2 The Party (Ode 2 The Old School)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/61meYwDQNcg7Sb99vqxKFO"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/452b18d9225a1a38470440a741b6c92063894f5a", 
+        "is_playable": true, 
+        "uri": "spotify:track:61meYwDQNcg7Sb99vqxKFO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/61meYwDQNcg7Sb99vqxKFO", 
+        "artists": [
+          {
+            "name": "Kid Rock", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+            }, 
+            "uri": "spotify:artist:7dOBabd5O4CvKrg4iriHTM", 
+            "href": "https://api.spotify.com/v1/artists/7dOBabd5O4CvKrg4iriHTM", 
+            "type": "artist", 
+            "id": "7dOBabd5O4CvKrg4iriHTM"
+          }
+        ], 
+        "duration_ms": 314440, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "61meYwDQNcg7Sb99vqxKFO"
+      }, 
+      {
+        "name": "I Got One For Ya'", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/21pdFnn5TiMQDen4lNYHEz"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/590668108a79a0fc78bdc71e21b231b9b9d2bae5", 
+        "is_playable": true, 
+        "uri": "spotify:track:21pdFnn5TiMQDen4lNYHEz", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/21pdFnn5TiMQDen4lNYHEz", 
+        "artists": [
+          {
+            "name": "Kid Rock", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+            }, 
+            "uri": "spotify:artist:7dOBabd5O4CvKrg4iriHTM", 
+            "href": "https://api.spotify.com/v1/artists/7dOBabd5O4CvKrg4iriHTM", 
+            "type": "artist", 
+            "id": "7dOBabd5O4CvKrg4iriHTM"
+          }
+        ], 
+        "duration_ms": 223560, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "21pdFnn5TiMQDen4lNYHEz"
+      }, 
+      {
+        "name": "Somebody's Gotta Feel This", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2MVeIebnEeTxfvINcJsaVy"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/97166afb4fd4ef5865962d310c3e122c85f9f7f5", 
+        "is_playable": true, 
+        "uri": "spotify:track:2MVeIebnEeTxfvINcJsaVy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2MVeIebnEeTxfvINcJsaVy", 
+        "artists": [
+          {
+            "name": "Kid Rock", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+            }, 
+            "uri": "spotify:artist:7dOBabd5O4CvKrg4iriHTM", 
+            "href": "https://api.spotify.com/v1/artists/7dOBabd5O4CvKrg4iriHTM", 
+            "type": "artist", 
+            "id": "7dOBabd5O4CvKrg4iriHTM"
+          }
+        ], 
+        "duration_ms": 188533, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "2MVeIebnEeTxfvINcJsaVy"
+      }, 
+      {
+        "name": "Fist Of Rage", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4gQFl7biDBMITOjpGS7koC"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/25f20866373ba013aedd8e19c5cc384d5a9ba376", 
+        "is_playable": true, 
+        "uri": "spotify:track:4gQFl7biDBMITOjpGS7koC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4gQFl7biDBMITOjpGS7koC", 
+        "artists": [
+          {
+            "name": "Kid Rock", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+            }, 
+            "uri": "spotify:artist:7dOBabd5O4CvKrg4iriHTM", 
+            "href": "https://api.spotify.com/v1/artists/7dOBabd5O4CvKrg4iriHTM", 
+            "type": "artist", 
+            "id": "7dOBabd5O4CvKrg4iriHTM"
+          }
+        ], 
+        "duration_ms": 203333, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "4gQFl7biDBMITOjpGS7koC"
+      }, 
+      {
+        "name": "Only God Knows Why", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1rAzW6aco1ZtxLRx4XOagB"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/58176d4967b880fbae20750ebb8b6ea70ea5e756", 
+        "is_playable": true, 
+        "uri": "spotify:track:1rAzW6aco1ZtxLRx4XOagB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1rAzW6aco1ZtxLRx4XOagB", 
+        "artists": [
+          {
+            "name": "Kid Rock", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+            }, 
+            "uri": "spotify:artist:7dOBabd5O4CvKrg4iriHTM", 
+            "href": "https://api.spotify.com/v1/artists/7dOBabd5O4CvKrg4iriHTM", 
+            "type": "artist", 
+            "id": "7dOBabd5O4CvKrg4iriHTM"
+          }
+        ], 
+        "duration_ms": 327666, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "1rAzW6aco1ZtxLRx4XOagB"
+      }, 
+      {
+        "name": "F-ck Off", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1RNndg07sHHPZ5kphkGPwf"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/be685dc0cdb28bd2a74ac28e6c3b821cd84e455d", 
+        "is_playable": true, 
+        "uri": "spotify:track:1RNndg07sHHPZ5kphkGPwf", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1RNndg07sHHPZ5kphkGPwf", 
+        "artists": [
+          {
+            "name": "Kid Rock", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+            }, 
+            "uri": "spotify:artist:7dOBabd5O4CvKrg4iriHTM", 
+            "href": "https://api.spotify.com/v1/artists/7dOBabd5O4CvKrg4iriHTM", 
+            "type": "artist", 
+            "id": "7dOBabd5O4CvKrg4iriHTM"
+          }
+        ], 
+        "duration_ms": 373466, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "1RNndg07sHHPZ5kphkGPwf"
+      }, 
+      {
+        "name": "Where U At Rock", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3bG4WYaScFa8ZIT6xqZB9x"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ad6648231391cb588c7ef3ae0b7e4d1c61878bef", 
+        "is_playable": true, 
+        "uri": "spotify:track:3bG4WYaScFa8ZIT6xqZB9x", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3bG4WYaScFa8ZIT6xqZB9x", 
+        "artists": [
+          {
+            "name": "Kid Rock", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+            }, 
+            "uri": "spotify:artist:7dOBabd5O4CvKrg4iriHTM", 
+            "href": "https://api.spotify.com/v1/artists/7dOBabd5O4CvKrg4iriHTM", 
+            "type": "artist", 
+            "id": "7dOBabd5O4CvKrg4iriHTM"
+          }
+        ], 
+        "duration_ms": 264466, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "3bG4WYaScFa8ZIT6xqZB9x"
+      }, 
+      {
+        "name": "Black Chick, White Guy / I Am The Bullgod", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5MxybYJk5uwY9hGk5zkOAt"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0c8c4c0069235edcafed9f7a14ca0159c39c9131", 
+        "is_playable": true, 
+        "uri": "spotify:track:5MxybYJk5uwY9hGk5zkOAt", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5MxybYJk5uwY9hGk5zkOAt", 
+        "artists": [
+          {
+            "name": "Kid Rock", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+            }, 
+            "uri": "spotify:artist:7dOBabd5O4CvKrg4iriHTM", 
+            "href": "https://api.spotify.com/v1/artists/7dOBabd5O4CvKrg4iriHTM", 
+            "type": "artist", 
+            "id": "7dOBabd5O4CvKrg4iriHTM"
+          }
+        ], 
+        "duration_ms": 721240, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "5MxybYJk5uwY9hGk5zkOAt"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/7nFlAxnXMrQRpM1R80pKQm/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 14, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/7nFlAxnXMrQRpM1R80pKQm", 
+  "copyrights": [
+    {
+      "text": "1998 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States.", 
+      "type": "C"
+    }, 
+    {
+      "text": "1998 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Kid Rock", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+      }, 
+      "uri": "spotify:artist:7dOBabd5O4CvKrg4iriHTM", 
+      "href": "https://api.spotify.com/v1/artists/7dOBabd5O4CvKrg4iriHTM", 
+      "type": "artist", 
+      "id": "7dOBabd5O4CvKrg4iriHTM"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/184bb2df0b849a980b5f163069a01a59ebd44dd4", 
+      "width": 640, 
+      "height": 625
+    }, 
+    {
+      "url": "https://i.scdn.co/image/341527352d86b105986be970738a7a20f348aa11", 
+      "width": 300, 
+      "height": 293
+    }, 
+    {
+      "url": "https://i.scdn.co/image/6a9223d5f770093d157e9819b62b712b67b53b7e", 
+      "width": 64, 
+      "height": 63
+    }
+  ], 
+  "external_ids": {
+    "upc": "075678311963"
+  }, 
+  "type": "album", 
+  "id": "7nFlAxnXMrQRpM1R80pKQm", 
+  "name": "Devil Without A Cause"
+}

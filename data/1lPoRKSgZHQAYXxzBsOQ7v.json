@@ -1,0 +1,371 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
+  }, 
+  "release_date": "1965-03-22", 
+  "popularity": 64, 
+  "genres": [], 
+  "uri": "spotify:album:1lPoRKSgZHQAYXxzBsOQ7v", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Subterranean Homesick Blues", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6k9DUKMJpWvu6eFG3O64Lg"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/28f13236a2137c386f99478bfeac83db9338602a", 
+        "is_playable": true, 
+        "uri": "spotify:track:6k9DUKMJpWvu6eFG3O64Lg", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6k9DUKMJpWvu6eFG3O64Lg", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 141293, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "6k9DUKMJpWvu6eFG3O64Lg"
+      }, 
+      {
+        "name": "She Belongs to Me", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2itBkHBUxGl4VfDj4HNyoD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ad840d22e17f2835062f623f80fb71784adf39f8", 
+        "is_playable": true, 
+        "uri": "spotify:track:2itBkHBUxGl4VfDj4HNyoD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2itBkHBUxGl4VfDj4HNyoD", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 166706, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "2itBkHBUxGl4VfDj4HNyoD"
+      }, 
+      {
+        "name": "Maggie's Farm", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5rGD8FFgHw74cp3RPhucyg"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0fda536ea48029567a94611208655b3cbab7a6e3", 
+        "is_playable": true, 
+        "uri": "spotify:track:5rGD8FFgHw74cp3RPhucyg", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5rGD8FFgHw74cp3RPhucyg", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 234626, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "5rGD8FFgHw74cp3RPhucyg"
+      }, 
+      {
+        "name": "Love Minus Zero", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2FDTgrYDUdQKyGmtynEk90"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/35f6ce3b280881fa74e072fe24aa3b28c214391f", 
+        "is_playable": true, 
+        "uri": "spotify:track:2FDTgrYDUdQKyGmtynEk90", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2FDTgrYDUdQKyGmtynEk90", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 171106, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "2FDTgrYDUdQKyGmtynEk90"
+      }, 
+      {
+        "name": "Outlaw Blues", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0QWvnpH7daskoXwKa59xGT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2f8d978f0e0360e61d783072df024e98fac23570", 
+        "is_playable": true, 
+        "uri": "spotify:track:0QWvnpH7daskoXwKa59xGT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0QWvnpH7daskoXwKa59xGT", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 184266, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "0QWvnpH7daskoXwKa59xGT"
+      }, 
+      {
+        "name": "On the Road Again", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1kvqv4axiWkxOdRz017sQZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0000ee8333bf810311a54cdb920b8ce4b12ada06", 
+        "is_playable": true, 
+        "uri": "spotify:track:1kvqv4axiWkxOdRz017sQZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1kvqv4axiWkxOdRz017sQZ", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 155426, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "1kvqv4axiWkxOdRz017sQZ"
+      }, 
+      {
+        "name": "Bob Dylan's 115th Dream", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5ka7NFOlZUpVLJmA2tO0o4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/203ecabbfa0929d063c7056eea4abfe09b242d27", 
+        "is_playable": true, 
+        "uri": "spotify:track:5ka7NFOlZUpVLJmA2tO0o4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5ka7NFOlZUpVLJmA2tO0o4", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 389800, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "5ka7NFOlZUpVLJmA2tO0o4"
+      }, 
+      {
+        "name": "Mr. Tambourine Man", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3RkQ3UwOyPqpIiIvGVewuU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/30b06bf43b6dd5652c6a0dd7466a73b591eda973", 
+        "is_playable": true, 
+        "uri": "spotify:track:3RkQ3UwOyPqpIiIvGVewuU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3RkQ3UwOyPqpIiIvGVewuU", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 330533, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "3RkQ3UwOyPqpIiIvGVewuU"
+      }, 
+      {
+        "name": "Gates of Eden", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3K10pmwoFZt5N6ESWvDQkv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/32e6ae3255fa15736a8336e9008543aacb9e6359", 
+        "is_playable": true, 
+        "uri": "spotify:track:3K10pmwoFZt5N6ESWvDQkv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3K10pmwoFZt5N6ESWvDQkv", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 340040, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "3K10pmwoFZt5N6ESWvDQkv"
+      }, 
+      {
+        "name": "It's Alright, Ma (I'm Only Bleeding)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Oer8yskMaCGXwGSfM7xr9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e2b5402ac8d5b0d08818ad5d695a534a03f0764d", 
+        "is_playable": true, 
+        "uri": "spotify:track:5Oer8yskMaCGXwGSfM7xr9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5Oer8yskMaCGXwGSfM7xr9", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 449093, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "5Oer8yskMaCGXwGSfM7xr9"
+      }, 
+      {
+        "name": "It's All Over Now, Baby Blue", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4EgKcG7aswxVfQEqa3dl8S"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4f336cece3b1789109fdb8a77db3b9dcfdf81dac", 
+        "is_playable": true, 
+        "uri": "spotify:track:4EgKcG7aswxVfQEqa3dl8S", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4EgKcG7aswxVfQEqa3dl8S", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 252066, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "4EgKcG7aswxVfQEqa3dl8S"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/1lPoRKSgZHQAYXxzBsOQ7v/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 11, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/1lPoRKSgZHQAYXxzBsOQ7v", 
+  "copyrights": [
+    {
+      "text": "Originally Released 1965 Sony Music Entertainment Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Bob Dylan", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+      }, 
+      "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+      "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+      "type": "artist", 
+      "id": "74ASZWbe4lXaubB36ztrGX"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/dd2a45ae7190ee6432c13be6ad016761a01467a9", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/940eb7a70b6ff1febf64ec974305b3555d7f7641", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/ed9dde281f0030f01906241fe5eae4812e4e30a5", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "074640912825"
+  }, 
+  "type": "album", 
+  "id": "1lPoRKSgZHQAYXxzBsOQ7v", 
+  "name": "Bringing It All Back Home"
+}

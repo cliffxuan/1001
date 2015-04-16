@@ -1,0 +1,571 @@
+{
+  "album_type": "compilation", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
+  }, 
+  "release_date": "2000-10-30", 
+  "popularity": 72, 
+  "genres": [], 
+  "uri": "spotify:album:1bgkxe4t0HNeLn9rhrx79x", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Beetlebum", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0cXm3QqepHVzXKdm73sqkl"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8030d8b82f6a4afc854b96ce075e0e0c610bcd7c", 
+        "is_playable": true, 
+        "uri": "spotify:track:0cXm3QqepHVzXKdm73sqkl", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0cXm3QqepHVzXKdm73sqkl", 
+        "artists": [
+          {
+            "name": "Blur", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+            }, 
+            "uri": "spotify:artist:7MhMgCo0Bl0Kukl93PZbYS", 
+            "href": "https://api.spotify.com/v1/artists/7MhMgCo0Bl0Kukl93PZbYS", 
+            "type": "artist", 
+            "id": "7MhMgCo0Bl0Kukl93PZbYS"
+          }
+        ], 
+        "duration_ms": 305600, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "0cXm3QqepHVzXKdm73sqkl"
+      }, 
+      {
+        "name": "Song 2", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2ef05c62aab0a17fc676ffa8a92398b2d3af0ce6", 
+        "is_playable": true, 
+        "uri": "spotify:track:3GfOAdcoc3X5GPiiXmpBjK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3GfOAdcoc3X5GPiiXmpBjK", 
+        "artists": [
+          {
+            "name": "Blur", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+            }, 
+            "uri": "spotify:artist:7MhMgCo0Bl0Kukl93PZbYS", 
+            "href": "https://api.spotify.com/v1/artists/7MhMgCo0Bl0Kukl93PZbYS", 
+            "type": "artist", 
+            "id": "7MhMgCo0Bl0Kukl93PZbYS"
+          }
+        ], 
+        "duration_ms": 121880, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "3GfOAdcoc3X5GPiiXmpBjK"
+      }, 
+      {
+        "name": "There's No Other Way - Single Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2qw5UTkURUArvay7phtq8U"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/152bb85c63c4e96ee0ca0fdc0dbdcef233b91482", 
+        "is_playable": true, 
+        "uri": "spotify:track:2qw5UTkURUArvay7phtq8U", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2qw5UTkURUArvay7phtq8U", 
+        "artists": [
+          {
+            "name": "Blur", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+            }, 
+            "uri": "spotify:artist:7MhMgCo0Bl0Kukl93PZbYS", 
+            "href": "https://api.spotify.com/v1/artists/7MhMgCo0Bl0Kukl93PZbYS", 
+            "type": "artist", 
+            "id": "7MhMgCo0Bl0Kukl93PZbYS"
+          }
+        ], 
+        "duration_ms": 193960, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "2qw5UTkURUArvay7phtq8U"
+      }, 
+      {
+        "name": "The Universal", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0qmCWYu7hOvriyuqXfPw7I"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/68b1231cd896ca9e6acae78edf0a8d29c70689cf", 
+        "is_playable": true, 
+        "uri": "spotify:track:0qmCWYu7hOvriyuqXfPw7I", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0qmCWYu7hOvriyuqXfPw7I", 
+        "artists": [
+          {
+            "name": "Blur", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+            }, 
+            "uri": "spotify:artist:7MhMgCo0Bl0Kukl93PZbYS", 
+            "href": "https://api.spotify.com/v1/artists/7MhMgCo0Bl0Kukl93PZbYS", 
+            "type": "artist", 
+            "id": "7MhMgCo0Bl0Kukl93PZbYS"
+          }
+        ], 
+        "duration_ms": 240120, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "0qmCWYu7hOvriyuqXfPw7I"
+      }, 
+      {
+        "name": "Coffee And TV - Radio Edit", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0vcxj1GSw3uV931zdI3ZDj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6387fae835932891171052228726c61f4b92751b", 
+        "is_playable": true, 
+        "uri": "spotify:track:0vcxj1GSw3uV931zdI3ZDj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0vcxj1GSw3uV931zdI3ZDj", 
+        "artists": [
+          {
+            "name": "Blur", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+            }, 
+            "uri": "spotify:artist:7MhMgCo0Bl0Kukl93PZbYS", 
+            "href": "https://api.spotify.com/v1/artists/7MhMgCo0Bl0Kukl93PZbYS", 
+            "type": "artist", 
+            "id": "7MhMgCo0Bl0Kukl93PZbYS"
+          }
+        ], 
+        "duration_ms": 318973, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "0vcxj1GSw3uV931zdI3ZDj"
+      }, 
+      {
+        "name": "Parklife", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3mqRLlD9j92BBv1ueFhJ1l"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/57d59b5a99081b67ff9a22fae6fc08e1ca6fd6db", 
+        "is_playable": true, 
+        "uri": "spotify:track:3mqRLlD9j92BBv1ueFhJ1l", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3mqRLlD9j92BBv1ueFhJ1l", 
+        "artists": [
+          {
+            "name": "Blur", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+            }, 
+            "uri": "spotify:artist:7MhMgCo0Bl0Kukl93PZbYS", 
+            "href": "https://api.spotify.com/v1/artists/7MhMgCo0Bl0Kukl93PZbYS", 
+            "type": "artist", 
+            "id": "7MhMgCo0Bl0Kukl93PZbYS"
+          }
+        ], 
+        "duration_ms": 187040, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "3mqRLlD9j92BBv1ueFhJ1l"
+      }, 
+      {
+        "name": "End Of A Century", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/38P9wcqc8ntgjgybw63R9L"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8cca8554c9ed491bbea37d07c00123ec5d668115", 
+        "is_playable": true, 
+        "uri": "spotify:track:38P9wcqc8ntgjgybw63R9L", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/38P9wcqc8ntgjgybw63R9L", 
+        "artists": [
+          {
+            "name": "Blur", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+            }, 
+            "uri": "spotify:artist:7MhMgCo0Bl0Kukl93PZbYS", 
+            "href": "https://api.spotify.com/v1/artists/7MhMgCo0Bl0Kukl93PZbYS", 
+            "type": "artist", 
+            "id": "7MhMgCo0Bl0Kukl93PZbYS"
+          }
+        ], 
+        "duration_ms": 166933, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "38P9wcqc8ntgjgybw63R9L"
+      }, 
+      {
+        "name": "No Distance Left To Run", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3VqOi6yIx3eB8BkQaVWBeA"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5c43eba8da579c414ff5e56428ce336d090cee56", 
+        "is_playable": true, 
+        "uri": "spotify:track:3VqOi6yIx3eB8BkQaVWBeA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3VqOi6yIx3eB8BkQaVWBeA", 
+        "artists": [
+          {
+            "name": "Blur", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+            }, 
+            "uri": "spotify:artist:7MhMgCo0Bl0Kukl93PZbYS", 
+            "href": "https://api.spotify.com/v1/artists/7MhMgCo0Bl0Kukl93PZbYS", 
+            "type": "artist", 
+            "id": "7MhMgCo0Bl0Kukl93PZbYS"
+          }
+        ], 
+        "duration_ms": 208266, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "3VqOi6yIx3eB8BkQaVWBeA"
+      }, 
+      {
+        "name": "Tender", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6p4sru0M36Cs5BL4qoSPw6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7caf05d84689a727cee2e2c8ca164c891d275a33", 
+        "is_playable": true, 
+        "uri": "spotify:track:6p4sru0M36Cs5BL4qoSPw6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6p4sru0M36Cs5BL4qoSPw6", 
+        "artists": [
+          {
+            "name": "Blur", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+            }, 
+            "uri": "spotify:artist:7MhMgCo0Bl0Kukl93PZbYS", 
+            "href": "https://api.spotify.com/v1/artists/7MhMgCo0Bl0Kukl93PZbYS", 
+            "type": "artist", 
+            "id": "7MhMgCo0Bl0Kukl93PZbYS"
+          }
+        ], 
+        "duration_ms": 461946, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "6p4sru0M36Cs5BL4qoSPw6"
+      }, 
+      {
+        "name": "Girls And Boys", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6a278a2cc1414e92430fb260d2f4721c453c2172", 
+        "is_playable": true, 
+        "uri": "spotify:track:5CeL9C3bsoe4yzYS1Qz8cw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5CeL9C3bsoe4yzYS1Qz8cw", 
+        "artists": [
+          {
+            "name": "Blur", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+            }, 
+            "uri": "spotify:artist:7MhMgCo0Bl0Kukl93PZbYS", 
+            "href": "https://api.spotify.com/v1/artists/7MhMgCo0Bl0Kukl93PZbYS", 
+            "type": "artist", 
+            "id": "7MhMgCo0Bl0Kukl93PZbYS"
+          }
+        ], 
+        "duration_ms": 259386, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "5CeL9C3bsoe4yzYS1Qz8cw"
+      }, 
+      {
+        "name": "Charmless Man", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1lYOlG9ZNtz5p3eSgnMn0Z"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9b1a0f720c70457ecbff65742091088e0a86c89b", 
+        "is_playable": true, 
+        "uri": "spotify:track:1lYOlG9ZNtz5p3eSgnMn0Z", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1lYOlG9ZNtz5p3eSgnMn0Z", 
+        "artists": [
+          {
+            "name": "Blur", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+            }, 
+            "uri": "spotify:artist:7MhMgCo0Bl0Kukl93PZbYS", 
+            "href": "https://api.spotify.com/v1/artists/7MhMgCo0Bl0Kukl93PZbYS", 
+            "type": "artist", 
+            "id": "7MhMgCo0Bl0Kukl93PZbYS"
+          }
+        ], 
+        "duration_ms": 213600, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "1lYOlG9ZNtz5p3eSgnMn0Z"
+      }, 
+      {
+        "name": "She's So High - Single Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/28Tj1Gc80CcgI3zElL3rgf"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3f6af86b63cb516bbac45bd161a1181de6365754", 
+        "is_playable": true, 
+        "uri": "spotify:track:28Tj1Gc80CcgI3zElL3rgf", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/28Tj1Gc80CcgI3zElL3rgf", 
+        "artists": [
+          {
+            "name": "Blur", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+            }, 
+            "uri": "spotify:artist:7MhMgCo0Bl0Kukl93PZbYS", 
+            "href": "https://api.spotify.com/v1/artists/7MhMgCo0Bl0Kukl93PZbYS", 
+            "type": "artist", 
+            "id": "7MhMgCo0Bl0Kukl93PZbYS"
+          }
+        ], 
+        "duration_ms": 230106, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "28Tj1Gc80CcgI3zElL3rgf"
+      }, 
+      {
+        "name": "Country House", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4vnYwFOZCVl0bmerWyuzRw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/97d93f0611d531523956577913b9149de71354d2", 
+        "is_playable": true, 
+        "uri": "spotify:track:4vnYwFOZCVl0bmerWyuzRw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4vnYwFOZCVl0bmerWyuzRw", 
+        "artists": [
+          {
+            "name": "Blur", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+            }, 
+            "uri": "spotify:artist:7MhMgCo0Bl0Kukl93PZbYS", 
+            "href": "https://api.spotify.com/v1/artists/7MhMgCo0Bl0Kukl93PZbYS", 
+            "type": "artist", 
+            "id": "7MhMgCo0Bl0Kukl93PZbYS"
+          }
+        ], 
+        "duration_ms": 237733, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "4vnYwFOZCVl0bmerWyuzRw"
+      }, 
+      {
+        "name": "To the End", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5BpWVTgEQTng1ocwMsVzZO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/39a6a24ac3153b565dffe56f3e4082a733b8a2ec", 
+        "is_playable": true, 
+        "uri": "spotify:track:5BpWVTgEQTng1ocwMsVzZO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5BpWVTgEQTng1ocwMsVzZO", 
+        "artists": [
+          {
+            "name": "Blur", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+            }, 
+            "uri": "spotify:artist:7MhMgCo0Bl0Kukl93PZbYS", 
+            "href": "https://api.spotify.com/v1/artists/7MhMgCo0Bl0Kukl93PZbYS", 
+            "type": "artist", 
+            "id": "7MhMgCo0Bl0Kukl93PZbYS"
+          }
+        ], 
+        "duration_ms": 231893, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "5BpWVTgEQTng1ocwMsVzZO"
+      }, 
+      {
+        "name": "On Your Own", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6zFZ3vjHxV4JHEKEN6pD4T"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/709cbef7402dc24e10b3cdb4a7336abb4c3b27cb", 
+        "is_playable": true, 
+        "uri": "spotify:track:6zFZ3vjHxV4JHEKEN6pD4T", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6zFZ3vjHxV4JHEKEN6pD4T", 
+        "artists": [
+          {
+            "name": "Blur", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+            }, 
+            "uri": "spotify:artist:7MhMgCo0Bl0Kukl93PZbYS", 
+            "href": "https://api.spotify.com/v1/artists/7MhMgCo0Bl0Kukl93PZbYS", 
+            "type": "artist", 
+            "id": "7MhMgCo0Bl0Kukl93PZbYS"
+          }
+        ], 
+        "duration_ms": 267200, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "6zFZ3vjHxV4JHEKEN6pD4T"
+      }, 
+      {
+        "name": "This Is A Low", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1aQZJlD0KtNgZBkC74mTkd"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cbd1698966e1b4d4767e8e569b21907a2d9b785a", 
+        "is_playable": true, 
+        "uri": "spotify:track:1aQZJlD0KtNgZBkC74mTkd", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1aQZJlD0KtNgZBkC74mTkd", 
+        "artists": [
+          {
+            "name": "Blur", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+            }, 
+            "uri": "spotify:artist:7MhMgCo0Bl0Kukl93PZbYS", 
+            "href": "https://api.spotify.com/v1/artists/7MhMgCo0Bl0Kukl93PZbYS", 
+            "type": "artist", 
+            "id": "7MhMgCo0Bl0Kukl93PZbYS"
+          }
+        ], 
+        "duration_ms": 300693, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "1aQZJlD0KtNgZBkC74mTkd"
+      }, 
+      {
+        "name": "For Tomorrow - Visit To Primrose Hill Extended", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2DUpMrIUlWrb8MyEMCpHed"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/30309fb996b0a1930f0252f778fdf91837873a50", 
+        "is_playable": true, 
+        "uri": "spotify:track:2DUpMrIUlWrb8MyEMCpHed", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2DUpMrIUlWrb8MyEMCpHed", 
+        "artists": [
+          {
+            "name": "Blur", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+            }, 
+            "uri": "spotify:artist:7MhMgCo0Bl0Kukl93PZbYS", 
+            "href": "https://api.spotify.com/v1/artists/7MhMgCo0Bl0Kukl93PZbYS", 
+            "type": "artist", 
+            "id": "7MhMgCo0Bl0Kukl93PZbYS"
+          }
+        ], 
+        "duration_ms": 361840, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "2DUpMrIUlWrb8MyEMCpHed"
+      }, 
+      {
+        "name": "Music Is My Radar", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6vAyorp6mmYW6CjgsCtL03"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/23c1193b818938736f0de8b6076351be4acb8c88", 
+        "is_playable": true, 
+        "uri": "spotify:track:6vAyorp6mmYW6CjgsCtL03", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6vAyorp6mmYW6CjgsCtL03", 
+        "artists": [
+          {
+            "name": "Blur", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+            }, 
+            "uri": "spotify:artist:7MhMgCo0Bl0Kukl93PZbYS", 
+            "href": "https://api.spotify.com/v1/artists/7MhMgCo0Bl0Kukl93PZbYS", 
+            "type": "artist", 
+            "id": "7MhMgCo0Bl0Kukl93PZbYS"
+          }
+        ], 
+        "duration_ms": 329093, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "6vAyorp6mmYW6CjgsCtL03"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/1bgkxe4t0HNeLn9rhrx79x/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 18, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/1bgkxe4t0HNeLn9rhrx79x", 
+  "copyrights": [
+    {
+      "text": "2000 Parlophone Records Ltd. This label copy information is the subject of copyright protection. All rights reserved. (C) 2000 Parlophone Records Ltd", 
+      "type": "C"
+    }, 
+    {
+      "text": "2000 The copyright in this compilation is owned by Parlophone Records Ltd", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Blur", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+      }, 
+      "uri": "spotify:artist:7MhMgCo0Bl0Kukl93PZbYS", 
+      "href": "https://api.spotify.com/v1/artists/7MhMgCo0Bl0Kukl93PZbYS", 
+      "type": "artist", 
+      "id": "7MhMgCo0Bl0Kukl93PZbYS"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/64d37b4adad0bad4c31ef0de9d499d94596a2060", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/1590a83b6e1ec12478a2fe8e993a4eecc261605e", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/77203b4469cb6dba1710c44f838ff6ab3a0433b7", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "0724352986859"
+  }, 
+  "type": "album", 
+  "id": "1bgkxe4t0HNeLn9rhrx79x", 
+  "name": "Blur: The Best Of"
+}

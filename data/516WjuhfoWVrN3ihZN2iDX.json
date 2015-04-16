@@ -1,0 +1,675 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/516WjuhfoWVrN3ihZN2iDX"
+  }, 
+  "release_date": "2003-01-01", 
+  "popularity": 50, 
+  "genres": [], 
+  "uri": "spotify:album:516WjuhfoWVrN3ihZN2iDX", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Luka", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/52icM83Ukji66YTcnJpQ42"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/243d18f1e34274af5e9c000f6e721c4560da988d", 
+        "is_playable": true, 
+        "uri": "spotify:track:52icM83Ukji66YTcnJpQ42", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/52icM83Ukji66YTcnJpQ42", 
+        "artists": [
+          {
+            "name": "Suzanne Vega", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+            }, 
+            "uri": "spotify:artist:3X0tJzVYoWlfjLYI0Ridsw", 
+            "href": "https://api.spotify.com/v1/artists/3X0tJzVYoWlfjLYI0Ridsw", 
+            "type": "artist", 
+            "id": "3X0tJzVYoWlfjLYI0Ridsw"
+          }
+        ], 
+        "duration_ms": 231800, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "52icM83Ukji66YTcnJpQ42"
+      }, 
+      {
+        "name": "Tom's Diner - 7\" Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5oSCqtN7I9XjeMrnmN0fWW"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/60f756232db339ddb3852fc3e2062a8f220475e8", 
+        "is_playable": true, 
+        "uri": "spotify:track:5oSCqtN7I9XjeMrnmN0fWW", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5oSCqtN7I9XjeMrnmN0fWW", 
+        "artists": [
+          {
+            "name": "DNA", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5ISgOPcI1bY7Rd28GUWWE8"
+            }, 
+            "uri": "spotify:artist:5ISgOPcI1bY7Rd28GUWWE8", 
+            "href": "https://api.spotify.com/v1/artists/5ISgOPcI1bY7Rd28GUWWE8", 
+            "type": "artist", 
+            "id": "5ISgOPcI1bY7Rd28GUWWE8"
+          }, 
+          {
+            "name": "Suzanne Vega", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+            }, 
+            "uri": "spotify:artist:3X0tJzVYoWlfjLYI0Ridsw", 
+            "href": "https://api.spotify.com/v1/artists/3X0tJzVYoWlfjLYI0Ridsw", 
+            "type": "artist", 
+            "id": "3X0tJzVYoWlfjLYI0Ridsw"
+          }
+        ], 
+        "duration_ms": 228533, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "5oSCqtN7I9XjeMrnmN0fWW"
+      }, 
+      {
+        "name": "Marlene On The Wall", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4bFuskjSsUerZhBKL1tYPx"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/003341457e7bc428165cc94de5cd95e118a67801", 
+        "is_playable": true, 
+        "uri": "spotify:track:4bFuskjSsUerZhBKL1tYPx", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4bFuskjSsUerZhBKL1tYPx", 
+        "artists": [
+          {
+            "name": "Suzanne Vega", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+            }, 
+            "uri": "spotify:artist:3X0tJzVYoWlfjLYI0Ridsw", 
+            "href": "https://api.spotify.com/v1/artists/3X0tJzVYoWlfjLYI0Ridsw", 
+            "type": "artist", 
+            "id": "3X0tJzVYoWlfjLYI0Ridsw"
+          }
+        ], 
+        "duration_ms": 220240, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "4bFuskjSsUerZhBKL1tYPx"
+      }, 
+      {
+        "name": "Caramel", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1W30tcNTCCQ5gDLTglt0d4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c2a6867148f440ead64f6fb24356132fe46d258e", 
+        "is_playable": true, 
+        "uri": "spotify:track:1W30tcNTCCQ5gDLTglt0d4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1W30tcNTCCQ5gDLTglt0d4", 
+        "artists": [
+          {
+            "name": "Suzanne Vega", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+            }, 
+            "uri": "spotify:artist:3X0tJzVYoWlfjLYI0Ridsw", 
+            "href": "https://api.spotify.com/v1/artists/3X0tJzVYoWlfjLYI0Ridsw", 
+            "type": "artist", 
+            "id": "3X0tJzVYoWlfjLYI0Ridsw"
+          }
+        ], 
+        "duration_ms": 173693, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "1W30tcNTCCQ5gDLTglt0d4"
+      }, 
+      {
+        "name": "99.9 F", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7wf9NetZy3TI6IGtv8KbXs"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a9445e265f4b0f9127bc50b33ead30ec0de2e0be", 
+        "is_playable": true, 
+        "uri": "spotify:track:7wf9NetZy3TI6IGtv8KbXs", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7wf9NetZy3TI6IGtv8KbXs", 
+        "artists": [
+          {
+            "name": "Suzanne Vega", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+            }, 
+            "uri": "spotify:artist:3X0tJzVYoWlfjLYI0Ridsw", 
+            "href": "https://api.spotify.com/v1/artists/3X0tJzVYoWlfjLYI0Ridsw", 
+            "type": "artist", 
+            "id": "3X0tJzVYoWlfjLYI0Ridsw"
+          }
+        ], 
+        "duration_ms": 195240, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "7wf9NetZy3TI6IGtv8KbXs"
+      }, 
+      {
+        "name": "Tired Of Sleeping", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2DYXU3znEXOY59SXnlgoH3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a3d210f12ae6379fc37b871c82f0bbfae54e90a8", 
+        "is_playable": true, 
+        "uri": "spotify:track:2DYXU3znEXOY59SXnlgoH3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2DYXU3znEXOY59SXnlgoH3", 
+        "artists": [
+          {
+            "name": "Suzanne Vega", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+            }, 
+            "uri": "spotify:artist:3X0tJzVYoWlfjLYI0Ridsw", 
+            "href": "https://api.spotify.com/v1/artists/3X0tJzVYoWlfjLYI0Ridsw", 
+            "type": "artist", 
+            "id": "3X0tJzVYoWlfjLYI0Ridsw"
+          }
+        ], 
+        "duration_ms": 262826, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "2DYXU3znEXOY59SXnlgoH3"
+      }, 
+      {
+        "name": "Small Blue Thing", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/79i8hkFGOCNSzPrCvNmCoM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/64a086157d8c3132b3e48069a2b413cb869c6090", 
+        "is_playable": true, 
+        "uri": "spotify:track:79i8hkFGOCNSzPrCvNmCoM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/79i8hkFGOCNSzPrCvNmCoM", 
+        "artists": [
+          {
+            "name": "Suzanne Vega", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+            }, 
+            "uri": "spotify:artist:3X0tJzVYoWlfjLYI0Ridsw", 
+            "href": "https://api.spotify.com/v1/artists/3X0tJzVYoWlfjLYI0Ridsw", 
+            "type": "artist", 
+            "id": "3X0tJzVYoWlfjLYI0Ridsw"
+          }
+        ], 
+        "duration_ms": 235200, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "79i8hkFGOCNSzPrCvNmCoM"
+      }, 
+      {
+        "name": "Blood Makes Noise", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7oyBddrXUpjxk5rQamNwsq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/99b27eb1882f5150230b921fcb7326b53a7568fb", 
+        "is_playable": true, 
+        "uri": "spotify:track:7oyBddrXUpjxk5rQamNwsq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7oyBddrXUpjxk5rQamNwsq", 
+        "artists": [
+          {
+            "name": "Suzanne Vega", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+            }, 
+            "uri": "spotify:artist:3X0tJzVYoWlfjLYI0Ridsw", 
+            "href": "https://api.spotify.com/v1/artists/3X0tJzVYoWlfjLYI0Ridsw", 
+            "type": "artist", 
+            "id": "3X0tJzVYoWlfjLYI0Ridsw"
+          }
+        ], 
+        "duration_ms": 148440, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "7oyBddrXUpjxk5rQamNwsq"
+      }, 
+      {
+        "name": "Left Of Center", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5VyKBTIqy1gTlXUKcndRPW"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a833a0777aa038823104e0e9d30e03fb0d858e52", 
+        "is_playable": true, 
+        "uri": "spotify:track:5VyKBTIqy1gTlXUKcndRPW", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5VyKBTIqy1gTlXUKcndRPW", 
+        "artists": [
+          {
+            "name": "Suzanne Vega", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+            }, 
+            "uri": "spotify:artist:3X0tJzVYoWlfjLYI0Ridsw", 
+            "href": "https://api.spotify.com/v1/artists/3X0tJzVYoWlfjLYI0Ridsw", 
+            "type": "artist", 
+            "id": "3X0tJzVYoWlfjLYI0Ridsw"
+          }, 
+          {
+            "name": "Joe Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT"
+            }, 
+            "uri": "spotify:artist:6KOqPxwfNAmZPkiCnDE9yT", 
+            "href": "https://api.spotify.com/v1/artists/6KOqPxwfNAmZPkiCnDE9yT", 
+            "type": "artist", 
+            "id": "6KOqPxwfNAmZPkiCnDE9yT"
+          }
+        ], 
+        "duration_ms": 209733, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "5VyKBTIqy1gTlXUKcndRPW"
+      }, 
+      {
+        "name": "(I'll Never Be) Your Maggie May", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7Cl9gBfV1N0TISA1tO5cYa"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/beeb37be9c2f290c2f4c7e09af3891579ca434a4", 
+        "is_playable": true, 
+        "uri": "spotify:track:7Cl9gBfV1N0TISA1tO5cYa", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7Cl9gBfV1N0TISA1tO5cYa", 
+        "artists": [
+          {
+            "name": "Suzanne Vega", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+            }, 
+            "uri": "spotify:artist:3X0tJzVYoWlfjLYI0Ridsw", 
+            "href": "https://api.spotify.com/v1/artists/3X0tJzVYoWlfjLYI0Ridsw", 
+            "type": "artist", 
+            "id": "3X0tJzVYoWlfjLYI0Ridsw"
+          }
+        ], 
+        "duration_ms": 226693, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "7Cl9gBfV1N0TISA1tO5cYa"
+      }, 
+      {
+        "name": "In Liverpool", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5eCFrTxGWlCb8Gr0Kxhm6G"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9c1ca03e681a6efabdf43f5a23cef9d889e83b09", 
+        "is_playable": true, 
+        "uri": "spotify:track:5eCFrTxGWlCb8Gr0Kxhm6G", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5eCFrTxGWlCb8Gr0Kxhm6G", 
+        "artists": [
+          {
+            "name": "Suzanne Vega", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+            }, 
+            "uri": "spotify:artist:3X0tJzVYoWlfjLYI0Ridsw", 
+            "href": "https://api.spotify.com/v1/artists/3X0tJzVYoWlfjLYI0Ridsw", 
+            "type": "artist", 
+            "id": "3X0tJzVYoWlfjLYI0Ridsw"
+          }
+        ], 
+        "duration_ms": 283960, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "5eCFrTxGWlCb8Gr0Kxhm6G"
+      }, 
+      {
+        "name": "Gypsy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1WbDItQoNwcJsrn2JA7CPs"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/116bdebfca634903cad7d06213d0e186c25c489d", 
+        "is_playable": true, 
+        "uri": "spotify:track:1WbDItQoNwcJsrn2JA7CPs", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1WbDItQoNwcJsrn2JA7CPs", 
+        "artists": [
+          {
+            "name": "Suzanne Vega", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+            }, 
+            "uri": "spotify:artist:3X0tJzVYoWlfjLYI0Ridsw", 
+            "href": "https://api.spotify.com/v1/artists/3X0tJzVYoWlfjLYI0Ridsw", 
+            "type": "artist", 
+            "id": "3X0tJzVYoWlfjLYI0Ridsw"
+          }
+        ], 
+        "duration_ms": 243066, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "1WbDItQoNwcJsrn2JA7CPs"
+      }, 
+      {
+        "name": "Book Of Dreams", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6kpuZgCc8pmLd83XaKKinF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/479e88a4d7bc8148469eeec7281bdac8ece78f3e", 
+        "is_playable": true, 
+        "uri": "spotify:track:6kpuZgCc8pmLd83XaKKinF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6kpuZgCc8pmLd83XaKKinF", 
+        "artists": [
+          {
+            "name": "Suzanne Vega", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+            }, 
+            "uri": "spotify:artist:3X0tJzVYoWlfjLYI0Ridsw", 
+            "href": "https://api.spotify.com/v1/artists/3X0tJzVYoWlfjLYI0Ridsw", 
+            "type": "artist", 
+            "id": "3X0tJzVYoWlfjLYI0Ridsw"
+          }
+        ], 
+        "duration_ms": 203733, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "6kpuZgCc8pmLd83XaKKinF"
+      }, 
+      {
+        "name": "No Cheap Thrill", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3oiMtMZAv2EawnKOSGnIMh"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/855c4676addbb93fb9532837bf090149ab248c38", 
+        "is_playable": true, 
+        "uri": "spotify:track:3oiMtMZAv2EawnKOSGnIMh", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3oiMtMZAv2EawnKOSGnIMh", 
+        "artists": [
+          {
+            "name": "Suzanne Vega", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+            }, 
+            "uri": "spotify:artist:3X0tJzVYoWlfjLYI0Ridsw", 
+            "href": "https://api.spotify.com/v1/artists/3X0tJzVYoWlfjLYI0Ridsw", 
+            "type": "artist", 
+            "id": "3X0tJzVYoWlfjLYI0Ridsw"
+          }
+        ], 
+        "duration_ms": 189666, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "3oiMtMZAv2EawnKOSGnIMh"
+      }, 
+      {
+        "name": "Calypso", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4fFrMljWk3Z5KAYNqVSFgw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/18015e21281e0503c1902ae079976879f0a7dbb6", 
+        "is_playable": true, 
+        "uri": "spotify:track:4fFrMljWk3Z5KAYNqVSFgw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4fFrMljWk3Z5KAYNqVSFgw", 
+        "artists": [
+          {
+            "name": "Suzanne Vega", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+            }, 
+            "uri": "spotify:artist:3X0tJzVYoWlfjLYI0Ridsw", 
+            "href": "https://api.spotify.com/v1/artists/3X0tJzVYoWlfjLYI0Ridsw", 
+            "type": "artist", 
+            "id": "3X0tJzVYoWlfjLYI0Ridsw"
+          }
+        ], 
+        "duration_ms": 251533, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "4fFrMljWk3Z5KAYNqVSFgw"
+      }, 
+      {
+        "name": "World Before Columbus", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7HT1hSk4sXgxKSMR4Oiixv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b51973bb081042362b8330c222c1eefec6ece637", 
+        "is_playable": true, 
+        "uri": "spotify:track:7HT1hSk4sXgxKSMR4Oiixv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7HT1hSk4sXgxKSMR4Oiixv", 
+        "artists": [
+          {
+            "name": "Suzanne Vega", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+            }, 
+            "uri": "spotify:artist:3X0tJzVYoWlfjLYI0Ridsw", 
+            "href": "https://api.spotify.com/v1/artists/3X0tJzVYoWlfjLYI0Ridsw", 
+            "type": "artist", 
+            "id": "3X0tJzVYoWlfjLYI0Ridsw"
+          }
+        ], 
+        "duration_ms": 205893, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "7HT1hSk4sXgxKSMR4Oiixv"
+      }, 
+      {
+        "name": "Solitude Standing", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4pKoer9nWQKjadyUasHN4c"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7640598635084a877bed6016e343822f3a1537ea", 
+        "is_playable": true, 
+        "uri": "spotify:track:4pKoer9nWQKjadyUasHN4c", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4pKoer9nWQKjadyUasHN4c", 
+        "artists": [
+          {
+            "name": "Suzanne Vega", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+            }, 
+            "uri": "spotify:artist:3X0tJzVYoWlfjLYI0Ridsw", 
+            "href": "https://api.spotify.com/v1/artists/3X0tJzVYoWlfjLYI0Ridsw", 
+            "type": "artist", 
+            "id": "3X0tJzVYoWlfjLYI0Ridsw"
+          }
+        ], 
+        "duration_ms": 279240, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "4pKoer9nWQKjadyUasHN4c"
+      }, 
+      {
+        "name": "Penitent", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/75n1QvRBJpgGRxwxWKgqKl"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/683913b59e8fe1ce7430241dd885b9f73055c717", 
+        "is_playable": true, 
+        "uri": "spotify:track:75n1QvRBJpgGRxwxWKgqKl", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/75n1QvRBJpgGRxwxWKgqKl", 
+        "artists": [
+          {
+            "name": "Suzanne Vega", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+            }, 
+            "uri": "spotify:artist:3X0tJzVYoWlfjLYI0Ridsw", 
+            "href": "https://api.spotify.com/v1/artists/3X0tJzVYoWlfjLYI0Ridsw", 
+            "type": "artist", 
+            "id": "3X0tJzVYoWlfjLYI0Ridsw"
+          }
+        ], 
+        "duration_ms": 256839, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "75n1QvRBJpgGRxwxWKgqKl"
+      }, 
+      {
+        "name": "Rosemary", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2VELdGhFYnbxgOjAc793OY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/657b8ec68a0b6e56ab42e090dcaaf4007d82279a", 
+        "is_playable": true, 
+        "uri": "spotify:track:2VELdGhFYnbxgOjAc793OY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2VELdGhFYnbxgOjAc793OY", 
+        "artists": [
+          {
+            "name": "Suzanne Vega", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+            }, 
+            "uri": "spotify:artist:3X0tJzVYoWlfjLYI0Ridsw", 
+            "href": "https://api.spotify.com/v1/artists/3X0tJzVYoWlfjLYI0Ridsw", 
+            "type": "artist", 
+            "id": "3X0tJzVYoWlfjLYI0Ridsw"
+          }
+        ], 
+        "duration_ms": 163266, 
+        "track_number": 19, 
+        "type": "track", 
+        "id": "2VELdGhFYnbxgOjAc793OY"
+      }, 
+      {
+        "name": "The Queen And The Soldier - Live In Switzerland - 1991", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0vYCDdNjhkfdlHCVtiLzTC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9a1cf454a424fad22805abc3000c1e1e512710d2", 
+        "is_playable": true, 
+        "uri": "spotify:track:0vYCDdNjhkfdlHCVtiLzTC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0vYCDdNjhkfdlHCVtiLzTC", 
+        "artists": [
+          {
+            "name": "Suzanne Vega", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+            }, 
+            "uri": "spotify:artist:3X0tJzVYoWlfjLYI0Ridsw", 
+            "href": "https://api.spotify.com/v1/artists/3X0tJzVYoWlfjLYI0Ridsw", 
+            "type": "artist", 
+            "id": "3X0tJzVYoWlfjLYI0Ridsw"
+          }
+        ], 
+        "duration_ms": 301800, 
+        "track_number": 20, 
+        "type": "track", 
+        "id": "0vYCDdNjhkfdlHCVtiLzTC"
+      }, 
+      {
+        "name": "Woman On The Tier", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2D5hizsjfPBvet5LKncfOW"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c489adbf58b2235b3935782c9504da58a19cd319", 
+        "is_playable": true, 
+        "uri": "spotify:track:2D5hizsjfPBvet5LKncfOW", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2D5hizsjfPBvet5LKncfOW", 
+        "artists": [
+          {
+            "name": "Suzanne Vega", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+            }, 
+            "uri": "spotify:artist:3X0tJzVYoWlfjLYI0Ridsw", 
+            "href": "https://api.spotify.com/v1/artists/3X0tJzVYoWlfjLYI0Ridsw", 
+            "type": "artist", 
+            "id": "3X0tJzVYoWlfjLYI0Ridsw"
+          }
+        ], 
+        "duration_ms": 146960, 
+        "track_number": 21, 
+        "type": "track", 
+        "id": "2D5hizsjfPBvet5LKncfOW"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/516WjuhfoWVrN3ihZN2iDX/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 21, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/516WjuhfoWVrN3ihZN2iDX", 
+  "copyrights": [
+    {
+      "text": "(C) 2003 A&M Records", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 2003 Interscope Geffen (A&M) Records A Division of UMG Recordings Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Suzanne Vega", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+      }, 
+      "uri": "spotify:artist:3X0tJzVYoWlfjLYI0Ridsw", 
+      "href": "https://api.spotify.com/v1/artists/3X0tJzVYoWlfjLYI0Ridsw", 
+      "type": "artist", 
+      "id": "3X0tJzVYoWlfjLYI0Ridsw"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/a41a239c7665018af1fb5d3b6ddca54b1ebe78dc", 
+      "width": 640, 
+      "height": 637
+    }, 
+    {
+      "url": "https://i.scdn.co/image/266b91897d23cb6ded8574018f2f0ca692af295f", 
+      "width": 300, 
+      "height": 299
+    }, 
+    {
+      "url": "https://i.scdn.co/image/00853a8669181f6097ae8185a74676fd25c68c78", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00606949367022"
+  }, 
+  "type": "album", 
+  "id": "516WjuhfoWVrN3ihZN2iDX", 
+  "name": "RetroSpective: The Best Of Suzanne Vega"
+}

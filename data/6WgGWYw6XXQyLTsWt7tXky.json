@@ -1,0 +1,609 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
+  }, 
+  "release_date": "1986-08-12", 
+  "popularity": 69, 
+  "genres": [], 
+  "uri": "spotify:album:6WgGWYw6XXQyLTsWt7tXky", 
+  "tracks": {
+    "items": [
+      {
+        "name": "The Boy In the Bubble", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/00IrSynHsun7DpDrLkRIjM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9534818e8edb026804c074e7a71ef5550707ffac", 
+        "is_playable": true, 
+        "uri": "spotify:track:00IrSynHsun7DpDrLkRIjM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/00IrSynHsun7DpDrLkRIjM", 
+        "artists": [
+          {
+            "name": "Paul Simon", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+            }, 
+            "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI", 
+            "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI", 
+            "type": "artist", 
+            "id": "2CvCyf1gEVhI0mX6aFXmVI"
+          }
+        ], 
+        "duration_ms": 239693, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "00IrSynHsun7DpDrLkRIjM"
+      }, 
+      {
+        "name": "Graceland", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/51KKQAgYFoJHgVIuJWHdHb"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e2f59dcf6920c236fde8dcce5503c2d1d9208abc", 
+        "is_playable": true, 
+        "uri": "spotify:track:51KKQAgYFoJHgVIuJWHdHb", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/51KKQAgYFoJHgVIuJWHdHb", 
+        "artists": [
+          {
+            "name": "Paul Simon", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+            }, 
+            "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI", 
+            "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI", 
+            "type": "artist", 
+            "id": "2CvCyf1gEVhI0mX6aFXmVI"
+          }
+        ], 
+        "duration_ms": 291200, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "51KKQAgYFoJHgVIuJWHdHb"
+      }, 
+      {
+        "name": "I Know What I Know", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1jBbbJQfOKyBsJNVng8eIy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f849dffad5dd5322065a926334969485f2f7abf2", 
+        "is_playable": true, 
+        "uri": "spotify:track:1jBbbJQfOKyBsJNVng8eIy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1jBbbJQfOKyBsJNVng8eIy", 
+        "artists": [
+          {
+            "name": "Paul Simon", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+            }, 
+            "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI", 
+            "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI", 
+            "type": "artist", 
+            "id": "2CvCyf1gEVhI0mX6aFXmVI"
+          }, 
+          {
+            "name": "General M.D.Shirinda", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3cOiQ23Zwbq4gIXuJzszTo"
+            }, 
+            "uri": "spotify:artist:3cOiQ23Zwbq4gIXuJzszTo", 
+            "href": "https://api.spotify.com/v1/artists/3cOiQ23Zwbq4gIXuJzszTo", 
+            "type": "artist", 
+            "id": "3cOiQ23Zwbq4gIXuJzszTo"
+          }, 
+          {
+            "name": "The Gaza Sisters", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0W7SKlJUIteiwrg1x7evYd"
+            }, 
+            "uri": "spotify:artist:0W7SKlJUIteiwrg1x7evYd", 
+            "href": "https://api.spotify.com/v1/artists/0W7SKlJUIteiwrg1x7evYd", 
+            "type": "artist", 
+            "id": "0W7SKlJUIteiwrg1x7evYd"
+          }
+        ], 
+        "duration_ms": 193373, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "1jBbbJQfOKyBsJNVng8eIy"
+      }, 
+      {
+        "name": "Gumboots", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/26BtvjUZgQzIgYbXe4e6oR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d8aaea75682afb1bf24dc8f5aea1256e14221656", 
+        "is_playable": true, 
+        "uri": "spotify:track:26BtvjUZgQzIgYbXe4e6oR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/26BtvjUZgQzIgYbXe4e6oR", 
+        "artists": [
+          {
+            "name": "Paul Simon", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+            }, 
+            "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI", 
+            "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI", 
+            "type": "artist", 
+            "id": "2CvCyf1gEVhI0mX6aFXmVI"
+          }, 
+          {
+            "name": "Boyoyo Boys", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4NTqJgsY7RZoXW8kh894j8"
+            }, 
+            "uri": "spotify:artist:4NTqJgsY7RZoXW8kh894j8", 
+            "href": "https://api.spotify.com/v1/artists/4NTqJgsY7RZoXW8kh894j8", 
+            "type": "artist", 
+            "id": "4NTqJgsY7RZoXW8kh894j8"
+          }
+        ], 
+        "duration_ms": 164826, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "26BtvjUZgQzIgYbXe4e6oR"
+      }, 
+      {
+        "name": "Diamonds On the Soles of Her Shoes", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/71GvlH0VdeClloLIkHrAVu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1114ce4b2a8e4e7daff05b5d24d935188b1f9289", 
+        "is_playable": true, 
+        "uri": "spotify:track:71GvlH0VdeClloLIkHrAVu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/71GvlH0VdeClloLIkHrAVu", 
+        "artists": [
+          {
+            "name": "Paul Simon", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+            }, 
+            "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI", 
+            "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI", 
+            "type": "artist", 
+            "id": "2CvCyf1gEVhI0mX6aFXmVI"
+          }
+        ], 
+        "duration_ms": 349280, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "71GvlH0VdeClloLIkHrAVu"
+      }, 
+      {
+        "name": "You Can Call Me Al", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a9b08c6887c955d84b5816abd3b949f5075e90ac", 
+        "is_playable": true, 
+        "uri": "spotify:track:0qxYx4F3vm1AOnfux6dDxP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0qxYx4F3vm1AOnfux6dDxP", 
+        "artists": [
+          {
+            "name": "Paul Simon", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+            }, 
+            "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI", 
+            "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI", 
+            "type": "artist", 
+            "id": "2CvCyf1gEVhI0mX6aFXmVI"
+          }
+        ], 
+        "duration_ms": 280000, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "0qxYx4F3vm1AOnfux6dDxP"
+      }, 
+      {
+        "name": "Under African Skies", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/40ZTTezGy5R2Led0sO0kn6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9bb39779872a379e3b9e0deae6dadf478f510c7d", 
+        "is_playable": true, 
+        "uri": "spotify:track:40ZTTezGy5R2Led0sO0kn6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/40ZTTezGy5R2Led0sO0kn6", 
+        "artists": [
+          {
+            "name": "Paul Simon", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+            }, 
+            "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI", 
+            "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI", 
+            "type": "artist", 
+            "id": "2CvCyf1gEVhI0mX6aFXmVI"
+          }
+        ], 
+        "duration_ms": 217160, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "40ZTTezGy5R2Led0sO0kn6"
+      }, 
+      {
+        "name": "Homeless", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/75fomtP3etOOIJDBAXVawy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c83d88dea1d93844187694edf0d1a98e72ee8597", 
+        "is_playable": true, 
+        "uri": "spotify:track:75fomtP3etOOIJDBAXVawy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/75fomtP3etOOIJDBAXVawy", 
+        "artists": [
+          {
+            "name": "Paul Simon", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+            }, 
+            "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI", 
+            "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI", 
+            "type": "artist", 
+            "id": "2CvCyf1gEVhI0mX6aFXmVI"
+          }, 
+          {
+            "name": "Ladysmith Black Mambazo", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+            }, 
+            "uri": "spotify:artist:3FdLhnmXynPvZkbILPpB6d", 
+            "href": "https://api.spotify.com/v1/artists/3FdLhnmXynPvZkbILPpB6d", 
+            "type": "artist", 
+            "id": "3FdLhnmXynPvZkbILPpB6d"
+          }
+        ], 
+        "duration_ms": 228413, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "75fomtP3etOOIJDBAXVawy"
+      }, 
+      {
+        "name": "Crazy Love, Vol. II", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5YRzxz5G4vtaj0jOuGaMp8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a61f4d6012d573d36e945ae28f1da2676b869e9d", 
+        "is_playable": true, 
+        "uri": "spotify:track:5YRzxz5G4vtaj0jOuGaMp8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5YRzxz5G4vtaj0jOuGaMp8", 
+        "artists": [
+          {
+            "name": "Paul Simon", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+            }, 
+            "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI", 
+            "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI", 
+            "type": "artist", 
+            "id": "2CvCyf1gEVhI0mX6aFXmVI"
+          }
+        ], 
+        "duration_ms": 259360, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "5YRzxz5G4vtaj0jOuGaMp8"
+      }, 
+      {
+        "name": "That Was Your Mother", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2WBzF0a3DDzqjNF8V3ApAw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e5907bd450ff0c986f5a7962ac61016af967ade1", 
+        "is_playable": true, 
+        "uri": "spotify:track:2WBzF0a3DDzqjNF8V3ApAw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2WBzF0a3DDzqjNF8V3ApAw", 
+        "artists": [
+          {
+            "name": "Paul Simon", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+            }, 
+            "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI", 
+            "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI", 
+            "type": "artist", 
+            "id": "2CvCyf1gEVhI0mX6aFXmVI"
+          }, 
+          {
+            "name": "Good Rockin' Doopsie", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6KvhjquaYpKFTc166zucMu"
+            }, 
+            "uri": "spotify:artist:6KvhjquaYpKFTc166zucMu", 
+            "href": "https://api.spotify.com/v1/artists/6KvhjquaYpKFTc166zucMu", 
+            "type": "artist", 
+            "id": "6KvhjquaYpKFTc166zucMu"
+          }, 
+          {
+            "name": "The Twisters", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3G10MpLg8bfsfpid3WHEor"
+            }, 
+            "uri": "spotify:artist:3G10MpLg8bfsfpid3WHEor", 
+            "href": "https://api.spotify.com/v1/artists/3G10MpLg8bfsfpid3WHEor", 
+            "type": "artist", 
+            "id": "3G10MpLg8bfsfpid3WHEor"
+          }
+        ], 
+        "duration_ms": 172813, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "2WBzF0a3DDzqjNF8V3ApAw"
+      }, 
+      {
+        "name": "All Around the World or the Myth of Fingerprints", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Yer5J62AsSebsDBr7xla6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b6b062c50960db0edd1d68822f0a48376ece6861", 
+        "is_playable": true, 
+        "uri": "spotify:track:4Yer5J62AsSebsDBr7xla6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4Yer5J62AsSebsDBr7xla6", 
+        "artists": [
+          {
+            "name": "Paul Simon", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+            }, 
+            "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI", 
+            "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI", 
+            "type": "artist", 
+            "id": "2CvCyf1gEVhI0mX6aFXmVI"
+          }, 
+          {
+            "name": "Los Lobos", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
+            }, 
+            "uri": "spotify:artist:6OWapcJm9xd55ci9CYbAuT", 
+            "href": "https://api.spotify.com/v1/artists/6OWapcJm9xd55ci9CYbAuT", 
+            "type": "artist", 
+            "id": "6OWapcJm9xd55ci9CYbAuT"
+          }
+        ], 
+        "duration_ms": 197533, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "4Yer5J62AsSebsDBr7xla6"
+      }, 
+      {
+        "name": "Homeless (Demo)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/22kWVu7uDmXDWENT5fUKH3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/83ed5f3581ca65843acf387f21553a692a626134", 
+        "is_playable": true, 
+        "uri": "spotify:track:22kWVu7uDmXDWENT5fUKH3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/22kWVu7uDmXDWENT5fUKH3", 
+        "artists": [
+          {
+            "name": "Paul Simon", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+            }, 
+            "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI", 
+            "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI", 
+            "type": "artist", 
+            "id": "2CvCyf1gEVhI0mX6aFXmVI"
+          }
+        ], 
+        "duration_ms": 150733, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "22kWVu7uDmXDWENT5fUKH3"
+      }, 
+      {
+        "name": "Diamonds on the Soles of Her Shoes (Unreleased Version) - Alternate Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2zUYlhVoLdTFgOXVYmwq5j"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/014f39dc1e4beae8bdb48d18fb8b4ff5d7813849", 
+        "is_playable": true, 
+        "uri": "spotify:track:2zUYlhVoLdTFgOXVYmwq5j", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2zUYlhVoLdTFgOXVYmwq5j", 
+        "artists": [
+          {
+            "name": "Paul Simon", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+            }, 
+            "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI", 
+            "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI", 
+            "type": "artist", 
+            "id": "2CvCyf1gEVhI0mX6aFXmVI"
+          }
+        ], 
+        "duration_ms": 281333, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "2zUYlhVoLdTFgOXVYmwq5j"
+      }, 
+      {
+        "name": "All Around the World or the Myth of Fingerprints (Early Version) - Early Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4jSqmbZinf7lYyNomskIix"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/eb300bc96eb69880ce753244d489774315d2607c", 
+        "is_playable": true, 
+        "uri": "spotify:track:4jSqmbZinf7lYyNomskIix", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4jSqmbZinf7lYyNomskIix", 
+        "artists": [
+          {
+            "name": "Paul Simon", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+            }, 
+            "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI", 
+            "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI", 
+            "type": "artist", 
+            "id": "2CvCyf1gEVhI0mX6aFXmVI"
+          }
+        ], 
+        "duration_ms": 197733, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "4jSqmbZinf7lYyNomskIix"
+      }, 
+      {
+        "name": "You Can Call Me Al - Demo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2ZkPJN0lHx7dZSfZ0LdHpE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1a2451e8ddfef87088af534d66be64673bca8fe9", 
+        "is_playable": true, 
+        "uri": "spotify:track:2ZkPJN0lHx7dZSfZ0LdHpE", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2ZkPJN0lHx7dZSfZ0LdHpE", 
+        "artists": [
+          {
+            "name": "Paul Simon", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+            }, 
+            "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI", 
+            "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI", 
+            "type": "artist", 
+            "id": "2CvCyf1gEVhI0mX6aFXmVI"
+          }
+        ], 
+        "duration_ms": 124120, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "2ZkPJN0lHx7dZSfZ0LdHpE"
+      }, 
+      {
+        "name": "Crazy Love - Demo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1x44b9WUQCferJvgKd2kGi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/84d91a58d91abc94552a164772f485ea5ede0fb6", 
+        "is_playable": true, 
+        "uri": "spotify:track:1x44b9WUQCferJvgKd2kGi", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1x44b9WUQCferJvgKd2kGi", 
+        "artists": [
+          {
+            "name": "Paul Simon", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+            }, 
+            "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI", 
+            "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI", 
+            "type": "artist", 
+            "id": "2CvCyf1gEVhI0mX6aFXmVI"
+          }
+        ], 
+        "duration_ms": 151120, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "1x44b9WUQCferJvgKd2kGi"
+      }, 
+      {
+        "name": "The Story of \"Graceland\" as Told by Paul Simon", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6qxXWHksQRKpRAjxzuS0Vs"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/def6d006e3c67d560123dd2504e06a991ef42858", 
+        "is_playable": true, 
+        "uri": "spotify:track:6qxXWHksQRKpRAjxzuS0Vs", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6qxXWHksQRKpRAjxzuS0Vs", 
+        "artists": [
+          {
+            "name": "Paul Simon", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+            }, 
+            "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI", 
+            "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI", 
+            "type": "artist", 
+            "id": "2CvCyf1gEVhI0mX6aFXmVI"
+          }
+        ], 
+        "duration_ms": 577013, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "6qxXWHksQRKpRAjxzuS0Vs"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/6WgGWYw6XXQyLTsWt7tXky/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 17, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/6WgGWYw6XXQyLTsWt7tXky", 
+  "copyrights": [
+    {
+      "text": "(P) 2012 Paul Simon under exclusive license of Sony Music Entertainment", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Paul Simon", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+      }, 
+      "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI", 
+      "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI", 
+      "type": "artist", 
+      "id": "2CvCyf1gEVhI0mX6aFXmVI"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/2d30e0ac58fedb3ccd4c037c4497297b9286a3fb", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/758fd9098301a86cd92442b2efe3806a88e909da", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/e7d1f1cb9cda10c454610992189bb4b2d0e959af", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "886443445680"
+  }, 
+  "type": "album", 
+  "id": "6WgGWYw6XXQyLTsWt7tXky", 
+  "name": "Graceland (25th Anniversary Deluxe Edition)"
+}

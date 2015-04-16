@@ -1,0 +1,431 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0Io0LirRuQhO2l3OMmgfpO"
+  }, 
+  "release_date": "1996-02-20", 
+  "popularity": 45, 
+  "genres": [], 
+  "uri": "spotify:album:0Io0LirRuQhO2l3OMmgfpO", 
+  "tracks": {
+    "items": [
+      {
+        "name": "The Fun Lovin' Criminal", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3GzbRd7O84Jnd5RsuzgrCw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f6665b44c64512cf0012550c8437c59ed45334e8", 
+        "is_playable": true, 
+        "uri": "spotify:track:3GzbRd7O84Jnd5RsuzgrCw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3GzbRd7O84Jnd5RsuzgrCw", 
+        "artists": [
+          {
+            "name": "Fun Lovin' Criminals", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0hWRiJV8KlRZvsZeemUJVv"
+            }, 
+            "uri": "spotify:artist:0hWRiJV8KlRZvsZeemUJVv", 
+            "href": "https://api.spotify.com/v1/artists/0hWRiJV8KlRZvsZeemUJVv", 
+            "type": "artist", 
+            "id": "0hWRiJV8KlRZvsZeemUJVv"
+          }
+        ], 
+        "duration_ms": 191800, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "3GzbRd7O84Jnd5RsuzgrCw"
+      }, 
+      {
+        "name": "Passive/Aggressive", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/08l7JrlUvZkbMgInqzdRO1"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/864ab1c32366bb0f72637189457d48d0804b14d3", 
+        "is_playable": true, 
+        "uri": "spotify:track:08l7JrlUvZkbMgInqzdRO1", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/08l7JrlUvZkbMgInqzdRO1", 
+        "artists": [
+          {
+            "name": "Fun Lovin' Criminals", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0hWRiJV8KlRZvsZeemUJVv"
+            }, 
+            "uri": "spotify:artist:0hWRiJV8KlRZvsZeemUJVv", 
+            "href": "https://api.spotify.com/v1/artists/0hWRiJV8KlRZvsZeemUJVv", 
+            "type": "artist", 
+            "id": "0hWRiJV8KlRZvsZeemUJVv"
+          }
+        ], 
+        "duration_ms": 213026, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "08l7JrlUvZkbMgInqzdRO1"
+      }, 
+      {
+        "name": "The Grave And The Constant", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/03GDUmHuWURgElGRD8NHoD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fe2a740962de7cfebf18408af6b0e7d7ca2c7318", 
+        "is_playable": true, 
+        "uri": "spotify:track:03GDUmHuWURgElGRD8NHoD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/03GDUmHuWURgElGRD8NHoD", 
+        "artists": [
+          {
+            "name": "Fun Lovin' Criminals", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0hWRiJV8KlRZvsZeemUJVv"
+            }, 
+            "uri": "spotify:artist:0hWRiJV8KlRZvsZeemUJVv", 
+            "href": "https://api.spotify.com/v1/artists/0hWRiJV8KlRZvsZeemUJVv", 
+            "type": "artist", 
+            "id": "0hWRiJV8KlRZvsZeemUJVv"
+          }
+        ], 
+        "duration_ms": 286533, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "03GDUmHuWURgElGRD8NHoD"
+      }, 
+      {
+        "name": "Scooby Snacks", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1OFvNaRHw4QkUzWf1aZw1V"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6617978ad5c0d52fc70cdbf4691b2bcf6bb1adde", 
+        "is_playable": true, 
+        "uri": "spotify:track:1OFvNaRHw4QkUzWf1aZw1V", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1OFvNaRHw4QkUzWf1aZw1V", 
+        "artists": [
+          {
+            "name": "Fun Lovin' Criminals", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0hWRiJV8KlRZvsZeemUJVv"
+            }, 
+            "uri": "spotify:artist:0hWRiJV8KlRZvsZeemUJVv", 
+            "href": "https://api.spotify.com/v1/artists/0hWRiJV8KlRZvsZeemUJVv", 
+            "type": "artist", 
+            "id": "0hWRiJV8KlRZvsZeemUJVv"
+          }
+        ], 
+        "duration_ms": 184733, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "1OFvNaRHw4QkUzWf1aZw1V"
+      }, 
+      {
+        "name": "Smoke 'Em", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6K1HSPzIwdp8omF7GmM7qo"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4f67dfa185d05966669a72a23c3f3bbbef4f1277", 
+        "is_playable": true, 
+        "uri": "spotify:track:6K1HSPzIwdp8omF7GmM7qo", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6K1HSPzIwdp8omF7GmM7qo", 
+        "artists": [
+          {
+            "name": "Fun Lovin' Criminals", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0hWRiJV8KlRZvsZeemUJVv"
+            }, 
+            "uri": "spotify:artist:0hWRiJV8KlRZvsZeemUJVv", 
+            "href": "https://api.spotify.com/v1/artists/0hWRiJV8KlRZvsZeemUJVv", 
+            "type": "artist", 
+            "id": "0hWRiJV8KlRZvsZeemUJVv"
+          }
+        ], 
+        "duration_ms": 285973, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "6K1HSPzIwdp8omF7GmM7qo"
+      }, 
+      {
+        "name": "Bombin' The L", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5NHcKEUHT1LvwE37HWWsnT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2f3dedcadb16648dea2ba2eeda01fb32e9f4fba2", 
+        "is_playable": true, 
+        "uri": "spotify:track:5NHcKEUHT1LvwE37HWWsnT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5NHcKEUHT1LvwE37HWWsnT", 
+        "artists": [
+          {
+            "name": "Fun Lovin' Criminals", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0hWRiJV8KlRZvsZeemUJVv"
+            }, 
+            "uri": "spotify:artist:0hWRiJV8KlRZvsZeemUJVv", 
+            "href": "https://api.spotify.com/v1/artists/0hWRiJV8KlRZvsZeemUJVv", 
+            "type": "artist", 
+            "id": "0hWRiJV8KlRZvsZeemUJVv"
+          }
+        ], 
+        "duration_ms": 231600, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "5NHcKEUHT1LvwE37HWWsnT"
+      }, 
+      {
+        "name": "I Can't Get With That", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/40pbFJl0ydjbUgYNBpfQzr"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ade45d1c4f970100d3438b2483ef943f3c136dea", 
+        "is_playable": true, 
+        "uri": "spotify:track:40pbFJl0ydjbUgYNBpfQzr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/40pbFJl0ydjbUgYNBpfQzr", 
+        "artists": [
+          {
+            "name": "Fun Lovin' Criminals", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0hWRiJV8KlRZvsZeemUJVv"
+            }, 
+            "uri": "spotify:artist:0hWRiJV8KlRZvsZeemUJVv", 
+            "href": "https://api.spotify.com/v1/artists/0hWRiJV8KlRZvsZeemUJVv", 
+            "type": "artist", 
+            "id": "0hWRiJV8KlRZvsZeemUJVv"
+          }
+        ], 
+        "duration_ms": 264893, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "40pbFJl0ydjbUgYNBpfQzr"
+      }, 
+      {
+        "name": "King Of New York", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/79MKAS4ldmDZyC6CgNmAsI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2fe1e501370d60312d580100904d1a8f7ea73820", 
+        "is_playable": true, 
+        "uri": "spotify:track:79MKAS4ldmDZyC6CgNmAsI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/79MKAS4ldmDZyC6CgNmAsI", 
+        "artists": [
+          {
+            "name": "Fun Lovin' Criminals", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0hWRiJV8KlRZvsZeemUJVv"
+            }, 
+            "uri": "spotify:artist:0hWRiJV8KlRZvsZeemUJVv", 
+            "href": "https://api.spotify.com/v1/artists/0hWRiJV8KlRZvsZeemUJVv", 
+            "type": "artist", 
+            "id": "0hWRiJV8KlRZvsZeemUJVv"
+          }
+        ], 
+        "duration_ms": 226840, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "79MKAS4ldmDZyC6CgNmAsI"
+      }, 
+      {
+        "name": "We Have All The Time In The World", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1QQZpkvo35W2MZvI55kqOf"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4c220903b5e0b9d053bd50988e656744e47f9f34", 
+        "is_playable": true, 
+        "uri": "spotify:track:1QQZpkvo35W2MZvI55kqOf", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1QQZpkvo35W2MZvI55kqOf", 
+        "artists": [
+          {
+            "name": "Fun Lovin' Criminals", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0hWRiJV8KlRZvsZeemUJVv"
+            }, 
+            "uri": "spotify:artist:0hWRiJV8KlRZvsZeemUJVv", 
+            "href": "https://api.spotify.com/v1/artists/0hWRiJV8KlRZvsZeemUJVv", 
+            "type": "artist", 
+            "id": "0hWRiJV8KlRZvsZeemUJVv"
+          }
+        ], 
+        "duration_ms": 221293, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "1QQZpkvo35W2MZvI55kqOf"
+      }, 
+      {
+        "name": "Bear Hug", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/44uHgtnHHZwKmSf2czzEYC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/496d21a2e796f43c49bd3f1252e4bc2f1a66c8cf", 
+        "is_playable": true, 
+        "uri": "spotify:track:44uHgtnHHZwKmSf2czzEYC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/44uHgtnHHZwKmSf2czzEYC", 
+        "artists": [
+          {
+            "name": "Fun Lovin' Criminals", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0hWRiJV8KlRZvsZeemUJVv"
+            }, 
+            "uri": "spotify:artist:0hWRiJV8KlRZvsZeemUJVv", 
+            "href": "https://api.spotify.com/v1/artists/0hWRiJV8KlRZvsZeemUJVv", 
+            "type": "artist", 
+            "id": "0hWRiJV8KlRZvsZeemUJVv"
+          }
+        ], 
+        "duration_ms": 207760, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "44uHgtnHHZwKmSf2czzEYC"
+      }, 
+      {
+        "name": "Come Find Yourself", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7g7wVLXb0KsElGafD7NggS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/369721130c8bb90586b1149b768913fed984bd05", 
+        "is_playable": true, 
+        "uri": "spotify:track:7g7wVLXb0KsElGafD7NggS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7g7wVLXb0KsElGafD7NggS", 
+        "artists": [
+          {
+            "name": "Fun Lovin' Criminals", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0hWRiJV8KlRZvsZeemUJVv"
+            }, 
+            "uri": "spotify:artist:0hWRiJV8KlRZvsZeemUJVv", 
+            "href": "https://api.spotify.com/v1/artists/0hWRiJV8KlRZvsZeemUJVv", 
+            "type": "artist", 
+            "id": "0hWRiJV8KlRZvsZeemUJVv"
+          }
+        ], 
+        "duration_ms": 259640, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "7g7wVLXb0KsElGafD7NggS"
+      }, 
+      {
+        "name": "Crime And Punishment", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0ryXIDOf8ASSIZvMXHEJWr"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/09a3477a39559c1cf39691a40ec4a87c6c86d835", 
+        "is_playable": true, 
+        "uri": "spotify:track:0ryXIDOf8ASSIZvMXHEJWr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0ryXIDOf8ASSIZvMXHEJWr", 
+        "artists": [
+          {
+            "name": "Fun Lovin' Criminals", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0hWRiJV8KlRZvsZeemUJVv"
+            }, 
+            "uri": "spotify:artist:0hWRiJV8KlRZvsZeemUJVv", 
+            "href": "https://api.spotify.com/v1/artists/0hWRiJV8KlRZvsZeemUJVv", 
+            "type": "artist", 
+            "id": "0hWRiJV8KlRZvsZeemUJVv"
+          }
+        ], 
+        "duration_ms": 199506, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "0ryXIDOf8ASSIZvMXHEJWr"
+      }, 
+      {
+        "name": "Methadonia", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5xJkqvaU63wrnCquFRaSug"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/63bff15266c9b2a1d60d587138d1e76709d6f8fe", 
+        "is_playable": true, 
+        "uri": "spotify:track:5xJkqvaU63wrnCquFRaSug", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5xJkqvaU63wrnCquFRaSug", 
+        "artists": [
+          {
+            "name": "Fun Lovin' Criminals", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0hWRiJV8KlRZvsZeemUJVv"
+            }, 
+            "uri": "spotify:artist:0hWRiJV8KlRZvsZeemUJVv", 
+            "href": "https://api.spotify.com/v1/artists/0hWRiJV8KlRZvsZeemUJVv", 
+            "type": "artist", 
+            "id": "0hWRiJV8KlRZvsZeemUJVv"
+          }
+        ], 
+        "duration_ms": 244533, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "5xJkqvaU63wrnCquFRaSug"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/0Io0LirRuQhO2l3OMmgfpO/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 13, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/0Io0LirRuQhO2l3OMmgfpO", 
+  "copyrights": [
+    {
+      "text": "1996 Parlophone Records Ltd", 
+      "type": "C"
+    }, 
+    {
+      "text": "1996 Parlophone Records Ltd. All rights reserved. Unauthorized reproduction is a violation of applicable laws.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Fun Lovin' Criminals", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0hWRiJV8KlRZvsZeemUJVv"
+      }, 
+      "uri": "spotify:artist:0hWRiJV8KlRZvsZeemUJVv", 
+      "href": "https://api.spotify.com/v1/artists/0hWRiJV8KlRZvsZeemUJVv", 
+      "type": "artist", 
+      "id": "0hWRiJV8KlRZvsZeemUJVv"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/355d32108a3384342de67b538e8ebfdbcfd2664e", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/ec095f801d14cd60ccefe3850e2733d1400b5adf", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/eb2aa20f77dfac49655b2dfb830bb1f4809b99d1", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "0724383570355"
+  }, 
+  "type": "album", 
+  "id": "0Io0LirRuQhO2l3OMmgfpO", 
+  "name": "Come Find Yourself"
+}

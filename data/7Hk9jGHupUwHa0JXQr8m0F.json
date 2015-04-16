@@ -1,0 +1,705 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7Hk9jGHupUwHa0JXQr8m0F"
+  }, 
+  "release_date": "1972", 
+  "popularity": 43, 
+  "genres": [], 
+  "uri": "spotify:album:7Hk9jGHupUwHa0JXQr8m0F", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Tudo o Que Voc\u00ea Podia Ser", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4iNgXqTD2uux9GH4lTnNaN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/14ca7a2cea3c2919b12a447fbc0b6b3dfcee42ae", 
+        "is_playable": true, 
+        "uri": "spotify:track:4iNgXqTD2uux9GH4lTnNaN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4iNgXqTD2uux9GH4lTnNaN", 
+        "artists": [
+          {
+            "name": "Milton Nascimento", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+            }, 
+            "uri": "spotify:artist:3Bnq7jiU506HcPjRgQ43TM", 
+            "href": "https://api.spotify.com/v1/artists/3Bnq7jiU506HcPjRgQ43TM", 
+            "type": "artist", 
+            "id": "3Bnq7jiU506HcPjRgQ43TM"
+          }
+        ], 
+        "duration_ms": 177000, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "4iNgXqTD2uux9GH4lTnNaN"
+      }, 
+      {
+        "name": "Cais", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3TZWujaYzkIxj0Encx4pbe"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0a8c80b9418a67e08453577159b5f53e8d00b506", 
+        "is_playable": true, 
+        "uri": "spotify:track:3TZWujaYzkIxj0Encx4pbe", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3TZWujaYzkIxj0Encx4pbe", 
+        "artists": [
+          {
+            "name": "Milton Nascimento", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+            }, 
+            "uri": "spotify:artist:3Bnq7jiU506HcPjRgQ43TM", 
+            "href": "https://api.spotify.com/v1/artists/3Bnq7jiU506HcPjRgQ43TM", 
+            "type": "artist", 
+            "id": "3Bnq7jiU506HcPjRgQ43TM"
+          }
+        ], 
+        "duration_ms": 165360, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "3TZWujaYzkIxj0Encx4pbe"
+      }, 
+      {
+        "name": "O Trem Azul", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0zK8rz7eJdY9lwO8C6ZpER"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f300ffcdf26d0aeff71701fb0ebf5b3e3bc3b157", 
+        "is_playable": true, 
+        "uri": "spotify:track:0zK8rz7eJdY9lwO8C6ZpER", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0zK8rz7eJdY9lwO8C6ZpER", 
+        "artists": [
+          {
+            "name": "Lo Borges", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT"
+            }, 
+            "uri": "spotify:artist:1mZbRiSVb2ExneAlDbBiiT", 
+            "href": "https://api.spotify.com/v1/artists/1mZbRiSVb2ExneAlDbBiiT", 
+            "type": "artist", 
+            "id": "1mZbRiSVb2ExneAlDbBiiT"
+          }
+        ], 
+        "duration_ms": 245466, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "0zK8rz7eJdY9lwO8C6ZpER"
+      }, 
+      {
+        "name": "Sa\u00eddas E Bandeiras N\u00ba 1", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2IRPvycbuLXhk41w7OPqQI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fc2f23caefdfae58bb79f51b85a2d3a9f4446e7b", 
+        "is_playable": true, 
+        "uri": "spotify:track:2IRPvycbuLXhk41w7OPqQI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2IRPvycbuLXhk41w7OPqQI", 
+        "artists": [
+          {
+            "name": "Milton Nascimento", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+            }, 
+            "uri": "spotify:artist:3Bnq7jiU506HcPjRgQ43TM", 
+            "href": "https://api.spotify.com/v1/artists/3Bnq7jiU506HcPjRgQ43TM", 
+            "type": "artist", 
+            "id": "3Bnq7jiU506HcPjRgQ43TM"
+          }, 
+          {
+            "name": "Beto Guedes", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ijgnqYvE1INXb1NSVT11m"
+            }, 
+            "uri": "spotify:artist:4ijgnqYvE1INXb1NSVT11m", 
+            "href": "https://api.spotify.com/v1/artists/4ijgnqYvE1INXb1NSVT11m", 
+            "type": "artist", 
+            "id": "4ijgnqYvE1INXb1NSVT11m"
+          }
+        ], 
+        "duration_ms": 45306, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "2IRPvycbuLXhk41w7OPqQI"
+      }, 
+      {
+        "name": "Nuvem Cigana", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Qqe52j0WOohzAVVPCrtaA"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9f68d650ceef3e21af1cada326b29d9ac6f23521", 
+        "is_playable": true, 
+        "uri": "spotify:track:3Qqe52j0WOohzAVVPCrtaA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3Qqe52j0WOohzAVVPCrtaA", 
+        "artists": [
+          {
+            "name": "Milton Nascimento", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+            }, 
+            "uri": "spotify:artist:3Bnq7jiU506HcPjRgQ43TM", 
+            "href": "https://api.spotify.com/v1/artists/3Bnq7jiU506HcPjRgQ43TM", 
+            "type": "artist", 
+            "id": "3Bnq7jiU506HcPjRgQ43TM"
+          }
+        ], 
+        "duration_ms": 179826, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "3Qqe52j0WOohzAVVPCrtaA"
+      }, 
+      {
+        "name": "Cravo e Canela - feat. L\u00f4 Borges", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3FBt52I3lgpZRA5MdYHQ16"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7e7ebda8fa14024a60b51ac53a22275226aa9df6", 
+        "is_playable": true, 
+        "uri": "spotify:track:3FBt52I3lgpZRA5MdYHQ16", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3FBt52I3lgpZRA5MdYHQ16", 
+        "artists": [
+          {
+            "name": "Milton Nascimento", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+            }, 
+            "uri": "spotify:artist:3Bnq7jiU506HcPjRgQ43TM", 
+            "href": "https://api.spotify.com/v1/artists/3Bnq7jiU506HcPjRgQ43TM", 
+            "type": "artist", 
+            "id": "3Bnq7jiU506HcPjRgQ43TM"
+          }, 
+          {
+            "name": "Lo Borges", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT"
+            }, 
+            "uri": "spotify:artist:1mZbRiSVb2ExneAlDbBiiT", 
+            "href": "https://api.spotify.com/v1/artists/1mZbRiSVb2ExneAlDbBiiT", 
+            "type": "artist", 
+            "id": "1mZbRiSVb2ExneAlDbBiiT"
+          }
+        ], 
+        "duration_ms": 151800, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "3FBt52I3lgpZRA5MdYHQ16"
+      }, 
+      {
+        "name": "Dos Cruces", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4AnemwpgC1FDhgmwEeGEbf"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/98f6c22091f098a548f1cb53f5618c6fce6f38ba", 
+        "is_playable": true, 
+        "uri": "spotify:track:4AnemwpgC1FDhgmwEeGEbf", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4AnemwpgC1FDhgmwEeGEbf", 
+        "artists": [
+          {
+            "name": "Milton Nascimento", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+            }, 
+            "uri": "spotify:artist:3Bnq7jiU506HcPjRgQ43TM", 
+            "href": "https://api.spotify.com/v1/artists/3Bnq7jiU506HcPjRgQ43TM", 
+            "type": "artist", 
+            "id": "3Bnq7jiU506HcPjRgQ43TM"
+          }
+        ], 
+        "duration_ms": 322106, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "4AnemwpgC1FDhgmwEeGEbf"
+      }, 
+      {
+        "name": "Um Girassol da Cor do Seu Cabelo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0ElgcjFAHHj9ZvQfTOWm7v"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4c754ec252b6131f3d1d22b8684e82250471d553", 
+        "is_playable": true, 
+        "uri": "spotify:track:0ElgcjFAHHj9ZvQfTOWm7v", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0ElgcjFAHHj9ZvQfTOWm7v", 
+        "artists": [
+          {
+            "name": "Lo Borges", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT"
+            }, 
+            "uri": "spotify:artist:1mZbRiSVb2ExneAlDbBiiT", 
+            "href": "https://api.spotify.com/v1/artists/1mZbRiSVb2ExneAlDbBiiT", 
+            "type": "artist", 
+            "id": "1mZbRiSVb2ExneAlDbBiiT"
+          }
+        ], 
+        "duration_ms": 252800, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "0ElgcjFAHHj9ZvQfTOWm7v"
+      }, 
+      {
+        "name": "San Vicente", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6SvmIXFq0L445ETSrng9uF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/40fb04a381247bf0b0ac4a1ee145b1650aaba6b1", 
+        "is_playable": true, 
+        "uri": "spotify:track:6SvmIXFq0L445ETSrng9uF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6SvmIXFq0L445ETSrng9uF", 
+        "artists": [
+          {
+            "name": "Milton Nascimento", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+            }, 
+            "uri": "spotify:artist:3Bnq7jiU506HcPjRgQ43TM", 
+            "href": "https://api.spotify.com/v1/artists/3Bnq7jiU506HcPjRgQ43TM", 
+            "type": "artist", 
+            "id": "3Bnq7jiU506HcPjRgQ43TM"
+          }
+        ], 
+        "duration_ms": 166600, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "6SvmIXFq0L445ETSrng9uF"
+      }, 
+      {
+        "name": "Estrela", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4gL8TC8BK4RXMH5HJHc8a2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b6061db8af43a0199c7a4ddd4cdbbe333b9f1a27", 
+        "is_playable": true, 
+        "uri": "spotify:track:4gL8TC8BK4RXMH5HJHc8a2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4gL8TC8BK4RXMH5HJHc8a2", 
+        "artists": [
+          {
+            "name": "Lo Borges", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT"
+            }, 
+            "uri": "spotify:artist:1mZbRiSVb2ExneAlDbBiiT", 
+            "href": "https://api.spotify.com/v1/artists/1mZbRiSVb2ExneAlDbBiiT", 
+            "type": "artist", 
+            "id": "1mZbRiSVb2ExneAlDbBiiT"
+          }
+        ], 
+        "duration_ms": 28560, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "4gL8TC8BK4RXMH5HJHc8a2"
+      }, 
+      {
+        "name": "Clube Da Esquina N\u00ba 2", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6jVWIRz01vnJ1VE8LtWK6Q"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4560865b0f46c718a1c135afec42bdf311986551", 
+        "is_playable": true, 
+        "uri": "spotify:track:6jVWIRz01vnJ1VE8LtWK6Q", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6jVWIRz01vnJ1VE8LtWK6Q", 
+        "artists": [
+          {
+            "name": "Milton Nascimento", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+            }, 
+            "uri": "spotify:artist:3Bnq7jiU506HcPjRgQ43TM", 
+            "href": "https://api.spotify.com/v1/artists/3Bnq7jiU506HcPjRgQ43TM", 
+            "type": "artist", 
+            "id": "3Bnq7jiU506HcPjRgQ43TM"
+          }
+        ], 
+        "duration_ms": 218573, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "6jVWIRz01vnJ1VE8LtWK6Q"
+      }, 
+      {
+        "name": "Paisagem da Janela", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5FNBwhRgHZSL4mIcFgagFK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/07d4a31c459e336d0374854c6c5185f3fa1b7623", 
+        "is_playable": true, 
+        "uri": "spotify:track:5FNBwhRgHZSL4mIcFgagFK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5FNBwhRgHZSL4mIcFgagFK", 
+        "artists": [
+          {
+            "name": "Lo Borges", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT"
+            }, 
+            "uri": "spotify:artist:1mZbRiSVb2ExneAlDbBiiT", 
+            "href": "https://api.spotify.com/v1/artists/1mZbRiSVb2ExneAlDbBiiT", 
+            "type": "artist", 
+            "id": "1mZbRiSVb2ExneAlDbBiiT"
+          }
+        ], 
+        "duration_ms": 178226, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "5FNBwhRgHZSL4mIcFgagFK"
+      }, 
+      {
+        "name": "Me Deixa Em Paz - feat. Milton Nascimento", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1slxk4MTyruWW0zoWF1Gbj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c2dc376b14a4521deed1849cd0ff56ad1c16548b", 
+        "is_playable": true, 
+        "uri": "spotify:track:1slxk4MTyruWW0zoWF1Gbj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1slxk4MTyruWW0zoWF1Gbj", 
+        "artists": [
+          {
+            "name": "Milton Nascimento", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+            }, 
+            "uri": "spotify:artist:3Bnq7jiU506HcPjRgQ43TM", 
+            "href": "https://api.spotify.com/v1/artists/3Bnq7jiU506HcPjRgQ43TM", 
+            "type": "artist", 
+            "id": "3Bnq7jiU506HcPjRgQ43TM"
+          }, 
+          {
+            "name": "Ala\u00edde Costa", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs"
+            }, 
+            "uri": "spotify:artist:2KkoeJkkFr802J5gPjlRGs", 
+            "href": "https://api.spotify.com/v1/artists/2KkoeJkkFr802J5gPjlRGs", 
+            "type": "artist", 
+            "id": "2KkoeJkkFr802J5gPjlRGs"
+          }
+        ], 
+        "duration_ms": 185573, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "1slxk4MTyruWW0zoWF1Gbj"
+      }, 
+      {
+        "name": "Os Povos", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7rcDNbjbSkA6XvPWrORrRi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9356e4dfeef16fe89d3c30887918eb008b2f1779", 
+        "is_playable": true, 
+        "uri": "spotify:track:7rcDNbjbSkA6XvPWrORrRi", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7rcDNbjbSkA6XvPWrORrRi", 
+        "artists": [
+          {
+            "name": "Milton Nascimento", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+            }, 
+            "uri": "spotify:artist:3Bnq7jiU506HcPjRgQ43TM", 
+            "href": "https://api.spotify.com/v1/artists/3Bnq7jiU506HcPjRgQ43TM", 
+            "type": "artist", 
+            "id": "3Bnq7jiU506HcPjRgQ43TM"
+          }
+        ], 
+        "duration_ms": 270960, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "7rcDNbjbSkA6XvPWrORrRi"
+      }, 
+      {
+        "name": "Sa\u00eddas E Bandeiras N\u00ba 2", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1TXcNxPHBFFW2f2OSzMdpu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cda2890543a8c0c170a7d08cd2028a2bd0625142", 
+        "is_playable": true, 
+        "uri": "spotify:track:1TXcNxPHBFFW2f2OSzMdpu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1TXcNxPHBFFW2f2OSzMdpu", 
+        "artists": [
+          {
+            "name": "Milton Nascimento", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+            }, 
+            "uri": "spotify:artist:3Bnq7jiU506HcPjRgQ43TM", 
+            "href": "https://api.spotify.com/v1/artists/3Bnq7jiU506HcPjRgQ43TM", 
+            "type": "artist", 
+            "id": "3Bnq7jiU506HcPjRgQ43TM"
+          }, 
+          {
+            "name": "Beto Guedes", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ijgnqYvE1INXb1NSVT11m"
+            }, 
+            "uri": "spotify:artist:4ijgnqYvE1INXb1NSVT11m", 
+            "href": "https://api.spotify.com/v1/artists/4ijgnqYvE1INXb1NSVT11m", 
+            "type": "artist", 
+            "id": "4ijgnqYvE1INXb1NSVT11m"
+          }
+        ], 
+        "duration_ms": 90733, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "1TXcNxPHBFFW2f2OSzMdpu"
+      }, 
+      {
+        "name": "Um Gosto De Sol", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2nHsFt32GaOncuwX36i2Ai"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b9c0cc008e519dba091985ab6155cdf26b6a2ccd", 
+        "is_playable": true, 
+        "uri": "spotify:track:2nHsFt32GaOncuwX36i2Ai", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2nHsFt32GaOncuwX36i2Ai", 
+        "artists": [
+          {
+            "name": "Milton Nascimento", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+            }, 
+            "uri": "spotify:artist:3Bnq7jiU506HcPjRgQ43TM", 
+            "href": "https://api.spotify.com/v1/artists/3Bnq7jiU506HcPjRgQ43TM", 
+            "type": "artist", 
+            "id": "3Bnq7jiU506HcPjRgQ43TM"
+          }
+        ], 
+        "duration_ms": 260640, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "2nHsFt32GaOncuwX36i2Ai"
+      }, 
+      {
+        "name": "Pelo Amor De Deus", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0LBqedI7HHG5PeDBInQ2As"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/578bcdfea72c2d5f3cdb5bd4f01bfb4136a70b89", 
+        "is_playable": true, 
+        "uri": "spotify:track:0LBqedI7HHG5PeDBInQ2As", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0LBqedI7HHG5PeDBInQ2As", 
+        "artists": [
+          {
+            "name": "Milton Nascimento", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+            }, 
+            "uri": "spotify:artist:3Bnq7jiU506HcPjRgQ43TM", 
+            "href": "https://api.spotify.com/v1/artists/3Bnq7jiU506HcPjRgQ43TM", 
+            "type": "artist", 
+            "id": "3Bnq7jiU506HcPjRgQ43TM"
+          }
+        ], 
+        "duration_ms": 126066, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "0LBqedI7HHG5PeDBInQ2As"
+      }, 
+      {
+        "name": "Lilia", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2of3AblS9BU0CFwyjW4yiU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a2e91a43ddf65744700181e42897f236d0abb860", 
+        "is_playable": true, 
+        "uri": "spotify:track:2of3AblS9BU0CFwyjW4yiU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2of3AblS9BU0CFwyjW4yiU", 
+        "artists": [
+          {
+            "name": "Milton Nascimento", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+            }, 
+            "uri": "spotify:artist:3Bnq7jiU506HcPjRgQ43TM", 
+            "href": "https://api.spotify.com/v1/artists/3Bnq7jiU506HcPjRgQ43TM", 
+            "type": "artist", 
+            "id": "3Bnq7jiU506HcPjRgQ43TM"
+          }
+        ], 
+        "duration_ms": 153666, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "2of3AblS9BU0CFwyjW4yiU"
+      }, 
+      {
+        "name": "Trem de Doido", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0PXxfZENZI5Yql56yn7673"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/55d3f8e5d45ddc1fcc00505e7e3023e2c0002622", 
+        "is_playable": true, 
+        "uri": "spotify:track:0PXxfZENZI5Yql56yn7673", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0PXxfZENZI5Yql56yn7673", 
+        "artists": [
+          {
+            "name": "Lo Borges", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT"
+            }, 
+            "uri": "spotify:artist:1mZbRiSVb2ExneAlDbBiiT", 
+            "href": "https://api.spotify.com/v1/artists/1mZbRiSVb2ExneAlDbBiiT", 
+            "type": "artist", 
+            "id": "1mZbRiSVb2ExneAlDbBiiT"
+          }
+        ], 
+        "duration_ms": 238400, 
+        "track_number": 19, 
+        "type": "track", 
+        "id": "0PXxfZENZI5Yql56yn7673"
+      }, 
+      {
+        "name": "Nada Ser\u00e1 Como Antes - feat. Beto Guedes", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3hlvA3r5REV8tjnOZzCAmV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7b04ac06f5b84e8a273dd0346fe54a39a5a93bec", 
+        "is_playable": true, 
+        "uri": "spotify:track:3hlvA3r5REV8tjnOZzCAmV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3hlvA3r5REV8tjnOZzCAmV", 
+        "artists": [
+          {
+            "name": "Milton Nascimento", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+            }, 
+            "uri": "spotify:artist:3Bnq7jiU506HcPjRgQ43TM", 
+            "href": "https://api.spotify.com/v1/artists/3Bnq7jiU506HcPjRgQ43TM", 
+            "type": "artist", 
+            "id": "3Bnq7jiU506HcPjRgQ43TM"
+          }, 
+          {
+            "name": "Beto Guedes", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4ijgnqYvE1INXb1NSVT11m"
+            }, 
+            "uri": "spotify:artist:4ijgnqYvE1INXb1NSVT11m", 
+            "href": "https://api.spotify.com/v1/artists/4ijgnqYvE1INXb1NSVT11m", 
+            "type": "artist", 
+            "id": "4ijgnqYvE1INXb1NSVT11m"
+          }
+        ], 
+        "duration_ms": 203800, 
+        "track_number": 20, 
+        "type": "track", 
+        "id": "3hlvA3r5REV8tjnOZzCAmV"
+      }, 
+      {
+        "name": "Ao Que Vai Nascer", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5bk64YGHTZads6zN4Nrqoe"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/249803c2a5a96704e027eff191f75aebfb6decab", 
+        "is_playable": true, 
+        "uri": "spotify:track:5bk64YGHTZads6zN4Nrqoe", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5bk64YGHTZads6zN4Nrqoe", 
+        "artists": [
+          {
+            "name": "Milton Nascimento", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+            }, 
+            "uri": "spotify:artist:3Bnq7jiU506HcPjRgQ43TM", 
+            "href": "https://api.spotify.com/v1/artists/3Bnq7jiU506HcPjRgQ43TM", 
+            "type": "artist", 
+            "id": "3Bnq7jiU506HcPjRgQ43TM"
+          }
+        ], 
+        "duration_ms": 200626, 
+        "track_number": 21, 
+        "type": "track", 
+        "id": "5bk64YGHTZads6zN4Nrqoe"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/7Hk9jGHupUwHa0JXQr8m0F/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 21, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/7Hk9jGHupUwHa0JXQr8m0F", 
+  "copyrights": [
+    {
+      "text": "(C) 1995 EMI Records LtdThis label copy information is the subject of copyright protection. All rights reserved.(C) 1995 EMI Records Ltd", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1971 The copyright in this sound recording is owned by EMI Music Brazil LTDA", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Milton Nascimento", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+      }, 
+      "uri": "spotify:artist:3Bnq7jiU506HcPjRgQ43TM", 
+      "href": "https://api.spotify.com/v1/artists/3Bnq7jiU506HcPjRgQ43TM", 
+      "type": "artist", 
+      "id": "3Bnq7jiU506HcPjRgQ43TM"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/fabe96069f45ee579b962f3acd8cd73945850e86", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/7539e882e3ab22b9aedba27b9cf05fdd3f309e26", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/48c8776d309717bf017f51ae8b91931c6e84bf25", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00724383225958"
+  }, 
+  "type": "album", 
+  "id": "7Hk9jGHupUwHa0JXQr8m0F", 
+  "name": "Clube Da Esquina"
+}

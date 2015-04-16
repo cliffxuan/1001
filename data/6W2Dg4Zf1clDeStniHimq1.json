@@ -1,0 +1,375 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6W2Dg4Zf1clDeStniHimq1"
+  }, 
+  "release_date": "2000-10-09", 
+  "popularity": 29, 
+  "genres": [], 
+  "uri": "spotify:album:6W2Dg4Zf1clDeStniHimq1", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Keeping Pigs Together", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1w4xMh8oVSS5ylNtNYSwZX"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7bf3389051d29b189535c1f167d6ed27324bf0d0", 
+        "is_playable": true, 
+        "uri": "spotify:track:1w4xMh8oVSS5ylNtNYSwZX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1w4xMh8oVSS5ylNtNYSwZX", 
+        "artists": [
+          {
+            "name": "Red Snapper", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1BQtFnxZvAvTCZgTMlED0Q"
+            }, 
+            "uri": "spotify:artist:1BQtFnxZvAvTCZgTMlED0Q", 
+            "href": "https://api.spotify.com/v1/artists/1BQtFnxZvAvTCZgTMlED0Q", 
+            "type": "artist", 
+            "id": "1BQtFnxZvAvTCZgTMlED0Q"
+          }
+        ], 
+        "duration_ms": 323893, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "1w4xMh8oVSS5ylNtNYSwZX"
+      }, 
+      {
+        "name": "Some Kind Of Kink", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2QZnBvW9OB9KcEyfZMpCTO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c48af74da81eca2665c5329a43351733cf5df1a4", 
+        "is_playable": true, 
+        "uri": "spotify:track:2QZnBvW9OB9KcEyfZMpCTO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2QZnBvW9OB9KcEyfZMpCTO", 
+        "artists": [
+          {
+            "name": "Red Snapper feat. MC Det", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4M5pZByWrbyDDLdqoknQqA"
+            }, 
+            "uri": "spotify:artist:4M5pZByWrbyDDLdqoknQqA", 
+            "href": "https://api.spotify.com/v1/artists/4M5pZByWrbyDDLdqoknQqA", 
+            "type": "artist", 
+            "id": "4M5pZByWrbyDDLdqoknQqA"
+          }
+        ], 
+        "duration_ms": 325666, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "2QZnBvW9OB9KcEyfZMpCTO"
+      }, 
+      {
+        "name": "Shellback", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1PfG6p0YLTGXk4isx8NZ7S"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0c0aa37d909dd141796f145544426c8149ebdb23", 
+        "is_playable": true, 
+        "uri": "spotify:track:1PfG6p0YLTGXk4isx8NZ7S", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1PfG6p0YLTGXk4isx8NZ7S", 
+        "artists": [
+          {
+            "name": "Red Snapper", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1BQtFnxZvAvTCZgTMlED0Q"
+            }, 
+            "uri": "spotify:artist:1BQtFnxZvAvTCZgTMlED0Q", 
+            "href": "https://api.spotify.com/v1/artists/1BQtFnxZvAvTCZgTMlED0Q", 
+            "type": "artist", 
+            "id": "1BQtFnxZvAvTCZgTMlED0Q"
+          }
+        ], 
+        "duration_ms": 343466, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "1PfG6p0YLTGXk4isx8NZ7S"
+      }, 
+      {
+        "name": "Don't Go Nowhere", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/25wOPG4oSdSPqOVND8dbBh"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/871d39b5cee85777cba7ced7f6445566e031a9c2", 
+        "is_playable": true, 
+        "uri": "spotify:track:25wOPG4oSdSPqOVND8dbBh", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/25wOPG4oSdSPqOVND8dbBh", 
+        "artists": [
+          {
+            "name": "Red Snapper", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1BQtFnxZvAvTCZgTMlED0Q"
+            }, 
+            "uri": "spotify:artist:1BQtFnxZvAvTCZgTMlED0Q", 
+            "href": "https://api.spotify.com/v1/artists/1BQtFnxZvAvTCZgTMlED0Q", 
+            "type": "artist", 
+            "id": "1BQtFnxZvAvTCZgTMlED0Q"
+          }
+        ], 
+        "duration_ms": 290506, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "25wOPG4oSdSPqOVND8dbBh"
+      }, 
+      {
+        "name": "The Rake", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5x3FzQDMGY2xc7r6bdOS1j"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7fcf1605ab7cd8921814fa1939631d61f0a0861e", 
+        "is_playable": true, 
+        "uri": "spotify:track:5x3FzQDMGY2xc7r6bdOS1j", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5x3FzQDMGY2xc7r6bdOS1j", 
+        "artists": [
+          {
+            "name": "Red Snapper feat. MC Det", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4M5pZByWrbyDDLdqoknQqA"
+            }, 
+            "uri": "spotify:artist:4M5pZByWrbyDDLdqoknQqA", 
+            "href": "https://api.spotify.com/v1/artists/4M5pZByWrbyDDLdqoknQqA", 
+            "type": "artist", 
+            "id": "4M5pZByWrbyDDLdqoknQqA"
+          }
+        ], 
+        "duration_ms": 313866, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "5x3FzQDMGY2xc7r6bdOS1j"
+      }, 
+      {
+        "name": "The Rough And The Quick", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5u3ppK9fCA5gBdFVdRywOf"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/690f2e6089c0eadcaa3efca070a0a9823f45845a", 
+        "is_playable": true, 
+        "uri": "spotify:track:5u3ppK9fCA5gBdFVdRywOf", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5u3ppK9fCA5gBdFVdRywOf", 
+        "artists": [
+          {
+            "name": "Red Snapper feat. Karmie Kendra", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6dWkFtIW8z6pBOyT4yuRe2"
+            }, 
+            "uri": "spotify:artist:6dWkFtIW8z6pBOyT4yuRe2", 
+            "href": "https://api.spotify.com/v1/artists/6dWkFtIW8z6pBOyT4yuRe2", 
+            "type": "artist", 
+            "id": "6dWkFtIW8z6pBOyT4yuRe2"
+          }
+        ], 
+        "duration_ms": 306666, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "5u3ppK9fCA5gBdFVdRywOf"
+      }, 
+      {
+        "name": "Bussing", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/75VSaWkro8uzonKty0fjlp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/584a613dbb96761b3ecbfd6e11c091be1e9561ce", 
+        "is_playable": true, 
+        "uri": "spotify:track:75VSaWkro8uzonKty0fjlp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/75VSaWkro8uzonKty0fjlp", 
+        "artists": [
+          {
+            "name": "Red Snapper", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1BQtFnxZvAvTCZgTMlED0Q"
+            }, 
+            "uri": "spotify:artist:1BQtFnxZvAvTCZgTMlED0Q", 
+            "href": "https://api.spotify.com/v1/artists/1BQtFnxZvAvTCZgTMlED0Q", 
+            "type": "artist", 
+            "id": "1BQtFnxZvAvTCZgTMlED0Q"
+          }
+        ], 
+        "duration_ms": 323333, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "75VSaWkro8uzonKty0fjlp"
+      }, 
+      {
+        "name": "I Stole Your Car", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6cz2vKdfG67vfw2gtpsZVa"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a0432740c5228dadeabcc5cb9a8b94f95ec5d597", 
+        "is_playable": true, 
+        "uri": "spotify:track:6cz2vKdfG67vfw2gtpsZVa", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6cz2vKdfG67vfw2gtpsZVa", 
+        "artists": [
+          {
+            "name": "Red Snapper feat. MC Det", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4M5pZByWrbyDDLdqoknQqA"
+            }, 
+            "uri": "spotify:artist:4M5pZByWrbyDDLdqoknQqA", 
+            "href": "https://api.spotify.com/v1/artists/4M5pZByWrbyDDLdqoknQqA", 
+            "type": "artist", 
+            "id": "4M5pZByWrbyDDLdqoknQqA"
+          }
+        ], 
+        "duration_ms": 256733, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "6cz2vKdfG67vfw2gtpsZVa"
+      }, 
+      {
+        "name": "Alaska Street", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6lYCHO9sTHc3kcZ4fM5A5Z"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d2e37c3d9cca37e156f3b0a7ad08321b9e6eceab", 
+        "is_playable": true, 
+        "uri": "spotify:track:6lYCHO9sTHc3kcZ4fM5A5Z", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6lYCHO9sTHc3kcZ4fM5A5Z", 
+        "artists": [
+          {
+            "name": "Red Snapper", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1BQtFnxZvAvTCZgTMlED0Q"
+            }, 
+            "uri": "spotify:artist:1BQtFnxZvAvTCZgTMlED0Q", 
+            "href": "https://api.spotify.com/v1/artists/1BQtFnxZvAvTCZgTMlED0Q", 
+            "type": "artist", 
+            "id": "1BQtFnxZvAvTCZgTMlED0Q"
+          }
+        ], 
+        "duration_ms": 300266, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "6lYCHO9sTHc3kcZ4fM5A5Z"
+      }, 
+      {
+        "name": "Belladonna", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4LswM4ujMg2H9kWd0dVUc5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d46fc64a17e39400321ebc7588e6f811e42a78f0", 
+        "is_playable": true, 
+        "uri": "spotify:track:4LswM4ujMg2H9kWd0dVUc5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4LswM4ujMg2H9kWd0dVUc5", 
+        "artists": [
+          {
+            "name": "Red Snapper", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1BQtFnxZvAvTCZgTMlED0Q"
+            }, 
+            "uri": "spotify:artist:1BQtFnxZvAvTCZgTMlED0Q", 
+            "href": "https://api.spotify.com/v1/artists/1BQtFnxZvAvTCZgTMlED0Q", 
+            "type": "artist", 
+            "id": "1BQtFnxZvAvTCZgTMlED0Q"
+          }
+        ], 
+        "duration_ms": 267493, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "4LswM4ujMg2H9kWd0dVUc5"
+      }, 
+      {
+        "name": "They're Hanging Me Tonight", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6N2b1p5w4XmbiK6xTImmOi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/449488ed09dad128ab1e568e035106f35d5d4b11", 
+        "is_playable": true, 
+        "uri": "spotify:track:6N2b1p5w4XmbiK6xTImmOi", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6N2b1p5w4XmbiK6xTImmOi", 
+        "artists": [
+          {
+            "name": "Red Snapper", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1BQtFnxZvAvTCZgTMlED0Q"
+            }, 
+            "uri": "spotify:artist:1BQtFnxZvAvTCZgTMlED0Q", 
+            "href": "https://api.spotify.com/v1/artists/1BQtFnxZvAvTCZgTMlED0Q", 
+            "type": "artist", 
+            "id": "1BQtFnxZvAvTCZgTMlED0Q"
+          }
+        ], 
+        "duration_ms": 367666, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "6N2b1p5w4XmbiK6xTImmOi"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/6W2Dg4Zf1clDeStniHimq1/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 11, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/6W2Dg4Zf1clDeStniHimq1", 
+  "copyrights": [
+    {
+      "text": "2000 Warp Records Limited", 
+      "type": "C"
+    }, 
+    {
+      "text": "2000 Warp Records Limited", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Red Snapper", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1BQtFnxZvAvTCZgTMlED0Q"
+      }, 
+      "uri": "spotify:artist:1BQtFnxZvAvTCZgTMlED0Q", 
+      "href": "https://api.spotify.com/v1/artists/1BQtFnxZvAvTCZgTMlED0Q", 
+      "type": "artist", 
+      "id": "1BQtFnxZvAvTCZgTMlED0Q"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/f2609bea122a20cce79ed9a4ea73b8717593dd56", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/9bf2a771d1dd6ddf6096f9a88b44daac0458561f", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/1c469ef7eaa5fd1b8765f47310fcbc44f2bbf527", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "0801061007836"
+  }, 
+  "type": "album", 
+  "id": "6W2Dg4Zf1clDeStniHimq1", 
+  "name": "Our Aim Is To Satisfy Red Snapper"
+}

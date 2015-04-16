@@ -1,0 +1,707 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7kLLC7CN8oxt0HgP2a051K"
+  }, 
+  "release_date": "2008-04-22", 
+  "popularity": 66, 
+  "genres": [], 
+  "uri": "spotify:album:7kLLC7CN8oxt0HgP2a051K", 
+  "tracks": {
+    "items": [
+      {
+        "name": "I Feel the Earth Move", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7onOpypcFWFc2YjMIcJnx9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bb80406c0e49d6989a0d9e165a2150e7d2fc3987", 
+        "is_playable": true, 
+        "uri": "spotify:track:7onOpypcFWFc2YjMIcJnx9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7onOpypcFWFc2YjMIcJnx9", 
+        "artists": [
+          {
+            "name": "Carole King", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+            }, 
+            "uri": "spotify:artist:319yZVtYM9MBGqmSQnMyY6", 
+            "href": "https://api.spotify.com/v1/artists/319yZVtYM9MBGqmSQnMyY6", 
+            "type": "artist", 
+            "id": "319yZVtYM9MBGqmSQnMyY6"
+          }
+        ], 
+        "duration_ms": 178560, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "7onOpypcFWFc2YjMIcJnx9"
+      }, 
+      {
+        "name": "So Far Away", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7xyLWH5wZj76nbELj5pZjp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3ff7ab91320872993c1c7bbb278550db91e6daf6", 
+        "is_playable": true, 
+        "uri": "spotify:track:7xyLWH5wZj76nbELj5pZjp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7xyLWH5wZj76nbELj5pZjp", 
+        "artists": [
+          {
+            "name": "Carole King", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+            }, 
+            "uri": "spotify:artist:319yZVtYM9MBGqmSQnMyY6", 
+            "href": "https://api.spotify.com/v1/artists/319yZVtYM9MBGqmSQnMyY6", 
+            "type": "artist", 
+            "id": "319yZVtYM9MBGqmSQnMyY6"
+          }
+        ], 
+        "duration_ms": 235450, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "7xyLWH5wZj76nbELj5pZjp"
+      }, 
+      {
+        "name": "It's Too Late", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/66KgSwQE4UmJttgfYiaR5I"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/794bb130f92d24e077c37413a585531a1a69d37c", 
+        "is_playable": true, 
+        "uri": "spotify:track:66KgSwQE4UmJttgfYiaR5I", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/66KgSwQE4UmJttgfYiaR5I", 
+        "artists": [
+          {
+            "name": "Carole King", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+            }, 
+            "uri": "spotify:artist:319yZVtYM9MBGqmSQnMyY6", 
+            "href": "https://api.spotify.com/v1/artists/319yZVtYM9MBGqmSQnMyY6", 
+            "type": "artist", 
+            "id": "319yZVtYM9MBGqmSQnMyY6"
+          }
+        ], 
+        "duration_ms": 232431, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "66KgSwQE4UmJttgfYiaR5I"
+      }, 
+      {
+        "name": "Home Again", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4I204PvTD6jGKTk4kfXQMS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6e1ff046bce6879c2e3003657e7d57421f6586c4", 
+        "is_playable": true, 
+        "uri": "spotify:track:4I204PvTD6jGKTk4kfXQMS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4I204PvTD6jGKTk4kfXQMS", 
+        "artists": [
+          {
+            "name": "Carole King", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+            }, 
+            "uri": "spotify:artist:319yZVtYM9MBGqmSQnMyY6", 
+            "href": "https://api.spotify.com/v1/artists/319yZVtYM9MBGqmSQnMyY6", 
+            "type": "artist", 
+            "id": "319yZVtYM9MBGqmSQnMyY6"
+          }
+        ], 
+        "duration_ms": 148747, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "4I204PvTD6jGKTk4kfXQMS"
+      }, 
+      {
+        "name": "Beautiful", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5fycgeqNtxhYXefDoTIgOf"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a79f3c0a9e13e1bc39342ca5169445ef8f6e33a5", 
+        "is_playable": true, 
+        "uri": "spotify:track:5fycgeqNtxhYXefDoTIgOf", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5fycgeqNtxhYXefDoTIgOf", 
+        "artists": [
+          {
+            "name": "Carole King", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+            }, 
+            "uri": "spotify:artist:319yZVtYM9MBGqmSQnMyY6", 
+            "href": "https://api.spotify.com/v1/artists/319yZVtYM9MBGqmSQnMyY6", 
+            "type": "artist", 
+            "id": "319yZVtYM9MBGqmSQnMyY6"
+          }
+        ], 
+        "duration_ms": 186177, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "5fycgeqNtxhYXefDoTIgOf"
+      }, 
+      {
+        "name": "Way over Yonder", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/14ne8NcqXumFOCtzOacggZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9494ee7b28305a0d6a7c69ea29a470f137d05ef4", 
+        "is_playable": true, 
+        "uri": "spotify:track:14ne8NcqXumFOCtzOacggZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/14ne8NcqXumFOCtzOacggZ", 
+        "artists": [
+          {
+            "name": "Carole King", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+            }, 
+            "uri": "spotify:artist:319yZVtYM9MBGqmSQnMyY6", 
+            "href": "https://api.spotify.com/v1/artists/319yZVtYM9MBGqmSQnMyY6", 
+            "type": "artist", 
+            "id": "319yZVtYM9MBGqmSQnMyY6"
+          }
+        ], 
+        "duration_ms": 283826, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "14ne8NcqXumFOCtzOacggZ"
+      }, 
+      {
+        "name": "You've Got a Friend", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Dykq1tU6xnLnlaniVH4hv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ce97dea5e99e0a3521274bea3ff1700cef625301", 
+        "is_playable": true, 
+        "uri": "spotify:track:4Dykq1tU6xnLnlaniVH4hv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4Dykq1tU6xnLnlaniVH4hv", 
+        "artists": [
+          {
+            "name": "Carole King", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+            }, 
+            "uri": "spotify:artist:319yZVtYM9MBGqmSQnMyY6", 
+            "href": "https://api.spotify.com/v1/artists/319yZVtYM9MBGqmSQnMyY6", 
+            "type": "artist", 
+            "id": "319yZVtYM9MBGqmSQnMyY6"
+          }
+        ], 
+        "duration_ms": 308973, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "4Dykq1tU6xnLnlaniVH4hv"
+      }, 
+      {
+        "name": "Where You Lead", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0BHbw2pHE8HOfhm2B2x4Oj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/58ed6210228a775c229573b98d759f8c162ea916", 
+        "is_playable": true, 
+        "uri": "spotify:track:0BHbw2pHE8HOfhm2B2x4Oj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0BHbw2pHE8HOfhm2B2x4Oj", 
+        "artists": [
+          {
+            "name": "Carole King", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+            }, 
+            "uri": "spotify:artist:319yZVtYM9MBGqmSQnMyY6", 
+            "href": "https://api.spotify.com/v1/artists/319yZVtYM9MBGqmSQnMyY6", 
+            "type": "artist", 
+            "id": "319yZVtYM9MBGqmSQnMyY6"
+          }
+        ], 
+        "duration_ms": 199412, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "0BHbw2pHE8HOfhm2B2x4Oj"
+      }, 
+      {
+        "name": "Will You Love Me Tomorrow?", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0WmRcVd15yKmI9drkKJDEB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e1164a6bd954721f7f2c442c15c58404b7417ced", 
+        "is_playable": true, 
+        "uri": "spotify:track:0WmRcVd15yKmI9drkKJDEB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0WmRcVd15yKmI9drkKJDEB", 
+        "artists": [
+          {
+            "name": "Carole King", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+            }, 
+            "uri": "spotify:artist:319yZVtYM9MBGqmSQnMyY6", 
+            "href": "https://api.spotify.com/v1/artists/319yZVtYM9MBGqmSQnMyY6", 
+            "type": "artist", 
+            "id": "319yZVtYM9MBGqmSQnMyY6"
+          }
+        ], 
+        "duration_ms": 252122, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "0WmRcVd15yKmI9drkKJDEB"
+      }, 
+      {
+        "name": "Smackwater Jack", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/73lMWkIKEpIKJj6163dfFX"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0b45ec0adb3bd067ed4d9050077cbe94400a9e66", 
+        "is_playable": true, 
+        "uri": "spotify:track:73lMWkIKEpIKJj6163dfFX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/73lMWkIKEpIKJj6163dfFX", 
+        "artists": [
+          {
+            "name": "Carole King", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+            }, 
+            "uri": "spotify:artist:319yZVtYM9MBGqmSQnMyY6", 
+            "href": "https://api.spotify.com/v1/artists/319yZVtYM9MBGqmSQnMyY6", 
+            "type": "artist", 
+            "id": "319yZVtYM9MBGqmSQnMyY6"
+          }
+        ], 
+        "duration_ms": 221332, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "73lMWkIKEpIKJj6163dfFX"
+      }, 
+      {
+        "name": "Tapestry", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3jl5t7WfICVp9WmopGUgHi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/58e87113894f086bf62d530d7684a5b395b4ad4f", 
+        "is_playable": true, 
+        "uri": "spotify:track:3jl5t7WfICVp9WmopGUgHi", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3jl5t7WfICVp9WmopGUgHi", 
+        "artists": [
+          {
+            "name": "Carole King", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+            }, 
+            "uri": "spotify:artist:319yZVtYM9MBGqmSQnMyY6", 
+            "href": "https://api.spotify.com/v1/artists/319yZVtYM9MBGqmSQnMyY6", 
+            "type": "artist", 
+            "id": "319yZVtYM9MBGqmSQnMyY6"
+          }
+        ], 
+        "duration_ms": 193747, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "3jl5t7WfICVp9WmopGUgHi"
+      }, 
+      {
+        "name": "(You Make Me Feel Like) A Natural Woman", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3q4XBf0SE8hazRFCxuy6Mm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cb24c44d30860eaf494b6c7e5faf039aeef8c443", 
+        "is_playable": true, 
+        "uri": "spotify:track:3q4XBf0SE8hazRFCxuy6Mm", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3q4XBf0SE8hazRFCxuy6Mm", 
+        "artists": [
+          {
+            "name": "Carole King", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+            }, 
+            "uri": "spotify:artist:319yZVtYM9MBGqmSQnMyY6", 
+            "href": "https://api.spotify.com/v1/artists/319yZVtYM9MBGqmSQnMyY6", 
+            "type": "artist", 
+            "id": "319yZVtYM9MBGqmSQnMyY6"
+          }
+        ], 
+        "duration_ms": 228762, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "3q4XBf0SE8hazRFCxuy6Mm"
+      }, 
+      {
+        "name": "I Feel The Earth Move (Live) - Live Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7wBJv9eSclBD9xN60QNrht"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8168daad43715323c2f3e427cd47469f5be343c5", 
+        "is_playable": true, 
+        "uri": "spotify:track:7wBJv9eSclBD9xN60QNrht", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/7wBJv9eSclBD9xN60QNrht", 
+        "artists": [
+          {
+            "name": "Carole King", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+            }, 
+            "uri": "spotify:artist:319yZVtYM9MBGqmSQnMyY6", 
+            "href": "https://api.spotify.com/v1/artists/319yZVtYM9MBGqmSQnMyY6", 
+            "type": "artist", 
+            "id": "319yZVtYM9MBGqmSQnMyY6"
+          }
+        ], 
+        "duration_ms": 185713, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "7wBJv9eSclBD9xN60QNrht"
+      }, 
+      {
+        "name": "So Far Away (Live) - Live Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1fiekYlJTPatS2DrRSc6Tw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5f6b93f12f879eefb6472f194f8836a8f0a661f5", 
+        "is_playable": true, 
+        "uri": "spotify:track:1fiekYlJTPatS2DrRSc6Tw", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1fiekYlJTPatS2DrRSc6Tw", 
+        "artists": [
+          {
+            "name": "Carole King", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+            }, 
+            "uri": "spotify:artist:319yZVtYM9MBGqmSQnMyY6", 
+            "href": "https://api.spotify.com/v1/artists/319yZVtYM9MBGqmSQnMyY6", 
+            "type": "artist", 
+            "id": "319yZVtYM9MBGqmSQnMyY6"
+          }
+        ], 
+        "duration_ms": 214366, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "1fiekYlJTPatS2DrRSc6Tw"
+      }, 
+      {
+        "name": "It's Too Late (Live)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1k1xlO7nGLmVq0fxHswQNF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ddb1d9e77bef06cbb6b73e74e70f8ebb38d0b469", 
+        "is_playable": true, 
+        "uri": "spotify:track:1k1xlO7nGLmVq0fxHswQNF", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1k1xlO7nGLmVq0fxHswQNF", 
+        "artists": [
+          {
+            "name": "Carole King", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+            }, 
+            "uri": "spotify:artist:319yZVtYM9MBGqmSQnMyY6", 
+            "href": "https://api.spotify.com/v1/artists/319yZVtYM9MBGqmSQnMyY6", 
+            "type": "artist", 
+            "id": "319yZVtYM9MBGqmSQnMyY6"
+          }
+        ], 
+        "duration_ms": 235868, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "1k1xlO7nGLmVq0fxHswQNF"
+      }, 
+      {
+        "name": "Home Again (Live) - Live Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5hDV9YXWYL0tpBdgR7n30o"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/eae0d3ede20fa3f51f9ebae3676d6bd920c986f5", 
+        "is_playable": true, 
+        "uri": "spotify:track:5hDV9YXWYL0tpBdgR7n30o", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5hDV9YXWYL0tpBdgR7n30o", 
+        "artists": [
+          {
+            "name": "Carole King", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+            }, 
+            "uri": "spotify:artist:319yZVtYM9MBGqmSQnMyY6", 
+            "href": "https://api.spotify.com/v1/artists/319yZVtYM9MBGqmSQnMyY6", 
+            "type": "artist", 
+            "id": "319yZVtYM9MBGqmSQnMyY6"
+          }
+        ], 
+        "duration_ms": 143592, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "5hDV9YXWYL0tpBdgR7n30o"
+      }, 
+      {
+        "name": "Beautiful (Live) - Live Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6BpaUMNGyNhR7nUFbXpM14"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/71aceb34c09995af7ff6aaf1b306a1f6e45ea9a9", 
+        "is_playable": true, 
+        "uri": "spotify:track:6BpaUMNGyNhR7nUFbXpM14", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6BpaUMNGyNhR7nUFbXpM14", 
+        "artists": [
+          {
+            "name": "Carole King", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+            }, 
+            "uri": "spotify:artist:319yZVtYM9MBGqmSQnMyY6", 
+            "href": "https://api.spotify.com/v1/artists/319yZVtYM9MBGqmSQnMyY6", 
+            "type": "artist", 
+            "id": "319yZVtYM9MBGqmSQnMyY6"
+          }
+        ], 
+        "duration_ms": 149304, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "6BpaUMNGyNhR7nUFbXpM14"
+      }, 
+      {
+        "name": "Way Over Yonder (Live) - Live Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2gwUGvMl9KEjmnhjPJe7pN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/14142f7acb4abd7e48c09c5743385eeaade19877", 
+        "is_playable": true, 
+        "uri": "spotify:track:2gwUGvMl9KEjmnhjPJe7pN", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/2gwUGvMl9KEjmnhjPJe7pN", 
+        "artists": [
+          {
+            "name": "Carole King", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+            }, 
+            "uri": "spotify:artist:319yZVtYM9MBGqmSQnMyY6", 
+            "href": "https://api.spotify.com/v1/artists/319yZVtYM9MBGqmSQnMyY6", 
+            "type": "artist", 
+            "id": "319yZVtYM9MBGqmSQnMyY6"
+          }
+        ], 
+        "duration_ms": 265311, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "2gwUGvMl9KEjmnhjPJe7pN"
+      }, 
+      {
+        "name": "You've Got a Friend (Live)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Vp0LN3fINxBjf0L2XkIjM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6398dec2a996a685ac9f91725a8b7c3fd824e139", 
+        "is_playable": true, 
+        "uri": "spotify:track:0Vp0LN3fINxBjf0L2XkIjM", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/0Vp0LN3fINxBjf0L2XkIjM", 
+        "artists": [
+          {
+            "name": "Carole King", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+            }, 
+            "uri": "spotify:artist:319yZVtYM9MBGqmSQnMyY6", 
+            "href": "https://api.spotify.com/v1/artists/319yZVtYM9MBGqmSQnMyY6", 
+            "type": "artist", 
+            "id": "319yZVtYM9MBGqmSQnMyY6"
+          }
+        ], 
+        "duration_ms": 290133, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "0Vp0LN3fINxBjf0L2XkIjM"
+      }, 
+      {
+        "name": "Will You Love Me Tomorrow? - Live Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7sJwSSzcIExt92J57g88GQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ccadfb8199214d3aa8ecb8bc947944d3ab214843", 
+        "is_playable": true, 
+        "uri": "spotify:track:7sJwSSzcIExt92J57g88GQ", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/7sJwSSzcIExt92J57g88GQ", 
+        "artists": [
+          {
+            "name": "Carole King", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+            }, 
+            "uri": "spotify:artist:319yZVtYM9MBGqmSQnMyY6", 
+            "href": "https://api.spotify.com/v1/artists/319yZVtYM9MBGqmSQnMyY6", 
+            "type": "artist", 
+            "id": "319yZVtYM9MBGqmSQnMyY6"
+          }
+        ], 
+        "duration_ms": 201480, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "7sJwSSzcIExt92J57g88GQ"
+      }, 
+      {
+        "name": "Smackwater Jack (Live) - Live Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5whZtlx5f2fczkdUxjg1K3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/35e2fb7e5a91f38e927e5fb163ab6684f49e8324", 
+        "is_playable": true, 
+        "uri": "spotify:track:5whZtlx5f2fczkdUxjg1K3", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5whZtlx5f2fczkdUxjg1K3", 
+        "artists": [
+          {
+            "name": "Carole King", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+            }, 
+            "uri": "spotify:artist:319yZVtYM9MBGqmSQnMyY6", 
+            "href": "https://api.spotify.com/v1/artists/319yZVtYM9MBGqmSQnMyY6", 
+            "type": "artist", 
+            "id": "319yZVtYM9MBGqmSQnMyY6"
+          }
+        ], 
+        "duration_ms": 188128, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "5whZtlx5f2fczkdUxjg1K3"
+      }, 
+      {
+        "name": "Tapestry - Live Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0OdhVSsOvSbiX0hrdkU0dM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fd81501836c083ad4235d4f23857b63665d4599c", 
+        "is_playable": true, 
+        "uri": "spotify:track:0OdhVSsOvSbiX0hrdkU0dM", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/0OdhVSsOvSbiX0hrdkU0dM", 
+        "artists": [
+          {
+            "name": "Carole King", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+            }, 
+            "uri": "spotify:artist:319yZVtYM9MBGqmSQnMyY6", 
+            "href": "https://api.spotify.com/v1/artists/319yZVtYM9MBGqmSQnMyY6", 
+            "type": "artist", 
+            "id": "319yZVtYM9MBGqmSQnMyY6"
+          }
+        ], 
+        "duration_ms": 183440, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "0OdhVSsOvSbiX0hrdkU0dM"
+      }, 
+      {
+        "name": "(You Make Me Feel Like) A Natural Woman (Live)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2hF6UwbD38lkjlGi3BCSqK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5dfbec358f1161787757254063cada14e3df012c", 
+        "is_playable": true, 
+        "uri": "spotify:track:2hF6UwbD38lkjlGi3BCSqK", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/2hF6UwbD38lkjlGi3BCSqK", 
+        "artists": [
+          {
+            "name": "Carole King", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+            }, 
+            "uri": "spotify:artist:319yZVtYM9MBGqmSQnMyY6", 
+            "href": "https://api.spotify.com/v1/artists/319yZVtYM9MBGqmSQnMyY6", 
+            "type": "artist", 
+            "id": "319yZVtYM9MBGqmSQnMyY6"
+          }
+        ], 
+        "duration_ms": 241162, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "2hF6UwbD38lkjlGi3BCSqK"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/7kLLC7CN8oxt0HgP2a051K/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 23, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/7kLLC7CN8oxt0HgP2a051K", 
+  "copyrights": [
+    {
+      "text": "Originally released 1971. All rights reserved by Ode Records. Originally released 1961, 1971. All rights reserved by Sony Music Entertainment. (P) 2007, 2008 Sony Music Entertainment.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Carole King", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+      }, 
+      "uri": "spotify:artist:319yZVtYM9MBGqmSQnMyY6", 
+      "href": "https://api.spotify.com/v1/artists/319yZVtYM9MBGqmSQnMyY6", 
+      "type": "artist", 
+      "id": "319yZVtYM9MBGqmSQnMyY6"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/7638f1da35bb4a5105aee22a1c8b661662ee4bbd", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/2249ab356ac7189c69b6344c8647ab6386fc1576", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/c42b53119ae76a92ea0793e422bc96a878504bb3", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "886971145526"
+  }, 
+  "type": "album", 
+  "id": "7kLLC7CN8oxt0HgP2a051K", 
+  "name": "Tapestry (Legacy Edition)"
+}

@@ -1,0 +1,347 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "month", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4kR4Yr84lErTVOaZ0uiULu"
+  }, 
+  "release_date": "1969-03", 
+  "popularity": 54, 
+  "genres": [], 
+  "uri": "spotify:album:4kR4Yr84lErTVOaZ0uiULu", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Candy Says", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/35fM8c1Q36wdOn4e4IfP8w"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9b6920d500a80cadd40b87f08a7e212ec189529f", 
+        "is_playable": true, 
+        "uri": "spotify:track:35fM8c1Q36wdOn4e4IfP8w", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/35fM8c1Q36wdOn4e4IfP8w", 
+        "artists": [
+          {
+            "name": "The Velvet Underground", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+            }, 
+            "uri": "spotify:artist:1nJvji2KIlWSseXRSlNYsC", 
+            "href": "https://api.spotify.com/v1/artists/1nJvji2KIlWSseXRSlNYsC", 
+            "type": "artist", 
+            "id": "1nJvji2KIlWSseXRSlNYsC"
+          }
+        ], 
+        "duration_ms": 244440, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "35fM8c1Q36wdOn4e4IfP8w"
+      }, 
+      {
+        "name": "What Goes On", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4jE8CmGJ4H7OTHBrbtU2ks"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3b81ad69096337a894117a0e6aa4f58577a19308", 
+        "is_playable": true, 
+        "uri": "spotify:track:4jE8CmGJ4H7OTHBrbtU2ks", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4jE8CmGJ4H7OTHBrbtU2ks", 
+        "artists": [
+          {
+            "name": "The Velvet Underground", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+            }, 
+            "uri": "spotify:artist:1nJvji2KIlWSseXRSlNYsC", 
+            "href": "https://api.spotify.com/v1/artists/1nJvji2KIlWSseXRSlNYsC", 
+            "type": "artist", 
+            "id": "1nJvji2KIlWSseXRSlNYsC"
+          }
+        ], 
+        "duration_ms": 295066, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "4jE8CmGJ4H7OTHBrbtU2ks"
+      }, 
+      {
+        "name": "Some Kinda Love", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6gElIMJ9zD3A4IFVQgEOBA"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/31557b28f26c7581c3cb183eecc01de8d3c14333", 
+        "is_playable": true, 
+        "uri": "spotify:track:6gElIMJ9zD3A4IFVQgEOBA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6gElIMJ9zD3A4IFVQgEOBA", 
+        "artists": [
+          {
+            "name": "The Velvet Underground", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+            }, 
+            "uri": "spotify:artist:1nJvji2KIlWSseXRSlNYsC", 
+            "href": "https://api.spotify.com/v1/artists/1nJvji2KIlWSseXRSlNYsC", 
+            "type": "artist", 
+            "id": "1nJvji2KIlWSseXRSlNYsC"
+          }
+        ], 
+        "duration_ms": 243266, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "6gElIMJ9zD3A4IFVQgEOBA"
+      }, 
+      {
+        "name": "Pale Blue Eyes", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1WGZ2aP5SnBPjaEDg2pVDd"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c7cbbc1ffd7b8d4b20a3b3d7f4be0a53199c6c72", 
+        "is_playable": true, 
+        "uri": "spotify:track:1WGZ2aP5SnBPjaEDg2pVDd", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1WGZ2aP5SnBPjaEDg2pVDd", 
+        "artists": [
+          {
+            "name": "The Velvet Underground", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+            }, 
+            "uri": "spotify:artist:1nJvji2KIlWSseXRSlNYsC", 
+            "href": "https://api.spotify.com/v1/artists/1nJvji2KIlWSseXRSlNYsC", 
+            "type": "artist", 
+            "id": "1nJvji2KIlWSseXRSlNYsC"
+          }
+        ], 
+        "duration_ms": 341466, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "1WGZ2aP5SnBPjaEDg2pVDd"
+      }, 
+      {
+        "name": "Jesus", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/67jxzJYsI8jm65iKYi6qLF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/76b20c8c5e4cacce3e257f417b54c5e32f4befbf", 
+        "is_playable": true, 
+        "uri": "spotify:track:67jxzJYsI8jm65iKYi6qLF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/67jxzJYsI8jm65iKYi6qLF", 
+        "artists": [
+          {
+            "name": "The Velvet Underground", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+            }, 
+            "uri": "spotify:artist:1nJvji2KIlWSseXRSlNYsC", 
+            "href": "https://api.spotify.com/v1/artists/1nJvji2KIlWSseXRSlNYsC", 
+            "type": "artist", 
+            "id": "1nJvji2KIlWSseXRSlNYsC"
+          }
+        ], 
+        "duration_ms": 204826, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "67jxzJYsI8jm65iKYi6qLF"
+      }, 
+      {
+        "name": "Beginning To See The Light", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1PT0FEl4aVyZJcv6dpiBhj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6a88ab0fc17dc0583da8c02878bce048ec54eaf5", 
+        "is_playable": true, 
+        "uri": "spotify:track:1PT0FEl4aVyZJcv6dpiBhj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1PT0FEl4aVyZJcv6dpiBhj", 
+        "artists": [
+          {
+            "name": "The Velvet Underground", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+            }, 
+            "uri": "spotify:artist:1nJvji2KIlWSseXRSlNYsC", 
+            "href": "https://api.spotify.com/v1/artists/1nJvji2KIlWSseXRSlNYsC", 
+            "type": "artist", 
+            "id": "1nJvji2KIlWSseXRSlNYsC"
+          }
+        ], 
+        "duration_ms": 281266, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "1PT0FEl4aVyZJcv6dpiBhj"
+      }, 
+      {
+        "name": "I'm Set Free", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7eGM0w7WldCp7CKvD2ysbC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/62877fd927290df431f4816b7251f76ed9882342", 
+        "is_playable": true, 
+        "uri": "spotify:track:7eGM0w7WldCp7CKvD2ysbC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7eGM0w7WldCp7CKvD2ysbC", 
+        "artists": [
+          {
+            "name": "The Velvet Underground", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+            }, 
+            "uri": "spotify:artist:1nJvji2KIlWSseXRSlNYsC", 
+            "href": "https://api.spotify.com/v1/artists/1nJvji2KIlWSseXRSlNYsC", 
+            "type": "artist", 
+            "id": "1nJvji2KIlWSseXRSlNYsC"
+          }
+        ], 
+        "duration_ms": 244440, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "7eGM0w7WldCp7CKvD2ysbC"
+      }, 
+      {
+        "name": "That's The Story Of My Life", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7pXZhwq2VsuAKfw00JDHcy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7cdeff949c119430f70e4774eaa3696519b1d1d3", 
+        "is_playable": true, 
+        "uri": "spotify:track:7pXZhwq2VsuAKfw00JDHcy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7pXZhwq2VsuAKfw00JDHcy", 
+        "artists": [
+          {
+            "name": "The Velvet Underground", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+            }, 
+            "uri": "spotify:artist:1nJvji2KIlWSseXRSlNYsC", 
+            "href": "https://api.spotify.com/v1/artists/1nJvji2KIlWSseXRSlNYsC", 
+            "type": "artist", 
+            "id": "1nJvji2KIlWSseXRSlNYsC"
+          }
+        ], 
+        "duration_ms": 124466, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "7pXZhwq2VsuAKfw00JDHcy"
+      }, 
+      {
+        "name": "The Murder Mystery", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1TKF4F9nAKCAzY2ce2VtsM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/de0dfc6bfaccf225e83ec48db7b08adb681f1131", 
+        "is_playable": true, 
+        "uri": "spotify:track:1TKF4F9nAKCAzY2ce2VtsM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1TKF4F9nAKCAzY2ce2VtsM", 
+        "artists": [
+          {
+            "name": "The Velvet Underground", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+            }, 
+            "uri": "spotify:artist:1nJvji2KIlWSseXRSlNYsC", 
+            "href": "https://api.spotify.com/v1/artists/1nJvji2KIlWSseXRSlNYsC", 
+            "type": "artist", 
+            "id": "1nJvji2KIlWSseXRSlNYsC"
+          }
+        ], 
+        "duration_ms": 535962, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "1TKF4F9nAKCAzY2ce2VtsM"
+      }, 
+      {
+        "name": "After Hours", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0jzoBXYFp5HEKlSrxxLrtZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f0222ea11e83eb0fe54fc7aca4588b678b35ba88", 
+        "is_playable": true, 
+        "uri": "spotify:track:0jzoBXYFp5HEKlSrxxLrtZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0jzoBXYFp5HEKlSrxxLrtZ", 
+        "artists": [
+          {
+            "name": "The Velvet Underground", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+            }, 
+            "uri": "spotify:artist:1nJvji2KIlWSseXRSlNYsC", 
+            "href": "https://api.spotify.com/v1/artists/1nJvji2KIlWSseXRSlNYsC", 
+            "type": "artist", 
+            "id": "1nJvji2KIlWSseXRSlNYsC"
+          }
+        ], 
+        "duration_ms": 127760, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "0jzoBXYFp5HEKlSrxxLrtZ"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/4kR4Yr84lErTVOaZ0uiULu/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 10, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/4kR4Yr84lErTVOaZ0uiULu", 
+  "copyrights": [
+    {
+      "text": "(C) 1996 Universal Records, a Division of UMG Recordings, Inc.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1969 Universal Records, a Division of UMG Recordings, Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "The Velvet Underground", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+      }, 
+      "uri": "spotify:artist:1nJvji2KIlWSseXRSlNYsC", 
+      "href": "https://api.spotify.com/v1/artists/1nJvji2KIlWSseXRSlNYsC", 
+      "type": "artist", 
+      "id": "1nJvji2KIlWSseXRSlNYsC"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/f022b34ac2f539a3889fb7f9ad481e914b3112b1", 
+      "width": 640, 
+      "height": 639
+    }, 
+    {
+      "url": "https://i.scdn.co/image/19843335f185c8b706e18e3cbc5c356400bdf00f", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/4db99f82c6e5dac0b16b006a2c8efad73fc9ec3b", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00731453125223"
+  }, 
+  "type": "album", 
+  "id": "4kR4Yr84lErTVOaZ0uiULu", 
+  "name": "The Velvet Underground"
+}

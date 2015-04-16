@@ -1,0 +1,403 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU"
+  }, 
+  "release_date": "1962", 
+  "popularity": 55, 
+  "genres": [], 
+  "uri": "spotify:album:2aGFVLz0oQPa3uxCfq9lcU", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Green Onions", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6f8544b3a43bb68c5d88e482c1c16fbcf6964be9", 
+        "is_playable": true, 
+        "uri": "spotify:track:4fQMGlCawbTkH9yPPZ49kP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4fQMGlCawbTkH9yPPZ49kP", 
+        "artists": [
+          {
+            "name": "Booker T. & The MG's", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
+            }, 
+            "uri": "spotify:artist:2vDV0T8sxx2ENnKXds75e5", 
+            "href": "https://api.spotify.com/v1/artists/2vDV0T8sxx2ENnKXds75e5", 
+            "type": "artist", 
+            "id": "2vDV0T8sxx2ENnKXds75e5"
+          }
+        ], 
+        "duration_ms": 173546, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "4fQMGlCawbTkH9yPPZ49kP"
+      }, 
+      {
+        "name": "Rinky Dink", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2wHCe9ru5uJ2qSRIHfBwbk"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/03dc8eea61065f6c6070fba3f89a069abd429011", 
+        "is_playable": true, 
+        "uri": "spotify:track:2wHCe9ru5uJ2qSRIHfBwbk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2wHCe9ru5uJ2qSRIHfBwbk", 
+        "artists": [
+          {
+            "name": "Booker T. & The MG's", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
+            }, 
+            "uri": "spotify:artist:2vDV0T8sxx2ENnKXds75e5", 
+            "href": "https://api.spotify.com/v1/artists/2vDV0T8sxx2ENnKXds75e5", 
+            "type": "artist", 
+            "id": "2vDV0T8sxx2ENnKXds75e5"
+          }
+        ], 
+        "duration_ms": 161666, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "2wHCe9ru5uJ2qSRIHfBwbk"
+      }, 
+      {
+        "name": "I Got A Woman", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4KZsVYEX3h2Zo7TeC1OrVF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e89a5f29c9327c638bd388720fb3cdf1b07d62a9", 
+        "is_playable": true, 
+        "uri": "spotify:track:4KZsVYEX3h2Zo7TeC1OrVF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4KZsVYEX3h2Zo7TeC1OrVF", 
+        "artists": [
+          {
+            "name": "Booker T. & The MG's", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
+            }, 
+            "uri": "spotify:artist:2vDV0T8sxx2ENnKXds75e5", 
+            "href": "https://api.spotify.com/v1/artists/2vDV0T8sxx2ENnKXds75e5", 
+            "type": "artist", 
+            "id": "2vDV0T8sxx2ENnKXds75e5"
+          }
+        ], 
+        "duration_ms": 215266, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "4KZsVYEX3h2Zo7TeC1OrVF"
+      }, 
+      {
+        "name": "Mo' Onions", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2hiyBTmktBYzvLixq5V2v4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9a2a7e3bf2759028d096172f2be1d891f10c87d4", 
+        "is_playable": true, 
+        "uri": "spotify:track:2hiyBTmktBYzvLixq5V2v4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2hiyBTmktBYzvLixq5V2v4", 
+        "artists": [
+          {
+            "name": "Booker T. & The MG's", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
+            }, 
+            "uri": "spotify:artist:2vDV0T8sxx2ENnKXds75e5", 
+            "href": "https://api.spotify.com/v1/artists/2vDV0T8sxx2ENnKXds75e5", 
+            "type": "artist", 
+            "id": "2vDV0T8sxx2ENnKXds75e5"
+          }
+        ], 
+        "duration_ms": 176000, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "2hiyBTmktBYzvLixq5V2v4"
+      }, 
+      {
+        "name": "Twist And Shout", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3nK79pq1gR8xYh1F63OLlY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7b1dda20e944e8a994e9060f12efba615c3a596e", 
+        "is_playable": true, 
+        "uri": "spotify:track:3nK79pq1gR8xYh1F63OLlY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3nK79pq1gR8xYh1F63OLlY", 
+        "artists": [
+          {
+            "name": "Booker T. & The MG's", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
+            }, 
+            "uri": "spotify:artist:2vDV0T8sxx2ENnKXds75e5", 
+            "href": "https://api.spotify.com/v1/artists/2vDV0T8sxx2ENnKXds75e5", 
+            "type": "artist", 
+            "id": "2vDV0T8sxx2ENnKXds75e5"
+          }
+        ], 
+        "duration_ms": 133066, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "3nK79pq1gR8xYh1F63OLlY"
+      }, 
+      {
+        "name": "Behave Yourself", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7viT9kDjq8PIx57sRCID0b"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2f4212221dc939761602d0aa2ccded9c9a916a4a", 
+        "is_playable": true, 
+        "uri": "spotify:track:7viT9kDjq8PIx57sRCID0b", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7viT9kDjq8PIx57sRCID0b", 
+        "artists": [
+          {
+            "name": "Booker T. & The MG's", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
+            }, 
+            "uri": "spotify:artist:2vDV0T8sxx2ENnKXds75e5", 
+            "href": "https://api.spotify.com/v1/artists/2vDV0T8sxx2ENnKXds75e5", 
+            "type": "artist", 
+            "id": "2vDV0T8sxx2ENnKXds75e5"
+          }
+        ], 
+        "duration_ms": 233173, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "7viT9kDjq8PIx57sRCID0b"
+      }, 
+      {
+        "name": "Stranger On The Shore", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6g9JgnMV5bFM2D7FKfeEEl"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8868199257d06a0107cfd355f179226274045841", 
+        "is_playable": true, 
+        "uri": "spotify:track:6g9JgnMV5bFM2D7FKfeEEl", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6g9JgnMV5bFM2D7FKfeEEl", 
+        "artists": [
+          {
+            "name": "Booker T. & The MG's", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
+            }, 
+            "uri": "spotify:artist:2vDV0T8sxx2ENnKXds75e5", 
+            "href": "https://api.spotify.com/v1/artists/2vDV0T8sxx2ENnKXds75e5", 
+            "type": "artist", 
+            "id": "2vDV0T8sxx2ENnKXds75e5"
+          }
+        ], 
+        "duration_ms": 142666, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "6g9JgnMV5bFM2D7FKfeEEl"
+      }, 
+      {
+        "name": "Lonely Avenue", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2vEmD8J9uELP7tS5nY2vaJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3ebef184803b5a97d7482bb3081331b8dbea482b", 
+        "is_playable": true, 
+        "uri": "spotify:track:2vEmD8J9uELP7tS5nY2vaJ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2vEmD8J9uELP7tS5nY2vaJ", 
+        "artists": [
+          {
+            "name": "Booker T. & The MG's", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
+            }, 
+            "uri": "spotify:artist:2vDV0T8sxx2ENnKXds75e5", 
+            "href": "https://api.spotify.com/v1/artists/2vDV0T8sxx2ENnKXds75e5", 
+            "type": "artist", 
+            "id": "2vDV0T8sxx2ENnKXds75e5"
+          }
+        ], 
+        "duration_ms": 210066, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "2vEmD8J9uELP7tS5nY2vaJ"
+      }, 
+      {
+        "name": "One Who Really Loves You", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1MgNBTFvZSz9Awo0xSMQwL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/59269a2ad77753c537f2b22208bce201c6d66b88", 
+        "is_playable": true, 
+        "uri": "spotify:track:1MgNBTFvZSz9Awo0xSMQwL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1MgNBTFvZSz9Awo0xSMQwL", 
+        "artists": [
+          {
+            "name": "Booker T. & The MG's", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
+            }, 
+            "uri": "spotify:artist:2vDV0T8sxx2ENnKXds75e5", 
+            "href": "https://api.spotify.com/v1/artists/2vDV0T8sxx2ENnKXds75e5", 
+            "type": "artist", 
+            "id": "2vDV0T8sxx2ENnKXds75e5"
+          }
+        ], 
+        "duration_ms": 146293, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "1MgNBTFvZSz9Awo0xSMQwL"
+      }, 
+      {
+        "name": "You Can't Sit Down", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2PVknqdCcqeoWR1OThVqgh"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2508807a3619c9362c1e48e4d85f029229e17810", 
+        "is_playable": true, 
+        "uri": "spotify:track:2PVknqdCcqeoWR1OThVqgh", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2PVknqdCcqeoWR1OThVqgh", 
+        "artists": [
+          {
+            "name": "Booker T. & The MG's", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
+            }, 
+            "uri": "spotify:artist:2vDV0T8sxx2ENnKXds75e5", 
+            "href": "https://api.spotify.com/v1/artists/2vDV0T8sxx2ENnKXds75e5", 
+            "type": "artist", 
+            "id": "2vDV0T8sxx2ENnKXds75e5"
+          }
+        ], 
+        "duration_ms": 171253, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "2PVknqdCcqeoWR1OThVqgh"
+      }, 
+      {
+        "name": "A Woman, A Lover, A Friend", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1HvSfBuqF7C5QfJonQpKG8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f6f6638ccce894478acbd2d20009f13038577f6d", 
+        "is_playable": true, 
+        "uri": "spotify:track:1HvSfBuqF7C5QfJonQpKG8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1HvSfBuqF7C5QfJonQpKG8", 
+        "artists": [
+          {
+            "name": "Booker T. & The MG's", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
+            }, 
+            "uri": "spotify:artist:2vDV0T8sxx2ENnKXds75e5", 
+            "href": "https://api.spotify.com/v1/artists/2vDV0T8sxx2ENnKXds75e5", 
+            "type": "artist", 
+            "id": "2vDV0T8sxx2ENnKXds75e5"
+          }
+        ], 
+        "duration_ms": 153426, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "1HvSfBuqF7C5QfJonQpKG8"
+      }, 
+      {
+        "name": "Comin' Home Baby", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5gFlfviA4rdCIe2UPTi1yU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f8477fe29ccb205c1bcf6e5fb28e9fb9b0c39378", 
+        "is_playable": true, 
+        "uri": "spotify:track:5gFlfviA4rdCIe2UPTi1yU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5gFlfviA4rdCIe2UPTi1yU", 
+        "artists": [
+          {
+            "name": "Booker T. & The MG's", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
+            }, 
+            "uri": "spotify:artist:2vDV0T8sxx2ENnKXds75e5", 
+            "href": "https://api.spotify.com/v1/artists/2vDV0T8sxx2ENnKXds75e5", 
+            "type": "artist", 
+            "id": "2vDV0T8sxx2ENnKXds75e5"
+          }
+        ], 
+        "duration_ms": 192200, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "5gFlfviA4rdCIe2UPTi1yU"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/2aGFVLz0oQPa3uxCfq9lcU/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 12, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/2aGFVLz0oQPa3uxCfq9lcU", 
+  "copyrights": [
+    {
+      "text": "2004 Atlantic Recording Corp. Manufactured & Marketed by Warner Strategic Marketing", 
+      "type": "C"
+    }, 
+    {
+      "text": "2004 Atlantic Recording Corp. Manufactured & Marketed by Warner Strategic Marketing", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Booker T. & The MG's", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
+      }, 
+      "uri": "spotify:artist:2vDV0T8sxx2ENnKXds75e5", 
+      "href": "https://api.spotify.com/v1/artists/2vDV0T8sxx2ENnKXds75e5", 
+      "type": "artist", 
+      "id": "2vDV0T8sxx2ENnKXds75e5"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/deca4956b3d5f4dbda204683e8b3af82cfc51f89", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/822693478f008d58bd47af7de8a00cc88dc0605f", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/2dae7383ab32514335168445a22b3b01bc84b733", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "081227880460"
+  }, 
+  "type": "album", 
+  "id": "2aGFVLz0oQPa3uxCfq9lcU", 
+  "name": "Green Onions"
+}

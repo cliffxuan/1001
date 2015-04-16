@@ -1,0 +1,375 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6J6nlVu4JMveJz0YM9zDgL"
+  }, 
+  "release_date": "2000-10-02", 
+  "popularity": 65, 
+  "genres": [], 
+  "uri": "spotify:album:6J6nlVu4JMveJz0YM9zDgL", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Everything In Its Right Place", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/31DVVa40JpTudyGDNC1ROW"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ee189ebbdb4d0ff9f7e7b8409c21373e636b0e69", 
+        "is_playable": true, 
+        "uri": "spotify:track:31DVVa40JpTudyGDNC1ROW", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/31DVVa40JpTudyGDNC1ROW", 
+        "artists": [
+          {
+            "name": "Radiohead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+            }, 
+            "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb", 
+            "href": "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb", 
+            "type": "artist", 
+            "id": "4Z8W4fKeB5YxbusRsdQVPb"
+          }
+        ], 
+        "duration_ms": 251426, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "31DVVa40JpTudyGDNC1ROW"
+      }, 
+      {
+        "name": "Kid A", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1qFfsUxth2V4yXg8YcRblp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a102455f674f0fa08ca75c162a52e4429737b976", 
+        "is_playable": true, 
+        "uri": "spotify:track:1qFfsUxth2V4yXg8YcRblp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1qFfsUxth2V4yXg8YcRblp", 
+        "artists": [
+          {
+            "name": "Radiohead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+            }, 
+            "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb", 
+            "href": "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb", 
+            "type": "artist", 
+            "id": "4Z8W4fKeB5YxbusRsdQVPb"
+          }
+        ], 
+        "duration_ms": 284507, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "1qFfsUxth2V4yXg8YcRblp"
+      }, 
+      {
+        "name": "The National Anthem", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7x7F7xBqXqr0L9wqJ3tuQW"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f15afe243cf0cd7d2c8f135366cd692573dceed4", 
+        "is_playable": true, 
+        "uri": "spotify:track:7x7F7xBqXqr0L9wqJ3tuQW", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7x7F7xBqXqr0L9wqJ3tuQW", 
+        "artists": [
+          {
+            "name": "Radiohead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+            }, 
+            "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb", 
+            "href": "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb", 
+            "type": "artist", 
+            "id": "4Z8W4fKeB5YxbusRsdQVPb"
+          }
+        ], 
+        "duration_ms": 351693, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "7x7F7xBqXqr0L9wqJ3tuQW"
+      }, 
+      {
+        "name": "How To Disappear Completely", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/03KRkF62P0whzOVY8v3KGj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ed0ebbf30f67778913ab49f41ba6f749abcd36dc", 
+        "is_playable": true, 
+        "uri": "spotify:track:03KRkF62P0whzOVY8v3KGj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/03KRkF62P0whzOVY8v3KGj", 
+        "artists": [
+          {
+            "name": "Radiohead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+            }, 
+            "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb", 
+            "href": "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb", 
+            "type": "artist", 
+            "id": "4Z8W4fKeB5YxbusRsdQVPb"
+          }
+        ], 
+        "duration_ms": 356333, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "03KRkF62P0whzOVY8v3KGj"
+      }, 
+      {
+        "name": "Treefingers", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6eP8U5wHSY5i9dGNtOUZA0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8a5200ea7eaa29b39d6bb0745c90c11ef39a8bf4", 
+        "is_playable": true, 
+        "uri": "spotify:track:6eP8U5wHSY5i9dGNtOUZA0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6eP8U5wHSY5i9dGNtOUZA0", 
+        "artists": [
+          {
+            "name": "Radiohead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+            }, 
+            "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb", 
+            "href": "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb", 
+            "type": "artist", 
+            "id": "4Z8W4fKeB5YxbusRsdQVPb"
+          }
+        ], 
+        "duration_ms": 222600, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "6eP8U5wHSY5i9dGNtOUZA0"
+      }, 
+      {
+        "name": "Optimistic", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Vl7qwKGWX5WLhznpC4hRu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8426bb6da3f602d62cea79f547a01d8ebf6e8a49", 
+        "is_playable": true, 
+        "uri": "spotify:track:0Vl7qwKGWX5WLhznpC4hRu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0Vl7qwKGWX5WLhznpC4hRu", 
+        "artists": [
+          {
+            "name": "Radiohead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+            }, 
+            "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb", 
+            "href": "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb", 
+            "type": "artist", 
+            "id": "4Z8W4fKeB5YxbusRsdQVPb"
+          }
+        ], 
+        "duration_ms": 315973, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "0Vl7qwKGWX5WLhznpC4hRu"
+      }, 
+      {
+        "name": "In Limbo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6FdJQ4NzaoAeERBP0dXGEQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c506a3397bb25de2020aa1d11bdd0614287fa804", 
+        "is_playable": true, 
+        "uri": "spotify:track:6FdJQ4NzaoAeERBP0dXGEQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6FdJQ4NzaoAeERBP0dXGEQ", 
+        "artists": [
+          {
+            "name": "Radiohead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+            }, 
+            "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb", 
+            "href": "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb", 
+            "type": "artist", 
+            "id": "4Z8W4fKeB5YxbusRsdQVPb"
+          }
+        ], 
+        "duration_ms": 211000, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "6FdJQ4NzaoAeERBP0dXGEQ"
+      }, 
+      {
+        "name": "Idioteque", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0XFZeItaZHlOOYgWSdh8O7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5270b64388990d21117528d71b06d128490b9caf", 
+        "is_playable": true, 
+        "uri": "spotify:track:0XFZeItaZHlOOYgWSdh8O7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0XFZeItaZHlOOYgWSdh8O7", 
+        "artists": [
+          {
+            "name": "Radiohead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+            }, 
+            "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb", 
+            "href": "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb", 
+            "type": "artist", 
+            "id": "4Z8W4fKeB5YxbusRsdQVPb"
+          }
+        ], 
+        "duration_ms": 309093, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "0XFZeItaZHlOOYgWSdh8O7"
+      }, 
+      {
+        "name": "Morning Bell", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4P2MKtSjDNvUmoN2p9N0L5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3698e1f0413a6836232420a36072678565d3d8fb", 
+        "is_playable": true, 
+        "uri": "spotify:track:4P2MKtSjDNvUmoN2p9N0L5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4P2MKtSjDNvUmoN2p9N0L5", 
+        "artists": [
+          {
+            "name": "Radiohead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+            }, 
+            "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb", 
+            "href": "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb", 
+            "type": "artist", 
+            "id": "4Z8W4fKeB5YxbusRsdQVPb"
+          }
+        ], 
+        "duration_ms": 275800, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "4P2MKtSjDNvUmoN2p9N0L5"
+      }, 
+      {
+        "name": "Motion Picture Soundtrack", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3pUPWvK6ie6vGVi272p5tb"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1e82bcb5300edbe8876989aaed66c982863517be", 
+        "is_playable": true, 
+        "uri": "spotify:track:3pUPWvK6ie6vGVi272p5tb", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3pUPWvK6ie6vGVi272p5tb", 
+        "artists": [
+          {
+            "name": "Radiohead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+            }, 
+            "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb", 
+            "href": "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb", 
+            "type": "artist", 
+            "id": "4Z8W4fKeB5YxbusRsdQVPb"
+          }
+        ], 
+        "duration_ms": 200482, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "3pUPWvK6ie6vGVi272p5tb"
+      }, 
+      {
+        "name": "Untitled", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7c8wsJ3KWknNaOZVqC7pFv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6722941dbe61d1371d3f605dfac9a6db6e682c81", 
+        "is_playable": true, 
+        "uri": "spotify:track:7c8wsJ3KWknNaOZVqC7pFv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7c8wsJ3KWknNaOZVqC7pFv", 
+        "artists": [
+          {
+            "name": "Radiohead", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+            }, 
+            "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb", 
+            "href": "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb", 
+            "type": "artist", 
+            "id": "4Z8W4fKeB5YxbusRsdQVPb"
+          }
+        ], 
+        "duration_ms": 52694, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "7c8wsJ3KWknNaOZVqC7pFv"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/6J6nlVu4JMveJz0YM9zDgL/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 11, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/6J6nlVu4JMveJz0YM9zDgL", 
+  "copyrights": [
+    {
+      "text": "2008 Parlophone Records Ltd, a Warner Music Group Company", 
+      "type": "C"
+    }, 
+    {
+      "text": "2008 Parlophone Records Ltd, a Warner Music Group Company", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Radiohead", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+      }, 
+      "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb", 
+      "href": "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb", 
+      "type": "artist", 
+      "id": "4Z8W4fKeB5YxbusRsdQVPb"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/c3aeb51328216ec61c11191d5c6c33f320164b95", 
+      "width": 600, 
+      "height": 600
+    }, 
+    {
+      "url": "https://i.scdn.co/image/690e5c2be4147fe16bf810b5d7e4ce3582319945", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/c855e570037c355b063567068807c45616e86cbb", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "5099922722355"
+  }, 
+  "type": "album", 
+  "id": "6J6nlVu4JMveJz0YM9zDgL", 
+  "name": "Kid A"
+}

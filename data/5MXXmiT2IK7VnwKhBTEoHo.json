@@ -1,0 +1,291 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5MXXmiT2IK7VnwKhBTEoHo"
+  }, 
+  "release_date": "2013-07-16", 
+  "popularity": 9, 
+  "genres": [], 
+  "uri": "spotify:album:5MXXmiT2IK7VnwKhBTEoHo", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Cry for a Shadow", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/230fOcdpYf9QgZ2vea95MO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5320b32efe1dc598ef648ac813e4553d47f47c63", 
+        "is_playable": true, 
+        "uri": "spotify:track:230fOcdpYf9QgZ2vea95MO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/230fOcdpYf9QgZ2vea95MO", 
+        "artists": [
+          {
+            "name": "The Beatles With Tony Sheridan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5264gfijccY4lvqa45OVEp"
+            }, 
+            "uri": "spotify:artist:5264gfijccY4lvqa45OVEp", 
+            "href": "https://api.spotify.com/v1/artists/5264gfijccY4lvqa45OVEp", 
+            "type": "artist", 
+            "id": "5264gfijccY4lvqa45OVEp"
+          }
+        ], 
+        "duration_ms": 143278, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "230fOcdpYf9QgZ2vea95MO"
+      }, 
+      {
+        "name": "Let's Dance", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7cKA51kD7QFvLpDlpqMTYn"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/021772b20716f600140949b8efee9f8619885ed5", 
+        "is_playable": true, 
+        "uri": "spotify:track:7cKA51kD7QFvLpDlpqMTYn", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7cKA51kD7QFvLpDlpqMTYn", 
+        "artists": [
+          {
+            "name": "The Beatles With Tony Sheridan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5264gfijccY4lvqa45OVEp"
+            }, 
+            "uri": "spotify:artist:5264gfijccY4lvqa45OVEp", 
+            "href": "https://api.spotify.com/v1/artists/5264gfijccY4lvqa45OVEp", 
+            "type": "artist", 
+            "id": "5264gfijccY4lvqa45OVEp"
+          }
+        ], 
+        "duration_ms": 148926, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "7cKA51kD7QFvLpDlpqMTYn"
+      }, 
+      {
+        "name": "If You Love Me Baby", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Pol2JFchkQJGIPoGzCswk"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/23f3aa537dc6480320526d64320263a497d774db", 
+        "is_playable": true, 
+        "uri": "spotify:track:2Pol2JFchkQJGIPoGzCswk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2Pol2JFchkQJGIPoGzCswk", 
+        "artists": [
+          {
+            "name": "The Beatles With Tony Sheridan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5264gfijccY4lvqa45OVEp"
+            }, 
+            "uri": "spotify:artist:5264gfijccY4lvqa45OVEp", 
+            "href": "https://api.spotify.com/v1/artists/5264gfijccY4lvqa45OVEp", 
+            "type": "artist", 
+            "id": "5264gfijccY4lvqa45OVEp"
+          }
+        ], 
+        "duration_ms": 173511, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "2Pol2JFchkQJGIPoGzCswk"
+      }, 
+      {
+        "name": "What'd I Say", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/72H9RR5thXmlFnQUs56rfG"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e7e0da3b765779183728164afafbc3a0f99bb5f1", 
+        "is_playable": true, 
+        "uri": "spotify:track:72H9RR5thXmlFnQUs56rfG", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/72H9RR5thXmlFnQUs56rfG", 
+        "artists": [
+          {
+            "name": "The Beatles With Tony Sheridan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5264gfijccY4lvqa45OVEp"
+            }, 
+            "uri": "spotify:artist:5264gfijccY4lvqa45OVEp", 
+            "href": "https://api.spotify.com/v1/artists/5264gfijccY4lvqa45OVEp", 
+            "type": "artist", 
+            "id": "5264gfijccY4lvqa45OVEp"
+          }
+        ], 
+        "duration_ms": 157570, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "72H9RR5thXmlFnQUs56rfG"
+      }, 
+      {
+        "name": "Sweet Georgia Brown", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0uU2QqB5Ip4WTLzXjsr7N0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bd5957e5cf472e695f27b18c6beac517f9beba9b", 
+        "is_playable": true, 
+        "uri": "spotify:track:0uU2QqB5Ip4WTLzXjsr7N0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0uU2QqB5Ip4WTLzXjsr7N0", 
+        "artists": [
+          {
+            "name": "The Beatles With Tony Sheridan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5264gfijccY4lvqa45OVEp"
+            }, 
+            "uri": "spotify:artist:5264gfijccY4lvqa45OVEp", 
+            "href": "https://api.spotify.com/v1/artists/5264gfijccY4lvqa45OVEp", 
+            "type": "artist", 
+            "id": "5264gfijccY4lvqa45OVEp"
+          }
+        ], 
+        "duration_ms": 123681, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "0uU2QqB5Ip4WTLzXjsr7N0"
+      }, 
+      {
+        "name": "Ruby Baby", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4qmuGcriin7WjMZ9pTdrKl"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fa02da82761fc1fbeb50a7e49c88f0848bef7c9f", 
+        "is_playable": true, 
+        "uri": "spotify:track:4qmuGcriin7WjMZ9pTdrKl", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4qmuGcriin7WjMZ9pTdrKl", 
+        "artists": [
+          {
+            "name": "The Beatles With Tony Sheridan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5264gfijccY4lvqa45OVEp"
+            }, 
+            "uri": "spotify:artist:5264gfijccY4lvqa45OVEp", 
+            "href": "https://api.spotify.com/v1/artists/5264gfijccY4lvqa45OVEp", 
+            "type": "artist", 
+            "id": "5264gfijccY4lvqa45OVEp"
+          }
+        ], 
+        "duration_ms": 169714, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "4qmuGcriin7WjMZ9pTdrKl"
+      }, 
+      {
+        "name": "Ya Ya", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3mZhuoxkQZsUxlrYdg9wCF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5e8130c8d502f121b6edaa9a4374325bc5126167", 
+        "is_playable": true, 
+        "uri": "spotify:track:3mZhuoxkQZsUxlrYdg9wCF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3mZhuoxkQZsUxlrYdg9wCF", 
+        "artists": [
+          {
+            "name": "The Beatles With Tony Sheridan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5264gfijccY4lvqa45OVEp"
+            }, 
+            "uri": "spotify:artist:5264gfijccY4lvqa45OVEp", 
+            "href": "https://api.spotify.com/v1/artists/5264gfijccY4lvqa45OVEp", 
+            "type": "artist", 
+            "id": "5264gfijccY4lvqa45OVEp"
+          }
+        ], 
+        "duration_ms": 309963, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "3mZhuoxkQZsUxlrYdg9wCF"
+      }, 
+      {
+        "name": "Why", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7kYG1uz1jlNVyn6tk93zaV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/409a6992039542504a8a23f8e34f8bcf1c0caa4b", 
+        "is_playable": true, 
+        "uri": "spotify:track:7kYG1uz1jlNVyn6tk93zaV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7kYG1uz1jlNVyn6tk93zaV", 
+        "artists": [
+          {
+            "name": "The Beatles With Tony Sheridan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5264gfijccY4lvqa45OVEp"
+            }, 
+            "uri": "spotify:artist:5264gfijccY4lvqa45OVEp", 
+            "href": "https://api.spotify.com/v1/artists/5264gfijccY4lvqa45OVEp", 
+            "type": "artist", 
+            "id": "5264gfijccY4lvqa45OVEp"
+          }
+        ], 
+        "duration_ms": 179072, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "7kYG1uz1jlNVyn6tk93zaV"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/5MXXmiT2IK7VnwKhBTEoHo/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 8, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/5MXXmiT2IK7VnwKhBTEoHo", 
+  "copyrights": [
+    {
+      "text": "Lionfish Music Group, Inc.", 
+      "type": "C"
+    }, 
+    {
+      "text": "Lionfish Music Group, Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "The Beatles With Tony Sheridan", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5264gfijccY4lvqa45OVEp"
+      }, 
+      "uri": "spotify:artist:5264gfijccY4lvqa45OVEp", 
+      "href": "https://api.spotify.com/v1/artists/5264gfijccY4lvqa45OVEp", 
+      "type": "artist", 
+      "id": "5264gfijccY4lvqa45OVEp"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/39f4a6cec3ccae59ff34f5b1f122cbb6b01d6993", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/6f935bebd1d7626e209478a1cba50cacc944cbca", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/8aa1f51315066f7b27305bf3ef5aaf69b5b3329c", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "3610153492576"
+  }, 
+  "type": "album", 
+  "id": "5MXXmiT2IK7VnwKhBTEoHo", 
+  "name": "The Beatles With Tony Sheridan"
+}

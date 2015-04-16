@@ -1,0 +1,431 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/09AwlP99cHfKVNKv4FC8VW"
+  }, 
+  "release_date": "1995-06-09", 
+  "popularity": 66, 
+  "genres": [], 
+  "uri": "spotify:album:09AwlP99cHfKVNKv4FC8VW", 
+  "tracks": {
+    "items": [
+      {
+        "name": "All I Really Want", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3CKTKuCbHz97i9vYyiP8gt"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fd4de72679ccd1a408ab4c6116929f3c420fb9b6", 
+        "is_playable": true, 
+        "uri": "spotify:track:3CKTKuCbHz97i9vYyiP8gt", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3CKTKuCbHz97i9vYyiP8gt", 
+        "artists": [
+          {
+            "name": "Alanis Morissette", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+            }, 
+            "uri": "spotify:artist:6ogn9necmbUdCppmNnGOdi", 
+            "href": "https://api.spotify.com/v1/artists/6ogn9necmbUdCppmNnGOdi", 
+            "type": "artist", 
+            "id": "6ogn9necmbUdCppmNnGOdi"
+          }
+        ], 
+        "duration_ms": 284640, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "3CKTKuCbHz97i9vYyiP8gt"
+      }, 
+      {
+        "name": "You Oughta Know", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Dw9z44gXhplDh5HCWZIxP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8e53f07b94651c24344ec23ef8edc3aa7fb799f6", 
+        "is_playable": true, 
+        "uri": "spotify:track:0Dw9z44gXhplDh5HCWZIxP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0Dw9z44gXhplDh5HCWZIxP", 
+        "artists": [
+          {
+            "name": "Alanis Morissette", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+            }, 
+            "uri": "spotify:artist:6ogn9necmbUdCppmNnGOdi", 
+            "href": "https://api.spotify.com/v1/artists/6ogn9necmbUdCppmNnGOdi", 
+            "type": "artist", 
+            "id": "6ogn9necmbUdCppmNnGOdi"
+          }
+        ], 
+        "duration_ms": 249200, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "0Dw9z44gXhplDh5HCWZIxP"
+      }, 
+      {
+        "name": "Perfect", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/05LfzP4KR5qmTNSKazaLuO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8bf193268e5f0d42f3e357657645c85640508c80", 
+        "is_playable": true, 
+        "uri": "spotify:track:05LfzP4KR5qmTNSKazaLuO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/05LfzP4KR5qmTNSKazaLuO", 
+        "artists": [
+          {
+            "name": "Alanis Morissette", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+            }, 
+            "uri": "spotify:artist:6ogn9necmbUdCppmNnGOdi", 
+            "href": "https://api.spotify.com/v1/artists/6ogn9necmbUdCppmNnGOdi", 
+            "type": "artist", 
+            "id": "6ogn9necmbUdCppmNnGOdi"
+          }
+        ], 
+        "duration_ms": 187893, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "05LfzP4KR5qmTNSKazaLuO"
+      }, 
+      {
+        "name": "Hand In My Pocket", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3ArPxT1Wt0Yse6kBeCqGFe"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7bfcd081d19674ac397f7df5eaf9f1ee4dcd87bc", 
+        "is_playable": true, 
+        "uri": "spotify:track:3ArPxT1Wt0Yse6kBeCqGFe", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3ArPxT1Wt0Yse6kBeCqGFe", 
+        "artists": [
+          {
+            "name": "Alanis Morissette", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+            }, 
+            "uri": "spotify:artist:6ogn9necmbUdCppmNnGOdi", 
+            "href": "https://api.spotify.com/v1/artists/6ogn9necmbUdCppmNnGOdi", 
+            "type": "artist", 
+            "id": "6ogn9necmbUdCppmNnGOdi"
+          }
+        ], 
+        "duration_ms": 221706, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "3ArPxT1Wt0Yse6kBeCqGFe"
+      }, 
+      {
+        "name": "Right Through You", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3wlAFApMFjuXX3PqcTmRMS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7b37fc9aeee99e62116d8ed72b689b73867cafde", 
+        "is_playable": true, 
+        "uri": "spotify:track:3wlAFApMFjuXX3PqcTmRMS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3wlAFApMFjuXX3PqcTmRMS", 
+        "artists": [
+          {
+            "name": "Alanis Morissette", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+            }, 
+            "uri": "spotify:artist:6ogn9necmbUdCppmNnGOdi", 
+            "href": "https://api.spotify.com/v1/artists/6ogn9necmbUdCppmNnGOdi", 
+            "type": "artist", 
+            "id": "6ogn9necmbUdCppmNnGOdi"
+          }
+        ], 
+        "duration_ms": 175826, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "3wlAFApMFjuXX3PqcTmRMS"
+      }, 
+      {
+        "name": "Forgiven", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/33Y5vdO35HEta1ctVhgMay"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0e4fa8656092764fd72ec20bf7f748ecc3b0fb13", 
+        "is_playable": true, 
+        "uri": "spotify:track:33Y5vdO35HEta1ctVhgMay", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/33Y5vdO35HEta1ctVhgMay", 
+        "artists": [
+          {
+            "name": "Alanis Morissette", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+            }, 
+            "uri": "spotify:artist:6ogn9necmbUdCppmNnGOdi", 
+            "href": "https://api.spotify.com/v1/artists/6ogn9necmbUdCppmNnGOdi", 
+            "type": "artist", 
+            "id": "6ogn9necmbUdCppmNnGOdi"
+          }
+        ], 
+        "duration_ms": 300266, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "33Y5vdO35HEta1ctVhgMay"
+      }, 
+      {
+        "name": "You Learn", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1HsbGJnOXPWfocSS6FoR60"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/58623e0f30a0bc8ee8f8f871a5679287b0653a50", 
+        "is_playable": true, 
+        "uri": "spotify:track:1HsbGJnOXPWfocSS6FoR60", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1HsbGJnOXPWfocSS6FoR60", 
+        "artists": [
+          {
+            "name": "Alanis Morissette", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+            }, 
+            "uri": "spotify:artist:6ogn9necmbUdCppmNnGOdi", 
+            "href": "https://api.spotify.com/v1/artists/6ogn9necmbUdCppmNnGOdi", 
+            "type": "artist", 
+            "id": "6ogn9necmbUdCppmNnGOdi"
+          }
+        ], 
+        "duration_ms": 239640, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "1HsbGJnOXPWfocSS6FoR60"
+      }, 
+      {
+        "name": "Head Over Feet", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/36sZlJgvmP62qcEuAaV1uM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5dc5316ef1ff553f93fe573f74328f8f3a630a82", 
+        "is_playable": true, 
+        "uri": "spotify:track:36sZlJgvmP62qcEuAaV1uM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/36sZlJgvmP62qcEuAaV1uM", 
+        "artists": [
+          {
+            "name": "Alanis Morissette", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+            }, 
+            "uri": "spotify:artist:6ogn9necmbUdCppmNnGOdi", 
+            "href": "https://api.spotify.com/v1/artists/6ogn9necmbUdCppmNnGOdi", 
+            "type": "artist", 
+            "id": "6ogn9necmbUdCppmNnGOdi"
+          }
+        ], 
+        "duration_ms": 265040, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "36sZlJgvmP62qcEuAaV1uM"
+      }, 
+      {
+        "name": "Mary Jane", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3qmLgkFN1rChCH6CgfNOKD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9335833b1ce56f2c3c64d2f8395040737bf6ab02", 
+        "is_playable": true, 
+        "uri": "spotify:track:3qmLgkFN1rChCH6CgfNOKD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3qmLgkFN1rChCH6CgfNOKD", 
+        "artists": [
+          {
+            "name": "Alanis Morissette", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+            }, 
+            "uri": "spotify:artist:6ogn9necmbUdCppmNnGOdi", 
+            "href": "https://api.spotify.com/v1/artists/6ogn9necmbUdCppmNnGOdi", 
+            "type": "artist", 
+            "id": "6ogn9necmbUdCppmNnGOdi"
+          }
+        ], 
+        "duration_ms": 280626, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "3qmLgkFN1rChCH6CgfNOKD"
+      }, 
+      {
+        "name": "Ironic", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4oGTdOClZUxcM2H3UmXlwL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a4f0620d883db3cdcf71390ec8fa320042716447", 
+        "is_playable": true, 
+        "uri": "spotify:track:4oGTdOClZUxcM2H3UmXlwL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4oGTdOClZUxcM2H3UmXlwL", 
+        "artists": [
+          {
+            "name": "Alanis Morissette", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+            }, 
+            "uri": "spotify:artist:6ogn9necmbUdCppmNnGOdi", 
+            "href": "https://api.spotify.com/v1/artists/6ogn9necmbUdCppmNnGOdi", 
+            "type": "artist", 
+            "id": "6ogn9necmbUdCppmNnGOdi"
+          }
+        ], 
+        "duration_ms": 225933, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "4oGTdOClZUxcM2H3UmXlwL"
+      }, 
+      {
+        "name": "Not The Doctor", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1lqbCE0cZGyyeGCUjzzOmk"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/eeb3e28d33eb5496e29a5df7ca52ca81293b03f2", 
+        "is_playable": true, 
+        "uri": "spotify:track:1lqbCE0cZGyyeGCUjzzOmk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1lqbCE0cZGyyeGCUjzzOmk", 
+        "artists": [
+          {
+            "name": "Alanis Morissette", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+            }, 
+            "uri": "spotify:artist:6ogn9necmbUdCppmNnGOdi", 
+            "href": "https://api.spotify.com/v1/artists/6ogn9necmbUdCppmNnGOdi", 
+            "type": "artist", 
+            "id": "6ogn9necmbUdCppmNnGOdi"
+          }
+        ], 
+        "duration_ms": 227600, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "1lqbCE0cZGyyeGCUjzzOmk"
+      }, 
+      {
+        "name": "Wake Up", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Hp35aGE6dqsITrgPAIbQg"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f813ed6602b3b3b65ca5aa373a9f042ca5c972b0", 
+        "is_playable": true, 
+        "uri": "spotify:track:1Hp35aGE6dqsITrgPAIbQg", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1Hp35aGE6dqsITrgPAIbQg", 
+        "artists": [
+          {
+            "name": "Alanis Morissette", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+            }, 
+            "uri": "spotify:artist:6ogn9necmbUdCppmNnGOdi", 
+            "href": "https://api.spotify.com/v1/artists/6ogn9necmbUdCppmNnGOdi", 
+            "type": "artist", 
+            "id": "6ogn9necmbUdCppmNnGOdi"
+          }
+        ], 
+        "duration_ms": 293800, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "1Hp35aGE6dqsITrgPAIbQg"
+      }, 
+      {
+        "name": "You Oughta Know - Hidden LP Remix + Additional Hidden Track", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1gVY7OnMPQIksGqi6KR4fD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1718baf1caff611d326f018ebf4f95856e28fc6b", 
+        "is_playable": true, 
+        "uri": "spotify:track:1gVY7OnMPQIksGqi6KR4fD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1gVY7OnMPQIksGqi6KR4fD", 
+        "artists": [
+          {
+            "name": "Alanis Morissette", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+            }, 
+            "uri": "spotify:artist:6ogn9necmbUdCppmNnGOdi", 
+            "href": "https://api.spotify.com/v1/artists/6ogn9necmbUdCppmNnGOdi", 
+            "type": "artist", 
+            "id": "6ogn9necmbUdCppmNnGOdi"
+          }
+        ], 
+        "duration_ms": 492960, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "1gVY7OnMPQIksGqi6KR4fD"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/09AwlP99cHfKVNKv4FC8VW/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 13, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/09AwlP99cHfKVNKv4FC8VW", 
+  "copyrights": [
+    {
+      "text": "1995 Maverick Recording Company", 
+      "type": "C"
+    }, 
+    {
+      "text": "1995 Maverick Recording Company", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Alanis Morissette", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+      }, 
+      "uri": "spotify:artist:6ogn9necmbUdCppmNnGOdi", 
+      "href": "https://api.spotify.com/v1/artists/6ogn9necmbUdCppmNnGOdi", 
+      "type": "artist", 
+      "id": "6ogn9necmbUdCppmNnGOdi"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/6cbf1506b7ec34f8141b35bcc88a5ee99f8e6e05", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/b45f1b84098251d48f8e257312818ae31784be73", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/eafedcc78b6e352b9d9d1790984c2e33953c81ff", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "093624590163"
+  }, 
+  "type": "album", 
+  "id": "09AwlP99cHfKVNKv4FC8VW", 
+  "name": "Jagged Little Pill"
+}

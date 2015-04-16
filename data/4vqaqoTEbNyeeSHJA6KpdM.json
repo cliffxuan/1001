@@ -1,0 +1,403 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4vqaqoTEbNyeeSHJA6KpdM"
+  }, 
+  "release_date": "1965", 
+  "popularity": 50, 
+  "genres": [], 
+  "uri": "spotify:album:4vqaqoTEbNyeeSHJA6KpdM", 
+  "tracks": {
+    "items": [
+      {
+        "name": "The Witch", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5IY9xXJ6E1o6IiCc8ykDro"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a80c7b4ada129ebb9ad76080ad77ad075b68a86c", 
+        "is_playable": true, 
+        "uri": "spotify:track:5IY9xXJ6E1o6IiCc8ykDro", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5IY9xXJ6E1o6IiCc8ykDro", 
+        "artists": [
+          {
+            "name": "The Sonics", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
+            }, 
+            "uri": "spotify:artist:2g3PKH7Z1Ofn5oGR6oDjLy", 
+            "href": "https://api.spotify.com/v1/artists/2g3PKH7Z1Ofn5oGR6oDjLy", 
+            "type": "artist", 
+            "id": "2g3PKH7Z1Ofn5oGR6oDjLy"
+          }
+        ], 
+        "duration_ms": 160826, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "5IY9xXJ6E1o6IiCc8ykDro"
+      }, 
+      {
+        "name": "Do You Love Me", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7yU1V4gJGqwxH3ymHyXfKp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4e0b6b30c312a1ee85834e86caccc905e56d293a", 
+        "is_playable": true, 
+        "uri": "spotify:track:7yU1V4gJGqwxH3ymHyXfKp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7yU1V4gJGqwxH3ymHyXfKp", 
+        "artists": [
+          {
+            "name": "The Sonics", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
+            }, 
+            "uri": "spotify:artist:2g3PKH7Z1Ofn5oGR6oDjLy", 
+            "href": "https://api.spotify.com/v1/artists/2g3PKH7Z1Ofn5oGR6oDjLy", 
+            "type": "artist", 
+            "id": "2g3PKH7Z1Ofn5oGR6oDjLy"
+          }
+        ], 
+        "duration_ms": 138933, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "7yU1V4gJGqwxH3ymHyXfKp"
+      }, 
+      {
+        "name": "Roll over Beethoven", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1XmYh7bwrqyL9luXQC4awM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a6959b3eb90ae4b1a1441ada38283c665bcccac0", 
+        "is_playable": true, 
+        "uri": "spotify:track:1XmYh7bwrqyL9luXQC4awM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1XmYh7bwrqyL9luXQC4awM", 
+        "artists": [
+          {
+            "name": "The Sonics", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
+            }, 
+            "uri": "spotify:artist:2g3PKH7Z1Ofn5oGR6oDjLy", 
+            "href": "https://api.spotify.com/v1/artists/2g3PKH7Z1Ofn5oGR6oDjLy", 
+            "type": "artist", 
+            "id": "2g3PKH7Z1Ofn5oGR6oDjLy"
+          }
+        ], 
+        "duration_ms": 169306, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "1XmYh7bwrqyL9luXQC4awM"
+      }, 
+      {
+        "name": "Boss Hoss", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Ux3HFLGu0lNBnVErTdNo8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2bbbfba0a5c59555632d63eec8ac41e82a225075", 
+        "is_playable": true, 
+        "uri": "spotify:track:4Ux3HFLGu0lNBnVErTdNo8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4Ux3HFLGu0lNBnVErTdNo8", 
+        "artists": [
+          {
+            "name": "The Sonics", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
+            }, 
+            "uri": "spotify:artist:2g3PKH7Z1Ofn5oGR6oDjLy", 
+            "href": "https://api.spotify.com/v1/artists/2g3PKH7Z1Ofn5oGR6oDjLy", 
+            "type": "artist", 
+            "id": "2g3PKH7Z1Ofn5oGR6oDjLy"
+          }
+        ], 
+        "duration_ms": 144266, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "4Ux3HFLGu0lNBnVErTdNo8"
+      }, 
+      {
+        "name": "Dirty Robber", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3nsApvg0vFcfm7Lmt7QRvs"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/913c366885b14292274a0a1bab588ef44c4f7e8d", 
+        "is_playable": true, 
+        "uri": "spotify:track:3nsApvg0vFcfm7Lmt7QRvs", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3nsApvg0vFcfm7Lmt7QRvs", 
+        "artists": [
+          {
+            "name": "The Sonics", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
+            }, 
+            "uri": "spotify:artist:2g3PKH7Z1Ofn5oGR6oDjLy", 
+            "href": "https://api.spotify.com/v1/artists/2g3PKH7Z1Ofn5oGR6oDjLy", 
+            "type": "artist", 
+            "id": "2g3PKH7Z1Ofn5oGR6oDjLy"
+          }
+        ], 
+        "duration_ms": 122560, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "3nsApvg0vFcfm7Lmt7QRvs"
+      }, 
+      {
+        "name": "Have Love Will Travel", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2uXkW8uJcOIhlbUatEPLPs"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b260f11d050a1e80990495d60b57491dad64f8cc", 
+        "is_playable": true, 
+        "uri": "spotify:track:2uXkW8uJcOIhlbUatEPLPs", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2uXkW8uJcOIhlbUatEPLPs", 
+        "artists": [
+          {
+            "name": "The Sonics", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
+            }, 
+            "uri": "spotify:artist:2g3PKH7Z1Ofn5oGR6oDjLy", 
+            "href": "https://api.spotify.com/v1/artists/2g3PKH7Z1Ofn5oGR6oDjLy", 
+            "type": "artist", 
+            "id": "2g3PKH7Z1Ofn5oGR6oDjLy"
+          }
+        ], 
+        "duration_ms": 160400, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "2uXkW8uJcOIhlbUatEPLPs"
+      }, 
+      {
+        "name": "Psycho", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3bbZNvBuGRVElpRLENwa3J"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5209b174b9069904083cadbe7ca7574cd4129610", 
+        "is_playable": true, 
+        "uri": "spotify:track:3bbZNvBuGRVElpRLENwa3J", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3bbZNvBuGRVElpRLENwa3J", 
+        "artists": [
+          {
+            "name": "The Sonics", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
+            }, 
+            "uri": "spotify:artist:2g3PKH7Z1Ofn5oGR6oDjLy", 
+            "href": "https://api.spotify.com/v1/artists/2g3PKH7Z1Ofn5oGR6oDjLy", 
+            "type": "artist", 
+            "id": "2g3PKH7Z1Ofn5oGR6oDjLy"
+          }
+        ], 
+        "duration_ms": 137866, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "3bbZNvBuGRVElpRLENwa3J"
+      }, 
+      {
+        "name": "Money", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6qBYciZgi7JqSoNf8g7NpY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/169aa6cdf7f18e02dca43f75ff1250c79df6dd19", 
+        "is_playable": true, 
+        "uri": "spotify:track:6qBYciZgi7JqSoNf8g7NpY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6qBYciZgi7JqSoNf8g7NpY", 
+        "artists": [
+          {
+            "name": "The Sonics", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
+            }, 
+            "uri": "spotify:artist:2g3PKH7Z1Ofn5oGR6oDjLy", 
+            "href": "https://api.spotify.com/v1/artists/2g3PKH7Z1Ofn5oGR6oDjLy", 
+            "type": "artist", 
+            "id": "2g3PKH7Z1Ofn5oGR6oDjLy"
+          }
+        ], 
+        "duration_ms": 120706, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "6qBYciZgi7JqSoNf8g7NpY"
+      }, 
+      {
+        "name": "Walkin' the Dog", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1pPGQdGD3gXLZm2Y1DgiHo"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fe115866853f4a4ce90daf3d2309dae9ca6facee", 
+        "is_playable": true, 
+        "uri": "spotify:track:1pPGQdGD3gXLZm2Y1DgiHo", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1pPGQdGD3gXLZm2Y1DgiHo", 
+        "artists": [
+          {
+            "name": "The Sonics", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
+            }, 
+            "uri": "spotify:artist:2g3PKH7Z1Ofn5oGR6oDjLy", 
+            "href": "https://api.spotify.com/v1/artists/2g3PKH7Z1Ofn5oGR6oDjLy", 
+            "type": "artist", 
+            "id": "2g3PKH7Z1Ofn5oGR6oDjLy"
+          }
+        ], 
+        "duration_ms": 165466, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "1pPGQdGD3gXLZm2Y1DgiHo"
+      }, 
+      {
+        "name": "Night Time Is the Right Time", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5LQVs5I0r6PngDCELhQzAi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8ef81e72031ee1477b8f462aff00328e356f1db4", 
+        "is_playable": true, 
+        "uri": "spotify:track:5LQVs5I0r6PngDCELhQzAi", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5LQVs5I0r6PngDCELhQzAi", 
+        "artists": [
+          {
+            "name": "The Sonics", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
+            }, 
+            "uri": "spotify:artist:2g3PKH7Z1Ofn5oGR6oDjLy", 
+            "href": "https://api.spotify.com/v1/artists/2g3PKH7Z1Ofn5oGR6oDjLy", 
+            "type": "artist", 
+            "id": "2g3PKH7Z1Ofn5oGR6oDjLy"
+          }
+        ], 
+        "duration_ms": 178133, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "5LQVs5I0r6PngDCELhQzAi"
+      }, 
+      {
+        "name": "Strychnine", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6u7UrwiZERRglVNSpgmxNf"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8d983236c4b2817c5b098c6b475787446dcfc8d6", 
+        "is_playable": true, 
+        "uri": "spotify:track:6u7UrwiZERRglVNSpgmxNf", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6u7UrwiZERRglVNSpgmxNf", 
+        "artists": [
+          {
+            "name": "The Sonics", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
+            }, 
+            "uri": "spotify:artist:2g3PKH7Z1Ofn5oGR6oDjLy", 
+            "href": "https://api.spotify.com/v1/artists/2g3PKH7Z1Ofn5oGR6oDjLy", 
+            "type": "artist", 
+            "id": "2g3PKH7Z1Ofn5oGR6oDjLy"
+          }
+        ], 
+        "duration_ms": 133093, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "6u7UrwiZERRglVNSpgmxNf"
+      }, 
+      {
+        "name": "Good Golly Miss Molly", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5aUMz88bQDj3iq9pvg9Ojy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f05606b306552392debd823c47f3130ee6d31a10", 
+        "is_playable": true, 
+        "uri": "spotify:track:5aUMz88bQDj3iq9pvg9Ojy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5aUMz88bQDj3iq9pvg9Ojy", 
+        "artists": [
+          {
+            "name": "The Sonics", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
+            }, 
+            "uri": "spotify:artist:2g3PKH7Z1Ofn5oGR6oDjLy", 
+            "href": "https://api.spotify.com/v1/artists/2g3PKH7Z1Ofn5oGR6oDjLy", 
+            "type": "artist", 
+            "id": "2g3PKH7Z1Ofn5oGR6oDjLy"
+          }
+        ], 
+        "duration_ms": 128840, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "5aUMz88bQDj3iq9pvg9Ojy"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/4vqaqoTEbNyeeSHJA6KpdM/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 12, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/4vqaqoTEbNyeeSHJA6KpdM", 
+  "copyrights": [
+    {
+      "text": "2013 Etiquette Records", 
+      "type": "C"
+    }, 
+    {
+      "text": "2013 Etiquette Records", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "The Sonics", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
+      }, 
+      "uri": "spotify:artist:2g3PKH7Z1Ofn5oGR6oDjLy", 
+      "href": "https://api.spotify.com/v1/artists/2g3PKH7Z1Ofn5oGR6oDjLy", 
+      "type": "artist", 
+      "id": "2g3PKH7Z1Ofn5oGR6oDjLy"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/e7a07ba6460b230291cc571ff3df941183ae9bcf", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/d139bfd5bd0a89e6071b81c27b7a8abc994f7181", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/a5813ef874c2227e6805e0f2a5df136434ca03b6", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "859709809342"
+  }, 
+  "type": "album", 
+  "id": "4vqaqoTEbNyeeSHJA6KpdM", 
+  "name": "Here Are the Sonics"
+}

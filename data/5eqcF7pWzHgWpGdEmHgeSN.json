@@ -1,0 +1,515 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
+  }, 
+  "release_date": "1977-09-16", 
+  "popularity": 61, 
+  "genres": [], 
+  "uri": "spotify:album:5eqcF7pWzHgWpGdEmHgeSN", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Uh-Oh, Love Comes To Town - 2005 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1ziWFozxLNQH76CGGizB32"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f6b10ed60752a8488d2c23f8af33b55f31b42958", 
+        "is_playable": true, 
+        "uri": "spotify:track:1ziWFozxLNQH76CGGizB32", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1ziWFozxLNQH76CGGizB32", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 169466, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "1ziWFozxLNQH76CGGizB32"
+      }, 
+      {
+        "name": "New Feeling - 2005 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2pmytOddxLVaASHQqTH9LO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ff823744f038902e333bb9d75d7a2017da8fd7fe", 
+        "is_playable": true, 
+        "uri": "spotify:track:2pmytOddxLVaASHQqTH9LO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2pmytOddxLVaASHQqTH9LO", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 189746, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "2pmytOddxLVaASHQqTH9LO"
+      }, 
+      {
+        "name": "Tentative Decisions - 2005 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4PJH0ivQdJw5MNMtg4uztn"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/935fcc17936182ac7cf0dc423134c3f726eec73d", 
+        "is_playable": true, 
+        "uri": "spotify:track:4PJH0ivQdJw5MNMtg4uztn", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4PJH0ivQdJw5MNMtg4uztn", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 188733, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "4PJH0ivQdJw5MNMtg4uztn"
+      }, 
+      {
+        "name": "Happy Day - 2005 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7ep7F087jSsCVNaeDyT1HB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/407fa35477c7e1330ca93c13d8bbd4127785dadd", 
+        "is_playable": true, 
+        "uri": "spotify:track:7ep7F087jSsCVNaeDyT1HB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7ep7F087jSsCVNaeDyT1HB", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 235973, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "7ep7F087jSsCVNaeDyT1HB"
+      }, 
+      {
+        "name": "Who Is It? - 2005 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6coM176wRv49AAdIAlwINm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f734ce42e49a415106f6c84193cc0f0395a95e73", 
+        "is_playable": true, 
+        "uri": "spotify:track:6coM176wRv49AAdIAlwINm", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6coM176wRv49AAdIAlwINm", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 104266, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "6coM176wRv49AAdIAlwINm"
+      }, 
+      {
+        "name": "No Compassion - 2005 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6OnVsxDfoaJQhC3iyU15UN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/af21fda76e52fca75780c9abd24e731e45992e22", 
+        "is_playable": true, 
+        "uri": "spotify:track:6OnVsxDfoaJQhC3iyU15UN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6OnVsxDfoaJQhC3iyU15UN", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 289493, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "6OnVsxDfoaJQhC3iyU15UN"
+      }, 
+      {
+        "name": "The Book I Read - 2005 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1WKEDO98nmcF1uYmMttw7B"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/97d1dd9c3bd6806180a3d7c1376484356821a588", 
+        "is_playable": true, 
+        "uri": "spotify:track:1WKEDO98nmcF1uYmMttw7B", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1WKEDO98nmcF1uYmMttw7B", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 250053, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "1WKEDO98nmcF1uYmMttw7B"
+      }, 
+      {
+        "name": "Don't Worry About The Government - 2005 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7zPfvP2sFsLxrKqezlvVm4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0a0120d3fb3ca60ae3dea8fc5de89a145d3583b0", 
+        "is_playable": true, 
+        "uri": "spotify:track:7zPfvP2sFsLxrKqezlvVm4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7zPfvP2sFsLxrKqezlvVm4", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 182120, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "7zPfvP2sFsLxrKqezlvVm4"
+      }, 
+      {
+        "name": "First Week / Last Week....Carefree", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5u7oGtNUQ29KCwA6Xw0GJY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2e778b66af826905b292759b9aba20b2b88cfbfc", 
+        "is_playable": true, 
+        "uri": "spotify:track:5u7oGtNUQ29KCwA6Xw0GJY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5u7oGtNUQ29KCwA6Xw0GJY", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 201573, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "5u7oGtNUQ29KCwA6Xw0GJY"
+      }, 
+      {
+        "name": "Psycho Killer - 2005 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d658a4e672ed7513c1e2378b49e18cb888bc25df", 
+        "is_playable": true, 
+        "uri": "spotify:track:1i6N76fftMZhijOzFQ5ZtL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1i6N76fftMZhijOzFQ5ZtL", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 261413, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "1i6N76fftMZhijOzFQ5ZtL"
+      }, 
+      {
+        "name": "Pulled Up - 2005 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1n9lGvOA1TKBvwVQ4tpB2o"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/04953af9af0d2749b4f33ada3f1660fcd6c8f59c", 
+        "is_playable": true, 
+        "uri": "spotify:track:1n9lGvOA1TKBvwVQ4tpB2o", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1n9lGvOA1TKBvwVQ4tpB2o", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 271346, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "1n9lGvOA1TKBvwVQ4tpB2o"
+      }, 
+      {
+        "name": "Love -> Building On Fire", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6hfsIlwOxJ0cX8v2SNntBQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5fdd4c5b8717a25591f5f6bb94ae20c02878e02e", 
+        "is_playable": true, 
+        "uri": "spotify:track:6hfsIlwOxJ0cX8v2SNntBQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6hfsIlwOxJ0cX8v2SNntBQ", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 177826, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "6hfsIlwOxJ0cX8v2SNntBQ"
+      }, 
+      {
+        "name": "I Wish You Wouldn't Say That - 2005 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3wDryXAf7AdbqETul2bcX6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/23e03aaf408a66d18db85e5f44771f1ecf00e0a2", 
+        "is_playable": true, 
+        "uri": "spotify:track:3wDryXAf7AdbqETul2bcX6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3wDryXAf7AdbqETul2bcX6", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 157040, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "3wDryXAf7AdbqETul2bcX6"
+      }, 
+      {
+        "name": "Psycho Killer - Acoustic", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5cE2nMYDgYj9gqG4KLafKy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0a9c62ced8451aaea8aeda2738d2d092fb6935c2", 
+        "is_playable": true, 
+        "uri": "spotify:track:5cE2nMYDgYj9gqG4KLafKy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5cE2nMYDgYj9gqG4KLafKy", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 258053, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "5cE2nMYDgYj9gqG4KLafKy"
+      }, 
+      {
+        "name": "I Feel It In My Heart - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0ur2laF44eMFXN80gHg5Lc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5028e40c654e97bdeee0b566bd4a93f2a7f6bd12", 
+        "is_playable": true, 
+        "uri": "spotify:track:0ur2laF44eMFXN80gHg5Lc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0ur2laF44eMFXN80gHg5Lc", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 193453, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "0ur2laF44eMFXN80gHg5Lc"
+      }, 
+      {
+        "name": "Sugar On My Tongue - 2005 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1w3IeWPxVHuw0gyXcGV2pN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4bfdfa7962e8294afb961d67b8c87d2d860d03c7", 
+        "is_playable": true, 
+        "uri": "spotify:track:1w3IeWPxVHuw0gyXcGV2pN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1w3IeWPxVHuw0gyXcGV2pN", 
+        "artists": [
+          {
+            "name": "Talking Heads", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+            }, 
+            "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+            "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+            "type": "artist", 
+            "id": "2x9SpqnPi8rlE9pjHBwmSC"
+          }
+        ], 
+        "duration_ms": 156480, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "1w3IeWPxVHuw0gyXcGV2pN"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/5eqcF7pWzHgWpGdEmHgeSN/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 16, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/5eqcF7pWzHgWpGdEmHgeSN", 
+  "copyrights": [
+    {
+      "text": "1977 & 2005 Sire Records Company", 
+      "type": "C"
+    }, 
+    {
+      "text": "1977 & 2005 Sire Records Company", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Talking Heads", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+      }, 
+      "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC", 
+      "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC", 
+      "type": "artist", 
+      "id": "2x9SpqnPi8rlE9pjHBwmSC"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/0fd1a760131459abbdfd5da8d5e4837c015dfaf7", 
+      "width": 640, 
+      "height": 570
+    }, 
+    {
+      "url": "https://i.scdn.co/image/6aaf5c3b56ed3739f1a0141c2f5362b6c45f50ed", 
+      "width": 300, 
+      "height": 267
+    }, 
+    {
+      "url": "https://i.scdn.co/image/7459ff7c97dac4277a0e2b8f21a58b2b90a22945", 
+      "width": 64, 
+      "height": 57
+    }
+  ], 
+  "external_ids": {
+    "upc": "603497146864"
+  }, 
+  "type": "album", 
+  "id": "5eqcF7pWzHgWpGdEmHgeSN", 
+  "name": "Talking Heads 77 (Deluxe Version)"
+}

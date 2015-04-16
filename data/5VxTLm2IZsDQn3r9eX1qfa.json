@@ -1,0 +1,585 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5VxTLm2IZsDQn3r9eX1qfa"
+  }, 
+  "release_date": "1995-05-18", 
+  "popularity": 53, 
+  "genres": [], 
+  "uri": "spotify:album:5VxTLm2IZsDQn3r9eX1qfa", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Keep On Movin' - feat. Caron Wheeler", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4NMtuxWfOPR6yNjAX0AWrR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6d3cae27f47be1fb585c3ae3d9b27fe78f975c23", 
+        "is_playable": true, 
+        "uri": "spotify:track:4NMtuxWfOPR6yNjAX0AWrR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4NMtuxWfOPR6yNjAX0AWrR", 
+        "artists": [
+          {
+            "name": "Soul II Soul", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
+            }, 
+            "uri": "spotify:artist:2sIx6SmAMw9IBySG3Uj0jf", 
+            "href": "https://api.spotify.com/v1/artists/2sIx6SmAMw9IBySG3Uj0jf", 
+            "type": "artist", 
+            "id": "2sIx6SmAMw9IBySG3Uj0jf"
+          }, 
+          {
+            "name": "Caron Wheeler", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY"
+            }, 
+            "uri": "spotify:artist:2RhMHmV21ZDcSGZ872U4ZY", 
+            "href": "https://api.spotify.com/v1/artists/2RhMHmV21ZDcSGZ872U4ZY", 
+            "type": "artist", 
+            "id": "2RhMHmV21ZDcSGZ872U4ZY"
+          }
+        ], 
+        "duration_ms": 362600, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "4NMtuxWfOPR6yNjAX0AWrR"
+      }, 
+      {
+        "name": "Fairplay", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1ktt0ue2M9L2kZvfZsT7rX"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ef6639736a40d9e5d65c52b60779935352e74715", 
+        "is_playable": true, 
+        "uri": "spotify:track:1ktt0ue2M9L2kZvfZsT7rX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1ktt0ue2M9L2kZvfZsT7rX", 
+        "artists": [
+          {
+            "name": "Soul II Soul", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
+            }, 
+            "uri": "spotify:artist:2sIx6SmAMw9IBySG3Uj0jf", 
+            "href": "https://api.spotify.com/v1/artists/2sIx6SmAMw9IBySG3Uj0jf", 
+            "type": "artist", 
+            "id": "2sIx6SmAMw9IBySG3Uj0jf"
+          }
+        ], 
+        "duration_ms": 238466, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "1ktt0ue2M9L2kZvfZsT7rX"
+      }, 
+      {
+        "name": "Holdin' On", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0vkMGj7QHuexe2jch6NHER"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e066bf0b036245f29bf922d415642eb404cc47cc", 
+        "is_playable": true, 
+        "uri": "spotify:track:0vkMGj7QHuexe2jch6NHER", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0vkMGj7QHuexe2jch6NHER", 
+        "artists": [
+          {
+            "name": "Soul II Soul", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
+            }, 
+            "uri": "spotify:artist:2sIx6SmAMw9IBySG3Uj0jf", 
+            "href": "https://api.spotify.com/v1/artists/2sIx6SmAMw9IBySG3Uj0jf", 
+            "type": "artist", 
+            "id": "2sIx6SmAMw9IBySG3Uj0jf"
+          }
+        ], 
+        "duration_ms": 231693, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "0vkMGj7QHuexe2jch6NHER"
+      }, 
+      {
+        "name": "Feeling Free - Live Rap", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2FV8STTAvBsegm1w1Us948"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1f0b32e6b4bcccd07c23d4cf29d39886213be0ce", 
+        "is_playable": true, 
+        "uri": "spotify:track:2FV8STTAvBsegm1w1Us948", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2FV8STTAvBsegm1w1Us948", 
+        "artists": [
+          {
+            "name": "Soul II Soul", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
+            }, 
+            "uri": "spotify:artist:2sIx6SmAMw9IBySG3Uj0jf", 
+            "href": "https://api.spotify.com/v1/artists/2sIx6SmAMw9IBySG3Uj0jf", 
+            "type": "artist", 
+            "id": "2sIx6SmAMw9IBySG3Uj0jf"
+          }
+        ], 
+        "duration_ms": 256000, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "2FV8STTAvBsegm1w1Us948"
+      }, 
+      {
+        "name": "African Dance", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1nmTYEsJVvSNwnxLS0rPsI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fea4e54423d3f3afd1b381c49aad426434d9e71a", 
+        "is_playable": true, 
+        "uri": "spotify:track:1nmTYEsJVvSNwnxLS0rPsI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1nmTYEsJVvSNwnxLS0rPsI", 
+        "artists": [
+          {
+            "name": "Soul II Soul", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
+            }, 
+            "uri": "spotify:artist:2sIx6SmAMw9IBySG3Uj0jf", 
+            "href": "https://api.spotify.com/v1/artists/2sIx6SmAMw9IBySG3Uj0jf", 
+            "type": "artist", 
+            "id": "2sIx6SmAMw9IBySG3Uj0jf"
+          }
+        ], 
+        "duration_ms": 367906, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "1nmTYEsJVvSNwnxLS0rPsI"
+      }, 
+      {
+        "name": "Dance", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Dc1DADQTIJ54wXNsnkkqU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d69b0cd1539146f7db0a0a1927464502fb438d1f", 
+        "is_playable": true, 
+        "uri": "spotify:track:1Dc1DADQTIJ54wXNsnkkqU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1Dc1DADQTIJ54wXNsnkkqU", 
+        "artists": [
+          {
+            "name": "Soul II Soul", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
+            }, 
+            "uri": "spotify:artist:2sIx6SmAMw9IBySG3Uj0jf", 
+            "href": "https://api.spotify.com/v1/artists/2sIx6SmAMw9IBySG3Uj0jf", 
+            "type": "artist", 
+            "id": "2sIx6SmAMw9IBySG3Uj0jf"
+          }
+        ], 
+        "duration_ms": 222000, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "1Dc1DADQTIJ54wXNsnkkqU"
+      }, 
+      {
+        "name": "Feel Free", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2D9taz6YmPo8bZ43OCFoRg"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9b4b552ce987960a714b236996c345e261a8be39", 
+        "is_playable": true, 
+        "uri": "spotify:track:2D9taz6YmPo8bZ43OCFoRg", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2D9taz6YmPo8bZ43OCFoRg", 
+        "artists": [
+          {
+            "name": "Soul II Soul", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
+            }, 
+            "uri": "spotify:artist:2sIx6SmAMw9IBySG3Uj0jf", 
+            "href": "https://api.spotify.com/v1/artists/2sIx6SmAMw9IBySG3Uj0jf", 
+            "type": "artist", 
+            "id": "2sIx6SmAMw9IBySG3Uj0jf"
+          }, 
+          {
+            "name": "Do'Reen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2xsTRaRzV6RdzKizxPTfrY"
+            }, 
+            "uri": "spotify:artist:2xsTRaRzV6RdzKizxPTfrY", 
+            "href": "https://api.spotify.com/v1/artists/2xsTRaRzV6RdzKizxPTfrY", 
+            "type": "artist", 
+            "id": "2xsTRaRzV6RdzKizxPTfrY"
+          }
+        ], 
+        "duration_ms": 304826, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "2D9taz6YmPo8bZ43OCFoRg"
+      }, 
+      {
+        "name": "Happiness - Dub", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2fxrIbfr1r5jxccu650912"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/40451ad4b5491a3c20b99817b6b12d94dd5e93f0", 
+        "is_playable": true, 
+        "uri": "spotify:track:2fxrIbfr1r5jxccu650912", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2fxrIbfr1r5jxccu650912", 
+        "artists": [
+          {
+            "name": "Soul II Soul", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
+            }, 
+            "uri": "spotify:artist:2sIx6SmAMw9IBySG3Uj0jf", 
+            "href": "https://api.spotify.com/v1/artists/2sIx6SmAMw9IBySG3Uj0jf", 
+            "type": "artist", 
+            "id": "2sIx6SmAMw9IBySG3Uj0jf"
+          }
+        ], 
+        "duration_ms": 333573, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "2fxrIbfr1r5jxccu650912"
+      }, 
+      {
+        "name": "Back To Life (However Do You Want Me) - Accapella;feat. Caron Wheeler", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7fis60AUmZQI3maiU08Whd"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/94d065cef70dfa72efb0732fbfc675478e022ee7", 
+        "is_playable": true, 
+        "uri": "spotify:track:7fis60AUmZQI3maiU08Whd", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7fis60AUmZQI3maiU08Whd", 
+        "artists": [
+          {
+            "name": "Soul II Soul", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
+            }, 
+            "uri": "spotify:artist:2sIx6SmAMw9IBySG3Uj0jf", 
+            "href": "https://api.spotify.com/v1/artists/2sIx6SmAMw9IBySG3Uj0jf", 
+            "type": "artist", 
+            "id": "2sIx6SmAMw9IBySG3Uj0jf"
+          }, 
+          {
+            "name": "Caron Wheeler", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY"
+            }, 
+            "uri": "spotify:artist:2RhMHmV21ZDcSGZ872U4ZY", 
+            "href": "https://api.spotify.com/v1/artists/2RhMHmV21ZDcSGZ872U4ZY", 
+            "type": "artist", 
+            "id": "2RhMHmV21ZDcSGZ872U4ZY"
+          }
+        ], 
+        "duration_ms": 219560, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "7fis60AUmZQI3maiU08Whd"
+      }, 
+      {
+        "name": "Jazzie's Groove", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3PWldpKtwY1azP4BBOnMVa"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b456d1a74047cf8e31008e5c025baae1a0a6ae60", 
+        "is_playable": true, 
+        "uri": "spotify:track:3PWldpKtwY1azP4BBOnMVa", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3PWldpKtwY1azP4BBOnMVa", 
+        "artists": [
+          {
+            "name": "Soul II Soul", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
+            }, 
+            "uri": "spotify:artist:2sIx6SmAMw9IBySG3Uj0jf", 
+            "href": "https://api.spotify.com/v1/artists/2sIx6SmAMw9IBySG3Uj0jf", 
+            "type": "artist", 
+            "id": "2sIx6SmAMw9IBySG3Uj0jf"
+          }
+        ], 
+        "duration_ms": 170133, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "3PWldpKtwY1azP4BBOnMVa"
+      }, 
+      {
+        "name": "Ambition (Rap)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4hBScE8f3Qxnh9nvc3wX0e"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4d7d166ce3b678bb9a0fa9ef371faec63d0e238d", 
+        "is_playable": true, 
+        "uri": "spotify:track:4hBScE8f3Qxnh9nvc3wX0e", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4hBScE8f3Qxnh9nvc3wX0e", 
+        "artists": [
+          {
+            "name": "Soul II Soul", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
+            }, 
+            "uri": "spotify:artist:2sIx6SmAMw9IBySG3Uj0jf", 
+            "href": "https://api.spotify.com/v1/artists/2sIx6SmAMw9IBySG3Uj0jf", 
+            "type": "artist", 
+            "id": "2sIx6SmAMw9IBySG3Uj0jf"
+          }
+        ], 
+        "duration_ms": 229773, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "4hBScE8f3Qxnh9nvc3wX0e"
+      }, 
+      {
+        "name": "Keep On Movin' - Feat. Caron Wheeler", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/18qEvJqGahKP4RzTdGt6jm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/92867370c23957445f194bee4801d0b1c0368f76", 
+        "is_playable": true, 
+        "uri": "spotify:track:18qEvJqGahKP4RzTdGt6jm", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/18qEvJqGahKP4RzTdGt6jm", 
+        "artists": [
+          {
+            "name": "Soul II Soul", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
+            }, 
+            "uri": "spotify:artist:2sIx6SmAMw9IBySG3Uj0jf", 
+            "href": "https://api.spotify.com/v1/artists/2sIx6SmAMw9IBySG3Uj0jf", 
+            "type": "artist", 
+            "id": "2sIx6SmAMw9IBySG3Uj0jf"
+          }, 
+          {
+            "name": "Caron Wheeler", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY"
+            }, 
+            "uri": "spotify:artist:2RhMHmV21ZDcSGZ872U4ZY", 
+            "href": "https://api.spotify.com/v1/artists/2RhMHmV21ZDcSGZ872U4ZY", 
+            "type": "artist", 
+            "id": "2RhMHmV21ZDcSGZ872U4ZY"
+          }
+        ], 
+        "duration_ms": 216560, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "18qEvJqGahKP4RzTdGt6jm"
+      }, 
+      {
+        "name": "Back to Life (However Do You Want Me) [feat. Caron Wheeler]", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7ELuWpsuVCRBnOR9ZAZKDp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6c0cfa0bd7a3f8d591ff5d99f74742b1e5c396bf", 
+        "is_playable": true, 
+        "uri": "spotify:track:7ELuWpsuVCRBnOR9ZAZKDp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7ELuWpsuVCRBnOR9ZAZKDp", 
+        "artists": [
+          {
+            "name": "Soul II Soul", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
+            }, 
+            "uri": "spotify:artist:2sIx6SmAMw9IBySG3Uj0jf", 
+            "href": "https://api.spotify.com/v1/artists/2sIx6SmAMw9IBySG3Uj0jf", 
+            "type": "artist", 
+            "id": "2sIx6SmAMw9IBySG3Uj0jf"
+          }, 
+          {
+            "name": "Caron Wheeler", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY"
+            }, 
+            "uri": "spotify:artist:2RhMHmV21ZDcSGZ872U4ZY", 
+            "href": "https://api.spotify.com/v1/artists/2RhMHmV21ZDcSGZ872U4ZY", 
+            "type": "artist", 
+            "id": "2RhMHmV21ZDcSGZ872U4ZY"
+          }
+        ], 
+        "duration_ms": 232133, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "7ELuWpsuVCRBnOR9ZAZKDp"
+      }, 
+      {
+        "name": "Jazzie's Groove - Piano Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7cNtYcacepWrWsRTs3KYxR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/49f2761b1ffac639069ec540ba947af524745087", 
+        "is_playable": true, 
+        "uri": "spotify:track:7cNtYcacepWrWsRTs3KYxR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7cNtYcacepWrWsRTs3KYxR", 
+        "artists": [
+          {
+            "name": "Soul II Soul", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
+            }, 
+            "uri": "spotify:artist:2sIx6SmAMw9IBySG3Uj0jf", 
+            "href": "https://api.spotify.com/v1/artists/2sIx6SmAMw9IBySG3Uj0jf", 
+            "type": "artist", 
+            "id": "2sIx6SmAMw9IBySG3Uj0jf"
+          }
+        ], 
+        "duration_ms": 244866, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "7cNtYcacepWrWsRTs3KYxR"
+      }, 
+      {
+        "name": "Back To Life (However Do You Want Me) - Feat. Caron Wheeler", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/41k3TdCIcig3faspsOEtt9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/61eed6a892a6798aa9dda977cb73e434d030597f", 
+        "is_playable": true, 
+        "uri": "spotify:track:41k3TdCIcig3faspsOEtt9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/41k3TdCIcig3faspsOEtt9", 
+        "artists": [
+          {
+            "name": "Soul II Soul", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
+            }, 
+            "uri": "spotify:artist:2sIx6SmAMw9IBySG3Uj0jf", 
+            "href": "https://api.spotify.com/v1/artists/2sIx6SmAMw9IBySG3Uj0jf", 
+            "type": "artist", 
+            "id": "2sIx6SmAMw9IBySG3Uj0jf"
+          }, 
+          {
+            "name": "Caron Wheeler", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY"
+            }, 
+            "uri": "spotify:artist:2RhMHmV21ZDcSGZ872U4ZY", 
+            "href": "https://api.spotify.com/v1/artists/2RhMHmV21ZDcSGZ872U4ZY", 
+            "type": "artist", 
+            "id": "2RhMHmV21ZDcSGZ872U4ZY"
+          }
+        ], 
+        "duration_ms": 394933, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "41k3TdCIcig3faspsOEtt9"
+      }, 
+      {
+        "name": "Keep On Movin' - Feat. Caron Wheeler", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6mANBsYQqOckTQ10HZrwdN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bb56eeaf0f24187c64a677768bbbc489fbdf1d53", 
+        "is_playable": true, 
+        "uri": "spotify:track:6mANBsYQqOckTQ10HZrwdN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6mANBsYQqOckTQ10HZrwdN", 
+        "artists": [
+          {
+            "name": "Soul II Soul", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
+            }, 
+            "uri": "spotify:artist:2sIx6SmAMw9IBySG3Uj0jf", 
+            "href": "https://api.spotify.com/v1/artists/2sIx6SmAMw9IBySG3Uj0jf", 
+            "type": "artist", 
+            "id": "2sIx6SmAMw9IBySG3Uj0jf"
+          }, 
+          {
+            "name": "Caron Wheeler", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY"
+            }, 
+            "uri": "spotify:artist:2RhMHmV21ZDcSGZ872U4ZY", 
+            "href": "https://api.spotify.com/v1/artists/2RhMHmV21ZDcSGZ872U4ZY", 
+            "type": "artist", 
+            "id": "2RhMHmV21ZDcSGZ872U4ZY"
+          }
+        ], 
+        "duration_ms": 263306, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "6mANBsYQqOckTQ10HZrwdN"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/5VxTLm2IZsDQn3r9eX1qfa/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 16, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/5VxTLm2IZsDQn3r9eX1qfa", 
+  "copyrights": [
+    {
+      "text": "(C) 1999 Virgin Records America, Inc.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) (C) 1999 Virgin Records America, Inc.. All rights reserved. Unauthorized reproduction is a violation of applicable laws. Manufactured by Virgin Records America, Inc.,", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Soul II Soul", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
+      }, 
+      "uri": "spotify:artist:2sIx6SmAMw9IBySG3Uj0jf", 
+      "href": "https://api.spotify.com/v1/artists/2sIx6SmAMw9IBySG3Uj0jf", 
+      "type": "artist", 
+      "id": "2sIx6SmAMw9IBySG3Uj0jf"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/abc770023af2f820f77fe62aa86819faac919b87", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/3fac5b9fde8b7fcff1d16cb341273c7d11e3c88b", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/45ffddb751b924c3f93d143cd1144ec56dda406f", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00724384747053"
+  }, 
+  "type": "album", 
+  "id": "5VxTLm2IZsDQn3r9eX1qfa", 
+  "name": "Club Classics Vol. One"
+}

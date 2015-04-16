@@ -1,0 +1,399 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7AHbaRIYnilUwe981nZpmi"
+  }, 
+  "release_date": "1994", 
+  "popularity": 41, 
+  "genres": [], 
+  "uri": "spotify:album:7AHbaRIYnilUwe981nZpmi", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Here Come the Rome Plows", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2VaZ98xvuFoOwlzqAedqUZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3b980c48a472aee87267337d693b01c3e156af4e", 
+        "is_playable": true, 
+        "uri": "spotify:track:2VaZ98xvuFoOwlzqAedqUZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2VaZ98xvuFoOwlzqAedqUZ", 
+        "artists": [
+          {
+            "name": "Drive Like Jehu", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7FbdCzKUwoZs1v9bCl43Ev"
+            }, 
+            "uri": "spotify:artist:7FbdCzKUwoZs1v9bCl43Ev", 
+            "href": "https://api.spotify.com/v1/artists/7FbdCzKUwoZs1v9bCl43Ev", 
+            "type": "artist", 
+            "id": "7FbdCzKUwoZs1v9bCl43Ev"
+          }
+        ], 
+        "duration_ms": 344693, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "2VaZ98xvuFoOwlzqAedqUZ"
+      }, 
+      {
+        "name": "Do You Compute", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/793RxZVVT5ITET0thwbjAK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/06198d15bb9d47c3ade7d8c82de842b1a2b9ac48", 
+        "is_playable": true, 
+        "uri": "spotify:track:793RxZVVT5ITET0thwbjAK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/793RxZVVT5ITET0thwbjAK", 
+        "artists": [
+          {
+            "name": "Drive Like Jehu", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7FbdCzKUwoZs1v9bCl43Ev"
+            }, 
+            "uri": "spotify:artist:7FbdCzKUwoZs1v9bCl43Ev", 
+            "href": "https://api.spotify.com/v1/artists/7FbdCzKUwoZs1v9bCl43Ev", 
+            "type": "artist", 
+            "id": "7FbdCzKUwoZs1v9bCl43Ev"
+          }
+        ], 
+        "duration_ms": 432933, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "793RxZVVT5ITET0thwbjAK"
+      }, 
+      {
+        "name": "Golden Brown", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/74qgrn0YAo3cgRcH4xQBsA"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/77c4dae4678336122032e98b30b9365174bac81e", 
+        "is_playable": true, 
+        "uri": "spotify:track:74qgrn0YAo3cgRcH4xQBsA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/74qgrn0YAo3cgRcH4xQBsA", 
+        "artists": [
+          {
+            "name": "Drive Like Jehu", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7FbdCzKUwoZs1v9bCl43Ev"
+            }, 
+            "uri": "spotify:artist:7FbdCzKUwoZs1v9bCl43Ev", 
+            "href": "https://api.spotify.com/v1/artists/7FbdCzKUwoZs1v9bCl43Ev", 
+            "type": "artist", 
+            "id": "7FbdCzKUwoZs1v9bCl43Ev"
+          }
+        ], 
+        "duration_ms": 194533, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "74qgrn0YAo3cgRcH4xQBsA"
+      }, 
+      {
+        "name": "Luau", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0rcBONdvQcvSHARoEVbfSO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/eaf98394813e936f22eb2c0d87499075fdaf13c7", 
+        "is_playable": true, 
+        "uri": "spotify:track:0rcBONdvQcvSHARoEVbfSO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0rcBONdvQcvSHARoEVbfSO", 
+        "artists": [
+          {
+            "name": "Drive Like Jehu", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7FbdCzKUwoZs1v9bCl43Ev"
+            }, 
+            "uri": "spotify:artist:7FbdCzKUwoZs1v9bCl43Ev", 
+            "href": "https://api.spotify.com/v1/artists/7FbdCzKUwoZs1v9bCl43Ev", 
+            "type": "artist", 
+            "id": "7FbdCzKUwoZs1v9bCl43Ev"
+          }
+        ], 
+        "duration_ms": 567706, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "0rcBONdvQcvSHARoEVbfSO"
+      }, 
+      {
+        "name": "Super Unison", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5diNR9OTKnjnP5MF80bPtt"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8af78a31e13842e89895a5c63ceb7ecf8702eae5", 
+        "is_playable": true, 
+        "uri": "spotify:track:5diNR9OTKnjnP5MF80bPtt", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5diNR9OTKnjnP5MF80bPtt", 
+        "artists": [
+          {
+            "name": "Drive Like Jehu", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7FbdCzKUwoZs1v9bCl43Ev"
+            }, 
+            "uri": "spotify:artist:7FbdCzKUwoZs1v9bCl43Ev", 
+            "href": "https://api.spotify.com/v1/artists/7FbdCzKUwoZs1v9bCl43Ev", 
+            "type": "artist", 
+            "id": "7FbdCzKUwoZs1v9bCl43Ev"
+          }
+        ], 
+        "duration_ms": 444893, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "5diNR9OTKnjnP5MF80bPtt"
+      }, 
+      {
+        "name": "New Intro", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1rwUsmCyQ7C1XpIB3Hl8xs"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/05cb768650211bca200340cae158c7b9c2afa0f0", 
+        "is_playable": true, 
+        "uri": "spotify:track:1rwUsmCyQ7C1XpIB3Hl8xs", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1rwUsmCyQ7C1XpIB3Hl8xs", 
+        "artists": [
+          {
+            "name": "Drive Like Jehu", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7FbdCzKUwoZs1v9bCl43Ev"
+            }, 
+            "uri": "spotify:artist:7FbdCzKUwoZs1v9bCl43Ev", 
+            "href": "https://api.spotify.com/v1/artists/7FbdCzKUwoZs1v9bCl43Ev", 
+            "type": "artist", 
+            "id": "7FbdCzKUwoZs1v9bCl43Ev"
+          }
+        ], 
+        "duration_ms": 212040, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "1rwUsmCyQ7C1XpIB3Hl8xs"
+      }, 
+      {
+        "name": "New Math", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6lSqeJ5a8OS1REwIm5OABR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/83ccae311741a5cee644f18d5c80d66253d731fe", 
+        "is_playable": true, 
+        "uri": "spotify:track:6lSqeJ5a8OS1REwIm5OABR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6lSqeJ5a8OS1REwIm5OABR", 
+        "artists": [
+          {
+            "name": "Drive Like Jehu", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7FbdCzKUwoZs1v9bCl43Ev"
+            }, 
+            "uri": "spotify:artist:7FbdCzKUwoZs1v9bCl43Ev", 
+            "href": "https://api.spotify.com/v1/artists/7FbdCzKUwoZs1v9bCl43Ev", 
+            "type": "artist", 
+            "id": "7FbdCzKUwoZs1v9bCl43Ev"
+          }
+        ], 
+        "duration_ms": 246466, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "6lSqeJ5a8OS1REwIm5OABR"
+      }, 
+      {
+        "name": "Human Interest", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6UPSQEjfyJZH15stpfqmKW"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/be90e0aeb56aa65cc4c30f452b2c5fa3fedc8801", 
+        "is_playable": true, 
+        "uri": "spotify:track:6UPSQEjfyJZH15stpfqmKW", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6UPSQEjfyJZH15stpfqmKW", 
+        "artists": [
+          {
+            "name": "Drive Like Jehu", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7FbdCzKUwoZs1v9bCl43Ev"
+            }, 
+            "uri": "spotify:artist:7FbdCzKUwoZs1v9bCl43Ev", 
+            "href": "https://api.spotify.com/v1/artists/7FbdCzKUwoZs1v9bCl43Ev", 
+            "type": "artist", 
+            "id": "7FbdCzKUwoZs1v9bCl43Ev"
+          }
+        ], 
+        "duration_ms": 204133, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "6UPSQEjfyJZH15stpfqmKW"
+      }, 
+      {
+        "name": "Sinews", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1s3pmNOdqg9YSIckYQQKPV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1dacde056f1ef217e54c3bbb9c3f2c9da2d6dbf5", 
+        "is_playable": true, 
+        "uri": "spotify:track:1s3pmNOdqg9YSIckYQQKPV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1s3pmNOdqg9YSIckYQQKPV", 
+        "artists": [
+          {
+            "name": "Drive Like Jehu", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7FbdCzKUwoZs1v9bCl43Ev"
+            }, 
+            "uri": "spotify:artist:7FbdCzKUwoZs1v9bCl43Ev", 
+            "href": "https://api.spotify.com/v1/artists/7FbdCzKUwoZs1v9bCl43Ev", 
+            "type": "artist", 
+            "id": "7FbdCzKUwoZs1v9bCl43Ev"
+          }
+        ], 
+        "duration_ms": 552800, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "1s3pmNOdqg9YSIckYQQKPV"
+      }, 
+      {
+        "name": "Hand over Fist", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0RrQ2mubIsRfAskzDj6xsi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/df153176b694cd5744bd0d5ef678aa13f534ad6c", 
+        "is_playable": true, 
+        "uri": "spotify:track:0RrQ2mubIsRfAskzDj6xsi", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0RrQ2mubIsRfAskzDj6xsi", 
+        "artists": [
+          {
+            "name": "Drive Like Jehu", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7FbdCzKUwoZs1v9bCl43Ev"
+            }, 
+            "uri": "spotify:artist:7FbdCzKUwoZs1v9bCl43Ev", 
+            "href": "https://api.spotify.com/v1/artists/7FbdCzKUwoZs1v9bCl43Ev", 
+            "type": "artist", 
+            "id": "7FbdCzKUwoZs1v9bCl43Ev"
+          }
+        ], 
+        "duration_ms": 264093, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "0RrQ2mubIsRfAskzDj6xsi"
+      }, 
+      {
+        "name": "Bullet Train to Vegas", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0HobrVdP8OoQY3YP8Lcv0q"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8b16ce7ffb839af26d1385ef1a00014c629bb162", 
+        "is_playable": true, 
+        "uri": "spotify:track:0HobrVdP8OoQY3YP8Lcv0q", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0HobrVdP8OoQY3YP8Lcv0q", 
+        "artists": [
+          {
+            "name": "Drive Like Jehu", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7FbdCzKUwoZs1v9bCl43Ev"
+            }, 
+            "uri": "spotify:artist:7FbdCzKUwoZs1v9bCl43Ev", 
+            "href": "https://api.spotify.com/v1/artists/7FbdCzKUwoZs1v9bCl43Ev", 
+            "type": "artist", 
+            "id": "7FbdCzKUwoZs1v9bCl43Ev"
+          }
+        ], 
+        "duration_ms": 160000, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "0HobrVdP8OoQY3YP8Lcv0q"
+      }, 
+      {
+        "name": "Sinews (Original Version)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2sFyPLj62U6CrXm6CBCzL5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5198510be7091d044fd6ce9aab27128a460bbb10", 
+        "is_playable": true, 
+        "uri": "spotify:track:2sFyPLj62U6CrXm6CBCzL5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2sFyPLj62U6CrXm6CBCzL5", 
+        "artists": [
+          {
+            "name": "Drive Like Jehu", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7FbdCzKUwoZs1v9bCl43Ev"
+            }, 
+            "uri": "spotify:artist:7FbdCzKUwoZs1v9bCl43Ev", 
+            "href": "https://api.spotify.com/v1/artists/7FbdCzKUwoZs1v9bCl43Ev", 
+            "type": "artist", 
+            "id": "7FbdCzKUwoZs1v9bCl43Ev"
+          }
+        ], 
+        "duration_ms": 572733, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "2sFyPLj62U6CrXm6CBCzL5"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/7AHbaRIYnilUwe981nZpmi/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 12, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/7AHbaRIYnilUwe981nZpmi", 
+  "copyrights": [
+    {
+      "text": "(C) 2009 Swami", 
+      "type": "C"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Drive Like Jehu", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7FbdCzKUwoZs1v9bCl43Ev"
+      }, 
+      "uri": "spotify:artist:7FbdCzKUwoZs1v9bCl43Ev", 
+      "href": "https://api.spotify.com/v1/artists/7FbdCzKUwoZs1v9bCl43Ev", 
+      "type": "artist", 
+      "id": "7FbdCzKUwoZs1v9bCl43Ev"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/d914d694febeb885c5b6c41fa8ffeed74d01f580", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/34e3a0fc899956529307a7a23d85d25b8ddceea6", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/81c33d0d9930d3cf32c0fe6ed209b5f126a7a825", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "823777011525"
+  }, 
+  "type": "album", 
+  "id": "7AHbaRIYnilUwe981nZpmi", 
+  "name": "Yank Crime"
+}

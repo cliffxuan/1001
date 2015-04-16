@@ -1,0 +1,403 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/44aVVevMGKS4q6nWXbELpP"
+  }, 
+  "release_date": "1980-07-02", 
+  "popularity": 36, 
+  "genres": [], 
+  "uri": "spotify:album:44aVVevMGKS4q6nWXbELpP", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Going Up", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7kgQZfH5SUcaK4q9h8oWPJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3d96bba49f16b6c4807e1cf5da4a44959fa8ca31", 
+        "is_playable": true, 
+        "uri": "spotify:track:7kgQZfH5SUcaK4q9h8oWPJ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7kgQZfH5SUcaK4q9h8oWPJ", 
+        "artists": [
+          {
+            "name": "Echo And The Bunnymen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+            }, 
+            "uri": "spotify:artist:0fgYKF9Avljex0L9Wt5b8Z", 
+            "href": "https://api.spotify.com/v1/artists/0fgYKF9Avljex0L9Wt5b8Z", 
+            "type": "artist", 
+            "id": "0fgYKF9Avljex0L9Wt5b8Z"
+          }
+        ], 
+        "duration_ms": 239040, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "7kgQZfH5SUcaK4q9h8oWPJ"
+      }, 
+      {
+        "name": "Do It Clean", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6dzBktHgEil6fLhvzTBuhB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/12c89a6ed0ff90b97faf9125de2253fc1cdef560", 
+        "is_playable": true, 
+        "uri": "spotify:track:6dzBktHgEil6fLhvzTBuhB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6dzBktHgEil6fLhvzTBuhB", 
+        "artists": [
+          {
+            "name": "Echo And The Bunnymen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+            }, 
+            "uri": "spotify:artist:0fgYKF9Avljex0L9Wt5b8Z", 
+            "href": "https://api.spotify.com/v1/artists/0fgYKF9Avljex0L9Wt5b8Z", 
+            "type": "artist", 
+            "id": "0fgYKF9Avljex0L9Wt5b8Z"
+          }
+        ], 
+        "duration_ms": 165280, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "6dzBktHgEil6fLhvzTBuhB"
+      }, 
+      {
+        "name": "Stars Are Stars", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7wkCQUjsllXFZOJ89s5C6g"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0b4c05a0b2486c4b21bc967e15ef514a0733979c", 
+        "is_playable": true, 
+        "uri": "spotify:track:7wkCQUjsllXFZOJ89s5C6g", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7wkCQUjsllXFZOJ89s5C6g", 
+        "artists": [
+          {
+            "name": "Echo And The Bunnymen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+            }, 
+            "uri": "spotify:artist:0fgYKF9Avljex0L9Wt5b8Z", 
+            "href": "https://api.spotify.com/v1/artists/0fgYKF9Avljex0L9Wt5b8Z", 
+            "type": "artist", 
+            "id": "0fgYKF9Avljex0L9Wt5b8Z"
+          }
+        ], 
+        "duration_ms": 167933, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "7wkCQUjsllXFZOJ89s5C6g"
+      }, 
+      {
+        "name": "Pride", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1SWSRwUSqb6W3BwknXPVF3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/54aa1d081569d5b1d847d72cd60aa185ffc542dc", 
+        "is_playable": true, 
+        "uri": "spotify:track:1SWSRwUSqb6W3BwknXPVF3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1SWSRwUSqb6W3BwknXPVF3", 
+        "artists": [
+          {
+            "name": "Echo And The Bunnymen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+            }, 
+            "uri": "spotify:artist:0fgYKF9Avljex0L9Wt5b8Z", 
+            "href": "https://api.spotify.com/v1/artists/0fgYKF9Avljex0L9Wt5b8Z", 
+            "type": "artist", 
+            "id": "0fgYKF9Avljex0L9Wt5b8Z"
+          }
+        ], 
+        "duration_ms": 162293, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "1SWSRwUSqb6W3BwknXPVF3"
+      }, 
+      {
+        "name": "Monkeys", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0c0lIYAiBu8D9Q5lW0pKiZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5fe94c178a352d0f3e5abd0d9e981e169358ec50", 
+        "is_playable": true, 
+        "uri": "spotify:track:0c0lIYAiBu8D9Q5lW0pKiZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0c0lIYAiBu8D9Q5lW0pKiZ", 
+        "artists": [
+          {
+            "name": "Echo And The Bunnymen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+            }, 
+            "uri": "spotify:artist:0fgYKF9Avljex0L9Wt5b8Z", 
+            "href": "https://api.spotify.com/v1/artists/0fgYKF9Avljex0L9Wt5b8Z", 
+            "type": "artist", 
+            "id": "0fgYKF9Avljex0L9Wt5b8Z"
+          }
+        ], 
+        "duration_ms": 169333, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "0c0lIYAiBu8D9Q5lW0pKiZ"
+      }, 
+      {
+        "name": "Crocodiles", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5R4P4m35fQmlyxnIIhGm0m"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/df53cadbe44c99b6926a5ca942be87e7d4adec73", 
+        "is_playable": true, 
+        "uri": "spotify:track:5R4P4m35fQmlyxnIIhGm0m", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5R4P4m35fQmlyxnIIhGm0m", 
+        "artists": [
+          {
+            "name": "Echo And The Bunnymen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+            }, 
+            "uri": "spotify:artist:0fgYKF9Avljex0L9Wt5b8Z", 
+            "href": "https://api.spotify.com/v1/artists/0fgYKF9Avljex0L9Wt5b8Z", 
+            "type": "artist", 
+            "id": "0fgYKF9Avljex0L9Wt5b8Z"
+          }
+        ], 
+        "duration_ms": 160773, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "5R4P4m35fQmlyxnIIhGm0m"
+      }, 
+      {
+        "name": "Rescue", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2bXlRk5dQiV6EezAkMEVhu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/168a2ed0c54a6b4433d5efaa1dce465134046f47", 
+        "is_playable": true, 
+        "uri": "spotify:track:2bXlRk5dQiV6EezAkMEVhu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2bXlRk5dQiV6EezAkMEVhu", 
+        "artists": [
+          {
+            "name": "Echo And The Bunnymen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+            }, 
+            "uri": "spotify:artist:0fgYKF9Avljex0L9Wt5b8Z", 
+            "href": "https://api.spotify.com/v1/artists/0fgYKF9Avljex0L9Wt5b8Z", 
+            "type": "artist", 
+            "id": "0fgYKF9Avljex0L9Wt5b8Z"
+          }
+        ], 
+        "duration_ms": 259066, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "2bXlRk5dQiV6EezAkMEVhu"
+      }, 
+      {
+        "name": "Villiers Terrace", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1DNDLJCWn2sER53dfQhtHj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cff1ffafe1697f45279dc9945a09c7e397019fe4", 
+        "is_playable": true, 
+        "uri": "spotify:track:1DNDLJCWn2sER53dfQhtHj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1DNDLJCWn2sER53dfQhtHj", 
+        "artists": [
+          {
+            "name": "Echo And The Bunnymen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+            }, 
+            "uri": "spotify:artist:0fgYKF9Avljex0L9Wt5b8Z", 
+            "href": "https://api.spotify.com/v1/artists/0fgYKF9Avljex0L9Wt5b8Z", 
+            "type": "artist", 
+            "id": "0fgYKF9Avljex0L9Wt5b8Z"
+          }
+        ], 
+        "duration_ms": 164986, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "1DNDLJCWn2sER53dfQhtHj"
+      }, 
+      {
+        "name": "Read It In Books", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0SgafdLEr8f9NGs8CiuFP3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/272291a81ec6766b31f6171cb1b797b338a37bc0", 
+        "is_playable": true, 
+        "uri": "spotify:track:0SgafdLEr8f9NGs8CiuFP3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0SgafdLEr8f9NGs8CiuFP3", 
+        "artists": [
+          {
+            "name": "Echo And The Bunnymen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+            }, 
+            "uri": "spotify:artist:0fgYKF9Avljex0L9Wt5b8Z", 
+            "href": "https://api.spotify.com/v1/artists/0fgYKF9Avljex0L9Wt5b8Z", 
+            "type": "artist", 
+            "id": "0fgYKF9Avljex0L9Wt5b8Z"
+          }
+        ], 
+        "duration_ms": 153560, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "0SgafdLEr8f9NGs8CiuFP3"
+      }, 
+      {
+        "name": "Pictures On My Wall", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/29iaywwYtqpLovaR3pjQds"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/81a2cb4dd72a20e5cadeef6c40e75093116a98a7", 
+        "is_playable": true, 
+        "uri": "spotify:track:29iaywwYtqpLovaR3pjQds", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/29iaywwYtqpLovaR3pjQds", 
+        "artists": [
+          {
+            "name": "Echo And The Bunnymen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+            }, 
+            "uri": "spotify:artist:0fgYKF9Avljex0L9Wt5b8Z", 
+            "href": "https://api.spotify.com/v1/artists/0fgYKF9Avljex0L9Wt5b8Z", 
+            "type": "artist", 
+            "id": "0fgYKF9Avljex0L9Wt5b8Z"
+          }
+        ], 
+        "duration_ms": 175213, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "29iaywwYtqpLovaR3pjQds"
+      }, 
+      {
+        "name": "All That Jazz", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2vZ1M4ZQXTtuC337tX4mcK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/020adfaa4cb076ed9f84a845925e2eeed5393941", 
+        "is_playable": true, 
+        "uri": "spotify:track:2vZ1M4ZQXTtuC337tX4mcK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2vZ1M4ZQXTtuC337tX4mcK", 
+        "artists": [
+          {
+            "name": "Echo And The Bunnymen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+            }, 
+            "uri": "spotify:artist:0fgYKF9Avljex0L9Wt5b8Z", 
+            "href": "https://api.spotify.com/v1/artists/0fgYKF9Avljex0L9Wt5b8Z", 
+            "type": "artist", 
+            "id": "0fgYKF9Avljex0L9Wt5b8Z"
+          }
+        ], 
+        "duration_ms": 167093, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "2vZ1M4ZQXTtuC337tX4mcK"
+      }, 
+      {
+        "name": "Happy Death Men", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0cL6TSPKhjXCEdS3BHzfkY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/dbc3afbd7fa518d8264f2bb9ed3ce6cd8886400e", 
+        "is_playable": true, 
+        "uri": "spotify:track:0cL6TSPKhjXCEdS3BHzfkY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0cL6TSPKhjXCEdS3BHzfkY", 
+        "artists": [
+          {
+            "name": "Echo And The Bunnymen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+            }, 
+            "uri": "spotify:artist:0fgYKF9Avljex0L9Wt5b8Z", 
+            "href": "https://api.spotify.com/v1/artists/0fgYKF9Avljex0L9Wt5b8Z", 
+            "type": "artist", 
+            "id": "0fgYKF9Avljex0L9Wt5b8Z"
+          }
+        ], 
+        "duration_ms": 297000, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "0cL6TSPKhjXCEdS3BHzfkY"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/44aVVevMGKS4q6nWXbELpP/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 12, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/44aVVevMGKS4q6nWXbELpP", 
+  "copyrights": [
+    {
+      "text": "1980 Warner Music UK Ltd", 
+      "type": "C"
+    }, 
+    {
+      "text": "1980 Warner Music UK Ltd", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Echo And The Bunnymen", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+      }, 
+      "uri": "spotify:artist:0fgYKF9Avljex0L9Wt5b8Z", 
+      "href": "https://api.spotify.com/v1/artists/0fgYKF9Avljex0L9Wt5b8Z", 
+      "type": "artist", 
+      "id": "0fgYKF9Avljex0L9Wt5b8Z"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/385f6159af839ec0d3e3b8f0375c0d75eb5b9010", 
+      "width": 640, 
+      "height": 635
+    }, 
+    {
+      "url": "https://i.scdn.co/image/553e2e481745b3bc3429b980833a88bd7f2a957f", 
+      "width": 300, 
+      "height": 298
+    }, 
+    {
+      "url": "https://i.scdn.co/image/42f7aa71f3e0b816d8d7835bd77f5d433971bd54", 
+      "width": 63, 
+      "height": 63
+    }
+  ], 
+  "external_ids": {
+    "upc": "075992743365"
+  }, 
+  "type": "album", 
+  "id": "44aVVevMGKS4q6nWXbELpP", 
+  "name": "Crocodiles"
+}

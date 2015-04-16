@@ -1,0 +1,403 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1GJwrOcVkg2kCtI8RUZEdy"
+  }, 
+  "release_date": "1996-01-01", 
+  "popularity": 49, 
+  "genres": [], 
+  "uri": "spotify:album:1GJwrOcVkg2kCtI8RUZEdy", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Novocaine For The Soul", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0J3I49UdftZ6qSWZf6ItJs"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d3396e3c422fc37a53f8c98955b758d2c11e79ab", 
+        "is_playable": true, 
+        "uri": "spotify:track:0J3I49UdftZ6qSWZf6ItJs", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0J3I49UdftZ6qSWZf6ItJs", 
+        "artists": [
+          {
+            "name": "Eels", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+            }, 
+            "uri": "spotify:artist:3zunDAtRDg7kflREzWAhxl", 
+            "href": "https://api.spotify.com/v1/artists/3zunDAtRDg7kflREzWAhxl", 
+            "type": "artist", 
+            "id": "3zunDAtRDg7kflREzWAhxl"
+          }
+        ], 
+        "duration_ms": 188693, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "0J3I49UdftZ6qSWZf6ItJs"
+      }, 
+      {
+        "name": "Susan's House", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6DJGcxLJlkK7egBtb8iu8o"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e3b20e81664e1e3a381dbdde0b48702f2bcb0178", 
+        "is_playable": true, 
+        "uri": "spotify:track:6DJGcxLJlkK7egBtb8iu8o", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6DJGcxLJlkK7egBtb8iu8o", 
+        "artists": [
+          {
+            "name": "Eels", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+            }, 
+            "uri": "spotify:artist:3zunDAtRDg7kflREzWAhxl", 
+            "href": "https://api.spotify.com/v1/artists/3zunDAtRDg7kflREzWAhxl", 
+            "type": "artist", 
+            "id": "3zunDAtRDg7kflREzWAhxl"
+          }
+        ], 
+        "duration_ms": 223800, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "6DJGcxLJlkK7egBtb8iu8o"
+      }, 
+      {
+        "name": "Rags To Rags", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Ly4dx09UrWKBO8kODpuCq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0da07a22fde28b8937dfff3e421a2936c55a6a04", 
+        "is_playable": true, 
+        "uri": "spotify:track:6Ly4dx09UrWKBO8kODpuCq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6Ly4dx09UrWKBO8kODpuCq", 
+        "artists": [
+          {
+            "name": "Eels", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+            }, 
+            "uri": "spotify:artist:3zunDAtRDg7kflREzWAhxl", 
+            "href": "https://api.spotify.com/v1/artists/3zunDAtRDg7kflREzWAhxl", 
+            "type": "artist", 
+            "id": "3zunDAtRDg7kflREzWAhxl"
+          }
+        ], 
+        "duration_ms": 233200, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "6Ly4dx09UrWKBO8kODpuCq"
+      }, 
+      {
+        "name": "Beautiful Freak", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6YoxbOKURu28BDosHnvSX5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/19da86e8f5120c488d50eec73230eec2c522ae20", 
+        "is_playable": true, 
+        "uri": "spotify:track:6YoxbOKURu28BDosHnvSX5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6YoxbOKURu28BDosHnvSX5", 
+        "artists": [
+          {
+            "name": "Eels", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+            }, 
+            "uri": "spotify:artist:3zunDAtRDg7kflREzWAhxl", 
+            "href": "https://api.spotify.com/v1/artists/3zunDAtRDg7kflREzWAhxl", 
+            "type": "artist", 
+            "id": "3zunDAtRDg7kflREzWAhxl"
+          }
+        ], 
+        "duration_ms": 214040, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "6YoxbOKURu28BDosHnvSX5"
+      }, 
+      {
+        "name": "Not Ready Yet", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/45s7Q4nlFQNChbzwqo2Wbb"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e51db524ad1de23b04c77bfde13e72396c3a2a21", 
+        "is_playable": true, 
+        "uri": "spotify:track:45s7Q4nlFQNChbzwqo2Wbb", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/45s7Q4nlFQNChbzwqo2Wbb", 
+        "artists": [
+          {
+            "name": "Eels", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+            }, 
+            "uri": "spotify:artist:3zunDAtRDg7kflREzWAhxl", 
+            "href": "https://api.spotify.com/v1/artists/3zunDAtRDg7kflREzWAhxl", 
+            "type": "artist", 
+            "id": "3zunDAtRDg7kflREzWAhxl"
+          }
+        ], 
+        "duration_ms": 286800, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "45s7Q4nlFQNChbzwqo2Wbb"
+      }, 
+      {
+        "name": "My Beloved Monster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/35uhO7CPR4WZ59eOTyrS4b"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/46dba07a836e7a4f66492e92edc05732d68fe28f", 
+        "is_playable": true, 
+        "uri": "spotify:track:35uhO7CPR4WZ59eOTyrS4b", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/35uhO7CPR4WZ59eOTyrS4b", 
+        "artists": [
+          {
+            "name": "Eels", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+            }, 
+            "uri": "spotify:artist:3zunDAtRDg7kflREzWAhxl", 
+            "href": "https://api.spotify.com/v1/artists/3zunDAtRDg7kflREzWAhxl", 
+            "type": "artist", 
+            "id": "3zunDAtRDg7kflREzWAhxl"
+          }
+        ], 
+        "duration_ms": 132173, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "35uhO7CPR4WZ59eOTyrS4b"
+      }, 
+      {
+        "name": "Flower", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2zgUtuWWXI9wJQU8ZHeGfi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/15b24123c99141a455fc89e85bb51bc9afe8c4e5", 
+        "is_playable": true, 
+        "uri": "spotify:track:2zgUtuWWXI9wJQU8ZHeGfi", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2zgUtuWWXI9wJQU8ZHeGfi", 
+        "artists": [
+          {
+            "name": "Eels", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+            }, 
+            "uri": "spotify:artist:3zunDAtRDg7kflREzWAhxl", 
+            "href": "https://api.spotify.com/v1/artists/3zunDAtRDg7kflREzWAhxl", 
+            "type": "artist", 
+            "id": "3zunDAtRDg7kflREzWAhxl"
+          }
+        ], 
+        "duration_ms": 216613, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "2zgUtuWWXI9wJQU8ZHeGfi"
+      }, 
+      {
+        "name": "Guest List", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7nFI9XxefXx3TPKxPCZ7WF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/af280b5e5e84fb29a234254c9073e5b446c88f8f", 
+        "is_playable": true, 
+        "uri": "spotify:track:7nFI9XxefXx3TPKxPCZ7WF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7nFI9XxefXx3TPKxPCZ7WF", 
+        "artists": [
+          {
+            "name": "Eels", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+            }, 
+            "uri": "spotify:artist:3zunDAtRDg7kflREzWAhxl", 
+            "href": "https://api.spotify.com/v1/artists/3zunDAtRDg7kflREzWAhxl", 
+            "type": "artist", 
+            "id": "3zunDAtRDg7kflREzWAhxl"
+          }
+        ], 
+        "duration_ms": 193226, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "7nFI9XxefXx3TPKxPCZ7WF"
+      }, 
+      {
+        "name": "Mental", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3SjMBoFnXdOt6nNRsffjkK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d3d0d6b6daf86c560f03237a3ba89d97126b9b4a", 
+        "is_playable": true, 
+        "uri": "spotify:track:3SjMBoFnXdOt6nNRsffjkK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3SjMBoFnXdOt6nNRsffjkK", 
+        "artists": [
+          {
+            "name": "Eels", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+            }, 
+            "uri": "spotify:artist:3zunDAtRDg7kflREzWAhxl", 
+            "href": "https://api.spotify.com/v1/artists/3zunDAtRDg7kflREzWAhxl", 
+            "type": "artist", 
+            "id": "3zunDAtRDg7kflREzWAhxl"
+          }
+        ], 
+        "duration_ms": 241000, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "3SjMBoFnXdOt6nNRsffjkK"
+      }, 
+      {
+        "name": "Spunky", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4wrycDzYZGXS75Ah3Dlp9z"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e98b91c6c62fe598cd6d6819f3fc5c05f4f66d9e", 
+        "is_playable": true, 
+        "uri": "spotify:track:4wrycDzYZGXS75Ah3Dlp9z", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4wrycDzYZGXS75Ah3Dlp9z", 
+        "artists": [
+          {
+            "name": "Eels", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+            }, 
+            "uri": "spotify:artist:3zunDAtRDg7kflREzWAhxl", 
+            "href": "https://api.spotify.com/v1/artists/3zunDAtRDg7kflREzWAhxl", 
+            "type": "artist", 
+            "id": "3zunDAtRDg7kflREzWAhxl"
+          }
+        ], 
+        "duration_ms": 191266, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "4wrycDzYZGXS75Ah3Dlp9z"
+      }, 
+      {
+        "name": "Your Lucky Day In Hell", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3ZhbNrcMY4O4PqXEbMCtMZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9375022c13200acf5910271d17b87a1963a6dd36", 
+        "is_playable": true, 
+        "uri": "spotify:track:3ZhbNrcMY4O4PqXEbMCtMZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3ZhbNrcMY4O4PqXEbMCtMZ", 
+        "artists": [
+          {
+            "name": "Eels", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+            }, 
+            "uri": "spotify:artist:3zunDAtRDg7kflREzWAhxl", 
+            "href": "https://api.spotify.com/v1/artists/3zunDAtRDg7kflREzWAhxl", 
+            "type": "artist", 
+            "id": "3zunDAtRDg7kflREzWAhxl"
+          }
+        ], 
+        "duration_ms": 266706, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "3ZhbNrcMY4O4PqXEbMCtMZ"
+      }, 
+      {
+        "name": "Manchild", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/533RMU9tDnr4Xr37NAQef3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/55138f3cdde981be447a44c854daedb0eeb2a1e5", 
+        "is_playable": true, 
+        "uri": "spotify:track:533RMU9tDnr4Xr37NAQef3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/533RMU9tDnr4Xr37NAQef3", 
+        "artists": [
+          {
+            "name": "Eels", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+            }, 
+            "uri": "spotify:artist:3zunDAtRDg7kflREzWAhxl", 
+            "href": "https://api.spotify.com/v1/artists/3zunDAtRDg7kflREzWAhxl", 
+            "type": "artist", 
+            "id": "3zunDAtRDg7kflREzWAhxl"
+          }
+        ], 
+        "duration_ms": 245306, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "533RMU9tDnr4Xr37NAQef3"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/1GJwrOcVkg2kCtI8RUZEdy/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 12, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/1GJwrOcVkg2kCtI8RUZEdy", 
+  "copyrights": [
+    {
+      "text": "(C) 1996 SKG Music L.L.C.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1996 SKG Music L.L.C.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Eels", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+      }, 
+      "uri": "spotify:artist:3zunDAtRDg7kflREzWAhxl", 
+      "href": "https://api.spotify.com/v1/artists/3zunDAtRDg7kflREzWAhxl", 
+      "type": "artist", 
+      "id": "3zunDAtRDg7kflREzWAhxl"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/4004a44cd71377c9f90606c92afc3c3a8f433e8a", 
+      "width": 640, 
+      "height": 630
+    }, 
+    {
+      "url": "https://i.scdn.co/image/681a7a50cf9ae86e2f82e6373c50957a605fa309", 
+      "width": 300, 
+      "height": 295
+    }, 
+    {
+      "url": "https://i.scdn.co/image/cf86f8a31981de77f63970b8df74fa802db963c7", 
+      "width": 64, 
+      "height": 63
+    }
+  ], 
+  "external_ids": {
+    "upc": "00600445000124"
+  }, 
+  "type": "album", 
+  "id": "1GJwrOcVkg2kCtI8RUZEdy", 
+  "name": "Beautiful Freak"
+}

@@ -1,0 +1,403 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1emkiMRnLWtWfmCcJapjR1"
+  }, 
+  "release_date": "2001-08-27", 
+  "popularity": 33, 
+  "genres": [], 
+  "uri": "spotify:album:1emkiMRnLWtWfmCcJapjR1", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Hidden Place", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2kHrhU5xPqB9nvJPE3IkED"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d5be130d24c46f8212117132e2fe3a19b1e39050", 
+        "is_playable": true, 
+        "uri": "spotify:track:2kHrhU5xPqB9nvJPE3IkED", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2kHrhU5xPqB9nvJPE3IkED", 
+        "artists": [
+          {
+            "name": "Bj\u00f6rk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+            }, 
+            "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA", 
+            "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA", 
+            "type": "artist", 
+            "id": "7w29UYBi0qsHi5RTcv3lmA"
+          }
+        ], 
+        "duration_ms": 329360, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "2kHrhU5xPqB9nvJPE3IkED"
+      }, 
+      {
+        "name": "Cocoon", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6PjCZEBSvmhWMhRsi0E0Us"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/09fb3959ccd4b56d3fb220e4b9e1f3e297c0bfef", 
+        "is_playable": true, 
+        "uri": "spotify:track:6PjCZEBSvmhWMhRsi0E0Us", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6PjCZEBSvmhWMhRsi0E0Us", 
+        "artists": [
+          {
+            "name": "Bj\u00f6rk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+            }, 
+            "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA", 
+            "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA", 
+            "type": "artist", 
+            "id": "7w29UYBi0qsHi5RTcv3lmA"
+          }
+        ], 
+        "duration_ms": 268106, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "6PjCZEBSvmhWMhRsi0E0Us"
+      }, 
+      {
+        "name": "It's Not Up to You", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/71WBG1ZDw7sxNxYwUmV67B"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6bc95d2a7c1d765daa101efba4b9f22ae2154c23", 
+        "is_playable": true, 
+        "uri": "spotify:track:71WBG1ZDw7sxNxYwUmV67B", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/71WBG1ZDw7sxNxYwUmV67B", 
+        "artists": [
+          {
+            "name": "Bj\u00f6rk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+            }, 
+            "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA", 
+            "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA", 
+            "type": "artist", 
+            "id": "7w29UYBi0qsHi5RTcv3lmA"
+          }
+        ], 
+        "duration_ms": 308960, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "71WBG1ZDw7sxNxYwUmV67B"
+      }, 
+      {
+        "name": "Undo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3mi8YRaqfG0ZGRylo9vRYV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/35168f259afeaba435c62ed8fa114cc2262743ff", 
+        "is_playable": true, 
+        "uri": "spotify:track:3mi8YRaqfG0ZGRylo9vRYV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3mi8YRaqfG0ZGRylo9vRYV", 
+        "artists": [
+          {
+            "name": "Bj\u00f6rk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+            }, 
+            "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA", 
+            "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA", 
+            "type": "artist", 
+            "id": "7w29UYBi0qsHi5RTcv3lmA"
+          }
+        ], 
+        "duration_ms": 338398, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "3mi8YRaqfG0ZGRylo9vRYV"
+      }, 
+      {
+        "name": "Pagan Poetry", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2WeO5EXIU3UyrW9SkB5kXR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/46993e2b990f7f08f76e25d249a4fd3744be3ea7", 
+        "is_playable": true, 
+        "uri": "spotify:track:2WeO5EXIU3UyrW9SkB5kXR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2WeO5EXIU3UyrW9SkB5kXR", 
+        "artists": [
+          {
+            "name": "Bj\u00f6rk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+            }, 
+            "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA", 
+            "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA", 
+            "type": "artist", 
+            "id": "7w29UYBi0qsHi5RTcv3lmA"
+          }
+        ], 
+        "duration_ms": 314866, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "2WeO5EXIU3UyrW9SkB5kXR"
+      }, 
+      {
+        "name": "Frosti", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/48P1b58nR0So65UcgA03Zd"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2decb81e23800cc1a2e2275e7573edcb603bd50c", 
+        "is_playable": true, 
+        "uri": "spotify:track:48P1b58nR0So65UcgA03Zd", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/48P1b58nR0So65UcgA03Zd", 
+        "artists": [
+          {
+            "name": "Bj\u00f6rk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+            }, 
+            "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA", 
+            "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA", 
+            "type": "artist", 
+            "id": "7w29UYBi0qsHi5RTcv3lmA"
+          }
+        ], 
+        "duration_ms": 101506, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "48P1b58nR0So65UcgA03Zd"
+      }, 
+      {
+        "name": "Aurora", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5plEGnIlgIQLjujBX8ixRw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0e5872d5904c007138e7495c9bf95baa800008e6", 
+        "is_playable": true, 
+        "uri": "spotify:track:5plEGnIlgIQLjujBX8ixRw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5plEGnIlgIQLjujBX8ixRw", 
+        "artists": [
+          {
+            "name": "Bj\u00f6rk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+            }, 
+            "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA", 
+            "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA", 
+            "type": "artist", 
+            "id": "7w29UYBi0qsHi5RTcv3lmA"
+          }
+        ], 
+        "duration_ms": 279226, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "5plEGnIlgIQLjujBX8ixRw"
+      }, 
+      {
+        "name": "An Echo a Stain", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2DnPuHEJqs2m4B7ut1ZTpU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a06abf5a9ce021d908bca90e3a53a0e34140265e", 
+        "is_playable": true, 
+        "uri": "spotify:track:2DnPuHEJqs2m4B7ut1ZTpU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2DnPuHEJqs2m4B7ut1ZTpU", 
+        "artists": [
+          {
+            "name": "Bj\u00f6rk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+            }, 
+            "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA", 
+            "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA", 
+            "type": "artist", 
+            "id": "7w29UYBi0qsHi5RTcv3lmA"
+          }
+        ], 
+        "duration_ms": 244466, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "2DnPuHEJqs2m4B7ut1ZTpU"
+      }, 
+      {
+        "name": "Sun in My Mouth", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/20LyR0XQFOBLQVqnjBx92m"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0d10a5856acaafba10602b4191acab13b1cb0b6b", 
+        "is_playable": true, 
+        "uri": "spotify:track:20LyR0XQFOBLQVqnjBx92m", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/20LyR0XQFOBLQVqnjBx92m", 
+        "artists": [
+          {
+            "name": "Bj\u00f6rk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+            }, 
+            "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA", 
+            "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA", 
+            "type": "artist", 
+            "id": "7w29UYBi0qsHi5RTcv3lmA"
+          }
+        ], 
+        "duration_ms": 160200, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "20LyR0XQFOBLQVqnjBx92m"
+      }, 
+      {
+        "name": "Heirloom", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5aYZT7iaj7xaLj0vdzMJeo"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/549f53b7775dc040dc026c333b01bcbd28dd8052", 
+        "is_playable": true, 
+        "uri": "spotify:track:5aYZT7iaj7xaLj0vdzMJeo", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5aYZT7iaj7xaLj0vdzMJeo", 
+        "artists": [
+          {
+            "name": "Bj\u00f6rk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+            }, 
+            "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA", 
+            "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA", 
+            "type": "artist", 
+            "id": "7w29UYBi0qsHi5RTcv3lmA"
+          }
+        ], 
+        "duration_ms": 312040, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "5aYZT7iaj7xaLj0vdzMJeo"
+      }, 
+      {
+        "name": "Harm of Will", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2onl4xNwt86Vb1lXjp39xK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/54555de5e2cc093c6510bb375373b21369cd06bd", 
+        "is_playable": true, 
+        "uri": "spotify:track:2onl4xNwt86Vb1lXjp39xK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2onl4xNwt86Vb1lXjp39xK", 
+        "artists": [
+          {
+            "name": "Bj\u00f6rk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+            }, 
+            "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA", 
+            "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA", 
+            "type": "artist", 
+            "id": "7w29UYBi0qsHi5RTcv3lmA"
+          }
+        ], 
+        "duration_ms": 276960, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "2onl4xNwt86Vb1lXjp39xK"
+      }, 
+      {
+        "name": "Unison", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/21ER0Zcdh95I66WDg9sdJq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bb1c78406cf8066e664b9c6667dd56ce6a03bb5e", 
+        "is_playable": true, 
+        "uri": "spotify:track:21ER0Zcdh95I66WDg9sdJq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/21ER0Zcdh95I66WDg9sdJq", 
+        "artists": [
+          {
+            "name": "Bj\u00f6rk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+            }, 
+            "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA", 
+            "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA", 
+            "type": "artist", 
+            "id": "7w29UYBi0qsHi5RTcv3lmA"
+          }
+        ], 
+        "duration_ms": 407598, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "21ER0Zcdh95I66WDg9sdJq"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/1emkiMRnLWtWfmCcJapjR1/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 12, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/1emkiMRnLWtWfmCcJapjR1", 
+  "copyrights": [
+    {
+      "text": "Bjork overseas limited/One Little Inidian", 
+      "type": "C"
+    }, 
+    {
+      "text": "Bjork overseas limited/One Little Inidian", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Bj\u00f6rk", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+      }, 
+      "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA", 
+      "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA", 
+      "type": "artist", 
+      "id": "7w29UYBi0qsHi5RTcv3lmA"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/b7033695fc752b0367dcc054ef54eec7f799456d", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/8f1de6f3a48227cbfda71e049ddea2bbe8fe5aec", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/cc7ca59407234d6b4ae3441df4e129f4523d8342", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "5016958046026"
+  }, 
+  "type": "album", 
+  "id": "1emkiMRnLWtWfmCcJapjR1", 
+  "name": "Vespertine"
+}

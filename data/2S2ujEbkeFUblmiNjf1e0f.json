@@ -1,0 +1,371 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2S2ujEbkeFUblmiNjf1e0f"
+  }, 
+  "release_date": "1977", 
+  "popularity": 44, 
+  "genres": [], 
+  "uri": "spotify:album:2S2ujEbkeFUblmiNjf1e0f", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Birdland", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5PHNev6toiQRao7OnfFXMp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6628388a9ab6d8df20d3cd2f05aa0a5f3f59c1a5", 
+        "is_playable": true, 
+        "uri": "spotify:track:5PHNev6toiQRao7OnfFXMp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5PHNev6toiQRao7OnfFXMp", 
+        "artists": [
+          {
+            "name": "Weather Report", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b"
+            }, 
+            "uri": "spotify:artist:162DCkd8aDKwvjBb74Gu8b", 
+            "href": "https://api.spotify.com/v1/artists/162DCkd8aDKwvjBb74Gu8b", 
+            "type": "artist", 
+            "id": "162DCkd8aDKwvjBb74Gu8b"
+          }
+        ], 
+        "duration_ms": 359440, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "5PHNev6toiQRao7OnfFXMp"
+      }, 
+      {
+        "name": "A Remark You Made", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0GjOZkEk4jTSQq8PkuH097"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/becb9786334098430eeed080c7bc666c612d9efc", 
+        "is_playable": true, 
+        "uri": "spotify:track:0GjOZkEk4jTSQq8PkuH097", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0GjOZkEk4jTSQq8PkuH097", 
+        "artists": [
+          {
+            "name": "Weather Report", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b"
+            }, 
+            "uri": "spotify:artist:162DCkd8aDKwvjBb74Gu8b", 
+            "href": "https://api.spotify.com/v1/artists/162DCkd8aDKwvjBb74Gu8b", 
+            "type": "artist", 
+            "id": "162DCkd8aDKwvjBb74Gu8b"
+          }
+        ], 
+        "duration_ms": 410720, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "0GjOZkEk4jTSQq8PkuH097"
+      }, 
+      {
+        "name": "Teen Town", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Vnd9kqU36jdtgXXcxEJHW"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cfa83d7edd49390153ec9a995dcf08fedd984807", 
+        "is_playable": true, 
+        "uri": "spotify:track:3Vnd9kqU36jdtgXXcxEJHW", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3Vnd9kqU36jdtgXXcxEJHW", 
+        "artists": [
+          {
+            "name": "Weather Report", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b"
+            }, 
+            "uri": "spotify:artist:162DCkd8aDKwvjBb74Gu8b", 
+            "href": "https://api.spotify.com/v1/artists/162DCkd8aDKwvjBb74Gu8b", 
+            "type": "artist", 
+            "id": "162DCkd8aDKwvjBb74Gu8b"
+          }
+        ], 
+        "duration_ms": 172333, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "3Vnd9kqU36jdtgXXcxEJHW"
+      }, 
+      {
+        "name": "Harlequin", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2CK5DFU55zB3Um8WMKebHA"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0c17f1e4a480fe18d7c04fe3bd5c408804bedf02", 
+        "is_playable": true, 
+        "uri": "spotify:track:2CK5DFU55zB3Um8WMKebHA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2CK5DFU55zB3Um8WMKebHA", 
+        "artists": [
+          {
+            "name": "Weather Report", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b"
+            }, 
+            "uri": "spotify:artist:162DCkd8aDKwvjBb74Gu8b", 
+            "href": "https://api.spotify.com/v1/artists/162DCkd8aDKwvjBb74Gu8b", 
+            "type": "artist", 
+            "id": "162DCkd8aDKwvjBb74Gu8b"
+          }
+        ], 
+        "duration_ms": 241200, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "2CK5DFU55zB3Um8WMKebHA"
+      }, 
+      {
+        "name": "Rumba Mama", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6huWzaicboVeCQxDnVSUS2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e4b7a6df9789a43bdef49e1bc14fb0b84d2a9f04", 
+        "is_playable": true, 
+        "uri": "spotify:track:6huWzaicboVeCQxDnVSUS2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6huWzaicboVeCQxDnVSUS2", 
+        "artists": [
+          {
+            "name": "Weather Report", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b"
+            }, 
+            "uri": "spotify:artist:162DCkd8aDKwvjBb74Gu8b", 
+            "href": "https://api.spotify.com/v1/artists/162DCkd8aDKwvjBb74Gu8b", 
+            "type": "artist", 
+            "id": "162DCkd8aDKwvjBb74Gu8b"
+          }
+        ], 
+        "duration_ms": 131506, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "6huWzaicboVeCQxDnVSUS2"
+      }, 
+      {
+        "name": "Palladium", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6FureZeET0H3bbURazGeU3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5cf9fb4361b3176da465e1bde1606a3c896b33ac", 
+        "is_playable": true, 
+        "uri": "spotify:track:6FureZeET0H3bbURazGeU3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6FureZeET0H3bbURazGeU3", 
+        "artists": [
+          {
+            "name": "Weather Report", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b"
+            }, 
+            "uri": "spotify:artist:162DCkd8aDKwvjBb74Gu8b", 
+            "href": "https://api.spotify.com/v1/artists/162DCkd8aDKwvjBb74Gu8b", 
+            "type": "artist", 
+            "id": "162DCkd8aDKwvjBb74Gu8b"
+          }
+        ], 
+        "duration_ms": 287093, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "6FureZeET0H3bbURazGeU3"
+      }, 
+      {
+        "name": "The Juggler", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2MYba6Ag4a7ryGSSh1GntW"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/025d6e2fc72d8d2d4cbe83077b2b12e224639438", 
+        "is_playable": true, 
+        "uri": "spotify:track:2MYba6Ag4a7ryGSSh1GntW", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2MYba6Ag4a7ryGSSh1GntW", 
+        "artists": [
+          {
+            "name": "Weather Report", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b"
+            }, 
+            "uri": "spotify:artist:162DCkd8aDKwvjBb74Gu8b", 
+            "href": "https://api.spotify.com/v1/artists/162DCkd8aDKwvjBb74Gu8b", 
+            "type": "artist", 
+            "id": "162DCkd8aDKwvjBb74Gu8b"
+          }
+        ], 
+        "duration_ms": 303706, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "2MYba6Ag4a7ryGSSh1GntW"
+      }, 
+      {
+        "name": "Havona", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5ezpqroesZ0QIM1B9EM2op"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/149be91d5bb12f6714fa7c2408f21c9383c581ec", 
+        "is_playable": true, 
+        "uri": "spotify:track:5ezpqroesZ0QIM1B9EM2op", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5ezpqroesZ0QIM1B9EM2op", 
+        "artists": [
+          {
+            "name": "Weather Report", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b"
+            }, 
+            "uri": "spotify:artist:162DCkd8aDKwvjBb74Gu8b", 
+            "href": "https://api.spotify.com/v1/artists/162DCkd8aDKwvjBb74Gu8b", 
+            "type": "artist", 
+            "id": "162DCkd8aDKwvjBb74Gu8b"
+          }
+        ], 
+        "duration_ms": 361586, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "5ezpqroesZ0QIM1B9EM2op"
+      }, 
+      {
+        "name": "Black Market - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5KNUqfJs9cf93VhyZOzkCE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ec3ef1082e99b939672447e64c6c3fe22479eb41", 
+        "is_playable": true, 
+        "uri": "spotify:track:5KNUqfJs9cf93VhyZOzkCE", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5KNUqfJs9cf93VhyZOzkCE", 
+        "artists": [
+          {
+            "name": "Weather Report", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b"
+            }, 
+            "uri": "spotify:artist:162DCkd8aDKwvjBb74Gu8b", 
+            "href": "https://api.spotify.com/v1/artists/162DCkd8aDKwvjBb74Gu8b", 
+            "type": "artist", 
+            "id": "162DCkd8aDKwvjBb74Gu8b"
+          }
+        ], 
+        "duration_ms": 566120, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "5KNUqfJs9cf93VhyZOzkCE"
+      }, 
+      {
+        "name": "Teen Town - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4IhBkHFTCE7dcHSkSHrmsh"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e61975071d1c5f206cb61f3492c73e71ea2ac9ba", 
+        "is_playable": true, 
+        "uri": "spotify:track:4IhBkHFTCE7dcHSkSHrmsh", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4IhBkHFTCE7dcHSkSHrmsh", 
+        "artists": [
+          {
+            "name": "Weather Report", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b"
+            }, 
+            "uri": "spotify:artist:162DCkd8aDKwvjBb74Gu8b", 
+            "href": "https://api.spotify.com/v1/artists/162DCkd8aDKwvjBb74Gu8b", 
+            "type": "artist", 
+            "id": "162DCkd8aDKwvjBb74Gu8b"
+          }
+        ], 
+        "duration_ms": 390413, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "4IhBkHFTCE7dcHSkSHrmsh"
+      }, 
+      {
+        "name": "Birdland - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6ed2GYlh1U397rG5z8nZgS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a17f5e53caabcf9b7fc69259bc6726c82e17d199", 
+        "is_playable": true, 
+        "uri": "spotify:track:6ed2GYlh1U397rG5z8nZgS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6ed2GYlh1U397rG5z8nZgS", 
+        "artists": [
+          {
+            "name": "Weather Report", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b"
+            }, 
+            "uri": "spotify:artist:162DCkd8aDKwvjBb74Gu8b", 
+            "href": "https://api.spotify.com/v1/artists/162DCkd8aDKwvjBb74Gu8b", 
+            "type": "artist", 
+            "id": "162DCkd8aDKwvjBb74Gu8b"
+          }
+        ], 
+        "duration_ms": 396720, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "6ed2GYlh1U397rG5z8nZgS"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/2S2ujEbkeFUblmiNjf1e0f/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 11, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/2S2ujEbkeFUblmiNjf1e0f", 
+  "copyrights": [
+    {
+      "text": "(P) 1977 Sony Music Entertainment Inc. WARNING: All rights reserved. Unauthorized duplication is a violation of applicable laws.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Weather Report", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b"
+      }, 
+      "uri": "spotify:artist:162DCkd8aDKwvjBb74Gu8b", 
+      "href": "https://api.spotify.com/v1/artists/162DCkd8aDKwvjBb74Gu8b", 
+      "type": "artist", 
+      "id": "162DCkd8aDKwvjBb74Gu8b"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/7af7f992bc657d2e00bb09ada0219870b5c6173c", 
+      "width": 640, 
+      "height": 639
+    }, 
+    {
+      "url": "https://i.scdn.co/image/91d2dc664d67068ff275b6260724b45f6b17b65c", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/304a1627a9e6fcaef18f3bc694500cbcdb9888fe", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "886443431515"
+  }, 
+  "type": "album", 
+  "id": "2S2ujEbkeFUblmiNjf1e0f", 
+  "name": "Heavy Weather"
+}

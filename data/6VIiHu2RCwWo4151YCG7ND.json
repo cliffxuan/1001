@@ -1,0 +1,539 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6VIiHu2RCwWo4151YCG7ND"
+  }, 
+  "release_date": "1982", 
+  "popularity": 43, 
+  "genres": [], 
+  "uri": "spotify:album:6VIiHu2RCwWo4151YCG7ND", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Favourite Shirts (Boy Meets Girl)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Dj0RpOdgzXWnxf7wyZhay"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fc341606c12ec1533e8dd6142bb23e96f74b8759", 
+        "is_playable": true, 
+        "uri": "spotify:track:6Dj0RpOdgzXWnxf7wyZhay", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6Dj0RpOdgzXWnxf7wyZhay", 
+        "artists": [
+          {
+            "name": "Haircut 100", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7"
+            }, 
+            "uri": "spotify:artist:6imyM8T1Xbe8v2iZe41dR7", 
+            "href": "https://api.spotify.com/v1/artists/6imyM8T1Xbe8v2iZe41dR7", 
+            "type": "artist", 
+            "id": "6imyM8T1Xbe8v2iZe41dR7"
+          }
+        ], 
+        "duration_ms": 185426, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "6Dj0RpOdgzXWnxf7wyZhay"
+      }, 
+      {
+        "name": "Love Plus One", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4vwLjB2NRtl9b34jRe6cWd"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/05f4ea0b45f011750cf2cc5333d4ac719892363e", 
+        "is_playable": true, 
+        "uri": "spotify:track:4vwLjB2NRtl9b34jRe6cWd", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4vwLjB2NRtl9b34jRe6cWd", 
+        "artists": [
+          {
+            "name": "Haircut 100", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7"
+            }, 
+            "uri": "spotify:artist:6imyM8T1Xbe8v2iZe41dR7", 
+            "href": "https://api.spotify.com/v1/artists/6imyM8T1Xbe8v2iZe41dR7", 
+            "type": "artist", 
+            "id": "6imyM8T1Xbe8v2iZe41dR7"
+          }
+        ], 
+        "duration_ms": 212573, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "4vwLjB2NRtl9b34jRe6cWd"
+      }, 
+      {
+        "name": "Lemon Firebrigade", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1WrsjQWhtJkKZ5wWcaZYwN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/68e788259c2bcf939f3db52ca66825bae6e47b40", 
+        "is_playable": true, 
+        "uri": "spotify:track:1WrsjQWhtJkKZ5wWcaZYwN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1WrsjQWhtJkKZ5wWcaZYwN", 
+        "artists": [
+          {
+            "name": "Haircut 100", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7"
+            }, 
+            "uri": "spotify:artist:6imyM8T1Xbe8v2iZe41dR7", 
+            "href": "https://api.spotify.com/v1/artists/6imyM8T1Xbe8v2iZe41dR7", 
+            "type": "artist", 
+            "id": "6imyM8T1Xbe8v2iZe41dR7"
+          }
+        ], 
+        "duration_ms": 234360, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "1WrsjQWhtJkKZ5wWcaZYwN"
+      }, 
+      {
+        "name": "Marine Boy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Gda76ObSaLL50p7wxqYH1"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4d8de106cf4a03972553ba39c0aa6cc364c706fe", 
+        "is_playable": true, 
+        "uri": "spotify:track:0Gda76ObSaLL50p7wxqYH1", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0Gda76ObSaLL50p7wxqYH1", 
+        "artists": [
+          {
+            "name": "Haircut 100", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7"
+            }, 
+            "uri": "spotify:artist:6imyM8T1Xbe8v2iZe41dR7", 
+            "href": "https://api.spotify.com/v1/artists/6imyM8T1Xbe8v2iZe41dR7", 
+            "type": "artist", 
+            "id": "6imyM8T1Xbe8v2iZe41dR7"
+          }
+        ], 
+        "duration_ms": 208066, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "0Gda76ObSaLL50p7wxqYH1"
+      }, 
+      {
+        "name": "Milk Film", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6drzGsYy7p7KytMgOChpr8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f73e101aa355fd047ffbd8c3c7e993775312a07f", 
+        "is_playable": true, 
+        "uri": "spotify:track:6drzGsYy7p7KytMgOChpr8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6drzGsYy7p7KytMgOChpr8", 
+        "artists": [
+          {
+            "name": "Haircut 100", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7"
+            }, 
+            "uri": "spotify:artist:6imyM8T1Xbe8v2iZe41dR7", 
+            "href": "https://api.spotify.com/v1/artists/6imyM8T1Xbe8v2iZe41dR7", 
+            "type": "artist", 
+            "id": "6imyM8T1Xbe8v2iZe41dR7"
+          }
+        ], 
+        "duration_ms": 176106, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "6drzGsYy7p7KytMgOChpr8"
+      }, 
+      {
+        "name": "Kingsize (You're My Little Steam Whistle)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Vkl8jBpaHDxjDKudJHeUZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1f70c317ad90b95de2eb434b06b286bd402a487b", 
+        "is_playable": true, 
+        "uri": "spotify:track:5Vkl8jBpaHDxjDKudJHeUZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5Vkl8jBpaHDxjDKudJHeUZ", 
+        "artists": [
+          {
+            "name": "Haircut 100", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7"
+            }, 
+            "uri": "spotify:artist:6imyM8T1Xbe8v2iZe41dR7", 
+            "href": "https://api.spotify.com/v1/artists/6imyM8T1Xbe8v2iZe41dR7", 
+            "type": "artist", 
+            "id": "6imyM8T1Xbe8v2iZe41dR7"
+          }
+        ], 
+        "duration_ms": 262840, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "5Vkl8jBpaHDxjDKudJHeUZ"
+      }, 
+      {
+        "name": "Fantastic Day", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7rkuZX0U9yd6RP9kO56qS2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5cf3f7f1f8ab97461cdccb561914606eb1103b70", 
+        "is_playable": true, 
+        "uri": "spotify:track:7rkuZX0U9yd6RP9kO56qS2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7rkuZX0U9yd6RP9kO56qS2", 
+        "artists": [
+          {
+            "name": "Haircut 100", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7"
+            }, 
+            "uri": "spotify:artist:6imyM8T1Xbe8v2iZe41dR7", 
+            "href": "https://api.spotify.com/v1/artists/6imyM8T1Xbe8v2iZe41dR7", 
+            "type": "artist", 
+            "id": "6imyM8T1Xbe8v2iZe41dR7"
+          }
+        ], 
+        "duration_ms": 193266, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "7rkuZX0U9yd6RP9kO56qS2"
+      }, 
+      {
+        "name": "Baked Bean", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2nJD4rbuUWP2OG7aB6ZTpY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/12b7598c0c4e58533dafa8b9121b36f3df0c4253", 
+        "is_playable": true, 
+        "uri": "spotify:track:2nJD4rbuUWP2OG7aB6ZTpY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2nJD4rbuUWP2OG7aB6ZTpY", 
+        "artists": [
+          {
+            "name": "Haircut 100", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7"
+            }, 
+            "uri": "spotify:artist:6imyM8T1Xbe8v2iZe41dR7", 
+            "href": "https://api.spotify.com/v1/artists/6imyM8T1Xbe8v2iZe41dR7", 
+            "type": "artist", 
+            "id": "6imyM8T1Xbe8v2iZe41dR7"
+          }
+        ], 
+        "duration_ms": 242333, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "2nJD4rbuUWP2OG7aB6ZTpY"
+      }, 
+      {
+        "name": "Snow Girl", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4tmrgY4OcC6r3jEYcJDC4d"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f63b66f56ccdaac456f6aeb025a70d5d4103ba49", 
+        "is_playable": true, 
+        "uri": "spotify:track:4tmrgY4OcC6r3jEYcJDC4d", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4tmrgY4OcC6r3jEYcJDC4d", 
+        "artists": [
+          {
+            "name": "Haircut 100", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7"
+            }, 
+            "uri": "spotify:artist:6imyM8T1Xbe8v2iZe41dR7", 
+            "href": "https://api.spotify.com/v1/artists/6imyM8T1Xbe8v2iZe41dR7", 
+            "type": "artist", 
+            "id": "6imyM8T1Xbe8v2iZe41dR7"
+          }
+        ], 
+        "duration_ms": 175800, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "4tmrgY4OcC6r3jEYcJDC4d"
+      }, 
+      {
+        "name": "Love's Got Me In Triangles", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4PwbnUBqk1aDyWmXbV43jM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/448e686b3aab6289bfd71ed77c38624ffb51ab68", 
+        "is_playable": true, 
+        "uri": "spotify:track:4PwbnUBqk1aDyWmXbV43jM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4PwbnUBqk1aDyWmXbV43jM", 
+        "artists": [
+          {
+            "name": "Haircut 100", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7"
+            }, 
+            "uri": "spotify:artist:6imyM8T1Xbe8v2iZe41dR7", 
+            "href": "https://api.spotify.com/v1/artists/6imyM8T1Xbe8v2iZe41dR7", 
+            "type": "artist", 
+            "id": "6imyM8T1Xbe8v2iZe41dR7"
+          }
+        ], 
+        "duration_ms": 215640, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "4PwbnUBqk1aDyWmXbV43jM"
+      }, 
+      {
+        "name": "Surprise Me Again", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2VOEVtTUzxD28vsOHzT62L"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8bd2ff2e0992b3361062d4fd98f8e7de28277938", 
+        "is_playable": true, 
+        "uri": "spotify:track:2VOEVtTUzxD28vsOHzT62L", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2VOEVtTUzxD28vsOHzT62L", 
+        "artists": [
+          {
+            "name": "Haircut 100", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7"
+            }, 
+            "uri": "spotify:artist:6imyM8T1Xbe8v2iZe41dR7", 
+            "href": "https://api.spotify.com/v1/artists/6imyM8T1Xbe8v2iZe41dR7", 
+            "type": "artist", 
+            "id": "6imyM8T1Xbe8v2iZe41dR7"
+          }
+        ], 
+        "duration_ms": 197266, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "2VOEVtTUzxD28vsOHzT62L"
+      }, 
+      {
+        "name": "Calling Captain Autumn", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Km1sYg6VMN1e89Q0713vr"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6652510aae5a1c4086968127df04624c78581985", 
+        "is_playable": true, 
+        "uri": "spotify:track:3Km1sYg6VMN1e89Q0713vr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3Km1sYg6VMN1e89Q0713vr", 
+        "artists": [
+          {
+            "name": "Haircut 100", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7"
+            }, 
+            "uri": "spotify:artist:6imyM8T1Xbe8v2iZe41dR7", 
+            "href": "https://api.spotify.com/v1/artists/6imyM8T1Xbe8v2iZe41dR7", 
+            "type": "artist", 
+            "id": "6imyM8T1Xbe8v2iZe41dR7"
+          }
+        ], 
+        "duration_ms": 242426, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "3Km1sYg6VMN1e89Q0713vr"
+      }, 
+      {
+        "name": "Boat Party", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6jVABnTO3NYugJ1JDhWYdD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/db3a69c6b1e54d65d70d3e86334a6b9f01a1f55b", 
+        "is_playable": true, 
+        "uri": "spotify:track:6jVABnTO3NYugJ1JDhWYdD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6jVABnTO3NYugJ1JDhWYdD", 
+        "artists": [
+          {
+            "name": "Haircut 100", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7"
+            }, 
+            "uri": "spotify:artist:6imyM8T1Xbe8v2iZe41dR7", 
+            "href": "https://api.spotify.com/v1/artists/6imyM8T1Xbe8v2iZe41dR7", 
+            "type": "artist", 
+            "id": "6imyM8T1Xbe8v2iZe41dR7"
+          }
+        ], 
+        "duration_ms": 229000, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "6jVABnTO3NYugJ1JDhWYdD"
+      }, 
+      {
+        "name": "Ski Club", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7fRd56fckbTuCFfnpTAKpq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c5ffd3455d12eea2a11676d8c787956f6821fa7b", 
+        "is_playable": true, 
+        "uri": "spotify:track:7fRd56fckbTuCFfnpTAKpq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7fRd56fckbTuCFfnpTAKpq", 
+        "artists": [
+          {
+            "name": "Haircut 100", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7"
+            }, 
+            "uri": "spotify:artist:6imyM8T1Xbe8v2iZe41dR7", 
+            "href": "https://api.spotify.com/v1/artists/6imyM8T1Xbe8v2iZe41dR7", 
+            "type": "artist", 
+            "id": "6imyM8T1Xbe8v2iZe41dR7"
+          }
+        ], 
+        "duration_ms": 214933, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "7fRd56fckbTuCFfnpTAKpq"
+      }, 
+      {
+        "name": "Nobody's Fool - 12\" Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2wJTptfOzmipfEXZB1lk8N"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3da37404f0724c9e55874b4edd04f46c2bed3998", 
+        "is_playable": true, 
+        "uri": "spotify:track:2wJTptfOzmipfEXZB1lk8N", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2wJTptfOzmipfEXZB1lk8N", 
+        "artists": [
+          {
+            "name": "Haircut 100", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7"
+            }, 
+            "uri": "spotify:artist:6imyM8T1Xbe8v2iZe41dR7", 
+            "href": "https://api.spotify.com/v1/artists/6imyM8T1Xbe8v2iZe41dR7", 
+            "type": "artist", 
+            "id": "6imyM8T1Xbe8v2iZe41dR7"
+          }
+        ], 
+        "duration_ms": 295800, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "2wJTptfOzmipfEXZB1lk8N"
+      }, 
+      {
+        "name": "October Is Orange (Day 1 & 2)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4c5zxUwZ95hcVuMUfx0umH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0769c747010a399f3d97d516a848a491d942a7b6", 
+        "is_playable": true, 
+        "uri": "spotify:track:4c5zxUwZ95hcVuMUfx0umH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4c5zxUwZ95hcVuMUfx0umH", 
+        "artists": [
+          {
+            "name": "Haircut 100", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7"
+            }, 
+            "uri": "spotify:artist:6imyM8T1Xbe8v2iZe41dR7", 
+            "href": "https://api.spotify.com/v1/artists/6imyM8T1Xbe8v2iZe41dR7", 
+            "type": "artist", 
+            "id": "6imyM8T1Xbe8v2iZe41dR7"
+          }
+        ], 
+        "duration_ms": 256200, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "4c5zxUwZ95hcVuMUfx0umH"
+      }, 
+      {
+        "name": "Favourite Shirts (Boy Meets Girl) - 12\" Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/10bSuiGbP9uKN7JM1OeBtT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a370433e860e567fcc159643d23945755a9a3213", 
+        "is_playable": true, 
+        "uri": "spotify:track:10bSuiGbP9uKN7JM1OeBtT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/10bSuiGbP9uKN7JM1OeBtT", 
+        "artists": [
+          {
+            "name": "Haircut 100", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7"
+            }, 
+            "uri": "spotify:artist:6imyM8T1Xbe8v2iZe41dR7", 
+            "href": "https://api.spotify.com/v1/artists/6imyM8T1Xbe8v2iZe41dR7", 
+            "type": "artist", 
+            "id": "6imyM8T1Xbe8v2iZe41dR7"
+          }
+        ], 
+        "duration_ms": 429693, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "10bSuiGbP9uKN7JM1OeBtT"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/6VIiHu2RCwWo4151YCG7ND/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 17, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/6VIiHu2RCwWo4151YCG7ND", 
+  "copyrights": [
+    {
+      "text": "(P) This compilation 1992 BMG Entertainment International UK & Ireland Ltd.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Haircut 100", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7"
+      }, 
+      "uri": "spotify:artist:6imyM8T1Xbe8v2iZe41dR7", 
+      "href": "https://api.spotify.com/v1/artists/6imyM8T1Xbe8v2iZe41dR7", 
+      "type": "artist", 
+      "id": "6imyM8T1Xbe8v2iZe41dR7"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/8dc48bd13b0402e4367091170f8f7978dc4ffdc2", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/e36d8f80ea191b128175149197e958af6394ed6a", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/e6776b093905bad680eaaad2f76256652dadfb93", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "743218958021"
+  }, 
+  "type": "album", 
+  "id": "6VIiHu2RCwWo4151YCG7ND", 
+  "name": "Pelican West Plus"
+}

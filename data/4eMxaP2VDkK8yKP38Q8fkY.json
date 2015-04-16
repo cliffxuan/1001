@@ -1,0 +1,347 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4eMxaP2VDkK8yKP38Q8fkY"
+  }, 
+  "release_date": "2014-02-05", 
+  "popularity": 45, 
+  "genres": [], 
+  "uri": "spotify:album:4eMxaP2VDkK8yKP38Q8fkY", 
+  "tracks": {
+    "items": [
+      {
+        "name": "You're Gonna Need Someone On Your Side - 2014 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1v0SIzRS8IzpxAKWFw9Vsm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3d3491cb3b4affbebbf9481af531d70af4bd9583", 
+        "is_playable": true, 
+        "uri": "spotify:track:1v0SIzRS8IzpxAKWFw9Vsm", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1v0SIzRS8IzpxAKWFw9Vsm", 
+        "artists": [
+          {
+            "name": "Morrissey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+            }, 
+            "uri": "spotify:artist:3iTsJGG39nMg9YiolUgLMQ", 
+            "href": "https://api.spotify.com/v1/artists/3iTsJGG39nMg9YiolUgLMQ", 
+            "type": "artist", 
+            "id": "3iTsJGG39nMg9YiolUgLMQ"
+          }
+        ], 
+        "duration_ms": 221194, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "1v0SIzRS8IzpxAKWFw9Vsm"
+      }, 
+      {
+        "name": "Glamorous Glue - 2014 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6FnnEUDQQfJvgrWeJW874y"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c0faf64403e7f955da3ee10c1bf7b44e013dd32d", 
+        "is_playable": true, 
+        "uri": "spotify:track:6FnnEUDQQfJvgrWeJW874y", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6FnnEUDQQfJvgrWeJW874y", 
+        "artists": [
+          {
+            "name": "Morrissey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+            }, 
+            "uri": "spotify:artist:3iTsJGG39nMg9YiolUgLMQ", 
+            "href": "https://api.spotify.com/v1/artists/3iTsJGG39nMg9YiolUgLMQ", 
+            "type": "artist", 
+            "id": "3iTsJGG39nMg9YiolUgLMQ"
+          }
+        ], 
+        "duration_ms": 243586, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "6FnnEUDQQfJvgrWeJW874y"
+      }, 
+      {
+        "name": "We'll Let You Know - 2014 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0N5B0oQX2rdtaKC9zRnr7X"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/43367be079a748311624499e24669fd69ded4aa1", 
+        "is_playable": true, 
+        "uri": "spotify:track:0N5B0oQX2rdtaKC9zRnr7X", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0N5B0oQX2rdtaKC9zRnr7X", 
+        "artists": [
+          {
+            "name": "Morrissey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+            }, 
+            "uri": "spotify:artist:3iTsJGG39nMg9YiolUgLMQ", 
+            "href": "https://api.spotify.com/v1/artists/3iTsJGG39nMg9YiolUgLMQ", 
+            "type": "artist", 
+            "id": "3iTsJGG39nMg9YiolUgLMQ"
+          }
+        ], 
+        "duration_ms": 313440, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "0N5B0oQX2rdtaKC9zRnr7X"
+      }, 
+      {
+        "name": "The National Front Disco - 2014 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Ly0ai7cVQWCj245ZPlGNK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a9d1609564846cf354d53d515267c4292e652127", 
+        "is_playable": true, 
+        "uri": "spotify:track:5Ly0ai7cVQWCj245ZPlGNK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5Ly0ai7cVQWCj245ZPlGNK", 
+        "artists": [
+          {
+            "name": "Morrissey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+            }, 
+            "uri": "spotify:artist:3iTsJGG39nMg9YiolUgLMQ", 
+            "href": "https://api.spotify.com/v1/artists/3iTsJGG39nMg9YiolUgLMQ", 
+            "type": "artist", 
+            "id": "3iTsJGG39nMg9YiolUgLMQ"
+          }
+        ], 
+        "duration_ms": 263053, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "5Ly0ai7cVQWCj245ZPlGNK"
+      }, 
+      {
+        "name": "Certain People I Know - 2014 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4kSusoLJPrzYTABjdyVndg"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/55d922b08e723d8b12fcd1427f8948fc964d66ec", 
+        "is_playable": true, 
+        "uri": "spotify:track:4kSusoLJPrzYTABjdyVndg", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4kSusoLJPrzYTABjdyVndg", 
+        "artists": [
+          {
+            "name": "Morrissey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+            }, 
+            "uri": "spotify:artist:3iTsJGG39nMg9YiolUgLMQ", 
+            "href": "https://api.spotify.com/v1/artists/3iTsJGG39nMg9YiolUgLMQ", 
+            "type": "artist", 
+            "id": "3iTsJGG39nMg9YiolUgLMQ"
+          }
+        ], 
+        "duration_ms": 189120, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "4kSusoLJPrzYTABjdyVndg"
+      }, 
+      {
+        "name": "We Hate It When Our Friends Become Successful - 2014 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7jO1qTAlJ5VuObNcwd1DPI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f0b7c9c9a837d6460dfdb34411fbde14755479cc", 
+        "is_playable": true, 
+        "uri": "spotify:track:7jO1qTAlJ5VuObNcwd1DPI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7jO1qTAlJ5VuObNcwd1DPI", 
+        "artists": [
+          {
+            "name": "Morrissey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+            }, 
+            "uri": "spotify:artist:3iTsJGG39nMg9YiolUgLMQ", 
+            "href": "https://api.spotify.com/v1/artists/3iTsJGG39nMg9YiolUgLMQ", 
+            "type": "artist", 
+            "id": "3iTsJGG39nMg9YiolUgLMQ"
+          }
+        ], 
+        "duration_ms": 148626, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "7jO1qTAlJ5VuObNcwd1DPI"
+      }, 
+      {
+        "name": "You're The One For Me, Fatty - 2014 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7h5Hl0OJTnYtk46VItvEgJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c614bf03c197d052e610996f31c51aacf6a5dcd6", 
+        "is_playable": true, 
+        "uri": "spotify:track:7h5Hl0OJTnYtk46VItvEgJ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7h5Hl0OJTnYtk46VItvEgJ", 
+        "artists": [
+          {
+            "name": "Morrissey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+            }, 
+            "uri": "spotify:artist:3iTsJGG39nMg9YiolUgLMQ", 
+            "href": "https://api.spotify.com/v1/artists/3iTsJGG39nMg9YiolUgLMQ", 
+            "type": "artist", 
+            "id": "3iTsJGG39nMg9YiolUgLMQ"
+          }
+        ], 
+        "duration_ms": 177840, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "7h5Hl0OJTnYtk46VItvEgJ"
+      }, 
+      {
+        "name": "Seasick, Yet Still Docked - 2014 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4v1cbCEiOn6rJOu79WYjZN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/12bad3dd7b3624a915313fc015e305dc59d31873", 
+        "is_playable": true, 
+        "uri": "spotify:track:4v1cbCEiOn6rJOu79WYjZN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4v1cbCEiOn6rJOu79WYjZN", 
+        "artists": [
+          {
+            "name": "Morrissey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+            }, 
+            "uri": "spotify:artist:3iTsJGG39nMg9YiolUgLMQ", 
+            "href": "https://api.spotify.com/v1/artists/3iTsJGG39nMg9YiolUgLMQ", 
+            "type": "artist", 
+            "id": "3iTsJGG39nMg9YiolUgLMQ"
+          }
+        ], 
+        "duration_ms": 305440, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "4v1cbCEiOn6rJOu79WYjZN"
+      }, 
+      {
+        "name": "I Know It's Gonna Happen Someday - 2014 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/226ewokCBmCcPiRjeJJ6Zu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7689c5ea9e9f11a46b9617f2a884770080d2ff46", 
+        "is_playable": true, 
+        "uri": "spotify:track:226ewokCBmCcPiRjeJJ6Zu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/226ewokCBmCcPiRjeJJ6Zu", 
+        "artists": [
+          {
+            "name": "Morrissey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+            }, 
+            "uri": "spotify:artist:3iTsJGG39nMg9YiolUgLMQ", 
+            "href": "https://api.spotify.com/v1/artists/3iTsJGG39nMg9YiolUgLMQ", 
+            "type": "artist", 
+            "id": "3iTsJGG39nMg9YiolUgLMQ"
+          }
+        ], 
+        "duration_ms": 260760, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "226ewokCBmCcPiRjeJJ6Zu"
+      }, 
+      {
+        "name": "Tomorrow - 2014 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7qptvOZnfShgbYcvONNVnS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/def615b1056a0dcd9b00b4cb8bd82f3c9f855a46", 
+        "is_playable": true, 
+        "uri": "spotify:track:7qptvOZnfShgbYcvONNVnS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7qptvOZnfShgbYcvONNVnS", 
+        "artists": [
+          {
+            "name": "Morrissey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+            }, 
+            "uri": "spotify:artist:3iTsJGG39nMg9YiolUgLMQ", 
+            "href": "https://api.spotify.com/v1/artists/3iTsJGG39nMg9YiolUgLMQ", 
+            "type": "artist", 
+            "id": "3iTsJGG39nMg9YiolUgLMQ"
+          }
+        ], 
+        "duration_ms": 257279, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "7qptvOZnfShgbYcvONNVnS"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/4eMxaP2VDkK8yKP38Q8fkY/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 10, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/4eMxaP2VDkK8yKP38Q8fkY", 
+  "copyrights": [
+    {
+      "text": "2014 Parlophone Records Ltd. A Warner Music Group Company", 
+      "type": "C"
+    }, 
+    {
+      "text": "2014 Parlophone Records Ltd. A Warner Music Group Company", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Morrissey", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+      }, 
+      "uri": "spotify:artist:3iTsJGG39nMg9YiolUgLMQ", 
+      "href": "https://api.spotify.com/v1/artists/3iTsJGG39nMg9YiolUgLMQ", 
+      "type": "artist", 
+      "id": "3iTsJGG39nMg9YiolUgLMQ"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/16324a51a6f7f85120e9014643a602723f213136", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/52c776879fd97d0a22737196fcfeca33f8887142", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/0556603a4680b7fdcb4f7919c4e32d74bf6102f7", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "825646348855"
+  }, 
+  "type": "album", 
+  "id": "4eMxaP2VDkK8yKP38Q8fkY", 
+  "name": "Your Arsenal (Definitive Master)"
+}

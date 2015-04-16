@@ -1,0 +1,459 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3ZnF1cPxlqB48RyLiecDnv"
+  }, 
+  "release_date": "1990", 
+  "popularity": 47, 
+  "genres": [], 
+  "uri": "spotify:album:3ZnF1cPxlqB48RyLiecDnv", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Turnover", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/05DohKWCxbesK6ezHYFJFY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7f2e686bc721d8c605e701ede67ac57521ea14ea", 
+        "is_playable": true, 
+        "uri": "spotify:track:05DohKWCxbesK6ezHYFJFY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/05DohKWCxbesK6ezHYFJFY", 
+        "artists": [
+          {
+            "name": "Fugazi", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+            }, 
+            "uri": "spotify:artist:62sC6lUEWRjbFqXpMmOk4G", 
+            "href": "https://api.spotify.com/v1/artists/62sC6lUEWRjbFqXpMmOk4G", 
+            "type": "artist", 
+            "id": "62sC6lUEWRjbFqXpMmOk4G"
+          }
+        ], 
+        "duration_ms": 255720, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "05DohKWCxbesK6ezHYFJFY"
+      }, 
+      {
+        "name": "Repeater", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3aJ1usdhO4jQ5VAFiet0CL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3091b2710a56359185b63bbee1c44230f24cef46", 
+        "is_playable": true, 
+        "uri": "spotify:track:3aJ1usdhO4jQ5VAFiet0CL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3aJ1usdhO4jQ5VAFiet0CL", 
+        "artists": [
+          {
+            "name": "Fugazi", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+            }, 
+            "uri": "spotify:artist:62sC6lUEWRjbFqXpMmOk4G", 
+            "href": "https://api.spotify.com/v1/artists/62sC6lUEWRjbFqXpMmOk4G", 
+            "type": "artist", 
+            "id": "62sC6lUEWRjbFqXpMmOk4G"
+          }
+        ], 
+        "duration_ms": 181386, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "3aJ1usdhO4jQ5VAFiet0CL"
+      }, 
+      {
+        "name": "Brendan 1", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7uzeJ1HasqTqqB2anNRFCs"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/15e7d41bc24b33f72695713ce4327897085f9319", 
+        "is_playable": true, 
+        "uri": "spotify:track:7uzeJ1HasqTqqB2anNRFCs", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7uzeJ1HasqTqqB2anNRFCs", 
+        "artists": [
+          {
+            "name": "Fugazi", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+            }, 
+            "uri": "spotify:artist:62sC6lUEWRjbFqXpMmOk4G", 
+            "href": "https://api.spotify.com/v1/artists/62sC6lUEWRjbFqXpMmOk4G", 
+            "type": "artist", 
+            "id": "62sC6lUEWRjbFqXpMmOk4G"
+          }
+        ], 
+        "duration_ms": 152493, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "7uzeJ1HasqTqqB2anNRFCs"
+      }, 
+      {
+        "name": "Merchandise", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4EzSNfZlTBL5dYILPTFkb4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/41f8668d0b464f8908e030c4e0a2e0c8abb65463", 
+        "is_playable": true, 
+        "uri": "spotify:track:4EzSNfZlTBL5dYILPTFkb4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4EzSNfZlTBL5dYILPTFkb4", 
+        "artists": [
+          {
+            "name": "Fugazi", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+            }, 
+            "uri": "spotify:artist:62sC6lUEWRjbFqXpMmOk4G", 
+            "href": "https://api.spotify.com/v1/artists/62sC6lUEWRjbFqXpMmOk4G", 
+            "type": "artist", 
+            "id": "62sC6lUEWRjbFqXpMmOk4G"
+          }
+        ], 
+        "duration_ms": 178960, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "4EzSNfZlTBL5dYILPTFkb4"
+      }, 
+      {
+        "name": "Blueprint", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/39kXSNeX4g5wENfe3Vr2dX"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/dd8fb552008b12af545719592c3d17c47bb8801c", 
+        "is_playable": true, 
+        "uri": "spotify:track:39kXSNeX4g5wENfe3Vr2dX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/39kXSNeX4g5wENfe3Vr2dX", 
+        "artists": [
+          {
+            "name": "Fugazi", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+            }, 
+            "uri": "spotify:artist:62sC6lUEWRjbFqXpMmOk4G", 
+            "href": "https://api.spotify.com/v1/artists/62sC6lUEWRjbFqXpMmOk4G", 
+            "type": "artist", 
+            "id": "62sC6lUEWRjbFqXpMmOk4G"
+          }
+        ], 
+        "duration_ms": 232933, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "39kXSNeX4g5wENfe3Vr2dX"
+      }, 
+      {
+        "name": "Sieve-Fisted Find", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Lcpfn4PgkP1c9Y124gEOu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/91b3824a0a401a5774722619260d19085cf748a5", 
+        "is_playable": true, 
+        "uri": "spotify:track:6Lcpfn4PgkP1c9Y124gEOu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6Lcpfn4PgkP1c9Y124gEOu", 
+        "artists": [
+          {
+            "name": "Fugazi", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+            }, 
+            "uri": "spotify:artist:62sC6lUEWRjbFqXpMmOk4G", 
+            "href": "https://api.spotify.com/v1/artists/62sC6lUEWRjbFqXpMmOk4G", 
+            "type": "artist", 
+            "id": "62sC6lUEWRjbFqXpMmOk4G"
+          }
+        ], 
+        "duration_ms": 204400, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "6Lcpfn4PgkP1c9Y124gEOu"
+      }, 
+      {
+        "name": "Greed", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2YCfqGfmqZGGA55kSVUT2Z"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/dbf8490b4a0f44820e237d7dea4658f313261b2f", 
+        "is_playable": true, 
+        "uri": "spotify:track:2YCfqGfmqZGGA55kSVUT2Z", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2YCfqGfmqZGGA55kSVUT2Z", 
+        "artists": [
+          {
+            "name": "Fugazi", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+            }, 
+            "uri": "spotify:artist:62sC6lUEWRjbFqXpMmOk4G", 
+            "href": "https://api.spotify.com/v1/artists/62sC6lUEWRjbFqXpMmOk4G", 
+            "type": "artist", 
+            "id": "62sC6lUEWRjbFqXpMmOk4G"
+          }
+        ], 
+        "duration_ms": 107346, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "2YCfqGfmqZGGA55kSVUT2Z"
+      }, 
+      {
+        "name": "Two Beats Off", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7r5rLLUes9m2bKvdmESzBP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0ba4b2e5697e659f68999f075ba2b6a3e837a116", 
+        "is_playable": true, 
+        "uri": "spotify:track:7r5rLLUes9m2bKvdmESzBP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7r5rLLUes9m2bKvdmESzBP", 
+        "artists": [
+          {
+            "name": "Fugazi", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+            }, 
+            "uri": "spotify:artist:62sC6lUEWRjbFqXpMmOk4G", 
+            "href": "https://api.spotify.com/v1/artists/62sC6lUEWRjbFqXpMmOk4G", 
+            "type": "artist", 
+            "id": "62sC6lUEWRjbFqXpMmOk4G"
+          }
+        ], 
+        "duration_ms": 208400, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "7r5rLLUes9m2bKvdmESzBP"
+      }, 
+      {
+        "name": "Styrofoam", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5GsNTkO8UXwz5CCaH4wWAw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/32c7854e64a29db8e7e3403f7d2300df5601ec6d", 
+        "is_playable": true, 
+        "uri": "spotify:track:5GsNTkO8UXwz5CCaH4wWAw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5GsNTkO8UXwz5CCaH4wWAw", 
+        "artists": [
+          {
+            "name": "Fugazi", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+            }, 
+            "uri": "spotify:artist:62sC6lUEWRjbFqXpMmOk4G", 
+            "href": "https://api.spotify.com/v1/artists/62sC6lUEWRjbFqXpMmOk4G", 
+            "type": "artist", 
+            "id": "62sC6lUEWRjbFqXpMmOk4G"
+          }
+        ], 
+        "duration_ms": 155266, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "5GsNTkO8UXwz5CCaH4wWAw"
+      }, 
+      {
+        "name": "Reprovisional", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0bSytzuD7KEM32jzdusmTF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f4a2b3bae5052c887d94dff9ab579a4df6f36623", 
+        "is_playable": true, 
+        "uri": "spotify:track:0bSytzuD7KEM32jzdusmTF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0bSytzuD7KEM32jzdusmTF", 
+        "artists": [
+          {
+            "name": "Fugazi", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+            }, 
+            "uri": "spotify:artist:62sC6lUEWRjbFqXpMmOk4G", 
+            "href": "https://api.spotify.com/v1/artists/62sC6lUEWRjbFqXpMmOk4G", 
+            "type": "artist", 
+            "id": "62sC6lUEWRjbFqXpMmOk4G"
+          }
+        ], 
+        "duration_ms": 137813, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "0bSytzuD7KEM32jzdusmTF"
+      }, 
+      {
+        "name": "Shut the Door", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7DIbnAYSSUOPWNAFkb8Q8i"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/252f8701d47403e772b098f100acb124ee327c42", 
+        "is_playable": true, 
+        "uri": "spotify:track:7DIbnAYSSUOPWNAFkb8Q8i", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7DIbnAYSSUOPWNAFkb8Q8i", 
+        "artists": [
+          {
+            "name": "Fugazi", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+            }, 
+            "uri": "spotify:artist:62sC6lUEWRjbFqXpMmOk4G", 
+            "href": "https://api.spotify.com/v1/artists/62sC6lUEWRjbFqXpMmOk4G", 
+            "type": "artist", 
+            "id": "62sC6lUEWRjbFqXpMmOk4G"
+          }
+        ], 
+        "duration_ms": 299720, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "7DIbnAYSSUOPWNAFkb8Q8i"
+      }, 
+      {
+        "name": "Song 1", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1g6L5OPTZQKzxrCTkRGVif"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/240a05166eefc284919307840613ffcb16b914cd", 
+        "is_playable": true, 
+        "uri": "spotify:track:1g6L5OPTZQKzxrCTkRGVif", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1g6L5OPTZQKzxrCTkRGVif", 
+        "artists": [
+          {
+            "name": "Fugazi", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+            }, 
+            "uri": "spotify:artist:62sC6lUEWRjbFqXpMmOk4G", 
+            "href": "https://api.spotify.com/v1/artists/62sC6lUEWRjbFqXpMmOk4G", 
+            "type": "artist", 
+            "id": "62sC6lUEWRjbFqXpMmOk4G"
+          }
+        ], 
+        "duration_ms": 174146, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "1g6L5OPTZQKzxrCTkRGVif"
+      }, 
+      {
+        "name": "Joe 1", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2yQaMsKLGhgvCDu6Q8GmVk"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/dc13ba9f6fe99149ef3392f9885965716c5b826a", 
+        "is_playable": true, 
+        "uri": "spotify:track:2yQaMsKLGhgvCDu6Q8GmVk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2yQaMsKLGhgvCDu6Q8GmVk", 
+        "artists": [
+          {
+            "name": "Fugazi", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+            }, 
+            "uri": "spotify:artist:62sC6lUEWRjbFqXpMmOk4G", 
+            "href": "https://api.spotify.com/v1/artists/62sC6lUEWRjbFqXpMmOk4G", 
+            "type": "artist", 
+            "id": "62sC6lUEWRjbFqXpMmOk4G"
+          }
+        ], 
+        "duration_ms": 181920, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "2yQaMsKLGhgvCDu6Q8GmVk"
+      }, 
+      {
+        "name": "Break-In", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3xbArZXQdEpUggBri8YMgB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6a9f48945223c0c60169d0e1d3e76275fe09ecda", 
+        "is_playable": true, 
+        "uri": "spotify:track:3xbArZXQdEpUggBri8YMgB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3xbArZXQdEpUggBri8YMgB", 
+        "artists": [
+          {
+            "name": "Fugazi", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+            }, 
+            "uri": "spotify:artist:62sC6lUEWRjbFqXpMmOk4G", 
+            "href": "https://api.spotify.com/v1/artists/62sC6lUEWRjbFqXpMmOk4G", 
+            "type": "artist", 
+            "id": "62sC6lUEWRjbFqXpMmOk4G"
+          }
+        ], 
+        "duration_ms": 92666, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "3xbArZXQdEpUggBri8YMgB"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/3ZnF1cPxlqB48RyLiecDnv/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 14, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/3ZnF1cPxlqB48RyLiecDnv", 
+  "copyrights": [
+    {
+      "text": "Dischord Records", 
+      "type": "C"
+    }, 
+    {
+      "text": "Dischord Records", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Fugazi", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+      }, 
+      "uri": "spotify:artist:62sC6lUEWRjbFqXpMmOk4G", 
+      "href": "https://api.spotify.com/v1/artists/62sC6lUEWRjbFqXpMmOk4G", 
+      "type": "artist", 
+      "id": "62sC6lUEWRjbFqXpMmOk4G"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/1c2dc47852aba2eb2aa46fae94b747a92157d097", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/0bce61b3de3ec11ce1e6844c113217cc097b906f", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/6534d377b06807d225070318b65b8ba164b090bb", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "0718750734822"
+  }, 
+  "type": "album", 
+  "id": "3ZnF1cPxlqB48RyLiecDnv", 
+  "name": "Repeater"
+}

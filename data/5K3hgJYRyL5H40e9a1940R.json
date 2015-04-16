@@ -1,0 +1,188 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5K3hgJYRyL5H40e9a1940R"
+  }, 
+  "release_date": "1963", 
+  "popularity": 25, 
+  "genres": [], 
+  "uri": "spotify:album:5K3hgJYRyL5H40e9a1940R", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Track A - Solo Dancer (Stop! Look! And Listen, Sinner Jim Whitney!)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1sQoKlaVMfJq3D1QPmuL83"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7c17b0793ec91e9612d1d0669a8301ec88ac27e4", 
+        "is_playable": true, 
+        "uri": "spotify:track:1sQoKlaVMfJq3D1QPmuL83", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1sQoKlaVMfJq3D1QPmuL83", 
+        "artists": [
+          {
+            "name": "Charles Mingus", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
+            }, 
+            "uri": "spotify:artist:1W8TbFzNS15VwsempfY12H", 
+            "href": "https://api.spotify.com/v1/artists/1W8TbFzNS15VwsempfY12H", 
+            "type": "artist", 
+            "id": "1W8TbFzNS15VwsempfY12H"
+          }
+        ], 
+        "duration_ms": 399290, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "1sQoKlaVMfJq3D1QPmuL83"
+      }, 
+      {
+        "name": "Track B - Duet Solo Dancers (Hearts\u2019 Beat And Shades In Physical Embraces)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4QSsqYaz3k7OKorcm0DiEB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bf52e82896cfb7b5132f427173272a0cccba80ee", 
+        "is_playable": true, 
+        "uri": "spotify:track:4QSsqYaz3k7OKorcm0DiEB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4QSsqYaz3k7OKorcm0DiEB", 
+        "artists": [
+          {
+            "name": "Charles Mingus", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
+            }, 
+            "uri": "spotify:artist:1W8TbFzNS15VwsempfY12H", 
+            "href": "https://api.spotify.com/v1/artists/1W8TbFzNS15VwsempfY12H", 
+            "type": "artist", 
+            "id": "1W8TbFzNS15VwsempfY12H"
+          }
+        ], 
+        "duration_ms": 405666, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "4QSsqYaz3k7OKorcm0DiEB"
+      }, 
+      {
+        "linked_from": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/5c71knFvQWUqEjCntCphu9"
+          }, 
+          "href": "https://api.spotify.com/v1/tracks/5c71knFvQWUqEjCntCphu9", 
+          "type": "track", 
+          "id": "5c71knFvQWUqEjCntCphu9", 
+          "uri": "spotify:track:5c71knFvQWUqEjCntCphu9"
+        }, 
+        "name": "Track C - Group Dancers [(Soul Fusion) Freewoman And Oh, This Freedom\u2019s Slave Cries]", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6s3vqAF4kumKR8Yg6HD1aw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/60990b0c2172a01990a1b61c9c31401bfe13a039", 
+        "is_playable": true, 
+        "uri": "spotify:track:6s3vqAF4kumKR8Yg6HD1aw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6s3vqAF4kumKR8Yg6HD1aw", 
+        "artists": [
+          {
+            "name": "Charles Mingus", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
+            }, 
+            "uri": "spotify:artist:1W8TbFzNS15VwsempfY12H", 
+            "href": "https://api.spotify.com/v1/artists/1W8TbFzNS15VwsempfY12H", 
+            "type": "artist", 
+            "id": "1W8TbFzNS15VwsempfY12H"
+          }
+        ], 
+        "duration_ms": 439946, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "6s3vqAF4kumKR8Yg6HD1aw"
+      }, 
+      {
+        "name": "Mode D - Trio And Group Dancers / Mode E - Single Solos And Group Dance / Mode F - Group And Solo Dance", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7wKUkoOqebMrKwfzlMrwCd"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b06cf4602181e81a29449e562c04992cddaf9bfe", 
+        "is_playable": true, 
+        "uri": "spotify:track:7wKUkoOqebMrKwfzlMrwCd", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7wKUkoOqebMrKwfzlMrwCd", 
+        "artists": [
+          {
+            "name": "Charles Mingus", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
+            }, 
+            "uri": "spotify:artist:1W8TbFzNS15VwsempfY12H", 
+            "href": "https://api.spotify.com/v1/artists/1W8TbFzNS15VwsempfY12H", 
+            "type": "artist", 
+            "id": "1W8TbFzNS15VwsempfY12H"
+          }
+        ], 
+        "duration_ms": 1120506, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "7wKUkoOqebMrKwfzlMrwCd"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/5K3hgJYRyL5H40e9a1940R/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 4, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/5K3hgJYRyL5H40e9a1940R", 
+  "copyrights": [
+    {
+      "text": "(C) 1995 GRP Records Inc.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1995 UMG Recordings, Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Charles Mingus", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
+      }, 
+      "uri": "spotify:artist:1W8TbFzNS15VwsempfY12H", 
+      "href": "https://api.spotify.com/v1/artists/1W8TbFzNS15VwsempfY12H", 
+      "type": "artist", 
+      "id": "1W8TbFzNS15VwsempfY12H"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/a6488a48d726ba91dc2497fdc8511dca515d3e6c", 
+      "width": 640, 
+      "height": 634
+    }, 
+    {
+      "url": "https://i.scdn.co/image/503bf8d57dd506dd50ca8e0b150b950e8c2c6004", 
+      "width": 300, 
+      "height": 297
+    }, 
+    {
+      "url": "https://i.scdn.co/image/006f6fc457e1a01d879a9b848374514e8fc193c5", 
+      "width": 64, 
+      "height": 63
+    }
+  ], 
+  "external_ids": {
+    "upc": "00011105117425"
+  }, 
+  "type": "album", 
+  "id": "5K3hgJYRyL5H40e9a1940R", 
+  "name": "The Black Saint And The Sinner Lady"
+}

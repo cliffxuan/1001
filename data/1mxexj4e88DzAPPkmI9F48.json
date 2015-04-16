@@ -1,0 +1,459 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1mxexj4e88DzAPPkmI9F48"
+  }, 
+  "release_date": "1970", 
+  "popularity": 65, 
+  "genres": [], 
+  "uri": "spotify:album:1mxexj4e88DzAPPkmI9F48", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Ramble Tamble", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6TkBtXdo7Mb0CAmBUQO0qu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b6964ac989a5a9ddb90b7158bd950eef3c10e3f3", 
+        "is_playable": true, 
+        "uri": "spotify:track:6TkBtXdo7Mb0CAmBUQO0qu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6TkBtXdo7Mb0CAmBUQO0qu", 
+        "artists": [
+          {
+            "name": "Creedence Clearwater Revival", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+            }, 
+            "uri": "spotify:artist:3IYUhFvPQItj6xySrBmZkd", 
+            "href": "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd", 
+            "type": "artist", 
+            "id": "3IYUhFvPQItj6xySrBmZkd"
+          }
+        ], 
+        "duration_ms": 431226, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "6TkBtXdo7Mb0CAmBUQO0qu"
+      }, 
+      {
+        "name": "Before You Accuse Me", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Z0opNSLpYONap3Swh0CHH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2a1d33f35e3e5aa1340e78e8f8a4fa1ec97ecb5b", 
+        "is_playable": true, 
+        "uri": "spotify:track:3Z0opNSLpYONap3Swh0CHH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3Z0opNSLpYONap3Swh0CHH", 
+        "artists": [
+          {
+            "name": "Creedence Clearwater Revival", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+            }, 
+            "uri": "spotify:artist:3IYUhFvPQItj6xySrBmZkd", 
+            "href": "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd", 
+            "type": "artist", 
+            "id": "3IYUhFvPQItj6xySrBmZkd"
+          }
+        ], 
+        "duration_ms": 206560, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "3Z0opNSLpYONap3Swh0CHH"
+      }, 
+      {
+        "name": "Travelin Band", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1ZYb5jmfbCMdkGZrajawqX"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8e1dc3ee878e1eb034f652d71ef15eef908828e9", 
+        "is_playable": true, 
+        "uri": "spotify:track:1ZYb5jmfbCMdkGZrajawqX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1ZYb5jmfbCMdkGZrajawqX", 
+        "artists": [
+          {
+            "name": "Creedence Clearwater Revival", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+            }, 
+            "uri": "spotify:artist:3IYUhFvPQItj6xySrBmZkd", 
+            "href": "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd", 
+            "type": "artist", 
+            "id": "3IYUhFvPQItj6xySrBmZkd"
+          }
+        ], 
+        "duration_ms": 127493, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "1ZYb5jmfbCMdkGZrajawqX"
+      }, 
+      {
+        "name": "Ooby Dooby", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4onbGtmSf69cXBJoXQYiNw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bd605a3df3deb14f1a09eb5634041ac3d6cd58ce", 
+        "is_playable": true, 
+        "uri": "spotify:track:4onbGtmSf69cXBJoXQYiNw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4onbGtmSf69cXBJoXQYiNw", 
+        "artists": [
+          {
+            "name": "Creedence Clearwater Revival", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+            }, 
+            "uri": "spotify:artist:3IYUhFvPQItj6xySrBmZkd", 
+            "href": "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd", 
+            "type": "artist", 
+            "id": "3IYUhFvPQItj6xySrBmZkd"
+          }
+        ], 
+        "duration_ms": 127053, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "4onbGtmSf69cXBJoXQYiNw"
+      }, 
+      {
+        "name": "Lookin' Out My Back Door", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1DLRkp0qE8cui1o94OcOCx"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a6e94a2d34bb39458b088315c9acde3499971bc1", 
+        "is_playable": true, 
+        "uri": "spotify:track:1DLRkp0qE8cui1o94OcOCx", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1DLRkp0qE8cui1o94OcOCx", 
+        "artists": [
+          {
+            "name": "Creedence Clearwater Revival", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+            }, 
+            "uri": "spotify:artist:3IYUhFvPQItj6xySrBmZkd", 
+            "href": "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd", 
+            "type": "artist", 
+            "id": "3IYUhFvPQItj6xySrBmZkd"
+          }
+        ], 
+        "duration_ms": 152453, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "1DLRkp0qE8cui1o94OcOCx"
+      }, 
+      {
+        "name": "Run Through The Jungle", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0s7KuDVVhYSyeUloapNxxU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/aefbe5a6f83512df30fbfdfd8e5f8c73b2ffe685", 
+        "is_playable": true, 
+        "uri": "spotify:track:0s7KuDVVhYSyeUloapNxxU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0s7KuDVVhYSyeUloapNxxU", 
+        "artists": [
+          {
+            "name": "Creedence Clearwater Revival", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+            }, 
+            "uri": "spotify:artist:3IYUhFvPQItj6xySrBmZkd", 
+            "href": "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd", 
+            "type": "artist", 
+            "id": "3IYUhFvPQItj6xySrBmZkd"
+          }
+        ], 
+        "duration_ms": 184746, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "0s7KuDVVhYSyeUloapNxxU"
+      }, 
+      {
+        "name": "Up Around The Bend", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5N8Uh49f1evBiBEzwHcmRW"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/19a6ee22072bb61db99c4e0151bfbb569fd05d25", 
+        "is_playable": true, 
+        "uri": "spotify:track:5N8Uh49f1evBiBEzwHcmRW", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5N8Uh49f1evBiBEzwHcmRW", 
+        "artists": [
+          {
+            "name": "Creedence Clearwater Revival", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+            }, 
+            "uri": "spotify:artist:3IYUhFvPQItj6xySrBmZkd", 
+            "href": "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd", 
+            "type": "artist", 
+            "id": "3IYUhFvPQItj6xySrBmZkd"
+          }
+        ], 
+        "duration_ms": 161466, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "5N8Uh49f1evBiBEzwHcmRW"
+      }, 
+      {
+        "name": "My Baby Left Me", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3XIV0GSR2LJdFUUtKJ4oHI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ac375b125232816ee714588df1580cee8c8496c7", 
+        "is_playable": true, 
+        "uri": "spotify:track:3XIV0GSR2LJdFUUtKJ4oHI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3XIV0GSR2LJdFUUtKJ4oHI", 
+        "artists": [
+          {
+            "name": "Creedence Clearwater Revival", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+            }, 
+            "uri": "spotify:artist:3IYUhFvPQItj6xySrBmZkd", 
+            "href": "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd", 
+            "type": "artist", 
+            "id": "3IYUhFvPQItj6xySrBmZkd"
+          }
+        ], 
+        "duration_ms": 138506, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "3XIV0GSR2LJdFUUtKJ4oHI"
+      }, 
+      {
+        "name": "Who'll Stop The Rain", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3k1cJRNuOZ5Z2SM7RxlTtR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fdbbcf80a226959d1ccbf8f8984934bc0f69ceda", 
+        "is_playable": true, 
+        "uri": "spotify:track:3k1cJRNuOZ5Z2SM7RxlTtR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3k1cJRNuOZ5Z2SM7RxlTtR", 
+        "artists": [
+          {
+            "name": "Creedence Clearwater Revival", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+            }, 
+            "uri": "spotify:artist:3IYUhFvPQItj6xySrBmZkd", 
+            "href": "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd", 
+            "type": "artist", 
+            "id": "3IYUhFvPQItj6xySrBmZkd"
+          }
+        ], 
+        "duration_ms": 147493, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "3k1cJRNuOZ5Z2SM7RxlTtR"
+      }, 
+      {
+        "name": "I Heard It Through The Grapevine", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4nufOE7BPyX0Anh6ZTY7kZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ad744b91e88f694af60bb53d0b97a8efff727b99", 
+        "is_playable": true, 
+        "uri": "spotify:track:4nufOE7BPyX0Anh6ZTY7kZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4nufOE7BPyX0Anh6ZTY7kZ", 
+        "artists": [
+          {
+            "name": "Creedence Clearwater Revival", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+            }, 
+            "uri": "spotify:artist:3IYUhFvPQItj6xySrBmZkd", 
+            "href": "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd", 
+            "type": "artist", 
+            "id": "3IYUhFvPQItj6xySrBmZkd"
+          }
+        ], 
+        "duration_ms": 662773, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "4nufOE7BPyX0Anh6ZTY7kZ"
+      }, 
+      {
+        "name": "Long As I Can See The Light", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6HAan34oqoS4KF1UmHj770"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/df0ba08cdddade07487f4c56bab4bec0de7205d3", 
+        "is_playable": true, 
+        "uri": "spotify:track:6HAan34oqoS4KF1UmHj770", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6HAan34oqoS4KF1UmHj770", 
+        "artists": [
+          {
+            "name": "Creedence Clearwater Revival", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+            }, 
+            "uri": "spotify:artist:3IYUhFvPQItj6xySrBmZkd", 
+            "href": "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd", 
+            "type": "artist", 
+            "id": "3IYUhFvPQItj6xySrBmZkd"
+          }
+        ], 
+        "duration_ms": 210866, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "6HAan34oqoS4KF1UmHj770"
+      }, 
+      {
+        "name": "Travelin' Band - [Remake Take]", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3qHJEzwIr9rryUWKsJokby"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7e665a2a937f4cc6200d1707e38be18b46babfc4", 
+        "is_playable": true, 
+        "uri": "spotify:track:3qHJEzwIr9rryUWKsJokby", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3qHJEzwIr9rryUWKsJokby", 
+        "artists": [
+          {
+            "name": "Creedence Clearwater Revival", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+            }, 
+            "uri": "spotify:artist:3IYUhFvPQItj6xySrBmZkd", 
+            "href": "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd", 
+            "type": "artist", 
+            "id": "3IYUhFvPQItj6xySrBmZkd"
+          }
+        ], 
+        "duration_ms": 135466, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "3qHJEzwIr9rryUWKsJokby"
+      }, 
+      {
+        "name": "Up Around The Bend - Live In Amsterdam", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0520zbLuvSZyNFJUyQPvjR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/98f3438d5087cc5e3efd0c46b28b1797cbb4e82f", 
+        "is_playable": true, 
+        "uri": "spotify:track:0520zbLuvSZyNFJUyQPvjR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0520zbLuvSZyNFJUyQPvjR", 
+        "artists": [
+          {
+            "name": "Creedence Clearwater Revival", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+            }, 
+            "uri": "spotify:artist:3IYUhFvPQItj6xySrBmZkd", 
+            "href": "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd", 
+            "type": "artist", 
+            "id": "3IYUhFvPQItj6xySrBmZkd"
+          }
+        ], 
+        "duration_ms": 161786, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "0520zbLuvSZyNFJUyQPvjR"
+      }, 
+      {
+        "name": "Born On The Bayou [Jam with Booker T.]", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3exEACMGfyLPzVkrDdRKp9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/64eae0ebfcdea3234595090d8d98362b29c2bcf7", 
+        "is_playable": true, 
+        "uri": "spotify:track:3exEACMGfyLPzVkrDdRKp9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3exEACMGfyLPzVkrDdRKp9", 
+        "artists": [
+          {
+            "name": "Creedence Clearwater Revival", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+            }, 
+            "uri": "spotify:artist:3IYUhFvPQItj6xySrBmZkd", 
+            "href": "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd", 
+            "type": "artist", 
+            "id": "3IYUhFvPQItj6xySrBmZkd"
+          }
+        ], 
+        "duration_ms": 358226, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "3exEACMGfyLPzVkrDdRKp9"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/1mxexj4e88DzAPPkmI9F48/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 14, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/1mxexj4e88DzAPPkmI9F48", 
+  "copyrights": [
+    {
+      "text": "(C) 2008 Concord Music Group, Inc.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 2008 Concord Music Group, Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Creedence Clearwater Revival", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+      }, 
+      "uri": "spotify:artist:3IYUhFvPQItj6xySrBmZkd", 
+      "href": "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd", 
+      "type": "artist", 
+      "id": "3IYUhFvPQItj6xySrBmZkd"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ea280bc6c28ea05ff298f4c03ee9947509711eb0", 
+      "width": 600, 
+      "height": 600
+    }, 
+    {
+      "url": "https://i.scdn.co/image/cedecb95ed4265035f471197a695c49d63102050", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/57483177c3d7c986b8f2a145e3d6e882565cd9ba", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00888072308800"
+  }, 
+  "type": "album", 
+  "id": "1mxexj4e88DzAPPkmI9F48", 
+  "name": "Cosmo's Factory (40th Anniversary Edition)"
+}

@@ -1,0 +1,347 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5BouX39qnrl5UxjB0Cs3lO"
+  }, 
+  "release_date": "2010-01-25", 
+  "popularity": 55, 
+  "genres": [], 
+  "uri": "spotify:album:5BouX39qnrl5UxjB0Cs3lO", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Zebra", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3E3dnHbmTxANxgMqKrf1go"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d1d2c15b70ce9b30dfa5fa77475f79b0ea28fbe6", 
+        "is_playable": true, 
+        "uri": "spotify:track:3E3dnHbmTxANxgMqKrf1go", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3E3dnHbmTxANxgMqKrf1go", 
+        "artists": [
+          {
+            "name": "Beach House", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+            }, 
+            "uri": "spotify:artist:56ZTgzPBDge0OvCGgMO3OY", 
+            "href": "https://api.spotify.com/v1/artists/56ZTgzPBDge0OvCGgMO3OY", 
+            "type": "artist", 
+            "id": "56ZTgzPBDge0OvCGgMO3OY"
+          }
+        ], 
+        "duration_ms": 288720, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "3E3dnHbmTxANxgMqKrf1go"
+      }, 
+      {
+        "name": "Silver Soul", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/08RYKmDG4FlHkTNvmHLs7h"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bf086b87c24a7275d1fef1aff01ec57aebf0927f", 
+        "is_playable": true, 
+        "uri": "spotify:track:08RYKmDG4FlHkTNvmHLs7h", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/08RYKmDG4FlHkTNvmHLs7h", 
+        "artists": [
+          {
+            "name": "Beach House", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+            }, 
+            "uri": "spotify:artist:56ZTgzPBDge0OvCGgMO3OY", 
+            "href": "https://api.spotify.com/v1/artists/56ZTgzPBDge0OvCGgMO3OY", 
+            "type": "artist", 
+            "id": "56ZTgzPBDge0OvCGgMO3OY"
+          }
+        ], 
+        "duration_ms": 298680, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "08RYKmDG4FlHkTNvmHLs7h"
+      }, 
+      {
+        "name": "Norway", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0rvP3xFlDcLrfFFiGV65V9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5200a40d3d9aaa82d47c9fd874a0a2981fc70d77", 
+        "is_playable": true, 
+        "uri": "spotify:track:0rvP3xFlDcLrfFFiGV65V9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0rvP3xFlDcLrfFFiGV65V9", 
+        "artists": [
+          {
+            "name": "Beach House", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+            }, 
+            "uri": "spotify:artist:56ZTgzPBDge0OvCGgMO3OY", 
+            "href": "https://api.spotify.com/v1/artists/56ZTgzPBDge0OvCGgMO3OY", 
+            "type": "artist", 
+            "id": "56ZTgzPBDge0OvCGgMO3OY"
+          }
+        ], 
+        "duration_ms": 234800, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "0rvP3xFlDcLrfFFiGV65V9"
+      }, 
+      {
+        "name": "Walk In The Park", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5428Bp4S9qoMdkkl61NsGU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/433d17ea97d56204e178768dbf979554ab862103", 
+        "is_playable": true, 
+        "uri": "spotify:track:5428Bp4S9qoMdkkl61NsGU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5428Bp4S9qoMdkkl61NsGU", 
+        "artists": [
+          {
+            "name": "Beach House", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+            }, 
+            "uri": "spotify:artist:56ZTgzPBDge0OvCGgMO3OY", 
+            "href": "https://api.spotify.com/v1/artists/56ZTgzPBDge0OvCGgMO3OY", 
+            "type": "artist", 
+            "id": "56ZTgzPBDge0OvCGgMO3OY"
+          }
+        ], 
+        "duration_ms": 322760, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "5428Bp4S9qoMdkkl61NsGU"
+      }, 
+      {
+        "name": "Used To Be", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/39X5TMrohxd2kGC8CwZ4nO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e6098828338bfda49d95569f01a657007f7fb0d5", 
+        "is_playable": true, 
+        "uri": "spotify:track:39X5TMrohxd2kGC8CwZ4nO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/39X5TMrohxd2kGC8CwZ4nO", 
+        "artists": [
+          {
+            "name": "Beach House", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+            }, 
+            "uri": "spotify:artist:56ZTgzPBDge0OvCGgMO3OY", 
+            "href": "https://api.spotify.com/v1/artists/56ZTgzPBDge0OvCGgMO3OY", 
+            "type": "artist", 
+            "id": "56ZTgzPBDge0OvCGgMO3OY"
+          }
+        ], 
+        "duration_ms": 238760, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "39X5TMrohxd2kGC8CwZ4nO"
+      }, 
+      {
+        "name": "Lover Of Mine", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0vwBTocna3SbXrKzOynHmq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/58b47bb81eda426bd1a0bb06bff654470f5f6158", 
+        "is_playable": true, 
+        "uri": "spotify:track:0vwBTocna3SbXrKzOynHmq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0vwBTocna3SbXrKzOynHmq", 
+        "artists": [
+          {
+            "name": "Beach House", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+            }, 
+            "uri": "spotify:artist:56ZTgzPBDge0OvCGgMO3OY", 
+            "href": "https://api.spotify.com/v1/artists/56ZTgzPBDge0OvCGgMO3OY", 
+            "type": "artist", 
+            "id": "56ZTgzPBDge0OvCGgMO3OY"
+          }
+        ], 
+        "duration_ms": 305093, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "0vwBTocna3SbXrKzOynHmq"
+      }, 
+      {
+        "name": "Better Times", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3XPopUcLtG3bYA83Q8epsi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/db7a415e4333a604161d3961cce673b55eb963f1", 
+        "is_playable": true, 
+        "uri": "spotify:track:3XPopUcLtG3bYA83Q8epsi", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3XPopUcLtG3bYA83Q8epsi", 
+        "artists": [
+          {
+            "name": "Beach House", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+            }, 
+            "uri": "spotify:artist:56ZTgzPBDge0OvCGgMO3OY", 
+            "href": "https://api.spotify.com/v1/artists/56ZTgzPBDge0OvCGgMO3OY", 
+            "type": "artist", 
+            "id": "56ZTgzPBDge0OvCGgMO3OY"
+          }
+        ], 
+        "duration_ms": 263306, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "3XPopUcLtG3bYA83Q8epsi"
+      }, 
+      {
+        "name": "10 Mile Stereo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2sXZV2KTxprwStuhQ7zJ2f"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b5487c49271bd6af3bcea1ef3544728e1b7f03cd", 
+        "is_playable": true, 
+        "uri": "spotify:track:2sXZV2KTxprwStuhQ7zJ2f", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2sXZV2KTxprwStuhQ7zJ2f", 
+        "artists": [
+          {
+            "name": "Beach House", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+            }, 
+            "uri": "spotify:artist:56ZTgzPBDge0OvCGgMO3OY", 
+            "href": "https://api.spotify.com/v1/artists/56ZTgzPBDge0OvCGgMO3OY", 
+            "type": "artist", 
+            "id": "56ZTgzPBDge0OvCGgMO3OY"
+          }
+        ], 
+        "duration_ms": 303853, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "2sXZV2KTxprwStuhQ7zJ2f"
+      }, 
+      {
+        "name": "Real Love", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0SibJYu5mSjZuawtNAMa2F"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/86608c589418c70765deb3d5525125017ad90723", 
+        "is_playable": true, 
+        "uri": "spotify:track:0SibJYu5mSjZuawtNAMa2F", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0SibJYu5mSjZuawtNAMa2F", 
+        "artists": [
+          {
+            "name": "Beach House", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+            }, 
+            "uri": "spotify:artist:56ZTgzPBDge0OvCGgMO3OY", 
+            "href": "https://api.spotify.com/v1/artists/56ZTgzPBDge0OvCGgMO3OY", 
+            "type": "artist", 
+            "id": "56ZTgzPBDge0OvCGgMO3OY"
+          }
+        ], 
+        "duration_ms": 320480, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "0SibJYu5mSjZuawtNAMa2F"
+      }, 
+      {
+        "name": "Take Care", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/772AbCLRS8bocvm3hOODVE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/90b1f86f528567ab595cfdc3185fd4a2bbe3f372", 
+        "is_playable": true, 
+        "uri": "spotify:track:772AbCLRS8bocvm3hOODVE", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/772AbCLRS8bocvm3hOODVE", 
+        "artists": [
+          {
+            "name": "Beach House", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+            }, 
+            "uri": "spotify:artist:56ZTgzPBDge0OvCGgMO3OY", 
+            "href": "https://api.spotify.com/v1/artists/56ZTgzPBDge0OvCGgMO3OY", 
+            "type": "artist", 
+            "id": "56ZTgzPBDge0OvCGgMO3OY"
+          }
+        ], 
+        "duration_ms": 348440, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "772AbCLRS8bocvm3hOODVE"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/5BouX39qnrl5UxjB0Cs3lO/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 10, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/5BouX39qnrl5UxjB0Cs3lO", 
+  "copyrights": [
+    {
+      "text": "2010 Bella Union", 
+      "type": "C"
+    }, 
+    {
+      "text": "2010 Bella Union", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Beach House", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+      }, 
+      "uri": "spotify:artist:56ZTgzPBDge0OvCGgMO3OY", 
+      "href": "https://api.spotify.com/v1/artists/56ZTgzPBDge0OvCGgMO3OY", 
+      "type": "artist", 
+      "id": "56ZTgzPBDge0OvCGgMO3OY"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/bf411cd27e94904949860b58bdfaff92084fb4b5", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/a82e48de2b22c74c579da42d0acab664609fe906", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/6e53511549f551e65bd3520956aa92cfb165c7b9", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "5414939422973"
+  }, 
+  "type": "album", 
+  "id": "5BouX39qnrl5UxjB0Cs3lO", 
+  "name": "Teen Dream"
+}

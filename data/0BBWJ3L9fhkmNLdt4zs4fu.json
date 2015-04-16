@@ -1,0 +1,655 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0BBWJ3L9fhkmNLdt4zs4fu"
+  }, 
+  "release_date": "1976-01-01", 
+  "popularity": 62, 
+  "genres": [], 
+  "uri": "spotify:album:0BBWJ3L9fhkmNLdt4zs4fu", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Love's In Need Of Love Today", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/29ML65w35iyQry14KXbBiF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3bfa93ed2fb329b39fe1733a3b954797f8707276", 
+        "is_playable": true, 
+        "uri": "spotify:track:29ML65w35iyQry14KXbBiF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/29ML65w35iyQry14KXbBiF", 
+        "artists": [
+          {
+            "name": "Stevie Wonder", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+            }, 
+            "uri": "spotify:artist:7guDJrEfX3qb6FEbdPA5qi", 
+            "href": "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi", 
+            "type": "artist", 
+            "id": "7guDJrEfX3qb6FEbdPA5qi"
+          }
+        ], 
+        "duration_ms": 425866, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "29ML65w35iyQry14KXbBiF"
+      }, 
+      {
+        "name": "Have A Talk With God", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Ni5iPODI8FtCYgnM8euSf"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0bccbc080f3ec73a1264248ca4f72a451722a458", 
+        "is_playable": true, 
+        "uri": "spotify:track:0Ni5iPODI8FtCYgnM8euSf", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0Ni5iPODI8FtCYgnM8euSf", 
+        "artists": [
+          {
+            "name": "Stevie Wonder", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+            }, 
+            "uri": "spotify:artist:7guDJrEfX3qb6FEbdPA5qi", 
+            "href": "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi", 
+            "type": "artist", 
+            "id": "7guDJrEfX3qb6FEbdPA5qi"
+          }
+        ], 
+        "duration_ms": 162400, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "0Ni5iPODI8FtCYgnM8euSf"
+      }, 
+      {
+        "name": "Village Ghetto Land", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0J2n3dSUHrJhpOZtC8wCDY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e19f7358eaec5973864251b5915a22a22141c24a", 
+        "is_playable": true, 
+        "uri": "spotify:track:0J2n3dSUHrJhpOZtC8wCDY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0J2n3dSUHrJhpOZtC8wCDY", 
+        "artists": [
+          {
+            "name": "Stevie Wonder", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+            }, 
+            "uri": "spotify:artist:7guDJrEfX3qb6FEbdPA5qi", 
+            "href": "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi", 
+            "type": "artist", 
+            "id": "7guDJrEfX3qb6FEbdPA5qi"
+          }
+        ], 
+        "duration_ms": 205093, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "0J2n3dSUHrJhpOZtC8wCDY"
+      }, 
+      {
+        "name": "Contusion", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5ZMtUvKZ1M4YQJQNCvIdyN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/504fc12bb03712fb859fbf0ce000b88c15123674", 
+        "is_playable": true, 
+        "uri": "spotify:track:5ZMtUvKZ1M4YQJQNCvIdyN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5ZMtUvKZ1M4YQJQNCvIdyN", 
+        "artists": [
+          {
+            "name": "Stevie Wonder", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+            }, 
+            "uri": "spotify:artist:7guDJrEfX3qb6FEbdPA5qi", 
+            "href": "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi", 
+            "type": "artist", 
+            "id": "7guDJrEfX3qb6FEbdPA5qi"
+          }
+        ], 
+        "duration_ms": 225973, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "5ZMtUvKZ1M4YQJQNCvIdyN"
+      }, 
+      {
+        "name": "Sir Duke", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2udw7RDkldLFIPG9WYdVtT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/851f43ceea747ef0ca96fc4617c140985674f7a1", 
+        "is_playable": true, 
+        "uri": "spotify:track:2udw7RDkldLFIPG9WYdVtT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2udw7RDkldLFIPG9WYdVtT", 
+        "artists": [
+          {
+            "name": "Stevie Wonder", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+            }, 
+            "uri": "spotify:artist:7guDJrEfX3qb6FEbdPA5qi", 
+            "href": "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi", 
+            "type": "artist", 
+            "id": "7guDJrEfX3qb6FEbdPA5qi"
+          }
+        ], 
+        "duration_ms": 234093, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "2udw7RDkldLFIPG9WYdVtT"
+      }, 
+      {
+        "name": "I Wish", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0tqp1kKvgBFsfIszEaviqZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/515b36ac05bd2f465aa6bae563d5870c30ae106d", 
+        "is_playable": true, 
+        "uri": "spotify:track:0tqp1kKvgBFsfIszEaviqZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0tqp1kKvgBFsfIszEaviqZ", 
+        "artists": [
+          {
+            "name": "Stevie Wonder", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+            }, 
+            "uri": "spotify:artist:7guDJrEfX3qb6FEbdPA5qi", 
+            "href": "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi", 
+            "type": "artist", 
+            "id": "7guDJrEfX3qb6FEbdPA5qi"
+          }
+        ], 
+        "duration_ms": 252373, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "0tqp1kKvgBFsfIszEaviqZ"
+      }, 
+      {
+        "name": "Knocks Me Off My Feet", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0D0jqVFHiGqVbrQKOUhk9p"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5b235109ef8771a28c85b9098d2adc377499853a", 
+        "is_playable": true, 
+        "uri": "spotify:track:0D0jqVFHiGqVbrQKOUhk9p", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0D0jqVFHiGqVbrQKOUhk9p", 
+        "artists": [
+          {
+            "name": "Stevie Wonder", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+            }, 
+            "uri": "spotify:artist:7guDJrEfX3qb6FEbdPA5qi", 
+            "href": "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi", 
+            "type": "artist", 
+            "id": "7guDJrEfX3qb6FEbdPA5qi"
+          }
+        ], 
+        "duration_ms": 216456, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "0D0jqVFHiGqVbrQKOUhk9p"
+      }, 
+      {
+        "name": "Pastime Paradise", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3FB9tlgXIdyIkmnywJnTyq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/39e7ccabbd305e2be284283759f52f9f686d0bf0", 
+        "is_playable": true, 
+        "uri": "spotify:track:3FB9tlgXIdyIkmnywJnTyq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3FB9tlgXIdyIkmnywJnTyq", 
+        "artists": [
+          {
+            "name": "Stevie Wonder", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+            }, 
+            "uri": "spotify:artist:7guDJrEfX3qb6FEbdPA5qi", 
+            "href": "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi", 
+            "type": "artist", 
+            "id": "7guDJrEfX3qb6FEbdPA5qi"
+          }
+        ], 
+        "duration_ms": 207693, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "3FB9tlgXIdyIkmnywJnTyq"
+      }, 
+      {
+        "name": "Summer Soft", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/36eiWaQJmZ72DzFBeKRx3j"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c4bd3c1f4302e4da702136a247b9ec34e683b353", 
+        "is_playable": true, 
+        "uri": "spotify:track:36eiWaQJmZ72DzFBeKRx3j", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/36eiWaQJmZ72DzFBeKRx3j", 
+        "artists": [
+          {
+            "name": "Stevie Wonder", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+            }, 
+            "uri": "spotify:artist:7guDJrEfX3qb6FEbdPA5qi", 
+            "href": "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi", 
+            "type": "artist", 
+            "id": "7guDJrEfX3qb6FEbdPA5qi"
+          }
+        ], 
+        "duration_ms": 254106, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "36eiWaQJmZ72DzFBeKRx3j"
+      }, 
+      {
+        "name": "Ordinary Pain", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1wV7BXP1UfOBspCu5oq0ej"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a485377fc475840b6d4fd25bf9b56b2e90e36d22", 
+        "is_playable": true, 
+        "uri": "spotify:track:1wV7BXP1UfOBspCu5oq0ej", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1wV7BXP1UfOBspCu5oq0ej", 
+        "artists": [
+          {
+            "name": "Stevie Wonder", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+            }, 
+            "uri": "spotify:artist:7guDJrEfX3qb6FEbdPA5qi", 
+            "href": "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi", 
+            "type": "artist", 
+            "id": "7guDJrEfX3qb6FEbdPA5qi"
+          }
+        ], 
+        "duration_ms": 383160, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "1wV7BXP1UfOBspCu5oq0ej"
+      }, 
+      {
+        "name": "Isn't She Lovely", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/373zqV0VLz9mnrSaY9kaiX"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/15b329b5ef5a5baa35d60db025a861c685e33ac8", 
+        "is_playable": true, 
+        "uri": "spotify:track:373zqV0VLz9mnrSaY9kaiX", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/373zqV0VLz9mnrSaY9kaiX", 
+        "artists": [
+          {
+            "name": "Stevie Wonder", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+            }, 
+            "uri": "spotify:artist:7guDJrEfX3qb6FEbdPA5qi", 
+            "href": "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi", 
+            "type": "artist", 
+            "id": "7guDJrEfX3qb6FEbdPA5qi"
+          }
+        ], 
+        "duration_ms": 394266, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "373zqV0VLz9mnrSaY9kaiX"
+      }, 
+      {
+        "name": "Joy Inside My Tears", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6fzRobDizhy5zMWNIj1f6A"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2cdc57b90f795e1560da834560a5c661e6c415ed", 
+        "is_playable": true, 
+        "uri": "spotify:track:6fzRobDizhy5zMWNIj1f6A", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6fzRobDizhy5zMWNIj1f6A", 
+        "artists": [
+          {
+            "name": "Stevie Wonder", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+            }, 
+            "uri": "spotify:artist:7guDJrEfX3qb6FEbdPA5qi", 
+            "href": "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi", 
+            "type": "artist", 
+            "id": "7guDJrEfX3qb6FEbdPA5qi"
+          }
+        ], 
+        "duration_ms": 389560, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "6fzRobDizhy5zMWNIj1f6A"
+      }, 
+      {
+        "name": "Black Man", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7EjEYPPhtJLNmLvccS1l3q"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/14b308f0c8fff87af2b257cd839eda869302a0cb", 
+        "is_playable": true, 
+        "uri": "spotify:track:7EjEYPPhtJLNmLvccS1l3q", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/7EjEYPPhtJLNmLvccS1l3q", 
+        "artists": [
+          {
+            "name": "Stevie Wonder", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+            }, 
+            "uri": "spotify:artist:7guDJrEfX3qb6FEbdPA5qi", 
+            "href": "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi", 
+            "type": "artist", 
+            "id": "7guDJrEfX3qb6FEbdPA5qi"
+          }
+        ], 
+        "duration_ms": 509506, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "7EjEYPPhtJLNmLvccS1l3q"
+      }, 
+      {
+        "name": "Ngiculela-Es Una Historia-I Am Singing", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5lrAKDsveAnVj2E0gSEIIL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5f7b05de93dfad0ccae867a8eba763e550007246", 
+        "is_playable": true, 
+        "uri": "spotify:track:5lrAKDsveAnVj2E0gSEIIL", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5lrAKDsveAnVj2E0gSEIIL", 
+        "artists": [
+          {
+            "name": "Stevie Wonder", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+            }, 
+            "uri": "spotify:artist:7guDJrEfX3qb6FEbdPA5qi", 
+            "href": "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi", 
+            "type": "artist", 
+            "id": "7guDJrEfX3qb6FEbdPA5qi"
+          }
+        ], 
+        "duration_ms": 228533, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "5lrAKDsveAnVj2E0gSEIIL"
+      }, 
+      {
+        "name": "If It's Magic", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Bk1VWFjq6xjeajZZPCSFL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0e798e898064275de2522cc8cb4d667adf1e2cec", 
+        "is_playable": true, 
+        "uri": "spotify:track:5Bk1VWFjq6xjeajZZPCSFL", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5Bk1VWFjq6xjeajZZPCSFL", 
+        "artists": [
+          {
+            "name": "Stevie Wonder", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+            }, 
+            "uri": "spotify:artist:7guDJrEfX3qb6FEbdPA5qi", 
+            "href": "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi", 
+            "type": "artist", 
+            "id": "7guDJrEfX3qb6FEbdPA5qi"
+          }
+        ], 
+        "duration_ms": 192133, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "5Bk1VWFjq6xjeajZZPCSFL"
+      }, 
+      {
+        "name": "As", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Td4BMwaUg5tWCvARo0088"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/16858c048ab30aaca59debb0adeec6556b4d8170", 
+        "is_playable": true, 
+        "uri": "spotify:track:3Td4BMwaUg5tWCvARo0088", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/3Td4BMwaUg5tWCvARo0088", 
+        "artists": [
+          {
+            "name": "Stevie Wonder", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+            }, 
+            "uri": "spotify:artist:7guDJrEfX3qb6FEbdPA5qi", 
+            "href": "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi", 
+            "type": "artist", 
+            "id": "7guDJrEfX3qb6FEbdPA5qi"
+          }
+        ], 
+        "duration_ms": 428222, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "3Td4BMwaUg5tWCvARo0088"
+      }, 
+      {
+        "name": "Another Star", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6KrW1p508lPuIe9hMpu166"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a68027460da0395eb834a4d528933ac27e0ca31c", 
+        "is_playable": true, 
+        "uri": "spotify:track:6KrW1p508lPuIe9hMpu166", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6KrW1p508lPuIe9hMpu166", 
+        "artists": [
+          {
+            "name": "Stevie Wonder", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+            }, 
+            "uri": "spotify:artist:7guDJrEfX3qb6FEbdPA5qi", 
+            "href": "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi", 
+            "type": "artist", 
+            "id": "7guDJrEfX3qb6FEbdPA5qi"
+          }
+        ], 
+        "duration_ms": 508226, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "6KrW1p508lPuIe9hMpu166"
+      }, 
+      {
+        "name": "Saturn", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6IuyOlsmt0IdIq0yBIj3dp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/065a28ca6221b6c6ddffb49be8211f5a721c8c54", 
+        "is_playable": true, 
+        "uri": "spotify:track:6IuyOlsmt0IdIq0yBIj3dp", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6IuyOlsmt0IdIq0yBIj3dp", 
+        "artists": [
+          {
+            "name": "Stevie Wonder", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+            }, 
+            "uri": "spotify:artist:7guDJrEfX3qb6FEbdPA5qi", 
+            "href": "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi", 
+            "type": "artist", 
+            "id": "7guDJrEfX3qb6FEbdPA5qi"
+          }
+        ], 
+        "duration_ms": 293773, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "6IuyOlsmt0IdIq0yBIj3dp"
+      }, 
+      {
+        "name": "Ebony Eyes", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5fQTZsE1Lh3z7ParoBZhWN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/577c309549d7d4277e93415cbcb89c9db69c0a4a", 
+        "is_playable": true, 
+        "uri": "spotify:track:5fQTZsE1Lh3z7ParoBZhWN", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5fQTZsE1Lh3z7ParoBZhWN", 
+        "artists": [
+          {
+            "name": "Stevie Wonder", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+            }, 
+            "uri": "spotify:artist:7guDJrEfX3qb6FEbdPA5qi", 
+            "href": "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi", 
+            "type": "artist", 
+            "id": "7guDJrEfX3qb6FEbdPA5qi"
+          }
+        ], 
+        "duration_ms": 248933, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "5fQTZsE1Lh3z7ParoBZhWN"
+      }, 
+      {
+        "name": "All Day Sucker", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7mkdPSVICsLzPKrxIXg1bI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4493a706f9fff248959f82d3185b42d20ba3ca80", 
+        "is_playable": true, 
+        "uri": "spotify:track:7mkdPSVICsLzPKrxIXg1bI", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/7mkdPSVICsLzPKrxIXg1bI", 
+        "artists": [
+          {
+            "name": "Stevie Wonder", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+            }, 
+            "uri": "spotify:artist:7guDJrEfX3qb6FEbdPA5qi", 
+            "href": "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi", 
+            "type": "artist", 
+            "id": "7guDJrEfX3qb6FEbdPA5qi"
+          }
+        ], 
+        "duration_ms": 305693, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "7mkdPSVICsLzPKrxIXg1bI"
+      }, 
+      {
+        "name": "Easy Goin' Evening (My Mama's Call)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6PMJtNCWNhi83ofFVRdwGl"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/38f76530f7c9f7e2883581a044598c9371e2086f", 
+        "is_playable": true, 
+        "uri": "spotify:track:6PMJtNCWNhi83ofFVRdwGl", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6PMJtNCWNhi83ofFVRdwGl", 
+        "artists": [
+          {
+            "name": "Stevie Wonder", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+            }, 
+            "uri": "spotify:artist:7guDJrEfX3qb6FEbdPA5qi", 
+            "href": "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi", 
+            "type": "artist", 
+            "id": "7guDJrEfX3qb6FEbdPA5qi"
+          }
+        ], 
+        "duration_ms": 236933, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "6PMJtNCWNhi83ofFVRdwGl"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/0BBWJ3L9fhkmNLdt4zs4fu/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 21, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/0BBWJ3L9fhkmNLdt4zs4fu", 
+  "copyrights": [
+    {
+      "text": "(C) 1976 Motown Record Company L.P.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1976 UMG Recordings, Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Stevie Wonder", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+      }, 
+      "uri": "spotify:artist:7guDJrEfX3qb6FEbdPA5qi", 
+      "href": "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi", 
+      "type": "artist", 
+      "id": "7guDJrEfX3qb6FEbdPA5qi"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/8e79e679cb589f6790373bc878a820ba65ffe835", 
+      "width": 640, 
+      "height": 634
+    }, 
+    {
+      "url": "https://i.scdn.co/image/eac97467988a62e32e457903f7f34ecdeeaa4f68", 
+      "width": 300, 
+      "height": 297
+    }, 
+    {
+      "url": "https://i.scdn.co/image/c8500be5acf2cb477ff21b5b59462c4ccf0c0819", 
+      "width": 64, 
+      "height": 63
+    }
+  ], 
+  "external_ids": {
+    "upc": "00601215735727"
+  }, 
+  "type": "album", 
+  "id": "0BBWJ3L9fhkmNLdt4zs4fu", 
+  "name": "Songs In The Key Of Life"
+}

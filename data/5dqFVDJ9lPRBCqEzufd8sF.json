@@ -1,0 +1,399 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5dqFVDJ9lPRBCqEzufd8sF"
+  }, 
+  "release_date": "1966-10-10", 
+  "popularity": 53, 
+  "genres": [], 
+  "uri": "spotify:album:5dqFVDJ9lPRBCqEzufd8sF", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Scarborough Fair / Canticle", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0rguUqiSbFbd6vDVndfDlS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d888ad77161cfa847edb3f80ca8222e9faf34c84", 
+        "is_playable": true, 
+        "uri": "spotify:track:0rguUqiSbFbd6vDVndfDlS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0rguUqiSbFbd6vDVndfDlS", 
+        "artists": [
+          {
+            "name": "Simon & Garfunkel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+            }, 
+            "uri": "spotify:artist:70cRZdQywnSFp9pnc2WTCE", 
+            "href": "https://api.spotify.com/v1/artists/70cRZdQywnSFp9pnc2WTCE", 
+            "type": "artist", 
+            "id": "70cRZdQywnSFp9pnc2WTCE"
+          }
+        ], 
+        "duration_ms": 190346, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "0rguUqiSbFbd6vDVndfDlS"
+      }, 
+      {
+        "name": "Patterns", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/217u1cIalNlN91ZNIIsbzP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f1597be9fc49cb0c807195aad4a23adce18fd21e", 
+        "is_playable": true, 
+        "uri": "spotify:track:217u1cIalNlN91ZNIIsbzP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/217u1cIalNlN91ZNIIsbzP", 
+        "artists": [
+          {
+            "name": "Simon & Garfunkel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+            }, 
+            "uri": "spotify:artist:70cRZdQywnSFp9pnc2WTCE", 
+            "href": "https://api.spotify.com/v1/artists/70cRZdQywnSFp9pnc2WTCE", 
+            "type": "artist", 
+            "id": "70cRZdQywnSFp9pnc2WTCE"
+          }
+        ], 
+        "duration_ms": 162586, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "217u1cIalNlN91ZNIIsbzP"
+      }, 
+      {
+        "name": "Cloudy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0tlHYuvXEyYYyJDNTkIntf"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fbd5356aa6e50f3d15c556da2763c4efd2e42f33", 
+        "is_playable": true, 
+        "uri": "spotify:track:0tlHYuvXEyYYyJDNTkIntf", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0tlHYuvXEyYYyJDNTkIntf", 
+        "artists": [
+          {
+            "name": "Simon & Garfunkel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+            }, 
+            "uri": "spotify:artist:70cRZdQywnSFp9pnc2WTCE", 
+            "href": "https://api.spotify.com/v1/artists/70cRZdQywnSFp9pnc2WTCE", 
+            "type": "artist", 
+            "id": "70cRZdQywnSFp9pnc2WTCE"
+          }
+        ], 
+        "duration_ms": 131640, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "0tlHYuvXEyYYyJDNTkIntf"
+      }, 
+      {
+        "name": "Homeward Bound", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/03VXrViYqJpdhuBEV0p0ak"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1627d8b41aeb1da2bccdadf9bb3862f4bc1b0d93", 
+        "is_playable": true, 
+        "uri": "spotify:track:03VXrViYqJpdhuBEV0p0ak", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/03VXrViYqJpdhuBEV0p0ak", 
+        "artists": [
+          {
+            "name": "Simon & Garfunkel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+            }, 
+            "uri": "spotify:artist:70cRZdQywnSFp9pnc2WTCE", 
+            "href": "https://api.spotify.com/v1/artists/70cRZdQywnSFp9pnc2WTCE", 
+            "type": "artist", 
+            "id": "70cRZdQywnSFp9pnc2WTCE"
+          }
+        ], 
+        "duration_ms": 149613, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "03VXrViYqJpdhuBEV0p0ak"
+      }, 
+      {
+        "name": "The Big Bright Green Pleasure Machine", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7sqni0cQm7eFl2HcaGYNy0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cebb15a3bf98b2b5de6e414147378b2bfb327cd2", 
+        "is_playable": true, 
+        "uri": "spotify:track:7sqni0cQm7eFl2HcaGYNy0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7sqni0cQm7eFl2HcaGYNy0", 
+        "artists": [
+          {
+            "name": "Simon & Garfunkel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+            }, 
+            "uri": "spotify:artist:70cRZdQywnSFp9pnc2WTCE", 
+            "href": "https://api.spotify.com/v1/artists/70cRZdQywnSFp9pnc2WTCE", 
+            "type": "artist", 
+            "id": "70cRZdQywnSFp9pnc2WTCE"
+          }
+        ], 
+        "duration_ms": 163186, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "7sqni0cQm7eFl2HcaGYNy0"
+      }, 
+      {
+        "name": "The 59th Street Bridge Song", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0eGl5p2TAYt76pqjEvQPa2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5963bc152e30923b417650be93344508752e1b9f", 
+        "is_playable": true, 
+        "uri": "spotify:track:0eGl5p2TAYt76pqjEvQPa2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0eGl5p2TAYt76pqjEvQPa2", 
+        "artists": [
+          {
+            "name": "Simon & Garfunkel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+            }, 
+            "uri": "spotify:artist:70cRZdQywnSFp9pnc2WTCE", 
+            "href": "https://api.spotify.com/v1/artists/70cRZdQywnSFp9pnc2WTCE", 
+            "type": "artist", 
+            "id": "70cRZdQywnSFp9pnc2WTCE"
+          }
+        ], 
+        "duration_ms": 103560, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "0eGl5p2TAYt76pqjEvQPa2"
+      }, 
+      {
+        "name": "The Dangling Conversation", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Ulh908e71PY1AM4xru7iQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d3702ea9aa2a5aaa223e298b1b959019ae443667", 
+        "is_playable": true, 
+        "uri": "spotify:track:0Ulh908e71PY1AM4xru7iQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0Ulh908e71PY1AM4xru7iQ", 
+        "artists": [
+          {
+            "name": "Simon & Garfunkel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+            }, 
+            "uri": "spotify:artist:70cRZdQywnSFp9pnc2WTCE", 
+            "href": "https://api.spotify.com/v1/artists/70cRZdQywnSFp9pnc2WTCE", 
+            "type": "artist", 
+            "id": "70cRZdQywnSFp9pnc2WTCE"
+          }
+        ], 
+        "duration_ms": 158773, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "0Ulh908e71PY1AM4xru7iQ"
+      }, 
+      {
+        "name": "Flowers Never Bend with the Rainfall", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/70yzaidsP0oK4amc9erLP6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d021afc487ea10e91c29b77f85a557b65dc68674", 
+        "is_playable": true, 
+        "uri": "spotify:track:70yzaidsP0oK4amc9erLP6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/70yzaidsP0oK4amc9erLP6", 
+        "artists": [
+          {
+            "name": "Simon & Garfunkel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+            }, 
+            "uri": "spotify:artist:70cRZdQywnSFp9pnc2WTCE", 
+            "href": "https://api.spotify.com/v1/artists/70cRZdQywnSFp9pnc2WTCE", 
+            "type": "artist", 
+            "id": "70cRZdQywnSFp9pnc2WTCE"
+          }
+        ], 
+        "duration_ms": 131746, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "70yzaidsP0oK4amc9erLP6"
+      }, 
+      {
+        "name": "A Simple Desultory Philippic", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1OH2mcqlTL1iUqsZ5b4vwe"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ab09727c8f65a3e9088fff0169ef70aa4dddeee4", 
+        "is_playable": true, 
+        "uri": "spotify:track:1OH2mcqlTL1iUqsZ5b4vwe", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1OH2mcqlTL1iUqsZ5b4vwe", 
+        "artists": [
+          {
+            "name": "Simon & Garfunkel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+            }, 
+            "uri": "spotify:artist:70cRZdQywnSFp9pnc2WTCE", 
+            "href": "https://api.spotify.com/v1/artists/70cRZdQywnSFp9pnc2WTCE", 
+            "type": "artist", 
+            "id": "70cRZdQywnSFp9pnc2WTCE"
+          }
+        ], 
+        "duration_ms": 133920, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "1OH2mcqlTL1iUqsZ5b4vwe"
+      }, 
+      {
+        "name": "For Emily, Whenever I May Find Her", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Hp3iE6mv7aqfOOojBqUwi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1f1fe01dab6895f664fb53c4c898ab22e2fd80ea", 
+        "is_playable": true, 
+        "uri": "spotify:track:5Hp3iE6mv7aqfOOojBqUwi", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5Hp3iE6mv7aqfOOojBqUwi", 
+        "artists": [
+          {
+            "name": "Simon & Garfunkel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+            }, 
+            "uri": "spotify:artist:70cRZdQywnSFp9pnc2WTCE", 
+            "href": "https://api.spotify.com/v1/artists/70cRZdQywnSFp9pnc2WTCE", 
+            "type": "artist", 
+            "id": "70cRZdQywnSFp9pnc2WTCE"
+          }
+        ], 
+        "duration_ms": 125413, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "5Hp3iE6mv7aqfOOojBqUwi"
+      }, 
+      {
+        "name": "A Poem on the Underground Wall", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7vVB9WPj7utAUy6WiX6ilD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/66464378085f6254af107fc47d67643ea155a46e", 
+        "is_playable": true, 
+        "uri": "spotify:track:7vVB9WPj7utAUy6WiX6ilD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7vVB9WPj7utAUy6WiX6ilD", 
+        "artists": [
+          {
+            "name": "Simon & Garfunkel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+            }, 
+            "uri": "spotify:artist:70cRZdQywnSFp9pnc2WTCE", 
+            "href": "https://api.spotify.com/v1/artists/70cRZdQywnSFp9pnc2WTCE", 
+            "type": "artist", 
+            "id": "70cRZdQywnSFp9pnc2WTCE"
+          }
+        ], 
+        "duration_ms": 114626, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "7vVB9WPj7utAUy6WiX6ilD"
+      }, 
+      {
+        "name": "7 O'clock News / Silent Night", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6JT2pi8EqW0no5eh2QeEUp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4786c440db028778935da557a5e5a7d7a3386fc5", 
+        "is_playable": true, 
+        "uri": "spotify:track:6JT2pi8EqW0no5eh2QeEUp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6JT2pi8EqW0no5eh2QeEUp", 
+        "artists": [
+          {
+            "name": "Simon & Garfunkel", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+            }, 
+            "uri": "spotify:artist:70cRZdQywnSFp9pnc2WTCE", 
+            "href": "https://api.spotify.com/v1/artists/70cRZdQywnSFp9pnc2WTCE", 
+            "type": "artist", 
+            "id": "70cRZdQywnSFp9pnc2WTCE"
+          }
+        ], 
+        "duration_ms": 120866, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "6JT2pi8EqW0no5eh2QeEUp"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/5dqFVDJ9lPRBCqEzufd8sF/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 12, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/5dqFVDJ9lPRBCqEzufd8sF", 
+  "copyrights": [
+    {
+      "text": "1969 Sony Music Entertainment Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Simon & Garfunkel", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+      }, 
+      "uri": "spotify:artist:70cRZdQywnSFp9pnc2WTCE", 
+      "href": "https://api.spotify.com/v1/artists/70cRZdQywnSFp9pnc2WTCE", 
+      "type": "artist", 
+      "id": "70cRZdQywnSFp9pnc2WTCE"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/55c46775c3a385b007a9ddea09fd2450f0782997", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/26105999ac5407065073e9f9048b6840716eaa66", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/278bf61137835afc67a0996d4d14d1551039c027", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "5099703203127"
+  }, 
+  "type": "album", 
+  "id": "5dqFVDJ9lPRBCqEzufd8sF", 
+  "name": "Parsley, Sage, Rosemary And Thyme"
+}

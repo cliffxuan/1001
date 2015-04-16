@@ -1,0 +1,403 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/006Qsi10luS9xEBAcIWGTf"
+  }, 
+  "release_date": "1992-10-06", 
+  "popularity": 68, 
+  "genres": [], 
+  "uri": "spotify:album:006Qsi10luS9xEBAcIWGTf", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Drive", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6lZ8EsBaxGW2iHVG16QLuJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ce9351e7e9c426489b6929f1d303428442bb0c1a", 
+        "is_playable": true, 
+        "uri": "spotify:track:6lZ8EsBaxGW2iHVG16QLuJ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6lZ8EsBaxGW2iHVG16QLuJ", 
+        "artists": [
+          {
+            "name": "R.E.M.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+            }, 
+            "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg", 
+            "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg", 
+            "type": "artist", 
+            "id": "4KWTAlx2RvbpseOGMEmROg"
+          }
+        ], 
+        "duration_ms": 264706, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "6lZ8EsBaxGW2iHVG16QLuJ"
+      }, 
+      {
+        "name": "Try Not To Breathe", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Wq1WTM8Gy6oiLt4146vZf"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5b3bde4c226982132875d47b6f78e1493164f916", 
+        "is_playable": true, 
+        "uri": "spotify:track:5Wq1WTM8Gy6oiLt4146vZf", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5Wq1WTM8Gy6oiLt4146vZf", 
+        "artists": [
+          {
+            "name": "R.E.M.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+            }, 
+            "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg", 
+            "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg", 
+            "type": "artist", 
+            "id": "4KWTAlx2RvbpseOGMEmROg"
+          }
+        ], 
+        "duration_ms": 230573, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "5Wq1WTM8Gy6oiLt4146vZf"
+      }, 
+      {
+        "name": "The Sidewinder Sleeps Tonite", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4hHKiq5wanyYmH0ClNytG8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/20dd3cdef48179106868de3a59f0b93a68de487a", 
+        "is_playable": true, 
+        "uri": "spotify:track:4hHKiq5wanyYmH0ClNytG8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4hHKiq5wanyYmH0ClNytG8", 
+        "artists": [
+          {
+            "name": "R.E.M.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+            }, 
+            "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg", 
+            "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg", 
+            "type": "artist", 
+            "id": "4KWTAlx2RvbpseOGMEmROg"
+          }
+        ], 
+        "duration_ms": 247733, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "4hHKiq5wanyYmH0ClNytG8"
+      }, 
+      {
+        "name": "Everybody Hurts", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4tCWWnk3BXinf7FllmSyHW"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b6a5878efdf14577082ac3456b995e27b8297358", 
+        "is_playable": true, 
+        "uri": "spotify:track:4tCWWnk3BXinf7FllmSyHW", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4tCWWnk3BXinf7FllmSyHW", 
+        "artists": [
+          {
+            "name": "R.E.M.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+            }, 
+            "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg", 
+            "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg", 
+            "type": "artist", 
+            "id": "4KWTAlx2RvbpseOGMEmROg"
+          }
+        ], 
+        "duration_ms": 318240, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "4tCWWnk3BXinf7FllmSyHW"
+      }, 
+      {
+        "name": "New Orleans Instrumental No.1", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0YDsuTDPm1elebHefugkJ5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f841520afe00443439ed2ff0788996eb9787175b", 
+        "is_playable": true, 
+        "uri": "spotify:track:0YDsuTDPm1elebHefugkJ5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0YDsuTDPm1elebHefugkJ5", 
+        "artists": [
+          {
+            "name": "R.E.M.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+            }, 
+            "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg", 
+            "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg", 
+            "type": "artist", 
+            "id": "4KWTAlx2RvbpseOGMEmROg"
+          }
+        ], 
+        "duration_ms": 135666, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "0YDsuTDPm1elebHefugkJ5"
+      }, 
+      {
+        "name": "Sweetness Follows", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1EBJ3ZhUrkM68bP5R8Yujl"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/59f7cae981697c9b94330f82bfbb9be1d978b8ba", 
+        "is_playable": true, 
+        "uri": "spotify:track:1EBJ3ZhUrkM68bP5R8Yujl", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1EBJ3ZhUrkM68bP5R8Yujl", 
+        "artists": [
+          {
+            "name": "R.E.M.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+            }, 
+            "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg", 
+            "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg", 
+            "type": "artist", 
+            "id": "4KWTAlx2RvbpseOGMEmROg"
+          }
+        ], 
+        "duration_ms": 259906, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "1EBJ3ZhUrkM68bP5R8Yujl"
+      }, 
+      {
+        "name": "Monty Got A Raw Deal", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5z3geVEKAD5HLf5Opn87ty"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e1107d4ec596cf61808530c897f0a48acb955290", 
+        "is_playable": true, 
+        "uri": "spotify:track:5z3geVEKAD5HLf5Opn87ty", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5z3geVEKAD5HLf5Opn87ty", 
+        "artists": [
+          {
+            "name": "R.E.M.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+            }, 
+            "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg", 
+            "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg", 
+            "type": "artist", 
+            "id": "4KWTAlx2RvbpseOGMEmROg"
+          }
+        ], 
+        "duration_ms": 197600, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "5z3geVEKAD5HLf5Opn87ty"
+      }, 
+      {
+        "name": "Ignoreland", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3lfcvu4IQADMKURzXeVc2T"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ed48ae75cbbf6eaea85fce7980e60ff539ee5a80", 
+        "is_playable": true, 
+        "uri": "spotify:track:3lfcvu4IQADMKURzXeVc2T", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3lfcvu4IQADMKURzXeVc2T", 
+        "artists": [
+          {
+            "name": "R.E.M.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+            }, 
+            "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg", 
+            "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg", 
+            "type": "artist", 
+            "id": "4KWTAlx2RvbpseOGMEmROg"
+          }
+        ], 
+        "duration_ms": 267466, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "3lfcvu4IQADMKURzXeVc2T"
+      }, 
+      {
+        "name": "Star Me Kitten", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5M7lJJ2dqvl66VFlXIyHVZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/27f5cd8f723316fe00bb606ad2362a248d38e77c", 
+        "is_playable": true, 
+        "uri": "spotify:track:5M7lJJ2dqvl66VFlXIyHVZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5M7lJJ2dqvl66VFlXIyHVZ", 
+        "artists": [
+          {
+            "name": "R.E.M.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+            }, 
+            "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg", 
+            "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg", 
+            "type": "artist", 
+            "id": "4KWTAlx2RvbpseOGMEmROg"
+          }
+        ], 
+        "duration_ms": 195866, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "5M7lJJ2dqvl66VFlXIyHVZ"
+      }, 
+      {
+        "name": "Man On The Moon", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/74q8a3WdCCSHbRLU2aoP8a"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/301bde89a4b904dd4b2df42bb885bfce70b175e3", 
+        "is_playable": true, 
+        "uri": "spotify:track:74q8a3WdCCSHbRLU2aoP8a", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/74q8a3WdCCSHbRLU2aoP8a", 
+        "artists": [
+          {
+            "name": "R.E.M.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+            }, 
+            "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg", 
+            "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg", 
+            "type": "artist", 
+            "id": "4KWTAlx2RvbpseOGMEmROg"
+          }
+        ], 
+        "duration_ms": 313533, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "74q8a3WdCCSHbRLU2aoP8a"
+      }, 
+      {
+        "name": "Nightswimming", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2xLSFrm2oBeMtBMjlAoZSC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ee7a9abe5078348797e5f73a16b0733a25026ed0", 
+        "is_playable": true, 
+        "uri": "spotify:track:2xLSFrm2oBeMtBMjlAoZSC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2xLSFrm2oBeMtBMjlAoZSC", 
+        "artists": [
+          {
+            "name": "R.E.M.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+            }, 
+            "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg", 
+            "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg", 
+            "type": "artist", 
+            "id": "4KWTAlx2RvbpseOGMEmROg"
+          }
+        ], 
+        "duration_ms": 258266, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "2xLSFrm2oBeMtBMjlAoZSC"
+      }, 
+      {
+        "name": "Find The River", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/51VC802Fx1YKTyM7IVdwvu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4d1dcdedacfbe32bc6a66de1e6f484f4666bc692", 
+        "is_playable": true, 
+        "uri": "spotify:track:51VC802Fx1YKTyM7IVdwvu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/51VC802Fx1YKTyM7IVdwvu", 
+        "artists": [
+          {
+            "name": "R.E.M.", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+            }, 
+            "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg", 
+            "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg", 
+            "type": "artist", 
+            "id": "4KWTAlx2RvbpseOGMEmROg"
+          }
+        ], 
+        "duration_ms": 229733, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "51VC802Fx1YKTyM7IVdwvu"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/006Qsi10luS9xEBAcIWGTf/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 12, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/006Qsi10luS9xEBAcIWGTf", 
+  "copyrights": [
+    {
+      "text": "1992 R.E.M. / Athens Ltd", 
+      "type": "C"
+    }, 
+    {
+      "text": "1992 R.E.M. / Athens Ltd", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "R.E.M.", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+      }, 
+      "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg", 
+      "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg", 
+      "type": "artist", 
+      "id": "4KWTAlx2RvbpseOGMEmROg"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/b58510fd507d689a50bd1a5616beb40df3847e95", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/7ccf85b50307c9d32ec24ba26b673287fed84e42", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/3759cf28389691695df43ab000c789366869d202", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "093624505563"
+  }, 
+  "type": "album", 
+  "id": "006Qsi10luS9xEBAcIWGTf", 
+  "name": "Automatic For The People"
+}

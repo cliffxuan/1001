@@ -1,0 +1,403 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7Hj7jLvac1sBCDnvP6qBYd"
+  }, 
+  "release_date": "1994-02-20", 
+  "popularity": 48, 
+  "genres": [], 
+  "uri": "spotify:album:7Hj7jLvac1sBCDnvP6qBYd", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Overcome", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4uXRGIjbWgpYO9R1bIqQ1h"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c4ef5c7a9b90d5cec119c04700f7a285b5b69da1", 
+        "is_playable": true, 
+        "uri": "spotify:track:4uXRGIjbWgpYO9R1bIqQ1h", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4uXRGIjbWgpYO9R1bIqQ1h", 
+        "artists": [
+          {
+            "name": "Tricky", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+            }, 
+            "uri": "spotify:artist:6hhA8TKRNryM8FNzqCqdDO", 
+            "href": "https://api.spotify.com/v1/artists/6hhA8TKRNryM8FNzqCqdDO", 
+            "type": "artist", 
+            "id": "6hhA8TKRNryM8FNzqCqdDO"
+          }
+        ], 
+        "duration_ms": 270093, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "4uXRGIjbWgpYO9R1bIqQ1h"
+      }, 
+      {
+        "name": "Ponderosa", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4YhuBaH1fK3HbrqeZTfnkT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b0a5688688ef4462d6ea93540398debf74e82129", 
+        "is_playable": true, 
+        "uri": "spotify:track:4YhuBaH1fK3HbrqeZTfnkT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4YhuBaH1fK3HbrqeZTfnkT", 
+        "artists": [
+          {
+            "name": "Tricky", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+            }, 
+            "uri": "spotify:artist:6hhA8TKRNryM8FNzqCqdDO", 
+            "href": "https://api.spotify.com/v1/artists/6hhA8TKRNryM8FNzqCqdDO", 
+            "type": "artist", 
+            "id": "6hhA8TKRNryM8FNzqCqdDO"
+          }
+        ], 
+        "duration_ms": 210640, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "4YhuBaH1fK3HbrqeZTfnkT"
+      }, 
+      {
+        "name": "Black Steel", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3uYM1j53XujLtLbxgVZOwc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9229e8c40d7b9095fe3470b262fd68070a02a0ca", 
+        "is_playable": true, 
+        "uri": "spotify:track:3uYM1j53XujLtLbxgVZOwc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3uYM1j53XujLtLbxgVZOwc", 
+        "artists": [
+          {
+            "name": "Tricky", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+            }, 
+            "uri": "spotify:artist:6hhA8TKRNryM8FNzqCqdDO", 
+            "href": "https://api.spotify.com/v1/artists/6hhA8TKRNryM8FNzqCqdDO", 
+            "type": "artist", 
+            "id": "6hhA8TKRNryM8FNzqCqdDO"
+          }
+        ], 
+        "duration_ms": 340000, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "3uYM1j53XujLtLbxgVZOwc"
+      }, 
+      {
+        "name": "Hell Is Round The Corner", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2LdaAgX3r9WiyuOJRoN5m2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/44376fb92c82c4962120733e53cd31ce3fbf9714", 
+        "is_playable": true, 
+        "uri": "spotify:track:2LdaAgX3r9WiyuOJRoN5m2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2LdaAgX3r9WiyuOJRoN5m2", 
+        "artists": [
+          {
+            "name": "Tricky", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+            }, 
+            "uri": "spotify:artist:6hhA8TKRNryM8FNzqCqdDO", 
+            "href": "https://api.spotify.com/v1/artists/6hhA8TKRNryM8FNzqCqdDO", 
+            "type": "artist", 
+            "id": "6hhA8TKRNryM8FNzqCqdDO"
+          }
+        ], 
+        "duration_ms": 227066, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "2LdaAgX3r9WiyuOJRoN5m2"
+      }, 
+      {
+        "name": "Pumpkin", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0hjgCRDKm8deLSqgwimJAq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/53b0ca0cc13b337135d6b8e978d2393c9901ea97", 
+        "is_playable": true, 
+        "uri": "spotify:track:0hjgCRDKm8deLSqgwimJAq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0hjgCRDKm8deLSqgwimJAq", 
+        "artists": [
+          {
+            "name": "Tricky", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+            }, 
+            "uri": "spotify:artist:6hhA8TKRNryM8FNzqCqdDO", 
+            "href": "https://api.spotify.com/v1/artists/6hhA8TKRNryM8FNzqCqdDO", 
+            "type": "artist", 
+            "id": "6hhA8TKRNryM8FNzqCqdDO"
+          }
+        ], 
+        "duration_ms": 270698, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "0hjgCRDKm8deLSqgwimJAq"
+      }, 
+      {
+        "name": "Aftermath", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0W1DwVOeYZYzZagrabFdkw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f2b30fc7607e1e31acc3bfe6cb93a95aaf0ae618", 
+        "is_playable": true, 
+        "uri": "spotify:track:0W1DwVOeYZYzZagrabFdkw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0W1DwVOeYZYzZagrabFdkw", 
+        "artists": [
+          {
+            "name": "Tricky", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+            }, 
+            "uri": "spotify:artist:6hhA8TKRNryM8FNzqCqdDO", 
+            "href": "https://api.spotify.com/v1/artists/6hhA8TKRNryM8FNzqCqdDO", 
+            "type": "artist", 
+            "id": "6hhA8TKRNryM8FNzqCqdDO"
+          }
+        ], 
+        "duration_ms": 458760, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "0W1DwVOeYZYzZagrabFdkw"
+      }, 
+      {
+        "name": "Abbaon Fat Tracks", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6IpwFjYYiAGr7UU0vldRZc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9c5e8904eafd2371f04f3ed81793dd7feab9d74c", 
+        "is_playable": true, 
+        "uri": "spotify:track:6IpwFjYYiAGr7UU0vldRZc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6IpwFjYYiAGr7UU0vldRZc", 
+        "artists": [
+          {
+            "name": "Tricky", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+            }, 
+            "uri": "spotify:artist:6hhA8TKRNryM8FNzqCqdDO", 
+            "href": "https://api.spotify.com/v1/artists/6hhA8TKRNryM8FNzqCqdDO", 
+            "type": "artist", 
+            "id": "6hhA8TKRNryM8FNzqCqdDO"
+          }
+        ], 
+        "duration_ms": 266506, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "6IpwFjYYiAGr7UU0vldRZc"
+      }, 
+      {
+        "name": "Brand New You're Retro", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6JAsyOnecQJfUousVdOTCe"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/01a5a5bcb8d0f36c13882c58eb7a42fc4e59444b", 
+        "is_playable": true, 
+        "uri": "spotify:track:6JAsyOnecQJfUousVdOTCe", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6JAsyOnecQJfUousVdOTCe", 
+        "artists": [
+          {
+            "name": "Tricky", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+            }, 
+            "uri": "spotify:artist:6hhA8TKRNryM8FNzqCqdDO", 
+            "href": "https://api.spotify.com/v1/artists/6hhA8TKRNryM8FNzqCqdDO", 
+            "type": "artist", 
+            "id": "6hhA8TKRNryM8FNzqCqdDO"
+          }
+        ], 
+        "duration_ms": 174474, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "6JAsyOnecQJfUousVdOTCe"
+      }, 
+      {
+        "name": "Suffocated Love", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1wq1ow6PRQkjeiuUMsPZ2f"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0313193b5845c09896e79efda35c26943dfbcadd", 
+        "is_playable": true, 
+        "uri": "spotify:track:1wq1ow6PRQkjeiuUMsPZ2f", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1wq1ow6PRQkjeiuUMsPZ2f", 
+        "artists": [
+          {
+            "name": "Tricky", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+            }, 
+            "uri": "spotify:artist:6hhA8TKRNryM8FNzqCqdDO", 
+            "href": "https://api.spotify.com/v1/artists/6hhA8TKRNryM8FNzqCqdDO", 
+            "type": "artist", 
+            "id": "6hhA8TKRNryM8FNzqCqdDO"
+          }
+        ], 
+        "duration_ms": 293200, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "1wq1ow6PRQkjeiuUMsPZ2f"
+      }, 
+      {
+        "name": "You Don't", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7HF88u3fOOF2jzNaibk7FW"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/60ae5f3bf778d9a4d2c49fab91e39670d96ed4f0", 
+        "is_playable": true, 
+        "uri": "spotify:track:7HF88u3fOOF2jzNaibk7FW", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7HF88u3fOOF2jzNaibk7FW", 
+        "artists": [
+          {
+            "name": "Tricky", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+            }, 
+            "uri": "spotify:artist:6hhA8TKRNryM8FNzqCqdDO", 
+            "href": "https://api.spotify.com/v1/artists/6hhA8TKRNryM8FNzqCqdDO", 
+            "type": "artist", 
+            "id": "6hhA8TKRNryM8FNzqCqdDO"
+          }
+        ], 
+        "duration_ms": 279289, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "7HF88u3fOOF2jzNaibk7FW"
+      }, 
+      {
+        "name": "Strugglin'", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2l4JAXutBiSrzYdcQE1rHE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4bd76066815ce5a95cfc53a3d319271c9cefb2ae", 
+        "is_playable": true, 
+        "uri": "spotify:track:2l4JAXutBiSrzYdcQE1rHE", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2l4JAXutBiSrzYdcQE1rHE", 
+        "artists": [
+          {
+            "name": "Tricky", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+            }, 
+            "uri": "spotify:artist:6hhA8TKRNryM8FNzqCqdDO", 
+            "href": "https://api.spotify.com/v1/artists/6hhA8TKRNryM8FNzqCqdDO", 
+            "type": "artist", 
+            "id": "6hhA8TKRNryM8FNzqCqdDO"
+          }
+        ], 
+        "duration_ms": 398560, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "2l4JAXutBiSrzYdcQE1rHE"
+      }, 
+      {
+        "name": "Feed Me", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/47bujJDVv8L92bKS4wLcfd"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fd0b0ebd68b70f36efdd70e2a6cfe56b3081a08b", 
+        "is_playable": true, 
+        "uri": "spotify:track:47bujJDVv8L92bKS4wLcfd", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/47bujJDVv8L92bKS4wLcfd", 
+        "artists": [
+          {
+            "name": "Tricky", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+            }, 
+            "uri": "spotify:artist:6hhA8TKRNryM8FNzqCqdDO", 
+            "href": "https://api.spotify.com/v1/artists/6hhA8TKRNryM8FNzqCqdDO", 
+            "type": "artist", 
+            "id": "6hhA8TKRNryM8FNzqCqdDO"
+          }
+        ], 
+        "duration_ms": 243666, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "47bujJDVv8L92bKS4wLcfd"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/7Hj7jLvac1sBCDnvP6qBYd/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 12, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/7Hj7jLvac1sBCDnvP6qBYd", 
+  "copyrights": [
+    {
+      "text": "(C) 1995 Island Records, a division of Universal Music Operations Limited", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1995 Island Records, a division of Universal Music Operations Limited", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Tricky", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+      }, 
+      "uri": "spotify:artist:6hhA8TKRNryM8FNzqCqdDO", 
+      "href": "https://api.spotify.com/v1/artists/6hhA8TKRNryM8FNzqCqdDO", 
+      "type": "artist", 
+      "id": "6hhA8TKRNryM8FNzqCqdDO"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/f1c64cfffa940110990bfb7d84bd81222c3aaed3", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/c438def43fe171e04e859b35e700f05b3f0b58fa", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/ba993a7a490c780caed77760e46ad2c7c1f6edc8", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00731452408921"
+  }, 
+  "type": "album", 
+  "id": "7Hj7jLvac1sBCDnvP6qBYd", 
+  "name": "Maxinquaye"
+}

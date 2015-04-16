@@ -1,0 +1,539 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/33puYJ2y5qANDenRmL8BS1"
+  }, 
+  "release_date": "1967-02-06", 
+  "popularity": 42, 
+  "genres": [], 
+  "uri": "spotify:album:33puYJ2y5qANDenRmL8BS1", 
+  "tracks": {
+    "items": [
+      {
+        "name": "So You Want to Be a Rock 'N' Roll Star", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3PFOfOdzObTrsIA7pTkJWN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/741c582467b0014b5a096a7c311a143266b89340", 
+        "is_playable": true, 
+        "uri": "spotify:track:3PFOfOdzObTrsIA7pTkJWN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3PFOfOdzObTrsIA7pTkJWN", 
+        "artists": [
+          {
+            "name": "The Byrds", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+            }, 
+            "uri": "spotify:artist:1PCZpxHJz7WAMF8EEq8bfc", 
+            "href": "https://api.spotify.com/v1/artists/1PCZpxHJz7WAMF8EEq8bfc", 
+            "type": "artist", 
+            "id": "1PCZpxHJz7WAMF8EEq8bfc"
+          }
+        ], 
+        "duration_ms": 126160, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "3PFOfOdzObTrsIA7pTkJWN"
+      }, 
+      {
+        "name": "Have You Seen Her Face", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6oRNqIZzxNdpYlappmxrGR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1bb927fbc0645730f279c244fe45d517e272ea68", 
+        "is_playable": true, 
+        "uri": "spotify:track:6oRNqIZzxNdpYlappmxrGR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6oRNqIZzxNdpYlappmxrGR", 
+        "artists": [
+          {
+            "name": "The Byrds", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+            }, 
+            "uri": "spotify:artist:1PCZpxHJz7WAMF8EEq8bfc", 
+            "href": "https://api.spotify.com/v1/artists/1PCZpxHJz7WAMF8EEq8bfc", 
+            "type": "artist", 
+            "id": "1PCZpxHJz7WAMF8EEq8bfc"
+          }
+        ], 
+        "duration_ms": 159973, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "6oRNqIZzxNdpYlappmxrGR"
+      }, 
+      {
+        "name": "C.T.A. - 102", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/61keIoR8okfpXDLd48gahU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0f227dbbe86fed655ab96cfb6bb64f1993b53079", 
+        "is_playable": true, 
+        "uri": "spotify:track:61keIoR8okfpXDLd48gahU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/61keIoR8okfpXDLd48gahU", 
+        "artists": [
+          {
+            "name": "The Byrds", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+            }, 
+            "uri": "spotify:artist:1PCZpxHJz7WAMF8EEq8bfc", 
+            "href": "https://api.spotify.com/v1/artists/1PCZpxHJz7WAMF8EEq8bfc", 
+            "type": "artist", 
+            "id": "1PCZpxHJz7WAMF8EEq8bfc"
+          }
+        ], 
+        "duration_ms": 148226, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "61keIoR8okfpXDLd48gahU"
+      }, 
+      {
+        "name": "Renaissance Fair - Single Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2tT7izwilr1NUIEcC3FTbr"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ef8027ef04b85e98a3028e1863c638a445079cd3", 
+        "is_playable": true, 
+        "uri": "spotify:track:2tT7izwilr1NUIEcC3FTbr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2tT7izwilr1NUIEcC3FTbr", 
+        "artists": [
+          {
+            "name": "The Byrds", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+            }, 
+            "uri": "spotify:artist:1PCZpxHJz7WAMF8EEq8bfc", 
+            "href": "https://api.spotify.com/v1/artists/1PCZpxHJz7WAMF8EEq8bfc", 
+            "type": "artist", 
+            "id": "1PCZpxHJz7WAMF8EEq8bfc"
+          }
+        ], 
+        "duration_ms": 111666, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "2tT7izwilr1NUIEcC3FTbr"
+      }, 
+      {
+        "name": "Time Between", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/244Sqt9PC1Ya3W1UySztI3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bab8a4ac2220b61e274fdabb3cbb74fc134d1692", 
+        "is_playable": true, 
+        "uri": "spotify:track:244Sqt9PC1Ya3W1UySztI3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/244Sqt9PC1Ya3W1UySztI3", 
+        "artists": [
+          {
+            "name": "The Byrds", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+            }, 
+            "uri": "spotify:artist:1PCZpxHJz7WAMF8EEq8bfc", 
+            "href": "https://api.spotify.com/v1/artists/1PCZpxHJz7WAMF8EEq8bfc", 
+            "type": "artist", 
+            "id": "1PCZpxHJz7WAMF8EEq8bfc"
+          }
+        ], 
+        "duration_ms": 113200, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "244Sqt9PC1Ya3W1UySztI3"
+      }, 
+      {
+        "name": "Everybody's Been Burned - Single Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2sKXj3gEdILnKDMV3D0htZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8cd9feca80c5887fcabd4142c8023600bbb3779e", 
+        "is_playable": true, 
+        "uri": "spotify:track:2sKXj3gEdILnKDMV3D0htZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2sKXj3gEdILnKDMV3D0htZ", 
+        "artists": [
+          {
+            "name": "The Byrds", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+            }, 
+            "uri": "spotify:artist:1PCZpxHJz7WAMF8EEq8bfc", 
+            "href": "https://api.spotify.com/v1/artists/1PCZpxHJz7WAMF8EEq8bfc", 
+            "type": "artist", 
+            "id": "1PCZpxHJz7WAMF8EEq8bfc"
+          }
+        ], 
+        "duration_ms": 185226, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "2sKXj3gEdILnKDMV3D0htZ"
+      }, 
+      {
+        "name": "Thoughts and Words", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/06nFvZ2VpIAemq2iXmbtLe"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/372716f76cf83dbcf3554d2da45871ca99f2eee0", 
+        "is_playable": true, 
+        "uri": "spotify:track:06nFvZ2VpIAemq2iXmbtLe", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/06nFvZ2VpIAemq2iXmbtLe", 
+        "artists": [
+          {
+            "name": "The Byrds", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+            }, 
+            "uri": "spotify:artist:1PCZpxHJz7WAMF8EEq8bfc", 
+            "href": "https://api.spotify.com/v1/artists/1PCZpxHJz7WAMF8EEq8bfc", 
+            "type": "artist", 
+            "id": "1PCZpxHJz7WAMF8EEq8bfc"
+          }
+        ], 
+        "duration_ms": 176466, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "06nFvZ2VpIAemq2iXmbtLe"
+      }, 
+      {
+        "name": "Mind Gardens", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3wHirUEHpsV37oAUADsj5f"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6c3435dccadeda7782bf1a1920efaea8a1f7dec6", 
+        "is_playable": true, 
+        "uri": "spotify:track:3wHirUEHpsV37oAUADsj5f", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3wHirUEHpsV37oAUADsj5f", 
+        "artists": [
+          {
+            "name": "The Byrds", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+            }, 
+            "uri": "spotify:artist:1PCZpxHJz7WAMF8EEq8bfc", 
+            "href": "https://api.spotify.com/v1/artists/1PCZpxHJz7WAMF8EEq8bfc", 
+            "type": "artist", 
+            "id": "1PCZpxHJz7WAMF8EEq8bfc"
+          }
+        ], 
+        "duration_ms": 225800, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "3wHirUEHpsV37oAUADsj5f"
+      }, 
+      {
+        "name": "My Back Pages", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1yexhSDARSLVvRCBU3wDAm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ec683aa6f4c74af0dc274616bd0b3576f664fdb1", 
+        "is_playable": true, 
+        "uri": "spotify:track:1yexhSDARSLVvRCBU3wDAm", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1yexhSDARSLVvRCBU3wDAm", 
+        "artists": [
+          {
+            "name": "The Byrds", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+            }, 
+            "uri": "spotify:artist:1PCZpxHJz7WAMF8EEq8bfc", 
+            "href": "https://api.spotify.com/v1/artists/1PCZpxHJz7WAMF8EEq8bfc", 
+            "type": "artist", 
+            "id": "1PCZpxHJz7WAMF8EEq8bfc"
+          }
+        ], 
+        "duration_ms": 188240, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "1yexhSDARSLVvRCBU3wDAm"
+      }, 
+      {
+        "name": "The Girl With No Name", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4kOeaGdcRngJ7GBvNTrdm9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/153144e8dc9719a58abb2a10ca2ab04e81778e2c", 
+        "is_playable": true, 
+        "uri": "spotify:track:4kOeaGdcRngJ7GBvNTrdm9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4kOeaGdcRngJ7GBvNTrdm9", 
+        "artists": [
+          {
+            "name": "The Byrds", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+            }, 
+            "uri": "spotify:artist:1PCZpxHJz7WAMF8EEq8bfc", 
+            "href": "https://api.spotify.com/v1/artists/1PCZpxHJz7WAMF8EEq8bfc", 
+            "type": "artist", 
+            "id": "1PCZpxHJz7WAMF8EEq8bfc"
+          }
+        ], 
+        "duration_ms": 110333, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "4kOeaGdcRngJ7GBvNTrdm9"
+      }, 
+      {
+        "name": "Why", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2vqqh6kgBdHKXMhroojT0k"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/18d812bc82c51f4e94529d7b09fad6d446389ce9", 
+        "is_playable": true, 
+        "uri": "spotify:track:2vqqh6kgBdHKXMhroojT0k", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2vqqh6kgBdHKXMhroojT0k", 
+        "artists": [
+          {
+            "name": "The Byrds", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+            }, 
+            "uri": "spotify:artist:1PCZpxHJz7WAMF8EEq8bfc", 
+            "href": "https://api.spotify.com/v1/artists/1PCZpxHJz7WAMF8EEq8bfc", 
+            "type": "artist", 
+            "id": "1PCZpxHJz7WAMF8EEq8bfc"
+          }
+        ], 
+        "duration_ms": 165706, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "2vqqh6kgBdHKXMhroojT0k"
+      }, 
+      {
+        "name": "It Happens Each Day", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2YoR6ZqQqgfldOMz2WP266"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/382e07ca0f77f7e760ce0d61badefa5a7167111a", 
+        "is_playable": true, 
+        "uri": "spotify:track:2YoR6ZqQqgfldOMz2WP266", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2YoR6ZqQqgfldOMz2WP266", 
+        "artists": [
+          {
+            "name": "The Byrds", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+            }, 
+            "uri": "spotify:artist:1PCZpxHJz7WAMF8EEq8bfc", 
+            "href": "https://api.spotify.com/v1/artists/1PCZpxHJz7WAMF8EEq8bfc", 
+            "type": "artist", 
+            "id": "1PCZpxHJz7WAMF8EEq8bfc"
+          }
+        ], 
+        "duration_ms": 164706, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "2YoR6ZqQqgfldOMz2WP266"
+      }, 
+      {
+        "name": "Don't Make Waves - Single Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0zMqTBqZ4FF6XKDqWOQ6ZJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9b3d7df1f5c676033464579b829e23dcfe4d8a5b", 
+        "is_playable": true, 
+        "uri": "spotify:track:0zMqTBqZ4FF6XKDqWOQ6ZJ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0zMqTBqZ4FF6XKDqWOQ6ZJ", 
+        "artists": [
+          {
+            "name": "The Byrds", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+            }, 
+            "uri": "spotify:artist:1PCZpxHJz7WAMF8EEq8bfc", 
+            "href": "https://api.spotify.com/v1/artists/1PCZpxHJz7WAMF8EEq8bfc", 
+            "type": "artist", 
+            "id": "1PCZpxHJz7WAMF8EEq8bfc"
+          }
+        ], 
+        "duration_ms": 96773, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "0zMqTBqZ4FF6XKDqWOQ6ZJ"
+      }, 
+      {
+        "name": "My Back Pages", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6VCEXvBYSSdPDuIX64mUaT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/54b3384b618302c187fb315811e8f62ed4a49a20", 
+        "is_playable": true, 
+        "uri": "spotify:track:6VCEXvBYSSdPDuIX64mUaT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6VCEXvBYSSdPDuIX64mUaT", 
+        "artists": [
+          {
+            "name": "The Byrds", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+            }, 
+            "uri": "spotify:artist:1PCZpxHJz7WAMF8EEq8bfc", 
+            "href": "https://api.spotify.com/v1/artists/1PCZpxHJz7WAMF8EEq8bfc", 
+            "type": "artist", 
+            "id": "1PCZpxHJz7WAMF8EEq8bfc"
+          }
+        ], 
+        "duration_ms": 162706, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "6VCEXvBYSSdPDuIX64mUaT"
+      }, 
+      {
+        "name": "Mind Gardens", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5qdPoCOZDMYSN8NtpjaIcg"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/89bb80029cd23a58dba8d6a5c4adf98c3d8d8d2c", 
+        "is_playable": true, 
+        "uri": "spotify:track:5qdPoCOZDMYSN8NtpjaIcg", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5qdPoCOZDMYSN8NtpjaIcg", 
+        "artists": [
+          {
+            "name": "The Byrds", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+            }, 
+            "uri": "spotify:artist:1PCZpxHJz7WAMF8EEq8bfc", 
+            "href": "https://api.spotify.com/v1/artists/1PCZpxHJz7WAMF8EEq8bfc", 
+            "type": "artist", 
+            "id": "1PCZpxHJz7WAMF8EEq8bfc"
+          }
+        ], 
+        "duration_ms": 197760, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "5qdPoCOZDMYSN8NtpjaIcg"
+      }, 
+      {
+        "name": "Lady Friend - Single Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1qbQ6f75f5GWlhaWESDXkV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c85be2d17badf6c6c71351fc97d8867d35b68641", 
+        "is_playable": true, 
+        "uri": "spotify:track:1qbQ6f75f5GWlhaWESDXkV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1qbQ6f75f5GWlhaWESDXkV", 
+        "artists": [
+          {
+            "name": "The Byrds", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+            }, 
+            "uri": "spotify:artist:1PCZpxHJz7WAMF8EEq8bfc", 
+            "href": "https://api.spotify.com/v1/artists/1PCZpxHJz7WAMF8EEq8bfc", 
+            "type": "artist", 
+            "id": "1PCZpxHJz7WAMF8EEq8bfc"
+          }
+        ], 
+        "duration_ms": 150733, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "1qbQ6f75f5GWlhaWESDXkV"
+      }, 
+      {
+        "name": "Old John Robertson - Single Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3n3sX5afRwdEwGdwYhMRlM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/502f39334daed5a9aab2f1d2c7f6c8a78c87e543", 
+        "is_playable": true, 
+        "uri": "spotify:track:3n3sX5afRwdEwGdwYhMRlM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3n3sX5afRwdEwGdwYhMRlM", 
+        "artists": [
+          {
+            "name": "The Byrds", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+            }, 
+            "uri": "spotify:artist:1PCZpxHJz7WAMF8EEq8bfc", 
+            "href": "https://api.spotify.com/v1/artists/1PCZpxHJz7WAMF8EEq8bfc", 
+            "type": "artist", 
+            "id": "1PCZpxHJz7WAMF8EEq8bfc"
+          }
+        ], 
+        "duration_ms": 305266, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "3n3sX5afRwdEwGdwYhMRlM"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/33puYJ2y5qANDenRmL8BS1/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 17, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/33puYJ2y5qANDenRmL8BS1", 
+  "copyrights": [
+    {
+      "text": "(P) 1996 Columbia Records, a division of Sony Music Entertainment", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "The Byrds", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+      }, 
+      "uri": "spotify:artist:1PCZpxHJz7WAMF8EEq8bfc", 
+      "href": "https://api.spotify.com/v1/artists/1PCZpxHJz7WAMF8EEq8bfc", 
+      "type": "artist", 
+      "id": "1PCZpxHJz7WAMF8EEq8bfc"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/c321f8a91d319cece7beddcf05e94836ba3b28fd", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/8f35022acbc6144bc48a548e01e82b450863b0d0", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/086d933070820d1c327e6e98fe25ee1a824ad057", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "886444014304"
+  }, 
+  "type": "album", 
+  "id": "33puYJ2y5qANDenRmL8BS1", 
+  "name": "Younger Than Yesterday"
+}

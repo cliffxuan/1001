@@ -1,0 +1,319 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5gWF47eGSbv4BOfxoFcQtd"
+  }, 
+  "release_date": "1957", 
+  "popularity": 15, 
+  "genres": [], 
+  "uri": "spotify:album:5gWF47eGSbv4BOfxoFcQtd", 
+  "tracks": {
+    "items": [
+      {
+        "linked_from": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3Xp64gvwjvJH1ZkOQur3xK"
+          }, 
+          "href": "https://api.spotify.com/v1/tracks/3Xp64gvwjvJH1ZkOQur3xK", 
+          "type": "track", 
+          "id": "3Xp64gvwjvJH1ZkOQur3xK", 
+          "uri": "spotify:track:3Xp64gvwjvJH1ZkOQur3xK"
+        }, 
+        "name": "Brilliant Corners", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5cvzCpBgRM8JyMJPykz4Gn"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/61ad2f9f46b21bf2029e7670c43abad9ffaf3ebf", 
+        "is_playable": true, 
+        "uri": "spotify:track:5cvzCpBgRM8JyMJPykz4Gn", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5cvzCpBgRM8JyMJPykz4Gn", 
+        "artists": [
+          {
+            "name": "Thelonious Monk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+            }, 
+            "uri": "spotify:artist:4PDpGtF16XpqvXxsrFwQnN", 
+            "href": "https://api.spotify.com/v1/artists/4PDpGtF16XpqvXxsrFwQnN", 
+            "type": "artist", 
+            "id": "4PDpGtF16XpqvXxsrFwQnN"
+          }, 
+          {
+            "name": "Sonny Rollins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+            }, 
+            "uri": "spotify:artist:1VEzN9lxvG6KPR3QQGsebR", 
+            "href": "https://api.spotify.com/v1/artists/1VEzN9lxvG6KPR3QQGsebR", 
+            "type": "artist", 
+            "id": "1VEzN9lxvG6KPR3QQGsebR"
+          }, 
+          {
+            "name": "Ernie Henry", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1kL3usnF0v21VlGzfY8KxR"
+            }, 
+            "uri": "spotify:artist:1kL3usnF0v21VlGzfY8KxR", 
+            "href": "https://api.spotify.com/v1/artists/1kL3usnF0v21VlGzfY8KxR", 
+            "type": "artist", 
+            "id": "1kL3usnF0v21VlGzfY8KxR"
+          }
+        ], 
+        "duration_ms": 467333, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "5cvzCpBgRM8JyMJPykz4Gn"
+      }, 
+      {
+        "name": "Ba-Lue Bolivar Ba-Lues-Are", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1OjmEyEycmzJK3itBAq8EG"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bfd9c507c6485c3506c04ec0f1f8b4755b3bbfe8", 
+        "is_playable": true, 
+        "uri": "spotify:track:1OjmEyEycmzJK3itBAq8EG", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1OjmEyEycmzJK3itBAq8EG", 
+        "artists": [
+          {
+            "name": "Thelonious Monk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+            }, 
+            "uri": "spotify:artist:4PDpGtF16XpqvXxsrFwQnN", 
+            "href": "https://api.spotify.com/v1/artists/4PDpGtF16XpqvXxsrFwQnN", 
+            "type": "artist", 
+            "id": "4PDpGtF16XpqvXxsrFwQnN"
+          }, 
+          {
+            "name": "Sonny Rollins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+            }, 
+            "uri": "spotify:artist:1VEzN9lxvG6KPR3QQGsebR", 
+            "href": "https://api.spotify.com/v1/artists/1VEzN9lxvG6KPR3QQGsebR", 
+            "type": "artist", 
+            "id": "1VEzN9lxvG6KPR3QQGsebR"
+          }, 
+          {
+            "name": "Ernie Henry", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1kL3usnF0v21VlGzfY8KxR"
+            }, 
+            "uri": "spotify:artist:1kL3usnF0v21VlGzfY8KxR", 
+            "href": "https://api.spotify.com/v1/artists/1kL3usnF0v21VlGzfY8KxR", 
+            "type": "artist", 
+            "id": "1kL3usnF0v21VlGzfY8KxR"
+          }, 
+          {
+            "name": "Clark Terry", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
+            }, 
+            "uri": "spotify:artist:62xdwGEOLoGQxKUqoJusyU", 
+            "href": "https://api.spotify.com/v1/artists/62xdwGEOLoGQxKUqoJusyU", 
+            "type": "artist", 
+            "id": "62xdwGEOLoGQxKUqoJusyU"
+          }
+        ], 
+        "duration_ms": 787933, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "1OjmEyEycmzJK3itBAq8EG"
+      }, 
+      {
+        "linked_from": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3EM4Vr12ZTUee0OLjTw01F"
+          }, 
+          "href": "https://api.spotify.com/v1/tracks/3EM4Vr12ZTUee0OLjTw01F", 
+          "type": "track", 
+          "id": "3EM4Vr12ZTUee0OLjTw01F", 
+          "uri": "spotify:track:3EM4Vr12ZTUee0OLjTw01F"
+        }, 
+        "name": "Pannonica", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3nmyXlb4AgnlC4o0AHQeCf"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a37e450725399979579de93d87eb6b49b7a7ef25", 
+        "is_playable": true, 
+        "uri": "spotify:track:3nmyXlb4AgnlC4o0AHQeCf", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3nmyXlb4AgnlC4o0AHQeCf", 
+        "artists": [
+          {
+            "name": "Thelonious Monk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+            }, 
+            "uri": "spotify:artist:4PDpGtF16XpqvXxsrFwQnN", 
+            "href": "https://api.spotify.com/v1/artists/4PDpGtF16XpqvXxsrFwQnN", 
+            "type": "artist", 
+            "id": "4PDpGtF16XpqvXxsrFwQnN"
+          }, 
+          {
+            "name": "Sonny Rollins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+            }, 
+            "uri": "spotify:artist:1VEzN9lxvG6KPR3QQGsebR", 
+            "href": "https://api.spotify.com/v1/artists/1VEzN9lxvG6KPR3QQGsebR", 
+            "type": "artist", 
+            "id": "1VEzN9lxvG6KPR3QQGsebR"
+          }, 
+          {
+            "name": "Ernie Henry", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1kL3usnF0v21VlGzfY8KxR"
+            }, 
+            "uri": "spotify:artist:1kL3usnF0v21VlGzfY8KxR", 
+            "href": "https://api.spotify.com/v1/artists/1kL3usnF0v21VlGzfY8KxR", 
+            "type": "artist", 
+            "id": "1kL3usnF0v21VlGzfY8KxR"
+          }
+        ], 
+        "duration_ms": 533173, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "3nmyXlb4AgnlC4o0AHQeCf"
+      }, 
+      {
+        "name": "I Surrender, Dear", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Di7WT1rz8KYNCmfY3yWLV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/80afca7f901256aa27e01c5654615f01535f5ba8", 
+        "is_playable": true, 
+        "uri": "spotify:track:5Di7WT1rz8KYNCmfY3yWLV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5Di7WT1rz8KYNCmfY3yWLV", 
+        "artists": [
+          {
+            "name": "Thelonious Monk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+            }, 
+            "uri": "spotify:artist:4PDpGtF16XpqvXxsrFwQnN", 
+            "href": "https://api.spotify.com/v1/artists/4PDpGtF16XpqvXxsrFwQnN", 
+            "type": "artist", 
+            "id": "4PDpGtF16XpqvXxsrFwQnN"
+          }
+        ], 
+        "duration_ms": 326160, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "5Di7WT1rz8KYNCmfY3yWLV"
+      }, 
+      {
+        "linked_from": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/4H2njXrFG7Ol1AjYS7YTej"
+          }, 
+          "href": "https://api.spotify.com/v1/tracks/4H2njXrFG7Ol1AjYS7YTej", 
+          "type": "track", 
+          "id": "4H2njXrFG7Ol1AjYS7YTej", 
+          "uri": "spotify:track:4H2njXrFG7Ol1AjYS7YTej"
+        }, 
+        "name": "Bemsha Swing", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5xrar3YS0xnr8i2hCh14B2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/436096d0d525ca873a2f3c80384c1cff8f5ba974", 
+        "is_playable": true, 
+        "uri": "spotify:track:5xrar3YS0xnr8i2hCh14B2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5xrar3YS0xnr8i2hCh14B2", 
+        "artists": [
+          {
+            "name": "Thelonious Monk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+            }, 
+            "uri": "spotify:artist:4PDpGtF16XpqvXxsrFwQnN", 
+            "href": "https://api.spotify.com/v1/artists/4PDpGtF16XpqvXxsrFwQnN", 
+            "type": "artist", 
+            "id": "4PDpGtF16XpqvXxsrFwQnN"
+          }, 
+          {
+            "name": "Sonny Rollins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+            }, 
+            "uri": "spotify:artist:1VEzN9lxvG6KPR3QQGsebR", 
+            "href": "https://api.spotify.com/v1/artists/1VEzN9lxvG6KPR3QQGsebR", 
+            "type": "artist", 
+            "id": "1VEzN9lxvG6KPR3QQGsebR"
+          }, 
+          {
+            "name": "Clark Terry", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
+            }, 
+            "uri": "spotify:artist:62xdwGEOLoGQxKUqoJusyU", 
+            "href": "https://api.spotify.com/v1/artists/62xdwGEOLoGQxKUqoJusyU", 
+            "type": "artist", 
+            "id": "62xdwGEOLoGQxKUqoJusyU"
+          }
+        ], 
+        "duration_ms": 461000, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "5xrar3YS0xnr8i2hCh14B2"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/5gWF47eGSbv4BOfxoFcQtd/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 5, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/5gWF47eGSbv4BOfxoFcQtd", 
+  "copyrights": [
+    {
+      "text": "(C) 1987 Fantasy, Inc.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1987 Fantasy, Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Thelonious Monk", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+      }, 
+      "uri": "spotify:artist:4PDpGtF16XpqvXxsrFwQnN", 
+      "href": "https://api.spotify.com/v1/artists/4PDpGtF16XpqvXxsrFwQnN", 
+      "type": "artist", 
+      "id": "4PDpGtF16XpqvXxsrFwQnN"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/35a14baa40692385fb5b652b38aafcf44bac6f11", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/66be8b568a63bd39946e1ffc82fc9197c60113ca", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00025218602624"
+  }, 
+  "type": "album", 
+  "id": "5gWF47eGSbv4BOfxoFcQtd", 
+  "name": "Brilliant Corners"
+}

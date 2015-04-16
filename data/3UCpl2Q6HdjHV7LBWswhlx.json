@@ -1,0 +1,879 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3UCpl2Q6HdjHV7LBWswhlx"
+  }, 
+  "release_date": "2006-01-01", 
+  "popularity": 42, 
+  "genres": [], 
+  "uri": "spotify:album:3UCpl2Q6HdjHV7LBWswhlx", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Right In Time", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1CiihqacS9pOGDLgNJ7B7C"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/55404657bbd2e1be75dba8de5a85558bd5ca7d92", 
+        "is_playable": true, 
+        "uri": "spotify:track:1CiihqacS9pOGDLgNJ7B7C", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1CiihqacS9pOGDLgNJ7B7C", 
+        "artists": [
+          {
+            "name": "Lucinda Williams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+            }, 
+            "uri": "spotify:artist:60ht0hWRy1yjUDfNsLuHuP", 
+            "href": "https://api.spotify.com/v1/artists/60ht0hWRy1yjUDfNsLuHuP", 
+            "type": "artist", 
+            "id": "60ht0hWRy1yjUDfNsLuHuP"
+          }
+        ], 
+        "duration_ms": 276706, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "1CiihqacS9pOGDLgNJ7B7C"
+      }, 
+      {
+        "name": "Car Wheels On A Gravel Road", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3ajS1NGR7cYqrGM7h79hiy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0103dd6364553997ce53ec554fb3e94925d771d1", 
+        "is_playable": true, 
+        "uri": "spotify:track:3ajS1NGR7cYqrGM7h79hiy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3ajS1NGR7cYqrGM7h79hiy", 
+        "artists": [
+          {
+            "name": "Lucinda Williams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+            }, 
+            "uri": "spotify:artist:60ht0hWRy1yjUDfNsLuHuP", 
+            "href": "https://api.spotify.com/v1/artists/60ht0hWRy1yjUDfNsLuHuP", 
+            "type": "artist", 
+            "id": "60ht0hWRy1yjUDfNsLuHuP"
+          }
+        ], 
+        "duration_ms": 284600, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "3ajS1NGR7cYqrGM7h79hiy"
+      }, 
+      {
+        "name": "2 Kool 2 Be 4-Gotten", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3WPDh6N23tdrgiHTZocWSt"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/51cae2af2b7ed6eacb1c568ad9b6fba8ec3145a9", 
+        "is_playable": true, 
+        "uri": "spotify:track:3WPDh6N23tdrgiHTZocWSt", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3WPDh6N23tdrgiHTZocWSt", 
+        "artists": [
+          {
+            "name": "Lucinda Williams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+            }, 
+            "uri": "spotify:artist:60ht0hWRy1yjUDfNsLuHuP", 
+            "href": "https://api.spotify.com/v1/artists/60ht0hWRy1yjUDfNsLuHuP", 
+            "type": "artist", 
+            "id": "60ht0hWRy1yjUDfNsLuHuP"
+          }
+        ], 
+        "duration_ms": 282493, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "3WPDh6N23tdrgiHTZocWSt"
+      }, 
+      {
+        "name": "Drunken Angel", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0pqnO38P5GLheI87LIHi9p"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7b008fba00f77b6d28bf23d4334971e5084adee9", 
+        "is_playable": true, 
+        "uri": "spotify:track:0pqnO38P5GLheI87LIHi9p", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0pqnO38P5GLheI87LIHi9p", 
+        "artists": [
+          {
+            "name": "Lucinda Williams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+            }, 
+            "uri": "spotify:artist:60ht0hWRy1yjUDfNsLuHuP", 
+            "href": "https://api.spotify.com/v1/artists/60ht0hWRy1yjUDfNsLuHuP", 
+            "type": "artist", 
+            "id": "60ht0hWRy1yjUDfNsLuHuP"
+          }
+        ], 
+        "duration_ms": 199893, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "0pqnO38P5GLheI87LIHi9p"
+      }, 
+      {
+        "name": "Concrete And Barbed Wire", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5LlhytkT1NBopXydPIjBi8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/efdd53c4a375f0b1b60bfa65bdb38175e07c01c3", 
+        "is_playable": true, 
+        "uri": "spotify:track:5LlhytkT1NBopXydPIjBi8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5LlhytkT1NBopXydPIjBi8", 
+        "artists": [
+          {
+            "name": "Lucinda Williams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+            }, 
+            "uri": "spotify:artist:60ht0hWRy1yjUDfNsLuHuP", 
+            "href": "https://api.spotify.com/v1/artists/60ht0hWRy1yjUDfNsLuHuP", 
+            "type": "artist", 
+            "id": "60ht0hWRy1yjUDfNsLuHuP"
+          }
+        ], 
+        "duration_ms": 188826, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "5LlhytkT1NBopXydPIjBi8"
+      }, 
+      {
+        "name": "Lake Charles", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2vtPAovkmkMDPvoU39SMke"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/809da3dd0d011808d35d3eb81051027d74aeef26", 
+        "is_playable": true, 
+        "uri": "spotify:track:2vtPAovkmkMDPvoU39SMke", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2vtPAovkmkMDPvoU39SMke", 
+        "artists": [
+          {
+            "name": "Lucinda Williams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+            }, 
+            "uri": "spotify:artist:60ht0hWRy1yjUDfNsLuHuP", 
+            "href": "https://api.spotify.com/v1/artists/60ht0hWRy1yjUDfNsLuHuP", 
+            "type": "artist", 
+            "id": "60ht0hWRy1yjUDfNsLuHuP"
+          }
+        ], 
+        "duration_ms": 327826, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "2vtPAovkmkMDPvoU39SMke"
+      }, 
+      {
+        "name": "Can't Let Go", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3dHxUtTiR8FvNsoLvSx1qN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5d18c5906cab0de4d6b180fbff8bdc20cf2af4d6", 
+        "is_playable": true, 
+        "uri": "spotify:track:3dHxUtTiR8FvNsoLvSx1qN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3dHxUtTiR8FvNsoLvSx1qN", 
+        "artists": [
+          {
+            "name": "Lucinda Williams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+            }, 
+            "uri": "spotify:artist:60ht0hWRy1yjUDfNsLuHuP", 
+            "href": "https://api.spotify.com/v1/artists/60ht0hWRy1yjUDfNsLuHuP", 
+            "type": "artist", 
+            "id": "60ht0hWRy1yjUDfNsLuHuP"
+          }
+        ], 
+        "duration_ms": 208453, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "3dHxUtTiR8FvNsoLvSx1qN"
+      }, 
+      {
+        "name": "I Lost It", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4mi4L8LrRv2o7qx405WvlJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9bc487c21f78b24858b105337f1dbe199f1c8fdf", 
+        "is_playable": true, 
+        "uri": "spotify:track:4mi4L8LrRv2o7qx405WvlJ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4mi4L8LrRv2o7qx405WvlJ", 
+        "artists": [
+          {
+            "name": "Lucinda Williams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+            }, 
+            "uri": "spotify:artist:60ht0hWRy1yjUDfNsLuHuP", 
+            "href": "https://api.spotify.com/v1/artists/60ht0hWRy1yjUDfNsLuHuP", 
+            "type": "artist", 
+            "id": "60ht0hWRy1yjUDfNsLuHuP"
+          }
+        ], 
+        "duration_ms": 211506, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "4mi4L8LrRv2o7qx405WvlJ"
+      }, 
+      {
+        "name": "Metal Firecracker", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/212ZvEv0704B6q8nEXbWUf"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ca4e83c3fdd876eac7f023401799b5b02ef48c93", 
+        "is_playable": true, 
+        "uri": "spotify:track:212ZvEv0704B6q8nEXbWUf", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/212ZvEv0704B6q8nEXbWUf", 
+        "artists": [
+          {
+            "name": "Lucinda Williams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+            }, 
+            "uri": "spotify:artist:60ht0hWRy1yjUDfNsLuHuP", 
+            "href": "https://api.spotify.com/v1/artists/60ht0hWRy1yjUDfNsLuHuP", 
+            "type": "artist", 
+            "id": "60ht0hWRy1yjUDfNsLuHuP"
+          }
+        ], 
+        "duration_ms": 209653, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "212ZvEv0704B6q8nEXbWUf"
+      }, 
+      {
+        "name": "Greenville", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/29OXjzhcvErkIwb9aUit4F"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/97586b06852d849f3138ae5b1025a4bd0b4e21ff", 
+        "is_playable": true, 
+        "uri": "spotify:track:29OXjzhcvErkIwb9aUit4F", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/29OXjzhcvErkIwb9aUit4F", 
+        "artists": [
+          {
+            "name": "Lucinda Williams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+            }, 
+            "uri": "spotify:artist:60ht0hWRy1yjUDfNsLuHuP", 
+            "href": "https://api.spotify.com/v1/artists/60ht0hWRy1yjUDfNsLuHuP", 
+            "type": "artist", 
+            "id": "60ht0hWRy1yjUDfNsLuHuP"
+          }
+        ], 
+        "duration_ms": 203786, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "29OXjzhcvErkIwb9aUit4F"
+      }, 
+      {
+        "name": "Still I Long For Your Kiss", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6tmZm3MlW6l76EcaOAkx8z"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b9d6cc8198010ba69164b00a08e487d952d07c03", 
+        "is_playable": true, 
+        "uri": "spotify:track:6tmZm3MlW6l76EcaOAkx8z", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6tmZm3MlW6l76EcaOAkx8z", 
+        "artists": [
+          {
+            "name": "Lucinda Williams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+            }, 
+            "uri": "spotify:artist:60ht0hWRy1yjUDfNsLuHuP", 
+            "href": "https://api.spotify.com/v1/artists/60ht0hWRy1yjUDfNsLuHuP", 
+            "type": "artist", 
+            "id": "60ht0hWRy1yjUDfNsLuHuP"
+          }
+        ], 
+        "duration_ms": 249346, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "6tmZm3MlW6l76EcaOAkx8z"
+      }, 
+      {
+        "name": "Joy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/65jEyoY9s3qqcpIb6mFBYM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/915cb1c05c3ee26fe71742084ffd1b0404ec6bf6", 
+        "is_playable": true, 
+        "uri": "spotify:track:65jEyoY9s3qqcpIb6mFBYM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/65jEyoY9s3qqcpIb6mFBYM", 
+        "artists": [
+          {
+            "name": "Lucinda Williams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+            }, 
+            "uri": "spotify:artist:60ht0hWRy1yjUDfNsLuHuP", 
+            "href": "https://api.spotify.com/v1/artists/60ht0hWRy1yjUDfNsLuHuP", 
+            "type": "artist", 
+            "id": "60ht0hWRy1yjUDfNsLuHuP"
+          }
+        ], 
+        "duration_ms": 241053, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "65jEyoY9s3qqcpIb6mFBYM"
+      }, 
+      {
+        "name": "Jackson", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0CNDVxCspTqonw2DVWITi6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b90a6fab6c06a43e446758a39e66784e35fbe962", 
+        "is_playable": true, 
+        "uri": "spotify:track:0CNDVxCspTqonw2DVWITi6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0CNDVxCspTqonw2DVWITi6", 
+        "artists": [
+          {
+            "name": "Lucinda Williams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+            }, 
+            "uri": "spotify:artist:60ht0hWRy1yjUDfNsLuHuP", 
+            "href": "https://api.spotify.com/v1/artists/60ht0hWRy1yjUDfNsLuHuP", 
+            "type": "artist", 
+            "id": "60ht0hWRy1yjUDfNsLuHuP"
+          }
+        ], 
+        "duration_ms": 222240, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "0CNDVxCspTqonw2DVWITi6"
+      }, 
+      {
+        "name": "Down The Big Road Blues", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0t8xFmGmv8Q1cbwNiCAhr0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3c3a7683b8cd22c6927a5377bad6af9c970fbe0e", 
+        "is_playable": true, 
+        "uri": "spotify:track:0t8xFmGmv8Q1cbwNiCAhr0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0t8xFmGmv8Q1cbwNiCAhr0", 
+        "artists": [
+          {
+            "name": "Lucinda Williams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+            }, 
+            "uri": "spotify:artist:60ht0hWRy1yjUDfNsLuHuP", 
+            "href": "https://api.spotify.com/v1/artists/60ht0hWRy1yjUDfNsLuHuP", 
+            "type": "artist", 
+            "id": "60ht0hWRy1yjUDfNsLuHuP"
+          }
+        ], 
+        "duration_ms": 247426, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "0t8xFmGmv8Q1cbwNiCAhr0"
+      }, 
+      {
+        "name": "Out Of Touch", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6k70qvhtYpzlg5RuNgKqGP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/54fd9df2c94c5d57b89161629e2b05d0abc7b0cd", 
+        "is_playable": true, 
+        "uri": "spotify:track:6k70qvhtYpzlg5RuNgKqGP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6k70qvhtYpzlg5RuNgKqGP", 
+        "artists": [
+          {
+            "name": "Lucinda Williams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+            }, 
+            "uri": "spotify:artist:60ht0hWRy1yjUDfNsLuHuP", 
+            "href": "https://api.spotify.com/v1/artists/60ht0hWRy1yjUDfNsLuHuP", 
+            "type": "artist", 
+            "id": "60ht0hWRy1yjUDfNsLuHuP"
+          }
+        ], 
+        "duration_ms": 229720, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "6k70qvhtYpzlg5RuNgKqGP"
+      }, 
+      {
+        "name": "Still I Long For Your Kiss - Alternate Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Xx1rbYQMsggJnFlHL9hCe"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/df29234af307a22618f1c1e3255d721d7351e824", 
+        "is_playable": true, 
+        "uri": "spotify:track:4Xx1rbYQMsggJnFlHL9hCe", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4Xx1rbYQMsggJnFlHL9hCe", 
+        "artists": [
+          {
+            "name": "Lucinda Williams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+            }, 
+            "uri": "spotify:artist:60ht0hWRy1yjUDfNsLuHuP", 
+            "href": "https://api.spotify.com/v1/artists/60ht0hWRy1yjUDfNsLuHuP", 
+            "type": "artist", 
+            "id": "60ht0hWRy1yjUDfNsLuHuP"
+          }
+        ], 
+        "duration_ms": 304786, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "4Xx1rbYQMsggJnFlHL9hCe"
+      }, 
+      {
+        "name": "Pineola - WXPN Live At The World Caf\u00e9", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3XEoi97W5Y0Ifq3zaLbhDQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b43f145366519dcb97360df0d615e63b9c96afca", 
+        "is_playable": true, 
+        "uri": "spotify:track:3XEoi97W5Y0Ifq3zaLbhDQ", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/3XEoi97W5Y0Ifq3zaLbhDQ", 
+        "artists": [
+          {
+            "name": "Lucinda Williams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+            }, 
+            "uri": "spotify:artist:60ht0hWRy1yjUDfNsLuHuP", 
+            "href": "https://api.spotify.com/v1/artists/60ht0hWRy1yjUDfNsLuHuP", 
+            "type": "artist", 
+            "id": "60ht0hWRy1yjUDfNsLuHuP"
+          }
+        ], 
+        "duration_ms": 258360, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "3XEoi97W5Y0Ifq3zaLbhDQ"
+      }, 
+      {
+        "name": "Something About What Happens When We Talk - WXPN Live At The World Caf\u00e9", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/71tOvDVlFOCpti3Fudrbe2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/48ed0bbcb8100ba05b9e57f4667d9bd3047b55f0", 
+        "is_playable": true, 
+        "uri": "spotify:track:71tOvDVlFOCpti3Fudrbe2", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/71tOvDVlFOCpti3Fudrbe2", 
+        "artists": [
+          {
+            "name": "Lucinda Williams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+            }, 
+            "uri": "spotify:artist:60ht0hWRy1yjUDfNsLuHuP", 
+            "href": "https://api.spotify.com/v1/artists/60ht0hWRy1yjUDfNsLuHuP", 
+            "type": "artist", 
+            "id": "60ht0hWRy1yjUDfNsLuHuP"
+          }
+        ], 
+        "duration_ms": 224280, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "71tOvDVlFOCpti3Fudrbe2"
+      }, 
+      {
+        "name": "Car Wheels On A Gravel Road - WXPN Live At The World Caf\u00e9", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3tKT14ZZyzItQL19z59r5Y"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/86a7905afc764af80e31c10f2e72aa3be9fcc25a", 
+        "is_playable": true, 
+        "uri": "spotify:track:3tKT14ZZyzItQL19z59r5Y", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/3tKT14ZZyzItQL19z59r5Y", 
+        "artists": [
+          {
+            "name": "Lucinda Williams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+            }, 
+            "uri": "spotify:artist:60ht0hWRy1yjUDfNsLuHuP", 
+            "href": "https://api.spotify.com/v1/artists/60ht0hWRy1yjUDfNsLuHuP", 
+            "type": "artist", 
+            "id": "60ht0hWRy1yjUDfNsLuHuP"
+          }
+        ], 
+        "duration_ms": 282613, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "3tKT14ZZyzItQL19z59r5Y"
+      }, 
+      {
+        "name": "Metal Firecracker - WXPN Live At The World Caf\u00e9", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2gztuAB0KPdvascdmhpBtN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e288cb9d11527920d033a0b737137b45df53423e", 
+        "is_playable": true, 
+        "uri": "spotify:track:2gztuAB0KPdvascdmhpBtN", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/2gztuAB0KPdvascdmhpBtN", 
+        "artists": [
+          {
+            "name": "Lucinda Williams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+            }, 
+            "uri": "spotify:artist:60ht0hWRy1yjUDfNsLuHuP", 
+            "href": "https://api.spotify.com/v1/artists/60ht0hWRy1yjUDfNsLuHuP", 
+            "type": "artist", 
+            "id": "60ht0hWRy1yjUDfNsLuHuP"
+          }
+        ], 
+        "duration_ms": 219573, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "2gztuAB0KPdvascdmhpBtN"
+      }, 
+      {
+        "name": "Right In Time - WXPN Live At The World Caf\u00e9", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0jj4pi904eN42Q8ndRbBxP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/47c30406c108979d38301c29d9bdd449f4039963", 
+        "is_playable": true, 
+        "uri": "spotify:track:0jj4pi904eN42Q8ndRbBxP", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/0jj4pi904eN42Q8ndRbBxP", 
+        "artists": [
+          {
+            "name": "Lucinda Williams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+            }, 
+            "uri": "spotify:artist:60ht0hWRy1yjUDfNsLuHuP", 
+            "href": "https://api.spotify.com/v1/artists/60ht0hWRy1yjUDfNsLuHuP", 
+            "type": "artist", 
+            "id": "60ht0hWRy1yjUDfNsLuHuP"
+          }
+        ], 
+        "duration_ms": 272893, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "0jj4pi904eN42Q8ndRbBxP"
+      }, 
+      {
+        "name": "Drunken Angel - WXPN Live At The World Caf\u00e9 - W/out Audience", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/21FTczgowhKdPrVMVSvlOu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2656facb941951e6d63a28f5f7c8d202a767f843", 
+        "is_playable": true, 
+        "uri": "spotify:track:21FTczgowhKdPrVMVSvlOu", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/21FTczgowhKdPrVMVSvlOu", 
+        "artists": [
+          {
+            "name": "Lucinda Williams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+            }, 
+            "uri": "spotify:artist:60ht0hWRy1yjUDfNsLuHuP", 
+            "href": "https://api.spotify.com/v1/artists/60ht0hWRy1yjUDfNsLuHuP", 
+            "type": "artist", 
+            "id": "60ht0hWRy1yjUDfNsLuHuP"
+          }
+        ], 
+        "duration_ms": 207693, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "21FTczgowhKdPrVMVSvlOu"
+      }, 
+      {
+        "name": "Greenville - WXPN Live At The World Caf\u00e9", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2I5ysSQtVpxe1jMRSYbEob"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bb41209699dd2a9db4a9c032b91ee8f5181a3ce7", 
+        "is_playable": true, 
+        "uri": "spotify:track:2I5ysSQtVpxe1jMRSYbEob", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/2I5ysSQtVpxe1jMRSYbEob", 
+        "artists": [
+          {
+            "name": "Lucinda Williams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+            }, 
+            "uri": "spotify:artist:60ht0hWRy1yjUDfNsLuHuP", 
+            "href": "https://api.spotify.com/v1/artists/60ht0hWRy1yjUDfNsLuHuP", 
+            "type": "artist", 
+            "id": "60ht0hWRy1yjUDfNsLuHuP"
+          }
+        ], 
+        "duration_ms": 226800, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "2I5ysSQtVpxe1jMRSYbEob"
+      }, 
+      {
+        "name": "Still I Long For Your Kiss - WXPN Live At The World Caf\u00e9", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6f6wR0Cn8xQZtDRjitMBdJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f0ed8ef5233824736e671b48f9175556040795b3", 
+        "is_playable": true, 
+        "uri": "spotify:track:6f6wR0Cn8xQZtDRjitMBdJ", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6f6wR0Cn8xQZtDRjitMBdJ", 
+        "artists": [
+          {
+            "name": "Lucinda Williams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+            }, 
+            "uri": "spotify:artist:60ht0hWRy1yjUDfNsLuHuP", 
+            "href": "https://api.spotify.com/v1/artists/60ht0hWRy1yjUDfNsLuHuP", 
+            "type": "artist", 
+            "id": "60ht0hWRy1yjUDfNsLuHuP"
+          }
+        ], 
+        "duration_ms": 279533, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "6f6wR0Cn8xQZtDRjitMBdJ"
+      }, 
+      {
+        "name": "2 Kool 2 Be 4-Gotten - WXPN Live At The World Caf\u00e9", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0ol6ZmKw89mDKMnrLSOGZq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f0fcbb790a8342e53493395dc0cb501cf4ebddc8", 
+        "is_playable": true, 
+        "uri": "spotify:track:0ol6ZmKw89mDKMnrLSOGZq", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/0ol6ZmKw89mDKMnrLSOGZq", 
+        "artists": [
+          {
+            "name": "Lucinda Williams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+            }, 
+            "uri": "spotify:artist:60ht0hWRy1yjUDfNsLuHuP", 
+            "href": "https://api.spotify.com/v1/artists/60ht0hWRy1yjUDfNsLuHuP", 
+            "type": "artist", 
+            "id": "60ht0hWRy1yjUDfNsLuHuP"
+          }
+        ], 
+        "duration_ms": 293493, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "0ol6ZmKw89mDKMnrLSOGZq"
+      }, 
+      {
+        "name": "Can't Let Go - WXPN Live At The World Caf\u00e9 - W/out Audience", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4eo98qvo5JfNS1xUXkr7nE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3ca8e21a9d860a1e84d238a9ebf23b2afd13b19f", 
+        "is_playable": true, 
+        "uri": "spotify:track:4eo98qvo5JfNS1xUXkr7nE", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4eo98qvo5JfNS1xUXkr7nE", 
+        "artists": [
+          {
+            "name": "Lucinda Williams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+            }, 
+            "uri": "spotify:artist:60ht0hWRy1yjUDfNsLuHuP", 
+            "href": "https://api.spotify.com/v1/artists/60ht0hWRy1yjUDfNsLuHuP", 
+            "type": "artist", 
+            "id": "60ht0hWRy1yjUDfNsLuHuP"
+          }
+        ], 
+        "duration_ms": 231026, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "4eo98qvo5JfNS1xUXkr7nE"
+      }, 
+      {
+        "name": "Hot Blood - WXPN Live At The World Caf\u00e9", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2plDPXAYixfXFgTgio2jzV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/40ddd2bc591e4ae7da1dfe38b6c122b61cae872d", 
+        "is_playable": true, 
+        "uri": "spotify:track:2plDPXAYixfXFgTgio2jzV", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/2plDPXAYixfXFgTgio2jzV", 
+        "artists": [
+          {
+            "name": "Lucinda Williams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+            }, 
+            "uri": "spotify:artist:60ht0hWRy1yjUDfNsLuHuP", 
+            "href": "https://api.spotify.com/v1/artists/60ht0hWRy1yjUDfNsLuHuP", 
+            "type": "artist", 
+            "id": "60ht0hWRy1yjUDfNsLuHuP"
+          }
+        ], 
+        "duration_ms": 458786, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "2plDPXAYixfXFgTgio2jzV"
+      }, 
+      {
+        "name": "Changed The Locks - WXPN Live At The World Caf\u00e9", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/57n4oW2VjUeU3G4cQmgOUq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/70871db2c2a3325e4ae55a9bd098b0acbadd424c", 
+        "is_playable": true, 
+        "uri": "spotify:track:57n4oW2VjUeU3G4cQmgOUq", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/57n4oW2VjUeU3G4cQmgOUq", 
+        "artists": [
+          {
+            "name": "Lucinda Williams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+            }, 
+            "uri": "spotify:artist:60ht0hWRy1yjUDfNsLuHuP", 
+            "href": "https://api.spotify.com/v1/artists/60ht0hWRy1yjUDfNsLuHuP", 
+            "type": "artist", 
+            "id": "60ht0hWRy1yjUDfNsLuHuP"
+          }
+        ], 
+        "duration_ms": 259493, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "57n4oW2VjUeU3G4cQmgOUq"
+      }, 
+      {
+        "name": "Joy - WXPN Live At The World Caf\u00e9", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0e8z364i0jEkL6DXOEWRmF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/39d55d6fea8010b38ec7f4312f049f452a0567ff", 
+        "is_playable": true, 
+        "uri": "spotify:track:0e8z364i0jEkL6DXOEWRmF", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/0e8z364i0jEkL6DXOEWRmF", 
+        "artists": [
+          {
+            "name": "Lucinda Williams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+            }, 
+            "uri": "spotify:artist:60ht0hWRy1yjUDfNsLuHuP", 
+            "href": "https://api.spotify.com/v1/artists/60ht0hWRy1yjUDfNsLuHuP", 
+            "type": "artist", 
+            "id": "60ht0hWRy1yjUDfNsLuHuP"
+          }
+        ], 
+        "duration_ms": 368080, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "0e8z364i0jEkL6DXOEWRmF"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/3UCpl2Q6HdjHV7LBWswhlx/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 29, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/3UCpl2Q6HdjHV7LBWswhlx", 
+  "copyrights": [
+    {
+      "text": "(C) 2006 The Island Def Jam Music Group", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 2006 The Island Def Jam Music Group", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Lucinda Williams", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+      }, 
+      "uri": "spotify:artist:60ht0hWRy1yjUDfNsLuHuP", 
+      "href": "https://api.spotify.com/v1/artists/60ht0hWRy1yjUDfNsLuHuP", 
+      "type": "artist", 
+      "id": "60ht0hWRy1yjUDfNsLuHuP"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/63d7299a72e92ff07612b2a79468b12a0327674d", 
+      "width": 640, 
+      "height": 578
+    }, 
+    {
+      "url": "https://i.scdn.co/image/2e029af1e7cd22301b356d6d7264cc6f71c68ec8", 
+      "width": 300, 
+      "height": 271
+    }, 
+    {
+      "url": "https://i.scdn.co/image/aeaad38e1eda3723c2c7fd1df5fa5697fd73e8d4", 
+      "width": 64, 
+      "height": 58
+    }
+  ], 
+  "external_ids": {
+    "upc": "00602517045347"
+  }, 
+  "type": "album", 
+  "id": "3UCpl2Q6HdjHV7LBWswhlx", 
+  "name": "Car Wheels On A Gravel Road (Deluxe Edition)"
+}

@@ -1,0 +1,455 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1p12OAWwudgMqfMzjMvl2a"
+  }, 
+  "release_date": "1991-09-24", 
+  "popularity": 64, 
+  "genres": [], 
+  "uri": "spotify:album:1p12OAWwudgMqfMzjMvl2a", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Excursions", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4tEaytMs86hIaOSsiGoLcP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b7c159a9d951a3d94ce4e491ef3b24a271c3dfe9", 
+        "is_playable": true, 
+        "uri": "spotify:track:4tEaytMs86hIaOSsiGoLcP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4tEaytMs86hIaOSsiGoLcP", 
+        "artists": [
+          {
+            "name": "A Tribe Called Quest", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+            }, 
+            "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa", 
+            "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa", 
+            "type": "artist", 
+            "id": "09hVIj6vWgoCDtT03h8ZCa"
+          }
+        ], 
+        "duration_ms": 234626, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "4tEaytMs86hIaOSsiGoLcP"
+      }, 
+      {
+        "name": "Buggin' Out", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6GAemDMWAXa8wZOBkO1gar"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8d6aec40cd7506e608295251ee7e13624739ed93", 
+        "is_playable": true, 
+        "uri": "spotify:track:6GAemDMWAXa8wZOBkO1gar", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6GAemDMWAXa8wZOBkO1gar", 
+        "artists": [
+          {
+            "name": "A Tribe Called Quest", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+            }, 
+            "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa", 
+            "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa", 
+            "type": "artist", 
+            "id": "09hVIj6vWgoCDtT03h8ZCa"
+          }
+        ], 
+        "duration_ms": 217466, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "6GAemDMWAXa8wZOBkO1gar"
+      }, 
+      {
+        "name": "Rap Promoter", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6CCIqr8xROr3jTnXf4GI3B"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/540b1a46339695aa4538b2f9efdebdac59fd9bef", 
+        "is_playable": true, 
+        "uri": "spotify:track:6CCIqr8xROr3jTnXf4GI3B", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6CCIqr8xROr3jTnXf4GI3B", 
+        "artists": [
+          {
+            "name": "A Tribe Called Quest", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+            }, 
+            "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa", 
+            "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa", 
+            "type": "artist", 
+            "id": "09hVIj6vWgoCDtT03h8ZCa"
+          }
+        ], 
+        "duration_ms": 133000, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "6CCIqr8xROr3jTnXf4GI3B"
+      }, 
+      {
+        "name": "Butter", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/758mQT4zzlvBhy9PvNePwC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c9e8e8689386bd13a9f12b61643d97a47acb1a40", 
+        "is_playable": true, 
+        "uri": "spotify:track:758mQT4zzlvBhy9PvNePwC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/758mQT4zzlvBhy9PvNePwC", 
+        "artists": [
+          {
+            "name": "A Tribe Called Quest", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+            }, 
+            "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa", 
+            "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa", 
+            "type": "artist", 
+            "id": "09hVIj6vWgoCDtT03h8ZCa"
+          }
+        ], 
+        "duration_ms": 218773, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "758mQT4zzlvBhy9PvNePwC"
+      }, 
+      {
+        "name": "Verses from the Abstract", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6zrsmzrMoxNkXEQLubCWtA"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/28c2cb4461a7b41096dfaac940f209ec94aa8ae3", 
+        "is_playable": true, 
+        "uri": "spotify:track:6zrsmzrMoxNkXEQLubCWtA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6zrsmzrMoxNkXEQLubCWtA", 
+        "artists": [
+          {
+            "name": "A Tribe Called Quest", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+            }, 
+            "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa", 
+            "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa", 
+            "type": "artist", 
+            "id": "09hVIj6vWgoCDtT03h8ZCa"
+          }
+        ], 
+        "duration_ms": 238893, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "6zrsmzrMoxNkXEQLubCWtA"
+      }, 
+      {
+        "name": "Show Business", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2wS1PObRyCywHdmog5eOWW"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5d5c2d3b506680f9e9b491b3724e9beef2338177", 
+        "is_playable": true, 
+        "uri": "spotify:track:2wS1PObRyCywHdmog5eOWW", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2wS1PObRyCywHdmog5eOWW", 
+        "artists": [
+          {
+            "name": "A Tribe Called Quest", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+            }, 
+            "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa", 
+            "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa", 
+            "type": "artist", 
+            "id": "09hVIj6vWgoCDtT03h8ZCa"
+          }
+        ], 
+        "duration_ms": 233440, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "2wS1PObRyCywHdmog5eOWW"
+      }, 
+      {
+        "name": "Vibes and Stuff", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4MdEYuoGhG2RTG3erOiu2H"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8c26c0377b7e2d6ebf8840ccd425fed7ca12c480", 
+        "is_playable": true, 
+        "uri": "spotify:track:4MdEYuoGhG2RTG3erOiu2H", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4MdEYuoGhG2RTG3erOiu2H", 
+        "artists": [
+          {
+            "name": "A Tribe Called Quest", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+            }, 
+            "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa", 
+            "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa", 
+            "type": "artist", 
+            "id": "09hVIj6vWgoCDtT03h8ZCa"
+          }
+        ], 
+        "duration_ms": 257826, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "4MdEYuoGhG2RTG3erOiu2H"
+      }, 
+      {
+        "name": "Infamous Date Rape", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4hozY0uWh4hxvH2mP6EmSL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/01c79d95a4c242a1d776b7c2337879294358d7c2", 
+        "is_playable": true, 
+        "uri": "spotify:track:4hozY0uWh4hxvH2mP6EmSL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4hozY0uWh4hxvH2mP6EmSL", 
+        "artists": [
+          {
+            "name": "A Tribe Called Quest", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+            }, 
+            "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa", 
+            "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa", 
+            "type": "artist", 
+            "id": "09hVIj6vWgoCDtT03h8ZCa"
+          }
+        ], 
+        "duration_ms": 173573, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "4hozY0uWh4hxvH2mP6EmSL"
+      }, 
+      {
+        "name": "Check the Rhime", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4HfxDJ0uLHTLe0fZrx0MbQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ba58b7cb4aefb3a731d934d1c0b9729aa25487f5", 
+        "is_playable": true, 
+        "uri": "spotify:track:4HfxDJ0uLHTLe0fZrx0MbQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4HfxDJ0uLHTLe0fZrx0MbQ", 
+        "artists": [
+          {
+            "name": "A Tribe Called Quest", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+            }, 
+            "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa", 
+            "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa", 
+            "type": "artist", 
+            "id": "09hVIj6vWgoCDtT03h8ZCa"
+          }
+        ], 
+        "duration_ms": 216693, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "4HfxDJ0uLHTLe0fZrx0MbQ"
+      }, 
+      {
+        "name": "Everything Is Fair", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/33d7n0d2Ou4wQ5AcLrLTav"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3e8489905c1e36035238d218dcae54fd266386e6", 
+        "is_playable": true, 
+        "uri": "spotify:track:33d7n0d2Ou4wQ5AcLrLTav", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/33d7n0d2Ou4wQ5AcLrLTav", 
+        "artists": [
+          {
+            "name": "A Tribe Called Quest", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+            }, 
+            "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa", 
+            "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa", 
+            "type": "artist", 
+            "id": "09hVIj6vWgoCDtT03h8ZCa"
+          }
+        ], 
+        "duration_ms": 178333, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "33d7n0d2Ou4wQ5AcLrLTav"
+      }, 
+      {
+        "name": "Jazz (We've Got)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7AgMX97ljLm9BzszyyXEYZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0c061ea50250bd04d710d871e1bb8c7864f03ff7", 
+        "is_playable": true, 
+        "uri": "spotify:track:7AgMX97ljLm9BzszyyXEYZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7AgMX97ljLm9BzszyyXEYZ", 
+        "artists": [
+          {
+            "name": "A Tribe Called Quest", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+            }, 
+            "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa", 
+            "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa", 
+            "type": "artist", 
+            "id": "09hVIj6vWgoCDtT03h8ZCa"
+          }
+        ], 
+        "duration_ms": 250240, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "7AgMX97ljLm9BzszyyXEYZ"
+      }, 
+      {
+        "name": "Skypager", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1ora7jNRx7tv7yjANfGu1u"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b439061e26432d260be8b05532451f5d4a4ee857", 
+        "is_playable": true, 
+        "uri": "spotify:track:1ora7jNRx7tv7yjANfGu1u", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1ora7jNRx7tv7yjANfGu1u", 
+        "artists": [
+          {
+            "name": "A Tribe Called Quest", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+            }, 
+            "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa", 
+            "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa", 
+            "type": "artist", 
+            "id": "09hVIj6vWgoCDtT03h8ZCa"
+          }
+        ], 
+        "duration_ms": 132226, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "1ora7jNRx7tv7yjANfGu1u"
+      }, 
+      {
+        "name": "What?", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2ZCwz8omYluRWa9QyznFAy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/034b7dd9a1a13081817815270f9beb64998b51c6", 
+        "is_playable": true, 
+        "uri": "spotify:track:2ZCwz8omYluRWa9QyznFAy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2ZCwz8omYluRWa9QyznFAy", 
+        "artists": [
+          {
+            "name": "A Tribe Called Quest", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+            }, 
+            "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa", 
+            "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa", 
+            "type": "artist", 
+            "id": "09hVIj6vWgoCDtT03h8ZCa"
+          }
+        ], 
+        "duration_ms": 148706, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "2ZCwz8omYluRWa9QyznFAy"
+      }, 
+      {
+        "name": "Scenario - LP Mix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0301nLjG0ti26rx5ZmfqtP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c08b8db8612f8f67abbaad85370b5ad89484306d", 
+        "is_playable": true, 
+        "uri": "spotify:track:0301nLjG0ti26rx5ZmfqtP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0301nLjG0ti26rx5ZmfqtP", 
+        "artists": [
+          {
+            "name": "A Tribe Called Quest", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+            }, 
+            "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa", 
+            "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa", 
+            "type": "artist", 
+            "id": "09hVIj6vWgoCDtT03h8ZCa"
+          }
+        ], 
+        "duration_ms": 250133, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "0301nLjG0ti26rx5ZmfqtP"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/1p12OAWwudgMqfMzjMvl2a/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 14, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/1p12OAWwudgMqfMzjMvl2a", 
+  "copyrights": [
+    {
+      "text": "(P) 1991 Zomba Recording LLC", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "A Tribe Called Quest", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+      }, 
+      "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa", 
+      "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa", 
+      "type": "artist", 
+      "id": "09hVIj6vWgoCDtT03h8ZCa"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/e2ec84a0b68bc50ae1c8366e9ea00c91f4a39c17", 
+      "width": 640, 
+      "height": 637
+    }, 
+    {
+      "url": "https://i.scdn.co/image/b6b9740d104cf31a9c2cd30be1374167f2e4179b", 
+      "width": 300, 
+      "height": 299
+    }, 
+    {
+      "url": "https://i.scdn.co/image/98fc865cc040c67db070be611ecb01060bec0444", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "012414141828"
+  }, 
+  "type": "album", 
+  "id": "1p12OAWwudgMqfMzjMvl2a", 
+  "name": "The Low End Theory"
+}

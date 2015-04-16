@@ -1,0 +1,571 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
+  }, 
+  "release_date": "1998", 
+  "popularity": 54, 
+  "genres": [], 
+  "uri": "spotify:album:1vWnB0hYmluskQuzxwo25a", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Wildlife Analysis", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1H4Eiavp6smYJDIYQmo0vb"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/68007d72d8d20d23e98426a230d2450eca164584", 
+        "is_playable": true, 
+        "uri": "spotify:track:1H4Eiavp6smYJDIYQmo0vb", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1H4Eiavp6smYJDIYQmo0vb", 
+        "artists": [
+          {
+            "name": "Boards of Canada", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+            }, 
+            "uri": "spotify:artist:2VAvhf61GgLYmC6C8anyX1", 
+            "href": "https://api.spotify.com/v1/artists/2VAvhf61GgLYmC6C8anyX1", 
+            "type": "artist", 
+            "id": "2VAvhf61GgLYmC6C8anyX1"
+          }
+        ], 
+        "duration_ms": 75626, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "1H4Eiavp6smYJDIYQmo0vb"
+      }, 
+      {
+        "name": "An Eagle In Your Mind", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/03zv0Znm7bA7XzWMZ1lEKO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/927ba126ef8525817abbb53cd94c2a9b554f5d57", 
+        "is_playable": true, 
+        "uri": "spotify:track:03zv0Znm7bA7XzWMZ1lEKO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/03zv0Znm7bA7XzWMZ1lEKO", 
+        "artists": [
+          {
+            "name": "Boards of Canada", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+            }, 
+            "uri": "spotify:artist:2VAvhf61GgLYmC6C8anyX1", 
+            "href": "https://api.spotify.com/v1/artists/2VAvhf61GgLYmC6C8anyX1", 
+            "type": "artist", 
+            "id": "2VAvhf61GgLYmC6C8anyX1"
+          }
+        ], 
+        "duration_ms": 385520, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "03zv0Znm7bA7XzWMZ1lEKO"
+      }, 
+      {
+        "name": "The Color Of The Fire", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5dm5vtne8lx8BPrVamK6S1"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/19fcceab22c20e423066d62ddfe1fdf763129db7", 
+        "is_playable": true, 
+        "uri": "spotify:track:5dm5vtne8lx8BPrVamK6S1", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5dm5vtne8lx8BPrVamK6S1", 
+        "artists": [
+          {
+            "name": "Boards of Canada", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+            }, 
+            "uri": "spotify:artist:2VAvhf61GgLYmC6C8anyX1", 
+            "href": "https://api.spotify.com/v1/artists/2VAvhf61GgLYmC6C8anyX1", 
+            "type": "artist", 
+            "id": "2VAvhf61GgLYmC6C8anyX1"
+          }
+        ], 
+        "duration_ms": 105626, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "5dm5vtne8lx8BPrVamK6S1"
+      }, 
+      {
+        "name": "Telephasic Workshop", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5B5nloaA2UpNrjweosqVe3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/942deb34726095b5cb972f67d9119abf8f23c4bd", 
+        "is_playable": true, 
+        "uri": "spotify:track:5B5nloaA2UpNrjweosqVe3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5B5nloaA2UpNrjweosqVe3", 
+        "artists": [
+          {
+            "name": "Boards of Canada", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+            }, 
+            "uri": "spotify:artist:2VAvhf61GgLYmC6C8anyX1", 
+            "href": "https://api.spotify.com/v1/artists/2VAvhf61GgLYmC6C8anyX1", 
+            "type": "artist", 
+            "id": "2VAvhf61GgLYmC6C8anyX1"
+          }
+        ], 
+        "duration_ms": 395480, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "5B5nloaA2UpNrjweosqVe3"
+      }, 
+      {
+        "name": "Triangles & Rhombuses", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1PWBiyJfQRjLfum9rVtKQa"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6727173837b8d4359cc5463b98f3ebc7efde8d03", 
+        "is_playable": true, 
+        "uri": "spotify:track:1PWBiyJfQRjLfum9rVtKQa", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1PWBiyJfQRjLfum9rVtKQa", 
+        "artists": [
+          {
+            "name": "Boards of Canada", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+            }, 
+            "uri": "spotify:artist:2VAvhf61GgLYmC6C8anyX1", 
+            "href": "https://api.spotify.com/v1/artists/2VAvhf61GgLYmC6C8anyX1", 
+            "type": "artist", 
+            "id": "2VAvhf61GgLYmC6C8anyX1"
+          }
+        ], 
+        "duration_ms": 110413, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "1PWBiyJfQRjLfum9rVtKQa"
+      }, 
+      {
+        "name": "Sixtyten", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6N759vFYolaNbbdd4As2Wi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/dcba5495e0ae03dd58eae01c8e3f34c1807c6051", 
+        "is_playable": true, 
+        "uri": "spotify:track:6N759vFYolaNbbdd4As2Wi", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6N759vFYolaNbbdd4As2Wi", 
+        "artists": [
+          {
+            "name": "Boards of Canada", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+            }, 
+            "uri": "spotify:artist:2VAvhf61GgLYmC6C8anyX1", 
+            "href": "https://api.spotify.com/v1/artists/2VAvhf61GgLYmC6C8anyX1", 
+            "type": "artist", 
+            "id": "2VAvhf61GgLYmC6C8anyX1"
+          }
+        ], 
+        "duration_ms": 348346, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "6N759vFYolaNbbdd4As2Wi"
+      }, 
+      {
+        "name": "Turquoise Hexagon Sun", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4xmce2Et7muv5rjmjBQq83"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/18da574a408629844ec37c0bc086e82269888070", 
+        "is_playable": true, 
+        "uri": "spotify:track:4xmce2Et7muv5rjmjBQq83", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4xmce2Et7muv5rjmjBQq83", 
+        "artists": [
+          {
+            "name": "Boards of Canada", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+            }, 
+            "uri": "spotify:artist:2VAvhf61GgLYmC6C8anyX1", 
+            "href": "https://api.spotify.com/v1/artists/2VAvhf61GgLYmC6C8anyX1", 
+            "type": "artist", 
+            "id": "2VAvhf61GgLYmC6C8anyX1"
+          }
+        ], 
+        "duration_ms": 307880, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "4xmce2Et7muv5rjmjBQq83"
+      }, 
+      {
+        "name": "Kaini Industries", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3aqXL0g0eeZrS4Qlf7dV8O"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6967c9a9f8c2242ca3d2631aa430f95e29c929fa", 
+        "is_playable": true, 
+        "uri": "spotify:track:3aqXL0g0eeZrS4Qlf7dV8O", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3aqXL0g0eeZrS4Qlf7dV8O", 
+        "artists": [
+          {
+            "name": "Boards of Canada", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+            }, 
+            "uri": "spotify:artist:2VAvhf61GgLYmC6C8anyX1", 
+            "href": "https://api.spotify.com/v1/artists/2VAvhf61GgLYmC6C8anyX1", 
+            "type": "artist", 
+            "id": "2VAvhf61GgLYmC6C8anyX1"
+          }
+        ], 
+        "duration_ms": 59293, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "3aqXL0g0eeZrS4Qlf7dV8O"
+      }, 
+      {
+        "name": "Bocuma", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Hmc81ZS9s2WlTvOsuoiTQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bf6b79072da648c5fe928c0822ef1f5ada9960ed", 
+        "is_playable": true, 
+        "uri": "spotify:track:4Hmc81ZS9s2WlTvOsuoiTQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4Hmc81ZS9s2WlTvOsuoiTQ", 
+        "artists": [
+          {
+            "name": "Boards of Canada", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+            }, 
+            "uri": "spotify:artist:2VAvhf61GgLYmC6C8anyX1", 
+            "href": "https://api.spotify.com/v1/artists/2VAvhf61GgLYmC6C8anyX1", 
+            "type": "artist", 
+            "id": "2VAvhf61GgLYmC6C8anyX1"
+          }
+        ], 
+        "duration_ms": 95973, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "4Hmc81ZS9s2WlTvOsuoiTQ"
+      }, 
+      {
+        "name": "Roygbiv", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/14ff682c097d1eb6c652e00c82a7fb210271f082", 
+        "is_playable": true, 
+        "uri": "spotify:track:2XQSgmtEY2titXhfY414dy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2XQSgmtEY2titXhfY414dy", 
+        "artists": [
+          {
+            "name": "Boards of Canada", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+            }, 
+            "uri": "spotify:artist:2VAvhf61GgLYmC6C8anyX1", 
+            "href": "https://api.spotify.com/v1/artists/2VAvhf61GgLYmC6C8anyX1", 
+            "type": "artist", 
+            "id": "2VAvhf61GgLYmC6C8anyX1"
+          }
+        ], 
+        "duration_ms": 151520, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "2XQSgmtEY2titXhfY414dy"
+      }, 
+      {
+        "name": "Rue The Whirl", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Jp9ys8LTCzv9jPe0t8fHB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/34af0f10d7fcca6948bedf65be815225e3651974", 
+        "is_playable": true, 
+        "uri": "spotify:track:3Jp9ys8LTCzv9jPe0t8fHB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3Jp9ys8LTCzv9jPe0t8fHB", 
+        "artists": [
+          {
+            "name": "Boards of Canada", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+            }, 
+            "uri": "spotify:artist:2VAvhf61GgLYmC6C8anyX1", 
+            "href": "https://api.spotify.com/v1/artists/2VAvhf61GgLYmC6C8anyX1", 
+            "type": "artist", 
+            "id": "2VAvhf61GgLYmC6C8anyX1"
+          }
+        ], 
+        "duration_ms": 399493, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "3Jp9ys8LTCzv9jPe0t8fHB"
+      }, 
+      {
+        "name": "Aquarius", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4ZX7QjwBqZTelll7to0d5S"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d7bc47a18b2cc0d4faed30617170b268c5f3cb71", 
+        "is_playable": true, 
+        "uri": "spotify:track:4ZX7QjwBqZTelll7to0d5S", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4ZX7QjwBqZTelll7to0d5S", 
+        "artists": [
+          {
+            "name": "Boards of Canada", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+            }, 
+            "uri": "spotify:artist:2VAvhf61GgLYmC6C8anyX1", 
+            "href": "https://api.spotify.com/v1/artists/2VAvhf61GgLYmC6C8anyX1", 
+            "type": "artist", 
+            "id": "2VAvhf61GgLYmC6C8anyX1"
+          }
+        ], 
+        "duration_ms": 358080, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "4ZX7QjwBqZTelll7to0d5S"
+      }, 
+      {
+        "name": "Olson", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0aPrTlWUf2nmDkC9gcP5kZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f5c0d1a6c954fd81489b2b98baef0a4afe62cdac", 
+        "is_playable": true, 
+        "uri": "spotify:track:0aPrTlWUf2nmDkC9gcP5kZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0aPrTlWUf2nmDkC9gcP5kZ", 
+        "artists": [
+          {
+            "name": "Boards of Canada", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+            }, 
+            "uri": "spotify:artist:2VAvhf61GgLYmC6C8anyX1", 
+            "href": "https://api.spotify.com/v1/artists/2VAvhf61GgLYmC6C8anyX1", 
+            "type": "artist", 
+            "id": "2VAvhf61GgLYmC6C8anyX1"
+          }
+        ], 
+        "duration_ms": 91706, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "0aPrTlWUf2nmDkC9gcP5kZ"
+      }, 
+      {
+        "name": "Pete Standing Alone", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5SGNNAQg2hEfOZItKVFklK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f3960aa81d0975d33557b18fc76ef879e80b8ed9", 
+        "is_playable": true, 
+        "uri": "spotify:track:5SGNNAQg2hEfOZItKVFklK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5SGNNAQg2hEfOZItKVFklK", 
+        "artists": [
+          {
+            "name": "Boards of Canada", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+            }, 
+            "uri": "spotify:artist:2VAvhf61GgLYmC6C8anyX1", 
+            "href": "https://api.spotify.com/v1/artists/2VAvhf61GgLYmC6C8anyX1", 
+            "type": "artist", 
+            "id": "2VAvhf61GgLYmC6C8anyX1"
+          }
+        ], 
+        "duration_ms": 367720, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "5SGNNAQg2hEfOZItKVFklK"
+      }, 
+      {
+        "name": "Smokes Quantity", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0mfHgKTeqN8hcgOlAEHLQc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/88d3d17f31647031423a66c0b10a2be10030985d", 
+        "is_playable": true, 
+        "uri": "spotify:track:0mfHgKTeqN8hcgOlAEHLQc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0mfHgKTeqN8hcgOlAEHLQc", 
+        "artists": [
+          {
+            "name": "Boards of Canada", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+            }, 
+            "uri": "spotify:artist:2VAvhf61GgLYmC6C8anyX1", 
+            "href": "https://api.spotify.com/v1/artists/2VAvhf61GgLYmC6C8anyX1", 
+            "type": "artist", 
+            "id": "2VAvhf61GgLYmC6C8anyX1"
+          }
+        ], 
+        "duration_ms": 187320, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "0mfHgKTeqN8hcgOlAEHLQc"
+      }, 
+      {
+        "name": "Open The Light", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3BMOJrCCJqZedUwUS0m6NE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b81593ab07053b5d251049c5e9c69b568602371b", 
+        "is_playable": true, 
+        "uri": "spotify:track:3BMOJrCCJqZedUwUS0m6NE", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3BMOJrCCJqZedUwUS0m6NE", 
+        "artists": [
+          {
+            "name": "Boards of Canada", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+            }, 
+            "uri": "spotify:artist:2VAvhf61GgLYmC6C8anyX1", 
+            "href": "https://api.spotify.com/v1/artists/2VAvhf61GgLYmC6C8anyX1", 
+            "type": "artist", 
+            "id": "2VAvhf61GgLYmC6C8anyX1"
+          }
+        ], 
+        "duration_ms": 265026, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "3BMOJrCCJqZedUwUS0m6NE"
+      }, 
+      {
+        "name": "One Very Important Thought", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0zW6xwG3WfPv2WFAj6NUC9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bd33a96f880efcd7deb7023c354812db83618bae", 
+        "is_playable": true, 
+        "uri": "spotify:track:0zW6xwG3WfPv2WFAj6NUC9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0zW6xwG3WfPv2WFAj6NUC9", 
+        "artists": [
+          {
+            "name": "Boards of Canada", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+            }, 
+            "uri": "spotify:artist:2VAvhf61GgLYmC6C8anyX1", 
+            "href": "https://api.spotify.com/v1/artists/2VAvhf61GgLYmC6C8anyX1", 
+            "type": "artist", 
+            "id": "2VAvhf61GgLYmC6C8anyX1"
+          }
+        ], 
+        "duration_ms": 85053, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "0zW6xwG3WfPv2WFAj6NUC9"
+      }, 
+      {
+        "name": "Happy Cycling", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6G4Iu30Hp9SHWQ1k2Fow7i"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c3396a091275d093c8b4c9db41ae76827391dd37", 
+        "is_playable": true, 
+        "uri": "spotify:track:6G4Iu30Hp9SHWQ1k2Fow7i", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6G4Iu30Hp9SHWQ1k2Fow7i", 
+        "artists": [
+          {
+            "name": "Boards of Canada", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+            }, 
+            "uri": "spotify:artist:2VAvhf61GgLYmC6C8anyX1", 
+            "href": "https://api.spotify.com/v1/artists/2VAvhf61GgLYmC6C8anyX1", 
+            "type": "artist", 
+            "id": "2VAvhf61GgLYmC6C8anyX1"
+          }
+        ], 
+        "duration_ms": 472520, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "6G4Iu30Hp9SHWQ1k2Fow7i"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/1vWnB0hYmluskQuzxwo25a/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 18, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/1vWnB0hYmluskQuzxwo25a", 
+  "copyrights": [
+    {
+      "text": "1998 Warp Records Limited", 
+      "type": "C"
+    }, 
+    {
+      "text": "1998 Warp Records Limited", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Boards of Canada", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+      }, 
+      "uri": "spotify:artist:2VAvhf61GgLYmC6C8anyX1", 
+      "href": "https://api.spotify.com/v1/artists/2VAvhf61GgLYmC6C8anyX1", 
+      "type": "artist", 
+      "id": "2VAvhf61GgLYmC6C8anyX1"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/e272406fb6591a431180da4d475215f4ad385cc4", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/e7663bc54fbb8334e097184c80eb033229c88106", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/81f3e4ed02000c80c3d56095495ff43993df0fb9", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "0801061005535"
+  }, 
+  "type": "album", 
+  "id": "1vWnB0hYmluskQuzxwo25a", 
+  "name": "Music Has The Right To Children"
+}

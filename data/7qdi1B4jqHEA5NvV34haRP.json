@@ -1,0 +1,571 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7qdi1B4jqHEA5NvV34haRP"
+  }, 
+  "release_date": "2000", 
+  "popularity": 51, 
+  "genres": [], 
+  "uri": "spotify:album:7qdi1B4jqHEA5NvV34haRP", 
+  "tracks": {
+    "items": [
+      {
+        "name": "The Shining", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2PojSoZ94AIzp7fsz6wtMt"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d1905d292f6b8a4ee573100e2ac17c6a281256b3", 
+        "is_playable": true, 
+        "uri": "spotify:track:2PojSoZ94AIzp7fsz6wtMt", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2PojSoZ94AIzp7fsz6wtMt", 
+        "artists": [
+          {
+            "name": "Badly Drawn Boy", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO"
+            }, 
+            "uri": "spotify:artist:244fcyNSuyhbRlMGfMbYrO", 
+            "href": "https://api.spotify.com/v1/artists/244fcyNSuyhbRlMGfMbYrO", 
+            "type": "artist", 
+            "id": "244fcyNSuyhbRlMGfMbYrO"
+          }
+        ], 
+        "duration_ms": 318466, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "2PojSoZ94AIzp7fsz6wtMt"
+      }, 
+      {
+        "name": "Everybody's Stalking", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0eGYQQbFx6judI4Q6HdDHQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0de4f87729a90c0a91737e331eef090f9c78db55", 
+        "is_playable": true, 
+        "uri": "spotify:track:0eGYQQbFx6judI4Q6HdDHQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0eGYQQbFx6judI4Q6HdDHQ", 
+        "artists": [
+          {
+            "name": "Badly Drawn Boy", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO"
+            }, 
+            "uri": "spotify:artist:244fcyNSuyhbRlMGfMbYrO", 
+            "href": "https://api.spotify.com/v1/artists/244fcyNSuyhbRlMGfMbYrO", 
+            "type": "artist", 
+            "id": "244fcyNSuyhbRlMGfMbYrO"
+          }
+        ], 
+        "duration_ms": 219626, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "0eGYQQbFx6judI4Q6HdDHQ"
+      }, 
+      {
+        "name": "Bewilderbeast 1", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3A0jWVAjvR46S5QfXLL978"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4888e3dc6d55462b430acea83009eb46642e7270", 
+        "is_playable": true, 
+        "uri": "spotify:track:3A0jWVAjvR46S5QfXLL978", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3A0jWVAjvR46S5QfXLL978", 
+        "artists": [
+          {
+            "name": "Badly Drawn Boy", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO"
+            }, 
+            "uri": "spotify:artist:244fcyNSuyhbRlMGfMbYrO", 
+            "href": "https://api.spotify.com/v1/artists/244fcyNSuyhbRlMGfMbYrO", 
+            "type": "artist", 
+            "id": "244fcyNSuyhbRlMGfMbYrO"
+          }
+        ], 
+        "duration_ms": 48266, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "3A0jWVAjvR46S5QfXLL978"
+      }, 
+      {
+        "name": "Fall In A River", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5taqmrV4zTyiY2755g8IaU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9f919fe4ef91276a9b74da127925e5a3bd61d3aa", 
+        "is_playable": true, 
+        "uri": "spotify:track:5taqmrV4zTyiY2755g8IaU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5taqmrV4zTyiY2755g8IaU", 
+        "artists": [
+          {
+            "name": "Badly Drawn Boy", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO"
+            }, 
+            "uri": "spotify:artist:244fcyNSuyhbRlMGfMbYrO", 
+            "href": "https://api.spotify.com/v1/artists/244fcyNSuyhbRlMGfMbYrO", 
+            "type": "artist", 
+            "id": "244fcyNSuyhbRlMGfMbYrO"
+          }
+        ], 
+        "duration_ms": 137706, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "5taqmrV4zTyiY2755g8IaU"
+      }, 
+      {
+        "name": "Camping Next To Water", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/20l4jxXPWlB1OHlwA2egeR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/75338287e1a624f7702ec0b8e8d6ec300b63cc4b", 
+        "is_playable": true, 
+        "uri": "spotify:track:20l4jxXPWlB1OHlwA2egeR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/20l4jxXPWlB1OHlwA2egeR", 
+        "artists": [
+          {
+            "name": "Badly Drawn Boy", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO"
+            }, 
+            "uri": "spotify:artist:244fcyNSuyhbRlMGfMbYrO", 
+            "href": "https://api.spotify.com/v1/artists/244fcyNSuyhbRlMGfMbYrO", 
+            "type": "artist", 
+            "id": "244fcyNSuyhbRlMGfMbYrO"
+          }
+        ], 
+        "duration_ms": 230533, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "20l4jxXPWlB1OHlwA2egeR"
+      }, 
+      {
+        "name": "Stone On The Water", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4y3Tvs1r1ULfSoH3bkVljO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/11f685cb886de97894cef0144ed7e4e90f82f53d", 
+        "is_playable": true, 
+        "uri": "spotify:track:4y3Tvs1r1ULfSoH3bkVljO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4y3Tvs1r1ULfSoH3bkVljO", 
+        "artists": [
+          {
+            "name": "Badly Drawn Boy", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO"
+            }, 
+            "uri": "spotify:artist:244fcyNSuyhbRlMGfMbYrO", 
+            "href": "https://api.spotify.com/v1/artists/244fcyNSuyhbRlMGfMbYrO", 
+            "type": "artist", 
+            "id": "244fcyNSuyhbRlMGfMbYrO"
+          }
+        ], 
+        "duration_ms": 238400, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "4y3Tvs1r1ULfSoH3bkVljO"
+      }, 
+      {
+        "name": "Another Pearl", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Z6cCc0QUJxUP9TVOlrPiV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/464c699cc94e1491317673bd1acbbd3872e95d53", 
+        "is_playable": true, 
+        "uri": "spotify:track:1Z6cCc0QUJxUP9TVOlrPiV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1Z6cCc0QUJxUP9TVOlrPiV", 
+        "artists": [
+          {
+            "name": "Badly Drawn Boy", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO"
+            }, 
+            "uri": "spotify:artist:244fcyNSuyhbRlMGfMbYrO", 
+            "href": "https://api.spotify.com/v1/artists/244fcyNSuyhbRlMGfMbYrO", 
+            "type": "artist", 
+            "id": "244fcyNSuyhbRlMGfMbYrO"
+          }
+        ], 
+        "duration_ms": 267026, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "1Z6cCc0QUJxUP9TVOlrPiV"
+      }, 
+      {
+        "name": "Body Rap", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/226vdMELfRcyYaD0kdcuen"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c3195e37277c5c003e2d8af179eed1d619b5d3e6", 
+        "is_playable": true, 
+        "uri": "spotify:track:226vdMELfRcyYaD0kdcuen", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/226vdMELfRcyYaD0kdcuen", 
+        "artists": [
+          {
+            "name": "Badly Drawn Boy", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO"
+            }, 
+            "uri": "spotify:artist:244fcyNSuyhbRlMGfMbYrO", 
+            "href": "https://api.spotify.com/v1/artists/244fcyNSuyhbRlMGfMbYrO", 
+            "type": "artist", 
+            "id": "244fcyNSuyhbRlMGfMbYrO"
+          }
+        ], 
+        "duration_ms": 45933, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "226vdMELfRcyYaD0kdcuen"
+      }, 
+      {
+        "name": "Once Around The Block", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1GKszUi4FqOPCS4v2uGmEw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b94390df8381e9a7b83faa42121b37de7359b0a4", 
+        "is_playable": true, 
+        "uri": "spotify:track:1GKszUi4FqOPCS4v2uGmEw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1GKszUi4FqOPCS4v2uGmEw", 
+        "artists": [
+          {
+            "name": "Badly Drawn Boy", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO"
+            }, 
+            "uri": "spotify:artist:244fcyNSuyhbRlMGfMbYrO", 
+            "href": "https://api.spotify.com/v1/artists/244fcyNSuyhbRlMGfMbYrO", 
+            "type": "artist", 
+            "id": "244fcyNSuyhbRlMGfMbYrO"
+          }
+        ], 
+        "duration_ms": 224573, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "1GKszUi4FqOPCS4v2uGmEw"
+      }, 
+      {
+        "name": "This Song", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1lyOZfyHkQcM9IKJ4ByMfX"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0cc64eb45967724c57d2caa1b8aab7c188720650", 
+        "is_playable": true, 
+        "uri": "spotify:track:1lyOZfyHkQcM9IKJ4ByMfX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1lyOZfyHkQcM9IKJ4ByMfX", 
+        "artists": [
+          {
+            "name": "Badly Drawn Boy", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO"
+            }, 
+            "uri": "spotify:artist:244fcyNSuyhbRlMGfMbYrO", 
+            "href": "https://api.spotify.com/v1/artists/244fcyNSuyhbRlMGfMbYrO", 
+            "type": "artist", 
+            "id": "244fcyNSuyhbRlMGfMbYrO"
+          }
+        ], 
+        "duration_ms": 92800, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "1lyOZfyHkQcM9IKJ4ByMfX"
+      }, 
+      {
+        "name": "Bewilderbeast 2", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3qrZD6GFAQW4zUVPHtLkON"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/688b2b5963429f4868b647fd1d93759f90b8b838", 
+        "is_playable": true, 
+        "uri": "spotify:track:3qrZD6GFAQW4zUVPHtLkON", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3qrZD6GFAQW4zUVPHtLkON", 
+        "artists": [
+          {
+            "name": "Badly Drawn Boy", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO"
+            }, 
+            "uri": "spotify:artist:244fcyNSuyhbRlMGfMbYrO", 
+            "href": "https://api.spotify.com/v1/artists/244fcyNSuyhbRlMGfMbYrO", 
+            "type": "artist", 
+            "id": "244fcyNSuyhbRlMGfMbYrO"
+          }
+        ], 
+        "duration_ms": 210733, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "3qrZD6GFAQW4zUVPHtLkON"
+      }, 
+      {
+        "name": "Magic In The Air", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7f6WgoVm4ZPTaG4LOwZt6G"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6838553af4bfdb03f6773a84dd4cd987fdd062b6", 
+        "is_playable": true, 
+        "uri": "spotify:track:7f6WgoVm4ZPTaG4LOwZt6G", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7f6WgoVm4ZPTaG4LOwZt6G", 
+        "artists": [
+          {
+            "name": "Badly Drawn Boy", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO"
+            }, 
+            "uri": "spotify:artist:244fcyNSuyhbRlMGfMbYrO", 
+            "href": "https://api.spotify.com/v1/artists/244fcyNSuyhbRlMGfMbYrO", 
+            "type": "artist", 
+            "id": "244fcyNSuyhbRlMGfMbYrO"
+          }
+        ], 
+        "duration_ms": 223466, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "7f6WgoVm4ZPTaG4LOwZt6G"
+      }, 
+      {
+        "name": "Cause A Rockslide", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7FJ4qFyEg3aZWdgwAIajOY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ca6b4acdbedef959adacab06d5c61c971e9c3acb", 
+        "is_playable": true, 
+        "uri": "spotify:track:7FJ4qFyEg3aZWdgwAIajOY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7FJ4qFyEg3aZWdgwAIajOY", 
+        "artists": [
+          {
+            "name": "Badly Drawn Boy", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO"
+            }, 
+            "uri": "spotify:artist:244fcyNSuyhbRlMGfMbYrO", 
+            "href": "https://api.spotify.com/v1/artists/244fcyNSuyhbRlMGfMbYrO", 
+            "type": "artist", 
+            "id": "244fcyNSuyhbRlMGfMbYrO"
+          }
+        ], 
+        "duration_ms": 355560, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "7FJ4qFyEg3aZWdgwAIajOY"
+      }, 
+      {
+        "name": "Pissing In The Wind", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1QRqAAAGaBgaVhYbhxwBd7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/426cce5123f645ca34f337356df0820f119b9c22", 
+        "is_playable": true, 
+        "uri": "spotify:track:1QRqAAAGaBgaVhYbhxwBd7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1QRqAAAGaBgaVhYbhxwBd7", 
+        "artists": [
+          {
+            "name": "Badly Drawn Boy", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO"
+            }, 
+            "uri": "spotify:artist:244fcyNSuyhbRlMGfMbYrO", 
+            "href": "https://api.spotify.com/v1/artists/244fcyNSuyhbRlMGfMbYrO", 
+            "type": "artist", 
+            "id": "244fcyNSuyhbRlMGfMbYrO"
+          }
+        ], 
+        "duration_ms": 259800, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "1QRqAAAGaBgaVhYbhxwBd7"
+      }, 
+      {
+        "name": "Blistered Heart", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4iAMHGeHU0lq108wWK1YX2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e015c37cd0a8ea5661e7f03a9f54fabf3a34f166", 
+        "is_playable": true, 
+        "uri": "spotify:track:4iAMHGeHU0lq108wWK1YX2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4iAMHGeHU0lq108wWK1YX2", 
+        "artists": [
+          {
+            "name": "Badly Drawn Boy", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO"
+            }, 
+            "uri": "spotify:artist:244fcyNSuyhbRlMGfMbYrO", 
+            "href": "https://api.spotify.com/v1/artists/244fcyNSuyhbRlMGfMbYrO", 
+            "type": "artist", 
+            "id": "244fcyNSuyhbRlMGfMbYrO"
+          }
+        ], 
+        "duration_ms": 110306, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "4iAMHGeHU0lq108wWK1YX2"
+      }, 
+      {
+        "name": "Disillusion", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1DcIG72ZNjlyfSv1jJP94x"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a672737bdc87342d8e0d456f044331c1fec386a6", 
+        "is_playable": true, 
+        "uri": "spotify:track:1DcIG72ZNjlyfSv1jJP94x", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1DcIG72ZNjlyfSv1jJP94x", 
+        "artists": [
+          {
+            "name": "Badly Drawn Boy", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO"
+            }, 
+            "uri": "spotify:artist:244fcyNSuyhbRlMGfMbYrO", 
+            "href": "https://api.spotify.com/v1/artists/244fcyNSuyhbRlMGfMbYrO", 
+            "type": "artist", 
+            "id": "244fcyNSuyhbRlMGfMbYrO"
+          }
+        ], 
+        "duration_ms": 319293, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "1DcIG72ZNjlyfSv1jJP94x"
+      }, 
+      {
+        "name": "Say It Again", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/10aZswdPn3lMSFEEL9TwJv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3f2da9c622149d3619d23ebe18d4d58c1d633c91", 
+        "is_playable": true, 
+        "uri": "spotify:track:10aZswdPn3lMSFEEL9TwJv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/10aZswdPn3lMSFEEL9TwJv", 
+        "artists": [
+          {
+            "name": "Badly Drawn Boy", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO"
+            }, 
+            "uri": "spotify:artist:244fcyNSuyhbRlMGfMbYrO", 
+            "href": "https://api.spotify.com/v1/artists/244fcyNSuyhbRlMGfMbYrO", 
+            "type": "artist", 
+            "id": "244fcyNSuyhbRlMGfMbYrO"
+          }
+        ], 
+        "duration_ms": 281440, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "10aZswdPn3lMSFEEL9TwJv"
+      }, 
+      {
+        "name": "Epitaph", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/34fqCDe7J9c0kNDr89v7Q2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7590f328e679d2edd664964f958b544eb720715a", 
+        "is_playable": true, 
+        "uri": "spotify:track:34fqCDe7J9c0kNDr89v7Q2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/34fqCDe7J9c0kNDr89v7Q2", 
+        "artists": [
+          {
+            "name": "Badly Drawn Boy", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO"
+            }, 
+            "uri": "spotify:artist:244fcyNSuyhbRlMGfMbYrO", 
+            "href": "https://api.spotify.com/v1/artists/244fcyNSuyhbRlMGfMbYrO", 
+            "type": "artist", 
+            "id": "244fcyNSuyhbRlMGfMbYrO"
+          }
+        ], 
+        "duration_ms": 230960, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "34fqCDe7J9c0kNDr89v7Q2"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/7qdi1B4jqHEA5NvV34haRP/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 18, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/7qdi1B4jqHEA5NvV34haRP", 
+  "copyrights": [
+    {
+      "text": "2000 XL Recordings Ltd", 
+      "type": "C"
+    }, 
+    {
+      "text": "2000 XL Recordings Ltd", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Badly Drawn Boy", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO"
+      }, 
+      "uri": "spotify:artist:244fcyNSuyhbRlMGfMbYrO", 
+      "href": "https://api.spotify.com/v1/artists/244fcyNSuyhbRlMGfMbYrO", 
+      "type": "artist", 
+      "id": "244fcyNSuyhbRlMGfMbYrO"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/5b6839ebad9316af072ac0cad7be3a3b4aed2582", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/82e4cf929d37743046301b4e5f79414be05ebfa0", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/52860005c026e32ee30627e9611dc22fae24f565", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "634904013387"
+  }, 
+  "type": "album", 
+  "id": "7qdi1B4jqHEA5NvV34haRP", 
+  "name": "The Hour Of Bewilderbeast"
+}

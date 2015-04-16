@@ -1,0 +1,399 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU"
+  }, 
+  "release_date": "1990-07-10", 
+  "popularity": 35, 
+  "genres": [], 
+  "uri": "spotify:album:1XjabdmwipT62cLSZV45SU", 
+  "tracks": {
+    "items": [
+      {
+        "name": "El Cayuco", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3j05qtcQlRIVF0a2DOoO68"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0ee05f17369f584179e9643c6fead43e6da9aef6", 
+        "is_playable": true, 
+        "uri": "spotify:track:3j05qtcQlRIVF0a2DOoO68", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3j05qtcQlRIVF0a2DOoO68", 
+        "artists": [
+          {
+            "name": "Tito Puente", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+            }, 
+            "uri": "spotify:artist:6SPpCqM8gOzrtICAxN5NuX", 
+            "href": "https://api.spotify.com/v1/artists/6SPpCqM8gOzrtICAxN5NuX", 
+            "type": "artist", 
+            "id": "6SPpCqM8gOzrtICAxN5NuX"
+          }
+        ], 
+        "duration_ms": 155693, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "3j05qtcQlRIVF0a2DOoO68"
+      }, 
+      {
+        "name": "Complicaci\u00f3n", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1McWg1rZqA1AGhYojNff8c"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/28fe471317aac655947a9a81420df5233d49e92e", 
+        "is_playable": true, 
+        "uri": "spotify:track:1McWg1rZqA1AGhYojNff8c", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1McWg1rZqA1AGhYojNff8c", 
+        "artists": [
+          {
+            "name": "Tito Puente", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+            }, 
+            "uri": "spotify:artist:6SPpCqM8gOzrtICAxN5NuX", 
+            "href": "https://api.spotify.com/v1/artists/6SPpCqM8gOzrtICAxN5NuX", 
+            "type": "artist", 
+            "id": "6SPpCqM8gOzrtICAxN5NuX"
+          }
+        ], 
+        "duration_ms": 200840, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "1McWg1rZqA1AGhYojNff8c"
+      }, 
+      {
+        "name": "Three D Mambo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7ajSkYpYcjiNt2L8LOwZDP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f9227b4df38f7e72c8cb5448bb88f40d184aac2b", 
+        "is_playable": true, 
+        "uri": "spotify:track:7ajSkYpYcjiNt2L8LOwZDP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7ajSkYpYcjiNt2L8LOwZDP", 
+        "artists": [
+          {
+            "name": "Tito Puente & His Orchestra", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1"
+            }, 
+            "uri": "spotify:artist:1zN5Et4jcH3XQ0b60IGmp1", 
+            "href": "https://api.spotify.com/v1/artists/1zN5Et4jcH3XQ0b60IGmp1", 
+            "type": "artist", 
+            "id": "1zN5Et4jcH3XQ0b60IGmp1"
+          }
+        ], 
+        "duration_ms": 143466, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "7ajSkYpYcjiNt2L8LOwZDP"
+      }, 
+      {
+        "name": "Llego Mijan (Son Montuno)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5cBX6X3dSqxCmGJdBboJRH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f08b510b05cd05b86946e254d261abdf9b0c67d5", 
+        "is_playable": true, 
+        "uri": "spotify:track:5cBX6X3dSqxCmGJdBboJRH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5cBX6X3dSqxCmGJdBboJRH", 
+        "artists": [
+          {
+            "name": "Tito Puente", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+            }, 
+            "uri": "spotify:artist:6SPpCqM8gOzrtICAxN5NuX", 
+            "href": "https://api.spotify.com/v1/artists/6SPpCqM8gOzrtICAxN5NuX", 
+            "type": "artist", 
+            "id": "6SPpCqM8gOzrtICAxN5NuX"
+          }
+        ], 
+        "duration_ms": 191760, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "5cBX6X3dSqxCmGJdBboJRH"
+      }, 
+      {
+        "name": "Cuando Te Vea (Guaguanco)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7kiDgLCgBwZOASi77npGRT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5a24dd6fd71a43b467f0e0c3bf15fef378af7cbe", 
+        "is_playable": true, 
+        "uri": "spotify:track:7kiDgLCgBwZOASi77npGRT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7kiDgLCgBwZOASi77npGRT", 
+        "artists": [
+          {
+            "name": "Tito Puente", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+            }, 
+            "uri": "spotify:artist:6SPpCqM8gOzrtICAxN5NuX", 
+            "href": "https://api.spotify.com/v1/artists/6SPpCqM8gOzrtICAxN5NuX", 
+            "type": "artist", 
+            "id": "6SPpCqM8gOzrtICAxN5NuX"
+          }
+        ], 
+        "duration_ms": 253266, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "7kiDgLCgBwZOASi77npGRT"
+      }, 
+      {
+        "name": "Hong Kong Mambo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1QLC5yG0vyDMXsShhpsGsX"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fd7a21770e5052c74e1f4ffa2f66bbd1ddd65f8f", 
+        "is_playable": true, 
+        "uri": "spotify:track:1QLC5yG0vyDMXsShhpsGsX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1QLC5yG0vyDMXsShhpsGsX", 
+        "artists": [
+          {
+            "name": "Tito Puente & His Orchestra", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1"
+            }, 
+            "uri": "spotify:artist:1zN5Et4jcH3XQ0b60IGmp1", 
+            "href": "https://api.spotify.com/v1/artists/1zN5Et4jcH3XQ0b60IGmp1", 
+            "type": "artist", 
+            "id": "1zN5Et4jcH3XQ0b60IGmp1"
+          }
+        ], 
+        "duration_ms": 225933, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "1QLC5yG0vyDMXsShhpsGsX"
+      }, 
+      {
+        "name": "Mambo Gozon", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Sewxyw6EtUldCIz2sD9S5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/665d266ce75f6197158d66e54a86b54f2f63a757", 
+        "is_playable": true, 
+        "uri": "spotify:track:4Sewxyw6EtUldCIz2sD9S5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4Sewxyw6EtUldCIz2sD9S5", 
+        "artists": [
+          {
+            "name": "Tito Puente & His Orchestra", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1"
+            }, 
+            "uri": "spotify:artist:1zN5Et4jcH3XQ0b60IGmp1", 
+            "href": "https://api.spotify.com/v1/artists/1zN5Et4jcH3XQ0b60IGmp1", 
+            "type": "artist", 
+            "id": "1zN5Et4jcH3XQ0b60IGmp1"
+          }
+        ], 
+        "duration_ms": 165533, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "4Sewxyw6EtUldCIz2sD9S5"
+      }, 
+      {
+        "name": "Mi Chiquita Quiere Bemb\u00e9", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5GbOYy9AZHOjeZCd3gAa2D"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c359ab203099ab8e6d65daa30c89423229da8f4c", 
+        "is_playable": true, 
+        "uri": "spotify:track:5GbOYy9AZHOjeZCd3gAa2D", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5GbOYy9AZHOjeZCd3gAa2D", 
+        "artists": [
+          {
+            "name": "Tito Puente & His Orchestra", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1"
+            }, 
+            "uri": "spotify:artist:1zN5Et4jcH3XQ0b60IGmp1", 
+            "href": "https://api.spotify.com/v1/artists/1zN5Et4jcH3XQ0b60IGmp1", 
+            "type": "artist", 
+            "id": "1zN5Et4jcH3XQ0b60IGmp1"
+          }
+        ], 
+        "duration_ms": 235333, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "5GbOYy9AZHOjeZCd3gAa2D"
+      }, 
+      {
+        "name": "Varsity Drag - Mambo Jazz Instrumental", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/023qcEfVt18bVng2maOp9I"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/38c37ff978bb67a5a85946d85b1cbca62cc7f2d3", 
+        "is_playable": true, 
+        "uri": "spotify:track:023qcEfVt18bVng2maOp9I", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/023qcEfVt18bVng2maOp9I", 
+        "artists": [
+          {
+            "name": "Tito Puente", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+            }, 
+            "uri": "spotify:artist:6SPpCqM8gOzrtICAxN5NuX", 
+            "href": "https://api.spotify.com/v1/artists/6SPpCqM8gOzrtICAxN5NuX", 
+            "type": "artist", 
+            "id": "6SPpCqM8gOzrtICAxN5NuX"
+          }
+        ], 
+        "duration_ms": 170533, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "023qcEfVt18bVng2maOp9I"
+      }, 
+      {
+        "name": "Estoy Siempre Junto a Ti", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5FEGZyvnXwsmvlNaD9zFoM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/50675cde1b9797a4fcdb2e381ecc1fbe171c9a32", 
+        "is_playable": true, 
+        "uri": "spotify:track:5FEGZyvnXwsmvlNaD9zFoM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5FEGZyvnXwsmvlNaD9zFoM", 
+        "artists": [
+          {
+            "name": "Tito Puente & His Orchestra", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1"
+            }, 
+            "uri": "spotify:artist:1zN5Et4jcH3XQ0b60IGmp1", 
+            "href": "https://api.spotify.com/v1/artists/1zN5Et4jcH3XQ0b60IGmp1", 
+            "type": "artist", 
+            "id": "1zN5Et4jcH3XQ0b60IGmp1"
+          }
+        ], 
+        "duration_ms": 191866, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "5FEGZyvnXwsmvlNaD9zFoM"
+      }, 
+      {
+        "name": "Agua Limpia Todo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5JnJ9IRO4lO4uCZvIT4CoN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8aabc65a38e0f8e717bb068a0a853bc62b91dd9a", 
+        "is_playable": true, 
+        "uri": "spotify:track:5JnJ9IRO4lO4uCZvIT4CoN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5JnJ9IRO4lO4uCZvIT4CoN", 
+        "artists": [
+          {
+            "name": "Tito Puente & His Orchestra", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1"
+            }, 
+            "uri": "spotify:artist:1zN5Et4jcH3XQ0b60IGmp1", 
+            "href": "https://api.spotify.com/v1/artists/1zN5Et4jcH3XQ0b60IGmp1", 
+            "type": "artist", 
+            "id": "1zN5Et4jcH3XQ0b60IGmp1"
+          }
+        ], 
+        "duration_ms": 174773, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "5JnJ9IRO4lO4uCZvIT4CoN"
+      }, 
+      {
+        "name": "Saca Tu Mujer", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6E2a4v0Sj2I5vAuaJb2UMO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/40681c65ddf0c415b552a231b32952b085f3c9ed", 
+        "is_playable": true, 
+        "uri": "spotify:track:6E2a4v0Sj2I5vAuaJb2UMO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6E2a4v0Sj2I5vAuaJb2UMO", 
+        "artists": [
+          {
+            "name": "Tito Puente & His Orchestra", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1"
+            }, 
+            "uri": "spotify:artist:1zN5Et4jcH3XQ0b60IGmp1", 
+            "href": "https://api.spotify.com/v1/artists/1zN5Et4jcH3XQ0b60IGmp1", 
+            "type": "artist", 
+            "id": "1zN5Et4jcH3XQ0b60IGmp1"
+          }
+        ], 
+        "duration_ms": 184826, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "6E2a4v0Sj2I5vAuaJb2UMO"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/1XjabdmwipT62cLSZV45SU/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 12, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/1XjabdmwipT62cLSZV45SU", 
+  "copyrights": [
+    {
+      "text": "(P) 1991 BMG Music", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Tito Puente", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+      }, 
+      "uri": "spotify:artist:6SPpCqM8gOzrtICAxN5NuX", 
+      "href": "https://api.spotify.com/v1/artists/6SPpCqM8gOzrtICAxN5NuX", 
+      "type": "artist", 
+      "id": "6SPpCqM8gOzrtICAxN5NuX"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/8d79bd06675660651b4ae05bc1166f17edd22cea", 
+      "width": 636, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/1a9ea290695ce91ecedbc61e84945dc8dcaf25ee", 
+      "width": 298, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/65cc9c49725af7ee603f71fac532b65e98d28203", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "078635246728"
+  }, 
+  "type": "album", 
+  "id": "1XjabdmwipT62cLSZV45SU", 
+  "name": "Dance Mania Vol.1"
+}

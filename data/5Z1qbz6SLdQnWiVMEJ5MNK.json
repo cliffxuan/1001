@@ -1,0 +1,375 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5Z1qbz6SLdQnWiVMEJ5MNK"
+  }, 
+  "release_date": "1997-04-21", 
+  "popularity": 43, 
+  "genres": [], 
+  "uri": "spotify:album:5Z1qbz6SLdQnWiVMEJ5MNK", 
+  "tracks": {
+    "items": [
+      {
+        "name": "With No Shoes", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/39rglKkpp801hmtOrEeKUZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/52d9d5be5198cc429260e7a0a9c7615120031ecc", 
+        "is_playable": true, 
+        "uri": "spotify:track:39rglKkpp801hmtOrEeKUZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/39rglKkpp801hmtOrEeKUZ", 
+        "artists": [
+          {
+            "name": "The Charlatans", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd"
+            }, 
+            "uri": "spotify:artist:5fScAXreYFnuqwOgBsJgSd", 
+            "href": "https://api.spotify.com/v1/artists/5fScAXreYFnuqwOgBsJgSd", 
+            "type": "artist", 
+            "id": "5fScAXreYFnuqwOgBsJgSd"
+          }
+        ], 
+        "duration_ms": 283600, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "39rglKkpp801hmtOrEeKUZ"
+      }, 
+      {
+        "name": "North Country Boy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0do7KTlM9AsE34FTHyAmHP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/eab7ee7373d9e00fdbf5bf552ab17eb45c58bcce", 
+        "is_playable": true, 
+        "uri": "spotify:track:0do7KTlM9AsE34FTHyAmHP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0do7KTlM9AsE34FTHyAmHP", 
+        "artists": [
+          {
+            "name": "The Charlatans", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd"
+            }, 
+            "uri": "spotify:artist:5fScAXreYFnuqwOgBsJgSd", 
+            "href": "https://api.spotify.com/v1/artists/5fScAXreYFnuqwOgBsJgSd", 
+            "type": "artist", 
+            "id": "5fScAXreYFnuqwOgBsJgSd"
+          }
+        ], 
+        "duration_ms": 244866, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "0do7KTlM9AsE34FTHyAmHP"
+      }, 
+      {
+        "name": "Tellin\u2019 Stories", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1qaKyDQid9L8GTVi4ZTRQR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bdd07de27c45b2d5f6659eb75b62057842ecd139", 
+        "is_playable": true, 
+        "uri": "spotify:track:1qaKyDQid9L8GTVi4ZTRQR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1qaKyDQid9L8GTVi4ZTRQR", 
+        "artists": [
+          {
+            "name": "The Charlatans", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd"
+            }, 
+            "uri": "spotify:artist:5fScAXreYFnuqwOgBsJgSd", 
+            "href": "https://api.spotify.com/v1/artists/5fScAXreYFnuqwOgBsJgSd", 
+            "type": "artist", 
+            "id": "5fScAXreYFnuqwOgBsJgSd"
+          }
+        ], 
+        "duration_ms": 313160, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "1qaKyDQid9L8GTVi4ZTRQR"
+      }, 
+      {
+        "name": "One To Another", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5nvy5ir4RWTgI4hC8dnsQP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7b0d5ce56cd230921e2414fc2304475d563f9544", 
+        "is_playable": true, 
+        "uri": "spotify:track:5nvy5ir4RWTgI4hC8dnsQP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5nvy5ir4RWTgI4hC8dnsQP", 
+        "artists": [
+          {
+            "name": "The Charlatans", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd"
+            }, 
+            "uri": "spotify:artist:5fScAXreYFnuqwOgBsJgSd", 
+            "href": "https://api.spotify.com/v1/artists/5fScAXreYFnuqwOgBsJgSd", 
+            "type": "artist", 
+            "id": "5fScAXreYFnuqwOgBsJgSd"
+          }
+        ], 
+        "duration_ms": 269840, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "5nvy5ir4RWTgI4hC8dnsQP"
+      }, 
+      {
+        "name": "You\u2019re A Big Girl Now", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0BibY222T2j2QLFUWBYwQ1"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e03757c370298977475b205ad88460bb0672f42a", 
+        "is_playable": true, 
+        "uri": "spotify:track:0BibY222T2j2QLFUWBYwQ1", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0BibY222T2j2QLFUWBYwQ1", 
+        "artists": [
+          {
+            "name": "The Charlatans", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd"
+            }, 
+            "uri": "spotify:artist:5fScAXreYFnuqwOgBsJgSd", 
+            "href": "https://api.spotify.com/v1/artists/5fScAXreYFnuqwOgBsJgSd", 
+            "type": "artist", 
+            "id": "5fScAXreYFnuqwOgBsJgSd"
+          }
+        ], 
+        "duration_ms": 168400, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "0BibY222T2j2QLFUWBYwQ1"
+      }, 
+      {
+        "name": "How Can You Leave Us", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3vu5ARe2If4otGecKZyOvH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7cf7e5abdc4fef194986aaa989172974bb667988", 
+        "is_playable": true, 
+        "uri": "spotify:track:3vu5ARe2If4otGecKZyOvH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3vu5ARe2If4otGecKZyOvH", 
+        "artists": [
+          {
+            "name": "The Charlatans", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd"
+            }, 
+            "uri": "spotify:artist:5fScAXreYFnuqwOgBsJgSd", 
+            "href": "https://api.spotify.com/v1/artists/5fScAXreYFnuqwOgBsJgSd", 
+            "type": "artist", 
+            "id": "5fScAXreYFnuqwOgBsJgSd"
+          }
+        ], 
+        "duration_ms": 226960, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "3vu5ARe2If4otGecKZyOvH"
+      }, 
+      {
+        "name": "Area 51", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7K04agvDkBlWIx87JqVhNt"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f1612d8fb9acdf3d06f53011b885416fb20af67b", 
+        "is_playable": true, 
+        "uri": "spotify:track:7K04agvDkBlWIx87JqVhNt", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7K04agvDkBlWIx87JqVhNt", 
+        "artists": [
+          {
+            "name": "The Charlatans", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd"
+            }, 
+            "uri": "spotify:artist:5fScAXreYFnuqwOgBsJgSd", 
+            "href": "https://api.spotify.com/v1/artists/5fScAXreYFnuqwOgBsJgSd", 
+            "type": "artist", 
+            "id": "5fScAXreYFnuqwOgBsJgSd"
+          }
+        ], 
+        "duration_ms": 217173, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "7K04agvDkBlWIx87JqVhNt"
+      }, 
+      {
+        "name": "How High", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7BZjgcwsWOmtU3owwWcTD6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/abccfb38bba141f62137b1fb1e01729d189c2603", 
+        "is_playable": true, 
+        "uri": "spotify:track:7BZjgcwsWOmtU3owwWcTD6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7BZjgcwsWOmtU3owwWcTD6", 
+        "artists": [
+          {
+            "name": "The Charlatans", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd"
+            }, 
+            "uri": "spotify:artist:5fScAXreYFnuqwOgBsJgSd", 
+            "href": "https://api.spotify.com/v1/artists/5fScAXreYFnuqwOgBsJgSd", 
+            "type": "artist", 
+            "id": "5fScAXreYFnuqwOgBsJgSd"
+          }
+        ], 
+        "duration_ms": 186066, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "7BZjgcwsWOmtU3owwWcTD6"
+      }, 
+      {
+        "name": "Only Teethin\u2019", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6rRKZLvFkfU7vNDrIEhLFU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a4b6e7317596c430fb642f7f5a4dff038fb43ab9", 
+        "is_playable": true, 
+        "uri": "spotify:track:6rRKZLvFkfU7vNDrIEhLFU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6rRKZLvFkfU7vNDrIEhLFU", 
+        "artists": [
+          {
+            "name": "The Charlatans", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd"
+            }, 
+            "uri": "spotify:artist:5fScAXreYFnuqwOgBsJgSd", 
+            "href": "https://api.spotify.com/v1/artists/5fScAXreYFnuqwOgBsJgSd", 
+            "type": "artist", 
+            "id": "5fScAXreYFnuqwOgBsJgSd"
+          }
+        ], 
+        "duration_ms": 319600, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "6rRKZLvFkfU7vNDrIEhLFU"
+      }, 
+      {
+        "name": "Get On It", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1OCSMpRv8jofVl12dgE7qa"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/febd220e1bab7b3e89accf0b84623049375bcdd2", 
+        "is_playable": true, 
+        "uri": "spotify:track:1OCSMpRv8jofVl12dgE7qa", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1OCSMpRv8jofVl12dgE7qa", 
+        "artists": [
+          {
+            "name": "The Charlatans", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd"
+            }, 
+            "uri": "spotify:artist:5fScAXreYFnuqwOgBsJgSd", 
+            "href": "https://api.spotify.com/v1/artists/5fScAXreYFnuqwOgBsJgSd", 
+            "type": "artist", 
+            "id": "5fScAXreYFnuqwOgBsJgSd"
+          }
+        ], 
+        "duration_ms": 356866, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "1OCSMpRv8jofVl12dgE7qa"
+      }, 
+      {
+        "name": "Rob\u2019s Theme", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3DkfEg5W7Wac4HBAyD1pr6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a208227bc491414545a70fd862dc6db62fdf741e", 
+        "is_playable": true, 
+        "uri": "spotify:track:3DkfEg5W7Wac4HBAyD1pr6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3DkfEg5W7Wac4HBAyD1pr6", 
+        "artists": [
+          {
+            "name": "The Charlatans", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd"
+            }, 
+            "uri": "spotify:artist:5fScAXreYFnuqwOgBsJgSd", 
+            "href": "https://api.spotify.com/v1/artists/5fScAXreYFnuqwOgBsJgSd", 
+            "type": "artist", 
+            "id": "5fScAXreYFnuqwOgBsJgSd"
+          }
+        ], 
+        "duration_ms": 234760, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "3DkfEg5W7Wac4HBAyD1pr6"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/5Z1qbz6SLdQnWiVMEJ5MNK/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 11, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/5Z1qbz6SLdQnWiVMEJ5MNK", 
+  "copyrights": [
+    {
+      "text": "1997 Beggars Banquet Records Ltd", 
+      "type": "C"
+    }, 
+    {
+      "text": "1997 Beggars Banquet Records Ltd", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "The Charlatans", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd"
+      }, 
+      "uri": "spotify:artist:5fScAXreYFnuqwOgBsJgSd", 
+      "href": "https://api.spotify.com/v1/artists/5fScAXreYFnuqwOgBsJgSd", 
+      "type": "artist", 
+      "id": "5fScAXreYFnuqwOgBsJgSd"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/3f1b2b399d36494f3a789791928ded7a430bef2f", 
+      "width": 640, 
+      "height": 618
+    }, 
+    {
+      "url": "https://i.scdn.co/image/dd15b2ffc61adbf3e1d4ef75e63fbf4af9854d5d", 
+      "width": 300, 
+      "height": 290
+    }, 
+    {
+      "url": "https://i.scdn.co/image/a8b527ff83f82f01389107afff9edccd8662db0b", 
+      "width": 64, 
+      "height": 62
+    }
+  ], 
+  "external_ids": {
+    "upc": "607618019020"
+  }, 
+  "type": "album", 
+  "id": "5Z1qbz6SLdQnWiVMEJ5MNK", 
+  "name": "Tellin\u2019 Stories"
+}

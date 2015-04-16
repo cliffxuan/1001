@@ -1,0 +1,347 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6FSgsN5ROADI1YQOieljKD"
+  }, 
+  "release_date": "1961", 
+  "popularity": 30, 
+  "genres": [], 
+  "uri": "spotify:album:6FSgsN5ROADI1YQOieljKD", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Gloria's Step [take 2]", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3SdGtfVKE1wkV8Bl2Undlj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c45f77cc7c6715acf9a56e7c981b1374cae7903b", 
+        "is_playable": true, 
+        "uri": "spotify:track:3SdGtfVKE1wkV8Bl2Undlj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3SdGtfVKE1wkV8Bl2Undlj", 
+        "artists": [
+          {
+            "name": "Bill Evans Trio", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+            }, 
+            "uri": "spotify:artist:3VEG6gxFIMfl4Cdog26avS", 
+            "href": "https://api.spotify.com/v1/artists/3VEG6gxFIMfl4Cdog26avS", 
+            "type": "artist", 
+            "id": "3VEG6gxFIMfl4Cdog26avS"
+          }
+        ], 
+        "duration_ms": 367840, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "3SdGtfVKE1wkV8Bl2Undlj"
+      }, 
+      {
+        "name": "My Man's Gone Now", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3h3bBZbVggVV7ceI2HcA8j"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0ec5f18b135bfe5ff0c06a8fade9cf17f6b0068e", 
+        "is_playable": true, 
+        "uri": "spotify:track:3h3bBZbVggVV7ceI2HcA8j", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3h3bBZbVggVV7ceI2HcA8j", 
+        "artists": [
+          {
+            "name": "Bill Evans Trio", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+            }, 
+            "uri": "spotify:artist:3VEG6gxFIMfl4Cdog26avS", 
+            "href": "https://api.spotify.com/v1/artists/3VEG6gxFIMfl4Cdog26avS", 
+            "type": "artist", 
+            "id": "3VEG6gxFIMfl4Cdog26avS"
+          }
+        ], 
+        "duration_ms": 384880, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "3h3bBZbVggVV7ceI2HcA8j"
+      }, 
+      {
+        "name": "Solar", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1wkoi2FS9cbP39FzmyHMsM"
+        }, 
+        "explicit": false, 
+        "preview_url": null, 
+        "is_playable": false, 
+        "uri": "spotify:track:1wkoi2FS9cbP39FzmyHMsM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1wkoi2FS9cbP39FzmyHMsM", 
+        "artists": [
+          {
+            "name": "Bill Evans Trio", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+            }, 
+            "uri": "spotify:artist:3VEG6gxFIMfl4Cdog26avS", 
+            "href": "https://api.spotify.com/v1/artists/3VEG6gxFIMfl4Cdog26avS", 
+            "type": "artist", 
+            "id": "3VEG6gxFIMfl4Cdog26avS"
+          }
+        ], 
+        "duration_ms": 534786, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "1wkoi2FS9cbP39FzmyHMsM"
+      }, 
+      {
+        "name": "Alice In Wonderland [take 2]", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0qCFCNa9n2vH7r84JGWCDB"
+        }, 
+        "explicit": false, 
+        "preview_url": null, 
+        "is_playable": false, 
+        "uri": "spotify:track:0qCFCNa9n2vH7r84JGWCDB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0qCFCNa9n2vH7r84JGWCDB", 
+        "artists": [
+          {
+            "name": "Bill Evans Trio", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+            }, 
+            "uri": "spotify:artist:3VEG6gxFIMfl4Cdog26avS", 
+            "href": "https://api.spotify.com/v1/artists/3VEG6gxFIMfl4Cdog26avS", 
+            "type": "artist", 
+            "id": "3VEG6gxFIMfl4Cdog26avS"
+          }
+        ], 
+        "duration_ms": 514533, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "0qCFCNa9n2vH7r84JGWCDB"
+      }, 
+      {
+        "name": "All Of You - Take 2", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1o3YBkUvdTtNhtYyQvPtKQ"
+        }, 
+        "explicit": false, 
+        "preview_url": null, 
+        "is_playable": false, 
+        "uri": "spotify:track:1o3YBkUvdTtNhtYyQvPtKQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1o3YBkUvdTtNhtYyQvPtKQ", 
+        "artists": [
+          {
+            "name": "Bill Evans Trio", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+            }, 
+            "uri": "spotify:artist:3VEG6gxFIMfl4Cdog26avS", 
+            "href": "https://api.spotify.com/v1/artists/3VEG6gxFIMfl4Cdog26avS", 
+            "type": "artist", 
+            "id": "3VEG6gxFIMfl4Cdog26avS"
+          }
+        ], 
+        "duration_ms": 499546, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "1o3YBkUvdTtNhtYyQvPtKQ"
+      }, 
+      {
+        "name": "Jade Visions [take 2]", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3xjg5gjhKlFhshD7NuAmdd"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/30f2ec001bdfc8ba06226a6e2353a0d2582480c3", 
+        "is_playable": true, 
+        "uri": "spotify:track:3xjg5gjhKlFhshD7NuAmdd", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3xjg5gjhKlFhshD7NuAmdd", 
+        "artists": [
+          {
+            "name": "Bill Evans Trio", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+            }, 
+            "uri": "spotify:artist:3VEG6gxFIMfl4Cdog26avS", 
+            "href": "https://api.spotify.com/v1/artists/3VEG6gxFIMfl4Cdog26avS", 
+            "type": "artist", 
+            "id": "3VEG6gxFIMfl4Cdog26avS"
+          }
+        ], 
+        "duration_ms": 226826, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "3xjg5gjhKlFhshD7NuAmdd"
+      }, 
+      {
+        "name": "Gloria's Step [take 3]", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4ixp5AFxvFBPXcbcZqL849"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8af5846892f39741b114e93c79c9127935e4bc55", 
+        "is_playable": true, 
+        "uri": "spotify:track:4ixp5AFxvFBPXcbcZqL849", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4ixp5AFxvFBPXcbcZqL849", 
+        "artists": [
+          {
+            "name": "Bill Evans Trio", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+            }, 
+            "uri": "spotify:artist:3VEG6gxFIMfl4Cdog26avS", 
+            "href": "https://api.spotify.com/v1/artists/3VEG6gxFIMfl4Cdog26avS", 
+            "type": "artist", 
+            "id": "3VEG6gxFIMfl4Cdog26avS"
+          }
+        ], 
+        "duration_ms": 417320, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "4ixp5AFxvFBPXcbcZqL849"
+      }, 
+      {
+        "name": "Alice In Wonderland [take 1]", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2RJdGliUVhvqigUfFciSwW"
+        }, 
+        "explicit": false, 
+        "preview_url": null, 
+        "is_playable": false, 
+        "uri": "spotify:track:2RJdGliUVhvqigUfFciSwW", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2RJdGliUVhvqigUfFciSwW", 
+        "artists": [
+          {
+            "name": "Bill Evans Trio", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+            }, 
+            "uri": "spotify:artist:3VEG6gxFIMfl4Cdog26avS", 
+            "href": "https://api.spotify.com/v1/artists/3VEG6gxFIMfl4Cdog26avS", 
+            "type": "artist", 
+            "id": "3VEG6gxFIMfl4Cdog26avS"
+          }
+        ], 
+        "duration_ms": 423760, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "2RJdGliUVhvqigUfFciSwW"
+      }, 
+      {
+        "name": "All Of You [take 3]", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/03r5hVFn47P0Ok2z9z7O4B"
+        }, 
+        "explicit": false, 
+        "preview_url": null, 
+        "is_playable": false, 
+        "uri": "spotify:track:03r5hVFn47P0Ok2z9z7O4B", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/03r5hVFn47P0Ok2z9z7O4B", 
+        "artists": [
+          {
+            "name": "Bill Evans Trio", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+            }, 
+            "uri": "spotify:artist:3VEG6gxFIMfl4Cdog26avS", 
+            "href": "https://api.spotify.com/v1/artists/3VEG6gxFIMfl4Cdog26avS", 
+            "type": "artist", 
+            "id": "3VEG6gxFIMfl4Cdog26avS"
+          }
+        ], 
+        "duration_ms": 485093, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "03r5hVFn47P0Ok2z9z7O4B"
+      }, 
+      {
+        "name": "Jade Visions [take 1]", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/11Uy4RNCJiSql7xaYePjlh"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/16517d019d753549c2e0ffa5b1511b887e7b57cc", 
+        "is_playable": true, 
+        "uri": "spotify:track:11Uy4RNCJiSql7xaYePjlh", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/11Uy4RNCJiSql7xaYePjlh", 
+        "artists": [
+          {
+            "name": "Bill Evans Trio", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+            }, 
+            "uri": "spotify:artist:3VEG6gxFIMfl4Cdog26avS", 
+            "href": "https://api.spotify.com/v1/artists/3VEG6gxFIMfl4Cdog26avS", 
+            "type": "artist", 
+            "id": "3VEG6gxFIMfl4Cdog26avS"
+          }
+        ], 
+        "duration_ms": 250946, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "11Uy4RNCJiSql7xaYePjlh"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/6FSgsN5ROADI1YQOieljKD/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 10, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/6FSgsN5ROADI1YQOieljKD", 
+  "copyrights": [
+    {
+      "text": "(C) 2008 Concord Music Group, Inc.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 2008 Concord Music Group, Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Bill Evans Trio", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+      }, 
+      "uri": "spotify:artist:3VEG6gxFIMfl4Cdog26avS", 
+      "href": "https://api.spotify.com/v1/artists/3VEG6gxFIMfl4Cdog26avS", 
+      "type": "artist", 
+      "id": "3VEG6gxFIMfl4Cdog26avS"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/e39c77ab32b247d86ec4e6eaf152052ab7a180be", 
+      "width": 640, 
+      "height": 634
+    }, 
+    {
+      "url": "https://i.scdn.co/image/250a1b948f7d62f5a49c1186fc1c81454670f8a5", 
+      "width": 300, 
+      "height": 297
+    }, 
+    {
+      "url": "https://i.scdn.co/image/98c53310d6ddabbe4b3cbf2bb72ca808f4e5eed1", 
+      "width": 64, 
+      "height": 63
+    }
+  ], 
+  "external_ids": {
+    "upc": "00888072305090"
+  }, 
+  "type": "album", 
+  "id": "6FSgsN5ROADI1YQOieljKD", 
+  "name": "Sunday At The Village Vanguard [Keepnews Collection]"
+}

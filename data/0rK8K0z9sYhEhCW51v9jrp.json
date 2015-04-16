@@ -1,0 +1,347 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0rK8K0z9sYhEhCW51v9jrp"
+  }, 
+  "release_date": "1998-11-02", 
+  "popularity": 69, 
+  "genres": [], 
+  "uri": "spotify:album:0rK8K0z9sYhEhCW51v9jrp", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Please Forgive Me", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2H0oiflYrs8PPjOxZ5TdIu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3c775d8db714a8d8faa212cef6f8dfd33453c3a1", 
+        "is_playable": true, 
+        "uri": "spotify:track:2H0oiflYrs8PPjOxZ5TdIu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2H0oiflYrs8PPjOxZ5TdIu", 
+        "artists": [
+          {
+            "name": "David Gray", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV"
+            }, 
+            "uri": "spotify:artist:7J2lZBANizgPNfUzux31PV", 
+            "href": "https://api.spotify.com/v1/artists/7J2lZBANizgPNfUzux31PV", 
+            "type": "artist", 
+            "id": "7J2lZBANizgPNfUzux31PV"
+          }
+        ], 
+        "duration_ms": 335266, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "2H0oiflYrs8PPjOxZ5TdIu"
+      }, 
+      {
+        "name": "Babylon", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5jLqVCGlKNYrLqCA1Qy4FV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8f4810152d44ff9bf79055b2d70de3d4bc5e61fa", 
+        "is_playable": true, 
+        "uri": "spotify:track:5jLqVCGlKNYrLqCA1Qy4FV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5jLqVCGlKNYrLqCA1Qy4FV", 
+        "artists": [
+          {
+            "name": "David Gray", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV"
+            }, 
+            "uri": "spotify:artist:7J2lZBANizgPNfUzux31PV", 
+            "href": "https://api.spotify.com/v1/artists/7J2lZBANizgPNfUzux31PV", 
+            "type": "artist", 
+            "id": "7J2lZBANizgPNfUzux31PV"
+          }
+        ], 
+        "duration_ms": 265666, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "5jLqVCGlKNYrLqCA1Qy4FV"
+      }, 
+      {
+        "name": "My Oh My", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5zf1890t2UZ4MOxs3hTytD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/97ad58e1ba54b908e6cdcdfe5b157b2a1369e1bb", 
+        "is_playable": true, 
+        "uri": "spotify:track:5zf1890t2UZ4MOxs3hTytD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5zf1890t2UZ4MOxs3hTytD", 
+        "artists": [
+          {
+            "name": "David Gray", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV"
+            }, 
+            "uri": "spotify:artist:7J2lZBANizgPNfUzux31PV", 
+            "href": "https://api.spotify.com/v1/artists/7J2lZBANizgPNfUzux31PV", 
+            "type": "artist", 
+            "id": "7J2lZBANizgPNfUzux31PV"
+          }
+        ], 
+        "duration_ms": 277266, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "5zf1890t2UZ4MOxs3hTytD"
+      }, 
+      {
+        "name": "We're Not Right", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/26QE9SpQ04AdLbUTJwULZG"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8c59a51146022f05c5121f378a06f86290f4cc08", 
+        "is_playable": true, 
+        "uri": "spotify:track:26QE9SpQ04AdLbUTJwULZG", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/26QE9SpQ04AdLbUTJwULZG", 
+        "artists": [
+          {
+            "name": "David Gray", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV"
+            }, 
+            "uri": "spotify:artist:7J2lZBANizgPNfUzux31PV", 
+            "href": "https://api.spotify.com/v1/artists/7J2lZBANizgPNfUzux31PV", 
+            "type": "artist", 
+            "id": "7J2lZBANizgPNfUzux31PV"
+          }
+        ], 
+        "duration_ms": 183800, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "26QE9SpQ04AdLbUTJwULZG"
+      }, 
+      {
+        "name": "Nightblindness", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0p9B88QpaTlSQxHvKWy9Wi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/292408f4d2556fbb913e31b2620da850ad29e9e0", 
+        "is_playable": true, 
+        "uri": "spotify:track:0p9B88QpaTlSQxHvKWy9Wi", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0p9B88QpaTlSQxHvKWy9Wi", 
+        "artists": [
+          {
+            "name": "David Gray", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV"
+            }, 
+            "uri": "spotify:artist:7J2lZBANizgPNfUzux31PV", 
+            "href": "https://api.spotify.com/v1/artists/7J2lZBANizgPNfUzux31PV", 
+            "type": "artist", 
+            "id": "7J2lZBANizgPNfUzux31PV"
+          }
+        ], 
+        "duration_ms": 263533, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "0p9B88QpaTlSQxHvKWy9Wi"
+      }, 
+      {
+        "name": "Silver Lining", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4aSfCUQzJKRpsHeceowysk"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9d9cc9ad95be94aeb70b819f6c6f149179bf7ef9", 
+        "is_playable": true, 
+        "uri": "spotify:track:4aSfCUQzJKRpsHeceowysk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4aSfCUQzJKRpsHeceowysk", 
+        "artists": [
+          {
+            "name": "David Gray", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV"
+            }, 
+            "uri": "spotify:artist:7J2lZBANizgPNfUzux31PV", 
+            "href": "https://api.spotify.com/v1/artists/7J2lZBANizgPNfUzux31PV", 
+            "type": "artist", 
+            "id": "7J2lZBANizgPNfUzux31PV"
+          }
+        ], 
+        "duration_ms": 359733, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "4aSfCUQzJKRpsHeceowysk"
+      }, 
+      {
+        "name": "White Ladder", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3sPgYsbRwiSMCBXcry8NWm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/68704d304f1f98b66bda3f46ba3d287ee96e5b90", 
+        "is_playable": true, 
+        "uri": "spotify:track:3sPgYsbRwiSMCBXcry8NWm", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3sPgYsbRwiSMCBXcry8NWm", 
+        "artists": [
+          {
+            "name": "David Gray", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV"
+            }, 
+            "uri": "spotify:artist:7J2lZBANizgPNfUzux31PV", 
+            "href": "https://api.spotify.com/v1/artists/7J2lZBANizgPNfUzux31PV", 
+            "type": "artist", 
+            "id": "7J2lZBANizgPNfUzux31PV"
+          }
+        ], 
+        "duration_ms": 254626, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "3sPgYsbRwiSMCBXcry8NWm"
+      }, 
+      {
+        "name": "This Year's Love", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1dQOMZz9SkT7ig0w65lQWC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6c0aed082a43d8cf94f9c59dae89d037d74865c2", 
+        "is_playable": true, 
+        "uri": "spotify:track:1dQOMZz9SkT7ig0w65lQWC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1dQOMZz9SkT7ig0w65lQWC", 
+        "artists": [
+          {
+            "name": "David Gray", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV"
+            }, 
+            "uri": "spotify:artist:7J2lZBANizgPNfUzux31PV", 
+            "href": "https://api.spotify.com/v1/artists/7J2lZBANizgPNfUzux31PV", 
+            "type": "artist", 
+            "id": "7J2lZBANizgPNfUzux31PV"
+          }
+        ], 
+        "duration_ms": 245533, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "1dQOMZz9SkT7ig0w65lQWC"
+      }, 
+      {
+        "name": "Sail Away", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7w5GAUVhimHVPSwTsPnxq5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2531022daf2773ff17911a48b3e9426c60958d54", 
+        "is_playable": true, 
+        "uri": "spotify:track:7w5GAUVhimHVPSwTsPnxq5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7w5GAUVhimHVPSwTsPnxq5", 
+        "artists": [
+          {
+            "name": "David Gray", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV"
+            }, 
+            "uri": "spotify:artist:7J2lZBANizgPNfUzux31PV", 
+            "href": "https://api.spotify.com/v1/artists/7J2lZBANizgPNfUzux31PV", 
+            "type": "artist", 
+            "id": "7J2lZBANizgPNfUzux31PV"
+          }
+        ], 
+        "duration_ms": 315373, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "7w5GAUVhimHVPSwTsPnxq5"
+      }, 
+      {
+        "name": "Say Hello, Wave Goodbye", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0eUfaEi18FD4WPPb44nL4B"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1a7e35574e1bdb81eb68fa0812b703c9c50ea74b", 
+        "is_playable": true, 
+        "uri": "spotify:track:0eUfaEi18FD4WPPb44nL4B", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0eUfaEi18FD4WPPb44nL4B", 
+        "artists": [
+          {
+            "name": "David Gray", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV"
+            }, 
+            "uri": "spotify:artist:7J2lZBANizgPNfUzux31PV", 
+            "href": "https://api.spotify.com/v1/artists/7J2lZBANizgPNfUzux31PV", 
+            "type": "artist", 
+            "id": "7J2lZBANizgPNfUzux31PV"
+          }
+        ], 
+        "duration_ms": 538200, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "0eUfaEi18FD4WPPb44nL4B"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/0rK8K0z9sYhEhCW51v9jrp/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 10, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/0rK8K0z9sYhEhCW51v9jrp", 
+  "copyrights": [
+    {
+      "text": "2014 iht Records Ltd", 
+      "type": "C"
+    }, 
+    {
+      "text": "1998 iht Records Ltd", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "David Gray", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV"
+      }, 
+      "uri": "spotify:artist:7J2lZBANizgPNfUzux31PV", 
+      "href": "https://api.spotify.com/v1/artists/7J2lZBANizgPNfUzux31PV", 
+      "type": "artist", 
+      "id": "7J2lZBANizgPNfUzux31PV"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/78a013a78c8f9a03a9e496b2222abdb85ad09175", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/e34b3625c1cf371be0612867c16d1ad6ed02467a", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/a8f5d0c6257067d1eb4603c8e076a042d9ed2cb6", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "5060186923628"
+  }, 
+  "type": "album", 
+  "id": "0rK8K0z9sYhEhCW51v9jrp", 
+  "name": "White Ladder"
+}

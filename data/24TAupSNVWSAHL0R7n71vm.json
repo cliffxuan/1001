@@ -1,0 +1,755 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
+  }, 
+  "release_date": "2012-09-18", 
+  "popularity": 73, 
+  "genres": [], 
+  "uri": "spotify:album:24TAupSNVWSAHL0R7n71vm", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Bad - 2012 Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5lWFrW5T3JtxVCLDb7etPu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e24fe3636fe11d351f8267eaf378b4998e2a49dc", 
+        "is_playable": true, 
+        "uri": "spotify:track:5lWFrW5T3JtxVCLDb7etPu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5lWFrW5T3JtxVCLDb7etPu", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }
+        ], 
+        "duration_ms": 247360, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "5lWFrW5T3JtxVCLDb7etPu"
+      }, 
+      {
+        "name": "The Way You Make Me Feel - 2012 Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0sKlV58cODrjxGFOyf9IXY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9878adbef09c7c3a6a1f0dd853f868138dc103de", 
+        "is_playable": true, 
+        "uri": "spotify:track:0sKlV58cODrjxGFOyf9IXY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0sKlV58cODrjxGFOyf9IXY", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }
+        ], 
+        "duration_ms": 298120, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "0sKlV58cODrjxGFOyf9IXY"
+      }, 
+      {
+        "name": "Speed Demon - 2012 Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2w7VEWHtt8WW88Yt5H9ibZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/84b910d2772ffed1927cbda0821412c25906724f", 
+        "is_playable": true, 
+        "uri": "spotify:track:2w7VEWHtt8WW88Yt5H9ibZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2w7VEWHtt8WW88Yt5H9ibZ", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }
+        ], 
+        "duration_ms": 242026, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "2w7VEWHtt8WW88Yt5H9ibZ"
+      }, 
+      {
+        "name": "Liberian Girl - 2012 Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5OoRmdDfAiDztSwrhe7wuE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7ef3ab0710f07dd256732e6e79a32104a540c7ff", 
+        "is_playable": true, 
+        "uri": "spotify:track:5OoRmdDfAiDztSwrhe7wuE", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5OoRmdDfAiDztSwrhe7wuE", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }
+        ], 
+        "duration_ms": 232800, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "5OoRmdDfAiDztSwrhe7wuE"
+      }, 
+      {
+        "name": "Just Good Friends - 2012 Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/75Rv9SkGILm24kmhAYvjZg"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4c6cd71b08140a6ffad3a16b186611a795f0e2d7", 
+        "is_playable": true, 
+        "uri": "spotify:track:75Rv9SkGILm24kmhAYvjZg", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/75Rv9SkGILm24kmhAYvjZg", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }
+        ], 
+        "duration_ms": 246133, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "75Rv9SkGILm24kmhAYvjZg"
+      }, 
+      {
+        "name": "Another Part of Me - 2012 Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/21VCYxPZ8A2XpSNUyQCT3B"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1fa6cc36feb4cd0b169ef4bb3458cf2bb562d9b2", 
+        "is_playable": true, 
+        "uri": "spotify:track:21VCYxPZ8A2XpSNUyQCT3B", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/21VCYxPZ8A2XpSNUyQCT3B", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }
+        ], 
+        "duration_ms": 234720, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "21VCYxPZ8A2XpSNUyQCT3B"
+      }, 
+      {
+        "name": "Man in the Mirror - 2012 Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1kiNatIrwDusOZfR29W0LJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/40b9ab8decbe4aa43842f6932c4a073a55f94ad6", 
+        "is_playable": true, 
+        "uri": "spotify:track:1kiNatIrwDusOZfR29W0LJ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1kiNatIrwDusOZfR29W0LJ", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }
+        ], 
+        "duration_ms": 318680, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "1kiNatIrwDusOZfR29W0LJ"
+      }, 
+      {
+        "name": "I Just Can't Stop Loving You - 2012 Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2fytePz8UsbUr8n33QBEcm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d7e6cbc8545cc977e6abed57c1128066316fa84c", 
+        "is_playable": true, 
+        "uri": "spotify:track:2fytePz8UsbUr8n33QBEcm", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2fytePz8UsbUr8n33QBEcm", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }, 
+          {
+            "name": "Siedah Garrett", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT"
+            }, 
+            "uri": "spotify:artist:7EVlecngyrLHfQUqFMpwkT", 
+            "href": "https://api.spotify.com/v1/artists/7EVlecngyrLHfQUqFMpwkT", 
+            "type": "artist", 
+            "id": "7EVlecngyrLHfQUqFMpwkT"
+          }
+        ], 
+        "duration_ms": 251760, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "2fytePz8UsbUr8n33QBEcm"
+      }, 
+      {
+        "name": "Dirty Diana - 2012 Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3yBlJtq86wROQpHi1goEKT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8c70838da06fa6cbd8031853503691cc21b7c87e", 
+        "is_playable": true, 
+        "uri": "spotify:track:3yBlJtq86wROQpHi1goEKT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3yBlJtq86wROQpHi1goEKT", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }
+        ], 
+        "duration_ms": 280760, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "3yBlJtq86wROQpHi1goEKT"
+      }, 
+      {
+        "name": "Smooth Criminal - 2012 Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2bCQHF9gdG5BNDVuEIEnNk"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ea6aecba4d32d540837079e55cdc2b0aeb06c43f", 
+        "is_playable": true, 
+        "uri": "spotify:track:2bCQHF9gdG5BNDVuEIEnNk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2bCQHF9gdG5BNDVuEIEnNk", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }
+        ], 
+        "duration_ms": 257760, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "2bCQHF9gdG5BNDVuEIEnNk"
+      }, 
+      {
+        "name": "Leave Me Alone - 2012 Remaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2jQfozDpitT8lVEYoOjmeR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/aab0fdd97d669fe19c744cd7bbdb0b222ef781e3", 
+        "is_playable": true, 
+        "uri": "spotify:track:2jQfozDpitT8lVEYoOjmeR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2jQfozDpitT8lVEYoOjmeR", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }
+        ], 
+        "duration_ms": 280360, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "2jQfozDpitT8lVEYoOjmeR"
+      }, 
+      {
+        "name": "Don't Be Messin' 'Round", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4DdtaYlJk11wRpRC6eMhHa"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c6591f23322b0f7c50d0a5be0acffd73b7496e1c", 
+        "is_playable": true, 
+        "uri": "spotify:track:4DdtaYlJk11wRpRC6eMhHa", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4DdtaYlJk11wRpRC6eMhHa", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }
+        ], 
+        "duration_ms": 259480, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "4DdtaYlJk11wRpRC6eMhHa"
+      }, 
+      {
+        "name": "I'm So Blue", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4E4uk2y03wLssBIOjQSUoG"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f11c6ce1d0fe854ce8b5dbc2e84715bb16151812", 
+        "is_playable": true, 
+        "uri": "spotify:track:4E4uk2y03wLssBIOjQSUoG", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4E4uk2y03wLssBIOjQSUoG", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }
+        ], 
+        "duration_ms": 247693, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "4E4uk2y03wLssBIOjQSUoG"
+      }, 
+      {
+        "name": "Song Groove (a.k.a. Abortion Papers)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3YkgiRmt9aNzfxXgcij7eY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8c366ff2bd912d6065d103a1331eba6dda44a8a6", 
+        "is_playable": true, 
+        "uri": "spotify:track:3YkgiRmt9aNzfxXgcij7eY", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/3YkgiRmt9aNzfxXgcij7eY", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }
+        ], 
+        "duration_ms": 266773, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "3YkgiRmt9aNzfxXgcij7eY"
+      }, 
+      {
+        "name": "Free", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1NeR1aXj5JBFYcDVvMqQpO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8e936e6d72804d8842e8e0ff2bdc837f7ae42747", 
+        "is_playable": true, 
+        "uri": "spotify:track:1NeR1aXj5JBFYcDVvMqQpO", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1NeR1aXj5JBFYcDVvMqQpO", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }
+        ], 
+        "duration_ms": 265066, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "1NeR1aXj5JBFYcDVvMqQpO"
+      }, 
+      {
+        "name": "Price of Fame", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4xrw5lHtYDYHIFj96Tse7O"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/81d39d7bf70984993a4f7db4d79255ae187a21da", 
+        "is_playable": true, 
+        "uri": "spotify:track:4xrw5lHtYDYHIFj96Tse7O", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4xrw5lHtYDYHIFj96Tse7O", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }
+        ], 
+        "duration_ms": 273506, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "4xrw5lHtYDYHIFj96Tse7O"
+      }, 
+      {
+        "name": "Al Capone", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3d9E8xXtuKmqNNxA1YW5ax"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4f3f00796c07f0b49a1b0dcf84b621a69b9bd4a1", 
+        "is_playable": true, 
+        "uri": "spotify:track:3d9E8xXtuKmqNNxA1YW5ax", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/3d9E8xXtuKmqNNxA1YW5ax", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }
+        ], 
+        "duration_ms": 214786, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "3d9E8xXtuKmqNNxA1YW5ax"
+      }, 
+      {
+        "name": "Streetwalker", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0zZRYdXy3STXl8o847K5By"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e4c8e5bcb12699fba43d66838d02d2f53eecf187", 
+        "is_playable": true, 
+        "uri": "spotify:track:0zZRYdXy3STXl8o847K5By", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/0zZRYdXy3STXl8o847K5By", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }
+        ], 
+        "duration_ms": 353720, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "0zZRYdXy3STXl8o847K5By"
+      }, 
+      {
+        "name": "Fly Away", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0oleopAuBlxuq7fcFl9Ap8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/de0e414adf50caa141e3d1d039b6936a8f878676", 
+        "is_playable": true, 
+        "uri": "spotify:track:0oleopAuBlxuq7fcFl9Ap8", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/0oleopAuBlxuq7fcFl9Ap8", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }
+        ], 
+        "duration_ms": 207080, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "0oleopAuBlxuq7fcFl9Ap8"
+      }, 
+      {
+        "name": "Todo Mi Amor Eres Tu (I Just Can't Stop Loving You)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2O9llQaI7q6FPY2afs9k8R"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3395a445be0494a9bfdfe3a9384df06271dbc718", 
+        "is_playable": true, 
+        "uri": "spotify:track:2O9llQaI7q6FPY2afs9k8R", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/2O9llQaI7q6FPY2afs9k8R", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }
+        ], 
+        "duration_ms": 250773, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "2O9llQaI7q6FPY2afs9k8R"
+      }, 
+      {
+        "name": "Je Ne Veux Pas La Fin De Nous (I Just Can't Stop Loving You) - French Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6KYO3lxxVzKdb4zcyEgkaS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8253f7f2a50310027fa6fab46b479a706fb26593", 
+        "is_playable": true, 
+        "uri": "spotify:track:6KYO3lxxVzKdb4zcyEgkaS", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6KYO3lxxVzKdb4zcyEgkaS", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }
+        ], 
+        "duration_ms": 247933, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "6KYO3lxxVzKdb4zcyEgkaS"
+      }, 
+      {
+        "name": "Bad - Remix By AfroJack Featuring Pitbull-DJ Buddha Edit", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7lVHsLX1Tgy0UqQFk8NsCO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e012e49e2d471820a1e93871b3d4818651f8c5e8", 
+        "is_playable": true, 
+        "uri": "spotify:track:7lVHsLX1Tgy0UqQFk8NsCO", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/7lVHsLX1Tgy0UqQFk8NsCO", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }, 
+          {
+            "name": "Pitbull", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+            }, 
+            "uri": "spotify:artist:0TnOYISbd1XYRBk9myaseg", 
+            "href": "https://api.spotify.com/v1/artists/0TnOYISbd1XYRBk9myaseg", 
+            "type": "artist", 
+            "id": "0TnOYISbd1XYRBk9myaseg"
+          }
+        ], 
+        "duration_ms": 264733, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "7lVHsLX1Tgy0UqQFk8NsCO"
+      }, 
+      {
+        "name": "Speed Demon (Remix by Nero)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/38EeKmUjNEF1KA4KfcEB0v"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e9c232a7050a0daafeff0434451f35688d22efb8", 
+        "is_playable": true, 
+        "uri": "spotify:track:38EeKmUjNEF1KA4KfcEB0v", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/38EeKmUjNEF1KA4KfcEB0v", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }
+        ], 
+        "duration_ms": 248186, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "38EeKmUjNEF1KA4KfcEB0v"
+      }, 
+      {
+        "name": "Bad - Remix By AfroJack-Club Mix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5yWui9wtvNkbbKNcYc5fJG"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d24ddd6d280ba5a874016e7d4aa38ed3d67bc2be", 
+        "is_playable": true, 
+        "uri": "spotify:track:5yWui9wtvNkbbKNcYc5fJG", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5yWui9wtvNkbbKNcYc5fJG", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }
+        ], 
+        "duration_ms": 451880, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "5yWui9wtvNkbbKNcYc5fJG"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/24TAupSNVWSAHL0R7n71vm/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 24, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/24TAupSNVWSAHL0R7n71vm", 
+  "copyrights": [
+    {
+      "text": "(P) 1993 MJJ Productions Inc./(P) 2012 MJJ Productions Inc./(P) 2012 MJJ Productions Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Michael Jackson", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+      }, 
+      "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+      "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+      "type": "artist", 
+      "id": "3fMbdgg4jU18AjLCKBhRSm"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ae7f1397024f8fa62668612af930c22915108302", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/37a9261bec26c730d99a3687c09cabf4bd4cf186", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/3c439c3ef3fc8ec0484cbd3c3cf6b9333b1b58e9", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "886443546240"
+  }, 
+  "type": "album", 
+  "id": "24TAupSNVWSAHL0R7n71vm", 
+  "name": "Bad 25th Anniversary"
+}

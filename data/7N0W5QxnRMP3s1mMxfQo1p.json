@@ -1,0 +1,515 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7N0W5QxnRMP3s1mMxfQo1p"
+  }, 
+  "release_date": "1996-01-01", 
+  "popularity": 52, 
+  "genres": [], 
+  "uri": "spotify:album:7N0W5QxnRMP3s1mMxfQo1p", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Best Foot Forward", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6EZFJqbA2AO7McS0FfqZ4Y"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e43bd150968f4f9c66df500b839c8284df28281b", 
+        "is_playable": true, 
+        "uri": "spotify:track:6EZFJqbA2AO7McS0FfqZ4Y", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6EZFJqbA2AO7McS0FfqZ4Y", 
+        "artists": [
+          {
+            "name": "DJ Shadow", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+            }, 
+            "uri": "spotify:artist:5CE2IfdYZEQGIDsfiRm8SI", 
+            "href": "https://api.spotify.com/v1/artists/5CE2IfdYZEQGIDsfiRm8SI", 
+            "type": "artist", 
+            "id": "5CE2IfdYZEQGIDsfiRm8SI"
+          }
+        ], 
+        "duration_ms": 48529, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "6EZFJqbA2AO7McS0FfqZ4Y"
+      }, 
+      {
+        "name": "Building Steam With A Grain Of Salt", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6iugUJxw11T9vfOehIzBvF"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/806998f5cf03cfadbf9b8f338c48dc80476a943a", 
+        "is_playable": true, 
+        "uri": "spotify:track:6iugUJxw11T9vfOehIzBvF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6iugUJxw11T9vfOehIzBvF", 
+        "artists": [
+          {
+            "name": "DJ Shadow", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+            }, 
+            "uri": "spotify:artist:5CE2IfdYZEQGIDsfiRm8SI", 
+            "href": "https://api.spotify.com/v1/artists/5CE2IfdYZEQGIDsfiRm8SI", 
+            "type": "artist", 
+            "id": "5CE2IfdYZEQGIDsfiRm8SI"
+          }
+        ], 
+        "duration_ms": 399026, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "6iugUJxw11T9vfOehIzBvF"
+      }, 
+      {
+        "name": "The Number Song", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3ZOMvRHVefZsYZpoAdjDu3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e6c575b6b769c92a3d82b21c178f8fc657d3fd54", 
+        "is_playable": true, 
+        "uri": "spotify:track:3ZOMvRHVefZsYZpoAdjDu3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3ZOMvRHVefZsYZpoAdjDu3", 
+        "artists": [
+          {
+            "name": "DJ Shadow", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+            }, 
+            "uri": "spotify:artist:5CE2IfdYZEQGIDsfiRm8SI", 
+            "href": "https://api.spotify.com/v1/artists/5CE2IfdYZEQGIDsfiRm8SI", 
+            "type": "artist", 
+            "id": "5CE2IfdYZEQGIDsfiRm8SI"
+          }
+        ], 
+        "duration_ms": 274266, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "3ZOMvRHVefZsYZpoAdjDu3"
+      }, 
+      {
+        "name": "Changeling", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/08rkNUDWsdsJknb8wNS50p"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c899a3beebb237419dd16063650a92c2e78f7534", 
+        "is_playable": true, 
+        "uri": "spotify:track:08rkNUDWsdsJknb8wNS50p", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/08rkNUDWsdsJknb8wNS50p", 
+        "artists": [
+          {
+            "name": "DJ Shadow", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+            }, 
+            "uri": "spotify:artist:5CE2IfdYZEQGIDsfiRm8SI", 
+            "href": "https://api.spotify.com/v1/artists/5CE2IfdYZEQGIDsfiRm8SI", 
+            "type": "artist", 
+            "id": "5CE2IfdYZEQGIDsfiRm8SI"
+          }
+        ], 
+        "duration_ms": 436200, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "08rkNUDWsdsJknb8wNS50p"
+      }, 
+      {
+        "name": "Transmission 1", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4fKy9sf6h7YIOpqm6ilWpc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/684de3235b0d0c136f0e08d674c235f646bfce9d", 
+        "is_playable": true, 
+        "uri": "spotify:track:4fKy9sf6h7YIOpqm6ilWpc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4fKy9sf6h7YIOpqm6ilWpc", 
+        "artists": [
+          {
+            "name": "DJ Shadow", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+            }, 
+            "uri": "spotify:artist:5CE2IfdYZEQGIDsfiRm8SI", 
+            "href": "https://api.spotify.com/v1/artists/5CE2IfdYZEQGIDsfiRm8SI", 
+            "type": "artist", 
+            "id": "5CE2IfdYZEQGIDsfiRm8SI"
+          }
+        ], 
+        "duration_ms": 35106, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "4fKy9sf6h7YIOpqm6ilWpc"
+      }, 
+      {
+        "name": "What Does Your Soul Look Like (Part 4)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/55wF0vNjvCK9fEjJBEcq0Y"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/42147479cc2ae2c89c4cfbdf0419ff7150ee5d4b", 
+        "is_playable": true, 
+        "uri": "spotify:track:55wF0vNjvCK9fEjJBEcq0Y", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/55wF0vNjvCK9fEjJBEcq0Y", 
+        "artists": [
+          {
+            "name": "DJ Shadow", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+            }, 
+            "uri": "spotify:artist:5CE2IfdYZEQGIDsfiRm8SI", 
+            "href": "https://api.spotify.com/v1/artists/5CE2IfdYZEQGIDsfiRm8SI", 
+            "type": "artist", 
+            "id": "5CE2IfdYZEQGIDsfiRm8SI"
+          }
+        ], 
+        "duration_ms": 302293, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "55wF0vNjvCK9fEjJBEcq0Y"
+      }, 
+      {
+        "name": "Untitled", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2hP2dOyQgmYJtPDymKNjjH"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0e26b04d37fa9d0ddd8cfec4bea79d8de129ad97", 
+        "is_playable": true, 
+        "uri": "spotify:track:2hP2dOyQgmYJtPDymKNjjH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2hP2dOyQgmYJtPDymKNjjH", 
+        "artists": [
+          {
+            "name": "DJ Shadow", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+            }, 
+            "uri": "spotify:artist:5CE2IfdYZEQGIDsfiRm8SI", 
+            "href": "https://api.spotify.com/v1/artists/5CE2IfdYZEQGIDsfiRm8SI", 
+            "type": "artist", 
+            "id": "5CE2IfdYZEQGIDsfiRm8SI"
+          }
+        ], 
+        "duration_ms": 24866, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "2hP2dOyQgmYJtPDymKNjjH"
+      }, 
+      {
+        "name": "Stem/Long Stem", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3NOTYFFLZt2EO1wYgRRvTl"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bc243dd85076970a1aaa6106f001c4277bb2b81d", 
+        "is_playable": true, 
+        "uri": "spotify:track:3NOTYFFLZt2EO1wYgRRvTl", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3NOTYFFLZt2EO1wYgRRvTl", 
+        "artists": [
+          {
+            "name": "DJ Shadow", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+            }, 
+            "uri": "spotify:artist:5CE2IfdYZEQGIDsfiRm8SI", 
+            "href": "https://api.spotify.com/v1/artists/5CE2IfdYZEQGIDsfiRm8SI", 
+            "type": "artist", 
+            "id": "5CE2IfdYZEQGIDsfiRm8SI"
+          }
+        ], 
+        "duration_ms": 467840, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "3NOTYFFLZt2EO1wYgRRvTl"
+      }, 
+      {
+        "name": "Transmission 2", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6b6niJUQYSxb2zUZwY7Ewy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/03a578614694d54f3b57d4ad94992a01e62b21a4", 
+        "is_playable": true, 
+        "uri": "spotify:track:6b6niJUQYSxb2zUZwY7Ewy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6b6niJUQYSxb2zUZwY7Ewy", 
+        "artists": [
+          {
+            "name": "DJ Shadow", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+            }, 
+            "uri": "spotify:artist:5CE2IfdYZEQGIDsfiRm8SI", 
+            "href": "https://api.spotify.com/v1/artists/5CE2IfdYZEQGIDsfiRm8SI", 
+            "type": "artist", 
+            "id": "5CE2IfdYZEQGIDsfiRm8SI"
+          }
+        ], 
+        "duration_ms": 89226, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "6b6niJUQYSxb2zUZwY7Ewy"
+      }, 
+      {
+        "name": "Mutual Slump", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5YvsMgQVe5st3WPw79AvsR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e13f7aab95094eb61d3f82fcf23c260e1cfdad69", 
+        "is_playable": true, 
+        "uri": "spotify:track:5YvsMgQVe5st3WPw79AvsR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5YvsMgQVe5st3WPw79AvsR", 
+        "artists": [
+          {
+            "name": "DJ Shadow", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+            }, 
+            "uri": "spotify:artist:5CE2IfdYZEQGIDsfiRm8SI", 
+            "href": "https://api.spotify.com/v1/artists/5CE2IfdYZEQGIDsfiRm8SI", 
+            "type": "artist", 
+            "id": "5CE2IfdYZEQGIDsfiRm8SI"
+          }
+        ], 
+        "duration_ms": 240047, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "5YvsMgQVe5st3WPw79AvsR"
+      }, 
+      {
+        "name": "Organ Donor", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0qg7vnrsBfsDCikGxyWzSX"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/04d7088609fd9662193d030b64b5d3ef37580a8b", 
+        "is_playable": true, 
+        "uri": "spotify:track:0qg7vnrsBfsDCikGxyWzSX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0qg7vnrsBfsDCikGxyWzSX", 
+        "artists": [
+          {
+            "name": "DJ Shadow", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+            }, 
+            "uri": "spotify:artist:5CE2IfdYZEQGIDsfiRm8SI", 
+            "href": "https://api.spotify.com/v1/artists/5CE2IfdYZEQGIDsfiRm8SI", 
+            "type": "artist", 
+            "id": "5CE2IfdYZEQGIDsfiRm8SI"
+          }
+        ], 
+        "duration_ms": 117240, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "0qg7vnrsBfsDCikGxyWzSX"
+      }, 
+      {
+        "name": "Why Hip-Hop Sucks In '96", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7FdvW0iAMXj1lobCJHSx80"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8b45d069754c3a9c204ea5d7fb9a840465d85b1a", 
+        "is_playable": true, 
+        "uri": "spotify:track:7FdvW0iAMXj1lobCJHSx80", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7FdvW0iAMXj1lobCJHSx80", 
+        "artists": [
+          {
+            "name": "DJ Shadow", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+            }, 
+            "uri": "spotify:artist:5CE2IfdYZEQGIDsfiRm8SI", 
+            "href": "https://api.spotify.com/v1/artists/5CE2IfdYZEQGIDsfiRm8SI", 
+            "type": "artist", 
+            "id": "5CE2IfdYZEQGIDsfiRm8SI"
+          }
+        ], 
+        "duration_ms": 43960, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "7FdvW0iAMXj1lobCJHSx80"
+      }, 
+      {
+        "name": "Midnight In A Perfect World", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Lx9qpN7NgiWD4rgSQRBGH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a5195f036df323c6e404b7affbd27aeca308b900", 
+        "is_playable": true, 
+        "uri": "spotify:track:2Lx9qpN7NgiWD4rgSQRBGH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2Lx9qpN7NgiWD4rgSQRBGH", 
+        "artists": [
+          {
+            "name": "DJ Shadow", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+            }, 
+            "uri": "spotify:artist:5CE2IfdYZEQGIDsfiRm8SI", 
+            "href": "https://api.spotify.com/v1/artists/5CE2IfdYZEQGIDsfiRm8SI", 
+            "type": "artist", 
+            "id": "5CE2IfdYZEQGIDsfiRm8SI"
+          }
+        ], 
+        "duration_ms": 298373, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "2Lx9qpN7NgiWD4rgSQRBGH"
+      }, 
+      {
+        "name": "Napalm Brain/Scatter Brain", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1UPoPkIAXMPssofdXLkFWl"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2840bb9874fb7202a9ee09fb517a5b86c9241080", 
+        "is_playable": true, 
+        "uri": "spotify:track:1UPoPkIAXMPssofdXLkFWl", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1UPoPkIAXMPssofdXLkFWl", 
+        "artists": [
+          {
+            "name": "DJ Shadow", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+            }, 
+            "uri": "spotify:artist:5CE2IfdYZEQGIDsfiRm8SI", 
+            "href": "https://api.spotify.com/v1/artists/5CE2IfdYZEQGIDsfiRm8SI", 
+            "type": "artist", 
+            "id": "5CE2IfdYZEQGIDsfiRm8SI"
+          }
+        ], 
+        "duration_ms": 561360, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "1UPoPkIAXMPssofdXLkFWl"
+      }, 
+      {
+        "name": "What Does Your Soul Look Like - Part 1 - Blue Sky Revisit", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4SfQAicO06IrIw4uvRfWF3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e22bf55641660ae46e5c16b866cf47f3ad40b8a5", 
+        "is_playable": true, 
+        "uri": "spotify:track:4SfQAicO06IrIw4uvRfWF3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4SfQAicO06IrIw4uvRfWF3", 
+        "artists": [
+          {
+            "name": "DJ Shadow", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+            }, 
+            "uri": "spotify:artist:5CE2IfdYZEQGIDsfiRm8SI", 
+            "href": "https://api.spotify.com/v1/artists/5CE2IfdYZEQGIDsfiRm8SI", 
+            "type": "artist", 
+            "id": "5CE2IfdYZEQGIDsfiRm8SI"
+          }
+        ], 
+        "duration_ms": 377400, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "4SfQAicO06IrIw4uvRfWF3"
+      }, 
+      {
+        "name": "Transmission 3", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4sW0ZlC5Irb7kDeZOf7HZv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/88df8af2a02e5a4c48d890d9d2ec7aef99e28445", 
+        "is_playable": true, 
+        "uri": "spotify:track:4sW0ZlC5Irb7kDeZOf7HZv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4sW0ZlC5Irb7kDeZOf7HZv", 
+        "artists": [
+          {
+            "name": "DJ Shadow", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+            }, 
+            "uri": "spotify:artist:5CE2IfdYZEQGIDsfiRm8SI", 
+            "href": "https://api.spotify.com/v1/artists/5CE2IfdYZEQGIDsfiRm8SI", 
+            "type": "artist", 
+            "id": "5CE2IfdYZEQGIDsfiRm8SI"
+          }
+        ], 
+        "duration_ms": 70533, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "4sW0ZlC5Irb7kDeZOf7HZv"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/7N0W5QxnRMP3s1mMxfQo1p/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 16, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/7N0W5QxnRMP3s1mMxfQo1p", 
+  "copyrights": [
+    {
+      "text": "(C) 1996 Mowax Recordings/A&M Records Ltd.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1996 Mowax Recordings/A&M Records Ltd., Exclusively Licensed to Universal Island Music Ltd", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "DJ Shadow", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+      }, 
+      "uri": "spotify:artist:5CE2IfdYZEQGIDsfiRm8SI", 
+      "href": "https://api.spotify.com/v1/artists/5CE2IfdYZEQGIDsfiRm8SI", 
+      "type": "artist", 
+      "id": "5CE2IfdYZEQGIDsfiRm8SI"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/a3c8e20d37ae56811ed0d9419293da0840d3058d", 
+      "width": 640, 
+      "height": 634
+    }, 
+    {
+      "url": "https://i.scdn.co/image/e3f6b87514c8a0ad6918d57345821e4412d510fd", 
+      "width": 300, 
+      "height": 297
+    }, 
+    {
+      "url": "https://i.scdn.co/image/20384564af8c333bcde901e8e3a036c80fba60e8", 
+      "width": 64, 
+      "height": 63
+    }
+  ], 
+  "external_ids": {
+    "upc": "00731454060721"
+  }, 
+  "type": "album", 
+  "id": "7N0W5QxnRMP3s1mMxfQo1p", 
+  "name": "Endtroducing....."
+}

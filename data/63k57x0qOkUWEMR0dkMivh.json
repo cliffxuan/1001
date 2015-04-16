@@ -1,0 +1,375 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/63k57x0qOkUWEMR0dkMivh"
+  }, 
+  "release_date": "1977-02-04", 
+  "popularity": 70, 
+  "genres": [], 
+  "uri": "spotify:album:63k57x0qOkUWEMR0dkMivh", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Second Hand News", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1YSqoDlCU6HYVYVb4MwExM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3ee5afbdf51bc25656445d82b5c62a4dbfef79ed", 
+        "is_playable": true, 
+        "uri": "spotify:track:1YSqoDlCU6HYVYVb4MwExM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1YSqoDlCU6HYVYVb4MwExM", 
+        "artists": [
+          {
+            "name": "Fleetwood Mac", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+            }, 
+            "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X", 
+            "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X", 
+            "type": "artist", 
+            "id": "08GQAI4eElDnROBrJRGE0X"
+          }
+        ], 
+        "duration_ms": 173666, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "1YSqoDlCU6HYVYVb4MwExM"
+      }, 
+      {
+        "name": "Dreams", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/703BT1NQsfIwPFv8MXQ47m"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5aa88c35604411c77611b433dfc87c53076ffa9f", 
+        "is_playable": true, 
+        "uri": "spotify:track:703BT1NQsfIwPFv8MXQ47m", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/703BT1NQsfIwPFv8MXQ47m", 
+        "artists": [
+          {
+            "name": "Fleetwood Mac", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+            }, 
+            "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X", 
+            "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X", 
+            "type": "artist", 
+            "id": "08GQAI4eElDnROBrJRGE0X"
+          }
+        ], 
+        "duration_ms": 254453, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "703BT1NQsfIwPFv8MXQ47m"
+      }, 
+      {
+        "name": "Never Going Back Again", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1hqvNLAmwGTh8p3wReZIhV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/841a4084413b5972dea252b436b7237346536c44", 
+        "is_playable": true, 
+        "uri": "spotify:track:1hqvNLAmwGTh8p3wReZIhV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1hqvNLAmwGTh8p3wReZIhV", 
+        "artists": [
+          {
+            "name": "Fleetwood Mac", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+            }, 
+            "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X", 
+            "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X", 
+            "type": "artist", 
+            "id": "08GQAI4eElDnROBrJRGE0X"
+          }
+        ], 
+        "duration_ms": 135133, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "1hqvNLAmwGTh8p3wReZIhV"
+      }, 
+      {
+        "name": "Don't Stop", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4SXU3lUZ1eb4JWWbkQw43Y"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ef0dcb5c2aff31dc1f881563339016fe490d937d", 
+        "is_playable": true, 
+        "uri": "spotify:track:4SXU3lUZ1eb4JWWbkQw43Y", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4SXU3lUZ1eb4JWWbkQw43Y", 
+        "artists": [
+          {
+            "name": "Fleetwood Mac", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+            }, 
+            "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X", 
+            "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X", 
+            "type": "artist", 
+            "id": "08GQAI4eElDnROBrJRGE0X"
+          }
+        ], 
+        "duration_ms": 192133, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "4SXU3lUZ1eb4JWWbkQw43Y"
+      }, 
+      {
+        "name": "Go Your Own Way", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0FeCO85RKW8fDRytwXof2x"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/78182d5d13c9613f76ceecee325a6b56482e0666", 
+        "is_playable": true, 
+        "uri": "spotify:track:0FeCO85RKW8fDRytwXof2x", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0FeCO85RKW8fDRytwXof2x", 
+        "artists": [
+          {
+            "name": "Fleetwood Mac", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+            }, 
+            "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X", 
+            "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X", 
+            "type": "artist", 
+            "id": "08GQAI4eElDnROBrJRGE0X"
+          }
+        ], 
+        "duration_ms": 218400, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "0FeCO85RKW8fDRytwXof2x"
+      }, 
+      {
+        "name": "Songbird", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6i1I40VTXIVNJQL72aom9X"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9662523524e0e623bf3a335d485f4a9626d3e7e9", 
+        "is_playable": true, 
+        "uri": "spotify:track:6i1I40VTXIVNJQL72aom9X", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6i1I40VTXIVNJQL72aom9X", 
+        "artists": [
+          {
+            "name": "Fleetwood Mac", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+            }, 
+            "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X", 
+            "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X", 
+            "type": "artist", 
+            "id": "08GQAI4eElDnROBrJRGE0X"
+          }
+        ], 
+        "duration_ms": 201039, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "6i1I40VTXIVNJQL72aom9X"
+      }, 
+      {
+        "name": "The Chain", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2X6gdRlGOQgfaXU9ALUQFQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bccc344e01d8d7da2a21666332c0b8860b342d13", 
+        "is_playable": true, 
+        "uri": "spotify:track:2X6gdRlGOQgfaXU9ALUQFQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2X6gdRlGOQgfaXU9ALUQFQ", 
+        "artists": [
+          {
+            "name": "Fleetwood Mac", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+            }, 
+            "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X", 
+            "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X", 
+            "type": "artist", 
+            "id": "08GQAI4eElDnROBrJRGE0X"
+          }
+        ], 
+        "duration_ms": 271000, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "2X6gdRlGOQgfaXU9ALUQFQ"
+      }, 
+      {
+        "name": "You Make Loving Fun", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1d8ywXX20vhFCNJSaVAtQm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/322680bebaf13e21621b3ce51b801bd07e3756cb", 
+        "is_playable": true, 
+        "uri": "spotify:track:1d8ywXX20vhFCNJSaVAtQm", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1d8ywXX20vhFCNJSaVAtQm", 
+        "artists": [
+          {
+            "name": "Fleetwood Mac", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+            }, 
+            "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X", 
+            "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X", 
+            "type": "artist", 
+            "id": "08GQAI4eElDnROBrJRGE0X"
+          }
+        ], 
+        "duration_ms": 211533, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "1d8ywXX20vhFCNJSaVAtQm"
+      }, 
+      {
+        "name": "I Don't Want To Know", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7qOUrLHFMob1DBfzSeEgCC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6a51a4d8de72da23bf5d6edb6289a35687933909", 
+        "is_playable": true, 
+        "uri": "spotify:track:7qOUrLHFMob1DBfzSeEgCC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7qOUrLHFMob1DBfzSeEgCC", 
+        "artists": [
+          {
+            "name": "Fleetwood Mac", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+            }, 
+            "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X", 
+            "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X", 
+            "type": "artist", 
+            "id": "08GQAI4eElDnROBrJRGE0X"
+          }
+        ], 
+        "duration_ms": 195493, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "7qOUrLHFMob1DBfzSeEgCC"
+      }, 
+      {
+        "name": "Oh Daddy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4KTmKPa5NFjfOgwfCba01O"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3a6d22172c41224dd27a6dbc755f1388d3c92434", 
+        "is_playable": true, 
+        "uri": "spotify:track:4KTmKPa5NFjfOgwfCba01O", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4KTmKPa5NFjfOgwfCba01O", 
+        "artists": [
+          {
+            "name": "Fleetwood Mac", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+            }, 
+            "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X", 
+            "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X", 
+            "type": "artist", 
+            "id": "08GQAI4eElDnROBrJRGE0X"
+          }
+        ], 
+        "duration_ms": 237506, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "4KTmKPa5NFjfOgwfCba01O"
+      }, 
+      {
+        "name": "Gold Dust Woman", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7yldS1GOKvs0A9LOY07iCA"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b44842677bf899f3b92816d2544e98e3e9d2d80b", 
+        "is_playable": true, 
+        "uri": "spotify:track:7yldS1GOKvs0A9LOY07iCA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7yldS1GOKvs0A9LOY07iCA", 
+        "artists": [
+          {
+            "name": "Fleetwood Mac", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+            }, 
+            "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X", 
+            "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X", 
+            "type": "artist", 
+            "id": "08GQAI4eElDnROBrJRGE0X"
+          }
+        ], 
+        "duration_ms": 302400, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "7yldS1GOKvs0A9LOY07iCA"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/63k57x0qOkUWEMR0dkMivh/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 11, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/63k57x0qOkUWEMR0dkMivh", 
+  "copyrights": [
+    {
+      "text": "1977 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside of the U.S.", 
+      "type": "C"
+    }, 
+    {
+      "text": "1977 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside of the U.S.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Fleetwood Mac", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+      }, 
+      "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X", 
+      "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X", 
+      "type": "artist", 
+      "id": "08GQAI4eElDnROBrJRGE0X"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/31ee3e4265ba3c5098a8928c05d001a3b3033710", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/12fe04b0eb5ba5ecbfa9f508da60c2669719102e", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/81e87467e4daac8335eb2c332cb964f3b5cc30d4", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "075992731362"
+  }, 
+  "type": "album", 
+  "id": "63k57x0qOkUWEMR0dkMivh", 
+  "name": "Rumours"
+}

@@ -1,0 +1,627 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/76K5i4uyPT6NFjspOsygkX"
+  }, 
+  "release_date": "2009", 
+  "popularity": 37, 
+  "genres": [], 
+  "uri": "spotify:album:76K5i4uyPT6NFjspOsygkX", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Cannibal Resource", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Ffr3BVes9LLnpBonk9sst"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6736083a04574af98d523988ed1e7214aac7d4e5", 
+        "is_playable": true, 
+        "uri": "spotify:track:4Ffr3BVes9LLnpBonk9sst", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4Ffr3BVes9LLnpBonk9sst", 
+        "artists": [
+          {
+            "name": "Dirty Projectors", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+            }, 
+            "uri": "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF", 
+            "href": "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF", 
+            "type": "artist", 
+            "id": "5VF0YkVLeVD4ytyiyVSIiF"
+          }
+        ], 
+        "duration_ms": 234920, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "4Ffr3BVes9LLnpBonk9sst"
+      }, 
+      {
+        "name": "Temecula Sunrise", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5r42yeXmtQH51Bbs6i5OAz"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/23935ab85f857b93b1b7b7a489ccda106d2731a4", 
+        "is_playable": true, 
+        "uri": "spotify:track:5r42yeXmtQH51Bbs6i5OAz", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5r42yeXmtQH51Bbs6i5OAz", 
+        "artists": [
+          {
+            "name": "Dirty Projectors", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+            }, 
+            "uri": "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF", 
+            "href": "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF", 
+            "type": "artist", 
+            "id": "5VF0YkVLeVD4ytyiyVSIiF"
+          }
+        ], 
+        "duration_ms": 305213, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "5r42yeXmtQH51Bbs6i5OAz"
+      }, 
+      {
+        "name": "The Bride", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/56c3cRAc0O9QvBqboefaDF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7552845cfaef543c2965ebb844560fbe56f24d5a", 
+        "is_playable": true, 
+        "uri": "spotify:track:56c3cRAc0O9QvBqboefaDF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/56c3cRAc0O9QvBqboefaDF", 
+        "artists": [
+          {
+            "name": "Dirty Projectors", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+            }, 
+            "uri": "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF", 
+            "href": "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF", 
+            "type": "artist", 
+            "id": "5VF0YkVLeVD4ytyiyVSIiF"
+          }
+        ], 
+        "duration_ms": 169146, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "56c3cRAc0O9QvBqboefaDF"
+      }, 
+      {
+        "name": "Stillness Is The Move", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3RcPmTlDxhASQ59iQPnA1J"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b39c8a7472497b6b1bb7130bc963dcea63de5e4e", 
+        "is_playable": true, 
+        "uri": "spotify:track:3RcPmTlDxhASQ59iQPnA1J", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3RcPmTlDxhASQ59iQPnA1J", 
+        "artists": [
+          {
+            "name": "Dirty Projectors", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+            }, 
+            "uri": "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF", 
+            "href": "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF", 
+            "type": "artist", 
+            "id": "5VF0YkVLeVD4ytyiyVSIiF"
+          }
+        ], 
+        "duration_ms": 314320, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "3RcPmTlDxhASQ59iQPnA1J"
+      }, 
+      {
+        "name": "Two Doves", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3pxhbQRqKfgvAEKaJBLAfO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5192fb3cce1427369c63fcd5b1a2f9caa33401f9", 
+        "is_playable": true, 
+        "uri": "spotify:track:3pxhbQRqKfgvAEKaJBLAfO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3pxhbQRqKfgvAEKaJBLAfO", 
+        "artists": [
+          {
+            "name": "Dirty Projectors", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+            }, 
+            "uri": "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF", 
+            "href": "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF", 
+            "type": "artist", 
+            "id": "5VF0YkVLeVD4ytyiyVSIiF"
+          }
+        ], 
+        "duration_ms": 221680, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "3pxhbQRqKfgvAEKaJBLAfO"
+      }, 
+      {
+        "name": "Useful Chamber", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5cWPtfXSFie78AjieaCrGs"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bb1d0789a9e6ec4757530f9e90356b10e0daa376", 
+        "is_playable": true, 
+        "uri": "spotify:track:5cWPtfXSFie78AjieaCrGs", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5cWPtfXSFie78AjieaCrGs", 
+        "artists": [
+          {
+            "name": "Dirty Projectors", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+            }, 
+            "uri": "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF", 
+            "href": "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF", 
+            "type": "artist", 
+            "id": "5VF0YkVLeVD4ytyiyVSIiF"
+          }
+        ], 
+        "duration_ms": 388173, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "5cWPtfXSFie78AjieaCrGs"
+      }, 
+      {
+        "name": "No Intention", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Ozug40zUcMiE2s1neJQRb"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3182db9f3a01792645d41ce5bd4a6949f0f61d22", 
+        "is_playable": true, 
+        "uri": "spotify:track:4Ozug40zUcMiE2s1neJQRb", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4Ozug40zUcMiE2s1neJQRb", 
+        "artists": [
+          {
+            "name": "Dirty Projectors", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+            }, 
+            "uri": "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF", 
+            "href": "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF", 
+            "type": "artist", 
+            "id": "5VF0YkVLeVD4ytyiyVSIiF"
+          }
+        ], 
+        "duration_ms": 257133, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "4Ozug40zUcMiE2s1neJQRb"
+      }, 
+      {
+        "name": "Remade Horizon", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1yNff4fsw7PGJiZWDv5xpB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/27ed05ee14e255aba6222da2890c8695cd31ba3d", 
+        "is_playable": true, 
+        "uri": "spotify:track:1yNff4fsw7PGJiZWDv5xpB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1yNff4fsw7PGJiZWDv5xpB", 
+        "artists": [
+          {
+            "name": "Dirty Projectors", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+            }, 
+            "uri": "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF", 
+            "href": "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF", 
+            "type": "artist", 
+            "id": "5VF0YkVLeVD4ytyiyVSIiF"
+          }
+        ], 
+        "duration_ms": 235320, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "1yNff4fsw7PGJiZWDv5xpB"
+      }, 
+      {
+        "name": "Fluorescent Half Dome", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7zx4naEXInMwh8Jf6GvNms"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0b5c2410526f24665faa84d35b7c101e2fde28b1", 
+        "is_playable": true, 
+        "uri": "spotify:track:7zx4naEXInMwh8Jf6GvNms", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7zx4naEXInMwh8Jf6GvNms", 
+        "artists": [
+          {
+            "name": "Dirty Projectors", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+            }, 
+            "uri": "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF", 
+            "href": "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF", 
+            "type": "artist", 
+            "id": "5VF0YkVLeVD4ytyiyVSIiF"
+          }
+        ], 
+        "duration_ms": 345146, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "7zx4naEXInMwh8Jf6GvNms"
+      }, 
+      {
+        "name": "Fluorescent Half Dome - Live at Other Music", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7MBuVRbpa28QS7lrO72Umx"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/23829f293905f24ca8a34add0fd7db0821685175", 
+        "is_playable": true, 
+        "uri": "spotify:track:7MBuVRbpa28QS7lrO72Umx", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/7MBuVRbpa28QS7lrO72Umx", 
+        "artists": [
+          {
+            "name": "Dirty Projectors", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+            }, 
+            "uri": "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF", 
+            "href": "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF", 
+            "type": "artist", 
+            "id": "5VF0YkVLeVD4ytyiyVSIiF"
+          }
+        ], 
+        "duration_ms": 381853, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "7MBuVRbpa28QS7lrO72Umx"
+      }, 
+      {
+        "name": "Temecula Sunrise - Live at Other Music", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7dHo6aGZyiOZ3iDorYV9Pj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/55d52f9868b5220ca19f15da737b56934b0d0d95", 
+        "is_playable": true, 
+        "uri": "spotify:track:7dHo6aGZyiOZ3iDorYV9Pj", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/7dHo6aGZyiOZ3iDorYV9Pj", 
+        "artists": [
+          {
+            "name": "Dirty Projectors", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+            }, 
+            "uri": "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF", 
+            "href": "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF", 
+            "type": "artist", 
+            "id": "5VF0YkVLeVD4ytyiyVSIiF"
+          }
+        ], 
+        "duration_ms": 351466, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "7dHo6aGZyiOZ3iDorYV9Pj"
+      }, 
+      {
+        "name": "Two Doves - Live at Other Music", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6V5GzpviMAmBfLzS1lv5F2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0913a39c2db62e9fbc9cdd97130bc6a1c017ca4e", 
+        "is_playable": true, 
+        "uri": "spotify:track:6V5GzpviMAmBfLzS1lv5F2", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6V5GzpviMAmBfLzS1lv5F2", 
+        "artists": [
+          {
+            "name": "Dirty Projectors", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+            }, 
+            "uri": "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF", 
+            "href": "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF", 
+            "type": "artist", 
+            "id": "5VF0YkVLeVD4ytyiyVSIiF"
+          }
+        ], 
+        "duration_ms": 201426, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "6V5GzpviMAmBfLzS1lv5F2"
+      }, 
+      {
+        "name": "Cannibal Resource - Live at Other Music", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5wOxxvsmFeoMLQ3he0zhhH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a1b57c559a4a746dc463482f10127e12caa8c4e7", 
+        "is_playable": true, 
+        "uri": "spotify:track:5wOxxvsmFeoMLQ3he0zhhH", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5wOxxvsmFeoMLQ3he0zhhH", 
+        "artists": [
+          {
+            "name": "Dirty Projectors", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+            }, 
+            "uri": "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF", 
+            "href": "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF", 
+            "type": "artist", 
+            "id": "5VF0YkVLeVD4ytyiyVSIiF"
+          }
+        ], 
+        "duration_ms": 250560, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "5wOxxvsmFeoMLQ3he0zhhH"
+      }, 
+      {
+        "name": "No Intention - Live at Other Music", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3DHOQyptIhEtSKlg4GGnov"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3342984794354e632f9eb51ab61b06b59d6791fa", 
+        "is_playable": true, 
+        "uri": "spotify:track:3DHOQyptIhEtSKlg4GGnov", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/3DHOQyptIhEtSKlg4GGnov", 
+        "artists": [
+          {
+            "name": "Dirty Projectors", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+            }, 
+            "uri": "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF", 
+            "href": "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF", 
+            "type": "artist", 
+            "id": "5VF0YkVLeVD4ytyiyVSIiF"
+          }
+        ], 
+        "duration_ms": 302013, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "3DHOQyptIhEtSKlg4GGnov"
+      }, 
+      {
+        "name": "Ascending Melody", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6yb6He3hcXaaigR2lImvoe"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7b08dba0d3a5b1f776943bc016e5d925a25f5134", 
+        "is_playable": true, 
+        "uri": "spotify:track:6yb6He3hcXaaigR2lImvoe", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6yb6He3hcXaaigR2lImvoe", 
+        "artists": [
+          {
+            "name": "Dirty Projectors", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+            }, 
+            "uri": "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF", 
+            "href": "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF", 
+            "type": "artist", 
+            "id": "5VF0YkVLeVD4ytyiyVSIiF"
+          }
+        ], 
+        "duration_ms": 280426, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "6yb6He3hcXaaigR2lImvoe"
+      }, 
+      {
+        "name": "Emblem of the World", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5qI5gXFIiegN7Z7Ennh4UU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/35e6000846cecbeb67cadbdf6b8047f2bbf6c01d", 
+        "is_playable": true, 
+        "uri": "spotify:track:5qI5gXFIiegN7Z7Ennh4UU", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5qI5gXFIiegN7Z7Ennh4UU", 
+        "artists": [
+          {
+            "name": "Dirty Projectors", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+            }, 
+            "uri": "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF", 
+            "href": "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF", 
+            "type": "artist", 
+            "id": "5VF0YkVLeVD4ytyiyVSIiF"
+          }
+        ], 
+        "duration_ms": 243960, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "5qI5gXFIiegN7Z7Ennh4UU"
+      }, 
+      {
+        "name": "Wave the Bloody Shirt", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7ceG3cY5bCzZ4TdyD7fKSp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b25653ac72febe14eda993503b2cc937c62bd5d7", 
+        "is_playable": true, 
+        "uri": "spotify:track:7ceG3cY5bCzZ4TdyD7fKSp", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/7ceG3cY5bCzZ4TdyD7fKSp", 
+        "artists": [
+          {
+            "name": "Dirty Projectors", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+            }, 
+            "uri": "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF", 
+            "href": "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF", 
+            "type": "artist", 
+            "id": "5VF0YkVLeVD4ytyiyVSIiF"
+          }
+        ], 
+        "duration_ms": 174373, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "7ceG3cY5bCzZ4TdyD7fKSp"
+      }, 
+      {
+        "name": "Bitte Bitte Orca", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6riBidYF9aOZHTwYT8lk8H"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/89b44438db3c6c05010b52357f5917e76e3d3744", 
+        "is_playable": true, 
+        "uri": "spotify:track:6riBidYF9aOZHTwYT8lk8H", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6riBidYF9aOZHTwYT8lk8H", 
+        "artists": [
+          {
+            "name": "Dirty Projectors", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+            }, 
+            "uri": "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF", 
+            "href": "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF", 
+            "type": "artist", 
+            "id": "5VF0YkVLeVD4ytyiyVSIiF"
+          }
+        ], 
+        "duration_ms": 77760, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "6riBidYF9aOZHTwYT8lk8H"
+      }, 
+      {
+        "name": "Stillness Is The Move - Lucky Dragons Remix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6lzRTPSOCl61CspgkNjjlW"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/31ee3348923cea189b38fa126964fb4c7a87fbc1", 
+        "is_playable": true, 
+        "uri": "spotify:track:6lzRTPSOCl61CspgkNjjlW", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6lzRTPSOCl61CspgkNjjlW", 
+        "artists": [
+          {
+            "name": "Dirty Projectors", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+            }, 
+            "uri": "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF", 
+            "href": "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF", 
+            "type": "artist", 
+            "id": "5VF0YkVLeVD4ytyiyVSIiF"
+          }
+        ], 
+        "duration_ms": 316520, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "6lzRTPSOCl61CspgkNjjlW"
+      }, 
+      {
+        "name": "As I Went Out One Morning", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5jYXhb5bcYKEBeL4cgHq95"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a78e6c5eedd62071534554565c24f8b81a0ce622", 
+        "is_playable": true, 
+        "uri": "spotify:track:5jYXhb5bcYKEBeL4cgHq95", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5jYXhb5bcYKEBeL4cgHq95", 
+        "artists": [
+          {
+            "name": "Dirty Projectors", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+            }, 
+            "uri": "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF", 
+            "href": "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF", 
+            "type": "artist", 
+            "id": "5VF0YkVLeVD4ytyiyVSIiF"
+          }
+        ], 
+        "duration_ms": 159720, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "5jYXhb5bcYKEBeL4cgHq95"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/76K5i4uyPT6NFjspOsygkX/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 20, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/76K5i4uyPT6NFjspOsygkX", 
+  "copyrights": [
+    {
+      "text": "Domino Recording Co Ltd", 
+      "type": "C"
+    }, 
+    {
+      "text": "Domino Recording Co Ltd", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Dirty Projectors", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+      }, 
+      "uri": "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF", 
+      "href": "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF", 
+      "type": "artist", 
+      "id": "5VF0YkVLeVD4ytyiyVSIiF"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/65f7f80f53d041924b072ee6b06aad55478b6b0a", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/dfa7c34911493bb44c410f58f2d035ff8739d4d9", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/cccc40740ef0e7557f3fc005b0f260a7e00610a5", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "5034202022947"
+  }, 
+  "type": "album", 
+  "id": "76K5i4uyPT6NFjspOsygkX", 
+  "name": "Bitte Orca (Expanded Edition)"
+}

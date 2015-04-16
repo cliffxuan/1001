@@ -1,0 +1,573 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2"
+  }, 
+  "release_date": "1997-07-11", 
+  "popularity": 55, 
+  "genres": [], 
+  "uri": "spotify:album:6UkdyvPElK6JDkyeRClbI2", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Busta's Intro", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0eNGzSqI1Icrq7GfwRS1FI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5bd135d9e936e6e31f821d9add782ec4c8a32b36", 
+        "is_playable": true, 
+        "uri": "spotify:track:0eNGzSqI1Icrq7GfwRS1FI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0eNGzSqI1Icrq7GfwRS1FI", 
+        "artists": [
+          {
+            "name": "Missy Elliott / Busta Rhymes", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0uJHNXrFwsulZwGhfYCY0G"
+            }, 
+            "uri": "spotify:artist:0uJHNXrFwsulZwGhfYCY0G", 
+            "href": "https://api.spotify.com/v1/artists/0uJHNXrFwsulZwGhfYCY0G", 
+            "type": "artist", 
+            "id": "0uJHNXrFwsulZwGhfYCY0G"
+          }
+        ], 
+        "duration_ms": 113600, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "0eNGzSqI1Icrq7GfwRS1FI"
+      }, 
+      {
+        "name": "Hit Em Wit Da Hee (feat. Lil' Kim and Mocha)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1lrfo8etNC1iZ9LA81XNpd"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8bc71ea2ca656c86bee7dbb0b9f59c9a835ae45b", 
+        "is_playable": true, 
+        "uri": "spotify:track:1lrfo8etNC1iZ9LA81XNpd", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1lrfo8etNC1iZ9LA81XNpd", 
+        "artists": [
+          {
+            "name": "Missy Elliott", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+            }, 
+            "uri": "spotify:artist:2wIVse2owClT7go1WT98tk", 
+            "href": "https://api.spotify.com/v1/artists/2wIVse2owClT7go1WT98tk", 
+            "type": "artist", 
+            "id": "2wIVse2owClT7go1WT98tk"
+          }, 
+          {
+            "name": "Mocha", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0pXKwE9OArhoHnKJWjU1WU"
+            }, 
+            "uri": "spotify:artist:0pXKwE9OArhoHnKJWjU1WU", 
+            "href": "https://api.spotify.com/v1/artists/0pXKwE9OArhoHnKJWjU1WU", 
+            "type": "artist", 
+            "id": "0pXKwE9OArhoHnKJWjU1WU"
+          }, 
+          {
+            "name": "Lil' Kim", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+            }, 
+            "uri": "spotify:artist:5tth2a3v0sWwV1C7bApBdX", 
+            "href": "https://api.spotify.com/v1/artists/5tth2a3v0sWwV1C7bApBdX", 
+            "type": "artist", 
+            "id": "5tth2a3v0sWwV1C7bApBdX"
+          }
+        ], 
+        "duration_ms": 259973, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "1lrfo8etNC1iZ9LA81XNpd"
+      }, 
+      {
+        "name": "Sock It 2 Me", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/08bn759cPYICtUPoYx29P0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2f39921f5b080c0d6d903943b2963a57eedd6f84", 
+        "is_playable": true, 
+        "uri": "spotify:track:08bn759cPYICtUPoYx29P0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/08bn759cPYICtUPoYx29P0", 
+        "artists": [
+          {
+            "name": "Missy Elliott", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+            }, 
+            "uri": "spotify:artist:2wIVse2owClT7go1WT98tk", 
+            "href": "https://api.spotify.com/v1/artists/2wIVse2owClT7go1WT98tk", 
+            "type": "artist", 
+            "id": "2wIVse2owClT7go1WT98tk"
+          }, 
+          {
+            "name": "Da Brat", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf"
+            }, 
+            "uri": "spotify:artist:2I1bnmb9VQEQGKHxvr0gSf", 
+            "href": "https://api.spotify.com/v1/artists/2I1bnmb9VQEQGKHxvr0gSf", 
+            "type": "artist", 
+            "id": "2I1bnmb9VQEQGKHxvr0gSf"
+          }
+        ], 
+        "duration_ms": 257466, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "08bn759cPYICtUPoYx29P0"
+      }, 
+      {
+        "name": "The Rain (Supa Dupa Fly)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2WRzpLD8qDRrxMXc63E5WJ"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6aac9cba1027748616002651d83ddd650ecdf50a", 
+        "is_playable": true, 
+        "uri": "spotify:track:2WRzpLD8qDRrxMXc63E5WJ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2WRzpLD8qDRrxMXc63E5WJ", 
+        "artists": [
+          {
+            "name": "Missy Elliott", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+            }, 
+            "uri": "spotify:artist:2wIVse2owClT7go1WT98tk", 
+            "href": "https://api.spotify.com/v1/artists/2wIVse2owClT7go1WT98tk", 
+            "type": "artist", 
+            "id": "2wIVse2owClT7go1WT98tk"
+          }
+        ], 
+        "duration_ms": 246173, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "2WRzpLD8qDRrxMXc63E5WJ"
+      }, 
+      {
+        "name": "Beep Me 911", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/75rHwPWN95Aklvn2xNul9q"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5b976bf48a22f1c9dcf300da20d399c501286346", 
+        "is_playable": true, 
+        "uri": "spotify:track:75rHwPWN95Aklvn2xNul9q", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/75rHwPWN95Aklvn2xNul9q", 
+        "artists": [
+          {
+            "name": "Missy Elliott", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+            }, 
+            "uri": "spotify:artist:2wIVse2owClT7go1WT98tk", 
+            "href": "https://api.spotify.com/v1/artists/2wIVse2owClT7go1WT98tk", 
+            "type": "artist", 
+            "id": "2wIVse2owClT7go1WT98tk"
+          }
+        ], 
+        "duration_ms": 297600, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "75rHwPWN95Aklvn2xNul9q"
+      }, 
+      {
+        "name": "They Don't Wanna F*** Wit Me", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2VlFVARpC0DB5qmntc0pOI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8c9b3af0614a81bb7f7e57455cf2d35601006beb", 
+        "is_playable": true, 
+        "uri": "spotify:track:2VlFVARpC0DB5qmntc0pOI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2VlFVARpC0DB5qmntc0pOI", 
+        "artists": [
+          {
+            "name": "Missy Elliott & Timbaland", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1uFLwZXjYPZTiCj3Fo4XvW"
+            }, 
+            "uri": "spotify:artist:1uFLwZXjYPZTiCj3Fo4XvW", 
+            "href": "https://api.spotify.com/v1/artists/1uFLwZXjYPZTiCj3Fo4XvW", 
+            "type": "artist", 
+            "id": "1uFLwZXjYPZTiCj3Fo4XvW"
+          }
+        ], 
+        "duration_ms": 198226, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "2VlFVARpC0DB5qmntc0pOI"
+      }, 
+      {
+        "name": "Pass Da Blunt", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2KOiFW6fVTnBMwP6kIG7Yz"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/900e40be5dd5a10b03849ff50cd9bd35990fed9e", 
+        "is_playable": true, 
+        "uri": "spotify:track:2KOiFW6fVTnBMwP6kIG7Yz", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2KOiFW6fVTnBMwP6kIG7Yz", 
+        "artists": [
+          {
+            "name": "Missy Elliott & Timbaland", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1uFLwZXjYPZTiCj3Fo4XvW"
+            }, 
+            "uri": "spotify:artist:1uFLwZXjYPZTiCj3Fo4XvW", 
+            "href": "https://api.spotify.com/v1/artists/1uFLwZXjYPZTiCj3Fo4XvW", 
+            "type": "artist", 
+            "id": "1uFLwZXjYPZTiCj3Fo4XvW"
+          }
+        ], 
+        "duration_ms": 197866, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "2KOiFW6fVTnBMwP6kIG7Yz"
+      }, 
+      {
+        "name": "Bite Our Style - Interlude", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6y1HxKKNY5iNqie88XiWl4"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0cc0383b0067ee0990609be6691e0d0f298d90b6", 
+        "is_playable": true, 
+        "uri": "spotify:track:6y1HxKKNY5iNqie88XiWl4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6y1HxKKNY5iNqie88XiWl4", 
+        "artists": [
+          {
+            "name": "Missy Elliott", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+            }, 
+            "uri": "spotify:artist:2wIVse2owClT7go1WT98tk", 
+            "href": "https://api.spotify.com/v1/artists/2wIVse2owClT7go1WT98tk", 
+            "type": "artist", 
+            "id": "2wIVse2owClT7go1WT98tk"
+          }
+        ], 
+        "duration_ms": 43866, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "6y1HxKKNY5iNqie88XiWl4"
+      }, 
+      {
+        "name": "Friendly Skies", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/580qfiaOR7n9PuKbRUi7qx"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1ed6978d808e9d059893cd401b32ead750c0323d", 
+        "is_playable": true, 
+        "uri": "spotify:track:580qfiaOR7n9PuKbRUi7qx", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/580qfiaOR7n9PuKbRUi7qx", 
+        "artists": [
+          {
+            "name": "Missy Elliott / Ginuwine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0qHsu7j3UkSZbFoSUdSUYb"
+            }, 
+            "uri": "spotify:artist:0qHsu7j3UkSZbFoSUdSUYb", 
+            "href": "https://api.spotify.com/v1/artists/0qHsu7j3UkSZbFoSUdSUYb", 
+            "type": "artist", 
+            "id": "0qHsu7j3UkSZbFoSUdSUYb"
+          }
+        ], 
+        "duration_ms": 299866, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "580qfiaOR7n9PuKbRUi7qx"
+      }, 
+      {
+        "name": "Best Friends", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0hq4njfuLWfjlfinVFCXhA"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4160b8066b18b2a91ed99cbf2914fe5d26c2645d", 
+        "is_playable": true, 
+        "uri": "spotify:track:0hq4njfuLWfjlfinVFCXhA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0hq4njfuLWfjlfinVFCXhA", 
+        "artists": [
+          {
+            "name": "Missy Elliott / Aaliyah", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/61C8jvI4OVORhmcq6zqlLN"
+            }, 
+            "uri": "spotify:artist:61C8jvI4OVORhmcq6zqlLN", 
+            "href": "https://api.spotify.com/v1/artists/61C8jvI4OVORhmcq6zqlLN", 
+            "type": "artist", 
+            "id": "61C8jvI4OVORhmcq6zqlLN"
+          }
+        ], 
+        "duration_ms": 247173, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "0hq4njfuLWfjlfinVFCXhA"
+      }, 
+      {
+        "name": "Don't Be Coming (In My Face)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/01HjNE8gtRH10YwxdXRAzX"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6d1f38d23264d976edd28ec1662f69e87419b336", 
+        "is_playable": true, 
+        "uri": "spotify:track:01HjNE8gtRH10YwxdXRAzX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/01HjNE8gtRH10YwxdXRAzX", 
+        "artists": [
+          {
+            "name": "Missy Elliott", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+            }, 
+            "uri": "spotify:artist:2wIVse2owClT7go1WT98tk", 
+            "href": "https://api.spotify.com/v1/artists/2wIVse2owClT7go1WT98tk", 
+            "type": "artist", 
+            "id": "2wIVse2owClT7go1WT98tk"
+          }
+        ], 
+        "duration_ms": 251426, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "01HjNE8gtRH10YwxdXRAzX"
+      }, 
+      {
+        "name": "Izzy Izzy Ahh", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/26pX4pxghPHep5qGjI5xk1"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b5504287161e8573e634d5df87c73852789f5bd2", 
+        "is_playable": true, 
+        "uri": "spotify:track:26pX4pxghPHep5qGjI5xk1", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/26pX4pxghPHep5qGjI5xk1", 
+        "artists": [
+          {
+            "name": "Missy Elliott", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+            }, 
+            "uri": "spotify:artist:2wIVse2owClT7go1WT98tk", 
+            "href": "https://api.spotify.com/v1/artists/2wIVse2owClT7go1WT98tk", 
+            "type": "artist", 
+            "id": "2wIVse2owClT7go1WT98tk"
+          }
+        ], 
+        "duration_ms": 234000, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "26pX4pxghPHep5qGjI5xk1"
+      }, 
+      {
+        "name": "Why You Hurt Me", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5K5hkU749S0cJEfqIw0Rxk"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c83ab665aa9b73913fa3394c7551c6e99095bcd9", 
+        "is_playable": true, 
+        "uri": "spotify:track:5K5hkU749S0cJEfqIw0Rxk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5K5hkU749S0cJEfqIw0Rxk", 
+        "artists": [
+          {
+            "name": "Missy Elliott", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+            }, 
+            "uri": "spotify:artist:2wIVse2owClT7go1WT98tk", 
+            "href": "https://api.spotify.com/v1/artists/2wIVse2owClT7go1WT98tk", 
+            "type": "artist", 
+            "id": "2wIVse2owClT7go1WT98tk"
+          }
+        ], 
+        "duration_ms": 271173, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "5K5hkU749S0cJEfqIw0Rxk"
+      }, 
+      {
+        "name": "I'm Talkin'", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Ey8dGEX8LL0XiVqvzUNC5"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0bdfe57646115c0010162583aa3837cd14e1619d", 
+        "is_playable": true, 
+        "uri": "spotify:track:5Ey8dGEX8LL0XiVqvzUNC5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5Ey8dGEX8LL0XiVqvzUNC5", 
+        "artists": [
+          {
+            "name": "Missy Elliott", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+            }, 
+            "uri": "spotify:artist:2wIVse2owClT7go1WT98tk", 
+            "href": "https://api.spotify.com/v1/artists/2wIVse2owClT7go1WT98tk", 
+            "type": "artist", 
+            "id": "2wIVse2owClT7go1WT98tk"
+          }
+        ], 
+        "duration_ms": 302333, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "5Ey8dGEX8LL0XiVqvzUNC5"
+      }, 
+      {
+        "name": "Gettaway", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4fWK7zJp17fuhDfQ9YnAei"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/56a8d2fa0050d59a847c4a5bba2d5eee00f2d837", 
+        "is_playable": true, 
+        "uri": "spotify:track:4fWK7zJp17fuhDfQ9YnAei", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4fWK7zJp17fuhDfQ9YnAei", 
+        "artists": [
+          {
+            "name": "Missy Elliott / Space & Nicole", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/22r5TIAtt5glMmKfXBP4Hz"
+            }, 
+            "uri": "spotify:artist:22r5TIAtt5glMmKfXBP4Hz", 
+            "href": "https://api.spotify.com/v1/artists/22r5TIAtt5glMmKfXBP4Hz", 
+            "type": "artist", 
+            "id": "22r5TIAtt5glMmKfXBP4Hz"
+          }
+        ], 
+        "duration_ms": 265493, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "4fWK7zJp17fuhDfQ9YnAei"
+      }, 
+      {
+        "name": "Busta's Outro", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Bzib3O2Tw7mWdCylAmTUZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cdfbf5d29d1a3c669239e59f47e2bd5607a04f1b", 
+        "is_playable": true, 
+        "uri": "spotify:track:6Bzib3O2Tw7mWdCylAmTUZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6Bzib3O2Tw7mWdCylAmTUZ", 
+        "artists": [
+          {
+            "name": "Missy Elliott / Busta Rhymes", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0uJHNXrFwsulZwGhfYCY0G"
+            }, 
+            "uri": "spotify:artist:0uJHNXrFwsulZwGhfYCY0G", 
+            "href": "https://api.spotify.com/v1/artists/0uJHNXrFwsulZwGhfYCY0G", 
+            "type": "artist", 
+            "id": "0uJHNXrFwsulZwGhfYCY0G"
+          }
+        ], 
+        "duration_ms": 98200, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "6Bzib3O2Tw7mWdCylAmTUZ"
+      }, 
+      {
+        "name": "Missy's Finale", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3BgwOI1jT8l6dFeAiESJVM"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/233a1fef397edfd114414e3b243296cc1452a689", 
+        "is_playable": true, 
+        "uri": "spotify:track:3BgwOI1jT8l6dFeAiESJVM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3BgwOI1jT8l6dFeAiESJVM", 
+        "artists": [
+          {
+            "name": "Missy Elliott", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+            }, 
+            "uri": "spotify:artist:2wIVse2owClT7go1WT98tk", 
+            "href": "https://api.spotify.com/v1/artists/2wIVse2owClT7go1WT98tk", 
+            "type": "artist", 
+            "id": "2wIVse2owClT7go1WT98tk"
+          }
+        ], 
+        "duration_ms": 24373, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "3BgwOI1jT8l6dFeAiESJVM"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/6UkdyvPElK6JDkyeRClbI2/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 17, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/6UkdyvPElK6JDkyeRClbI2", 
+  "copyrights": [
+    {
+      "text": "1997 Elektra Entertainment Group, a Division of Warner Communications Inc. for the United States and WEA International Inc. for the world outside of the United States excluding the United Kingdom.", 
+      "type": "C"
+    }, 
+    {
+      "text": "1997 Elektra Entertainment Group, a division of Warner Communications Inc. for the United States and WEA International Inc. for the world outside of the United States excluding the United Kingdom and continental Europe", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Missy Elliott", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+      }, 
+      "uri": "spotify:artist:2wIVse2owClT7go1WT98tk", 
+      "href": "https://api.spotify.com/v1/artists/2wIVse2owClT7go1WT98tk", 
+      "type": "artist", 
+      "id": "2wIVse2owClT7go1WT98tk"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/7b8a549ce3759f60a677e822db0004c543998481", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/4672587446756df1d5cfcb2858d55405fa27b941", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/ca8331b45f430e9827f8f897c244f74cc3c74412", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "075596206266"
+  }, 
+  "type": "album", 
+  "id": "6UkdyvPElK6JDkyeRClbI2", 
+  "name": "Supa Dupa Fly"
+}

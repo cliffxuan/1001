@@ -1,0 +1,343 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0FjSKIL4J4eJM7GnkJNtWL"
+  }, 
+  "release_date": "1996-05-23", 
+  "popularity": 62, 
+  "genres": [], 
+  "uri": "spotify:album:0FjSKIL4J4eJM7GnkJNtWL", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Sleep To Dream", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3FjhRjksb5a14XHu8lqTE4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2419f35ef25445cd68a372474f584f22b5727657", 
+        "is_playable": true, 
+        "uri": "spotify:track:3FjhRjksb5a14XHu8lqTE4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3FjhRjksb5a14XHu8lqTE4", 
+        "artists": [
+          {
+            "name": "Fiona Apple", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+            }, 
+            "uri": "spotify:artist:3g2kUQ6tHLLbmkV7T4GPtL", 
+            "href": "https://api.spotify.com/v1/artists/3g2kUQ6tHLLbmkV7T4GPtL", 
+            "type": "artist", 
+            "id": "3g2kUQ6tHLLbmkV7T4GPtL"
+          }
+        ], 
+        "duration_ms": 248560, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "3FjhRjksb5a14XHu8lqTE4"
+      }, 
+      {
+        "name": "Sullen Girl", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2QS3b5ILM4NzcXtBBT9OwZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/886cd482c16fd487b70942ac501dad11ef9b469d", 
+        "is_playable": true, 
+        "uri": "spotify:track:2QS3b5ILM4NzcXtBBT9OwZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2QS3b5ILM4NzcXtBBT9OwZ", 
+        "artists": [
+          {
+            "name": "Fiona Apple", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+            }, 
+            "uri": "spotify:artist:3g2kUQ6tHLLbmkV7T4GPtL", 
+            "href": "https://api.spotify.com/v1/artists/3g2kUQ6tHLLbmkV7T4GPtL", 
+            "type": "artist", 
+            "id": "3g2kUQ6tHLLbmkV7T4GPtL"
+          }
+        ], 
+        "duration_ms": 234706, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "2QS3b5ILM4NzcXtBBT9OwZ"
+      }, 
+      {
+        "name": "Shadowboxer", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0m9WoNdU0G9POoRXpUZZME"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b0f21a46ef926e5ff16da6b2e80f87aa724a8845", 
+        "is_playable": true, 
+        "uri": "spotify:track:0m9WoNdU0G9POoRXpUZZME", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0m9WoNdU0G9POoRXpUZZME", 
+        "artists": [
+          {
+            "name": "Fiona Apple", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+            }, 
+            "uri": "spotify:artist:3g2kUQ6tHLLbmkV7T4GPtL", 
+            "href": "https://api.spotify.com/v1/artists/3g2kUQ6tHLLbmkV7T4GPtL", 
+            "type": "artist", 
+            "id": "3g2kUQ6tHLLbmkV7T4GPtL"
+          }
+        ], 
+        "duration_ms": 324266, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "0m9WoNdU0G9POoRXpUZZME"
+      }, 
+      {
+        "name": "Criminal", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/516f6F9Zd3AbWJnFHwtDF9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/877d97d404e94003fd2272ec8998894bea5b7e82", 
+        "is_playable": true, 
+        "uri": "spotify:track:516f6F9Zd3AbWJnFHwtDF9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/516f6F9Zd3AbWJnFHwtDF9", 
+        "artists": [
+          {
+            "name": "Fiona Apple", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+            }, 
+            "uri": "spotify:artist:3g2kUQ6tHLLbmkV7T4GPtL", 
+            "href": "https://api.spotify.com/v1/artists/3g2kUQ6tHLLbmkV7T4GPtL", 
+            "type": "artist", 
+            "id": "3g2kUQ6tHLLbmkV7T4GPtL"
+          }
+        ], 
+        "duration_ms": 341533, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "516f6F9Zd3AbWJnFHwtDF9"
+      }, 
+      {
+        "name": "Slow Like Honey", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3gqeb96Z0VySyI4WRq2uzF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/31a7f10c0e054b063e3c62ee5f97885de6388d09", 
+        "is_playable": true, 
+        "uri": "spotify:track:3gqeb96Z0VySyI4WRq2uzF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3gqeb96Z0VySyI4WRq2uzF", 
+        "artists": [
+          {
+            "name": "Fiona Apple", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+            }, 
+            "uri": "spotify:artist:3g2kUQ6tHLLbmkV7T4GPtL", 
+            "href": "https://api.spotify.com/v1/artists/3g2kUQ6tHLLbmkV7T4GPtL", 
+            "type": "artist", 
+            "id": "3g2kUQ6tHLLbmkV7T4GPtL"
+          }
+        ], 
+        "duration_ms": 356400, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "3gqeb96Z0VySyI4WRq2uzF"
+      }, 
+      {
+        "name": "The First Taste", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3vcxR07qY1ogadLe5YN5e9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/386e37c5021078806e92bf54b0ce72dac3c4edf0", 
+        "is_playable": true, 
+        "uri": "spotify:track:3vcxR07qY1ogadLe5YN5e9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3vcxR07qY1ogadLe5YN5e9", 
+        "artists": [
+          {
+            "name": "Fiona Apple", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+            }, 
+            "uri": "spotify:artist:3g2kUQ6tHLLbmkV7T4GPtL", 
+            "href": "https://api.spotify.com/v1/artists/3g2kUQ6tHLLbmkV7T4GPtL", 
+            "type": "artist", 
+            "id": "3g2kUQ6tHLLbmkV7T4GPtL"
+          }
+        ], 
+        "duration_ms": 286960, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "3vcxR07qY1ogadLe5YN5e9"
+      }, 
+      {
+        "name": "Never Is A Promise", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7CuolZyl1lCrlCDsbFCa4Y"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c49035565b39e998bbaef6ad30495bd3736eb0ab", 
+        "is_playable": true, 
+        "uri": "spotify:track:7CuolZyl1lCrlCDsbFCa4Y", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7CuolZyl1lCrlCDsbFCa4Y", 
+        "artists": [
+          {
+            "name": "Fiona Apple", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+            }, 
+            "uri": "spotify:artist:3g2kUQ6tHLLbmkV7T4GPtL", 
+            "href": "https://api.spotify.com/v1/artists/3g2kUQ6tHLLbmkV7T4GPtL", 
+            "type": "artist", 
+            "id": "3g2kUQ6tHLLbmkV7T4GPtL"
+          }
+        ], 
+        "duration_ms": 354533, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "7CuolZyl1lCrlCDsbFCa4Y"
+      }, 
+      {
+        "name": "The Child Is Gone", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5ubfaiF1Xffl1lfodhNCJh"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f1c062901f264ece8ee1bad991ea92d72e6e940a", 
+        "is_playable": true, 
+        "uri": "spotify:track:5ubfaiF1Xffl1lfodhNCJh", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5ubfaiF1Xffl1lfodhNCJh", 
+        "artists": [
+          {
+            "name": "Fiona Apple", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+            }, 
+            "uri": "spotify:artist:3g2kUQ6tHLLbmkV7T4GPtL", 
+            "href": "https://api.spotify.com/v1/artists/3g2kUQ6tHLLbmkV7T4GPtL", 
+            "type": "artist", 
+            "id": "3g2kUQ6tHLLbmkV7T4GPtL"
+          }
+        ], 
+        "duration_ms": 254866, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "5ubfaiF1Xffl1lfodhNCJh"
+      }, 
+      {
+        "name": "Pale September", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1F50G7oDBFQdWmDmKN46fH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/46718ea5f85e2045b4e5d110bf80ecd1daf47c4e", 
+        "is_playable": true, 
+        "uri": "spotify:track:1F50G7oDBFQdWmDmKN46fH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1F50G7oDBFQdWmDmKN46fH", 
+        "artists": [
+          {
+            "name": "Fiona Apple", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+            }, 
+            "uri": "spotify:artist:3g2kUQ6tHLLbmkV7T4GPtL", 
+            "href": "https://api.spotify.com/v1/artists/3g2kUQ6tHLLbmkV7T4GPtL", 
+            "type": "artist", 
+            "id": "3g2kUQ6tHLLbmkV7T4GPtL"
+          }
+        ], 
+        "duration_ms": 350933, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "1F50G7oDBFQdWmDmKN46fH"
+      }, 
+      {
+        "name": "Carrion", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4XPngmq9YGwcGwM1c8oMrN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c3d8a9051d435a3900f06322a97711b9a9c557b2", 
+        "is_playable": true, 
+        "uri": "spotify:track:4XPngmq9YGwcGwM1c8oMrN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4XPngmq9YGwcGwM1c8oMrN", 
+        "artists": [
+          {
+            "name": "Fiona Apple", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+            }, 
+            "uri": "spotify:artist:3g2kUQ6tHLLbmkV7T4GPtL", 
+            "href": "https://api.spotify.com/v1/artists/3g2kUQ6tHLLbmkV7T4GPtL", 
+            "type": "artist", 
+            "id": "3g2kUQ6tHLLbmkV7T4GPtL"
+          }
+        ], 
+        "duration_ms": 343666, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "4XPngmq9YGwcGwM1c8oMrN"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/0FjSKIL4J4eJM7GnkJNtWL/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 10, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/0FjSKIL4J4eJM7GnkJNtWL", 
+  "copyrights": [
+    {
+      "text": "1996 Sony Music Entertainment Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Fiona Apple", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+      }, 
+      "uri": "spotify:artist:3g2kUQ6tHLLbmkV7T4GPtL", 
+      "href": "https://api.spotify.com/v1/artists/3g2kUQ6tHLLbmkV7T4GPtL", 
+      "type": "artist", 
+      "id": "3g2kUQ6tHLLbmkV7T4GPtL"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/578db65f8bc40b62874668ccf15720c594c0a3c5", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/0c1c28d8d93d26e0f95a86d16b718af370fdc2f2", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/2c7581db9ce26d13e4bc8287d107b8ebcf35f821", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "5099748375025"
+  }, 
+  "type": "album", 
+  "id": "0FjSKIL4J4eJM7GnkJNtWL", 
+  "name": "Tidal"
+}

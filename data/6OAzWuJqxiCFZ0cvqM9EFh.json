@@ -1,0 +1,515 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6OAzWuJqxiCFZ0cvqM9EFh"
+  }, 
+  "release_date": "2004-05-24", 
+  "popularity": 44, 
+  "genres": [], 
+  "uri": "spotify:album:6OAzWuJqxiCFZ0cvqM9EFh", 
+  "tracks": {
+    "items": [
+      {
+        "name": "This Is the Way", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3wwOIOspMTWmNXW8nUmxyI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3d70c029b34f3fa21a569a37a5c1da1ef96c1c87", 
+        "is_playable": true, 
+        "uri": "spotify:track:3wwOIOspMTWmNXW8nUmxyI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3wwOIOspMTWmNXW8nUmxyI", 
+        "artists": [
+          {
+            "name": "Devendra Banhart", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+            }, 
+            "uri": "spotify:artist:1YZEoYFXx4AxVv13OiOPvZ", 
+            "href": "https://api.spotify.com/v1/artists/1YZEoYFXx4AxVv13OiOPvZ", 
+            "type": "artist", 
+            "id": "1YZEoYFXx4AxVv13OiOPvZ"
+          }
+        ], 
+        "duration_ms": 173320, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "3wwOIOspMTWmNXW8nUmxyI"
+      }, 
+      {
+        "name": "A Sight to Behold", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1r2O3iE8pWJ7YomkPBuq0Q"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3861542098c6e9269cb5a51300f88684c6281b94", 
+        "is_playable": true, 
+        "uri": "spotify:track:1r2O3iE8pWJ7YomkPBuq0Q", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1r2O3iE8pWJ7YomkPBuq0Q", 
+        "artists": [
+          {
+            "name": "Devendra Banhart", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+            }, 
+            "uri": "spotify:artist:1YZEoYFXx4AxVv13OiOPvZ", 
+            "href": "https://api.spotify.com/v1/artists/1YZEoYFXx4AxVv13OiOPvZ", 
+            "type": "artist", 
+            "id": "1YZEoYFXx4AxVv13OiOPvZ"
+          }
+        ], 
+        "duration_ms": 146573, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "1r2O3iE8pWJ7YomkPBuq0Q"
+      }, 
+      {
+        "name": "The Body Breaks", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1tUAJ7cnhqTLZPGXEjYg7O"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f11553f4d3cce4a6fc961db64d248c2b2a6c324e", 
+        "is_playable": true, 
+        "uri": "spotify:track:1tUAJ7cnhqTLZPGXEjYg7O", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1tUAJ7cnhqTLZPGXEjYg7O", 
+        "artists": [
+          {
+            "name": "Devendra Banhart", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+            }, 
+            "uri": "spotify:artist:1YZEoYFXx4AxVv13OiOPvZ", 
+            "href": "https://api.spotify.com/v1/artists/1YZEoYFXx4AxVv13OiOPvZ", 
+            "type": "artist", 
+            "id": "1YZEoYFXx4AxVv13OiOPvZ"
+          }
+        ], 
+        "duration_ms": 163266, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "1tUAJ7cnhqTLZPGXEjYg7O"
+      }, 
+      {
+        "name": "Poughkeepsie", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/72RWFapFumYTWqqe81cPLZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ed93ab086bb5c736372e8f495acf9929fdd359e5", 
+        "is_playable": true, 
+        "uri": "spotify:track:72RWFapFumYTWqqe81cPLZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/72RWFapFumYTWqqe81cPLZ", 
+        "artists": [
+          {
+            "name": "Devendra Banhart", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+            }, 
+            "uri": "spotify:artist:1YZEoYFXx4AxVv13OiOPvZ", 
+            "href": "https://api.spotify.com/v1/artists/1YZEoYFXx4AxVv13OiOPvZ", 
+            "type": "artist", 
+            "id": "1YZEoYFXx4AxVv13OiOPvZ"
+          }
+        ], 
+        "duration_ms": 138306, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "72RWFapFumYTWqqe81cPLZ"
+      }, 
+      {
+        "name": "Dogs They Make Up the Dark", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1snCJmJW4mvIqHkMUmRH2g"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e64fb2ae68af617267699df3f7a47f3cc5d90679", 
+        "is_playable": true, 
+        "uri": "spotify:track:1snCJmJW4mvIqHkMUmRH2g", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1snCJmJW4mvIqHkMUmRH2g", 
+        "artists": [
+          {
+            "name": "Devendra Banhart", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+            }, 
+            "uri": "spotify:artist:1YZEoYFXx4AxVv13OiOPvZ", 
+            "href": "https://api.spotify.com/v1/artists/1YZEoYFXx4AxVv13OiOPvZ", 
+            "type": "artist", 
+            "id": "1YZEoYFXx4AxVv13OiOPvZ"
+          }
+        ], 
+        "duration_ms": 79960, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "1snCJmJW4mvIqHkMUmRH2g"
+      }, 
+      {
+        "name": "Will Is My Friend", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6NTnMCYxFYQo1qB7vkjGnA"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/95d9a87440dce39c9806aab6b6e07bcf6d35ef5c", 
+        "is_playable": true, 
+        "uri": "spotify:track:6NTnMCYxFYQo1qB7vkjGnA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6NTnMCYxFYQo1qB7vkjGnA", 
+        "artists": [
+          {
+            "name": "Devendra Banhart", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+            }, 
+            "uri": "spotify:artist:1YZEoYFXx4AxVv13OiOPvZ", 
+            "href": "https://api.spotify.com/v1/artists/1YZEoYFXx4AxVv13OiOPvZ", 
+            "type": "artist", 
+            "id": "1YZEoYFXx4AxVv13OiOPvZ"
+          }
+        ], 
+        "duration_ms": 184826, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "6NTnMCYxFYQo1qB7vkjGnA"
+      }, 
+      {
+        "name": "This Beard Is for Siobhan", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7uHhjUAdFVOnsia49uhHI1"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7fb62aa709c0fc07eef7384968269d841d262941", 
+        "is_playable": true, 
+        "uri": "spotify:track:7uHhjUAdFVOnsia49uhHI1", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7uHhjUAdFVOnsia49uhHI1", 
+        "artists": [
+          {
+            "name": "Devendra Banhart", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+            }, 
+            "uri": "spotify:artist:1YZEoYFXx4AxVv13OiOPvZ", 
+            "href": "https://api.spotify.com/v1/artists/1YZEoYFXx4AxVv13OiOPvZ", 
+            "type": "artist", 
+            "id": "1YZEoYFXx4AxVv13OiOPvZ"
+          }
+        ], 
+        "duration_ms": 155720, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "7uHhjUAdFVOnsia49uhHI1"
+      }, 
+      {
+        "name": "See Saw", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Zjr0tuCfIuoMt0YNlJcgw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/93623be4fe994369cd604b01e5fb6bc14979895f", 
+        "is_playable": true, 
+        "uri": "spotify:track:5Zjr0tuCfIuoMt0YNlJcgw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5Zjr0tuCfIuoMt0YNlJcgw", 
+        "artists": [
+          {
+            "name": "Devendra Banhart", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+            }, 
+            "uri": "spotify:artist:1YZEoYFXx4AxVv13OiOPvZ", 
+            "href": "https://api.spotify.com/v1/artists/1YZEoYFXx4AxVv13OiOPvZ", 
+            "type": "artist", 
+            "id": "1YZEoYFXx4AxVv13OiOPvZ"
+          }
+        ], 
+        "duration_ms": 203093, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "5Zjr0tuCfIuoMt0YNlJcgw"
+      }, 
+      {
+        "name": "Tit Smoking in the Temple Of Artesan Mimicry", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6rP4BIDgXyNrcyrIJcTodI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1b3bcab86516df50f97976d8f9aa42b9657476e0", 
+        "is_playable": true, 
+        "uri": "spotify:track:6rP4BIDgXyNrcyrIJcTodI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6rP4BIDgXyNrcyrIJcTodI", 
+        "artists": [
+          {
+            "name": "Devendra Banhart", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+            }, 
+            "uri": "spotify:artist:1YZEoYFXx4AxVv13OiOPvZ", 
+            "href": "https://api.spotify.com/v1/artists/1YZEoYFXx4AxVv13OiOPvZ", 
+            "type": "artist", 
+            "id": "1YZEoYFXx4AxVv13OiOPvZ"
+          }
+        ], 
+        "duration_ms": 85093, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "6rP4BIDgXyNrcyrIJcTodI"
+      }, 
+      {
+        "name": "Rejoicing in the Hands", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1A2saMxJmwG4G5qwSZVZIC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9f98d5e9c0cd77012dd8a13e858b157b41d3f831", 
+        "is_playable": true, 
+        "uri": "spotify:track:1A2saMxJmwG4G5qwSZVZIC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1A2saMxJmwG4G5qwSZVZIC", 
+        "artists": [
+          {
+            "name": "Devendra Banhart", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+            }, 
+            "uri": "spotify:artist:1YZEoYFXx4AxVv13OiOPvZ", 
+            "href": "https://api.spotify.com/v1/artists/1YZEoYFXx4AxVv13OiOPvZ", 
+            "type": "artist", 
+            "id": "1YZEoYFXx4AxVv13OiOPvZ"
+          }
+        ], 
+        "duration_ms": 101066, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "1A2saMxJmwG4G5qwSZVZIC"
+      }, 
+      {
+        "name": "Fall", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7mwDQLoznBHQ5Hypyycz9h"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c1c96c26d9f78174ca4acc25d302268020535480", 
+        "is_playable": true, 
+        "uri": "spotify:track:7mwDQLoznBHQ5Hypyycz9h", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7mwDQLoznBHQ5Hypyycz9h", 
+        "artists": [
+          {
+            "name": "Devendra Banhart", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+            }, 
+            "uri": "spotify:artist:1YZEoYFXx4AxVv13OiOPvZ", 
+            "href": "https://api.spotify.com/v1/artists/1YZEoYFXx4AxVv13OiOPvZ", 
+            "type": "artist", 
+            "id": "1YZEoYFXx4AxVv13OiOPvZ"
+          }
+        ], 
+        "duration_ms": 173226, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "7mwDQLoznBHQ5Hypyycz9h"
+      }, 
+      {
+        "name": "Todo Los Dolores", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0sjN6LpoCAELS5b6LJImAD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/217abf654a36c9b81d055cf5cfd7b41ce506c2f9", 
+        "is_playable": true, 
+        "uri": "spotify:track:0sjN6LpoCAELS5b6LJImAD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0sjN6LpoCAELS5b6LJImAD", 
+        "artists": [
+          {
+            "name": "Devendra Banhart", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+            }, 
+            "uri": "spotify:artist:1YZEoYFXx4AxVv13OiOPvZ", 
+            "href": "https://api.spotify.com/v1/artists/1YZEoYFXx4AxVv13OiOPvZ", 
+            "type": "artist", 
+            "id": "1YZEoYFXx4AxVv13OiOPvZ"
+          }
+        ], 
+        "duration_ms": 150373, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "0sjN6LpoCAELS5b6LJImAD"
+      }, 
+      {
+        "name": "When The Sun Shone on Vetiver", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3l7VBK6dLjUzrZCQgdpAKI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b11a7c4e63a79700c100141ee4aa5d3b0ce3de97", 
+        "is_playable": true, 
+        "uri": "spotify:track:3l7VBK6dLjUzrZCQgdpAKI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3l7VBK6dLjUzrZCQgdpAKI", 
+        "artists": [
+          {
+            "name": "Devendra Banhart", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+            }, 
+            "uri": "spotify:artist:1YZEoYFXx4AxVv13OiOPvZ", 
+            "href": "https://api.spotify.com/v1/artists/1YZEoYFXx4AxVv13OiOPvZ", 
+            "type": "artist", 
+            "id": "1YZEoYFXx4AxVv13OiOPvZ"
+          }
+        ], 
+        "duration_ms": 214666, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "3l7VBK6dLjUzrZCQgdpAKI"
+      }, 
+      {
+        "name": "There Was the Sun", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3z8dsKXOzTbiShqCPJaZtx"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/98551eef5654e5d4bec95ea520fd13ccda5bbf54", 
+        "is_playable": true, 
+        "uri": "spotify:track:3z8dsKXOzTbiShqCPJaZtx", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3z8dsKXOzTbiShqCPJaZtx", 
+        "artists": [
+          {
+            "name": "Devendra Banhart", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+            }, 
+            "uri": "spotify:artist:1YZEoYFXx4AxVv13OiOPvZ", 
+            "href": "https://api.spotify.com/v1/artists/1YZEoYFXx4AxVv13OiOPvZ", 
+            "type": "artist", 
+            "id": "1YZEoYFXx4AxVv13OiOPvZ"
+          }
+        ], 
+        "duration_ms": 91253, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "3z8dsKXOzTbiShqCPJaZtx"
+      }, 
+      {
+        "name": "Insect Eyes", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2iv5h1OQJYGwiKZU9kk247"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/40f517d399e003f05560cffb683bb6f260352b02", 
+        "is_playable": true, 
+        "uri": "spotify:track:2iv5h1OQJYGwiKZU9kk247", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2iv5h1OQJYGwiKZU9kk247", 
+        "artists": [
+          {
+            "name": "Devendra Banhart", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+            }, 
+            "uri": "spotify:artist:1YZEoYFXx4AxVv13OiOPvZ", 
+            "href": "https://api.spotify.com/v1/artists/1YZEoYFXx4AxVv13OiOPvZ", 
+            "type": "artist", 
+            "id": "1YZEoYFXx4AxVv13OiOPvZ"
+          }
+        ], 
+        "duration_ms": 308853, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "2iv5h1OQJYGwiKZU9kk247"
+      }, 
+      {
+        "name": "Autumn's Child", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5sxR0qAJ1LnHoBVme63rLK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e6e5d37f72878284ad79375b8d4e2d68b4859ecd", 
+        "is_playable": true, 
+        "uri": "spotify:track:5sxR0qAJ1LnHoBVme63rLK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5sxR0qAJ1LnHoBVme63rLK", 
+        "artists": [
+          {
+            "name": "Devendra Banhart", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+            }, 
+            "uri": "spotify:artist:1YZEoYFXx4AxVv13OiOPvZ", 
+            "href": "https://api.spotify.com/v1/artists/1YZEoYFXx4AxVv13OiOPvZ", 
+            "type": "artist", 
+            "id": "1YZEoYFXx4AxVv13OiOPvZ"
+          }
+        ], 
+        "duration_ms": 161813, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "5sxR0qAJ1LnHoBVme63rLK"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/6OAzWuJqxiCFZ0cvqM9EFh/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 16, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/6OAzWuJqxiCFZ0cvqM9EFh", 
+  "copyrights": [
+    {
+      "text": "2004 XL Recordings Ltd", 
+      "type": "C"
+    }, 
+    {
+      "text": "2004 XL Recordings Ltd", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Devendra Banhart", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+      }, 
+      "uri": "spotify:artist:1YZEoYFXx4AxVv13OiOPvZ", 
+      "href": "https://api.spotify.com/v1/artists/1YZEoYFXx4AxVv13OiOPvZ", 
+      "type": "artist", 
+      "id": "1YZEoYFXx4AxVv13OiOPvZ"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/0767b14a4e3f385fe49bb591eb78ce0aaf7513c0", 
+      "width": 600, 
+      "height": 601
+    }, 
+    {
+      "url": "https://i.scdn.co/image/6ed65644575b99a0c7fe2fbb7232a96a9b290f3e", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/9a1be85d4987fe44fbc9d35d0dddb89524ff6e97", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "634904018023"
+  }, 
+  "type": "album", 
+  "id": "6OAzWuJqxiCFZ0cvqM9EFh", 
+  "name": "Rejoicing In The Hands"
+}

@@ -1,0 +1,375 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5OMRsoc2rgjoGXQEESeu80"
+  }, 
+  "release_date": "1976-01-01", 
+  "popularity": 38, 
+  "genres": [], 
+  "uri": "spotify:album:5OMRsoc2rgjoGXQEESeu80", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Ponta De Lanca Africano", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6p3VSzgS0gi6H8iMYOiiyg"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e22014b10126c7ee9b33c78cc937e8af671605de", 
+        "is_playable": true, 
+        "uri": "spotify:track:6p3VSzgS0gi6H8iMYOiiyg", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6p3VSzgS0gi6H8iMYOiiyg", 
+        "artists": [
+          {
+            "name": "Jorge Ben Jor", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+            }, 
+            "uri": "spotify:artist:5JYtpnUKxAzXfHEYpOeeit", 
+            "href": "https://api.spotify.com/v1/artists/5JYtpnUKxAzXfHEYpOeeit", 
+            "type": "artist", 
+            "id": "5JYtpnUKxAzXfHEYpOeeit"
+          }
+        ], 
+        "duration_ms": 232026, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "6p3VSzgS0gi6H8iMYOiiyg"
+      }, 
+      {
+        "name": "Hermes Trismegisto Escreveu", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0O9kkXzdL0ufQNzE7vDgsQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1956843298aaea1b9aec109fd8f6400fe76cab3e", 
+        "is_playable": true, 
+        "uri": "spotify:track:0O9kkXzdL0ufQNzE7vDgsQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0O9kkXzdL0ufQNzE7vDgsQ", 
+        "artists": [
+          {
+            "name": "Jorge Ben Jor", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+            }, 
+            "uri": "spotify:artist:5JYtpnUKxAzXfHEYpOeeit", 
+            "href": "https://api.spotify.com/v1/artists/5JYtpnUKxAzXfHEYpOeeit", 
+            "type": "artist", 
+            "id": "5JYtpnUKxAzXfHEYpOeeit"
+          }
+        ], 
+        "duration_ms": 182640, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "0O9kkXzdL0ufQNzE7vDgsQ"
+      }, 
+      {
+        "name": "O Fil\u00f3sofo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/13cyWwAwfXiIH5QgQ21bGT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fec81232fcc481898b18eb453cbf38f4ac75e2c3", 
+        "is_playable": true, 
+        "uri": "spotify:track:13cyWwAwfXiIH5QgQ21bGT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/13cyWwAwfXiIH5QgQ21bGT", 
+        "artists": [
+          {
+            "name": "Jorge Ben Jor", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+            }, 
+            "uri": "spotify:artist:5JYtpnUKxAzXfHEYpOeeit", 
+            "href": "https://api.spotify.com/v1/artists/5JYtpnUKxAzXfHEYpOeeit", 
+            "type": "artist", 
+            "id": "5JYtpnUKxAzXfHEYpOeeit"
+          }
+        ], 
+        "duration_ms": 207266, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "13cyWwAwfXiIH5QgQ21bGT"
+      }, 
+      {
+        "name": "Meus Filhos, Meu Tesouro", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5S2ugMbw7Viq4vES6jg6gs"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/03d4240cae8ab73735de98706fc7b90f047a88bf", 
+        "is_playable": true, 
+        "uri": "spotify:track:5S2ugMbw7Viq4vES6jg6gs", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5S2ugMbw7Viq4vES6jg6gs", 
+        "artists": [
+          {
+            "name": "Jorge Ben Jor", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+            }, 
+            "uri": "spotify:artist:5JYtpnUKxAzXfHEYpOeeit", 
+            "href": "https://api.spotify.com/v1/artists/5JYtpnUKxAzXfHEYpOeeit", 
+            "type": "artist", 
+            "id": "5JYtpnUKxAzXfHEYpOeeit"
+          }
+        ], 
+        "duration_ms": 231266, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "5S2ugMbw7Viq4vES6jg6gs"
+      }, 
+      {
+        "name": "O Plebeu", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2kz9F0MMzz8R7zvd4NmKCH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/af595f62888bfd33aefce9d81e762b8e4ae54e01", 
+        "is_playable": true, 
+        "uri": "spotify:track:2kz9F0MMzz8R7zvd4NmKCH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2kz9F0MMzz8R7zvd4NmKCH", 
+        "artists": [
+          {
+            "name": "Jorge Ben Jor", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+            }, 
+            "uri": "spotify:artist:5JYtpnUKxAzXfHEYpOeeit", 
+            "href": "https://api.spotify.com/v1/artists/5JYtpnUKxAzXfHEYpOeeit", 
+            "type": "artist", 
+            "id": "5JYtpnUKxAzXfHEYpOeeit"
+          }
+        ], 
+        "duration_ms": 187800, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "2kz9F0MMzz8R7zvd4NmKCH"
+      }, 
+      {
+        "name": "Taj Mahal", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2jjPWBfnx57puOtvQPKE1k"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2a0db6d2767d77b612325e69b46e5ef9eb5d24e6", 
+        "is_playable": true, 
+        "uri": "spotify:track:2jjPWBfnx57puOtvQPKE1k", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2jjPWBfnx57puOtvQPKE1k", 
+        "artists": [
+          {
+            "name": "Jorge Ben Jor", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+            }, 
+            "uri": "spotify:artist:5JYtpnUKxAzXfHEYpOeeit", 
+            "href": "https://api.spotify.com/v1/artists/5JYtpnUKxAzXfHEYpOeeit", 
+            "type": "artist", 
+            "id": "5JYtpnUKxAzXfHEYpOeeit"
+          }
+        ], 
+        "duration_ms": 186933, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "2jjPWBfnx57puOtvQPKE1k"
+      }, 
+      {
+        "name": "Xica Da Silva", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0yOco3Z6KoFm38QDTvOXpi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/be223d2edda5de5110c3d5313f85cdf602f9e5a1", 
+        "is_playable": true, 
+        "uri": "spotify:track:0yOco3Z6KoFm38QDTvOXpi", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0yOco3Z6KoFm38QDTvOXpi", 
+        "artists": [
+          {
+            "name": "Jorge Ben Jor", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+            }, 
+            "uri": "spotify:artist:5JYtpnUKxAzXfHEYpOeeit", 
+            "href": "https://api.spotify.com/v1/artists/5JYtpnUKxAzXfHEYpOeeit", 
+            "type": "artist", 
+            "id": "5JYtpnUKxAzXfHEYpOeeit"
+          }
+        ], 
+        "duration_ms": 242733, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "0yOco3Z6KoFm38QDTvOXpi"
+      }, 
+      {
+        "name": "A Hist\u00f3ria De Jorge", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4hIMFb4EkLzlre48to0ETP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6ff380ac4b82cbbeaca6a9c304b88f45f09864a1", 
+        "is_playable": true, 
+        "uri": "spotify:track:4hIMFb4EkLzlre48to0ETP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4hIMFb4EkLzlre48to0ETP", 
+        "artists": [
+          {
+            "name": "Jorge Ben Jor", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+            }, 
+            "uri": "spotify:artist:5JYtpnUKxAzXfHEYpOeeit", 
+            "href": "https://api.spotify.com/v1/artists/5JYtpnUKxAzXfHEYpOeeit", 
+            "type": "artist", 
+            "id": "5JYtpnUKxAzXfHEYpOeeit"
+          }
+        ], 
+        "duration_ms": 226640, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "4hIMFb4EkLzlre48to0ETP"
+      }, 
+      {
+        "name": "Camisa 10 Da Gavea", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3VxYRTyrAnimrxrVJHJ0aF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/db72dc52974c6a1e0f6f0e0007ebb09c7013912c", 
+        "is_playable": true, 
+        "uri": "spotify:track:3VxYRTyrAnimrxrVJHJ0aF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3VxYRTyrAnimrxrVJHJ0aF", 
+        "artists": [
+          {
+            "name": "Jorge Ben Jor", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+            }, 
+            "uri": "spotify:artist:5JYtpnUKxAzXfHEYpOeeit", 
+            "href": "https://api.spotify.com/v1/artists/5JYtpnUKxAzXfHEYpOeeit", 
+            "type": "artist", 
+            "id": "5JYtpnUKxAzXfHEYpOeeit"
+          }
+        ], 
+        "duration_ms": 244706, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "3VxYRTyrAnimrxrVJHJ0aF"
+      }, 
+      {
+        "name": "Cavaleiro Do Cavalo Imaculado", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5elX5xfQl24ZBGff1aG0Vb"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bb631d91acba1c67ebfe4546c12a6aea971a4d59", 
+        "is_playable": true, 
+        "uri": "spotify:track:5elX5xfQl24ZBGff1aG0Vb", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5elX5xfQl24ZBGff1aG0Vb", 
+        "artists": [
+          {
+            "name": "Jorge Ben Jor", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+            }, 
+            "uri": "spotify:artist:5JYtpnUKxAzXfHEYpOeeit", 
+            "href": "https://api.spotify.com/v1/artists/5JYtpnUKxAzXfHEYpOeeit", 
+            "type": "artist", 
+            "id": "5JYtpnUKxAzXfHEYpOeeit"
+          }
+        ], 
+        "duration_ms": 286426, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "5elX5xfQl24ZBGff1aG0Vb"
+      }, 
+      {
+        "name": "\u00c1frica Brasil (Zumbi)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6vkpZJyO0zxTr2jGeLwIjK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c08486bb918a8aa562beed57be423a0446d1960a", 
+        "is_playable": true, 
+        "uri": "spotify:track:6vkpZJyO0zxTr2jGeLwIjK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6vkpZJyO0zxTr2jGeLwIjK", 
+        "artists": [
+          {
+            "name": "Jorge Ben Jor", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+            }, 
+            "uri": "spotify:artist:5JYtpnUKxAzXfHEYpOeeit", 
+            "href": "https://api.spotify.com/v1/artists/5JYtpnUKxAzXfHEYpOeeit", 
+            "type": "artist", 
+            "id": "5JYtpnUKxAzXfHEYpOeeit"
+          }
+        ], 
+        "duration_ms": 227200, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "6vkpZJyO0zxTr2jGeLwIjK"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/5OMRsoc2rgjoGXQEESeu80/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 11, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/5OMRsoc2rgjoGXQEESeu80", 
+  "copyrights": [
+    {
+      "text": "(C) 1976 Universal Music Ltda", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1976 Universal Music Ltda", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Jorge Ben Jor", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+      }, 
+      "uri": "spotify:artist:5JYtpnUKxAzXfHEYpOeeit", 
+      "href": "https://api.spotify.com/v1/artists/5JYtpnUKxAzXfHEYpOeeit", 
+      "type": "artist", 
+      "id": "5JYtpnUKxAzXfHEYpOeeit"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/bea9798f27bc1d2943cb57a6c99d31eb28706bb1", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/2b78959aeaf66aa1889a2afb819f18ba9e585c50", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/820d7a5f495adddefe70ed6b10365e849380ed51", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00731451811623"
+  }, 
+  "type": "album", 
+  "id": "5OMRsoc2rgjoGXQEESeu80", 
+  "name": "Africa Brasil"
+}

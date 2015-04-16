@@ -1,0 +1,571 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD"
+  }, 
+  "release_date": "1981", 
+  "popularity": 45, 
+  "genres": [], 
+  "uri": "spotify:album:3KFWViJ1wIHAdOVLFTVzjD", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Frustration", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/51CSaseACCvrKgg7I2KVX9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c4f5cf2c40d566c737f415a9d1ee815655ffb1c8", 
+        "is_playable": true, 
+        "uri": "spotify:track:51CSaseACCvrKgg7I2KVX9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/51CSaseACCvrKgg7I2KVX9", 
+        "artists": [
+          {
+            "name": "Soft Cell", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
+            }, 
+            "uri": "spotify:artist:6aq8T2RcspxVOGgMrTzjWc", 
+            "href": "https://api.spotify.com/v1/artists/6aq8T2RcspxVOGgMrTzjWc", 
+            "type": "artist", 
+            "id": "6aq8T2RcspxVOGgMrTzjWc"
+          }
+        ], 
+        "duration_ms": 253701, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "51CSaseACCvrKgg7I2KVX9"
+      }, 
+      {
+        "name": "Tainted Love", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/df14c1ff98166cbc80e23f178f6a1f0bd881ed30", 
+        "is_playable": true, 
+        "uri": "spotify:track:0cGG2EouYCEEC3xfa0tDFV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0cGG2EouYCEEC3xfa0tDFV", 
+        "artists": [
+          {
+            "name": "Soft Cell", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
+            }, 
+            "uri": "spotify:artist:6aq8T2RcspxVOGgMrTzjWc", 
+            "href": "https://api.spotify.com/v1/artists/6aq8T2RcspxVOGgMrTzjWc", 
+            "type": "artist", 
+            "id": "6aq8T2RcspxVOGgMrTzjWc"
+          }
+        ], 
+        "duration_ms": 153762, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "0cGG2EouYCEEC3xfa0tDFV"
+      }, 
+      {
+        "name": "Seedy Films", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2UjJWn33oJSmjnjBT4L0PN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2aa704adfa22e055b472f4825f242b668525de09", 
+        "is_playable": true, 
+        "uri": "spotify:track:2UjJWn33oJSmjnjBT4L0PN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2UjJWn33oJSmjnjBT4L0PN", 
+        "artists": [
+          {
+            "name": "Soft Cell", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
+            }, 
+            "uri": "spotify:artist:6aq8T2RcspxVOGgMrTzjWc", 
+            "href": "https://api.spotify.com/v1/artists/6aq8T2RcspxVOGgMrTzjWc", 
+            "type": "artist", 
+            "id": "6aq8T2RcspxVOGgMrTzjWc"
+          }
+        ], 
+        "duration_ms": 304693, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "2UjJWn33oJSmjnjBT4L0PN"
+      }, 
+      {
+        "name": "Youth", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0P0wsOSg1NXrkzJxY0zDXY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5590195caaaa693e88547fc6c8bab176e6853772", 
+        "is_playable": true, 
+        "uri": "spotify:track:0P0wsOSg1NXrkzJxY0zDXY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0P0wsOSg1NXrkzJxY0zDXY", 
+        "artists": [
+          {
+            "name": "Soft Cell", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
+            }, 
+            "uri": "spotify:artist:6aq8T2RcspxVOGgMrTzjWc", 
+            "href": "https://api.spotify.com/v1/artists/6aq8T2RcspxVOGgMrTzjWc", 
+            "type": "artist", 
+            "id": "6aq8T2RcspxVOGgMrTzjWc"
+          }
+        ], 
+        "duration_ms": 194706, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "0P0wsOSg1NXrkzJxY0zDXY"
+      }, 
+      {
+        "name": "Sex Dwarf - Original Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/03DtZyPrG98h4Z3QwvfDgQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d95c79f516aedaf8ed45dfadab82eedd2e57bbb9", 
+        "is_playable": true, 
+        "uri": "spotify:track:03DtZyPrG98h4Z3QwvfDgQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/03DtZyPrG98h4Z3QwvfDgQ", 
+        "artists": [
+          {
+            "name": "Soft Cell", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
+            }, 
+            "uri": "spotify:artist:6aq8T2RcspxVOGgMrTzjWc", 
+            "href": "https://api.spotify.com/v1/artists/6aq8T2RcspxVOGgMrTzjWc", 
+            "type": "artist", 
+            "id": "6aq8T2RcspxVOGgMrTzjWc"
+          }
+        ], 
+        "duration_ms": 316333, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "03DtZyPrG98h4Z3QwvfDgQ"
+      }, 
+      {
+        "name": "Entertain Me", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5I8H0FjQXE67dUj8NF5gBt"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/73125f610141eb0a291e8cd0f783ce231212feb5", 
+        "is_playable": true, 
+        "uri": "spotify:track:5I8H0FjQXE67dUj8NF5gBt", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5I8H0FjQXE67dUj8NF5gBt", 
+        "artists": [
+          {
+            "name": "Soft Cell", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
+            }, 
+            "uri": "spotify:artist:6aq8T2RcspxVOGgMrTzjWc", 
+            "href": "https://api.spotify.com/v1/artists/6aq8T2RcspxVOGgMrTzjWc", 
+            "type": "artist", 
+            "id": "6aq8T2RcspxVOGgMrTzjWc"
+          }
+        ], 
+        "duration_ms": 214831, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "5I8H0FjQXE67dUj8NF5gBt"
+      }, 
+      {
+        "name": "Chips On My Shoulder - Original Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/196GoNj97wBM2bpz7u4Owy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3728999128ea2a984f9c7a435b33be67dc3e2d47", 
+        "is_playable": true, 
+        "uri": "spotify:track:196GoNj97wBM2bpz7u4Owy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/196GoNj97wBM2bpz7u4Owy", 
+        "artists": [
+          {
+            "name": "Soft Cell", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
+            }, 
+            "uri": "spotify:artist:6aq8T2RcspxVOGgMrTzjWc", 
+            "href": "https://api.spotify.com/v1/artists/6aq8T2RcspxVOGgMrTzjWc", 
+            "type": "artist", 
+            "id": "6aq8T2RcspxVOGgMrTzjWc"
+          }
+        ], 
+        "duration_ms": 246800, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "196GoNj97wBM2bpz7u4Owy"
+      }, 
+      {
+        "name": "Bedsitter", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0QVMp9Pd4bLVPGfYvFOilt"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b727f1d131f3af3daf80326583d5e479d53368bd", 
+        "is_playable": true, 
+        "uri": "spotify:track:0QVMp9Pd4bLVPGfYvFOilt", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0QVMp9Pd4bLVPGfYvFOilt", 
+        "artists": [
+          {
+            "name": "Soft Cell", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
+            }, 
+            "uri": "spotify:artist:6aq8T2RcspxVOGgMrTzjWc", 
+            "href": "https://api.spotify.com/v1/artists/6aq8T2RcspxVOGgMrTzjWc", 
+            "type": "artist", 
+            "id": "6aq8T2RcspxVOGgMrTzjWc"
+          }
+        ], 
+        "duration_ms": 215360, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "0QVMp9Pd4bLVPGfYvFOilt"
+      }, 
+      {
+        "name": "Secret Life", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/21gw72NVkda2IFSyPipqK7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0c5c0dcee5e8f3e40aec1f2ceb4e29c15a49805b", 
+        "is_playable": true, 
+        "uri": "spotify:track:21gw72NVkda2IFSyPipqK7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/21gw72NVkda2IFSyPipqK7", 
+        "artists": [
+          {
+            "name": "Soft Cell", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
+            }, 
+            "uri": "spotify:artist:6aq8T2RcspxVOGgMrTzjWc", 
+            "href": "https://api.spotify.com/v1/artists/6aq8T2RcspxVOGgMrTzjWc", 
+            "type": "artist", 
+            "id": "6aq8T2RcspxVOGgMrTzjWc"
+          }
+        ], 
+        "duration_ms": 216973, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "21gw72NVkda2IFSyPipqK7"
+      }, 
+      {
+        "name": "Say Hello, Wave Goodbye - 7\" Single Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Lx6O1tC3CPF1giLJIt5Jv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1cd63af6ae0dcce3f38fe9adc3227f4aa8de79ed", 
+        "is_playable": true, 
+        "uri": "spotify:track:0Lx6O1tC3CPF1giLJIt5Jv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0Lx6O1tC3CPF1giLJIt5Jv", 
+        "artists": [
+          {
+            "name": "Soft Cell", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
+            }, 
+            "uri": "spotify:artist:6aq8T2RcspxVOGgMrTzjWc", 
+            "href": "https://api.spotify.com/v1/artists/6aq8T2RcspxVOGgMrTzjWc", 
+            "type": "artist", 
+            "id": "6aq8T2RcspxVOGgMrTzjWc"
+          }
+        ], 
+        "duration_ms": 324960, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "0Lx6O1tC3CPF1giLJIt5Jv"
+      }, 
+      {
+        "name": "Where Did Our Love Go? - Original / 7\" Single Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/26T1CapkR2Eud51nRouhdr"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ef25d4370a50019523bfc42dd9e162913e0ec0ad", 
+        "is_playable": true, 
+        "uri": "spotify:track:26T1CapkR2Eud51nRouhdr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/26T1CapkR2Eud51nRouhdr", 
+        "artists": [
+          {
+            "name": "Soft Cell", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
+            }, 
+            "uri": "spotify:artist:6aq8T2RcspxVOGgMrTzjWc", 
+            "href": "https://api.spotify.com/v1/artists/6aq8T2RcspxVOGgMrTzjWc", 
+            "type": "artist", 
+            "id": "6aq8T2RcspxVOGgMrTzjWc"
+          }
+        ], 
+        "duration_ms": 193800, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "26T1CapkR2Eud51nRouhdr"
+      }, 
+      {
+        "name": "Memorabilia - Single Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0o0yxyWHolOhW037Vo5PA5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/dfab82507d887f93593a667321b347aaa0cee4c4", 
+        "is_playable": true, 
+        "uri": "spotify:track:0o0yxyWHolOhW037Vo5PA5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0o0yxyWHolOhW037Vo5PA5", 
+        "artists": [
+          {
+            "name": "Soft Cell", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
+            }, 
+            "uri": "spotify:artist:6aq8T2RcspxVOGgMrTzjWc", 
+            "href": "https://api.spotify.com/v1/artists/6aq8T2RcspxVOGgMrTzjWc", 
+            "type": "artist", 
+            "id": "6aq8T2RcspxVOGgMrTzjWc"
+          }
+        ], 
+        "duration_ms": 288933, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "0o0yxyWHolOhW037Vo5PA5"
+      }, 
+      {
+        "name": "Facility Girls", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2M8ohxklEgSnlUTFuv46h1"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8c4cc0170443ac8d5000c3892eef99198812ec9e", 
+        "is_playable": true, 
+        "uri": "spotify:track:2M8ohxklEgSnlUTFuv46h1", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2M8ohxklEgSnlUTFuv46h1", 
+        "artists": [
+          {
+            "name": "Soft Cell", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
+            }, 
+            "uri": "spotify:artist:6aq8T2RcspxVOGgMrTzjWc", 
+            "href": "https://api.spotify.com/v1/artists/6aq8T2RcspxVOGgMrTzjWc", 
+            "type": "artist", 
+            "id": "6aq8T2RcspxVOGgMrTzjWc"
+          }
+        ], 
+        "duration_ms": 141733, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "2M8ohxklEgSnlUTFuv46h1"
+      }, 
+      {
+        "name": "Fun City", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1vZLUfp2ZhOSfWVWyhq7p5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cc68c7027123f646d3d815943cf72e04e2659ecd", 
+        "is_playable": true, 
+        "uri": "spotify:track:1vZLUfp2ZhOSfWVWyhq7p5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1vZLUfp2ZhOSfWVWyhq7p5", 
+        "artists": [
+          {
+            "name": "Soft Cell", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
+            }, 
+            "uri": "spotify:artist:6aq8T2RcspxVOGgMrTzjWc", 
+            "href": "https://api.spotify.com/v1/artists/6aq8T2RcspxVOGgMrTzjWc", 
+            "type": "artist", 
+            "id": "6aq8T2RcspxVOGgMrTzjWc"
+          }
+        ], 
+        "duration_ms": 464933, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "1vZLUfp2ZhOSfWVWyhq7p5"
+      }, 
+      {
+        "name": "Torch - Original / 7\" Single Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5b3NxkCIUD5Yo8OTj3eEum"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f28233907af0a50dad9db193a8843053743fb548", 
+        "is_playable": true, 
+        "uri": "spotify:track:5b3NxkCIUD5Yo8OTj3eEum", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5b3NxkCIUD5Yo8OTj3eEum", 
+        "artists": [
+          {
+            "name": "Soft Cell", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
+            }, 
+            "uri": "spotify:artist:6aq8T2RcspxVOGgMrTzjWc", 
+            "href": "https://api.spotify.com/v1/artists/6aq8T2RcspxVOGgMrTzjWc", 
+            "type": "artist", 
+            "id": "6aq8T2RcspxVOGgMrTzjWc"
+          }
+        ], 
+        "duration_ms": 248306, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "5b3NxkCIUD5Yo8OTj3eEum"
+      }, 
+      {
+        "name": "Insecure Me - Edit", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Kh8lE5MCnVDq2YHC1oUIK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8cc4f0e45bb9a0798160799cf6530545093f5266", 
+        "is_playable": true, 
+        "uri": "spotify:track:2Kh8lE5MCnVDq2YHC1oUIK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2Kh8lE5MCnVDq2YHC1oUIK", 
+        "artists": [
+          {
+            "name": "Soft Cell", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
+            }, 
+            "uri": "spotify:artist:6aq8T2RcspxVOGgMrTzjWc", 
+            "href": "https://api.spotify.com/v1/artists/6aq8T2RcspxVOGgMrTzjWc", 
+            "type": "artist", 
+            "id": "6aq8T2RcspxVOGgMrTzjWc"
+          }
+        ], 
+        "duration_ms": 279093, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "2Kh8lE5MCnVDq2YHC1oUIK"
+      }, 
+      {
+        "name": "What?", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4KoBWHMhgCZJghJOURbPwi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f7b737815869ce01e4758eee03b39aa2437f4195", 
+        "is_playable": true, 
+        "uri": "spotify:track:4KoBWHMhgCZJghJOURbPwi", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4KoBWHMhgCZJghJOURbPwi", 
+        "artists": [
+          {
+            "name": "Soft Cell", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
+            }, 
+            "uri": "spotify:artist:6aq8T2RcspxVOGgMrTzjWc", 
+            "href": "https://api.spotify.com/v1/artists/6aq8T2RcspxVOGgMrTzjWc", 
+            "type": "artist", 
+            "id": "6aq8T2RcspxVOGgMrTzjWc"
+          }
+        ], 
+        "duration_ms": 170506, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "4KoBWHMhgCZJghJOURbPwi"
+      }, 
+      {
+        "name": "So", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7iqvasGH3lq6NqHq9STuh5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/eead5460eff04d38a1aac0d2a3eecb3385d77389", 
+        "is_playable": true, 
+        "uri": "spotify:track:7iqvasGH3lq6NqHq9STuh5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7iqvasGH3lq6NqHq9STuh5", 
+        "artists": [
+          {
+            "name": "Soft Cell", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
+            }, 
+            "uri": "spotify:artist:6aq8T2RcspxVOGgMrTzjWc", 
+            "href": "https://api.spotify.com/v1/artists/6aq8T2RcspxVOGgMrTzjWc", 
+            "type": "artist", 
+            "id": "6aq8T2RcspxVOGgMrTzjWc"
+          }
+        ], 
+        "duration_ms": 229200, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "7iqvasGH3lq6NqHq9STuh5"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/3KFWViJ1wIHAdOVLFTVzjD/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 18, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/3KFWViJ1wIHAdOVLFTVzjD", 
+  "copyrights": [
+    {
+      "text": "(C) 1996 Mercury Records Limited", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1996 Mercury Records Limited", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Soft Cell", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
+      }, 
+      "uri": "spotify:artist:6aq8T2RcspxVOGgMrTzjWc", 
+      "href": "https://api.spotify.com/v1/artists/6aq8T2RcspxVOGgMrTzjWc", 
+      "type": "artist", 
+      "id": "6aq8T2RcspxVOGgMrTzjWc"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/4442b942250a8439e1195308f6d692ab77b78ad6", 
+      "width": 640, 
+      "height": 634
+    }, 
+    {
+      "url": "https://i.scdn.co/image/89c9762ce5961a07c59f4c5e10fc3f1726c55aad", 
+      "width": 300, 
+      "height": 297
+    }, 
+    {
+      "url": "https://i.scdn.co/image/d477e0bc4a562b6281e82c3ce9fd37450fc7598a", 
+      "width": 64, 
+      "height": 63
+    }
+  ], 
+  "external_ids": {
+    "upc": "00731453259522"
+  }, 
+  "type": "album", 
+  "id": "3KFWViJ1wIHAdOVLFTVzjD", 
+  "name": "Non-Stop Erotic Cabaret"
+}

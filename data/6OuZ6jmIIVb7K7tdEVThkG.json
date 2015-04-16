@@ -1,0 +1,455 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6OuZ6jmIIVb7K7tdEVThkG"
+  }, 
+  "release_date": "1983-11-04", 
+  "popularity": 43, 
+  "genres": [], 
+  "uri": "spotify:album:6OuZ6jmIIVb7K7tdEVThkG", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Allergies - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6N9HB9cU7Vkjhy6L45RTNF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/14bac4aa7836fda2ba8ddb882d605a0d60de272a", 
+        "is_playable": true, 
+        "uri": "spotify:track:6N9HB9cU7Vkjhy6L45RTNF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6N9HB9cU7Vkjhy6L45RTNF", 
+        "artists": [
+          {
+            "name": "Paul Simon", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+            }, 
+            "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI", 
+            "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI", 
+            "type": "artist", 
+            "id": "2CvCyf1gEVhI0mX6aFXmVI"
+          }
+        ], 
+        "duration_ms": 279080, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "6N9HB9cU7Vkjhy6L45RTNF"
+      }, 
+      {
+        "name": "Hearts and Bones - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6WEEA3pDQVogiNND0jRfoJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/992324ebe3b72b6905e4ebf0f41d1869d8090d7d", 
+        "is_playable": true, 
+        "uri": "spotify:track:6WEEA3pDQVogiNND0jRfoJ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6WEEA3pDQVogiNND0jRfoJ", 
+        "artists": [
+          {
+            "name": "Paul Simon", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+            }, 
+            "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI", 
+            "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI", 
+            "type": "artist", 
+            "id": "2CvCyf1gEVhI0mX6aFXmVI"
+          }
+        ], 
+        "duration_ms": 339293, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "6WEEA3pDQVogiNND0jRfoJ"
+      }, 
+      {
+        "name": "When Numbers Get Serious - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Mnc826NrkZCpu80Ewv730"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/127cab742b525133ce5ca09003289663212635e1", 
+        "is_playable": true, 
+        "uri": "spotify:track:3Mnc826NrkZCpu80Ewv730", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3Mnc826NrkZCpu80Ewv730", 
+        "artists": [
+          {
+            "name": "Paul Simon", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+            }, 
+            "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI", 
+            "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI", 
+            "type": "artist", 
+            "id": "2CvCyf1gEVhI0mX6aFXmVI"
+          }
+        ], 
+        "duration_ms": 206053, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "3Mnc826NrkZCpu80Ewv730"
+      }, 
+      {
+        "name": "Think Too Much (b) - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2TUH0iiDDucfnJoUWXvjHz"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c366100632dcf5d6772cda0ee5861dc7c13914ea", 
+        "is_playable": true, 
+        "uri": "spotify:track:2TUH0iiDDucfnJoUWXvjHz", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2TUH0iiDDucfnJoUWXvjHz", 
+        "artists": [
+          {
+            "name": "Paul Simon", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+            }, 
+            "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI", 
+            "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI", 
+            "type": "artist", 
+            "id": "2CvCyf1gEVhI0mX6aFXmVI"
+          }
+        ], 
+        "duration_ms": 165213, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "2TUH0iiDDucfnJoUWXvjHz"
+      }, 
+      {
+        "name": "Song About the Moon - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2iQPL23wVyjHUJaIqNnRHg"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c97013b7c08efda4f1b1bcb07b61986a84d781a4", 
+        "is_playable": true, 
+        "uri": "spotify:track:2iQPL23wVyjHUJaIqNnRHg", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2iQPL23wVyjHUJaIqNnRHg", 
+        "artists": [
+          {
+            "name": "Paul Simon", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+            }, 
+            "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI", 
+            "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI", 
+            "type": "artist", 
+            "id": "2CvCyf1gEVhI0mX6aFXmVI"
+          }
+        ], 
+        "duration_ms": 251413, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "2iQPL23wVyjHUJaIqNnRHg"
+      }, 
+      {
+        "name": "Think Too Much (a) - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Pt8FwfdnhzoIPBdLQ8gig"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5879439a29c7c81bb132cec8061db346f6ccbb69", 
+        "is_playable": true, 
+        "uri": "spotify:track:3Pt8FwfdnhzoIPBdLQ8gig", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3Pt8FwfdnhzoIPBdLQ8gig", 
+        "artists": [
+          {
+            "name": "Paul Simon", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+            }, 
+            "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI", 
+            "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI", 
+            "type": "artist", 
+            "id": "2CvCyf1gEVhI0mX6aFXmVI"
+          }
+        ], 
+        "duration_ms": 185306, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "3Pt8FwfdnhzoIPBdLQ8gig"
+      }, 
+      {
+        "name": "Train in the Distance - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6IeVAjKzFzLkQOajVL5zpY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f4b7795db5c868022c69306577449203aa20d163", 
+        "is_playable": true, 
+        "uri": "spotify:track:6IeVAjKzFzLkQOajVL5zpY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6IeVAjKzFzLkQOajVL5zpY", 
+        "artists": [
+          {
+            "name": "Paul Simon", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+            }, 
+            "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI", 
+            "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI", 
+            "type": "artist", 
+            "id": "2CvCyf1gEVhI0mX6aFXmVI"
+          }
+        ], 
+        "duration_ms": 312493, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "6IeVAjKzFzLkQOajVL5zpY"
+      }, 
+      {
+        "name": "Rene and George Magritte with Their Dog After the War - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6P3h4US9KBQLT9j6VZmIrq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/faaceaa85b4be500701ddf2579b0944ed62ca2e3", 
+        "is_playable": true, 
+        "uri": "spotify:track:6P3h4US9KBQLT9j6VZmIrq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6P3h4US9KBQLT9j6VZmIrq", 
+        "artists": [
+          {
+            "name": "Paul Simon", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+            }, 
+            "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI", 
+            "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI", 
+            "type": "artist", 
+            "id": "2CvCyf1gEVhI0mX6aFXmVI"
+          }
+        ], 
+        "duration_ms": 223693, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "6P3h4US9KBQLT9j6VZmIrq"
+      }, 
+      {
+        "name": "Cars Are Cars - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Id1DZaoWLhNLWx5ao1Tdo"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/31d6597e6ab2ae2f9cd557adf1013866b04f01d5", 
+        "is_playable": true, 
+        "uri": "spotify:track:3Id1DZaoWLhNLWx5ao1Tdo", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3Id1DZaoWLhNLWx5ao1Tdo", 
+        "artists": [
+          {
+            "name": "Paul Simon", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+            }, 
+            "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI", 
+            "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI", 
+            "type": "artist", 
+            "id": "2CvCyf1gEVhI0mX6aFXmVI"
+          }
+        ], 
+        "duration_ms": 195200, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "3Id1DZaoWLhNLWx5ao1Tdo"
+      }, 
+      {
+        "name": "The Late Great Johnny Ace - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1bIDczFikKlZpd9Ccbyhiy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/58ebc5571acd91541fd11f4f9b5b22ff40f75251", 
+        "is_playable": true, 
+        "uri": "spotify:track:1bIDczFikKlZpd9Ccbyhiy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1bIDczFikKlZpd9Ccbyhiy", 
+        "artists": [
+          {
+            "name": "Paul Simon", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+            }, 
+            "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI", 
+            "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI", 
+            "type": "artist", 
+            "id": "2CvCyf1gEVhI0mX6aFXmVI"
+          }
+        ], 
+        "duration_ms": 287213, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "1bIDczFikKlZpd9Ccbyhiy"
+      }, 
+      {
+        "name": "Shelter of Your Arms (Unreleased Work-In-Progress) - Bonus Track", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/05QQYZdkCRlj36XMLgOCok"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e6110eb34adf885a2f4545611b5eee76eb3141b1", 
+        "is_playable": true, 
+        "uri": "spotify:track:05QQYZdkCRlj36XMLgOCok", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/05QQYZdkCRlj36XMLgOCok", 
+        "artists": [
+          {
+            "name": "Paul Simon", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+            }, 
+            "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI", 
+            "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI", 
+            "type": "artist", 
+            "id": "2CvCyf1gEVhI0mX6aFXmVI"
+          }
+        ], 
+        "duration_ms": 189493, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "05QQYZdkCRlj36XMLgOCok"
+      }, 
+      {
+        "name": "Train in the Distance (Original Acoustic Demo) - Bonus Track", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/71Hm1Ys7zLo6UMX31JXuLT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/49fa44aabd23b8616d822773cdd22cae6c337782", 
+        "is_playable": true, 
+        "uri": "spotify:track:71Hm1Ys7zLo6UMX31JXuLT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/71Hm1Ys7zLo6UMX31JXuLT", 
+        "artists": [
+          {
+            "name": "Paul Simon", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+            }, 
+            "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI", 
+            "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI", 
+            "type": "artist", 
+            "id": "2CvCyf1gEVhI0mX6aFXmVI"
+          }
+        ], 
+        "duration_ms": 191413, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "71Hm1Ys7zLo6UMX31JXuLT"
+      }, 
+      {
+        "name": "Rene and George Magritte with Their Dog After the War (Original Acoustic Demo) - Bonus Track", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6hLowwg8dBxdekIm8wSTi8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9eec8ca3075058821168d1a634d1fb4515c2bb42", 
+        "is_playable": true, 
+        "uri": "spotify:track:6hLowwg8dBxdekIm8wSTi8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6hLowwg8dBxdekIm8wSTi8", 
+        "artists": [
+          {
+            "name": "Paul Simon", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+            }, 
+            "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI", 
+            "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI", 
+            "type": "artist", 
+            "id": "2CvCyf1gEVhI0mX6aFXmVI"
+          }
+        ], 
+        "duration_ms": 225466, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "6hLowwg8dBxdekIm8wSTi8"
+      }, 
+      {
+        "name": "The Late Great Johnny Ace (Original Acoustic Demo) - Bonus Track", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1y2hVu6gixzSpYtMkfzXX6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e235ad9c7383b30230e07d6d0ad66d56233e3dff", 
+        "is_playable": true, 
+        "uri": "spotify:track:1y2hVu6gixzSpYtMkfzXX6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1y2hVu6gixzSpYtMkfzXX6", 
+        "artists": [
+          {
+            "name": "Paul Simon", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+            }, 
+            "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI", 
+            "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI", 
+            "type": "artist", 
+            "id": "2CvCyf1gEVhI0mX6aFXmVI"
+          }
+        ], 
+        "duration_ms": 202293, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "1y2hVu6gixzSpYtMkfzXX6"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/6OuZ6jmIIVb7K7tdEVThkG/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 14, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/6OuZ6jmIIVb7K7tdEVThkG", 
+  "copyrights": [
+    {
+      "text": "(P) 2010 Paul Simon under exclusive license of Sony Music Entertainment", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Paul Simon", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+      }, 
+      "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI", 
+      "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI", 
+      "type": "artist", 
+      "id": "2CvCyf1gEVhI0mX6aFXmVI"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/71037c53abd301e8c7d98ab7d49384f09d01e5dc", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/65bc727291d9ac9eec5db9b6b47e95a6b9969298", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/7bf054593ebc66965f5b0b8ec54b503986a123df", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "884977674323"
+  }, 
+  "type": "album", 
+  "id": "6OuZ6jmIIVb7K7tdEVThkG", 
+  "name": "Hearts And Bones (2011 Remaster)"
+}

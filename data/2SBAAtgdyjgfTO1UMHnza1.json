@@ -1,0 +1,409 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2SBAAtgdyjgfTO1UMHnza1"
+  }, 
+  "release_date": "1960", 
+  "popularity": 44, 
+  "genres": [], 
+  "uri": "spotify:album:2SBAAtgdyjgfTO1UMHnza1", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Make Me Know It", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1dGIHdI2bkAyALXNMQ3s2R"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1551a934c362641a427dc1ab17cad0f3adf86bf5", 
+        "is_playable": true, 
+        "uri": "spotify:track:1dGIHdI2bkAyALXNMQ3s2R", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1dGIHdI2bkAyALXNMQ3s2R", 
+        "artists": [
+          {
+            "name": "Elvis Presley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            }, 
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+            "type": "artist", 
+            "id": "43ZHCT0cAZBISjO8DG9PnE"
+          }
+        ], 
+        "duration_ms": 120000, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "1dGIHdI2bkAyALXNMQ3s2R"
+      }, 
+      {
+        "name": "Fever", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/73m8WuJlhzVusTVzJCGaDZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e80d94f71a319d73d3b45bce9bd061424727a6c9", 
+        "is_playable": true, 
+        "uri": "spotify:track:73m8WuJlhzVusTVzJCGaDZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/73m8WuJlhzVusTVzJCGaDZ", 
+        "artists": [
+          {
+            "name": "Elvis Presley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            }, 
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+            "type": "artist", 
+            "id": "43ZHCT0cAZBISjO8DG9PnE"
+          }
+        ], 
+        "duration_ms": 212893, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "73m8WuJlhzVusTVzJCGaDZ"
+      }, 
+      {
+        "name": "The Girl of My Best Friend", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2NeKjEryWM5VZToeosUsUu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4673435bc3071e85c876cb2e3d16d0c39fc3574b", 
+        "is_playable": true, 
+        "uri": "spotify:track:2NeKjEryWM5VZToeosUsUu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2NeKjEryWM5VZToeosUsUu", 
+        "artists": [
+          {
+            "name": "Elvis Presley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            }, 
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+            "type": "artist", 
+            "id": "43ZHCT0cAZBISjO8DG9PnE"
+          }
+        ], 
+        "duration_ms": 142173, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "2NeKjEryWM5VZToeosUsUu"
+      }, 
+      {
+        "name": "I Will Be Home Again", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2bi3SJI9GYzBEvPOh53EpX"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/75a820c03e7af6a91346ca5940a687b30ddcdb8d", 
+        "is_playable": true, 
+        "uri": "spotify:track:2bi3SJI9GYzBEvPOh53EpX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2bi3SJI9GYzBEvPOh53EpX", 
+        "artists": [
+          {
+            "name": "Elvis Presley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            }, 
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+            "type": "artist", 
+            "id": "43ZHCT0cAZBISjO8DG9PnE"
+          }
+        ], 
+        "duration_ms": 153560, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "2bi3SJI9GYzBEvPOh53EpX"
+      }, 
+      {
+        "name": "Dirty, Dirty Feeling", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1R9uNg9F6WINW53YMwG3GP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/eea02ebfd9420228f913abe03b0b321653e254ef", 
+        "is_playable": true, 
+        "uri": "spotify:track:1R9uNg9F6WINW53YMwG3GP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1R9uNg9F6WINW53YMwG3GP", 
+        "artists": [
+          {
+            "name": "Elvis Presley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            }, 
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+            "type": "artist", 
+            "id": "43ZHCT0cAZBISjO8DG9PnE"
+          }
+        ], 
+        "duration_ms": 93680, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "1R9uNg9F6WINW53YMwG3GP"
+      }, 
+      {
+        "name": "Thrill of Your Love", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2BQGfESOhrW5VpEXhVdoic"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/62513d85d45fcc0dac588822422bcb34f582a4eb", 
+        "is_playable": true, 
+        "uri": "spotify:track:2BQGfESOhrW5VpEXhVdoic", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2BQGfESOhrW5VpEXhVdoic", 
+        "artists": [
+          {
+            "name": "Elvis Presley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            }, 
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+            "type": "artist", 
+            "id": "43ZHCT0cAZBISjO8DG9PnE"
+          }, 
+          {
+            "name": "The Jordanaires", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv"
+            }, 
+            "uri": "spotify:artist:6CXezToiGS8K6jr9kr8Muv", 
+            "href": "https://api.spotify.com/v1/artists/6CXezToiGS8K6jr9kr8Muv", 
+            "type": "artist", 
+            "id": "6CXezToiGS8K6jr9kr8Muv"
+          }
+        ], 
+        "duration_ms": 180506, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "2BQGfESOhrW5VpEXhVdoic"
+      }, 
+      {
+        "name": "Soldier Boy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3CADzRN1OykvppXzYJRRHq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ea9619894b5d930992c7106dc723fa06726598d4", 
+        "is_playable": true, 
+        "uri": "spotify:track:3CADzRN1OykvppXzYJRRHq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3CADzRN1OykvppXzYJRRHq", 
+        "artists": [
+          {
+            "name": "Elvis Presley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            }, 
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+            "type": "artist", 
+            "id": "43ZHCT0cAZBISjO8DG9PnE"
+          }
+        ], 
+        "duration_ms": 185200, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "3CADzRN1OykvppXzYJRRHq"
+      }, 
+      {
+        "name": "Such a Night", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1vGfZYrNSxT72PdgToMubU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b99970da8a5dbc13d6777f294d2ac93a597af5d2", 
+        "is_playable": true, 
+        "uri": "spotify:track:1vGfZYrNSxT72PdgToMubU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1vGfZYrNSxT72PdgToMubU", 
+        "artists": [
+          {
+            "name": "Elvis Presley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            }, 
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+            "type": "artist", 
+            "id": "43ZHCT0cAZBISjO8DG9PnE"
+          }
+        ], 
+        "duration_ms": 179013, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "1vGfZYrNSxT72PdgToMubU"
+      }, 
+      {
+        "name": "It Feels So Right", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5RsdY1b0JSQTGeONEYFcwm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5bdbc41b34094628c08087829638f30ad3639d73", 
+        "is_playable": true, 
+        "uri": "spotify:track:5RsdY1b0JSQTGeONEYFcwm", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5RsdY1b0JSQTGeONEYFcwm", 
+        "artists": [
+          {
+            "name": "Elvis Presley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            }, 
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+            "type": "artist", 
+            "id": "43ZHCT0cAZBISjO8DG9PnE"
+          }
+        ], 
+        "duration_ms": 128613, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "5RsdY1b0JSQTGeONEYFcwm"
+      }, 
+      {
+        "name": "The Girl Next Door Went A'Walking", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4zRZfRxsvUIOETGCvkkboc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e36a68348ce5e8b826d4c4ddd07e436817f13a99", 
+        "is_playable": true, 
+        "uri": "spotify:track:4zRZfRxsvUIOETGCvkkboc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4zRZfRxsvUIOETGCvkkboc", 
+        "artists": [
+          {
+            "name": "Elvis Presley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            }, 
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+            "type": "artist", 
+            "id": "43ZHCT0cAZBISjO8DG9PnE"
+          }
+        ], 
+        "duration_ms": 132546, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "4zRZfRxsvUIOETGCvkkboc"
+      }, 
+      {
+        "name": "Like a Baby", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/36rlDduHIpnVQMFznr1GDy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/678bf2a9c6c811c0bc058768edcc73dd61474a66", 
+        "is_playable": true, 
+        "uri": "spotify:track:36rlDduHIpnVQMFznr1GDy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/36rlDduHIpnVQMFznr1GDy", 
+        "artists": [
+          {
+            "name": "Elvis Presley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            }, 
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+            "type": "artist", 
+            "id": "43ZHCT0cAZBISjO8DG9PnE"
+          }
+        ], 
+        "duration_ms": 159026, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "36rlDduHIpnVQMFznr1GDy"
+      }, 
+      {
+        "name": "Reconsider Baby", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/34K50Idx5EKBEVWkmHZ2IZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/408c36237f75e6331333eca07b3aceb52a866e88", 
+        "is_playable": true, 
+        "uri": "spotify:track:34K50Idx5EKBEVWkmHZ2IZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/34K50Idx5EKBEVWkmHZ2IZ", 
+        "artists": [
+          {
+            "name": "Elvis Presley", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            }, 
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+            "type": "artist", 
+            "id": "43ZHCT0cAZBISjO8DG9PnE"
+          }
+        ], 
+        "duration_ms": 220080, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "34K50Idx5EKBEVWkmHZ2IZ"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/2SBAAtgdyjgfTO1UMHnza1/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 12, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/2SBAAtgdyjgfTO1UMHnza1", 
+  "copyrights": [
+    {
+      "text": "Originally released 1960. All rights reserved by RCA Records, a division of Sony Music Entertainment", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Elvis Presley", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+      }, 
+      "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+      "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE", 
+      "type": "artist", 
+      "id": "43ZHCT0cAZBISjO8DG9PnE"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/68774b1504d0965d1532dce3098156804df4ee18", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/903fc26fa6fff6c6c957de07fc562bbdec0d026c", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/c1a5c15a6c9ebe6782210477a25f3b7b105febb1", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "886445009743"
+  }, 
+  "type": "album", 
+  "id": "2SBAAtgdyjgfTO1UMHnza1", 
+  "name": "Elvis Is Back"
+}

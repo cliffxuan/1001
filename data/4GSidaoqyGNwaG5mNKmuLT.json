@@ -1,0 +1,403 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
+  }, 
+  "release_date": "1979-02-15", 
+  "popularity": 56, 
+  "genres": [], 
+  "uri": "spotify:album:4GSidaoqyGNwaG5mNKmuLT", 
+  "tracks": {
+    "items": [
+      {
+        "name": "He's The Greatest Dancer", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c84ee8cef4168bad27687d4b5e958d7774d8a60c", 
+        "is_playable": true, 
+        "uri": "spotify:track:5WwRKYnVy9dekqXAGPbAvU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5WwRKYnVy9dekqXAGPbAvU", 
+        "artists": [
+          {
+            "name": "Sister Sledge", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+            }, 
+            "uri": "spotify:artist:6gkWznnJkdkwRPVcmnrays", 
+            "href": "https://api.spotify.com/v1/artists/6gkWznnJkdkwRPVcmnrays", 
+            "type": "artist", 
+            "id": "6gkWznnJkdkwRPVcmnrays"
+          }
+        ], 
+        "duration_ms": 375400, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "5WwRKYnVy9dekqXAGPbAvU"
+      }, 
+      {
+        "name": "Lost In Music", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/47eSFHsPDVJwssTTG62Af3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ea8a6352190ffaae2b9414b019a3f15ef8c44baf", 
+        "is_playable": true, 
+        "uri": "spotify:track:47eSFHsPDVJwssTTG62Af3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/47eSFHsPDVJwssTTG62Af3", 
+        "artists": [
+          {
+            "name": "Sister Sledge", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+            }, 
+            "uri": "spotify:artist:6gkWznnJkdkwRPVcmnrays", 
+            "href": "https://api.spotify.com/v1/artists/6gkWznnJkdkwRPVcmnrays", 
+            "type": "artist", 
+            "id": "6gkWznnJkdkwRPVcmnrays"
+          }
+        ], 
+        "duration_ms": 287440, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "47eSFHsPDVJwssTTG62Af3"
+      }, 
+      {
+        "name": "Somebody Loves Me", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0T6R47sTN698SrBrD3pYS0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b07c57ed6354137579b61d2f17a0a3d72a656ee0", 
+        "is_playable": true, 
+        "uri": "spotify:track:0T6R47sTN698SrBrD3pYS0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0T6R47sTN698SrBrD3pYS0", 
+        "artists": [
+          {
+            "name": "Sister Sledge", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+            }, 
+            "uri": "spotify:artist:6gkWznnJkdkwRPVcmnrays", 
+            "href": "https://api.spotify.com/v1/artists/6gkWznnJkdkwRPVcmnrays", 
+            "type": "artist", 
+            "id": "6gkWznnJkdkwRPVcmnrays"
+          }
+        ], 
+        "duration_ms": 292093, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "0T6R47sTN698SrBrD3pYS0"
+      }, 
+      {
+        "name": "Thinking of You", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7mimnm2QlSzW3J38FRMETP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/75f9e6b9088fd03c1a31b517b39a513bd38012ca", 
+        "is_playable": true, 
+        "uri": "spotify:track:7mimnm2QlSzW3J38FRMETP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7mimnm2QlSzW3J38FRMETP", 
+        "artists": [
+          {
+            "name": "Sister Sledge", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+            }, 
+            "uri": "spotify:artist:6gkWznnJkdkwRPVcmnrays", 
+            "href": "https://api.spotify.com/v1/artists/6gkWznnJkdkwRPVcmnrays", 
+            "type": "artist", 
+            "id": "6gkWznnJkdkwRPVcmnrays"
+          }
+        ], 
+        "duration_ms": 266826, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "7mimnm2QlSzW3J38FRMETP"
+      }, 
+      {
+        "name": "We Are Family - Single Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d4ce59723c555126a923a014fb643ef39d86555f", 
+        "is_playable": true, 
+        "uri": "spotify:track:5IKLwqBQG6KU6MP2zP80Nu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5IKLwqBQG6KU6MP2zP80Nu", 
+        "artists": [
+          {
+            "name": "Sister Sledge", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+            }, 
+            "uri": "spotify:artist:6gkWznnJkdkwRPVcmnrays", 
+            "href": "https://api.spotify.com/v1/artists/6gkWznnJkdkwRPVcmnrays", 
+            "type": "artist", 
+            "id": "6gkWznnJkdkwRPVcmnrays"
+          }
+        ], 
+        "duration_ms": 216733, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "5IKLwqBQG6KU6MP2zP80Nu"
+      }, 
+      {
+        "name": "Easier To Love", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1CbRvaqvo1g6ZyXZqG95JT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d76f3f529fb41eaf1a3182f8618dc304a9cec9e0", 
+        "is_playable": true, 
+        "uri": "spotify:track:1CbRvaqvo1g6ZyXZqG95JT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1CbRvaqvo1g6ZyXZqG95JT", 
+        "artists": [
+          {
+            "name": "Sister Sledge", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+            }, 
+            "uri": "spotify:artist:6gkWznnJkdkwRPVcmnrays", 
+            "href": "https://api.spotify.com/v1/artists/6gkWznnJkdkwRPVcmnrays", 
+            "type": "artist", 
+            "id": "6gkWznnJkdkwRPVcmnrays"
+          }
+        ], 
+        "duration_ms": 300413, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "1CbRvaqvo1g6ZyXZqG95JT"
+      }, 
+      {
+        "name": "You're A Friend To Me", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5hTGToBoGQwt5Lcam57G1L"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b1059fda3347657ec760faf8fcc3702a1aa45505", 
+        "is_playable": true, 
+        "uri": "spotify:track:5hTGToBoGQwt5Lcam57G1L", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5hTGToBoGQwt5Lcam57G1L", 
+        "artists": [
+          {
+            "name": "Sister Sledge", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+            }, 
+            "uri": "spotify:artist:6gkWznnJkdkwRPVcmnrays", 
+            "href": "https://api.spotify.com/v1/artists/6gkWznnJkdkwRPVcmnrays", 
+            "type": "artist", 
+            "id": "6gkWznnJkdkwRPVcmnrays"
+          }
+        ], 
+        "duration_ms": 323933, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "5hTGToBoGQwt5Lcam57G1L"
+      }, 
+      {
+        "name": "One More Time", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/38NoAPQ4QRwFLEpecbqA6S"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4cd7e7aebab85f1337767b79a5ee1a5b02fae1a2", 
+        "is_playable": true, 
+        "uri": "spotify:track:38NoAPQ4QRwFLEpecbqA6S", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/38NoAPQ4QRwFLEpecbqA6S", 
+        "artists": [
+          {
+            "name": "Sister Sledge", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+            }, 
+            "uri": "spotify:artist:6gkWznnJkdkwRPVcmnrays", 
+            "href": "https://api.spotify.com/v1/artists/6gkWznnJkdkwRPVcmnrays", 
+            "type": "artist", 
+            "id": "6gkWznnJkdkwRPVcmnrays"
+          }
+        ], 
+        "duration_ms": 190906, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "38NoAPQ4QRwFLEpecbqA6S"
+      }, 
+      {
+        "name": "We Are Family [Sure Is Pure Remix]", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5hhHYgKKTxk16lx6lIzFK6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7a46dc2a03a54a671a91c90c07b2e55c4779790f", 
+        "is_playable": true, 
+        "uri": "spotify:track:5hhHYgKKTxk16lx6lIzFK6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5hhHYgKKTxk16lx6lIzFK6", 
+        "artists": [
+          {
+            "name": "Sister Sledge", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+            }, 
+            "uri": "spotify:artist:6gkWznnJkdkwRPVcmnrays", 
+            "href": "https://api.spotify.com/v1/artists/6gkWznnJkdkwRPVcmnrays", 
+            "type": "artist", 
+            "id": "6gkWznnJkdkwRPVcmnrays"
+          }
+        ], 
+        "duration_ms": 501253, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "5hhHYgKKTxk16lx6lIzFK6"
+      }, 
+      {
+        "name": "We Are Family [Steve Anderson DMC Remix]", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2XGZUI5DzhJDhjJUWQNSXz"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/17b65cbeedf1511d11f2d2d3848b81b1c7e3a940", 
+        "is_playable": true, 
+        "uri": "spotify:track:2XGZUI5DzhJDhjJUWQNSXz", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2XGZUI5DzhJDhjJUWQNSXz", 
+        "artists": [
+          {
+            "name": "Sister Sledge", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+            }, 
+            "uri": "spotify:artist:6gkWznnJkdkwRPVcmnrays", 
+            "href": "https://api.spotify.com/v1/artists/6gkWznnJkdkwRPVcmnrays", 
+            "type": "artist", 
+            "id": "6gkWznnJkdkwRPVcmnrays"
+          }
+        ], 
+        "duration_ms": 489400, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "2XGZUI5DzhJDhjJUWQNSXz"
+      }, 
+      {
+        "name": "Lost In Music [Sure Is Pure Remix]", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0bTfKFUtxzAgwADGKC8p3C"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/526739b81009a6b2ced8ff3a45776a0410364196", 
+        "is_playable": true, 
+        "uri": "spotify:track:0bTfKFUtxzAgwADGKC8p3C", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0bTfKFUtxzAgwADGKC8p3C", 
+        "artists": [
+          {
+            "name": "Sister Sledge", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+            }, 
+            "uri": "spotify:artist:6gkWznnJkdkwRPVcmnrays", 
+            "href": "https://api.spotify.com/v1/artists/6gkWznnJkdkwRPVcmnrays", 
+            "type": "artist", 
+            "id": "6gkWznnJkdkwRPVcmnrays"
+          }
+        ], 
+        "duration_ms": 513866, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "0bTfKFUtxzAgwADGKC8p3C"
+      }, 
+      {
+        "name": "Lost In Music [1984 Bernard Edwards & Nile Rogers Remix]", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5elGdlLAIvV0W4VGXVZCTF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/11a31dfe963ce6c906d33cb58cfbad4758d53bdb", 
+        "is_playable": true, 
+        "uri": "spotify:track:5elGdlLAIvV0W4VGXVZCTF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5elGdlLAIvV0W4VGXVZCTF", 
+        "artists": [
+          {
+            "name": "Sister Sledge", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+            }, 
+            "uri": "spotify:artist:6gkWznnJkdkwRPVcmnrays", 
+            "href": "https://api.spotify.com/v1/artists/6gkWznnJkdkwRPVcmnrays", 
+            "type": "artist", 
+            "id": "6gkWznnJkdkwRPVcmnrays"
+          }
+        ], 
+        "duration_ms": 397146, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "5elGdlLAIvV0W4VGXVZCTF"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/4GSidaoqyGNwaG5mNKmuLT/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 12, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/4GSidaoqyGNwaG5mNKmuLT", 
+  "copyrights": [
+    {
+      "text": "1995 Rhino Records Inc.", 
+      "type": "C"
+    }, 
+    {
+      "text": "1995 Atlantic Recording Corporation and Brookhill Records Corporation for the United States and WEA Int. for the world outside of the United States.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Sister Sledge", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+      }, 
+      "uri": "spotify:artist:6gkWznnJkdkwRPVcmnrays", 
+      "href": "https://api.spotify.com/v1/artists/6gkWznnJkdkwRPVcmnrays", 
+      "type": "artist", 
+      "id": "6gkWznnJkdkwRPVcmnrays"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/a422bd0e3214c50d8a835c609a44411794cfbe60", 
+      "width": 640, 
+      "height": 638
+    }, 
+    {
+      "url": "https://i.scdn.co/image/f5923487520457c5e2ff3d4eb1dfc4038e1d9192", 
+      "width": 300, 
+      "height": 299
+    }, 
+    {
+      "url": "https://i.scdn.co/image/686341b15ce8029bffdad05d459203d60cf54e6d", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "081227158767"
+  }, 
+  "type": "album", 
+  "id": "4GSidaoqyGNwaG5mNKmuLT", 
+  "name": "We Are Family [Expanded]"
+}

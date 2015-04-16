@@ -1,0 +1,571 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7MvSB0JTdtl1pSwZcgvYQX"
+  }, 
+  "release_date": "2010-05-17", 
+  "popularity": 61, 
+  "genres": [], 
+  "uri": "spotify:album:7MvSB0JTdtl1pSwZcgvYQX", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Suite II Overture", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4J4doCpLNS2wBif1EHSu0L"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6e7f814cc952180829b6f1cd649c7a1862f60a4f", 
+        "is_playable": true, 
+        "uri": "spotify:track:4J4doCpLNS2wBif1EHSu0L", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4J4doCpLNS2wBif1EHSu0L", 
+        "artists": [
+          {
+            "name": "Janelle Mon\u00e1e", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+            }, 
+            "uri": "spotify:artist:6ueGR6SWhUJfvEhqkvMsVs", 
+            "href": "https://api.spotify.com/v1/artists/6ueGR6SWhUJfvEhqkvMsVs", 
+            "type": "artist", 
+            "id": "6ueGR6SWhUJfvEhqkvMsVs"
+          }
+        ], 
+        "duration_ms": 151533, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "4J4doCpLNS2wBif1EHSu0L"
+      }, 
+      {
+        "name": "Dance or Die - feat. Saul Williams", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4t18Py5qQvK6DriDoPkPrO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/325b064b21a2cc8113e5af99c5eb6eb9c0783bdf", 
+        "is_playable": true, 
+        "uri": "spotify:track:4t18Py5qQvK6DriDoPkPrO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4t18Py5qQvK6DriDoPkPrO", 
+        "artists": [
+          {
+            "name": "Janelle Mon\u00e1e", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+            }, 
+            "uri": "spotify:artist:6ueGR6SWhUJfvEhqkvMsVs", 
+            "href": "https://api.spotify.com/v1/artists/6ueGR6SWhUJfvEhqkvMsVs", 
+            "type": "artist", 
+            "id": "6ueGR6SWhUJfvEhqkvMsVs"
+          }
+        ], 
+        "duration_ms": 192506, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "4t18Py5qQvK6DriDoPkPrO"
+      }, 
+      {
+        "name": "Faster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5v6suM7KET9x01oE8T1snC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ac6c233649648867e1e2fd8ecb6a9983d3666780", 
+        "is_playable": true, 
+        "uri": "spotify:track:5v6suM7KET9x01oE8T1snC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5v6suM7KET9x01oE8T1snC", 
+        "artists": [
+          {
+            "name": "Janelle Mon\u00e1e", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+            }, 
+            "uri": "spotify:artist:6ueGR6SWhUJfvEhqkvMsVs", 
+            "href": "https://api.spotify.com/v1/artists/6ueGR6SWhUJfvEhqkvMsVs", 
+            "type": "artist", 
+            "id": "6ueGR6SWhUJfvEhqkvMsVs"
+          }
+        ], 
+        "duration_ms": 199266, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "5v6suM7KET9x01oE8T1snC"
+      }, 
+      {
+        "name": "Locked Inside", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5zdljOuxFgbkVgVgOXbSIE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6bc3bfb80a23172376165a334e99d0031a0d2a56", 
+        "is_playable": true, 
+        "uri": "spotify:track:5zdljOuxFgbkVgVgOXbSIE", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5zdljOuxFgbkVgVgOXbSIE", 
+        "artists": [
+          {
+            "name": "Janelle Mon\u00e1e", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+            }, 
+            "uri": "spotify:artist:6ueGR6SWhUJfvEhqkvMsVs", 
+            "href": "https://api.spotify.com/v1/artists/6ueGR6SWhUJfvEhqkvMsVs", 
+            "type": "artist", 
+            "id": "6ueGR6SWhUJfvEhqkvMsVs"
+          }
+        ], 
+        "duration_ms": 256813, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "5zdljOuxFgbkVgVgOXbSIE"
+      }, 
+      {
+        "name": "Sir Greendown", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2XlP76bUQxMHlfMlH6sRRT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/04458fe020879ddb20774e8197c716871686902a", 
+        "is_playable": true, 
+        "uri": "spotify:track:2XlP76bUQxMHlfMlH6sRRT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2XlP76bUQxMHlfMlH6sRRT", 
+        "artists": [
+          {
+            "name": "Janelle Mon\u00e1e", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+            }, 
+            "uri": "spotify:artist:6ueGR6SWhUJfvEhqkvMsVs", 
+            "href": "https://api.spotify.com/v1/artists/6ueGR6SWhUJfvEhqkvMsVs", 
+            "type": "artist", 
+            "id": "6ueGR6SWhUJfvEhqkvMsVs"
+          }
+        ], 
+        "duration_ms": 134853, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "2XlP76bUQxMHlfMlH6sRRT"
+      }, 
+      {
+        "name": "Cold War", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5al9is1AQnaI3lTi20DUG6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bf748752945d2a2807e71c9a6aaa4f6820e2e866", 
+        "is_playable": true, 
+        "uri": "spotify:track:5al9is1AQnaI3lTi20DUG6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5al9is1AQnaI3lTi20DUG6", 
+        "artists": [
+          {
+            "name": "Janelle Mon\u00e1e", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+            }, 
+            "uri": "spotify:artist:6ueGR6SWhUJfvEhqkvMsVs", 
+            "href": "https://api.spotify.com/v1/artists/6ueGR6SWhUJfvEhqkvMsVs", 
+            "type": "artist", 
+            "id": "6ueGR6SWhUJfvEhqkvMsVs"
+          }
+        ], 
+        "duration_ms": 203626, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "5al9is1AQnaI3lTi20DUG6"
+      }, 
+      {
+        "name": "Tightrope - feat. Big Boi", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1ljzHUgt2SU2ADkhfa9eBC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/66e8252cf8580cfa60136f87af354c025200955f", 
+        "is_playable": true, 
+        "uri": "spotify:track:1ljzHUgt2SU2ADkhfa9eBC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1ljzHUgt2SU2ADkhfa9eBC", 
+        "artists": [
+          {
+            "name": "Janelle Mon\u00e1e", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+            }, 
+            "uri": "spotify:artist:6ueGR6SWhUJfvEhqkvMsVs", 
+            "href": "https://api.spotify.com/v1/artists/6ueGR6SWhUJfvEhqkvMsVs", 
+            "type": "artist", 
+            "id": "6ueGR6SWhUJfvEhqkvMsVs"
+          }
+        ], 
+        "duration_ms": 262586, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "1ljzHUgt2SU2ADkhfa9eBC"
+      }, 
+      {
+        "name": "Neon Gumbo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Wv14r1lFyrCJVhe36iHWq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4b1302ebf8a847d140c47b0bac5488a7b09f63b9", 
+        "is_playable": true, 
+        "uri": "spotify:track:1Wv14r1lFyrCJVhe36iHWq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1Wv14r1lFyrCJVhe36iHWq", 
+        "artists": [
+          {
+            "name": "Janelle Mon\u00e1e", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+            }, 
+            "uri": "spotify:artist:6ueGR6SWhUJfvEhqkvMsVs", 
+            "href": "https://api.spotify.com/v1/artists/6ueGR6SWhUJfvEhqkvMsVs", 
+            "type": "artist", 
+            "id": "6ueGR6SWhUJfvEhqkvMsVs"
+          }
+        ], 
+        "duration_ms": 97400, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "1Wv14r1lFyrCJVhe36iHWq"
+      }, 
+      {
+        "name": "Oh, Maker", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5eKwaeINlNEX3aMlfpmUtw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9d4a881b8c705fd58d05f45d11475239497849dd", 
+        "is_playable": true, 
+        "uri": "spotify:track:5eKwaeINlNEX3aMlfpmUtw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5eKwaeINlNEX3aMlfpmUtw", 
+        "artists": [
+          {
+            "name": "Janelle Mon\u00e1e", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+            }, 
+            "uri": "spotify:artist:6ueGR6SWhUJfvEhqkvMsVs", 
+            "href": "https://api.spotify.com/v1/artists/6ueGR6SWhUJfvEhqkvMsVs", 
+            "type": "artist", 
+            "id": "6ueGR6SWhUJfvEhqkvMsVs"
+          }
+        ], 
+        "duration_ms": 226253, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "5eKwaeINlNEX3aMlfpmUtw"
+      }, 
+      {
+        "name": "Come Alive [War Of The Roses]", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4197HGpsH7jGRz5gInEkfC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/51c55398875ad34535cfb0be7fafc19a96554db1", 
+        "is_playable": true, 
+        "uri": "spotify:track:4197HGpsH7jGRz5gInEkfC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4197HGpsH7jGRz5gInEkfC", 
+        "artists": [
+          {
+            "name": "Janelle Mon\u00e1e", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+            }, 
+            "uri": "spotify:artist:6ueGR6SWhUJfvEhqkvMsVs", 
+            "href": "https://api.spotify.com/v1/artists/6ueGR6SWhUJfvEhqkvMsVs", 
+            "type": "artist", 
+            "id": "6ueGR6SWhUJfvEhqkvMsVs"
+          }
+        ], 
+        "duration_ms": 202026, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "4197HGpsH7jGRz5gInEkfC"
+      }, 
+      {
+        "name": "Mushrooms & Roses", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1xxgpQ8RHPcGFcpeMyBZLN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4774eacabe04063639cc89755acc22d2fa7a2295", 
+        "is_playable": true, 
+        "uri": "spotify:track:1xxgpQ8RHPcGFcpeMyBZLN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1xxgpQ8RHPcGFcpeMyBZLN", 
+        "artists": [
+          {
+            "name": "Janelle Mon\u00e1e", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+            }, 
+            "uri": "spotify:artist:6ueGR6SWhUJfvEhqkvMsVs", 
+            "href": "https://api.spotify.com/v1/artists/6ueGR6SWhUJfvEhqkvMsVs", 
+            "type": "artist", 
+            "id": "6ueGR6SWhUJfvEhqkvMsVs"
+          }
+        ], 
+        "duration_ms": 342013, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "1xxgpQ8RHPcGFcpeMyBZLN"
+      }, 
+      {
+        "name": "Suite III Overture", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4M1sI8PeQsSDQJWQXtDzWV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/47ad62c5ecd4ca26b7d8cac8329af00a11c261e4", 
+        "is_playable": true, 
+        "uri": "spotify:track:4M1sI8PeQsSDQJWQXtDzWV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4M1sI8PeQsSDQJWQXtDzWV", 
+        "artists": [
+          {
+            "name": "Janelle Mon\u00e1e", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+            }, 
+            "uri": "spotify:artist:6ueGR6SWhUJfvEhqkvMsVs", 
+            "href": "https://api.spotify.com/v1/artists/6ueGR6SWhUJfvEhqkvMsVs", 
+            "type": "artist", 
+            "id": "6ueGR6SWhUJfvEhqkvMsVs"
+          }
+        ], 
+        "duration_ms": 101146, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "4M1sI8PeQsSDQJWQXtDzWV"
+      }, 
+      {
+        "name": "Neon Valley Street", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1N49dCsfnMv00ezWlKdEGn"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/341d0086e48404b5c34dd6588590f819b00e2d2e", 
+        "is_playable": true, 
+        "uri": "spotify:track:1N49dCsfnMv00ezWlKdEGn", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1N49dCsfnMv00ezWlKdEGn", 
+        "artists": [
+          {
+            "name": "Janelle Mon\u00e1e", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+            }, 
+            "uri": "spotify:artist:6ueGR6SWhUJfvEhqkvMsVs", 
+            "href": "https://api.spotify.com/v1/artists/6ueGR6SWhUJfvEhqkvMsVs", 
+            "type": "artist", 
+            "id": "6ueGR6SWhUJfvEhqkvMsVs"
+          }
+        ], 
+        "duration_ms": 251786, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "1N49dCsfnMv00ezWlKdEGn"
+      }, 
+      {
+        "name": "Make The Bus - feat. Of Montreal", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3x3eqcc9GXcMPp1DqT0IEX"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/69409697f67416f1b757843794f2fc16595628b4", 
+        "is_playable": true, 
+        "uri": "spotify:track:3x3eqcc9GXcMPp1DqT0IEX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3x3eqcc9GXcMPp1DqT0IEX", 
+        "artists": [
+          {
+            "name": "Janelle Mon\u00e1e", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+            }, 
+            "uri": "spotify:artist:6ueGR6SWhUJfvEhqkvMsVs", 
+            "href": "https://api.spotify.com/v1/artists/6ueGR6SWhUJfvEhqkvMsVs", 
+            "type": "artist", 
+            "id": "6ueGR6SWhUJfvEhqkvMsVs"
+          }
+        ], 
+        "duration_ms": 199053, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "3x3eqcc9GXcMPp1DqT0IEX"
+      }, 
+      {
+        "name": "Wondaland", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/62OPnFEBIWhxGX9T7s9iRx"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/287c5622d26b00c8abbf3971682cbf5ba1197420", 
+        "is_playable": true, 
+        "uri": "spotify:track:62OPnFEBIWhxGX9T7s9iRx", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/62OPnFEBIWhxGX9T7s9iRx", 
+        "artists": [
+          {
+            "name": "Janelle Mon\u00e1e", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+            }, 
+            "uri": "spotify:artist:6ueGR6SWhUJfvEhqkvMsVs", 
+            "href": "https://api.spotify.com/v1/artists/6ueGR6SWhUJfvEhqkvMsVs", 
+            "type": "artist", 
+            "id": "6ueGR6SWhUJfvEhqkvMsVs"
+          }
+        ], 
+        "duration_ms": 216133, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "62OPnFEBIWhxGX9T7s9iRx"
+      }, 
+      {
+        "name": "57821 - feat. Deep Cotton", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6a930x0L0PmYQIu5itOU82"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/02dc61c0a3ba0fde317c59da267c150d755a0d78", 
+        "is_playable": true, 
+        "uri": "spotify:track:6a930x0L0PmYQIu5itOU82", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6a930x0L0PmYQIu5itOU82", 
+        "artists": [
+          {
+            "name": "Janelle Mon\u00e1e", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+            }, 
+            "uri": "spotify:artist:6ueGR6SWhUJfvEhqkvMsVs", 
+            "href": "https://api.spotify.com/v1/artists/6ueGR6SWhUJfvEhqkvMsVs", 
+            "type": "artist", 
+            "id": "6ueGR6SWhUJfvEhqkvMsVs"
+          }
+        ], 
+        "duration_ms": 196293, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "6a930x0L0PmYQIu5itOU82"
+      }, 
+      {
+        "name": "Say You'll Go", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6wbEygoouLHwgy4J6uQIb1"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b1e3488d9d5ff25a3e8d27df00d5625935246690", 
+        "is_playable": true, 
+        "uri": "spotify:track:6wbEygoouLHwgy4J6uQIb1", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6wbEygoouLHwgy4J6uQIb1", 
+        "artists": [
+          {
+            "name": "Janelle Mon\u00e1e", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+            }, 
+            "uri": "spotify:artist:6ueGR6SWhUJfvEhqkvMsVs", 
+            "href": "https://api.spotify.com/v1/artists/6ueGR6SWhUJfvEhqkvMsVs", 
+            "type": "artist", 
+            "id": "6ueGR6SWhUJfvEhqkvMsVs"
+          }
+        ], 
+        "duration_ms": 360960, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "6wbEygoouLHwgy4J6uQIb1"
+      }, 
+      {
+        "name": "BaBopByeYa", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2FeVMO6qFT8eYfRaZ7eQge"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0d1fc21a0163a77bb56e331b54856a48e7c3762f", 
+        "is_playable": true, 
+        "uri": "spotify:track:2FeVMO6qFT8eYfRaZ7eQge", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2FeVMO6qFT8eYfRaZ7eQge", 
+        "artists": [
+          {
+            "name": "Janelle Mon\u00e1e", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+            }, 
+            "uri": "spotify:artist:6ueGR6SWhUJfvEhqkvMsVs", 
+            "href": "https://api.spotify.com/v1/artists/6ueGR6SWhUJfvEhqkvMsVs", 
+            "type": "artist", 
+            "id": "6ueGR6SWhUJfvEhqkvMsVs"
+          }
+        ], 
+        "duration_ms": 527693, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "2FeVMO6qFT8eYfRaZ7eQge"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/7MvSB0JTdtl1pSwZcgvYQX/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 18, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/7MvSB0JTdtl1pSwZcgvYQX", 
+  "copyrights": [
+    {
+      "text": "2010 Bad Boy Records, LLC. Manufactured and Distributed by Atlantic RecordingCorporation, A Warner Music Group Company. All Rights Reserved.", 
+      "type": "C"
+    }, 
+    {
+      "text": "2010 Bad Boy Records, LLC. Manufactured and Distributed by Atlantic RecordingCorporation, A Warner Music Group Company. All Rights Reserved.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Janelle Mon\u00e1e", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+      }, 
+      "uri": "spotify:artist:6ueGR6SWhUJfvEhqkvMsVs", 
+      "href": "https://api.spotify.com/v1/artists/6ueGR6SWhUJfvEhqkvMsVs", 
+      "type": "artist", 
+      "id": "6ueGR6SWhUJfvEhqkvMsVs"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/d3bea747793efa8db33ba638c0eb3b1eb2822e3e", 
+      "width": 640, 
+      "height": 636
+    }, 
+    {
+      "url": "https://i.scdn.co/image/be8c0c9df007c75ed0da899d85f8ce532971b7bb", 
+      "width": 300, 
+      "height": 298
+    }, 
+    {
+      "url": "https://i.scdn.co/image/289c4aa27cec9cf19b1604ed21ed6faa7082a66b", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "075679990648"
+  }, 
+  "type": "album", 
+  "id": "7MvSB0JTdtl1pSwZcgvYQX", 
+  "name": "The ArchAndroid"
+}

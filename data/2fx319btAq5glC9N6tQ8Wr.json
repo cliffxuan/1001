@@ -1,0 +1,403 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2fx319btAq5glC9N6tQ8Wr"
+  }, 
+  "release_date": "2004-01-01", 
+  "popularity": 43, 
+  "genres": [], 
+  "uri": "spotify:album:2fx319btAq5glC9N6tQ8Wr", 
+  "tracks": {
+    "items": [
+      {
+        "name": "America Is Not The World", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/28OxJ5bK8S06fhAiFw4Gsd"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0d636ba6ca350c1fc0c7f0b514af023c17442b7e", 
+        "is_playable": true, 
+        "uri": "spotify:track:28OxJ5bK8S06fhAiFw4Gsd", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/28OxJ5bK8S06fhAiFw4Gsd", 
+        "artists": [
+          {
+            "name": "Morrissey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+            }, 
+            "uri": "spotify:artist:3iTsJGG39nMg9YiolUgLMQ", 
+            "href": "https://api.spotify.com/v1/artists/3iTsJGG39nMg9YiolUgLMQ", 
+            "type": "artist", 
+            "id": "3iTsJGG39nMg9YiolUgLMQ"
+          }
+        ], 
+        "duration_ms": 243920, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "28OxJ5bK8S06fhAiFw4Gsd"
+      }, 
+      {
+        "name": "Irish Blood, English Heart", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7mDBNErx9qlyZcktHYrzZi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/822c8c1df0bb7b894c84e6fbe15f8c6f0bf3fe57", 
+        "is_playable": true, 
+        "uri": "spotify:track:7mDBNErx9qlyZcktHYrzZi", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7mDBNErx9qlyZcktHYrzZi", 
+        "artists": [
+          {
+            "name": "Morrissey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+            }, 
+            "uri": "spotify:artist:3iTsJGG39nMg9YiolUgLMQ", 
+            "href": "https://api.spotify.com/v1/artists/3iTsJGG39nMg9YiolUgLMQ", 
+            "type": "artist", 
+            "id": "3iTsJGG39nMg9YiolUgLMQ"
+          }
+        ], 
+        "duration_ms": 157466, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "7mDBNErx9qlyZcktHYrzZi"
+      }, 
+      {
+        "name": "I Have Forgiven Jesus", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2vsYnQL5ZdZqk3TT65nU0V"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a71bfe3be71e6d47a1332a0516ce3073f05c7a71", 
+        "is_playable": true, 
+        "uri": "spotify:track:2vsYnQL5ZdZqk3TT65nU0V", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2vsYnQL5ZdZqk3TT65nU0V", 
+        "artists": [
+          {
+            "name": "Morrissey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+            }, 
+            "uri": "spotify:artist:3iTsJGG39nMg9YiolUgLMQ", 
+            "href": "https://api.spotify.com/v1/artists/3iTsJGG39nMg9YiolUgLMQ", 
+            "type": "artist", 
+            "id": "3iTsJGG39nMg9YiolUgLMQ"
+          }
+        ], 
+        "duration_ms": 221573, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "2vsYnQL5ZdZqk3TT65nU0V"
+      }, 
+      {
+        "name": "Come Back To Camden", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3SHub1veJHyQvakhg7l58I"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6018bf60947496314d6fa4097a461bd6a51d1b2c", 
+        "is_playable": true, 
+        "uri": "spotify:track:3SHub1veJHyQvakhg7l58I", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3SHub1veJHyQvakhg7l58I", 
+        "artists": [
+          {
+            "name": "Morrissey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+            }, 
+            "uri": "spotify:artist:3iTsJGG39nMg9YiolUgLMQ", 
+            "href": "https://api.spotify.com/v1/artists/3iTsJGG39nMg9YiolUgLMQ", 
+            "type": "artist", 
+            "id": "3iTsJGG39nMg9YiolUgLMQ"
+          }
+        ], 
+        "duration_ms": 254946, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "3SHub1veJHyQvakhg7l58I"
+      }, 
+      {
+        "name": "I'm Not Sorry", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0DzHu86QcFuelq4E6BsNJ7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/39e84c4f37732a4ad20f006c1d80a2a9b61b0e2f", 
+        "is_playable": true, 
+        "uri": "spotify:track:0DzHu86QcFuelq4E6BsNJ7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0DzHu86QcFuelq4E6BsNJ7", 
+        "artists": [
+          {
+            "name": "Morrissey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+            }, 
+            "uri": "spotify:artist:3iTsJGG39nMg9YiolUgLMQ", 
+            "href": "https://api.spotify.com/v1/artists/3iTsJGG39nMg9YiolUgLMQ", 
+            "type": "artist", 
+            "id": "3iTsJGG39nMg9YiolUgLMQ"
+          }
+        ], 
+        "duration_ms": 281586, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "0DzHu86QcFuelq4E6BsNJ7"
+      }, 
+      {
+        "name": "The World Is Full Of Crashing Bores", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6SZSJ9kVAx0oO61HUkW2Pa"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/332ae5d5da57f252e1a93f69dbf546e9ad94a9d4", 
+        "is_playable": true, 
+        "uri": "spotify:track:6SZSJ9kVAx0oO61HUkW2Pa", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6SZSJ9kVAx0oO61HUkW2Pa", 
+        "artists": [
+          {
+            "name": "Morrissey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+            }, 
+            "uri": "spotify:artist:3iTsJGG39nMg9YiolUgLMQ", 
+            "href": "https://api.spotify.com/v1/artists/3iTsJGG39nMg9YiolUgLMQ", 
+            "type": "artist", 
+            "id": "3iTsJGG39nMg9YiolUgLMQ"
+          }
+        ], 
+        "duration_ms": 231773, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "6SZSJ9kVAx0oO61HUkW2Pa"
+      }, 
+      {
+        "name": "How Can Anybody Possibly Know How I Feel?", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1o421ewPTXs6cfPRoPwHue"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/31fcaf413c13aacb89fe6e53099af20719096be7", 
+        "is_playable": true, 
+        "uri": "spotify:track:1o421ewPTXs6cfPRoPwHue", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1o421ewPTXs6cfPRoPwHue", 
+        "artists": [
+          {
+            "name": "Morrissey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+            }, 
+            "uri": "spotify:artist:3iTsJGG39nMg9YiolUgLMQ", 
+            "href": "https://api.spotify.com/v1/artists/3iTsJGG39nMg9YiolUgLMQ", 
+            "type": "artist", 
+            "id": "3iTsJGG39nMg9YiolUgLMQ"
+          }
+        ], 
+        "duration_ms": 205093, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "1o421ewPTXs6cfPRoPwHue"
+      }, 
+      {
+        "name": "The First Of The Gang To Die", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5zflsn7VI8qyvzrowMoTgF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/81eab4e57a53f00e5ef8f8d5a590b7303e931bab", 
+        "is_playable": true, 
+        "uri": "spotify:track:5zflsn7VI8qyvzrowMoTgF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5zflsn7VI8qyvzrowMoTgF", 
+        "artists": [
+          {
+            "name": "Morrissey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+            }, 
+            "uri": "spotify:artist:3iTsJGG39nMg9YiolUgLMQ", 
+            "href": "https://api.spotify.com/v1/artists/3iTsJGG39nMg9YiolUgLMQ", 
+            "type": "artist", 
+            "id": "3iTsJGG39nMg9YiolUgLMQ"
+          }
+        ], 
+        "duration_ms": 218586, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "5zflsn7VI8qyvzrowMoTgF"
+      }, 
+      {
+        "name": "Let Me Kiss You", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/37FMHeqEeY8RvojVwzCdSH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/383e4a129511d7bac99fe08fa521a5060534047b", 
+        "is_playable": true, 
+        "uri": "spotify:track:37FMHeqEeY8RvojVwzCdSH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/37FMHeqEeY8RvojVwzCdSH", 
+        "artists": [
+          {
+            "name": "Morrissey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+            }, 
+            "uri": "spotify:artist:3iTsJGG39nMg9YiolUgLMQ", 
+            "href": "https://api.spotify.com/v1/artists/3iTsJGG39nMg9YiolUgLMQ", 
+            "type": "artist", 
+            "id": "3iTsJGG39nMg9YiolUgLMQ"
+          }
+        ], 
+        "duration_ms": 210920, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "37FMHeqEeY8RvojVwzCdSH"
+      }, 
+      {
+        "name": "All The Lazy Dykes", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3zgtPlosaZKs6QSVLDpStw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6524c4b518b32db8ff77c700f72c854f48ae8e1b", 
+        "is_playable": true, 
+        "uri": "spotify:track:3zgtPlosaZKs6QSVLDpStw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3zgtPlosaZKs6QSVLDpStw", 
+        "artists": [
+          {
+            "name": "Morrissey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+            }, 
+            "uri": "spotify:artist:3iTsJGG39nMg9YiolUgLMQ", 
+            "href": "https://api.spotify.com/v1/artists/3iTsJGG39nMg9YiolUgLMQ", 
+            "type": "artist", 
+            "id": "3iTsJGG39nMg9YiolUgLMQ"
+          }
+        ], 
+        "duration_ms": 211426, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "3zgtPlosaZKs6QSVLDpStw"
+      }, 
+      {
+        "name": "I Like You", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1FyOtOj7WJbuI5wcCFhrmX"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/41bbad8c53fa759953199e45b13a7e606016baba", 
+        "is_playable": true, 
+        "uri": "spotify:track:1FyOtOj7WJbuI5wcCFhrmX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1FyOtOj7WJbuI5wcCFhrmX", 
+        "artists": [
+          {
+            "name": "Morrissey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+            }, 
+            "uri": "spotify:artist:3iTsJGG39nMg9YiolUgLMQ", 
+            "href": "https://api.spotify.com/v1/artists/3iTsJGG39nMg9YiolUgLMQ", 
+            "type": "artist", 
+            "id": "3iTsJGG39nMg9YiolUgLMQ"
+          }
+        ], 
+        "duration_ms": 251440, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "1FyOtOj7WJbuI5wcCFhrmX"
+      }, 
+      {
+        "name": "You Know I Couldn't Last", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2ipstGrXGaHZd2hCLgFxHn"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/726ad7e7816fe2e361cb7b8df811d00680c4941b", 
+        "is_playable": true, 
+        "uri": "spotify:track:2ipstGrXGaHZd2hCLgFxHn", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2ipstGrXGaHZd2hCLgFxHn", 
+        "artists": [
+          {
+            "name": "Morrissey", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+            }, 
+            "uri": "spotify:artist:3iTsJGG39nMg9YiolUgLMQ", 
+            "href": "https://api.spotify.com/v1/artists/3iTsJGG39nMg9YiolUgLMQ", 
+            "type": "artist", 
+            "id": "3iTsJGG39nMg9YiolUgLMQ"
+          }
+        ], 
+        "duration_ms": 351453, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "2ipstGrXGaHZd2hCLgFxHn"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/2fx319btAq5glC9N6tQ8Wr/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 12, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/2fx319btAq5glC9N6tQ8Wr", 
+  "copyrights": [
+    {
+      "text": "(C) 2004 Sanctuary Records Group Ltd.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 2004 Sanctuary Records Group Ltd.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Morrissey", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+      }, 
+      "uri": "spotify:artist:3iTsJGG39nMg9YiolUgLMQ", 
+      "href": "https://api.spotify.com/v1/artists/3iTsJGG39nMg9YiolUgLMQ", 
+      "type": "artist", 
+      "id": "3iTsJGG39nMg9YiolUgLMQ"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/f2aa1b3cf44513f7454647b3ecc02c919d032c99", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/8e17562cf6074bf8cb24786a1e28f10e15a3df4e", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/5bbebdf2895ef711854dde24cebf14becb525093", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "05050749300126"
+  }, 
+  "type": "album", 
+  "id": "2fx319btAq5glC9N6tQ8Wr", 
+  "name": "You Are The Quarry"
+}

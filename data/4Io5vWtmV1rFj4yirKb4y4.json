@@ -1,0 +1,763 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
+  }, 
+  "release_date": "2012-11-27", 
+  "popularity": 74, 
+  "genres": [], 
+  "uri": "spotify:album:4Io5vWtmV1rFj4yirKb4y4", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Bombtrack - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2rBHnIxbhkMGLpqmsNX91M"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/69830d64c658bb04a8f77e0b13004e87253099f7", 
+        "is_playable": true, 
+        "uri": "spotify:track:2rBHnIxbhkMGLpqmsNX91M", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2rBHnIxbhkMGLpqmsNX91M", 
+        "artists": [
+          {
+            "name": "Rage Against The Machine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+            }, 
+            "uri": "spotify:artist:2d0hyoQ5ynDBnkvAbJKORj", 
+            "href": "https://api.spotify.com/v1/artists/2d0hyoQ5ynDBnkvAbJKORj", 
+            "type": "artist", 
+            "id": "2d0hyoQ5ynDBnkvAbJKORj"
+          }
+        ], 
+        "duration_ms": 243453, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "2rBHnIxbhkMGLpqmsNX91M"
+      }, 
+      {
+        "name": "Killing In The Name - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0da82d481658dc5230b0fae8a6d11013b4907a11", 
+        "is_playable": true, 
+        "uri": "spotify:track:59WN2psjkt1tyaxjspN8fp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/59WN2psjkt1tyaxjspN8fp", 
+        "artists": [
+          {
+            "name": "Rage Against The Machine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+            }, 
+            "uri": "spotify:artist:2d0hyoQ5ynDBnkvAbJKORj", 
+            "href": "https://api.spotify.com/v1/artists/2d0hyoQ5ynDBnkvAbJKORj", 
+            "type": "artist", 
+            "id": "2d0hyoQ5ynDBnkvAbJKORj"
+          }
+        ], 
+        "duration_ms": 313573, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "59WN2psjkt1tyaxjspN8fp"
+      }, 
+      {
+        "name": "Take The Power Back - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/25CbtOzU8Pn17SAaXFjIR3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6310177e65c05e075935f0cd2523fe7493a7f9f4", 
+        "is_playable": true, 
+        "uri": "spotify:track:25CbtOzU8Pn17SAaXFjIR3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/25CbtOzU8Pn17SAaXFjIR3", 
+        "artists": [
+          {
+            "name": "Rage Against The Machine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+            }, 
+            "uri": "spotify:artist:2d0hyoQ5ynDBnkvAbJKORj", 
+            "href": "https://api.spotify.com/v1/artists/2d0hyoQ5ynDBnkvAbJKORj", 
+            "type": "artist", 
+            "id": "2d0hyoQ5ynDBnkvAbJKORj"
+          }
+        ], 
+        "duration_ms": 336440, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "25CbtOzU8Pn17SAaXFjIR3"
+      }, 
+      {
+        "name": "Settle For Nothing - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1CbG6oKKrYEw3W1DnddDFv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/201346768ffe430bfe2636dfe3c8ef646e70cf98", 
+        "is_playable": true, 
+        "uri": "spotify:track:1CbG6oKKrYEw3W1DnddDFv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1CbG6oKKrYEw3W1DnddDFv", 
+        "artists": [
+          {
+            "name": "Rage Against The Machine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+            }, 
+            "uri": "spotify:artist:2d0hyoQ5ynDBnkvAbJKORj", 
+            "href": "https://api.spotify.com/v1/artists/2d0hyoQ5ynDBnkvAbJKORj", 
+            "type": "artist", 
+            "id": "2d0hyoQ5ynDBnkvAbJKORj"
+          }
+        ], 
+        "duration_ms": 286666, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "1CbG6oKKrYEw3W1DnddDFv"
+      }, 
+      {
+        "name": "Bullet In The Head - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1WWgMk8nD79p8VeKFGYrOw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bade012d387aef4aee2c5e427f524188c2f52cbd", 
+        "is_playable": true, 
+        "uri": "spotify:track:1WWgMk8nD79p8VeKFGYrOw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1WWgMk8nD79p8VeKFGYrOw", 
+        "artists": [
+          {
+            "name": "Rage Against The Machine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+            }, 
+            "uri": "spotify:artist:2d0hyoQ5ynDBnkvAbJKORj", 
+            "href": "https://api.spotify.com/v1/artists/2d0hyoQ5ynDBnkvAbJKORj", 
+            "type": "artist", 
+            "id": "2d0hyoQ5ynDBnkvAbJKORj"
+          }
+        ], 
+        "duration_ms": 306680, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "1WWgMk8nD79p8VeKFGYrOw"
+      }, 
+      {
+        "name": "Know Your Enemy - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1XTGyfJeMiZXrZ1W3NolcB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d7aab161cea3e9db7a79257004f08c1717acecdc", 
+        "is_playable": true, 
+        "uri": "spotify:track:1XTGyfJeMiZXrZ1W3NolcB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1XTGyfJeMiZXrZ1W3NolcB", 
+        "artists": [
+          {
+            "name": "Rage Against The Machine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+            }, 
+            "uri": "spotify:artist:2d0hyoQ5ynDBnkvAbJKORj", 
+            "href": "https://api.spotify.com/v1/artists/2d0hyoQ5ynDBnkvAbJKORj", 
+            "type": "artist", 
+            "id": "2d0hyoQ5ynDBnkvAbJKORj"
+          }
+        ], 
+        "duration_ms": 294506, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "1XTGyfJeMiZXrZ1W3NolcB"
+      }, 
+      {
+        "name": "Wake Up - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2QiqwOVUctPRVggO9G1Zs5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cb3cc35029a5e0a5bafa85e395b6f248c912a2ca", 
+        "is_playable": true, 
+        "uri": "spotify:track:2QiqwOVUctPRVggO9G1Zs5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2QiqwOVUctPRVggO9G1Zs5", 
+        "artists": [
+          {
+            "name": "Rage Against The Machine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+            }, 
+            "uri": "spotify:artist:2d0hyoQ5ynDBnkvAbJKORj", 
+            "href": "https://api.spotify.com/v1/artists/2d0hyoQ5ynDBnkvAbJKORj", 
+            "type": "artist", 
+            "id": "2d0hyoQ5ynDBnkvAbJKORj"
+          }
+        ], 
+        "duration_ms": 363853, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "2QiqwOVUctPRVggO9G1Zs5"
+      }, 
+      {
+        "name": "Fistful Of Steel - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/67qdozSgFFHL6VGW85KmtD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/65f11bfd6a499909951d71f391aad1c460208f7c", 
+        "is_playable": true, 
+        "uri": "spotify:track:67qdozSgFFHL6VGW85KmtD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/67qdozSgFFHL6VGW85KmtD", 
+        "artists": [
+          {
+            "name": "Rage Against The Machine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+            }, 
+            "uri": "spotify:artist:2d0hyoQ5ynDBnkvAbJKORj", 
+            "href": "https://api.spotify.com/v1/artists/2d0hyoQ5ynDBnkvAbJKORj", 
+            "type": "artist", 
+            "id": "2d0hyoQ5ynDBnkvAbJKORj"
+          }
+        ], 
+        "duration_ms": 330546, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "67qdozSgFFHL6VGW85KmtD"
+      }, 
+      {
+        "name": "Township Rebellion - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4BOOsIe7Zx3SKJAEXgt1YH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4431066d67cd74c7fee984cc549b23e6f316088e", 
+        "is_playable": true, 
+        "uri": "spotify:track:4BOOsIe7Zx3SKJAEXgt1YH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4BOOsIe7Zx3SKJAEXgt1YH", 
+        "artists": [
+          {
+            "name": "Rage Against The Machine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+            }, 
+            "uri": "spotify:artist:2d0hyoQ5ynDBnkvAbJKORj", 
+            "href": "https://api.spotify.com/v1/artists/2d0hyoQ5ynDBnkvAbJKORj", 
+            "type": "artist", 
+            "id": "2d0hyoQ5ynDBnkvAbJKORj"
+          }
+        ], 
+        "duration_ms": 324080, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "4BOOsIe7Zx3SKJAEXgt1YH"
+      }, 
+      {
+        "name": "Freedom - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/48lQegoLqGAzaRLnMwK0mO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9769ee3dac8b8ce6e2518ff491a951d1dcc9c5ac", 
+        "is_playable": true, 
+        "uri": "spotify:track:48lQegoLqGAzaRLnMwK0mO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/48lQegoLqGAzaRLnMwK0mO", 
+        "artists": [
+          {
+            "name": "Rage Against The Machine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+            }, 
+            "uri": "spotify:artist:2d0hyoQ5ynDBnkvAbJKORj", 
+            "href": "https://api.spotify.com/v1/artists/2d0hyoQ5ynDBnkvAbJKORj", 
+            "type": "artist", 
+            "id": "2d0hyoQ5ynDBnkvAbJKORj"
+          }
+        ], 
+        "duration_ms": 366333, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "48lQegoLqGAzaRLnMwK0mO"
+      }, 
+      {
+        "name": "Bombtrack - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Vec0PnlBMjRRgHLmqKY7H"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/523d600fea5f65f8be163478e9eca525cfcfc0f9", 
+        "is_playable": true, 
+        "uri": "spotify:track:3Vec0PnlBMjRRgHLmqKY7H", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3Vec0PnlBMjRRgHLmqKY7H", 
+        "artists": [
+          {
+            "name": "Rage Against The Machine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+            }, 
+            "uri": "spotify:artist:2d0hyoQ5ynDBnkvAbJKORj", 
+            "href": "https://api.spotify.com/v1/artists/2d0hyoQ5ynDBnkvAbJKORj", 
+            "type": "artist", 
+            "id": "2d0hyoQ5ynDBnkvAbJKORj"
+          }
+        ], 
+        "duration_ms": 356506, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "3Vec0PnlBMjRRgHLmqKY7H"
+      }, 
+      {
+        "name": "Bullet In The Head - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6LPbJ9tVF4eF85jy8iizFm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b259da97da404ec65e01d0cfc5c561117c26ed63", 
+        "is_playable": true, 
+        "uri": "spotify:track:6LPbJ9tVF4eF85jy8iizFm", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6LPbJ9tVF4eF85jy8iizFm", 
+        "artists": [
+          {
+            "name": "Rage Against The Machine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+            }, 
+            "uri": "spotify:artist:2d0hyoQ5ynDBnkvAbJKORj", 
+            "href": "https://api.spotify.com/v1/artists/2d0hyoQ5ynDBnkvAbJKORj", 
+            "type": "artist", 
+            "id": "2d0hyoQ5ynDBnkvAbJKORj"
+          }
+        ], 
+        "duration_ms": 343133, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "6LPbJ9tVF4eF85jy8iizFm"
+      }, 
+      {
+        "name": "Take The Power Back - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6eRGup7iLpPqHqTzRlDriz"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b8fb2c9cd8782d59c3dc56c1f0076ada35c3cb3b", 
+        "is_playable": true, 
+        "uri": "spotify:track:6eRGup7iLpPqHqTzRlDriz", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6eRGup7iLpPqHqTzRlDriz", 
+        "artists": [
+          {
+            "name": "Rage Against The Machine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+            }, 
+            "uri": "spotify:artist:2d0hyoQ5ynDBnkvAbJKORj", 
+            "href": "https://api.spotify.com/v1/artists/2d0hyoQ5ynDBnkvAbJKORj", 
+            "type": "artist", 
+            "id": "2d0hyoQ5ynDBnkvAbJKORj"
+          }
+        ], 
+        "duration_ms": 369240, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "6eRGup7iLpPqHqTzRlDriz"
+      }, 
+      {
+        "name": "Bombtrack - Demo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1cGbiPXCsORy9n7CqGYgKI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c11fdd26597420679a663dc2b7deae9e9f32f280", 
+        "is_playable": true, 
+        "uri": "spotify:track:1cGbiPXCsORy9n7CqGYgKI", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1cGbiPXCsORy9n7CqGYgKI", 
+        "artists": [
+          {
+            "name": "Rage Against The Machine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+            }, 
+            "uri": "spotify:artist:2d0hyoQ5ynDBnkvAbJKORj", 
+            "href": "https://api.spotify.com/v1/artists/2d0hyoQ5ynDBnkvAbJKORj", 
+            "type": "artist", 
+            "id": "2d0hyoQ5ynDBnkvAbJKORj"
+          }
+        ], 
+        "duration_ms": 244453, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "1cGbiPXCsORy9n7CqGYgKI"
+      }, 
+      {
+        "name": "Take The Power Back - Demo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0HEeoSv1KTj7Mwgn3HewFM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4c41b76b0d95aefb448aa1513f31f1ffa072a9e0", 
+        "is_playable": true, 
+        "uri": "spotify:track:0HEeoSv1KTj7Mwgn3HewFM", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/0HEeoSv1KTj7Mwgn3HewFM", 
+        "artists": [
+          {
+            "name": "Rage Against The Machine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+            }, 
+            "uri": "spotify:artist:2d0hyoQ5ynDBnkvAbJKORj", 
+            "href": "https://api.spotify.com/v1/artists/2d0hyoQ5ynDBnkvAbJKORj", 
+            "type": "artist", 
+            "id": "2d0hyoQ5ynDBnkvAbJKORj"
+          }
+        ], 
+        "duration_ms": 339733, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "0HEeoSv1KTj7Mwgn3HewFM"
+      }, 
+      {
+        "name": "Bullet In The Head - Demo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4rEPAJKYF5FuCN62NIYPOU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7bcaa67ae5585d311a0c28d44a6e6484490f42c1", 
+        "is_playable": true, 
+        "uri": "spotify:track:4rEPAJKYF5FuCN62NIYPOU", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4rEPAJKYF5FuCN62NIYPOU", 
+        "artists": [
+          {
+            "name": "Rage Against The Machine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+            }, 
+            "uri": "spotify:artist:2d0hyoQ5ynDBnkvAbJKORj", 
+            "href": "https://api.spotify.com/v1/artists/2d0hyoQ5ynDBnkvAbJKORj", 
+            "type": "artist", 
+            "id": "2d0hyoQ5ynDBnkvAbJKORj"
+          }
+        ], 
+        "duration_ms": 309173, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "4rEPAJKYF5FuCN62NIYPOU"
+      }, 
+      {
+        "name": "Darkness of Greed - Demo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/32Ja9Xha95j4YTslnmnvo6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/73fe71132b58f3936b05a7b1fbd7f031cec19121", 
+        "is_playable": true, 
+        "uri": "spotify:track:32Ja9Xha95j4YTslnmnvo6", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/32Ja9Xha95j4YTslnmnvo6", 
+        "artists": [
+          {
+            "name": "Rage Against The Machine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+            }, 
+            "uri": "spotify:artist:2d0hyoQ5ynDBnkvAbJKORj", 
+            "href": "https://api.spotify.com/v1/artists/2d0hyoQ5ynDBnkvAbJKORj", 
+            "type": "artist", 
+            "id": "2d0hyoQ5ynDBnkvAbJKORj"
+          }
+        ], 
+        "duration_ms": 219800, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "32Ja9Xha95j4YTslnmnvo6"
+      }, 
+      {
+        "name": "Clear The Lane - Demo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0WmMjUF2HaR2xEpdLnt4au"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a88b7b495cdd1ec434665d60ac00e9827b35de3d", 
+        "is_playable": true, 
+        "uri": "spotify:track:0WmMjUF2HaR2xEpdLnt4au", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/0WmMjUF2HaR2xEpdLnt4au", 
+        "artists": [
+          {
+            "name": "Rage Against The Machine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+            }, 
+            "uri": "spotify:artist:2d0hyoQ5ynDBnkvAbJKORj", 
+            "href": "https://api.spotify.com/v1/artists/2d0hyoQ5ynDBnkvAbJKORj", 
+            "type": "artist", 
+            "id": "2d0hyoQ5ynDBnkvAbJKORj"
+          }
+        ], 
+        "duration_ms": 227200, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "0WmMjUF2HaR2xEpdLnt4au"
+      }, 
+      {
+        "name": "Township Rebellion - Demo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1a6RsQnWn0qwezlw4sXjZ5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/27d8936622d2a2a286f00a5be7bcdf2f6a6f0f19", 
+        "is_playable": true, 
+        "uri": "spotify:track:1a6RsQnWn0qwezlw4sXjZ5", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1a6RsQnWn0qwezlw4sXjZ5", 
+        "artists": [
+          {
+            "name": "Rage Against The Machine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+            }, 
+            "uri": "spotify:artist:2d0hyoQ5ynDBnkvAbJKORj", 
+            "href": "https://api.spotify.com/v1/artists/2d0hyoQ5ynDBnkvAbJKORj", 
+            "type": "artist", 
+            "id": "2d0hyoQ5ynDBnkvAbJKORj"
+          }
+        ], 
+        "duration_ms": 258826, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "1a6RsQnWn0qwezlw4sXjZ5"
+      }, 
+      {
+        "name": "Know Your Enemy - Demo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4w8mxZL9GSKuvtExuOdjPL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4618ce3b14b5ff4289fdf4c3fa2149ce744ed527", 
+        "is_playable": true, 
+        "uri": "spotify:track:4w8mxZL9GSKuvtExuOdjPL", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4w8mxZL9GSKuvtExuOdjPL", 
+        "artists": [
+          {
+            "name": "Rage Against The Machine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+            }, 
+            "uri": "spotify:artist:2d0hyoQ5ynDBnkvAbJKORj", 
+            "href": "https://api.spotify.com/v1/artists/2d0hyoQ5ynDBnkvAbJKORj", 
+            "type": "artist", 
+            "id": "2d0hyoQ5ynDBnkvAbJKORj"
+          }
+        ], 
+        "duration_ms": 258320, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "4w8mxZL9GSKuvtExuOdjPL"
+      }, 
+      {
+        "name": "Mindset's A Threat - Demo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/39sUoX8oc4ZuzqZWCALBIg"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/70cf433b8711d04d5b4d0520b8e589f8b9170fc8", 
+        "is_playable": true, 
+        "uri": "spotify:track:39sUoX8oc4ZuzqZWCALBIg", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/39sUoX8oc4ZuzqZWCALBIg", 
+        "artists": [
+          {
+            "name": "Rage Against The Machine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+            }, 
+            "uri": "spotify:artist:2d0hyoQ5ynDBnkvAbJKORj", 
+            "href": "https://api.spotify.com/v1/artists/2d0hyoQ5ynDBnkvAbJKORj", 
+            "type": "artist", 
+            "id": "2d0hyoQ5ynDBnkvAbJKORj"
+          }
+        ], 
+        "duration_ms": 235813, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "39sUoX8oc4ZuzqZWCALBIg"
+      }, 
+      {
+        "name": "Killing In The Name - Demo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3LpONSSvnLbXga9G5MhrSV"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7851ebbef31a74e2a774bd2eb12a4efe36024d56", 
+        "is_playable": true, 
+        "uri": "spotify:track:3LpONSSvnLbXga9G5MhrSV", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/3LpONSSvnLbXga9G5MhrSV", 
+        "artists": [
+          {
+            "name": "Rage Against The Machine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+            }, 
+            "uri": "spotify:artist:2d0hyoQ5ynDBnkvAbJKORj", 
+            "href": "https://api.spotify.com/v1/artists/2d0hyoQ5ynDBnkvAbJKORj", 
+            "type": "artist", 
+            "id": "2d0hyoQ5ynDBnkvAbJKORj"
+          }
+        ], 
+        "duration_ms": 386760, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "3LpONSSvnLbXga9G5MhrSV"
+      }, 
+      {
+        "name": "Autologic - Demo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4bBiPqQaVQUSFtFylYxbi2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e4a97b41626ffce7de98307a2cdb2288bf6d8bf4", 
+        "is_playable": true, 
+        "uri": "spotify:track:4bBiPqQaVQUSFtFylYxbi2", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4bBiPqQaVQUSFtFylYxbi2", 
+        "artists": [
+          {
+            "name": "Rage Against The Machine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+            }, 
+            "uri": "spotify:artist:2d0hyoQ5ynDBnkvAbJKORj", 
+            "href": "https://api.spotify.com/v1/artists/2d0hyoQ5ynDBnkvAbJKORj", 
+            "type": "artist", 
+            "id": "2d0hyoQ5ynDBnkvAbJKORj"
+          }
+        ], 
+        "duration_ms": 246240, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "4bBiPqQaVQUSFtFylYxbi2"
+      }, 
+      {
+        "name": "The Narrows - Demo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4uxyV8D5IypPO4SDfnhETg"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/352945436b77bafb19cae265222ed9ce0eb258fd", 
+        "is_playable": true, 
+        "uri": "spotify:track:4uxyV8D5IypPO4SDfnhETg", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4uxyV8D5IypPO4SDfnhETg", 
+        "artists": [
+          {
+            "name": "Rage Against The Machine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+            }, 
+            "uri": "spotify:artist:2d0hyoQ5ynDBnkvAbJKORj", 
+            "href": "https://api.spotify.com/v1/artists/2d0hyoQ5ynDBnkvAbJKORj", 
+            "type": "artist", 
+            "id": "2d0hyoQ5ynDBnkvAbJKORj"
+          }
+        ], 
+        "duration_ms": 275640, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "4uxyV8D5IypPO4SDfnhETg"
+      }, 
+      {
+        "name": "Freedom - Demo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7GmXA0WNK3bUUxe1DgHJsM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/26c79cb47d521291ef3da1946953f258f7190a29", 
+        "is_playable": true, 
+        "uri": "spotify:track:7GmXA0WNK3bUUxe1DgHJsM", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/7GmXA0WNK3bUUxe1DgHJsM", 
+        "artists": [
+          {
+            "name": "Rage Against The Machine", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+            }, 
+            "uri": "spotify:artist:2d0hyoQ5ynDBnkvAbJKORj", 
+            "href": "https://api.spotify.com/v1/artists/2d0hyoQ5ynDBnkvAbJKORj", 
+            "type": "artist", 
+            "id": "2d0hyoQ5ynDBnkvAbJKORj"
+          }
+        ], 
+        "duration_ms": 340653, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "7GmXA0WNK3bUUxe1DgHJsM"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/4Io5vWtmV1rFj4yirKb4y4/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 25, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/4Io5vWtmV1rFj4yirKb4y4", 
+  "copyrights": [
+    {
+      "text": "(P) 1991, 2012 Sony Music Entertainment/(P) 1992, 2012 Sony Music Entertainment", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Rage Against The Machine", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+      }, 
+      "uri": "spotify:artist:2d0hyoQ5ynDBnkvAbJKORj", 
+      "href": "https://api.spotify.com/v1/artists/2d0hyoQ5ynDBnkvAbJKORj", 
+      "type": "artist", 
+      "id": "2d0hyoQ5ynDBnkvAbJKORj"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/3326f9517fabd0951b4336c6d52cb8fe09cd6c9a", 
+      "width": 576, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/40ef7201f871c806d312f2e9375ec68b28b61522", 
+      "width": 270, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/c67246f3bc4681a3ba51a9fdc4f8a2311766cfdc", 
+      "width": 58, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "886443678750"
+  }, 
+  "type": "album", 
+  "id": "4Io5vWtmV1rFj4yirKb4y4", 
+  "name": "Rage Against The Machine - XX (20th Anniversary Special Edition)"
+}

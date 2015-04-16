@@ -1,0 +1,356 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6jf4hF2qwjQL270WMPYxow"
+  }, 
+  "release_date": "1972", 
+  "popularity": 11, 
+  "genres": [], 
+  "uri": "spotify:album:6jf4hF2qwjQL270WMPYxow", 
+  "tracks": {
+    "items": [
+      {
+        "linked_from": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2QrnZ3Zf3koTyEC1npl8P2"
+          }, 
+          "href": "https://api.spotify.com/v1/tracks/2QrnZ3Zf3koTyEC1npl8P2", 
+          "type": "track", 
+          "id": "2QrnZ3Zf3koTyEC1npl8P2", 
+          "uri": "spotify:track:2QrnZ3Zf3koTyEC1npl8P2"
+        }, 
+        "name": "Part of a Whole", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3pIBnu9EoSAbkkeSEGONt8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a0b8cfd1fd38b8da14c8f020558f7196380ca42c", 
+        "is_playable": true, 
+        "uri": "spotify:track:3pIBnu9EoSAbkkeSEGONt8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3pIBnu9EoSAbkkeSEGONt8", 
+        "artists": [
+          {
+            "name": "Hugh Masekela", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+            }, 
+            "uri": "spotify:artist:1b3F5FI7TX4IWTNA4P1kWp", 
+            "href": "https://api.spotify.com/v1/artists/1b3F5FI7TX4IWTNA4P1kWp", 
+            "type": "artist", 
+            "id": "1b3F5FI7TX4IWTNA4P1kWp"
+          }
+        ], 
+        "duration_ms": 577093, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "3pIBnu9EoSAbkkeSEGONt8"
+      }, 
+      {
+        "name": "Minawa", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1dVH80DCwwu0a1V1NFRjFd"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c1bfff51263459ef823eaa47ec337250589d4be7", 
+        "is_playable": true, 
+        "uri": "spotify:track:1dVH80DCwwu0a1V1NFRjFd", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1dVH80DCwwu0a1V1NFRjFd", 
+        "artists": [
+          {
+            "name": "Hugh Masekela", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+            }, 
+            "uri": "spotify:artist:1b3F5FI7TX4IWTNA4P1kWp", 
+            "href": "https://api.spotify.com/v1/artists/1b3F5FI7TX4IWTNA4P1kWp", 
+            "type": "artist", 
+            "id": "1b3F5FI7TX4IWTNA4P1kWp"
+          }
+        ], 
+        "duration_ms": 577680, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "1dVH80DCwwu0a1V1NFRjFd"
+      }, 
+      {
+        "name": "The Big Apple", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4VtYsNVKoZrewM4D2yRuKg"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0467f15a43b14bdff3b65af9064d3366edda2b04", 
+        "is_playable": true, 
+        "uri": "spotify:track:4VtYsNVKoZrewM4D2yRuKg", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4VtYsNVKoZrewM4D2yRuKg", 
+        "artists": [
+          {
+            "name": "Hugh Masekela", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+            }, 
+            "uri": "spotify:artist:1b3F5FI7TX4IWTNA4P1kWp", 
+            "href": "https://api.spotify.com/v1/artists/1b3F5FI7TX4IWTNA4P1kWp", 
+            "type": "artist", 
+            "id": "1b3F5FI7TX4IWTNA4P1kWp"
+          }
+        ], 
+        "duration_ms": 473466, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "4VtYsNVKoZrewM4D2yRuKg"
+      }, 
+      {
+        "name": "Unhome", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5X0fTp48pJAJihP2p2DsEN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/99859dcf1b910505ad571a9ad49cb9f1b71b0ae6", 
+        "is_playable": true, 
+        "uri": "spotify:track:5X0fTp48pJAJihP2p2DsEN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5X0fTp48pJAJihP2p2DsEN", 
+        "artists": [
+          {
+            "name": "Hugh Masekela", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+            }, 
+            "uri": "spotify:artist:1b3F5FI7TX4IWTNA4P1kWp", 
+            "href": "https://api.spotify.com/v1/artists/1b3F5FI7TX4IWTNA4P1kWp", 
+            "type": "artist", 
+            "id": "1b3F5FI7TX4IWTNA4P1kWp"
+          }
+        ], 
+        "duration_ms": 328160, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "5X0fTp48pJAJihP2p2DsEN"
+      }, 
+      {
+        "name": "Maseru", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0SOdPjUYmsThPlfhjIGuE7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5b788914cb44476120b3739b2cb85095e00a4bba", 
+        "is_playable": true, 
+        "uri": "spotify:track:0SOdPjUYmsThPlfhjIGuE7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0SOdPjUYmsThPlfhjIGuE7", 
+        "artists": [
+          {
+            "name": "Hugh Masekela", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+            }, 
+            "uri": "spotify:artist:1b3F5FI7TX4IWTNA4P1kWp", 
+            "href": "https://api.spotify.com/v1/artists/1b3F5FI7TX4IWTNA4P1kWp", 
+            "type": "artist", 
+            "id": "1b3F5FI7TX4IWTNA4P1kWp"
+          }
+        ], 
+        "duration_ms": 427480, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "0SOdPjUYmsThPlfhjIGuE7"
+      }, 
+      {
+        "name": "Inner Crisis", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2YnPqufViQxgvk0gbXhp8U"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2b5d6e9aee706387cb15d36eab903fbdc3bbb035", 
+        "is_playable": true, 
+        "uri": "spotify:track:2YnPqufViQxgvk0gbXhp8U", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2YnPqufViQxgvk0gbXhp8U", 
+        "artists": [
+          {
+            "name": "Hugh Masekela", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+            }, 
+            "uri": "spotify:artist:1b3F5FI7TX4IWTNA4P1kWp", 
+            "href": "https://api.spotify.com/v1/artists/1b3F5FI7TX4IWTNA4P1kWp", 
+            "type": "artist", 
+            "id": "1b3F5FI7TX4IWTNA4P1kWp"
+          }
+        ], 
+        "duration_ms": 352920, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "2YnPqufViQxgvk0gbXhp8U"
+      }, 
+      {
+        "name": "Blues For Huey", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3osMPuZccoXJXH3VSMocgj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2589491361b1c0acec89fcc71714f5ff60339a15", 
+        "is_playable": true, 
+        "uri": "spotify:track:3osMPuZccoXJXH3VSMocgj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3osMPuZccoXJXH3VSMocgj", 
+        "artists": [
+          {
+            "name": "Hugh Masekela", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+            }, 
+            "uri": "spotify:artist:1b3F5FI7TX4IWTNA4P1kWp", 
+            "href": "https://api.spotify.com/v1/artists/1b3F5FI7TX4IWTNA4P1kWp", 
+            "type": "artist", 
+            "id": "1b3F5FI7TX4IWTNA4P1kWp"
+          }
+        ], 
+        "duration_ms": 385080, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "3osMPuZccoXJXH3VSMocgj"
+      }, 
+      {
+        "name": "Nomali", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4EicqWydrVJ1GnemyI5zMP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3f9fdc16340fbf1e00628f988f6343b7da74b6da", 
+        "is_playable": true, 
+        "uri": "spotify:track:4EicqWydrVJ1GnemyI5zMP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4EicqWydrVJ1GnemyI5zMP", 
+        "artists": [
+          {
+            "name": "Hugh Masekela", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+            }, 
+            "uri": "spotify:artist:1b3F5FI7TX4IWTNA4P1kWp", 
+            "href": "https://api.spotify.com/v1/artists/1b3F5FI7TX4IWTNA4P1kWp", 
+            "type": "artist", 
+            "id": "1b3F5FI7TX4IWTNA4P1kWp"
+          }
+        ], 
+        "duration_ms": 441653, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "4EicqWydrVJ1GnemyI5zMP"
+      }, 
+      {
+        "name": "Maesha", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1w6EsLlO4vkNbQMW0WUqWH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/78dc628615ce0a7741543b51bce8987c607c6972", 
+        "is_playable": true, 
+        "uri": "spotify:track:1w6EsLlO4vkNbQMW0WUqWH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1w6EsLlO4vkNbQMW0WUqWH", 
+        "artists": [
+          {
+            "name": "Hugh Masekela", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+            }, 
+            "uri": "spotify:artist:1b3F5FI7TX4IWTNA4P1kWp", 
+            "href": "https://api.spotify.com/v1/artists/1b3F5FI7TX4IWTNA4P1kWp", 
+            "type": "artist", 
+            "id": "1b3F5FI7TX4IWTNA4P1kWp"
+          }
+        ], 
+        "duration_ms": 628360, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "1w6EsLlO4vkNbQMW0WUqWH"
+      }, 
+      {
+        "name": "Ingoo Pow-Pow (Children's Song)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7eoSbIsBuwDwZvooq4zZzF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/119700f0637b961a3fcc11b8922e85d2598a0589", 
+        "is_playable": true, 
+        "uri": "spotify:track:7eoSbIsBuwDwZvooq4zZzF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7eoSbIsBuwDwZvooq4zZzF", 
+        "artists": [
+          {
+            "name": "Hugh Masekela", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+            }, 
+            "uri": "spotify:artist:1b3F5FI7TX4IWTNA4P1kWp", 
+            "href": "https://api.spotify.com/v1/artists/1b3F5FI7TX4IWTNA4P1kWp", 
+            "type": "artist", 
+            "id": "1b3F5FI7TX4IWTNA4P1kWp"
+          }
+        ], 
+        "duration_ms": 405426, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "7eoSbIsBuwDwZvooq4zZzF"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/6jf4hF2qwjQL270WMPYxow/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 10, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/6jf4hF2qwjQL270WMPYxow", 
+  "copyrights": [
+    {
+      "text": "(C) 2008 The Verve Music Group, a Division of UMG Recordings, Inc.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 2008 The Verve Music Group, a Division of UMG Recordings, Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Hugh Masekela", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+      }, 
+      "uri": "spotify:artist:1b3F5FI7TX4IWTNA4P1kWp", 
+      "href": "https://api.spotify.com/v1/artists/1b3F5FI7TX4IWTNA4P1kWp", 
+      "type": "artist", 
+      "id": "1b3F5FI7TX4IWTNA4P1kWp"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/e010541b766bdc1d0623f30f15f727e708b86b43", 
+      "width": 640, 
+      "height": 577
+    }, 
+    {
+      "url": "https://i.scdn.co/image/32ab9b86a46e162739d23efde82fcce7c3665873", 
+      "width": 300, 
+      "height": 270
+    }, 
+    {
+      "url": "https://i.scdn.co/image/7bd1245b7bc072638b69e40200592317769790fa", 
+      "width": 64, 
+      "height": 58
+    }
+  ], 
+  "external_ids": {
+    "upc": "00602517686830"
+  }, 
+  "type": "album", 
+  "id": "6jf4hF2qwjQL270WMPYxow", 
+  "name": "Home Is Where The Music Is"
+}

@@ -1,0 +1,437 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5eAoPNZzWRn2C409kAUsbE"
+  }, 
+  "release_date": "1998", 
+  "popularity": 68, 
+  "genres": [], 
+  "uri": "spotify:album:5eAoPNZzWRn2C409kAUsbE", 
+  "tracks": {
+    "items": [
+      {
+        "name": "It's On!", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2tWZPmx1opnM5brr7TFM76"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9b12fea66762f6bf6e1041ad5fe88cd005737762", 
+        "is_playable": true, 
+        "uri": "spotify:track:2tWZPmx1opnM5brr7TFM76", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2tWZPmx1opnM5brr7TFM76", 
+        "artists": [
+          {
+            "name": "Korn", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+            }, 
+            "uri": "spotify:artist:3RNrq3jvMZxD9ZyoOZbQOD", 
+            "href": "https://api.spotify.com/v1/artists/3RNrq3jvMZxD9ZyoOZbQOD", 
+            "type": "artist", 
+            "id": "3RNrq3jvMZxD9ZyoOZbQOD"
+          }
+        ], 
+        "duration_ms": 268760, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "2tWZPmx1opnM5brr7TFM76"
+      }, 
+      {
+        "name": "Freak on a Leash", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7B9S4RiRczdw1B9ddjpFe8"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5b2ad904e4af0a9ec0b7e559a1626c8f9688f4cd", 
+        "is_playable": true, 
+        "uri": "spotify:track:7B9S4RiRczdw1B9ddjpFe8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7B9S4RiRczdw1B9ddjpFe8", 
+        "artists": [
+          {
+            "name": "Korn", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+            }, 
+            "uri": "spotify:artist:3RNrq3jvMZxD9ZyoOZbQOD", 
+            "href": "https://api.spotify.com/v1/artists/3RNrq3jvMZxD9ZyoOZbQOD", 
+            "type": "artist", 
+            "id": "3RNrq3jvMZxD9ZyoOZbQOD"
+          }
+        ], 
+        "duration_ms": 255333, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "7B9S4RiRczdw1B9ddjpFe8"
+      }, 
+      {
+        "name": "Got the Life", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2IdHMVUxMbLHW5HU4OvOcZ"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b07cfa455a1bb3324a74137f015b9a829382bc58", 
+        "is_playable": true, 
+        "uri": "spotify:track:2IdHMVUxMbLHW5HU4OvOcZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2IdHMVUxMbLHW5HU4OvOcZ", 
+        "artists": [
+          {
+            "name": "Korn", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+            }, 
+            "uri": "spotify:artist:3RNrq3jvMZxD9ZyoOZbQOD", 
+            "href": "https://api.spotify.com/v1/artists/3RNrq3jvMZxD9ZyoOZbQOD", 
+            "type": "artist", 
+            "id": "3RNrq3jvMZxD9ZyoOZbQOD"
+          }
+        ], 
+        "duration_ms": 225173, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "2IdHMVUxMbLHW5HU4OvOcZ"
+      }, 
+      {
+        "name": "Dead Bodies Everywhere", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2AG4R9KDrbvSPg1Ti8ZAaF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/15303a5353c8593cf0b6d355b47bb0a7ee018719", 
+        "is_playable": true, 
+        "uri": "spotify:track:2AG4R9KDrbvSPg1Ti8ZAaF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2AG4R9KDrbvSPg1Ti8ZAaF", 
+        "artists": [
+          {
+            "name": "Korn", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+            }, 
+            "uri": "spotify:artist:3RNrq3jvMZxD9ZyoOZbQOD", 
+            "href": "https://api.spotify.com/v1/artists/3RNrq3jvMZxD9ZyoOZbQOD", 
+            "type": "artist", 
+            "id": "3RNrq3jvMZxD9ZyoOZbQOD"
+          }
+        ], 
+        "duration_ms": 284893, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "2AG4R9KDrbvSPg1Ti8ZAaF"
+      }, 
+      {
+        "name": "Children of the Korn (featuring Ice Cube)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Uy6NauUKpkXSZbL9GBbA9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/75f39ba6e667d615360a5222d0328df6c8b45ac6", 
+        "is_playable": true, 
+        "uri": "spotify:track:1Uy6NauUKpkXSZbL9GBbA9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1Uy6NauUKpkXSZbL9GBbA9", 
+        "artists": [
+          {
+            "name": "Korn", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+            }, 
+            "uri": "spotify:artist:3RNrq3jvMZxD9ZyoOZbQOD", 
+            "href": "https://api.spotify.com/v1/artists/3RNrq3jvMZxD9ZyoOZbQOD", 
+            "type": "artist", 
+            "id": "3RNrq3jvMZxD9ZyoOZbQOD"
+          }, 
+          {
+            "name": "Ice Cube", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+            }, 
+            "uri": "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA", 
+            "href": "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA", 
+            "type": "artist", 
+            "id": "3Mcii5XWf6E0lrY3Uky4cA"
+          }
+        ], 
+        "duration_ms": 232306, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "1Uy6NauUKpkXSZbL9GBbA9"
+      }, 
+      {
+        "name": "B.B.K.", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/476Gq2iTya3gTqQfc4gciv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2358aa93b8fec441c6b753b4a6f2d022dc4e72d3", 
+        "is_playable": true, 
+        "uri": "spotify:track:476Gq2iTya3gTqQfc4gciv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/476Gq2iTya3gTqQfc4gciv", 
+        "artists": [
+          {
+            "name": "Korn", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+            }, 
+            "uri": "spotify:artist:3RNrq3jvMZxD9ZyoOZbQOD", 
+            "href": "https://api.spotify.com/v1/artists/3RNrq3jvMZxD9ZyoOZbQOD", 
+            "type": "artist", 
+            "id": "3RNrq3jvMZxD9ZyoOZbQOD"
+          }
+        ], 
+        "duration_ms": 236400, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "476Gq2iTya3gTqQfc4gciv"
+      }, 
+      {
+        "name": "Pretty", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4OwnlQQVoybGbLKVqKUXBF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/33f8cbc1b7aff4b1d69da0b0faded7f651b83ef2", 
+        "is_playable": true, 
+        "uri": "spotify:track:4OwnlQQVoybGbLKVqKUXBF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4OwnlQQVoybGbLKVqKUXBF", 
+        "artists": [
+          {
+            "name": "Korn", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+            }, 
+            "uri": "spotify:artist:3RNrq3jvMZxD9ZyoOZbQOD", 
+            "href": "https://api.spotify.com/v1/artists/3RNrq3jvMZxD9ZyoOZbQOD", 
+            "type": "artist", 
+            "id": "3RNrq3jvMZxD9ZyoOZbQOD"
+          }
+        ], 
+        "duration_ms": 252093, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "4OwnlQQVoybGbLKVqKUXBF"
+      }, 
+      {
+        "name": "All in the Family", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2vFz4YQiHa9ZEKAqMKLN5x"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/dca120e741f1e435295061955cc98dc741118a08", 
+        "is_playable": true, 
+        "uri": "spotify:track:2vFz4YQiHa9ZEKAqMKLN5x", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2vFz4YQiHa9ZEKAqMKLN5x", 
+        "artists": [
+          {
+            "name": "Korn", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+            }, 
+            "uri": "spotify:artist:3RNrq3jvMZxD9ZyoOZbQOD", 
+            "href": "https://api.spotify.com/v1/artists/3RNrq3jvMZxD9ZyoOZbQOD", 
+            "type": "artist", 
+            "id": "3RNrq3jvMZxD9ZyoOZbQOD"
+          }
+        ], 
+        "duration_ms": 288800, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "2vFz4YQiHa9ZEKAqMKLN5x"
+      }, 
+      {
+        "name": "Reclaim My Place", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/23blsNh7W6SXUJfjdg0JQs"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/039161e6aaaaaa4d698586424da5a5a67091fd4f", 
+        "is_playable": true, 
+        "uri": "spotify:track:23blsNh7W6SXUJfjdg0JQs", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/23blsNh7W6SXUJfjdg0JQs", 
+        "artists": [
+          {
+            "name": "Korn", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+            }, 
+            "uri": "spotify:artist:3RNrq3jvMZxD9ZyoOZbQOD", 
+            "href": "https://api.spotify.com/v1/artists/3RNrq3jvMZxD9ZyoOZbQOD", 
+            "type": "artist", 
+            "id": "3RNrq3jvMZxD9ZyoOZbQOD"
+          }
+        ], 
+        "duration_ms": 272506, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "23blsNh7W6SXUJfjdg0JQs"
+      }, 
+      {
+        "name": "Justin", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6XkhSBkNc63cNExaOeBizj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/888c97782bfb6ba8b51344483f072944842ebb7b", 
+        "is_playable": true, 
+        "uri": "spotify:track:6XkhSBkNc63cNExaOeBizj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6XkhSBkNc63cNExaOeBizj", 
+        "artists": [
+          {
+            "name": "Korn", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+            }, 
+            "uri": "spotify:artist:3RNrq3jvMZxD9ZyoOZbQOD", 
+            "href": "https://api.spotify.com/v1/artists/3RNrq3jvMZxD9ZyoOZbQOD", 
+            "type": "artist", 
+            "id": "3RNrq3jvMZxD9ZyoOZbQOD"
+          }
+        ], 
+        "duration_ms": 257133, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "6XkhSBkNc63cNExaOeBizj"
+      }, 
+      {
+        "name": "Seed", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6xaDHRkK21CTWZdZrw2khH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7b35caa2fd318598a1e6734a444d2758f8d4489a", 
+        "is_playable": true, 
+        "uri": "spotify:track:6xaDHRkK21CTWZdZrw2khH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6xaDHRkK21CTWZdZrw2khH", 
+        "artists": [
+          {
+            "name": "Korn", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+            }, 
+            "uri": "spotify:artist:3RNrq3jvMZxD9ZyoOZbQOD", 
+            "href": "https://api.spotify.com/v1/artists/3RNrq3jvMZxD9ZyoOZbQOD", 
+            "type": "artist", 
+            "id": "3RNrq3jvMZxD9ZyoOZbQOD"
+          }
+        ], 
+        "duration_ms": 354760, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "6xaDHRkK21CTWZdZrw2khH"
+      }, 
+      {
+        "name": "Cameltosis", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Gpbnyts3nIgfZLjghRYfZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ca4e3ab0b99164626b3d78f006e4a6872359d0f1", 
+        "is_playable": true, 
+        "uri": "spotify:track:2Gpbnyts3nIgfZLjghRYfZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2Gpbnyts3nIgfZLjghRYfZ", 
+        "artists": [
+          {
+            "name": "Korn", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+            }, 
+            "uri": "spotify:artist:3RNrq3jvMZxD9ZyoOZbQOD", 
+            "href": "https://api.spotify.com/v1/artists/3RNrq3jvMZxD9ZyoOZbQOD", 
+            "type": "artist", 
+            "id": "3RNrq3jvMZxD9ZyoOZbQOD"
+          }
+        ], 
+        "duration_ms": 278000, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "2Gpbnyts3nIgfZLjghRYfZ"
+      }, 
+      {
+        "name": "My Gift To You", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2nUGM4Y3rxzJeaANsUSP9A"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/417c5fb4738b1f53605483970fcb51a29be36868", 
+        "is_playable": true, 
+        "uri": "spotify:track:2nUGM4Y3rxzJeaANsUSP9A", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2nUGM4Y3rxzJeaANsUSP9A", 
+        "artists": [
+          {
+            "name": "Korn", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+            }, 
+            "uri": "spotify:artist:3RNrq3jvMZxD9ZyoOZbQOD", 
+            "href": "https://api.spotify.com/v1/artists/3RNrq3jvMZxD9ZyoOZbQOD", 
+            "type": "artist", 
+            "id": "3RNrq3jvMZxD9ZyoOZbQOD"
+          }
+        ], 
+        "duration_ms": 931840, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "2nUGM4Y3rxzJeaANsUSP9A"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/5eAoPNZzWRn2C409kAUsbE/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 13, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/5eAoPNZzWRn2C409kAUsbE", 
+  "copyrights": [
+    {
+      "text": "1998 Sony Music Entertainment Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Korn", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+      }, 
+      "uri": "spotify:artist:3RNrq3jvMZxD9ZyoOZbQOD", 
+      "href": "https://api.spotify.com/v1/artists/3RNrq3jvMZxD9ZyoOZbQOD", 
+      "type": "artist", 
+      "id": "3RNrq3jvMZxD9ZyoOZbQOD"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/dcab2d136873cfbdb5feac7539897d6774bf83d3", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/4774955af5d849796296df2a077d4b75bcb9e07b", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/3da30c0cf5cc80f1e061222076cc0d0fbb35b378", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "884977725407"
+  }, 
+  "type": "album", 
+  "id": "5eAoPNZzWRn2C409kAUsbE", 
+  "name": "Follow The Leader"
+}

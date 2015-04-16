@@ -1,0 +1,459 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4aw2aMrIqaCy4NAfvKxDAS"
+  }, 
+  "release_date": "1991-06-08", 
+  "popularity": 19, 
+  "genres": [], 
+  "uri": "spotify:album:4aw2aMrIqaCy4NAfvKxDAS", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Generation Genocide", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1MsS11R3csOGC4ZJBf373h"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/97eecfb71c67540a9f0a86a49c6d84cda5604d6f", 
+        "is_playable": true, 
+        "uri": "spotify:track:1MsS11R3csOGC4ZJBf373h", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1MsS11R3csOGC4ZJBf373h", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 73466, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "1MsS11R3csOGC4ZJBf373h"
+      }, 
+      {
+        "name": "Let It Slide", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6RRpjCUpsFox435mdtmloO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b58d7418c3984bab5a0a4ff79d89195cab9efdc3", 
+        "is_playable": true, 
+        "uri": "spotify:track:6RRpjCUpsFox435mdtmloO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6RRpjCUpsFox435mdtmloO", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 155266, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "6RRpjCUpsFox435mdtmloO"
+      }, 
+      {
+        "name": "Good Enough", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7Ftth0quLWV5v9NcFAcqTl"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/134755d6cd7e5a1d59b3d43ea4276f59a3c1c607", 
+        "is_playable": true, 
+        "uri": "spotify:track:7Ftth0quLWV5v9NcFAcqTl", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7Ftth0quLWV5v9NcFAcqTl", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 205666, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "7Ftth0quLWV5v9NcFAcqTl"
+      }, 
+      {
+        "name": "Something So Clear", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7LMlKyjw6V4Z69iJqIDjdu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/09a0f52e5c214e5fc399bdbda71ab980832be989", 
+        "is_playable": true, 
+        "uri": "spotify:track:7LMlKyjw6V4Z69iJqIDjdu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7LMlKyjw6V4Z69iJqIDjdu", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 254266, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "7LMlKyjw6V4Z69iJqIDjdu"
+      }, 
+      {
+        "name": "Thorn", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4enoK7Lb8FyKWZENMdQ1Do"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7eadee01609aadeaf47607ff9f4d3a772f80ef35", 
+        "is_playable": true, 
+        "uri": "spotify:track:4enoK7Lb8FyKWZENMdQ1Do", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4enoK7Lb8FyKWZENMdQ1Do", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 130706, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "4enoK7Lb8FyKWZENMdQ1Do"
+      }, 
+      {
+        "name": "Into The Drink", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/24efx2E8u9f3k4JcKIM8ko"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d09eed70932986ca4506335a8876ba2e36a87c9c", 
+        "is_playable": true, 
+        "uri": "spotify:track:24efx2E8u9f3k4JcKIM8ko", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/24efx2E8u9f3k4JcKIM8ko", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 128333, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "24efx2E8u9f3k4JcKIM8ko"
+      }, 
+      {
+        "name": "Broken Hands", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1LqpIEtEQD2hZrhtlEvHSZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c1d21d3b6dea4a53e00f702e2233fac6e89b47ff", 
+        "is_playable": true, 
+        "uri": "spotify:track:1LqpIEtEQD2hZrhtlEvHSZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1LqpIEtEQD2hZrhtlEvHSZ", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 362933, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "1LqpIEtEQD2hZrhtlEvHSZ"
+      }, 
+      {
+        "name": "Who You Drivin' Now?", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4eNUzetnmfFbuobRasbT1B"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6b4cc8c68382afe66c4320f01049bac3465f7e1c", 
+        "is_playable": true, 
+        "uri": "spotify:track:4eNUzetnmfFbuobRasbT1B", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4eNUzetnmfFbuobRasbT1B", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 141693, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "4eNUzetnmfFbuobRasbT1B"
+      }, 
+      {
+        "name": "Move Out", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1XHemka9zJMwEJiMAAGF9C"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8ce803fba3abaece9cae5e198d209ee7f55a8bb9", 
+        "is_playable": true, 
+        "uri": "spotify:track:1XHemka9zJMwEJiMAAGF9C", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1XHemka9zJMwEJiMAAGF9C", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 212840, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "1XHemka9zJMwEJiMAAGF9C"
+      }, 
+      {
+        "name": "Shoot The Moon", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0YE8g6sXcEiymSWIFdETGo"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6f4ad3fc8d9c32eaa9746e0c658bc37a2bbcb692", 
+        "is_playable": true, 
+        "uri": "spotify:track:0YE8g6sXcEiymSWIFdETGo", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0YE8g6sXcEiymSWIFdETGo", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 147493, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "0YE8g6sXcEiymSWIFdETGo"
+      }, 
+      {
+        "name": "Fuzz Gun '91", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2OglevhzYGe7hP5iqBYSwZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4c68211742ca95da3d8c140efdf1e9f73f6d42be", 
+        "is_playable": true, 
+        "uri": "spotify:track:2OglevhzYGe7hP5iqBYSwZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2OglevhzYGe7hP5iqBYSwZ", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 112506, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "2OglevhzYGe7hP5iqBYSwZ"
+      }, 
+      {
+        "name": "Pokin' Around", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3wT2qSVgM8FaqmSDjfbQhK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/16eacde85e8e32fcfef19051e5d8c051006a9a5b", 
+        "is_playable": true, 
+        "uri": "spotify:track:3wT2qSVgM8FaqmSDjfbQhK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3wT2qSVgM8FaqmSDjfbQhK", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 210533, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "3wT2qSVgM8FaqmSDjfbQhK"
+      }, 
+      {
+        "name": "Don't Fade IV", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0ueSRsreSBWFIVlY83boMH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fbd369d272b2f3b23e01349dfc9ad5181bf84dea", 
+        "is_playable": true, 
+        "uri": "spotify:track:0ueSRsreSBWFIVlY83boMH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0ueSRsreSBWFIVlY83boMH", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 238466, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "0ueSRsreSBWFIVlY83boMH"
+      }, 
+      {
+        "name": "Check-Out Time", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3sVSZgHVHdFv1CXSdgDtgw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a0650735786631adb4fff52b0a4b8122be4c2d8c", 
+        "is_playable": true, 
+        "uri": "spotify:track:3sVSZgHVHdFv1CXSdgDtgw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3sVSZgHVHdFv1CXSdgDtgw", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 187333, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "3sVSZgHVHdFv1CXSdgDtgw"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/4aw2aMrIqaCy4NAfvKxDAS/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 14, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/4aw2aMrIqaCy4NAfvKxDAS", 
+  "copyrights": [
+    {
+      "text": "1991 Sub Pop Records", 
+      "type": "C"
+    }, 
+    {
+      "text": "1991 Sub Pop Records", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Mudhoney", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+      }, 
+      "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+      "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+      "type": "artist", 
+      "id": "7LuYiSXiWs86rwWJjEEgB9"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/713c9807685a849c0f452ad739fc4fb88275558d", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/0f6f307b0ef5b5cca18119379c5df3d82c4e9a6c", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/f63947d80f4f52fce86b9ec6c61cef728d443c28", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "0098787010565"
+  }, 
+  "type": "album", 
+  "id": "4aw2aMrIqaCy4NAfvKxDAS", 
+  "name": "Every Good Boy Deserves Fudge"
+}

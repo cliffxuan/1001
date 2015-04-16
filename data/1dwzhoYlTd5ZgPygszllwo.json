@@ -1,0 +1,515 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1dwzhoYlTd5ZgPygszllwo"
+  }, 
+  "release_date": "1979", 
+  "popularity": 41, 
+  "genres": [], 
+  "uri": "spotify:album:1dwzhoYlTd5ZgPygszllwo", 
+  "tracks": {
+    "items": [
+      {
+        "name": "What We Do Is Secret", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7GfMlSrcyjy3lz7wWH9iMq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/24edbc051f53e0db352b786ca7c90e5fd7ad90b5", 
+        "is_playable": true, 
+        "uri": "spotify:track:7GfMlSrcyjy3lz7wWH9iMq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7GfMlSrcyjy3lz7wWH9iMq", 
+        "artists": [
+          {
+            "name": "Germs", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/39zgKjGWsiZzJ9h6gbrPFY"
+            }, 
+            "uri": "spotify:artist:39zgKjGWsiZzJ9h6gbrPFY", 
+            "href": "https://api.spotify.com/v1/artists/39zgKjGWsiZzJ9h6gbrPFY", 
+            "type": "artist", 
+            "id": "39zgKjGWsiZzJ9h6gbrPFY"
+          }
+        ], 
+        "duration_ms": 44400, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "7GfMlSrcyjy3lz7wWH9iMq"
+      }, 
+      {
+        "name": "Communist Eyes", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6M1TO1fp3PbcvXdPApnGnf"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/57081e535c0d2f904707be182b694d103bedb6eb", 
+        "is_playable": true, 
+        "uri": "spotify:track:6M1TO1fp3PbcvXdPApnGnf", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6M1TO1fp3PbcvXdPApnGnf", 
+        "artists": [
+          {
+            "name": "Germs", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/39zgKjGWsiZzJ9h6gbrPFY"
+            }, 
+            "uri": "spotify:artist:39zgKjGWsiZzJ9h6gbrPFY", 
+            "href": "https://api.spotify.com/v1/artists/39zgKjGWsiZzJ9h6gbrPFY", 
+            "type": "artist", 
+            "id": "39zgKjGWsiZzJ9h6gbrPFY"
+          }
+        ], 
+        "duration_ms": 135533, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "6M1TO1fp3PbcvXdPApnGnf"
+      }, 
+      {
+        "name": "Land Of Treason", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3o1NsJnGJMpFYpd6z6fLzu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8c8478183880b353057e7231e3217471b7064e75", 
+        "is_playable": true, 
+        "uri": "spotify:track:3o1NsJnGJMpFYpd6z6fLzu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3o1NsJnGJMpFYpd6z6fLzu", 
+        "artists": [
+          {
+            "name": "Germs", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/39zgKjGWsiZzJ9h6gbrPFY"
+            }, 
+            "uri": "spotify:artist:39zgKjGWsiZzJ9h6gbrPFY", 
+            "href": "https://api.spotify.com/v1/artists/39zgKjGWsiZzJ9h6gbrPFY", 
+            "type": "artist", 
+            "id": "39zgKjGWsiZzJ9h6gbrPFY"
+          }
+        ], 
+        "duration_ms": 129600, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "3o1NsJnGJMpFYpd6z6fLzu"
+      }, 
+      {
+        "name": "Richie Dagger's Crime", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Z9p7LK5D2tfsnEXja92Zm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ec250c4571b5521b9ae5031a76ed6a6de23ef813", 
+        "is_playable": true, 
+        "uri": "spotify:track:2Z9p7LK5D2tfsnEXja92Zm", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2Z9p7LK5D2tfsnEXja92Zm", 
+        "artists": [
+          {
+            "name": "Germs", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/39zgKjGWsiZzJ9h6gbrPFY"
+            }, 
+            "uri": "spotify:artist:39zgKjGWsiZzJ9h6gbrPFY", 
+            "href": "https://api.spotify.com/v1/artists/39zgKjGWsiZzJ9h6gbrPFY", 
+            "type": "artist", 
+            "id": "39zgKjGWsiZzJ9h6gbrPFY"
+          }
+        ], 
+        "duration_ms": 116640, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "2Z9p7LK5D2tfsnEXja92Zm"
+      }, 
+      {
+        "name": "Strange Notes", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5n9ZO4StDuyOmETGsWds0k"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8fcaf893bb8ec064ab19204ad3b4827875d6d755", 
+        "is_playable": true, 
+        "uri": "spotify:track:5n9ZO4StDuyOmETGsWds0k", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5n9ZO4StDuyOmETGsWds0k", 
+        "artists": [
+          {
+            "name": "Germs", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/39zgKjGWsiZzJ9h6gbrPFY"
+            }, 
+            "uri": "spotify:artist:39zgKjGWsiZzJ9h6gbrPFY", 
+            "href": "https://api.spotify.com/v1/artists/39zgKjGWsiZzJ9h6gbrPFY", 
+            "type": "artist", 
+            "id": "39zgKjGWsiZzJ9h6gbrPFY"
+          }
+        ], 
+        "duration_ms": 113066, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "5n9ZO4StDuyOmETGsWds0k"
+      }, 
+      {
+        "name": "American Leather", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3fU2gAhlt7quwcX6WdcKMo"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/016aae90bc98a4bfed770e38ee57f38d4747518b", 
+        "is_playable": true, 
+        "uri": "spotify:track:3fU2gAhlt7quwcX6WdcKMo", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3fU2gAhlt7quwcX6WdcKMo", 
+        "artists": [
+          {
+            "name": "Germs", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/39zgKjGWsiZzJ9h6gbrPFY"
+            }, 
+            "uri": "spotify:artist:39zgKjGWsiZzJ9h6gbrPFY", 
+            "href": "https://api.spotify.com/v1/artists/39zgKjGWsiZzJ9h6gbrPFY", 
+            "type": "artist", 
+            "id": "39zgKjGWsiZzJ9h6gbrPFY"
+          }
+        ], 
+        "duration_ms": 71400, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "3fU2gAhlt7quwcX6WdcKMo"
+      }, 
+      {
+        "name": "Lexicon Devil", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Hl2Vuhhhh8buesoxUk1DW"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/18c28952f9d4222c145960c77fd23308ae70ae86", 
+        "is_playable": true, 
+        "uri": "spotify:track:0Hl2Vuhhhh8buesoxUk1DW", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0Hl2Vuhhhh8buesoxUk1DW", 
+        "artists": [
+          {
+            "name": "Germs", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/39zgKjGWsiZzJ9h6gbrPFY"
+            }, 
+            "uri": "spotify:artist:39zgKjGWsiZzJ9h6gbrPFY", 
+            "href": "https://api.spotify.com/v1/artists/39zgKjGWsiZzJ9h6gbrPFY", 
+            "type": "artist", 
+            "id": "39zgKjGWsiZzJ9h6gbrPFY"
+          }
+        ], 
+        "duration_ms": 104360, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "0Hl2Vuhhhh8buesoxUk1DW"
+      }, 
+      {
+        "name": "Manimal", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5NSFOzVMjfnaqlIBikysXM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1be7be5801b031c24165466bc1307cc5c65d62bc", 
+        "is_playable": true, 
+        "uri": "spotify:track:5NSFOzVMjfnaqlIBikysXM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5NSFOzVMjfnaqlIBikysXM", 
+        "artists": [
+          {
+            "name": "Germs", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/39zgKjGWsiZzJ9h6gbrPFY"
+            }, 
+            "uri": "spotify:artist:39zgKjGWsiZzJ9h6gbrPFY", 
+            "href": "https://api.spotify.com/v1/artists/39zgKjGWsiZzJ9h6gbrPFY", 
+            "type": "artist", 
+            "id": "39zgKjGWsiZzJ9h6gbrPFY"
+          }
+        ], 
+        "duration_ms": 131106, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "5NSFOzVMjfnaqlIBikysXM"
+      }, 
+      {
+        "name": "Our Way", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3vI7KeVsLUMucbVqYcGtv9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/50b518f6bce30f27be8d6bdb2593cb5d34a4e593", 
+        "is_playable": true, 
+        "uri": "spotify:track:3vI7KeVsLUMucbVqYcGtv9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3vI7KeVsLUMucbVqYcGtv9", 
+        "artists": [
+          {
+            "name": "Germs", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/39zgKjGWsiZzJ9h6gbrPFY"
+            }, 
+            "uri": "spotify:artist:39zgKjGWsiZzJ9h6gbrPFY", 
+            "href": "https://api.spotify.com/v1/artists/39zgKjGWsiZzJ9h6gbrPFY", 
+            "type": "artist", 
+            "id": "39zgKjGWsiZzJ9h6gbrPFY"
+          }
+        ], 
+        "duration_ms": 116893, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "3vI7KeVsLUMucbVqYcGtv9"
+      }, 
+      {
+        "name": "We Must Bleed", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4nl8srnmBGjY4fU6bEIDF9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6f8096d0dd581d65d7d13b82b88a1ee3e3eb3667", 
+        "is_playable": true, 
+        "uri": "spotify:track:4nl8srnmBGjY4fU6bEIDF9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4nl8srnmBGjY4fU6bEIDF9", 
+        "artists": [
+          {
+            "name": "Germs", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/39zgKjGWsiZzJ9h6gbrPFY"
+            }, 
+            "uri": "spotify:artist:39zgKjGWsiZzJ9h6gbrPFY", 
+            "href": "https://api.spotify.com/v1/artists/39zgKjGWsiZzJ9h6gbrPFY", 
+            "type": "artist", 
+            "id": "39zgKjGWsiZzJ9h6gbrPFY"
+          }
+        ], 
+        "duration_ms": 185266, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "4nl8srnmBGjY4fU6bEIDF9"
+      }, 
+      {
+        "name": "Media Blitz", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0f4jhxdqtbfbPj9QrjQuwO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/00fd04129bceae4b3dea6d6ac7f40c797eed3fdd", 
+        "is_playable": true, 
+        "uri": "spotify:track:0f4jhxdqtbfbPj9QrjQuwO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0f4jhxdqtbfbPj9QrjQuwO", 
+        "artists": [
+          {
+            "name": "Germs", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/39zgKjGWsiZzJ9h6gbrPFY"
+            }, 
+            "uri": "spotify:artist:39zgKjGWsiZzJ9h6gbrPFY", 
+            "href": "https://api.spotify.com/v1/artists/39zgKjGWsiZzJ9h6gbrPFY", 
+            "type": "artist", 
+            "id": "39zgKjGWsiZzJ9h6gbrPFY"
+          }
+        ], 
+        "duration_ms": 89906, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "0f4jhxdqtbfbPj9QrjQuwO"
+      }, 
+      {
+        "name": "The Other Newest One", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/16iefYXNYd1bgexS5mB62Y"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e163e8f1e59b5384685dd3e7b17c37b2adb2095c", 
+        "is_playable": true, 
+        "uri": "spotify:track:16iefYXNYd1bgexS5mB62Y", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/16iefYXNYd1bgexS5mB62Y", 
+        "artists": [
+          {
+            "name": "Germs", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/39zgKjGWsiZzJ9h6gbrPFY"
+            }, 
+            "uri": "spotify:artist:39zgKjGWsiZzJ9h6gbrPFY", 
+            "href": "https://api.spotify.com/v1/artists/39zgKjGWsiZzJ9h6gbrPFY", 
+            "type": "artist", 
+            "id": "39zgKjGWsiZzJ9h6gbrPFY"
+          }
+        ], 
+        "duration_ms": 167466, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "16iefYXNYd1bgexS5mB62Y"
+      }, 
+      {
+        "name": "Let's Pretend", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1jFDunb6hr8mkPipafNJdM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/739a46f7284903e91999411d43d2873b9458ff34", 
+        "is_playable": true, 
+        "uri": "spotify:track:1jFDunb6hr8mkPipafNJdM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1jFDunb6hr8mkPipafNJdM", 
+        "artists": [
+          {
+            "name": "Germs", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/39zgKjGWsiZzJ9h6gbrPFY"
+            }, 
+            "uri": "spotify:artist:39zgKjGWsiZzJ9h6gbrPFY", 
+            "href": "https://api.spotify.com/v1/artists/39zgKjGWsiZzJ9h6gbrPFY", 
+            "type": "artist", 
+            "id": "39zgKjGWsiZzJ9h6gbrPFY"
+          }
+        ], 
+        "duration_ms": 154693, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "1jFDunb6hr8mkPipafNJdM"
+      }, 
+      {
+        "name": "Dragon Lady", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1tbtD4wqf5UW3BwkOsQWh5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/aea8335acaf8938fbb1d819aae32d2cbc49c14bd", 
+        "is_playable": true, 
+        "uri": "spotify:track:1tbtD4wqf5UW3BwkOsQWh5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1tbtD4wqf5UW3BwkOsQWh5", 
+        "artists": [
+          {
+            "name": "Germs", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/39zgKjGWsiZzJ9h6gbrPFY"
+            }, 
+            "uri": "spotify:artist:39zgKjGWsiZzJ9h6gbrPFY", 
+            "href": "https://api.spotify.com/v1/artists/39zgKjGWsiZzJ9h6gbrPFY", 
+            "type": "artist", 
+            "id": "39zgKjGWsiZzJ9h6gbrPFY"
+          }
+        ], 
+        "duration_ms": 99373, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "1tbtD4wqf5UW3BwkOsQWh5"
+      }, 
+      {
+        "name": "The Slave", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6QJwnwmP91mr6P3T4TsEhj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/02bef08732f12147d411ffa7e44f8ae710244af1", 
+        "is_playable": true, 
+        "uri": "spotify:track:6QJwnwmP91mr6P3T4TsEhj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6QJwnwmP91mr6P3T4TsEhj", 
+        "artists": [
+          {
+            "name": "Germs", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/39zgKjGWsiZzJ9h6gbrPFY"
+            }, 
+            "uri": "spotify:artist:39zgKjGWsiZzJ9h6gbrPFY", 
+            "href": "https://api.spotify.com/v1/artists/39zgKjGWsiZzJ9h6gbrPFY", 
+            "type": "artist", 
+            "id": "39zgKjGWsiZzJ9h6gbrPFY"
+          }
+        ], 
+        "duration_ms": 61933, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "6QJwnwmP91mr6P3T4TsEhj"
+      }, 
+      {
+        "name": "Shut Down [Annihilation Man]", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7f4cFi3LJy3U8OxnzrsAyp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d61c392e7eafe5c22a62069b40e4f50cb23884e7", 
+        "is_playable": true, 
+        "uri": "spotify:track:7f4cFi3LJy3U8OxnzrsAyp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7f4cFi3LJy3U8OxnzrsAyp", 
+        "artists": [
+          {
+            "name": "Germs", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/39zgKjGWsiZzJ9h6gbrPFY"
+            }, 
+            "uri": "spotify:artist:39zgKjGWsiZzJ9h6gbrPFY", 
+            "href": "https://api.spotify.com/v1/artists/39zgKjGWsiZzJ9h6gbrPFY", 
+            "type": "artist", 
+            "id": "39zgKjGWsiZzJ9h6gbrPFY"
+          }
+        ], 
+        "duration_ms": 580693, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "7f4cFi3LJy3U8OxnzrsAyp"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/1dwzhoYlTd5ZgPygszllwo/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 16, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/1dwzhoYlTd5ZgPygszllwo", 
+  "copyrights": [
+    {
+      "text": "1979 Slash Records", 
+      "type": "C"
+    }, 
+    {
+      "text": "1979 Slash Records, marketed in the United States and Canada by Rhino Entertainment Company, a Warner Music Group company", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Germs", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/39zgKjGWsiZzJ9h6gbrPFY"
+      }, 
+      "uri": "spotify:artist:39zgKjGWsiZzJ9h6gbrPFY", 
+      "href": "https://api.spotify.com/v1/artists/39zgKjGWsiZzJ9h6gbrPFY", 
+      "type": "artist", 
+      "id": "39zgKjGWsiZzJ9h6gbrPFY"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/4c70eb4df6faef318f853af344c94f81280372e3", 
+      "width": 612, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/8451424698a88ef2c7e2fd877e7a03d55267a083", 
+      "width": 287, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/d58ed456d0c98a9a8075943dfbd0a130f10ac21e", 
+      "width": 61, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "603497979622"
+  }, 
+  "type": "album", 
+  "id": "1dwzhoYlTd5ZgPygszllwo", 
+  "name": "GI"
+}

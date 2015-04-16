@@ -1,0 +1,487 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA"
+  }, 
+  "release_date": "2008-08-22", 
+  "popularity": 71, 
+  "genres": [], 
+  "uri": "spotify:album:0hFWapnP7orzXCMwNU5DuA", 
+  "tracks": {
+    "items": [
+      {
+        "name": ".execute.", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6MD0Qj81tJbQHx2rCHYIP3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/192d7e2f1c72bbab4af1a76d390592f1af436b6f", 
+        "is_playable": true, 
+        "uri": "spotify:track:6MD0Qj81tJbQHx2rCHYIP3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6MD0Qj81tJbQHx2rCHYIP3", 
+        "artists": [
+          {
+            "name": "Slipknot", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+            }, 
+            "uri": "spotify:artist:05fG473iIaoy82BF1aGhL8", 
+            "href": "https://api.spotify.com/v1/artists/05fG473iIaoy82BF1aGhL8", 
+            "type": "artist", 
+            "id": "05fG473iIaoy82BF1aGhL8"
+          }
+        ], 
+        "duration_ms": 108560, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "6MD0Qj81tJbQHx2rCHYIP3"
+      }, 
+      {
+        "name": "Gematria (The Killing Name)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5rAIqtGPZNiCojmpRjuZW5"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/eef088ee2824eba4d72678e6fba758733cfab411", 
+        "is_playable": true, 
+        "uri": "spotify:track:5rAIqtGPZNiCojmpRjuZW5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5rAIqtGPZNiCojmpRjuZW5", 
+        "artists": [
+          {
+            "name": "Slipknot", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+            }, 
+            "uri": "spotify:artist:05fG473iIaoy82BF1aGhL8", 
+            "href": "https://api.spotify.com/v1/artists/05fG473iIaoy82BF1aGhL8", 
+            "type": "artist", 
+            "id": "05fG473iIaoy82BF1aGhL8"
+          }
+        ], 
+        "duration_ms": 361533, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "5rAIqtGPZNiCojmpRjuZW5"
+      }, 
+      {
+        "name": "Sulfur", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4g3QZlvz39UllCcRXDZ0Do"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/089efdee75c43ce970796f4b5f254a3b90065296", 
+        "is_playable": true, 
+        "uri": "spotify:track:4g3QZlvz39UllCcRXDZ0Do", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4g3QZlvz39UllCcRXDZ0Do", 
+        "artists": [
+          {
+            "name": "Slipknot", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+            }, 
+            "uri": "spotify:artist:05fG473iIaoy82BF1aGhL8", 
+            "href": "https://api.spotify.com/v1/artists/05fG473iIaoy82BF1aGhL8", 
+            "type": "artist", 
+            "id": "05fG473iIaoy82BF1aGhL8"
+          }
+        ], 
+        "duration_ms": 277800, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "4g3QZlvz39UllCcRXDZ0Do"
+      }, 
+      {
+        "name": "Psychosocial", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2MvIMgtWyK88OiPi0J8Dg3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fb88f0f1f440e2335f31413dee966a436d506a83", 
+        "is_playable": true, 
+        "uri": "spotify:track:2MvIMgtWyK88OiPi0J8Dg3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2MvIMgtWyK88OiPi0J8Dg3", 
+        "artists": [
+          {
+            "name": "Slipknot", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+            }, 
+            "uri": "spotify:artist:05fG473iIaoy82BF1aGhL8", 
+            "href": "https://api.spotify.com/v1/artists/05fG473iIaoy82BF1aGhL8", 
+            "type": "artist", 
+            "id": "05fG473iIaoy82BF1aGhL8"
+          }
+        ], 
+        "duration_ms": 283813, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "2MvIMgtWyK88OiPi0J8Dg3"
+      }, 
+      {
+        "name": "Dead Memories", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0HAr4QR1xI8nwC7VfzYidu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/29bdeabc00ac8fe5515b13055bfdb725ccc13265", 
+        "is_playable": true, 
+        "uri": "spotify:track:0HAr4QR1xI8nwC7VfzYidu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0HAr4QR1xI8nwC7VfzYidu", 
+        "artists": [
+          {
+            "name": "Slipknot", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+            }, 
+            "uri": "spotify:artist:05fG473iIaoy82BF1aGhL8", 
+            "href": "https://api.spotify.com/v1/artists/05fG473iIaoy82BF1aGhL8", 
+            "type": "artist", 
+            "id": "05fG473iIaoy82BF1aGhL8"
+          }
+        ], 
+        "duration_ms": 268586, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "0HAr4QR1xI8nwC7VfzYidu"
+      }, 
+      {
+        "name": "Vendetta", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5frNnyWkKzKdiKPLhkdY9L"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9402cd6b08f38446d0be4bf0d871e526d1d35f27", 
+        "is_playable": true, 
+        "uri": "spotify:track:5frNnyWkKzKdiKPLhkdY9L", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5frNnyWkKzKdiKPLhkdY9L", 
+        "artists": [
+          {
+            "name": "Slipknot", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+            }, 
+            "uri": "spotify:artist:05fG473iIaoy82BF1aGhL8", 
+            "href": "https://api.spotify.com/v1/artists/05fG473iIaoy82BF1aGhL8", 
+            "type": "artist", 
+            "id": "05fG473iIaoy82BF1aGhL8"
+          }
+        ], 
+        "duration_ms": 315506, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "5frNnyWkKzKdiKPLhkdY9L"
+      }, 
+      {
+        "name": "Butcher's Hook", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0E96VyYWCyRC0gG9yvPFcu"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2bc398d090f6ab9209063c58fda46d6255510cb8", 
+        "is_playable": true, 
+        "uri": "spotify:track:0E96VyYWCyRC0gG9yvPFcu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0E96VyYWCyRC0gG9yvPFcu", 
+        "artists": [
+          {
+            "name": "Slipknot", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+            }, 
+            "uri": "spotify:artist:05fG473iIaoy82BF1aGhL8", 
+            "href": "https://api.spotify.com/v1/artists/05fG473iIaoy82BF1aGhL8", 
+            "type": "artist", 
+            "id": "05fG473iIaoy82BF1aGhL8"
+          }
+        ], 
+        "duration_ms": 254613, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "0E96VyYWCyRC0gG9yvPFcu"
+      }, 
+      {
+        "name": "Gehenna", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Xc5je0OAbXF8yhtXhdPEW"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f3de38b1a1b05d7880e5da9be414f0d762e2d988", 
+        "is_playable": true, 
+        "uri": "spotify:track:1Xc5je0OAbXF8yhtXhdPEW", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1Xc5je0OAbXF8yhtXhdPEW", 
+        "artists": [
+          {
+            "name": "Slipknot", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+            }, 
+            "uri": "spotify:artist:05fG473iIaoy82BF1aGhL8", 
+            "href": "https://api.spotify.com/v1/artists/05fG473iIaoy82BF1aGhL8", 
+            "type": "artist", 
+            "id": "05fG473iIaoy82BF1aGhL8"
+          }
+        ], 
+        "duration_ms": 413026, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "1Xc5je0OAbXF8yhtXhdPEW"
+      }, 
+      {
+        "name": "This Cold Black", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4EgPYu8GCjfXu2cp34e7Z0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/901624cdedf5c8ddc59a3ab2913255a0fda8b4ef", 
+        "is_playable": true, 
+        "uri": "spotify:track:4EgPYu8GCjfXu2cp34e7Z0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4EgPYu8GCjfXu2cp34e7Z0", 
+        "artists": [
+          {
+            "name": "Slipknot", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+            }, 
+            "uri": "spotify:artist:05fG473iIaoy82BF1aGhL8", 
+            "href": "https://api.spotify.com/v1/artists/05fG473iIaoy82BF1aGhL8", 
+            "type": "artist", 
+            "id": "05fG473iIaoy82BF1aGhL8"
+          }
+        ], 
+        "duration_ms": 280093, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "4EgPYu8GCjfXu2cp34e7Z0"
+      }, 
+      {
+        "name": "Wherein Lies Continue", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4nmXKnPOuMDVI8gVir3D9C"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/061a66160fb17171e993467e7135f2a209b175fd", 
+        "is_playable": true, 
+        "uri": "spotify:track:4nmXKnPOuMDVI8gVir3D9C", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4nmXKnPOuMDVI8gVir3D9C", 
+        "artists": [
+          {
+            "name": "Slipknot", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+            }, 
+            "uri": "spotify:artist:05fG473iIaoy82BF1aGhL8", 
+            "href": "https://api.spotify.com/v1/artists/05fG473iIaoy82BF1aGhL8", 
+            "type": "artist", 
+            "id": "05fG473iIaoy82BF1aGhL8"
+          }
+        ], 
+        "duration_ms": 336893, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "4nmXKnPOuMDVI8gVir3D9C"
+      }, 
+      {
+        "name": "Snuff", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3RptaQ5Xb8WvtpItZ2f9Hi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/71634e6acb95f5fbd7142d0128870c9915a1a07d", 
+        "is_playable": true, 
+        "uri": "spotify:track:3RptaQ5Xb8WvtpItZ2f9Hi", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3RptaQ5Xb8WvtpItZ2f9Hi", 
+        "artists": [
+          {
+            "name": "Slipknot", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+            }, 
+            "uri": "spotify:artist:05fG473iIaoy82BF1aGhL8", 
+            "href": "https://api.spotify.com/v1/artists/05fG473iIaoy82BF1aGhL8", 
+            "type": "artist", 
+            "id": "05fG473iIaoy82BF1aGhL8"
+          }
+        ], 
+        "duration_ms": 276146, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "3RptaQ5Xb8WvtpItZ2f9Hi"
+      }, 
+      {
+        "name": "All Hope Is Gone", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/431a6o9W8aYTQWNGmdgDm0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/beb1e6966552d4d3b5a9701a15073b06a0a220fb", 
+        "is_playable": true, 
+        "uri": "spotify:track:431a6o9W8aYTQWNGmdgDm0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/431a6o9W8aYTQWNGmdgDm0", 
+        "artists": [
+          {
+            "name": "Slipknot", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+            }, 
+            "uri": "spotify:artist:05fG473iIaoy82BF1aGhL8", 
+            "href": "https://api.spotify.com/v1/artists/05fG473iIaoy82BF1aGhL8", 
+            "type": "artist", 
+            "id": "05fG473iIaoy82BF1aGhL8"
+          }
+        ], 
+        "duration_ms": 284760, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "431a6o9W8aYTQWNGmdgDm0"
+      }, 
+      {
+        "name": "Child Of Burning Time", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2bUqWO1Q8SeILAS2YMA1oF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bf1cbb52f5c1f76becf09499f49a70757ad2de07", 
+        "is_playable": true, 
+        "uri": "spotify:track:2bUqWO1Q8SeILAS2YMA1oF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2bUqWO1Q8SeILAS2YMA1oF", 
+        "artists": [
+          {
+            "name": "Slipknot", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+            }, 
+            "uri": "spotify:artist:05fG473iIaoy82BF1aGhL8", 
+            "href": "https://api.spotify.com/v1/artists/05fG473iIaoy82BF1aGhL8", 
+            "type": "artist", 
+            "id": "05fG473iIaoy82BF1aGhL8"
+          }
+        ], 
+        "duration_ms": 309506, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "2bUqWO1Q8SeILAS2YMA1oF"
+      }, 
+      {
+        "name": "Vermilion Pt. 2 [Bloodstone Mix]", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2BhemxZQbpPgcqrgIMtxAk"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/06f2fb4444ad3c5415b70f921179f1f3c009998c", 
+        "is_playable": true, 
+        "uri": "spotify:track:2BhemxZQbpPgcqrgIMtxAk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2BhemxZQbpPgcqrgIMtxAk", 
+        "artists": [
+          {
+            "name": "Slipknot", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+            }, 
+            "uri": "spotify:artist:05fG473iIaoy82BF1aGhL8", 
+            "href": "https://api.spotify.com/v1/artists/05fG473iIaoy82BF1aGhL8", 
+            "type": "artist", 
+            "id": "05fG473iIaoy82BF1aGhL8"
+          }
+        ], 
+        "duration_ms": 219613, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "2BhemxZQbpPgcqrgIMtxAk"
+      }, 
+      {
+        "name": "'Til We Die", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7bhfCl1a1InaSy8NOWVswk"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/18f5ac92c2a375b1e0177c795f6eca088b03ecb0", 
+        "is_playable": true, 
+        "uri": "spotify:track:7bhfCl1a1InaSy8NOWVswk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7bhfCl1a1InaSy8NOWVswk", 
+        "artists": [
+          {
+            "name": "Slipknot", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+            }, 
+            "uri": "spotify:artist:05fG473iIaoy82BF1aGhL8", 
+            "href": "https://api.spotify.com/v1/artists/05fG473iIaoy82BF1aGhL8", 
+            "type": "artist", 
+            "id": "05fG473iIaoy82BF1aGhL8"
+          }
+        ], 
+        "duration_ms": 345693, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "7bhfCl1a1InaSy8NOWVswk"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/0hFWapnP7orzXCMwNU5DuA/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 15, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/0hFWapnP7orzXCMwNU5DuA", 
+  "copyrights": [
+    {
+      "text": "2008 The All Blacks U.S.A., Inc. Issued under license to The All Blacks U.S.A., Inc. from Atlantic Records. Roadrunner Records is a registered trademark of The All Blacks B.V.", 
+      "type": "C"
+    }, 
+    {
+      "text": "2008 The All Blacks U.S.A., Inc. Issued under license to The All Blacks U.S.A., Inc. from Atlantic Records. Roadrunner Records is a registered trademark of The All Blacks B.V.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Slipknot", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+      }, 
+      "uri": "spotify:artist:05fG473iIaoy82BF1aGhL8", 
+      "href": "https://api.spotify.com/v1/artists/05fG473iIaoy82BF1aGhL8", 
+      "type": "artist", 
+      "id": "05fG473iIaoy82BF1aGhL8"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/a7049dcc2f66fe38a36fec7b51633f4512345927", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/71678257b3f85b915d932500ec897d3c0d0ab02d", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/e3d73856d862886a1409b45f0549532d8f6a4dbf", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "016861793890"
+  }, 
+  "type": "album", 
+  "id": "0hFWapnP7orzXCMwNU5DuA", 
+  "name": "All Hope Is Gone"
+}

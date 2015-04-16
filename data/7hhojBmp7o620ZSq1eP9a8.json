@@ -1,0 +1,767 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7hhojBmp7o620ZSq1eP9a8"
+  }, 
+  "release_date": "1980-04-18", 
+  "popularity": 46, 
+  "genres": [], 
+  "uri": "spotify:album:7hhojBmp7o620ZSq1eP9a8", 
+  "tracks": {
+    "items": [
+      {
+        "name": "A Reflection", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7n4V9FuAunMxzzbyIvJEhs"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c0c95482032af711b78ea966abd2d8296212a3a7", 
+        "is_playable": true, 
+        "uri": "spotify:track:7n4V9FuAunMxzzbyIvJEhs", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7n4V9FuAunMxzzbyIvJEhs", 
+        "artists": [
+          {
+            "name": "The Cure", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+            }, 
+            "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s", 
+            "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s", 
+            "type": "artist", 
+            "id": "7bu3H8JO7d0UbMoVzbo70s"
+          }
+        ], 
+        "duration_ms": 132493, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "7n4V9FuAunMxzzbyIvJEhs"
+      }, 
+      {
+        "name": "Play For Today", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4wzrwNJ5cuiF5MhbIrPZQq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3573e03da8376b86070642d8a8c9d69ccce388f1", 
+        "is_playable": true, 
+        "uri": "spotify:track:4wzrwNJ5cuiF5MhbIrPZQq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4wzrwNJ5cuiF5MhbIrPZQq", 
+        "artists": [
+          {
+            "name": "The Cure", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+            }, 
+            "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s", 
+            "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s", 
+            "type": "artist", 
+            "id": "7bu3H8JO7d0UbMoVzbo70s"
+          }
+        ], 
+        "duration_ms": 219173, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "4wzrwNJ5cuiF5MhbIrPZQq"
+      }, 
+      {
+        "name": "Secrets", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4UnHeODuLgCNtCYBzDXDx9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/276c8c3bd26353ce21d335fb878bfe26f624082f", 
+        "is_playable": true, 
+        "uri": "spotify:track:4UnHeODuLgCNtCYBzDXDx9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4UnHeODuLgCNtCYBzDXDx9", 
+        "artists": [
+          {
+            "name": "The Cure", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+            }, 
+            "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s", 
+            "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s", 
+            "type": "artist", 
+            "id": "7bu3H8JO7d0UbMoVzbo70s"
+          }
+        ], 
+        "duration_ms": 200160, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "4UnHeODuLgCNtCYBzDXDx9"
+      }, 
+      {
+        "name": "In Your House", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/00YPicL0M7aAgSGkYaDGFh"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b12168f9d3cbf00106fbf469e48beb6998bea154", 
+        "is_playable": true, 
+        "uri": "spotify:track:00YPicL0M7aAgSGkYaDGFh", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/00YPicL0M7aAgSGkYaDGFh", 
+        "artists": [
+          {
+            "name": "The Cure", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+            }, 
+            "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s", 
+            "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s", 
+            "type": "artist", 
+            "id": "7bu3H8JO7d0UbMoVzbo70s"
+          }
+        ], 
+        "duration_ms": 246400, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "00YPicL0M7aAgSGkYaDGFh"
+      }, 
+      {
+        "name": "Three", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4UoHeoAS8aMpwzWf3Z2D6r"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/266aab346910216ff2b89df5b3cae07d77de9468", 
+        "is_playable": true, 
+        "uri": "spotify:track:4UoHeoAS8aMpwzWf3Z2D6r", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4UoHeoAS8aMpwzWf3Z2D6r", 
+        "artists": [
+          {
+            "name": "The Cure", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+            }, 
+            "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s", 
+            "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s", 
+            "type": "artist", 
+            "id": "7bu3H8JO7d0UbMoVzbo70s"
+          }
+        ], 
+        "duration_ms": 156200, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "4UoHeoAS8aMpwzWf3Z2D6r"
+      }, 
+      {
+        "name": "The Final Sound", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2JgiqaN9Gr42p9lAVqvQmB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/00bd5e0388afc0cbe9f360671ac436b1c71c0c96", 
+        "is_playable": true, 
+        "uri": "spotify:track:2JgiqaN9Gr42p9lAVqvQmB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2JgiqaN9Gr42p9lAVqvQmB", 
+        "artists": [
+          {
+            "name": "The Cure", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+            }, 
+            "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s", 
+            "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s", 
+            "type": "artist", 
+            "id": "7bu3H8JO7d0UbMoVzbo70s"
+          }
+        ], 
+        "duration_ms": 52306, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "2JgiqaN9Gr42p9lAVqvQmB"
+      }, 
+      {
+        "name": "A Forest", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0T6kwiueP62ten2KLLmQS4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f599ea0a68efc31a16d26da7c1123a7b555f8381", 
+        "is_playable": true, 
+        "uri": "spotify:track:0T6kwiueP62ten2KLLmQS4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0T6kwiueP62ten2KLLmQS4", 
+        "artists": [
+          {
+            "name": "The Cure", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+            }, 
+            "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s", 
+            "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s", 
+            "type": "artist", 
+            "id": "7bu3H8JO7d0UbMoVzbo70s"
+          }
+        ], 
+        "duration_ms": 354290, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "0T6kwiueP62ten2KLLmQS4"
+      }, 
+      {
+        "name": "M", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Pl2i0kUgrzudlv8f8wlcH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1482589252cf30c6c958128b6e64ee6e976f94ed", 
+        "is_playable": true, 
+        "uri": "spotify:track:5Pl2i0kUgrzudlv8f8wlcH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5Pl2i0kUgrzudlv8f8wlcH", 
+        "artists": [
+          {
+            "name": "The Cure", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+            }, 
+            "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s", 
+            "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s", 
+            "type": "artist", 
+            "id": "7bu3H8JO7d0UbMoVzbo70s"
+          }
+        ], 
+        "duration_ms": 183426, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "5Pl2i0kUgrzudlv8f8wlcH"
+      }, 
+      {
+        "name": "At Night", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1D1EDmuHtmf58XBScV6UHt"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f166e8731982eafddcb67bd89ee3ba3cb6f1d431", 
+        "is_playable": true, 
+        "uri": "spotify:track:1D1EDmuHtmf58XBScV6UHt", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1D1EDmuHtmf58XBScV6UHt", 
+        "artists": [
+          {
+            "name": "The Cure", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+            }, 
+            "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s", 
+            "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s", 
+            "type": "artist", 
+            "id": "7bu3H8JO7d0UbMoVzbo70s"
+          }
+        ], 
+        "duration_ms": 354197, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "1D1EDmuHtmf58XBScV6UHt"
+      }, 
+      {
+        "name": "Seventeen Seconds", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2iuPbN9JoWf2lfMyRPPbrW"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8ec044b4fbf9a040ec8c8284603c4d63d158b5e0", 
+        "is_playable": true, 
+        "uri": "spotify:track:2iuPbN9JoWf2lfMyRPPbrW", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2iuPbN9JoWf2lfMyRPPbrW", 
+        "artists": [
+          {
+            "name": "The Cure", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+            }, 
+            "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s", 
+            "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s", 
+            "type": "artist", 
+            "id": "7bu3H8JO7d0UbMoVzbo70s"
+          }
+        ], 
+        "duration_ms": 240372, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "2iuPbN9JoWf2lfMyRPPbrW"
+      }, 
+      {
+        "name": "I'm A Cult Hero", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2iefm2BXsvYyMWKVavpLdB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a7bf86484a97a357b6a6aa50bea5d67f545834ff", 
+        "is_playable": true, 
+        "uri": "spotify:track:2iefm2BXsvYyMWKVavpLdB", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/2iefm2BXsvYyMWKVavpLdB", 
+        "artists": [
+          {
+            "name": "Cult Hero", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2j79xceNizMi1wtnPSAPqz"
+            }, 
+            "uri": "spotify:artist:2j79xceNizMi1wtnPSAPqz", 
+            "href": "https://api.spotify.com/v1/artists/2j79xceNizMi1wtnPSAPqz", 
+            "type": "artist", 
+            "id": "2j79xceNizMi1wtnPSAPqz"
+          }
+        ], 
+        "duration_ms": 177813, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "2iefm2BXsvYyMWKVavpLdB"
+      }, 
+      {
+        "name": "I Dig You", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6n9ayp2UlPhh825iihcC6N"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2b5c3b6dc699d2ed123e1ef3ff80f42b662edc0e", 
+        "is_playable": true, 
+        "uri": "spotify:track:6n9ayp2UlPhh825iihcC6N", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6n9ayp2UlPhh825iihcC6N", 
+        "artists": [
+          {
+            "name": "Cult Hero", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2j79xceNizMi1wtnPSAPqz"
+            }, 
+            "uri": "spotify:artist:2j79xceNizMi1wtnPSAPqz", 
+            "href": "https://api.spotify.com/v1/artists/2j79xceNizMi1wtnPSAPqz", 
+            "type": "artist", 
+            "id": "2j79xceNizMi1wtnPSAPqz"
+          }
+        ], 
+        "duration_ms": 203666, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "6n9ayp2UlPhh825iihcC6N"
+      }, 
+      {
+        "name": "Another Journey By Train (AKA 44F) - Group Home Instrumental Demo 1/80", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7LqCbTTvM8I1akoKtEtxat"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ed5bcf80281a0b842a45899e94538d3f33720681", 
+        "is_playable": true, 
+        "uri": "spotify:track:7LqCbTTvM8I1akoKtEtxat", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/7LqCbTTvM8I1akoKtEtxat", 
+        "artists": [
+          {
+            "name": "The Cure", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+            }, 
+            "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s", 
+            "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s", 
+            "type": "artist", 
+            "id": "7bu3H8JO7d0UbMoVzbo70s"
+          }
+        ], 
+        "duration_ms": 190306, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "7LqCbTTvM8I1akoKtEtxat"
+      }, 
+      {
+        "name": "Secrets - Group Home Instrumental Demo 1/80", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1r9eRQEuKEpJKpb736Rzb2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4e20b5e11d3c1f5150c7b1d0f2f6f006d40dbb76", 
+        "is_playable": true, 
+        "uri": "spotify:track:1r9eRQEuKEpJKpb736Rzb2", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1r9eRQEuKEpJKpb736Rzb2", 
+        "artists": [
+          {
+            "name": "The Cure", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+            }, 
+            "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s", 
+            "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s", 
+            "type": "artist", 
+            "id": "7bu3H8JO7d0UbMoVzbo70s"
+          }
+        ], 
+        "duration_ms": 219093, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "1r9eRQEuKEpJKpb736Rzb2"
+      }, 
+      {
+        "name": "Seventeen Seconds - Live In Amsterdam 1/80", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5cNz75qhL6uFTGQOeOnwkA"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9820285103afc5139b1a3aadfc85d4a5e25d9bf7", 
+        "is_playable": true, 
+        "uri": "spotify:track:5cNz75qhL6uFTGQOeOnwkA", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5cNz75qhL6uFTGQOeOnwkA", 
+        "artists": [
+          {
+            "name": "The Cure", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+            }, 
+            "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s", 
+            "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s", 
+            "type": "artist", 
+            "id": "7bu3H8JO7d0UbMoVzbo70s"
+          }
+        ], 
+        "duration_ms": 238026, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "5cNz75qhL6uFTGQOeOnwkA"
+      }, 
+      {
+        "name": "In Your House - Live In Amsterdam 1/80", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2YNGd5SByOC8GWMrRW8r9t"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2d49c3a681867bbc1bd0853ac92bd5be591fd620", 
+        "is_playable": true, 
+        "uri": "spotify:track:2YNGd5SByOC8GWMrRW8r9t", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/2YNGd5SByOC8GWMrRW8r9t", 
+        "artists": [
+          {
+            "name": "The Cure", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+            }, 
+            "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s", 
+            "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s", 
+            "type": "artist", 
+            "id": "7bu3H8JO7d0UbMoVzbo70s"
+          }
+        ], 
+        "duration_ms": 210866, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "2YNGd5SByOC8GWMrRW8r9t"
+      }, 
+      {
+        "name": "Three - Alternative Studio Mix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3phrWb4reH8WlQaM1nfFyE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/579bd34a93423578bad87afc56471a6aede58fa0", 
+        "is_playable": true, 
+        "uri": "spotify:track:3phrWb4reH8WlQaM1nfFyE", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/3phrWb4reH8WlQaM1nfFyE", 
+        "artists": [
+          {
+            "name": "The Cure", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+            }, 
+            "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s", 
+            "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s", 
+            "type": "artist", 
+            "id": "7bu3H8JO7d0UbMoVzbo70s"
+          }
+        ], 
+        "duration_ms": 163893, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "3phrWb4reH8WlQaM1nfFyE"
+      }, 
+      {
+        "name": "I Dig You - Live In The Marquee Club London 03/80", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Ee4Zh2hWJkvSqyc15Vxzi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/30ee0e65b57f80505830a680c1578d30d365000d", 
+        "is_playable": true, 
+        "uri": "spotify:track:6Ee4Zh2hWJkvSqyc15Vxzi", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6Ee4Zh2hWJkvSqyc15Vxzi", 
+        "artists": [
+          {
+            "name": "Cult Hero", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2j79xceNizMi1wtnPSAPqz"
+            }, 
+            "uri": "spotify:artist:2j79xceNizMi1wtnPSAPqz", 
+            "href": "https://api.spotify.com/v1/artists/2j79xceNizMi1wtnPSAPqz", 
+            "type": "artist", 
+            "id": "2j79xceNizMi1wtnPSAPqz"
+          }
+        ], 
+        "duration_ms": 216781, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "6Ee4Zh2hWJkvSqyc15Vxzi"
+      }, 
+      {
+        "name": "I'm A Cult Hero - Live In The Marquee Club London 03/80", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5ljHR18KTQUwEeRUytbnVC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/680b2bce83748f342bd7ea7881a7f93cb67abded", 
+        "is_playable": true, 
+        "uri": "spotify:track:5ljHR18KTQUwEeRUytbnVC", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5ljHR18KTQUwEeRUytbnVC", 
+        "artists": [
+          {
+            "name": "Cult Hero", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2j79xceNizMi1wtnPSAPqz"
+            }, 
+            "uri": "spotify:artist:2j79xceNizMi1wtnPSAPqz", 
+            "href": "https://api.spotify.com/v1/artists/2j79xceNizMi1wtnPSAPqz", 
+            "type": "artist", 
+            "id": "2j79xceNizMi1wtnPSAPqz"
+          }
+        ], 
+        "duration_ms": 199653, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "5ljHR18KTQUwEeRUytbnVC"
+      }, 
+      {
+        "name": "M - Live In Arnhem 05/80", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0u1sZGuKmXp4MLDdNAxsB7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/be5377b95e944acfb4946dedffc5731464e81b30", 
+        "is_playable": true, 
+        "uri": "spotify:track:0u1sZGuKmXp4MLDdNAxsB7", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/0u1sZGuKmXp4MLDdNAxsB7", 
+        "artists": [
+          {
+            "name": "The Cure", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+            }, 
+            "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s", 
+            "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s", 
+            "type": "artist", 
+            "id": "7bu3H8JO7d0UbMoVzbo70s"
+          }
+        ], 
+        "duration_ms": 175000, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "0u1sZGuKmXp4MLDdNAxsB7"
+      }, 
+      {
+        "name": "The Final Sound - Live In France 06/80", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1wdVPkfa8wliBl34P4S6BP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/aaf337f2cfaf1b866facff6021428b39b1e02360", 
+        "is_playable": true, 
+        "uri": "spotify:track:1wdVPkfa8wliBl34P4S6BP", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1wdVPkfa8wliBl34P4S6BP", 
+        "artists": [
+          {
+            "name": "The Cure", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+            }, 
+            "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s", 
+            "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s", 
+            "type": "artist", 
+            "id": "7bu3H8JO7d0UbMoVzbo70s"
+          }
+        ], 
+        "duration_ms": 26702, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "1wdVPkfa8wliBl34P4S6BP"
+      }, 
+      {
+        "name": "A Reflection - Live In France 06/80", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7uPnow8MNHr7M0dR4muEf7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8e27dcb0ef87a4b91ba8d73f03561b3deaf498d3", 
+        "is_playable": true, 
+        "uri": "spotify:track:7uPnow8MNHr7M0dR4muEf7", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/7uPnow8MNHr7M0dR4muEf7", 
+        "artists": [
+          {
+            "name": "The Cure", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+            }, 
+            "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s", 
+            "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s", 
+            "type": "artist", 
+            "id": "7bu3H8JO7d0UbMoVzbo70s"
+          }
+        ], 
+        "duration_ms": 99706, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "7uPnow8MNHr7M0dR4muEf7"
+      }, 
+      {
+        "name": "Play For Today - Live In France 06/80", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0RjsFquNPVIF1qcMIa16gw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3346e30181caac5134496196dc90ecec990778b3", 
+        "is_playable": true, 
+        "uri": "spotify:track:0RjsFquNPVIF1qcMIa16gw", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/0RjsFquNPVIF1qcMIa16gw", 
+        "artists": [
+          {
+            "name": "The Cure", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+            }, 
+            "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s", 
+            "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s", 
+            "type": "artist", 
+            "id": "7bu3H8JO7d0UbMoVzbo70s"
+          }
+        ], 
+        "duration_ms": 224466, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "0RjsFquNPVIF1qcMIa16gw"
+      }, 
+      {
+        "name": "At Night - Live In France 06/80", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Atq3LRqD9P69tgvuHenuD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ea2f0890ce397c008d227db518999e916c2267f1", 
+        "is_playable": true, 
+        "uri": "spotify:track:4Atq3LRqD9P69tgvuHenuD", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4Atq3LRqD9P69tgvuHenuD", 
+        "artists": [
+          {
+            "name": "The Cure", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+            }, 
+            "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s", 
+            "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s", 
+            "type": "artist", 
+            "id": "7bu3H8JO7d0UbMoVzbo70s"
+          }
+        ], 
+        "duration_ms": 336173, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "4Atq3LRqD9P69tgvuHenuD"
+      }, 
+      {
+        "name": "A Forest - Live In France 06/80", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Mdfos5nLIKGYmuKBwkOdS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1044e63a30d2661c77066e6573d0fa4f3738bae6", 
+        "is_playable": true, 
+        "uri": "spotify:track:5Mdfos5nLIKGYmuKBwkOdS", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5Mdfos5nLIKGYmuKBwkOdS", 
+        "artists": [
+          {
+            "name": "The Cure", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+            }, 
+            "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s", 
+            "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s", 
+            "type": "artist", 
+            "id": "7bu3H8JO7d0UbMoVzbo70s"
+          }
+        ], 
+        "duration_ms": 388840, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "5Mdfos5nLIKGYmuKBwkOdS"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/7hhojBmp7o620ZSq1eP9a8/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 25, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/7hhojBmp7o620ZSq1eP9a8", 
+  "copyrights": [
+    {
+      "text": "(C) 2005 Fiction Records Ltd.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 2005 Fiction Records Ltd.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "The Cure", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+      }, 
+      "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s", 
+      "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s", 
+      "type": "artist", 
+      "id": "7bu3H8JO7d0UbMoVzbo70s"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/3955f24f33a28d63ac5865449328009b0bcf467d", 
+      "width": 640, 
+      "height": 574
+    }, 
+    {
+      "url": "https://i.scdn.co/image/a4af3f6531a17d8b739d06da55c15278ccb8ed95", 
+      "width": 300, 
+      "height": 269
+    }, 
+    {
+      "url": "https://i.scdn.co/image/8e4aa68dada4eae98fe099006c07c58f0d37432e", 
+      "width": 64, 
+      "height": 57
+    }
+  ], 
+  "external_ids": {
+    "upc": "00602498218310"
+  }, 
+  "type": "album", 
+  "id": "7hhojBmp7o620ZSq1eP9a8", 
+  "name": "Seventeen Seconds (Deluxe Edition)"
+}

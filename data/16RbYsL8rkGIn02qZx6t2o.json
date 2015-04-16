@@ -1,0 +1,515 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/16RbYsL8rkGIn02qZx6t2o"
+  }, 
+  "release_date": "1993", 
+  "popularity": 45, 
+  "genres": [], 
+  "uri": "spotify:album:16RbYsL8rkGIn02qZx6t2o", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Sunflower", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3jNiTRBaeL75zWFRWf2W6j"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e789a31dca7b10141acc1fb21d2275e1ee5631fb", 
+        "is_playable": true, 
+        "uri": "spotify:track:3jNiTRBaeL75zWFRWf2W6j", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3jNiTRBaeL75zWFRWf2W6j", 
+        "artists": [
+          {
+            "name": "Paul Weller", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH"
+            }, 
+            "uri": "spotify:artist:7Lf3LOZp3U3u2f6cWMd3AH", 
+            "href": "https://api.spotify.com/v1/artists/7Lf3LOZp3U3u2f6cWMd3AH", 
+            "type": "artist", 
+            "id": "7Lf3LOZp3U3u2f6cWMd3AH"
+          }
+        ], 
+        "duration_ms": 246173, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "3jNiTRBaeL75zWFRWf2W6j"
+      }, 
+      {
+        "name": "Can You Heal Us (Holy Man)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3lkdTBzx9jWOF36moGqRp7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/54d87305645b2e3ed309c5288ab4778ca976165a", 
+        "is_playable": true, 
+        "uri": "spotify:track:3lkdTBzx9jWOF36moGqRp7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3lkdTBzx9jWOF36moGqRp7", 
+        "artists": [
+          {
+            "name": "Paul Weller", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH"
+            }, 
+            "uri": "spotify:artist:7Lf3LOZp3U3u2f6cWMd3AH", 
+            "href": "https://api.spotify.com/v1/artists/7Lf3LOZp3U3u2f6cWMd3AH", 
+            "type": "artist", 
+            "id": "7Lf3LOZp3U3u2f6cWMd3AH"
+          }
+        ], 
+        "duration_ms": 221733, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "3lkdTBzx9jWOF36moGqRp7"
+      }, 
+      {
+        "name": "Wild Wood", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6YV6egaDLNWSxHenzsWE1y"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/06e9476bb998c9a3e3749bf8a8ea314d1aeb9d0b", 
+        "is_playable": true, 
+        "uri": "spotify:track:6YV6egaDLNWSxHenzsWE1y", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6YV6egaDLNWSxHenzsWE1y", 
+        "artists": [
+          {
+            "name": "Paul Weller", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH"
+            }, 
+            "uri": "spotify:artist:7Lf3LOZp3U3u2f6cWMd3AH", 
+            "href": "https://api.spotify.com/v1/artists/7Lf3LOZp3U3u2f6cWMd3AH", 
+            "type": "artist", 
+            "id": "7Lf3LOZp3U3u2f6cWMd3AH"
+          }
+        ], 
+        "duration_ms": 202400, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "6YV6egaDLNWSxHenzsWE1y"
+      }, 
+      {
+        "name": "Instrumental - Pt. 1", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/27Clc1Vbqi3dWw0UG6RdCa"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9593ce41e00e7fe4f919ce67e979589cdeab74d4", 
+        "is_playable": true, 
+        "uri": "spotify:track:27Clc1Vbqi3dWw0UG6RdCa", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/27Clc1Vbqi3dWw0UG6RdCa", 
+        "artists": [
+          {
+            "name": "Paul Weller", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH"
+            }, 
+            "uri": "spotify:artist:7Lf3LOZp3U3u2f6cWMd3AH", 
+            "href": "https://api.spotify.com/v1/artists/7Lf3LOZp3U3u2f6cWMd3AH", 
+            "type": "artist", 
+            "id": "7Lf3LOZp3U3u2f6cWMd3AH"
+          }
+        ], 
+        "duration_ms": 97226, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "27Clc1Vbqi3dWw0UG6RdCa"
+      }, 
+      {
+        "name": "All The Pictures On The Wall", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0hq7C0BMZPOs7WlwM1utzK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/65836bb8bcb27c5b8451c4102656d62877635942", 
+        "is_playable": true, 
+        "uri": "spotify:track:0hq7C0BMZPOs7WlwM1utzK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0hq7C0BMZPOs7WlwM1utzK", 
+        "artists": [
+          {
+            "name": "Paul Weller", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH"
+            }, 
+            "uri": "spotify:artist:7Lf3LOZp3U3u2f6cWMd3AH", 
+            "href": "https://api.spotify.com/v1/artists/7Lf3LOZp3U3u2f6cWMd3AH", 
+            "type": "artist", 
+            "id": "7Lf3LOZp3U3u2f6cWMd3AH"
+          }
+        ], 
+        "duration_ms": 236600, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "0hq7C0BMZPOs7WlwM1utzK"
+      }, 
+      {
+        "name": "Has My Fire Really Gone Out?", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2R3GETPT25A1uCnNkGD4PO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f392b5ccf2a7d8c6471cc37936e7ab5a06ba5d09", 
+        "is_playable": true, 
+        "uri": "spotify:track:2R3GETPT25A1uCnNkGD4PO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2R3GETPT25A1uCnNkGD4PO", 
+        "artists": [
+          {
+            "name": "Paul Weller", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH"
+            }, 
+            "uri": "spotify:artist:7Lf3LOZp3U3u2f6cWMd3AH", 
+            "href": "https://api.spotify.com/v1/artists/7Lf3LOZp3U3u2f6cWMd3AH", 
+            "type": "artist", 
+            "id": "7Lf3LOZp3U3u2f6cWMd3AH"
+          }
+        ], 
+        "duration_ms": 230906, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "2R3GETPT25A1uCnNkGD4PO"
+      }, 
+      {
+        "name": "Country", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7rpwFmpkBM8K0o98KxY0Ig"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9e72fc7d55e10b555a61b03f6dcd24f1e53fc5d0", 
+        "is_playable": true, 
+        "uri": "spotify:track:7rpwFmpkBM8K0o98KxY0Ig", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7rpwFmpkBM8K0o98KxY0Ig", 
+        "artists": [
+          {
+            "name": "Paul Weller", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH"
+            }, 
+            "uri": "spotify:artist:7Lf3LOZp3U3u2f6cWMd3AH", 
+            "href": "https://api.spotify.com/v1/artists/7Lf3LOZp3U3u2f6cWMd3AH", 
+            "type": "artist", 
+            "id": "7Lf3LOZp3U3u2f6cWMd3AH"
+          }
+        ], 
+        "duration_ms": 219426, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "7rpwFmpkBM8K0o98KxY0Ig"
+      }, 
+      {
+        "name": "Instrumental Two", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0BPtbLYC8DM4kT9Pip35yN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/decb9aa659c5729bf43c51176f3e1c8d6bdc3ad5", 
+        "is_playable": true, 
+        "uri": "spotify:track:0BPtbLYC8DM4kT9Pip35yN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0BPtbLYC8DM4kT9Pip35yN", 
+        "artists": [
+          {
+            "name": "Paul Weller", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH"
+            }, 
+            "uri": "spotify:artist:7Lf3LOZp3U3u2f6cWMd3AH", 
+            "href": "https://api.spotify.com/v1/artists/7Lf3LOZp3U3u2f6cWMd3AH", 
+            "type": "artist", 
+            "id": "7Lf3LOZp3U3u2f6cWMd3AH"
+          }
+        ], 
+        "duration_ms": 49666, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "0BPtbLYC8DM4kT9Pip35yN"
+      }, 
+      {
+        "name": "5th Season", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/443LF0Afgo01YIOZ3qNAhY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/97d57752ce28885295309aa1418fabead70966c8", 
+        "is_playable": true, 
+        "uri": "spotify:track:443LF0Afgo01YIOZ3qNAhY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/443LF0Afgo01YIOZ3qNAhY", 
+        "artists": [
+          {
+            "name": "Paul Weller", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH"
+            }, 
+            "uri": "spotify:artist:7Lf3LOZp3U3u2f6cWMd3AH", 
+            "href": "https://api.spotify.com/v1/artists/7Lf3LOZp3U3u2f6cWMd3AH", 
+            "type": "artist", 
+            "id": "7Lf3LOZp3U3u2f6cWMd3AH"
+          }
+        ], 
+        "duration_ms": 291400, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "443LF0Afgo01YIOZ3qNAhY"
+      }, 
+      {
+        "name": "The Weaver", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6EUYl4LQ4OaZq7ptmecD7y"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3c1d8d40ffdea43c62719ec2a5fd78fadbb5fd83", 
+        "is_playable": true, 
+        "uri": "spotify:track:6EUYl4LQ4OaZq7ptmecD7y", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6EUYl4LQ4OaZq7ptmecD7y", 
+        "artists": [
+          {
+            "name": "Paul Weller", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH"
+            }, 
+            "uri": "spotify:artist:7Lf3LOZp3U3u2f6cWMd3AH", 
+            "href": "https://api.spotify.com/v1/artists/7Lf3LOZp3U3u2f6cWMd3AH", 
+            "type": "artist", 
+            "id": "7Lf3LOZp3U3u2f6cWMd3AH"
+          }
+        ], 
+        "duration_ms": 222373, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "6EUYl4LQ4OaZq7ptmecD7y"
+      }, 
+      {
+        "name": "Instrumental - Pt. 2", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/25q5ogKuYHWqbeUmHCojiK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9c6082a90ffb7d820e5aafa9788f259b7c273b46", 
+        "is_playable": true, 
+        "uri": "spotify:track:25q5ogKuYHWqbeUmHCojiK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/25q5ogKuYHWqbeUmHCojiK", 
+        "artists": [
+          {
+            "name": "Paul Weller", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH"
+            }, 
+            "uri": "spotify:artist:7Lf3LOZp3U3u2f6cWMd3AH", 
+            "href": "https://api.spotify.com/v1/artists/7Lf3LOZp3U3u2f6cWMd3AH", 
+            "type": "artist", 
+            "id": "7Lf3LOZp3U3u2f6cWMd3AH"
+          }
+        ], 
+        "duration_ms": 34293, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "25q5ogKuYHWqbeUmHCojiK"
+      }, 
+      {
+        "name": "Foot Of The Mountain", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3TEQ0zG4OH2c30mK39Ay77"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c7295cbc73872840c142c77fd537c435213492ad", 
+        "is_playable": true, 
+        "uri": "spotify:track:3TEQ0zG4OH2c30mK39Ay77", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3TEQ0zG4OH2c30mK39Ay77", 
+        "artists": [
+          {
+            "name": "Paul Weller", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH"
+            }, 
+            "uri": "spotify:artist:7Lf3LOZp3U3u2f6cWMd3AH", 
+            "href": "https://api.spotify.com/v1/artists/7Lf3LOZp3U3u2f6cWMd3AH", 
+            "type": "artist", 
+            "id": "7Lf3LOZp3U3u2f6cWMd3AH"
+          }
+        ], 
+        "duration_ms": 217800, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "3TEQ0zG4OH2c30mK39Ay77"
+      }, 
+      {
+        "name": "Shadow Of The Sun", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6IBMVFmzPu3CQxeHtAF5RM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7c6ca136dd2e53ac9a8405a1e73ca63429ce366b", 
+        "is_playable": true, 
+        "uri": "spotify:track:6IBMVFmzPu3CQxeHtAF5RM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6IBMVFmzPu3CQxeHtAF5RM", 
+        "artists": [
+          {
+            "name": "Paul Weller", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH"
+            }, 
+            "uri": "spotify:artist:7Lf3LOZp3U3u2f6cWMd3AH", 
+            "href": "https://api.spotify.com/v1/artists/7Lf3LOZp3U3u2f6cWMd3AH", 
+            "type": "artist", 
+            "id": "7Lf3LOZp3U3u2f6cWMd3AH"
+          }
+        ], 
+        "duration_ms": 456640, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "6IBMVFmzPu3CQxeHtAF5RM"
+      }, 
+      {
+        "name": "Holy Man - Reprise", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5sZ3JXmIOqw9eybGrd3MlV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9e533035b0d926ae6c494981b10e0fb73b693670", 
+        "is_playable": true, 
+        "uri": "spotify:track:5sZ3JXmIOqw9eybGrd3MlV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5sZ3JXmIOqw9eybGrd3MlV", 
+        "artists": [
+          {
+            "name": "Paul Weller", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH"
+            }, 
+            "uri": "spotify:artist:7Lf3LOZp3U3u2f6cWMd3AH", 
+            "href": "https://api.spotify.com/v1/artists/7Lf3LOZp3U3u2f6cWMd3AH", 
+            "type": "artist", 
+            "id": "7Lf3LOZp3U3u2f6cWMd3AH"
+          }
+        ], 
+        "duration_ms": 110733, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "5sZ3JXmIOqw9eybGrd3MlV"
+      }, 
+      {
+        "name": "Moon On Your Pyjamas", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1zHtgtsfW2BzgRAU1K0Coo"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cc9265ff9207e3da00359c832f43727c706adc43", 
+        "is_playable": true, 
+        "uri": "spotify:track:1zHtgtsfW2BzgRAU1K0Coo", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1zHtgtsfW2BzgRAU1K0Coo", 
+        "artists": [
+          {
+            "name": "Paul Weller", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH"
+            }, 
+            "uri": "spotify:artist:7Lf3LOZp3U3u2f6cWMd3AH", 
+            "href": "https://api.spotify.com/v1/artists/7Lf3LOZp3U3u2f6cWMd3AH", 
+            "type": "artist", 
+            "id": "7Lf3LOZp3U3u2f6cWMd3AH"
+          }
+        ], 
+        "duration_ms": 239600, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "1zHtgtsfW2BzgRAU1K0Coo"
+      }, 
+      {
+        "name": "Hung Up", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2DxwKzlI9yMyWMpgNUCvfv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/231d77fd5b78bb278191a24df8d5dc4e145ca685", 
+        "is_playable": true, 
+        "uri": "spotify:track:2DxwKzlI9yMyWMpgNUCvfv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2DxwKzlI9yMyWMpgNUCvfv", 
+        "artists": [
+          {
+            "name": "Paul Weller", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH"
+            }, 
+            "uri": "spotify:artist:7Lf3LOZp3U3u2f6cWMd3AH", 
+            "href": "https://api.spotify.com/v1/artists/7Lf3LOZp3U3u2f6cWMd3AH", 
+            "type": "artist", 
+            "id": "7Lf3LOZp3U3u2f6cWMd3AH"
+          }
+        ], 
+        "duration_ms": 160133, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "2DxwKzlI9yMyWMpgNUCvfv"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/16RbYsL8rkGIn02qZx6t2o/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 16, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/16RbYsL8rkGIn02qZx6t2o", 
+  "copyrights": [
+    {
+      "text": "(C) 1994 Go! Discs Ltd.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1994 Go! Discs Ltd.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Paul Weller", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH"
+      }, 
+      "uri": "spotify:artist:7Lf3LOZp3U3u2f6cWMd3AH", 
+      "href": "https://api.spotify.com/v1/artists/7Lf3LOZp3U3u2f6cWMd3AH", 
+      "type": "artist", 
+      "id": "7Lf3LOZp3U3u2f6cWMd3AH"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/6355798028fb4a7dc1999fbd72a7dc39a91e4876", 
+      "width": 640, 
+      "height": 634
+    }, 
+    {
+      "url": "https://i.scdn.co/image/f52e4c71b0f329198a24d155e18421e83b0831f9", 
+      "width": 300, 
+      "height": 297
+    }, 
+    {
+      "url": "https://i.scdn.co/image/19d08e062e42e710723c24bfb106c17700f2d97b", 
+      "width": 64, 
+      "height": 63
+    }
+  ], 
+  "external_ids": {
+    "upc": "00042282851321"
+  }, 
+  "type": "album", 
+  "id": "16RbYsL8rkGIn02qZx6t2o", 
+  "name": "Wild Wood"
+}

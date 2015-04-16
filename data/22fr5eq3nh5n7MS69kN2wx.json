@@ -1,0 +1,991 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/22fr5eq3nh5n7MS69kN2wx"
+  }, 
+  "release_date": "1980-11-28", 
+  "popularity": 45, 
+  "genres": [], 
+  "uri": "spotify:album:22fr5eq3nh5n7MS69kN2wx", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Pretty Green - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5EdfFA8R8lojKwi8ZgxpSS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/98eafc5b40d607a3b8b62a316b86ebd587e708f1", 
+        "is_playable": true, 
+        "uri": "spotify:track:5EdfFA8R8lojKwi8ZgxpSS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5EdfFA8R8lojKwi8ZgxpSS", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 155173, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "5EdfFA8R8lojKwi8ZgxpSS"
+      }, 
+      {
+        "name": "Monday - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5WWd880QNZwp2kLXjt5Ivk"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e886b3037dcb7d91ceca503c28c69703caaa0283", 
+        "is_playable": true, 
+        "uri": "spotify:track:5WWd880QNZwp2kLXjt5Ivk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5WWd880QNZwp2kLXjt5Ivk", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 178893, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "5WWd880QNZwp2kLXjt5Ivk"
+      }, 
+      {
+        "name": "But I'm Different Now - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6uXDLb62T4la7AFKnTB3io"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4efe3550cdf16599fd0c8af999f96ac0293eb28e", 
+        "is_playable": true, 
+        "uri": "spotify:track:6uXDLb62T4la7AFKnTB3io", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6uXDLb62T4la7AFKnTB3io", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 109493, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "6uXDLb62T4la7AFKnTB3io"
+      }, 
+      {
+        "name": "Set The House Ablaze - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2sllC8CKJ7XaiSFIlkrgH8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e5d9301e8f426aae703e6362e4bc2eac3ffcc4b8", 
+        "is_playable": true, 
+        "uri": "spotify:track:2sllC8CKJ7XaiSFIlkrgH8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2sllC8CKJ7XaiSFIlkrgH8", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 300453, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "2sllC8CKJ7XaiSFIlkrgH8"
+      }, 
+      {
+        "name": "Start! - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1HnhVIHwCitqYeZjqt9GTY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1b468cb86d515ed2cb1d60cc2d7de839bfc4e88d", 
+        "is_playable": true, 
+        "uri": "spotify:track:1HnhVIHwCitqYeZjqt9GTY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1HnhVIHwCitqYeZjqt9GTY", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 150453, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "1HnhVIHwCitqYeZjqt9GTY"
+      }, 
+      {
+        "name": "That's Entertainment - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Kvzy1C8wqQ6iROpx9b1hS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4b0ad1e534f02feb2d50fef5afddd71dbc00d101", 
+        "is_playable": true, 
+        "uri": "spotify:track:4Kvzy1C8wqQ6iROpx9b1hS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4Kvzy1C8wqQ6iROpx9b1hS", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 216266, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "4Kvzy1C8wqQ6iROpx9b1hS"
+      }, 
+      {
+        "name": "Dream Time - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4ofwJ038wKb56x9M18bXiG"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bcbc873447d6b66df70e355427e58de0d7f006d0", 
+        "is_playable": true, 
+        "uri": "spotify:track:4ofwJ038wKb56x9M18bXiG", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4ofwJ038wKb56x9M18bXiG", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 232466, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "4ofwJ038wKb56x9M18bXiG"
+      }, 
+      {
+        "name": "Man In The Corner Shop - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2YYaQIcZ50vxXg26v4YoP2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/01a35f0f521b7b1003cf68710c10fc233a189d1a", 
+        "is_playable": true, 
+        "uri": "spotify:track:2YYaQIcZ50vxXg26v4YoP2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2YYaQIcZ50vxXg26v4YoP2", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 192533, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "2YYaQIcZ50vxXg26v4YoP2"
+      }, 
+      {
+        "name": "Music For The Last Couple - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1xOH4pTiOZ4hapBr0HyWan"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/abdcbc155c3fb846ea5b71f0678194a5594edc4b", 
+        "is_playable": true, 
+        "uri": "spotify:track:1xOH4pTiOZ4hapBr0HyWan", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1xOH4pTiOZ4hapBr0HyWan", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 222560, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "1xOH4pTiOZ4hapBr0HyWan"
+      }, 
+      {
+        "name": "Boy About Town - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3cgHQpmltWbFgsUKjJ9xso"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a68e6fee8c84c574ab897f4bbf2d57206e6deb6e", 
+        "is_playable": true, 
+        "uri": "spotify:track:3cgHQpmltWbFgsUKjJ9xso", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3cgHQpmltWbFgsUKjJ9xso", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 118320, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "3cgHQpmltWbFgsUKjJ9xso"
+      }, 
+      {
+        "name": "Scrape Away - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4LT2U8KuMezdHhtYoYe1PM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cbaf02f0671fe8ce40a25696a85592cf7e3c5cab", 
+        "is_playable": true, 
+        "uri": "spotify:track:4LT2U8KuMezdHhtYoYe1PM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4LT2U8KuMezdHhtYoYe1PM", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 241146, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "4LT2U8KuMezdHhtYoYe1PM"
+      }, 
+      {
+        "name": "Start! - Single Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2BQw8TSck538IesfF6ArUq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/52fe594f2689b22e418ce6f3b15a646a025e9ca6", 
+        "is_playable": true, 
+        "uri": "spotify:track:2BQw8TSck538IesfF6ArUq", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/2BQw8TSck538IesfF6ArUq", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 137746, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "2BQw8TSck538IesfF6ArUq"
+      }, 
+      {
+        "name": "Liza Radley", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1cQwHXQJs2LB3G53JQmR0P"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9b48b9f45cc7977c7b5e40b5f582e062bd200c43", 
+        "is_playable": true, 
+        "uri": "spotify:track:1cQwHXQJs2LB3G53JQmR0P", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1cQwHXQJs2LB3G53JQmR0P", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 152000, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "1cQwHXQJs2LB3G53JQmR0P"
+      }, 
+      {
+        "name": "The Dreams Of Children", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4vaq9f2TtjOR0xqeSmuYZ0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9c09e16b8bb7e05fa1def0c5273a45d48d72d84f", 
+        "is_playable": true, 
+        "uri": "spotify:track:4vaq9f2TtjOR0xqeSmuYZ0", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4vaq9f2TtjOR0xqeSmuYZ0", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 176933, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "4vaq9f2TtjOR0xqeSmuYZ0"
+      }, 
+      {
+        "name": "That's Entertainment - Demo Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6RhjfruRae2CMPLFpe93Y0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/08e0ee8cd190f1e626260fd7eb03bb883c54e349", 
+        "is_playable": true, 
+        "uri": "spotify:track:6RhjfruRae2CMPLFpe93Y0", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6RhjfruRae2CMPLFpe93Y0", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 201826, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "6RhjfruRae2CMPLFpe93Y0"
+      }, 
+      {
+        "name": "Pretty Green - Demo Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1wHZKUSZ2jfBUMDzhQihXm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/33fc19f6bd95230aa2e4b119fb544c7f2d730f26", 
+        "is_playable": true, 
+        "uri": "spotify:track:1wHZKUSZ2jfBUMDzhQihXm", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1wHZKUSZ2jfBUMDzhQihXm", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 156040, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "1wHZKUSZ2jfBUMDzhQihXm"
+      }, 
+      {
+        "name": "Pop Art Poem", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7gnQ7qbScbHZNpzK19kqON"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a428c32915584591771926df79f88f5c12102a9e", 
+        "is_playable": true, 
+        "uri": "spotify:track:7gnQ7qbScbHZNpzK19kqON", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/7gnQ7qbScbHZNpzK19kqON", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 128479, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "7gnQ7qbScbHZNpzK19kqON"
+      }, 
+      {
+        "name": "Rain - Remixed Demo Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6NmEDJPDLm3hwD1lxGZCPr"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cef98e873f3643c3c870f5c3d8a0e16decdb3889", 
+        "is_playable": true, 
+        "uri": "spotify:track:6NmEDJPDLm3hwD1lxGZCPr", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6NmEDJPDLm3hwD1lxGZCPr", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 175866, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "6NmEDJPDLm3hwD1lxGZCPr"
+      }, 
+      {
+        "name": "Boy About Town - Demo Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6lEel5BBXe34rdWDNHqQeN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9678d4a8035a4ad533de87cd768847f1f534eb7d", 
+        "is_playable": true, 
+        "uri": "spotify:track:6lEel5BBXe34rdWDNHqQeN", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6lEel5BBXe34rdWDNHqQeN", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 136306, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "6lEel5BBXe34rdWDNHqQeN"
+      }, 
+      {
+        "name": "Dream Time - Demo Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/29aTcGCqCGkJcnCh7uPOIg"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3ef556803c6f9137c9074dc8fae285f40274873b", 
+        "is_playable": true, 
+        "uri": "spotify:track:29aTcGCqCGkJcnCh7uPOIg", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/29aTcGCqCGkJcnCh7uPOIg", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 109773, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "29aTcGCqCGkJcnCh7uPOIg"
+      }, 
+      {
+        "name": "Dead End Street - Remixed Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/43knT5kaJCHz7Q6wIh1EwJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/22041922a8cdfcf526951c2b210509938c3c5db6", 
+        "is_playable": true, 
+        "uri": "spotify:track:43knT5kaJCHz7Q6wIh1EwJ", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/43knT5kaJCHz7Q6wIh1EwJ", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 193413, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "43knT5kaJCHz7Q6wIh1EwJ"
+      }, 
+      {
+        "name": "But I'm Different Now - Demo Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1u9FAuFJE6criL5Ilr6U2P"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/481f4a54f76edf2a74c3d0df062983a4bd9676a5", 
+        "is_playable": true, 
+        "uri": "spotify:track:1u9FAuFJE6criL5Ilr6U2P", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1u9FAuFJE6criL5Ilr6U2P", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 114746, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "1u9FAuFJE6criL5Ilr6U2P"
+      }, 
+      {
+        "name": "Scrape Away - Instrumental", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3SpfDqwjpfk4k6MDeCwBUu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2051b831d02eee102c6697d6182edcce4f4cb927", 
+        "is_playable": true, 
+        "uri": "spotify:track:3SpfDqwjpfk4k6MDeCwBUu", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/3SpfDqwjpfk4k6MDeCwBUu", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 117666, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "3SpfDqwjpfk4k6MDeCwBUu"
+      }, 
+      {
+        "name": "Start! - Demo Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/792bfIGFbq8RGLvzsGmX7G"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/230716b1c809b35dc3fd412f710f900efb59aed4", 
+        "is_playable": true, 
+        "uri": "spotify:track:792bfIGFbq8RGLvzsGmX7G", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/792bfIGFbq8RGLvzsGmX7G", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 135626, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "792bfIGFbq8RGLvzsGmX7G"
+      }, 
+      {
+        "name": "Liza Radley - Demo Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0BLOUt2f8D6PZKcXPRFxDo"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fab06fa17ef770d3d41270604280fc9133f9582b", 
+        "is_playable": true, 
+        "uri": "spotify:track:0BLOUt2f8D6PZKcXPRFxDo", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/0BLOUt2f8D6PZKcXPRFxDo", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 135960, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "0BLOUt2f8D6PZKcXPRFxDo"
+      }, 
+      {
+        "name": "And Your Bird Can Sing", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1NpEz7xjB7FcZH4lZrqhpC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/addcefcb3bcf52dc6000dbcce97be53458430b16", 
+        "is_playable": true, 
+        "uri": "spotify:track:1NpEz7xjB7FcZH4lZrqhpC", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1NpEz7xjB7FcZH4lZrqhpC", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 112280, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "1NpEz7xjB7FcZH4lZrqhpC"
+      }, 
+      {
+        "name": "Monday - Alternate Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5DvqP2Gl1m0PpMX5TTd9IE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6139a02ea361d94e10d62ff4db4bd271c68b9056", 
+        "is_playable": true, 
+        "uri": "spotify:track:5DvqP2Gl1m0PpMX5TTd9IE", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5DvqP2Gl1m0PpMX5TTd9IE", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 257813, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "5DvqP2Gl1m0PpMX5TTd9IE"
+      }, 
+      {
+        "name": "Get Yourself Together - Remixed Demo Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4sMM4YvHsptJnSTbNPyweW"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/47f19709354212d1474e1d6d12e1ee5f8a9e3592", 
+        "is_playable": true, 
+        "uri": "spotify:track:4sMM4YvHsptJnSTbNPyweW", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4sMM4YvHsptJnSTbNPyweW", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 118026, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "4sMM4YvHsptJnSTbNPyweW"
+      }, 
+      {
+        "name": "Set The House Ablaze - Demo Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1F6dQ1j4smpITLVGRvtWg2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/50b0d83928d7a7161727d8b51ba860368d774db7", 
+        "is_playable": true, 
+        "uri": "spotify:track:1F6dQ1j4smpITLVGRvtWg2", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1F6dQ1j4smpITLVGRvtWg2", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 285586, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "1F6dQ1j4smpITLVGRvtWg2"
+      }, 
+      {
+        "name": "Boy About Town - Alternate Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0W5UeKGKXyuLXKc84xE90I"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d2111927b85973133948007a632e275ee74b4763", 
+        "is_playable": true, 
+        "uri": "spotify:track:0W5UeKGKXyuLXKc84xE90I", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/0W5UeKGKXyuLXKc84xE90I", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 132653, 
+        "track_number": 19, 
+        "type": "track", 
+        "id": "0W5UeKGKXyuLXKc84xE90I"
+      }, 
+      {
+        "name": "No One In The World", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6xY2VwEltcwglebFivaRXa"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/775f054244ed03bce3fb17375ad1eec02e46197d", 
+        "is_playable": true, 
+        "uri": "spotify:track:6xY2VwEltcwglebFivaRXa", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6xY2VwEltcwglebFivaRXa", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 142693, 
+        "track_number": 20, 
+        "type": "track", 
+        "id": "6xY2VwEltcwglebFivaRXa"
+      }, 
+      {
+        "name": "Instrumental - Demo Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3A0CghWrIkPr9QPL6ql409"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/246a8a67ddb2350e7a64764c61b6a716609bbdfa", 
+        "is_playable": true, 
+        "uri": "spotify:track:3A0CghWrIkPr9QPL6ql409", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/3A0CghWrIkPr9QPL6ql409", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 172400, 
+        "track_number": 21, 
+        "type": "track", 
+        "id": "3A0CghWrIkPr9QPL6ql409"
+      }, 
+      {
+        "name": "Waterloo Sunset - Demo Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7LOkhWbmYaG7Wh4iTPE3Bu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8b39182e17acac89961f8c0e0099e23ca951e87a", 
+        "is_playable": true, 
+        "uri": "spotify:track:7LOkhWbmYaG7Wh4iTPE3Bu", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/7LOkhWbmYaG7Wh4iTPE3Bu", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 238600, 
+        "track_number": 22, 
+        "type": "track", 
+        "id": "7LOkhWbmYaG7Wh4iTPE3Bu"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/22fr5eq3nh5n7MS69kN2wx/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 33, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/22fr5eq3nh5n7MS69kN2wx", 
+  "copyrights": [
+    {
+      "text": "(C) 2010 Polydor Ltd. (UK)", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 2010 Polydor Ltd. (UK)", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "The Jam", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+      }, 
+      "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+      "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+      "type": "artist", 
+      "id": "2P560DaOMNDUACoH8ZhOCR"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/c9515d7a62c6fe6c2216334753b7690cfe8ab427", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/d4d0be70ab3ec6ec4c0300a2d19dca2e8695ab31", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/c49121c0b164ab3bbb38e8b5775ad64fe91c35b9", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00600753306789"
+  }, 
+  "type": "album", 
+  "id": "22fr5eq3nh5n7MS69kN2wx", 
+  "name": "Sound Affects (Deluxe Edition)"
+}

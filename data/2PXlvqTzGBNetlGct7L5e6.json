@@ -1,0 +1,431 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2PXlvqTzGBNetlGct7L5e6"
+  }, 
+  "release_date": "2006", 
+  "popularity": 74, 
+  "genres": [], 
+  "uri": "spotify:album:2PXlvqTzGBNetlGct7L5e6", 
+  "tracks": {
+    "items": [
+      {
+        "name": "The View From The Afternoon", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4fCpHhES8IExESfkZmRQQ3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/af8af856a7878c1b7c1c69eacb0fa39705dff67b", 
+        "is_playable": true, 
+        "uri": "spotify:track:4fCpHhES8IExESfkZmRQQ3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4fCpHhES8IExESfkZmRQQ3", 
+        "artists": [
+          {
+            "name": "Arctic Monkeys", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+            }, 
+            "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH", 
+            "href": "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH", 
+            "type": "artist", 
+            "id": "7Ln80lUS6He07XvHI8qqHH"
+          }
+        ], 
+        "duration_ms": 218133, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "4fCpHhES8IExESfkZmRQQ3"
+      }, 
+      {
+        "name": "I Bet You Look Good On The Dancefloor", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0S7zL7ae0KpOSPKeFQpHo8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/afd0f1599debe31b12ad6f88fcd1d808742f92ec", 
+        "is_playable": true, 
+        "uri": "spotify:track:0S7zL7ae0KpOSPKeFQpHo8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0S7zL7ae0KpOSPKeFQpHo8", 
+        "artists": [
+          {
+            "name": "Arctic Monkeys", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+            }, 
+            "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH", 
+            "href": "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH", 
+            "type": "artist", 
+            "id": "7Ln80lUS6He07XvHI8qqHH"
+          }
+        ], 
+        "duration_ms": 173680, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "0S7zL7ae0KpOSPKeFQpHo8"
+      }, 
+      {
+        "name": "Fake Tales Of San Francisco", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5vefQfYc9Oxn8VHfgUCi1q"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ba2e1f0e92e0e713b1d46ef72fc29c6b818d4624", 
+        "is_playable": true, 
+        "uri": "spotify:track:5vefQfYc9Oxn8VHfgUCi1q", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5vefQfYc9Oxn8VHfgUCi1q", 
+        "artists": [
+          {
+            "name": "Arctic Monkeys", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+            }, 
+            "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH", 
+            "href": "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH", 
+            "type": "artist", 
+            "id": "7Ln80lUS6He07XvHI8qqHH"
+          }
+        ], 
+        "duration_ms": 177946, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "5vefQfYc9Oxn8VHfgUCi1q"
+      }, 
+      {
+        "name": "Dancing Shoes", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Iz0GanKO6r5JSL7FX7ChL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/347751e392ffc0166190641371d97c75165b8e01", 
+        "is_playable": true, 
+        "uri": "spotify:track:6Iz0GanKO6r5JSL7FX7ChL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6Iz0GanKO6r5JSL7FX7ChL", 
+        "artists": [
+          {
+            "name": "Arctic Monkeys", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+            }, 
+            "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH", 
+            "href": "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH", 
+            "type": "artist", 
+            "id": "7Ln80lUS6He07XvHI8qqHH"
+          }
+        ], 
+        "duration_ms": 141133, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "6Iz0GanKO6r5JSL7FX7ChL"
+      }, 
+      {
+        "name": "You Probably Couldn't See For The Lights But You Were Staring Straight At Me", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3pBnRFCyLUm3ErAfZMagQi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4bd36ddaf1d82730ad8f4e6c7e1c69187628435a", 
+        "is_playable": true, 
+        "uri": "spotify:track:3pBnRFCyLUm3ErAfZMagQi", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3pBnRFCyLUm3ErAfZMagQi", 
+        "artists": [
+          {
+            "name": "Arctic Monkeys", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+            }, 
+            "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH", 
+            "href": "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH", 
+            "type": "artist", 
+            "id": "7Ln80lUS6He07XvHI8qqHH"
+          }
+        ], 
+        "duration_ms": 130813, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "3pBnRFCyLUm3ErAfZMagQi"
+      }, 
+      {
+        "name": "Still Take You Home", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3YiUcL1SQzCweJj8XfxOur"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fac3700af4cfbb7a5dd47856ba142d95e2145cd2", 
+        "is_playable": true, 
+        "uri": "spotify:track:3YiUcL1SQzCweJj8XfxOur", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3YiUcL1SQzCweJj8XfxOur", 
+        "artists": [
+          {
+            "name": "Arctic Monkeys", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+            }, 
+            "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH", 
+            "href": "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH", 
+            "type": "artist", 
+            "id": "7Ln80lUS6He07XvHI8qqHH"
+          }
+        ], 
+        "duration_ms": 173666, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "3YiUcL1SQzCweJj8XfxOur"
+      }, 
+      {
+        "name": "Riot Van", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6sX68MHBh0nqvHCr1uDTC1"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5163d396aee82d031abd3255329f4a711e858581", 
+        "is_playable": true, 
+        "uri": "spotify:track:6sX68MHBh0nqvHCr1uDTC1", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6sX68MHBh0nqvHCr1uDTC1", 
+        "artists": [
+          {
+            "name": "Arctic Monkeys", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+            }, 
+            "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH", 
+            "href": "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH", 
+            "type": "artist", 
+            "id": "7Ln80lUS6He07XvHI8qqHH"
+          }
+        ], 
+        "duration_ms": 134933, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "6sX68MHBh0nqvHCr1uDTC1"
+      }, 
+      {
+        "name": "Red Light Indicates Doors Are Secured", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6H7tMK6nKs6pilZpwD7PX6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/18767c1b14ae8ce1885785083920de92b124b6a7", 
+        "is_playable": true, 
+        "uri": "spotify:track:6H7tMK6nKs6pilZpwD7PX6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6H7tMK6nKs6pilZpwD7PX6", 
+        "artists": [
+          {
+            "name": "Arctic Monkeys", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+            }, 
+            "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH", 
+            "href": "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH", 
+            "type": "artist", 
+            "id": "7Ln80lUS6He07XvHI8qqHH"
+          }
+        ], 
+        "duration_ms": 143626, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "6H7tMK6nKs6pilZpwD7PX6"
+      }, 
+      {
+        "name": "Mardy Bum", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7iqTu4OPL3KYs4FMdtLZsy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3b4c194386af1e016828b594a9c30bd06613db02", 
+        "is_playable": true, 
+        "uri": "spotify:track:7iqTu4OPL3KYs4FMdtLZsy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7iqTu4OPL3KYs4FMdtLZsy", 
+        "artists": [
+          {
+            "name": "Arctic Monkeys", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+            }, 
+            "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH", 
+            "href": "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH", 
+            "type": "artist", 
+            "id": "7Ln80lUS6He07XvHI8qqHH"
+          }
+        ], 
+        "duration_ms": 175440, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "7iqTu4OPL3KYs4FMdtLZsy"
+      }, 
+      {
+        "name": "Perhaps Vampires Is A Bit Strong But\u2026", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3gYr4NDoTEOUsHzxfttYPK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c50a0abb6aeb9936444455727edfa177d96ecffb", 
+        "is_playable": true, 
+        "uri": "spotify:track:3gYr4NDoTEOUsHzxfttYPK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3gYr4NDoTEOUsHzxfttYPK", 
+        "artists": [
+          {
+            "name": "Arctic Monkeys", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+            }, 
+            "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH", 
+            "href": "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH", 
+            "type": "artist", 
+            "id": "7Ln80lUS6He07XvHI8qqHH"
+          }
+        ], 
+        "duration_ms": 268626, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "3gYr4NDoTEOUsHzxfttYPK"
+      }, 
+      {
+        "name": "When The Sun Goes Down", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5npqVYHjQeHFTE9iZBio6Q"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/21006747c206aee3b693fd7ddbd609fd4d0c05cb", 
+        "is_playable": true, 
+        "uri": "spotify:track:5npqVYHjQeHFTE9iZBio6Q", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5npqVYHjQeHFTE9iZBio6Q", 
+        "artists": [
+          {
+            "name": "Arctic Monkeys", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+            }, 
+            "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH", 
+            "href": "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH", 
+            "type": "artist", 
+            "id": "7Ln80lUS6He07XvHI8qqHH"
+          }
+        ], 
+        "duration_ms": 200013, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "5npqVYHjQeHFTE9iZBio6Q"
+      }, 
+      {
+        "name": "From The Ritz To The Rubble", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7vhlwjoNX2gsC4YF1wnUmX"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ce53012c263fb7eb4e0587a301dae6825c19884a", 
+        "is_playable": true, 
+        "uri": "spotify:track:7vhlwjoNX2gsC4YF1wnUmX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7vhlwjoNX2gsC4YF1wnUmX", 
+        "artists": [
+          {
+            "name": "Arctic Monkeys", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+            }, 
+            "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH", 
+            "href": "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH", 
+            "type": "artist", 
+            "id": "7Ln80lUS6He07XvHI8qqHH"
+          }
+        ], 
+        "duration_ms": 193426, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "7vhlwjoNX2gsC4YF1wnUmX"
+      }, 
+      {
+        "name": "A Certain Romance", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/37AyXivrY5G4v2QJFQlWn6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/40625bf42c3517d48290afa77231de5ebd9e2d5e", 
+        "is_playable": true, 
+        "uri": "spotify:track:37AyXivrY5G4v2QJFQlWn6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/37AyXivrY5G4v2QJFQlWn6", 
+        "artists": [
+          {
+            "name": "Arctic Monkeys", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+            }, 
+            "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH", 
+            "href": "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH", 
+            "type": "artist", 
+            "id": "7Ln80lUS6He07XvHI8qqHH"
+          }
+        ], 
+        "duration_ms": 331200, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "37AyXivrY5G4v2QJFQlWn6"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/2PXlvqTzGBNetlGct7L5e6/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 13, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/2PXlvqTzGBNetlGct7L5e6", 
+  "copyrights": [
+    {
+      "text": "2005 Domino Recording Co Ltd", 
+      "type": "C"
+    }, 
+    {
+      "text": "2005 Domino Recording Co Ltd", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Arctic Monkeys", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+      }, 
+      "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH", 
+      "href": "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH", 
+      "type": "artist", 
+      "id": "7Ln80lUS6He07XvHI8qqHH"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/0c8e3f083d109b55244a0b2fed66d2b011dca64d", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/5e004226de34dc4f79d9d895d2b3c7526e50129f", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/00aefc5b71fc3b3330cd70f8cb5e34fa061d5d82", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "5034202016250"
+  }, 
+  "type": "album", 
+  "id": "2PXlvqTzGBNetlGct7L5e6", 
+  "name": "Whatever People Say I Am, That's What I'm Not"
+}

@@ -1,0 +1,375 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN"
+  }, 
+  "release_date": "1997-01-01", 
+  "popularity": 57, 
+  "genres": [], 
+  "uri": "spotify:album:31Sx9uz9KqlvmX07Pvp0wN", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Lazy Days", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Xe77pPzUA2VEXrrHkDnOn"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/01cac78d74c7d6084e059549b8c33b0b3cf5bfd5", 
+        "is_playable": true, 
+        "uri": "spotify:track:2Xe77pPzUA2VEXrrHkDnOn", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2Xe77pPzUA2VEXrrHkDnOn", 
+        "artists": [
+          {
+            "name": "Robbie Williams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+            }, 
+            "uri": "spotify:artist:2HcwFjNelS49kFbfvMxQYw", 
+            "href": "https://api.spotify.com/v1/artists/2HcwFjNelS49kFbfvMxQYw", 
+            "type": "artist", 
+            "id": "2HcwFjNelS49kFbfvMxQYw"
+          }
+        ], 
+        "duration_ms": 234666, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "2Xe77pPzUA2VEXrrHkDnOn"
+      }, 
+      {
+        "name": "Life Thru A Lens", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0TdOoOxJIhsXMIh4My6RAc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/18b38628204d1354a73b808e1a0fdddedc3bf9a3", 
+        "is_playable": true, 
+        "uri": "spotify:track:0TdOoOxJIhsXMIh4My6RAc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0TdOoOxJIhsXMIh4My6RAc", 
+        "artists": [
+          {
+            "name": "Robbie Williams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+            }, 
+            "uri": "spotify:artist:2HcwFjNelS49kFbfvMxQYw", 
+            "href": "https://api.spotify.com/v1/artists/2HcwFjNelS49kFbfvMxQYw", 
+            "type": "artist", 
+            "id": "2HcwFjNelS49kFbfvMxQYw"
+          }
+        ], 
+        "duration_ms": 187533, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "0TdOoOxJIhsXMIh4My6RAc"
+      }, 
+      {
+        "name": "Ego Agogo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4xaqU74Rp3ZvR1NghefWDD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/184f28d962abdfe5f8873837eb2604dc2c188a63", 
+        "is_playable": true, 
+        "uri": "spotify:track:4xaqU74Rp3ZvR1NghefWDD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4xaqU74Rp3ZvR1NghefWDD", 
+        "artists": [
+          {
+            "name": "Robbie Williams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+            }, 
+            "uri": "spotify:artist:2HcwFjNelS49kFbfvMxQYw", 
+            "href": "https://api.spotify.com/v1/artists/2HcwFjNelS49kFbfvMxQYw", 
+            "type": "artist", 
+            "id": "2HcwFjNelS49kFbfvMxQYw"
+          }
+        ], 
+        "duration_ms": 214960, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "4xaqU74Rp3ZvR1NghefWDD"
+      }, 
+      {
+        "name": "Angels", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1M2nd8jNUkkwrc1dgBPTJz"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c6a01bb24782fc192e9dbe7069349ec374495531", 
+        "is_playable": true, 
+        "uri": "spotify:track:1M2nd8jNUkkwrc1dgBPTJz", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1M2nd8jNUkkwrc1dgBPTJz", 
+        "artists": [
+          {
+            "name": "Robbie Williams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+            }, 
+            "uri": "spotify:artist:2HcwFjNelS49kFbfvMxQYw", 
+            "href": "https://api.spotify.com/v1/artists/2HcwFjNelS49kFbfvMxQYw", 
+            "type": "artist", 
+            "id": "2HcwFjNelS49kFbfvMxQYw"
+          }
+        ], 
+        "duration_ms": 265000, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "1M2nd8jNUkkwrc1dgBPTJz"
+      }, 
+      {
+        "name": "South Of The Border", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4OepPQ5voNcSMzWCrva91c"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/61ca20bd71e485b2196e29416f0000915459dd98", 
+        "is_playable": true, 
+        "uri": "spotify:track:4OepPQ5voNcSMzWCrva91c", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4OepPQ5voNcSMzWCrva91c", 
+        "artists": [
+          {
+            "name": "Robbie Williams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+            }, 
+            "uri": "spotify:artist:2HcwFjNelS49kFbfvMxQYw", 
+            "href": "https://api.spotify.com/v1/artists/2HcwFjNelS49kFbfvMxQYw", 
+            "type": "artist", 
+            "id": "2HcwFjNelS49kFbfvMxQYw"
+          }
+        ], 
+        "duration_ms": 233373, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "4OepPQ5voNcSMzWCrva91c"
+      }, 
+      {
+        "name": "Old Before I Die", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/65mz587jxcFYgqvesekK8I"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ae8231ff9d296f6989751ab5db920055f0c129b8", 
+        "is_playable": true, 
+        "uri": "spotify:track:65mz587jxcFYgqvesekK8I", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/65mz587jxcFYgqvesekK8I", 
+        "artists": [
+          {
+            "name": "Robbie Williams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+            }, 
+            "uri": "spotify:artist:2HcwFjNelS49kFbfvMxQYw", 
+            "href": "https://api.spotify.com/v1/artists/2HcwFjNelS49kFbfvMxQYw", 
+            "type": "artist", 
+            "id": "2HcwFjNelS49kFbfvMxQYw"
+          }
+        ], 
+        "duration_ms": 233626, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "65mz587jxcFYgqvesekK8I"
+      }, 
+      {
+        "name": "One Of God's Better People", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6xD8eby58oqxH4EfnvLS3U"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1401b15a4297590c493eb31424a50df22bf357a6", 
+        "is_playable": true, 
+        "uri": "spotify:track:6xD8eby58oqxH4EfnvLS3U", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6xD8eby58oqxH4EfnvLS3U", 
+        "artists": [
+          {
+            "name": "Robbie Williams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+            }, 
+            "uri": "spotify:artist:2HcwFjNelS49kFbfvMxQYw", 
+            "href": "https://api.spotify.com/v1/artists/2HcwFjNelS49kFbfvMxQYw", 
+            "type": "artist", 
+            "id": "2HcwFjNelS49kFbfvMxQYw"
+          }
+        ], 
+        "duration_ms": 213733, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "6xD8eby58oqxH4EfnvLS3U"
+      }, 
+      {
+        "name": "Let Me Entertain You", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0SLtqCrXBRrnkxSOMA3X4W"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1b59ee722f0a8e7e1090d2313e30ca6a3a33860d", 
+        "is_playable": true, 
+        "uri": "spotify:track:0SLtqCrXBRrnkxSOMA3X4W", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0SLtqCrXBRrnkxSOMA3X4W", 
+        "artists": [
+          {
+            "name": "Robbie Williams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+            }, 
+            "uri": "spotify:artist:2HcwFjNelS49kFbfvMxQYw", 
+            "href": "https://api.spotify.com/v1/artists/2HcwFjNelS49kFbfvMxQYw", 
+            "type": "artist", 
+            "id": "2HcwFjNelS49kFbfvMxQYw"
+          }
+        ], 
+        "duration_ms": 262000, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "0SLtqCrXBRrnkxSOMA3X4W"
+      }, 
+      {
+        "name": "Killing Me", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0mgn6ENlvhp4M3msVYWwXZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b2e26907f60ee42d85cb93ded722266bef384e88", 
+        "is_playable": true, 
+        "uri": "spotify:track:0mgn6ENlvhp4M3msVYWwXZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0mgn6ENlvhp4M3msVYWwXZ", 
+        "artists": [
+          {
+            "name": "Robbie Williams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+            }, 
+            "uri": "spotify:artist:2HcwFjNelS49kFbfvMxQYw", 
+            "href": "https://api.spotify.com/v1/artists/2HcwFjNelS49kFbfvMxQYw", 
+            "type": "artist", 
+            "id": "2HcwFjNelS49kFbfvMxQYw"
+          }
+        ], 
+        "duration_ms": 236266, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "0mgn6ENlvhp4M3msVYWwXZ"
+      }, 
+      {
+        "name": "Clean", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/65z3lkP7P27npGyyyMv2IF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0eb52e84a9c9c84d5556bcb0bb0e7986abd2d9cc", 
+        "is_playable": true, 
+        "uri": "spotify:track:65z3lkP7P27npGyyyMv2IF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/65z3lkP7P27npGyyyMv2IF", 
+        "artists": [
+          {
+            "name": "Robbie Williams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+            }, 
+            "uri": "spotify:artist:2HcwFjNelS49kFbfvMxQYw", 
+            "href": "https://api.spotify.com/v1/artists/2HcwFjNelS49kFbfvMxQYw", 
+            "type": "artist", 
+            "id": "2HcwFjNelS49kFbfvMxQYw"
+          }
+        ], 
+        "duration_ms": 235440, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "65z3lkP7P27npGyyyMv2IF"
+      }, 
+      {
+        "name": "Baby Girl Window - Includes Hidden Track 'Hello Sir'", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1BT7JoNzNQC1YXNRVXaxzr"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fb9f1e70d7ef7aa1e66a9565cdbdacac96e442f8", 
+        "is_playable": true, 
+        "uri": "spotify:track:1BT7JoNzNQC1YXNRVXaxzr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1BT7JoNzNQC1YXNRVXaxzr", 
+        "artists": [
+          {
+            "name": "Robbie Williams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+            }, 
+            "uri": "spotify:artist:2HcwFjNelS49kFbfvMxQYw", 
+            "href": "https://api.spotify.com/v1/artists/2HcwFjNelS49kFbfvMxQYw", 
+            "type": "artist", 
+            "id": "2HcwFjNelS49kFbfvMxQYw"
+          }
+        ], 
+        "duration_ms": 850200, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "1BT7JoNzNQC1YXNRVXaxzr"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/31Sx9uz9KqlvmX07Pvp0wN/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 11, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/31Sx9uz9KqlvmX07Pvp0wN", 
+  "copyrights": [
+    {
+      "text": "(C) 1997 Universal Island Records, a division of Universal Music Operations LtdThis label copy information is the subject of copyright protection. All rights reserved.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1997 The copyright in this sound recording is owned by Universal Island Records, a division of Universal Music Operations Ltd", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Robbie Williams", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+      }, 
+      "uri": "spotify:artist:2HcwFjNelS49kFbfvMxQYw", 
+      "href": "https://api.spotify.com/v1/artists/2HcwFjNelS49kFbfvMxQYw", 
+      "type": "artist", 
+      "id": "2HcwFjNelS49kFbfvMxQYw"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/60f590b053fcc709c07858748106b023dfbccba3", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/ca1896805594f40fe823b594a64c064a0a86d40f", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/161df9565f2cfc9fe75ca7166a3e015cb79858e3", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00724382131359"
+  }, 
+  "type": "album", 
+  "id": "31Sx9uz9KqlvmX07Pvp0wN", 
+  "name": "Life Thru A Lens"
+}

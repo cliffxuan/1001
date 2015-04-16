@@ -1,0 +1,543 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0bEnTj9zImDUVa5G0tXcJK"
+  }, 
+  "release_date": "2003-05-26", 
+  "popularity": 48, 
+  "genres": [], 
+  "uri": "spotify:album:0bEnTj9zImDUVa5G0tXcJK", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Introduction", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3AvU4jOZBC1G33R0LVttOy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0fb6bcb1b5bd04947de4dae9d32a7e740a1f84b7", 
+        "is_playable": true, 
+        "uri": "spotify:track:3AvU4jOZBC1G33R0LVttOy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3AvU4jOZBC1G33R0LVttOy", 
+        "artists": [
+          {
+            "name": "Mike Oldfield", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
+            }, 
+            "uri": "spotify:artist:562Od3CffWedyz2BbeYWVn", 
+            "href": "https://api.spotify.com/v1/artists/562Od3CffWedyz2BbeYWVn", 
+            "type": "artist", 
+            "id": "562Od3CffWedyz2BbeYWVn"
+          }
+        ], 
+        "duration_ms": 352120, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "3AvU4jOZBC1G33R0LVttOy"
+      }, 
+      {
+        "name": "Fast Guitars", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6QC7brIM5FJgMiF7dW3DDe"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a13bd7c43495a13e5a4b3d24f4373cb585c2d1f5", 
+        "is_playable": true, 
+        "uri": "spotify:track:6QC7brIM5FJgMiF7dW3DDe", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6QC7brIM5FJgMiF7dW3DDe", 
+        "artists": [
+          {
+            "name": "Mike Oldfield", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
+            }, 
+            "uri": "spotify:artist:562Od3CffWedyz2BbeYWVn", 
+            "href": "https://api.spotify.com/v1/artists/562Od3CffWedyz2BbeYWVn", 
+            "type": "artist", 
+            "id": "562Od3CffWedyz2BbeYWVn"
+          }
+        ], 
+        "duration_ms": 63986, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "6QC7brIM5FJgMiF7dW3DDe"
+      }, 
+      {
+        "name": "Basses", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2SEvSWDNliZxjD4xbZ0Nrr"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2df4ce50d66740f9ef72330693bcc8f655edcce2", 
+        "is_playable": true, 
+        "uri": "spotify:track:2SEvSWDNliZxjD4xbZ0Nrr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2SEvSWDNliZxjD4xbZ0Nrr", 
+        "artists": [
+          {
+            "name": "Mike Oldfield", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
+            }, 
+            "uri": "spotify:artist:562Od3CffWedyz2BbeYWVn", 
+            "href": "https://api.spotify.com/v1/artists/562Od3CffWedyz2BbeYWVn", 
+            "type": "artist", 
+            "id": "562Od3CffWedyz2BbeYWVn"
+          }
+        ], 
+        "duration_ms": 46733, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "2SEvSWDNliZxjD4xbZ0Nrr"
+      }, 
+      {
+        "name": "Latin", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4zEyzrSanINuxNfGadjw5B"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/62335aed8bd21af9160b89cbed729342b9839a2a", 
+        "is_playable": true, 
+        "uri": "spotify:track:4zEyzrSanINuxNfGadjw5B", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4zEyzrSanINuxNfGadjw5B", 
+        "artists": [
+          {
+            "name": "Mike Oldfield", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
+            }, 
+            "uri": "spotify:artist:562Od3CffWedyz2BbeYWVn", 
+            "href": "https://api.spotify.com/v1/artists/562Od3CffWedyz2BbeYWVn", 
+            "type": "artist", 
+            "id": "562Od3CffWedyz2BbeYWVn"
+          }
+        ], 
+        "duration_ms": 138706, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "4zEyzrSanINuxNfGadjw5B"
+      }, 
+      {
+        "name": "A Minor Tune", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/71fr5DgsB2Da8yGcuX2qHY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6f6a630af8cda941933637304535ef285aa8df3f", 
+        "is_playable": true, 
+        "uri": "spotify:track:71fr5DgsB2Da8yGcuX2qHY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/71fr5DgsB2Da8yGcuX2qHY", 
+        "artists": [
+          {
+            "name": "Mike Oldfield", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
+            }, 
+            "uri": "spotify:artist:562Od3CffWedyz2BbeYWVn", 
+            "href": "https://api.spotify.com/v1/artists/562Od3CffWedyz2BbeYWVn", 
+            "type": "artist", 
+            "id": "562Od3CffWedyz2BbeYWVn"
+          }
+        ], 
+        "duration_ms": 81053, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "71fr5DgsB2Da8yGcuX2qHY"
+      }, 
+      {
+        "name": "Blues", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1hz5dc9upDPbMq7c9Cxcza"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/95e474396bf0dab3c97bdac9fe12c3a3aeba664f", 
+        "is_playable": true, 
+        "uri": "spotify:track:1hz5dc9upDPbMq7c9Cxcza", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1hz5dc9upDPbMq7c9Cxcza", 
+        "artists": [
+          {
+            "name": "Mike Oldfield", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
+            }, 
+            "uri": "spotify:artist:562Od3CffWedyz2BbeYWVn", 
+            "href": "https://api.spotify.com/v1/artists/562Od3CffWedyz2BbeYWVn", 
+            "type": "artist", 
+            "id": "562Od3CffWedyz2BbeYWVn"
+          }
+        ], 
+        "duration_ms": 160173, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "1hz5dc9upDPbMq7c9Cxcza"
+      }, 
+      {
+        "name": "Thrash", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4ynhlXtbKRmacDT2v1HAhQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0a616f40c49f70ca6cda80df748fa07ef00d8987", 
+        "is_playable": true, 
+        "uri": "spotify:track:4ynhlXtbKRmacDT2v1HAhQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4ynhlXtbKRmacDT2v1HAhQ", 
+        "artists": [
+          {
+            "name": "Mike Oldfield", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
+            }, 
+            "uri": "spotify:artist:562Od3CffWedyz2BbeYWVn", 
+            "href": "https://api.spotify.com/v1/artists/562Od3CffWedyz2BbeYWVn", 
+            "type": "artist", 
+            "id": "562Od3CffWedyz2BbeYWVn"
+          }
+        ], 
+        "duration_ms": 44093, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "4ynhlXtbKRmacDT2v1HAhQ"
+      }, 
+      {
+        "name": "Jazz", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4u99JX8yr31lPnw1CrACP7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2934a9ec45c3a93f2a672a4da220a68a2d50fe34", 
+        "is_playable": true, 
+        "uri": "spotify:track:4u99JX8yr31lPnw1CrACP7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4u99JX8yr31lPnw1CrACP7", 
+        "artists": [
+          {
+            "name": "Mike Oldfield", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
+            }, 
+            "uri": "spotify:artist:562Od3CffWedyz2BbeYWVn", 
+            "href": "https://api.spotify.com/v1/artists/562Od3CffWedyz2BbeYWVn", 
+            "type": "artist", 
+            "id": "562Od3CffWedyz2BbeYWVn"
+          }
+        ], 
+        "duration_ms": 48013, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "4u99JX8yr31lPnw1CrACP7"
+      }, 
+      {
+        "name": "Ghost Bells", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1OwphiICfwWbJJO1cGQqgY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1aa65e0975b63a12e05645070dfcaaf28b2be662", 
+        "is_playable": true, 
+        "uri": "spotify:track:1OwphiICfwWbJJO1cGQqgY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1OwphiICfwWbJJO1cGQqgY", 
+        "artists": [
+          {
+            "name": "Mike Oldfield", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
+            }, 
+            "uri": "spotify:artist:562Od3CffWedyz2BbeYWVn", 
+            "href": "https://api.spotify.com/v1/artists/562Od3CffWedyz2BbeYWVn", 
+            "type": "artist", 
+            "id": "562Od3CffWedyz2BbeYWVn"
+          }
+        ], 
+        "duration_ms": 30546, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "1OwphiICfwWbJJO1cGQqgY"
+      }, 
+      {
+        "name": "Russian", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/75pzZ0JXoVJ1zHgXeIKh5f"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9b17e971a37fca3b47da1a78cf8cda390faa62d1", 
+        "is_playable": true, 
+        "uri": "spotify:track:75pzZ0JXoVJ1zHgXeIKh5f", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/75pzZ0JXoVJ1zHgXeIKh5f", 
+        "artists": [
+          {
+            "name": "Mike Oldfield", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
+            }, 
+            "uri": "spotify:artist:562Od3CffWedyz2BbeYWVn", 
+            "href": "https://api.spotify.com/v1/artists/562Od3CffWedyz2BbeYWVn", 
+            "type": "artist", 
+            "id": "562Od3CffWedyz2BbeYWVn"
+          }
+        ], 
+        "duration_ms": 44293, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "75pzZ0JXoVJ1zHgXeIKh5f"
+      }, 
+      {
+        "name": "Finale", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/41PjXetGejEu2X3Y4mQHXl"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1d00600c246feea984ed162e75cb090e05176df4", 
+        "is_playable": true, 
+        "uri": "spotify:track:41PjXetGejEu2X3Y4mQHXl", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/41PjXetGejEu2X3Y4mQHXl", 
+        "artists": [
+          {
+            "name": "Mike Oldfield", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
+            }, 
+            "uri": "spotify:artist:562Od3CffWedyz2BbeYWVn", 
+            "href": "https://api.spotify.com/v1/artists/562Od3CffWedyz2BbeYWVn", 
+            "type": "artist", 
+            "id": "562Od3CffWedyz2BbeYWVn"
+          }
+        ], 
+        "duration_ms": 512946, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "41PjXetGejEu2X3Y4mQHXl"
+      }, 
+      {
+        "name": "Harmonics", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4RbUycPJBYlvKj9gNEwZJF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7b49cdc140ebf42899fd4bf19f99bab94b6d7dd5", 
+        "is_playable": true, 
+        "uri": "spotify:track:4RbUycPJBYlvKj9gNEwZJF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4RbUycPJBYlvKj9gNEwZJF", 
+        "artists": [
+          {
+            "name": "Mike Oldfield", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
+            }, 
+            "uri": "spotify:artist:562Od3CffWedyz2BbeYWVn", 
+            "href": "https://api.spotify.com/v1/artists/562Od3CffWedyz2BbeYWVn", 
+            "type": "artist", 
+            "id": "562Od3CffWedyz2BbeYWVn"
+          }
+        ], 
+        "duration_ms": 312386, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "4RbUycPJBYlvKj9gNEwZJF"
+      }, 
+      {
+        "name": "Peace", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3HYR4G0dQKllthkUEZ3wJH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b1d1c1ee62e7520316f4016b8e6d6334874a0a1e", 
+        "is_playable": true, 
+        "uri": "spotify:track:3HYR4G0dQKllthkUEZ3wJH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3HYR4G0dQKllthkUEZ3wJH", 
+        "artists": [
+          {
+            "name": "Mike Oldfield", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
+            }, 
+            "uri": "spotify:artist:562Od3CffWedyz2BbeYWVn", 
+            "href": "https://api.spotify.com/v1/artists/562Od3CffWedyz2BbeYWVn", 
+            "type": "artist", 
+            "id": "562Od3CffWedyz2BbeYWVn"
+          }
+        ], 
+        "duration_ms": 210866, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "3HYR4G0dQKllthkUEZ3wJH"
+      }, 
+      {
+        "name": "Bagpipe Guitars", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5YxieurqhBLsMg2iNHCVop"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a8ad1dbdd998efc9435c7be7c306c401a0902725", 
+        "is_playable": true, 
+        "uri": "spotify:track:5YxieurqhBLsMg2iNHCVop", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5YxieurqhBLsMg2iNHCVop", 
+        "artists": [
+          {
+            "name": "Mike Oldfield", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
+            }, 
+            "uri": "spotify:artist:562Od3CffWedyz2BbeYWVn", 
+            "href": "https://api.spotify.com/v1/artists/562Od3CffWedyz2BbeYWVn", 
+            "type": "artist", 
+            "id": "562Od3CffWedyz2BbeYWVn"
+          }
+        ], 
+        "duration_ms": 187960, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "5YxieurqhBLsMg2iNHCVop"
+      }, 
+      {
+        "name": "Caveman", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Lx6UrLGctFWRvs5IrcZ1S"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c280ab6a7e1d38cee4614d4530f1bb0d82584299", 
+        "is_playable": true, 
+        "uri": "spotify:track:2Lx6UrLGctFWRvs5IrcZ1S", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2Lx6UrLGctFWRvs5IrcZ1S", 
+        "artists": [
+          {
+            "name": "Mike Oldfield", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
+            }, 
+            "uri": "spotify:artist:562Od3CffWedyz2BbeYWVn", 
+            "href": "https://api.spotify.com/v1/artists/562Od3CffWedyz2BbeYWVn", 
+            "type": "artist", 
+            "id": "562Od3CffWedyz2BbeYWVn"
+          }
+        ], 
+        "duration_ms": 273120, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "2Lx6UrLGctFWRvs5IrcZ1S"
+      }, 
+      {
+        "name": "Ambient Guitars", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1wFRlLYLYyhsCjC2H6JP7P"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/28de2c07f3aa87b1334ecde82b9baf6f056f5775", 
+        "is_playable": true, 
+        "uri": "spotify:track:1wFRlLYLYyhsCjC2H6JP7P", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1wFRlLYLYyhsCjC2H6JP7P", 
+        "artists": [
+          {
+            "name": "Mike Oldfield", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
+            }, 
+            "uri": "spotify:artist:562Od3CffWedyz2BbeYWVn", 
+            "href": "https://api.spotify.com/v1/artists/562Od3CffWedyz2BbeYWVn", 
+            "type": "artist", 
+            "id": "562Od3CffWedyz2BbeYWVn"
+          }
+        ], 
+        "duration_ms": 310160, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "1wFRlLYLYyhsCjC2H6JP7P"
+      }, 
+      {
+        "name": "The Sailor's Hornpipe 2003", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2U1uYBvq8b3dj0QIDIHngA"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3442660f889f2de6db0620da39f428fd24995df4", 
+        "is_playable": true, 
+        "uri": "spotify:track:2U1uYBvq8b3dj0QIDIHngA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2U1uYBvq8b3dj0QIDIHngA", 
+        "artists": [
+          {
+            "name": "Mike Oldfield", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
+            }, 
+            "uri": "spotify:artist:562Od3CffWedyz2BbeYWVn", 
+            "href": "https://api.spotify.com/v1/artists/562Od3CffWedyz2BbeYWVn", 
+            "type": "artist", 
+            "id": "562Od3CffWedyz2BbeYWVn"
+          }
+        ], 
+        "duration_ms": 104613, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "2U1uYBvq8b3dj0QIDIHngA"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/0bEnTj9zImDUVa5G0tXcJK/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 17, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/0bEnTj9zImDUVa5G0tXcJK", 
+  "copyrights": [
+    {
+      "text": "2003 Warner Music Spain S.A.", 
+      "type": "C"
+    }, 
+    {
+      "text": "2003 Warner Music Spain S.A.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Mike Oldfield", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
+      }, 
+      "uri": "spotify:artist:562Od3CffWedyz2BbeYWVn", 
+      "href": "https://api.spotify.com/v1/artists/562Od3CffWedyz2BbeYWVn", 
+      "type": "artist", 
+      "id": "562Od3CffWedyz2BbeYWVn"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/71c0dd2de3eaeb1e876fcc52a0c99be79b4b441c", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/e3c536d93e14b5d42439442fe79045255b788d10", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/0636c060ad4d114a118d7e06153297f58b30afd4", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "825646020461"
+  }, 
+  "type": "album", 
+  "id": "0bEnTj9zImDUVa5G0tXcJK", 
+  "name": "Tubular Bells 2003"
+}

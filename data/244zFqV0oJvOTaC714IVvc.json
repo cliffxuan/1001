@@ -1,0 +1,627 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/244zFqV0oJvOTaC714IVvc"
+  }, 
+  "release_date": "1999", 
+  "popularity": 37, 
+  "genres": [], 
+  "uri": "spotify:album:244zFqV0oJvOTaC714IVvc", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Dreamin'", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4s4XSshQPoaOvZ8Hyi4t5y"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/188fcda81f964fb592a6338b290b360766c3bdbd", 
+        "is_playable": true, 
+        "uri": "spotify:track:4s4XSshQPoaOvZ8Hyi4t5y", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4s4XSshQPoaOvZ8Hyi4t5y", 
+        "artists": [
+          {
+            "name": "Les Rythmes Digitales", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02zMQvIvPXbVOLDdFqbFUn"
+            }, 
+            "uri": "spotify:artist:02zMQvIvPXbVOLDdFqbFUn", 
+            "href": "https://api.spotify.com/v1/artists/02zMQvIvPXbVOLDdFqbFUn", 
+            "type": "artist", 
+            "id": "02zMQvIvPXbVOLDdFqbFUn"
+          }
+        ], 
+        "duration_ms": 218226, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "4s4XSshQPoaOvZ8Hyi4t5y"
+      }, 
+      {
+        "name": "Music Makes You Lose Control", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2GNwByZAJa8JfkjPBP3ZDY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2bbe6eca22a588590772f790cd756d310b82b34a", 
+        "is_playable": true, 
+        "uri": "spotify:track:2GNwByZAJa8JfkjPBP3ZDY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2GNwByZAJa8JfkjPBP3ZDY", 
+        "artists": [
+          {
+            "name": "Les Rythmes Digitales", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02zMQvIvPXbVOLDdFqbFUn"
+            }, 
+            "uri": "spotify:artist:02zMQvIvPXbVOLDdFqbFUn", 
+            "href": "https://api.spotify.com/v1/artists/02zMQvIvPXbVOLDdFqbFUn", 
+            "type": "artist", 
+            "id": "02zMQvIvPXbVOLDdFqbFUn"
+          }
+        ], 
+        "duration_ms": 226840, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "2GNwByZAJa8JfkjPBP3ZDY"
+      }, 
+      {
+        "name": "Soft Machine", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5anI0A4GKOP3hAfeKJHGPl"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2fcbc5f42fa62ca76880b6f7d44e30938b71c3ee", 
+        "is_playable": true, 
+        "uri": "spotify:track:5anI0A4GKOP3hAfeKJHGPl", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5anI0A4GKOP3hAfeKJHGPl", 
+        "artists": [
+          {
+            "name": "Les Rythmes Digitales", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02zMQvIvPXbVOLDdFqbFUn"
+            }, 
+            "uri": "spotify:artist:02zMQvIvPXbVOLDdFqbFUn", 
+            "href": "https://api.spotify.com/v1/artists/02zMQvIvPXbVOLDdFqbFUn", 
+            "type": "artist", 
+            "id": "02zMQvIvPXbVOLDdFqbFUn"
+          }
+        ], 
+        "duration_ms": 216600, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "5anI0A4GKOP3hAfeKJHGPl"
+      }, 
+      {
+        "name": "Hypnotise", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6yhjBo3ihvMGOgHpNcamaw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3e2e5d47e77f47812996dec871bdd94fc2612e8b", 
+        "is_playable": true, 
+        "uri": "spotify:track:6yhjBo3ihvMGOgHpNcamaw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6yhjBo3ihvMGOgHpNcamaw", 
+        "artists": [
+          {
+            "name": "Les Rythmes Digitales", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02zMQvIvPXbVOLDdFqbFUn"
+            }, 
+            "uri": "spotify:artist:02zMQvIvPXbVOLDdFqbFUn", 
+            "href": "https://api.spotify.com/v1/artists/02zMQvIvPXbVOLDdFqbFUn", 
+            "type": "artist", 
+            "id": "02zMQvIvPXbVOLDdFqbFUn"
+          }
+        ], 
+        "duration_ms": 292266, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "6yhjBo3ihvMGOgHpNcamaw"
+      }, 
+      {
+        "name": "(Hey You) What'S That Sound?", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6B85UOsBQWMN9Ti9EO1NFd"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a7f3216062f73ddcd82673ea9d33b17745a24ec0", 
+        "is_playable": true, 
+        "uri": "spotify:track:6B85UOsBQWMN9Ti9EO1NFd", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6B85UOsBQWMN9Ti9EO1NFd", 
+        "artists": [
+          {
+            "name": "Les Rythmes Digitales", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02zMQvIvPXbVOLDdFqbFUn"
+            }, 
+            "uri": "spotify:artist:02zMQvIvPXbVOLDdFqbFUn", 
+            "href": "https://api.spotify.com/v1/artists/02zMQvIvPXbVOLDdFqbFUn", 
+            "type": "artist", 
+            "id": "02zMQvIvPXbVOLDdFqbFUn"
+          }
+        ], 
+        "duration_ms": 252000, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "6B85UOsBQWMN9Ti9EO1NFd"
+      }, 
+      {
+        "name": "Take A Little Time", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3VFJvyA0NFjK8Fg6IfFumf"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/73ced0537b4e5603423087d76d3af85b86c39ea0", 
+        "is_playable": true, 
+        "uri": "spotify:track:3VFJvyA0NFjK8Fg6IfFumf", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3VFJvyA0NFjK8Fg6IfFumf", 
+        "artists": [
+          {
+            "name": "Les Rythmes Digitales", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02zMQvIvPXbVOLDdFqbFUn"
+            }, 
+            "uri": "spotify:artist:02zMQvIvPXbVOLDdFqbFUn", 
+            "href": "https://api.spotify.com/v1/artists/02zMQvIvPXbVOLDdFqbFUn", 
+            "type": "artist", 
+            "id": "02zMQvIvPXbVOLDdFqbFUn"
+          }
+        ], 
+        "duration_ms": 223466, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "3VFJvyA0NFjK8Fg6IfFumf"
+      }, 
+      {
+        "name": "From: Disco To: Disco", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0W1ERv9sYb76UljlcC4ubK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0e6e69912b5fa4b51b5e65bd02d364ccdd2e1ed8", 
+        "is_playable": true, 
+        "uri": "spotify:track:0W1ERv9sYb76UljlcC4ubK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0W1ERv9sYb76UljlcC4ubK", 
+        "artists": [
+          {
+            "name": "Whirlpool Productions", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/11fVwtMF74ZcvVyfYAkWYI"
+            }, 
+            "uri": "spotify:artist:11fVwtMF74ZcvVyfYAkWYI", 
+            "href": "https://api.spotify.com/v1/artists/11fVwtMF74ZcvVyfYAkWYI", 
+            "type": "artist", 
+            "id": "11fVwtMF74ZcvVyfYAkWYI"
+          }
+        ], 
+        "duration_ms": 217200, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "0W1ERv9sYb76UljlcC4ubK"
+      }, 
+      {
+        "name": "Brothers", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/718ciuHVzx578KON3HnDAI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6a37b141087486ca52a52eb6330df0ecce2a42ad", 
+        "is_playable": true, 
+        "uri": "spotify:track:718ciuHVzx578KON3HnDAI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/718ciuHVzx578KON3HnDAI", 
+        "artists": [
+          {
+            "name": "Les Rythmes Digitales", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02zMQvIvPXbVOLDdFqbFUn"
+            }, 
+            "uri": "spotify:artist:02zMQvIvPXbVOLDdFqbFUn", 
+            "href": "https://api.spotify.com/v1/artists/02zMQvIvPXbVOLDdFqbFUn", 
+            "type": "artist", 
+            "id": "02zMQvIvPXbVOLDdFqbFUn"
+          }
+        ], 
+        "duration_ms": 285066, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "718ciuHVzx578KON3HnDAI"
+      }, 
+      {
+        "name": "Jacques You Body (Make Me Sweat)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5MwdV0p8hjr9UD0wYxgUY8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/35ff500edcc13448d0b4cea2567021141642ec84", 
+        "is_playable": true, 
+        "uri": "spotify:track:5MwdV0p8hjr9UD0wYxgUY8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5MwdV0p8hjr9UD0wYxgUY8", 
+        "artists": [
+          {
+            "name": "Les Rythmes Digitales", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02zMQvIvPXbVOLDdFqbFUn"
+            }, 
+            "uri": "spotify:artist:02zMQvIvPXbVOLDdFqbFUn", 
+            "href": "https://api.spotify.com/v1/artists/02zMQvIvPXbVOLDdFqbFUn", 
+            "type": "artist", 
+            "id": "02zMQvIvPXbVOLDdFqbFUn"
+          }
+        ], 
+        "duration_ms": 252493, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "5MwdV0p8hjr9UD0wYxgUY8"
+      }, 
+      {
+        "name": "About Funk", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3R0zJj4Dh7oJGsvyPZ33Aq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4f40bcafbda67641369a509cc3fc389b5f2fdc70", 
+        "is_playable": true, 
+        "uri": "spotify:track:3R0zJj4Dh7oJGsvyPZ33Aq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3R0zJj4Dh7oJGsvyPZ33Aq", 
+        "artists": [
+          {
+            "name": "Les Rythmes Digitales", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02zMQvIvPXbVOLDdFqbFUn"
+            }, 
+            "uri": "spotify:artist:02zMQvIvPXbVOLDdFqbFUn", 
+            "href": "https://api.spotify.com/v1/artists/02zMQvIvPXbVOLDdFqbFUn", 
+            "type": "artist", 
+            "id": "02zMQvIvPXbVOLDdFqbFUn"
+          }
+        ], 
+        "duration_ms": 342733, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "3R0zJj4Dh7oJGsvyPZ33Aq"
+      }, 
+      {
+        "name": "Sometimes", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1rOaDkCSkVq48govbxDq6y"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/65dbe663f4f50aff70e4220292db3129174edc15", 
+        "is_playable": true, 
+        "uri": "spotify:track:1rOaDkCSkVq48govbxDq6y", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1rOaDkCSkVq48govbxDq6y", 
+        "artists": [
+          {
+            "name": "Les Rythmes Digitales", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02zMQvIvPXbVOLDdFqbFUn"
+            }, 
+            "uri": "spotify:artist:02zMQvIvPXbVOLDdFqbFUn", 
+            "href": "https://api.spotify.com/v1/artists/02zMQvIvPXbVOLDdFqbFUn", 
+            "type": "artist", 
+            "id": "02zMQvIvPXbVOLDdFqbFUn"
+          }
+        ], 
+        "duration_ms": 297040, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "1rOaDkCSkVq48govbxDq6y"
+      }, 
+      {
+        "name": "Damaged People", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3zWj0HBWTqQxIhdJthYZPH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/544ef38390e812a5923f44d2ffb2170c42812a7c", 
+        "is_playable": true, 
+        "uri": "spotify:track:3zWj0HBWTqQxIhdJthYZPH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3zWj0HBWTqQxIhdJthYZPH", 
+        "artists": [
+          {
+            "name": "Les Rythmes Digitales", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02zMQvIvPXbVOLDdFqbFUn"
+            }, 
+            "uri": "spotify:artist:02zMQvIvPXbVOLDdFqbFUn", 
+            "href": "https://api.spotify.com/v1/artists/02zMQvIvPXbVOLDdFqbFUn", 
+            "type": "artist", 
+            "id": "02zMQvIvPXbVOLDdFqbFUn"
+          }
+        ], 
+        "duration_ms": 399560, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "3zWj0HBWTqQxIhdJthYZPH"
+      }, 
+      {
+        "name": "Jacques Your Body (Make Me Sweat) (Club Mix)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2PFKjOAtdjsZjQqQcgoJHe"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/01352a20115dc8d65d7b98e430686d45203f092e", 
+        "is_playable": true, 
+        "uri": "spotify:track:2PFKjOAtdjsZjQqQcgoJHe", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/2PFKjOAtdjsZjQqQcgoJHe", 
+        "artists": [
+          {
+            "name": "Les Rythmes Digitales", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02zMQvIvPXbVOLDdFqbFUn"
+            }, 
+            "uri": "spotify:artist:02zMQvIvPXbVOLDdFqbFUn", 
+            "href": "https://api.spotify.com/v1/artists/02zMQvIvPXbVOLDdFqbFUn", 
+            "type": "artist", 
+            "id": "02zMQvIvPXbVOLDdFqbFUn"
+          }
+        ], 
+        "duration_ms": 388466, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "2PFKjOAtdjsZjQqQcgoJHe"
+      }, 
+      {
+        "name": "Music Makes You Lose Control (Lrd Remix)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3swUzocLTAh2t6L0GKh7Ps"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/19851e9f7d65031a3c1ff1d98eb042bd4ab80e4c", 
+        "is_playable": true, 
+        "uri": "spotify:track:3swUzocLTAh2t6L0GKh7Ps", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/3swUzocLTAh2t6L0GKh7Ps", 
+        "artists": [
+          {
+            "name": "Les Rythmes Digitales", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02zMQvIvPXbVOLDdFqbFUn"
+            }, 
+            "uri": "spotify:artist:02zMQvIvPXbVOLDdFqbFUn", 
+            "href": "https://api.spotify.com/v1/artists/02zMQvIvPXbVOLDdFqbFUn", 
+            "type": "artist", 
+            "id": "02zMQvIvPXbVOLDdFqbFUn"
+          }
+        ], 
+        "duration_ms": 356533, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "3swUzocLTAh2t6L0GKh7Ps"
+      }, 
+      {
+        "name": "Steps Ahead", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3JKQoDB1qu3e66QAqVH2Ap"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/180a9be15bae277aad1b27b02f7401c5ef22ae36", 
+        "is_playable": true, 
+        "uri": "spotify:track:3JKQoDB1qu3e66QAqVH2Ap", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/3JKQoDB1qu3e66QAqVH2Ap", 
+        "artists": [
+          {
+            "name": "Les Rythmes Digitales", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02zMQvIvPXbVOLDdFqbFUn"
+            }, 
+            "uri": "spotify:artist:02zMQvIvPXbVOLDdFqbFUn", 
+            "href": "https://api.spotify.com/v1/artists/02zMQvIvPXbVOLDdFqbFUn", 
+            "type": "artist", 
+            "id": "02zMQvIvPXbVOLDdFqbFUn"
+          }
+        ], 
+        "duration_ms": 313880, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "3JKQoDB1qu3e66QAqVH2Ap"
+      }, 
+      {
+        "name": "(Hey You) What\u2019S That Sound? (Lrd Remix)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5nLGeBVwqBfLOQhzBnTKkW"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/23be0ad3f525833cf1d3c91a6e8d75a52c811a0e", 
+        "is_playable": true, 
+        "uri": "spotify:track:5nLGeBVwqBfLOQhzBnTKkW", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5nLGeBVwqBfLOQhzBnTKkW", 
+        "artists": [
+          {
+            "name": "Les Rythmes Digitales", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02zMQvIvPXbVOLDdFqbFUn"
+            }, 
+            "uri": "spotify:artist:02zMQvIvPXbVOLDdFqbFUn", 
+            "href": "https://api.spotify.com/v1/artists/02zMQvIvPXbVOLDdFqbFUn", 
+            "type": "artist", 
+            "id": "02zMQvIvPXbVOLDdFqbFUn"
+          }
+        ], 
+        "duration_ms": 268573, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "5nLGeBVwqBfLOQhzBnTKkW"
+      }, 
+      {
+        "name": "Energy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5i3QU7V7KyKENf05W5UXzF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/942bf57b7329cc7eaa6e5f2940050eff5a10163c", 
+        "is_playable": true, 
+        "uri": "spotify:track:5i3QU7V7KyKENf05W5UXzF", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5i3QU7V7KyKENf05W5UXzF", 
+        "artists": [
+          {
+            "name": "Les Rythmes Digitales", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02zMQvIvPXbVOLDdFqbFUn"
+            }, 
+            "uri": "spotify:artist:02zMQvIvPXbVOLDdFqbFUn", 
+            "href": "https://api.spotify.com/v1/artists/02zMQvIvPXbVOLDdFqbFUn", 
+            "type": "artist", 
+            "id": "02zMQvIvPXbVOLDdFqbFUn"
+          }
+        ], 
+        "duration_ms": 258480, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "5i3QU7V7KyKENf05W5UXzF"
+      }, 
+      {
+        "name": "Sometimes (Junior Sanchez Remix)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7ElVrFayg7ycHKEFrYPxko"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a7eb38a109d811d3db68ca1ebdc4669076e4e6c7", 
+        "is_playable": true, 
+        "uri": "spotify:track:7ElVrFayg7ycHKEFrYPxko", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/7ElVrFayg7ycHKEFrYPxko", 
+        "artists": [
+          {
+            "name": "Les Rythmes Digitales", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02zMQvIvPXbVOLDdFqbFUn"
+            }, 
+            "uri": "spotify:artist:02zMQvIvPXbVOLDdFqbFUn", 
+            "href": "https://api.spotify.com/v1/artists/02zMQvIvPXbVOLDdFqbFUn", 
+            "type": "artist", 
+            "id": "02zMQvIvPXbVOLDdFqbFUn"
+          }
+        ], 
+        "duration_ms": 438253, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "7ElVrFayg7ycHKEFrYPxko"
+      }, 
+      {
+        "name": "Nancy Jamaica", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0gvaDuqjNZNVaENyHYpo6E"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f8699c3e02734b0e5b11d9c85ae13af637c97379", 
+        "is_playable": true, 
+        "uri": "spotify:track:0gvaDuqjNZNVaENyHYpo6E", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/0gvaDuqjNZNVaENyHYpo6E", 
+        "artists": [
+          {
+            "name": "Les Rythmes Digitales", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02zMQvIvPXbVOLDdFqbFUn"
+            }, 
+            "uri": "spotify:artist:02zMQvIvPXbVOLDdFqbFUn", 
+            "href": "https://api.spotify.com/v1/artists/02zMQvIvPXbVOLDdFqbFUn", 
+            "type": "artist", 
+            "id": "02zMQvIvPXbVOLDdFqbFUn"
+          }
+        ], 
+        "duration_ms": 357253, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "0gvaDuqjNZNVaENyHYpo6E"
+      }, 
+      {
+        "name": "Jacques Your Body (Cassius Remix Edit)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3I3Wb2nmEoKsVdIkB4ZGn6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a13371ed1053881a62825dca960c21f91ab2be0d", 
+        "is_playable": true, 
+        "uri": "spotify:track:3I3Wb2nmEoKsVdIkB4ZGn6", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/3I3Wb2nmEoKsVdIkB4ZGn6", 
+        "artists": [
+          {
+            "name": "Les Rythmes Digitales", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02zMQvIvPXbVOLDdFqbFUn"
+            }, 
+            "uri": "spotify:artist:02zMQvIvPXbVOLDdFqbFUn", 
+            "href": "https://api.spotify.com/v1/artists/02zMQvIvPXbVOLDdFqbFUn", 
+            "type": "artist", 
+            "id": "02zMQvIvPXbVOLDdFqbFUn"
+          }
+        ], 
+        "duration_ms": 351706, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "3I3Wb2nmEoKsVdIkB4ZGn6"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/244zFqV0oJvOTaC714IVvc/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 20, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/244zFqV0oJvOTaC714IVvc", 
+  "copyrights": [
+    {
+      "text": "2005 Wall Of Sound", 
+      "type": "C"
+    }, 
+    {
+      "text": "2005 Wall Of Sound", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Les Rythmes Digitales", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/02zMQvIvPXbVOLDdFqbFUn"
+      }, 
+      "uri": "spotify:artist:02zMQvIvPXbVOLDdFqbFUn", 
+      "href": "https://api.spotify.com/v1/artists/02zMQvIvPXbVOLDdFqbFUn", 
+      "type": "artist", 
+      "id": "02zMQvIvPXbVOLDdFqbFUn"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/a84b2a050b25278be9ba7d6b5035f5e7d855c7bd", 
+      "width": 600, 
+      "height": 590
+    }, 
+    {
+      "url": "https://i.scdn.co/image/3c7a6459c90c7b362268e3764df65fa6b90bfc59", 
+      "width": 300, 
+      "height": 295
+    }, 
+    {
+      "url": "https://i.scdn.co/image/0cfc0bde85331bbcbb8340cac5723c590cb8b003", 
+      "width": 64, 
+      "height": 63
+    }
+  ], 
+  "external_ids": {
+    "upc": "5028589007437"
+  }, 
+  "type": "album", 
+  "id": "244zFqV0oJvOTaC714IVvc", 
+  "name": "Darkdancer"
+}

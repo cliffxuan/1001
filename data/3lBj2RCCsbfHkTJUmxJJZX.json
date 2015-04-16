@@ -1,0 +1,619 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3lBj2RCCsbfHkTJUmxJJZX"
+  }, 
+  "release_date": "1990", 
+  "popularity": 50, 
+  "genres": [], 
+  "uri": "spotify:album:3lBj2RCCsbfHkTJUmxJJZX", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Alegria, Alegria", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/00pw579cGJD1FSmiCaYCzk"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/04a7268d831017d2f30940b843fa982e3a2c1a88", 
+        "is_playable": true, 
+        "uri": "spotify:track:00pw579cGJD1FSmiCaYCzk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/00pw579cGJD1FSmiCaYCzk", 
+        "artists": [
+          {
+            "name": "Caetano Veloso", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+            }, 
+            "uri": "spotify:artist:7HGNYPmbDrMkylWqeFCOIQ", 
+            "href": "https://api.spotify.com/v1/artists/7HGNYPmbDrMkylWqeFCOIQ", 
+            "type": "artist", 
+            "id": "7HGNYPmbDrMkylWqeFCOIQ"
+          }
+        ], 
+        "duration_ms": 170826, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "00pw579cGJD1FSmiCaYCzk"
+      }, 
+      {
+        "name": "Soy Loco Por Ti America - Original Mix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1vPXa5Yy98SnEGyDLseuJ4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/98ad95b55f5f579a638a4a2d87de3e0fcc440cf4", 
+        "is_playable": true, 
+        "uri": "spotify:track:1vPXa5Yy98SnEGyDLseuJ4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1vPXa5Yy98SnEGyDLseuJ4", 
+        "artists": [
+          {
+            "name": "Caetano Veloso", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+            }, 
+            "uri": "spotify:artist:7HGNYPmbDrMkylWqeFCOIQ", 
+            "href": "https://api.spotify.com/v1/artists/7HGNYPmbDrMkylWqeFCOIQ", 
+            "type": "artist", 
+            "id": "7HGNYPmbDrMkylWqeFCOIQ"
+          }
+        ], 
+        "duration_ms": 223160, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "1vPXa5Yy98SnEGyDLseuJ4"
+      }, 
+      {
+        "name": "Tropicalia", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1DpbjK8UdY2WHNxodfMeJ9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2bdaa57af16123e1980559959bea6cd5d2b1625a", 
+        "is_playable": true, 
+        "uri": "spotify:track:1DpbjK8UdY2WHNxodfMeJ9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1DpbjK8UdY2WHNxodfMeJ9", 
+        "artists": [
+          {
+            "name": "Gilberto Gil", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+            }, 
+            "uri": "spotify:artist:7oEkUINVIj1Nr3Wnj8tzqr", 
+            "href": "https://api.spotify.com/v1/artists/7oEkUINVIj1Nr3Wnj8tzqr", 
+            "type": "artist", 
+            "id": "7oEkUINVIj1Nr3Wnj8tzqr"
+          }, 
+          {
+            "name": "Caetano Veloso", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+            }, 
+            "uri": "spotify:artist:7HGNYPmbDrMkylWqeFCOIQ", 
+            "href": "https://api.spotify.com/v1/artists/7HGNYPmbDrMkylWqeFCOIQ", 
+            "type": "artist", 
+            "id": "7HGNYPmbDrMkylWqeFCOIQ"
+          }
+        ], 
+        "duration_ms": 220000, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "1DpbjK8UdY2WHNxodfMeJ9"
+      }, 
+      {
+        "name": "Superbacana", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0qeWzKtxWlzZs4es3xAcJH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/931aa488ef5835665c6bdd92996ed46e2cf7d44b", 
+        "is_playable": true, 
+        "uri": "spotify:track:0qeWzKtxWlzZs4es3xAcJH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0qeWzKtxWlzZs4es3xAcJH", 
+        "artists": [
+          {
+            "name": "Caetano Veloso", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+            }, 
+            "uri": "spotify:artist:7HGNYPmbDrMkylWqeFCOIQ", 
+            "href": "https://api.spotify.com/v1/artists/7HGNYPmbDrMkylWqeFCOIQ", 
+            "type": "artist", 
+            "id": "7HGNYPmbDrMkylWqeFCOIQ"
+          }
+        ], 
+        "duration_ms": 86826, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "0qeWzKtxWlzZs4es3xAcJH"
+      }, 
+      {
+        "name": "Atras Do Trio Eletrico", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4jCTHPdW78SiQ7S6QPNSJu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2c409323d59775e307747c53162da46e802703df", 
+        "is_playable": true, 
+        "uri": "spotify:track:4jCTHPdW78SiQ7S6QPNSJu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4jCTHPdW78SiQ7S6QPNSJu", 
+        "artists": [
+          {
+            "name": "Caetano Veloso", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+            }, 
+            "uri": "spotify:artist:7HGNYPmbDrMkylWqeFCOIQ", 
+            "href": "https://api.spotify.com/v1/artists/7HGNYPmbDrMkylWqeFCOIQ", 
+            "type": "artist", 
+            "id": "7HGNYPmbDrMkylWqeFCOIQ"
+          }
+        ], 
+        "duration_ms": 164666, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "4jCTHPdW78SiQ7S6QPNSJu"
+      }, 
+      {
+        "name": "Lua De Sao Jorge", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2nSeKQU2cvbTSn9zKpAJui"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a47cee60db8c59292e6ec68ed431b4e1f27d4d51", 
+        "is_playable": true, 
+        "uri": "spotify:track:2nSeKQU2cvbTSn9zKpAJui", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2nSeKQU2cvbTSn9zKpAJui", 
+        "artists": [
+          {
+            "name": "Caetano Veloso", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+            }, 
+            "uri": "spotify:artist:7HGNYPmbDrMkylWqeFCOIQ", 
+            "href": "https://api.spotify.com/v1/artists/7HGNYPmbDrMkylWqeFCOIQ", 
+            "type": "artist", 
+            "id": "7HGNYPmbDrMkylWqeFCOIQ"
+          }
+        ], 
+        "duration_ms": 238000, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "2nSeKQU2cvbTSn9zKpAJui"
+      }, 
+      {
+        "name": "Shy Moon", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1ws2qyDTI6ZNMut7yC7Wmw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d6912b1f505a80c32a3195ba95e53c35c48f6865", 
+        "is_playable": true, 
+        "uri": "spotify:track:1ws2qyDTI6ZNMut7yC7Wmw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1ws2qyDTI6ZNMut7yC7Wmw", 
+        "artists": [
+          {
+            "name": "Ritchie", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4KWRrTJoM6MhOq3UTYctJV"
+            }, 
+            "uri": "spotify:artist:4KWRrTJoM6MhOq3UTYctJV", 
+            "href": "https://api.spotify.com/v1/artists/4KWRrTJoM6MhOq3UTYctJV", 
+            "type": "artist", 
+            "id": "4KWRrTJoM6MhOq3UTYctJV"
+          }, 
+          {
+            "name": "Caetano Veloso", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+            }, 
+            "uri": "spotify:artist:7HGNYPmbDrMkylWqeFCOIQ", 
+            "href": "https://api.spotify.com/v1/artists/7HGNYPmbDrMkylWqeFCOIQ", 
+            "type": "artist", 
+            "id": "7HGNYPmbDrMkylWqeFCOIQ"
+          }
+        ], 
+        "duration_ms": 273333, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "1ws2qyDTI6ZNMut7yC7Wmw"
+      }, 
+      {
+        "name": "Queixa", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1OV9hIYULOY5JA3EE3QBv4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d63a30aa95dc1b26abe3a85dd7ae50f13d5ec6c5", 
+        "is_playable": true, 
+        "uri": "spotify:track:1OV9hIYULOY5JA3EE3QBv4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1OV9hIYULOY5JA3EE3QBv4", 
+        "artists": [
+          {
+            "name": "Caetano Veloso", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+            }, 
+            "uri": "spotify:artist:7HGNYPmbDrMkylWqeFCOIQ", 
+            "href": "https://api.spotify.com/v1/artists/7HGNYPmbDrMkylWqeFCOIQ", 
+            "type": "artist", 
+            "id": "7HGNYPmbDrMkylWqeFCOIQ"
+          }
+        ], 
+        "duration_ms": 257826, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "1OV9hIYULOY5JA3EE3QBv4"
+      }, 
+      {
+        "name": "Sampa", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Lq5CU7ne9yzYJr5Te3SoF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3dfe51e3935de469204752e597c353cbc8993bb9", 
+        "is_playable": true, 
+        "uri": "spotify:track:5Lq5CU7ne9yzYJr5Te3SoF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5Lq5CU7ne9yzYJr5Te3SoF", 
+        "artists": [
+          {
+            "name": "Caetano Veloso", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+            }, 
+            "uri": "spotify:artist:7HGNYPmbDrMkylWqeFCOIQ", 
+            "href": "https://api.spotify.com/v1/artists/7HGNYPmbDrMkylWqeFCOIQ", 
+            "type": "artist", 
+            "id": "7HGNYPmbDrMkylWqeFCOIQ"
+          }
+        ], 
+        "duration_ms": 197160, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "5Lq5CU7ne9yzYJr5Te3SoF"
+      }, 
+      {
+        "name": "Podres Poderes", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0RPFZTmAqKUMGeHKoTQrah"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ad1c1f651dc0f65d826cb8253ba600de66bbce93", 
+        "is_playable": true, 
+        "uri": "spotify:track:0RPFZTmAqKUMGeHKoTQrah", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0RPFZTmAqKUMGeHKoTQrah", 
+        "artists": [
+          {
+            "name": "Caetano Veloso", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+            }, 
+            "uri": "spotify:artist:7HGNYPmbDrMkylWqeFCOIQ", 
+            "href": "https://api.spotify.com/v1/artists/7HGNYPmbDrMkylWqeFCOIQ", 
+            "type": "artist", 
+            "id": "7HGNYPmbDrMkylWqeFCOIQ"
+          }
+        ], 
+        "duration_ms": 259839, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "0RPFZTmAqKUMGeHKoTQrah"
+      }, 
+      {
+        "name": "Voce E Linda", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/03YIJ6Dbjcyuzgd3Ga5WKh"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/06ecf1f7d604fbf21a638774f2ea1d0cc09c6e31", 
+        "is_playable": true, 
+        "uri": "spotify:track:03YIJ6Dbjcyuzgd3Ga5WKh", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/03YIJ6Dbjcyuzgd3Ga5WKh", 
+        "artists": [
+          {
+            "name": "Caetano Veloso", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+            }, 
+            "uri": "spotify:artist:7HGNYPmbDrMkylWqeFCOIQ", 
+            "href": "https://api.spotify.com/v1/artists/7HGNYPmbDrMkylWqeFCOIQ", 
+            "type": "artist", 
+            "id": "7HGNYPmbDrMkylWqeFCOIQ"
+          }
+        ], 
+        "duration_ms": 296506, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "03YIJ6Dbjcyuzgd3Ga5WKh"
+      }, 
+      {
+        "name": "O Leaozinho", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/73uSNZI4T90ujov3qvAzb3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4081bc2b48a454417dcbc19c24d4bdc0bd5c70a2", 
+        "is_playable": true, 
+        "uri": "spotify:track:73uSNZI4T90ujov3qvAzb3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/73uSNZI4T90ujov3qvAzb3", 
+        "artists": [
+          {
+            "name": "Caetano Veloso", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+            }, 
+            "uri": "spotify:artist:7HGNYPmbDrMkylWqeFCOIQ", 
+            "href": "https://api.spotify.com/v1/artists/7HGNYPmbDrMkylWqeFCOIQ", 
+            "type": "artist", 
+            "id": "7HGNYPmbDrMkylWqeFCOIQ"
+          }
+        ], 
+        "duration_ms": 185666, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "73uSNZI4T90ujov3qvAzb3"
+      }, 
+      {
+        "name": "Odara", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0zaZydJqH1qbfcEnaucGyj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0e41dccb815350adb71d9f4557a2da7b8fb6d63b", 
+        "is_playable": true, 
+        "uri": "spotify:track:0zaZydJqH1qbfcEnaucGyj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0zaZydJqH1qbfcEnaucGyj", 
+        "artists": [
+          {
+            "name": "Caetano Veloso", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+            }, 
+            "uri": "spotify:artist:7HGNYPmbDrMkylWqeFCOIQ", 
+            "href": "https://api.spotify.com/v1/artists/7HGNYPmbDrMkylWqeFCOIQ", 
+            "type": "artist", 
+            "id": "7HGNYPmbDrMkylWqeFCOIQ"
+          }
+        ], 
+        "duration_ms": 413666, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "0zaZydJqH1qbfcEnaucGyj"
+      }, 
+      {
+        "name": "Qualquer Coisa", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5SSWJfRuNNeF1UUpfOEbO8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/360c02154bc68fd0d67030151f88c8584ea21567", 
+        "is_playable": true, 
+        "uri": "spotify:track:5SSWJfRuNNeF1UUpfOEbO8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5SSWJfRuNNeF1UUpfOEbO8", 
+        "artists": [
+          {
+            "name": "Caetano Veloso", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+            }, 
+            "uri": "spotify:artist:7HGNYPmbDrMkylWqeFCOIQ", 
+            "href": "https://api.spotify.com/v1/artists/7HGNYPmbDrMkylWqeFCOIQ", 
+            "type": "artist", 
+            "id": "7HGNYPmbDrMkylWqeFCOIQ"
+          }
+        ], 
+        "duration_ms": 193666, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "5SSWJfRuNNeF1UUpfOEbO8"
+      }, 
+      {
+        "name": "Eclipse Oculto", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Wzl6aywhNUBHy5aouulfP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d1742c74d4af5910e65ff4741bae1598fa484715", 
+        "is_playable": true, 
+        "uri": "spotify:track:3Wzl6aywhNUBHy5aouulfP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3Wzl6aywhNUBHy5aouulfP", 
+        "artists": [
+          {
+            "name": "Caetano Veloso", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+            }, 
+            "uri": "spotify:artist:7HGNYPmbDrMkylWqeFCOIQ", 
+            "href": "https://api.spotify.com/v1/artists/7HGNYPmbDrMkylWqeFCOIQ", 
+            "type": "artist", 
+            "id": "7HGNYPmbDrMkylWqeFCOIQ"
+          }
+        ], 
+        "duration_ms": 222958, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "3Wzl6aywhNUBHy5aouulfP"
+      }, 
+      {
+        "name": "Trilhos Urbanos", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6USsGQmQ57Hfg8b87xpFJV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fa2e4df6d535d5dad199fd298fff32ec44b16792", 
+        "is_playable": true, 
+        "uri": "spotify:track:6USsGQmQ57Hfg8b87xpFJV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6USsGQmQ57Hfg8b87xpFJV", 
+        "artists": [
+          {
+            "name": "Caetano Veloso", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+            }, 
+            "uri": "spotify:artist:7HGNYPmbDrMkylWqeFCOIQ", 
+            "href": "https://api.spotify.com/v1/artists/7HGNYPmbDrMkylWqeFCOIQ", 
+            "type": "artist", 
+            "id": "7HGNYPmbDrMkylWqeFCOIQ"
+          }
+        ], 
+        "duration_ms": 166666, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "6USsGQmQ57Hfg8b87xpFJV"
+      }, 
+      {
+        "name": "Trem Das Cores", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6xjlOPWDhZVJ5sW3NXmyFJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cf9acd36703d887fd4215f0263efb4349febf46b", 
+        "is_playable": true, 
+        "uri": "spotify:track:6xjlOPWDhZVJ5sW3NXmyFJ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6xjlOPWDhZVJ5sW3NXmyFJ", 
+        "artists": [
+          {
+            "name": "Caetano Veloso", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+            }, 
+            "uri": "spotify:artist:7HGNYPmbDrMkylWqeFCOIQ", 
+            "href": "https://api.spotify.com/v1/artists/7HGNYPmbDrMkylWqeFCOIQ", 
+            "type": "artist", 
+            "id": "7HGNYPmbDrMkylWqeFCOIQ"
+          }
+        ], 
+        "duration_ms": 142826, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "6xjlOPWDhZVJ5sW3NXmyFJ"
+      }, 
+      {
+        "name": "Outras Palavras", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3lpGalegOcgFmPOuMGMDmR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/304a1a7f20616f58bb9d0755f00e1a7726539665", 
+        "is_playable": true, 
+        "uri": "spotify:track:3lpGalegOcgFmPOuMGMDmR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3lpGalegOcgFmPOuMGMDmR", 
+        "artists": [
+          {
+            "name": "Caetano Veloso", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+            }, 
+            "uri": "spotify:artist:7HGNYPmbDrMkylWqeFCOIQ", 
+            "href": "https://api.spotify.com/v1/artists/7HGNYPmbDrMkylWqeFCOIQ", 
+            "type": "artist", 
+            "id": "7HGNYPmbDrMkylWqeFCOIQ"
+          }
+        ], 
+        "duration_ms": 229333, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "3lpGalegOcgFmPOuMGMDmR"
+      }, 
+      {
+        "name": "Beleza Pura", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1mm8JIgtAIJtz2P8XuNhf3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6c4673028c9aabb0116ad2dafd6f1272f995dd9d", 
+        "is_playable": true, 
+        "uri": "spotify:track:1mm8JIgtAIJtz2P8XuNhf3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1mm8JIgtAIJtz2P8XuNhf3", 
+        "artists": [
+          {
+            "name": "Caetano Veloso", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+            }, 
+            "uri": "spotify:artist:7HGNYPmbDrMkylWqeFCOIQ", 
+            "href": "https://api.spotify.com/v1/artists/7HGNYPmbDrMkylWqeFCOIQ", 
+            "type": "artist", 
+            "id": "7HGNYPmbDrMkylWqeFCOIQ"
+          }
+        ], 
+        "duration_ms": 215826, 
+        "track_number": 19, 
+        "type": "track", 
+        "id": "1mm8JIgtAIJtz2P8XuNhf3"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/3lBj2RCCsbfHkTJUmxJJZX/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 19, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/3lBj2RCCsbfHkTJUmxJJZX", 
+  "copyrights": [
+    {
+      "text": "(C) 1990 Universal Music Ltda", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1990 Universal Music Ltda", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Caetano Veloso", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+      }, 
+      "uri": "spotify:artist:7HGNYPmbDrMkylWqeFCOIQ", 
+      "href": "https://api.spotify.com/v1/artists/7HGNYPmbDrMkylWqeFCOIQ", 
+      "type": "artist", 
+      "id": "7HGNYPmbDrMkylWqeFCOIQ"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/06cc7575d30c938e5106688ec0d88ec4150d1c54", 
+      "width": 640, 
+      "height": 634
+    }, 
+    {
+      "url": "https://i.scdn.co/image/7ede68b6547c16cfa70010c84081f52e6a05e4ff", 
+      "width": 300, 
+      "height": 297
+    }, 
+    {
+      "url": "https://i.scdn.co/image/efe84879b5ca8f4aa72fc140d8c495d7f4e6e6be", 
+      "width": 64, 
+      "height": 63
+    }
+  ], 
+  "external_ids": {
+    "upc": "00042283652828"
+  }, 
+  "type": "album", 
+  "id": "3lBj2RCCsbfHkTJUmxJJZX", 
+  "name": "The Best Of Caetano Velose - Sem Lenco Sem Documento"
+}

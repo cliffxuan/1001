@@ -1,0 +1,483 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
+  }, 
+  "release_date": "2002-07-30", 
+  "popularity": 56, 
+  "genres": [], 
+  "uri": "spotify:album:23vzCh5cDn0LzdGmGWrT1d", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Lonesome Day", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0R9q3imnid244T1ty47MGs"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b53ec966e750e3910658e94b54e74e9d2947f864", 
+        "is_playable": true, 
+        "uri": "spotify:track:0R9q3imnid244T1ty47MGs", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0R9q3imnid244T1ty47MGs", 
+        "artists": [
+          {
+            "name": "Bruce Springsteen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+            }, 
+            "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT", 
+            "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT", 
+            "type": "artist", 
+            "id": "3eqjTLE0HfPfh78zjh6TqT"
+          }
+        ], 
+        "duration_ms": 245360, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "0R9q3imnid244T1ty47MGs"
+      }, 
+      {
+        "name": "Into the Fire", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4s4S5JJGfqXGlNY6eQZWQB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/65f5699b0a38e8952a54601d3ba685702655dd72", 
+        "is_playable": true, 
+        "uri": "spotify:track:4s4S5JJGfqXGlNY6eQZWQB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4s4S5JJGfqXGlNY6eQZWQB", 
+        "artists": [
+          {
+            "name": "Bruce Springsteen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+            }, 
+            "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT", 
+            "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT", 
+            "type": "artist", 
+            "id": "3eqjTLE0HfPfh78zjh6TqT"
+          }
+        ], 
+        "duration_ms": 301666, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "4s4S5JJGfqXGlNY6eQZWQB"
+      }, 
+      {
+        "name": "Waitin' on a Sunny Day - The Song", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7vIyudiO2Tr9hZ2yzfwQmx"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a797099a058238d6a0be93ed9a70796ce7aa3893", 
+        "is_playable": true, 
+        "uri": "spotify:track:7vIyudiO2Tr9hZ2yzfwQmx", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7vIyudiO2Tr9hZ2yzfwQmx", 
+        "artists": [
+          {
+            "name": "Bruce Springsteen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+            }, 
+            "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT", 
+            "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT", 
+            "type": "artist", 
+            "id": "3eqjTLE0HfPfh78zjh6TqT"
+          }
+        ], 
+        "duration_ms": 256133, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "7vIyudiO2Tr9hZ2yzfwQmx"
+      }, 
+      {
+        "name": "Nothing Man", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6gpkTvvmychrSmqTOlkdYf"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c42e9ba6f6c58399fd2f8d095ae4326d29f4dd1b", 
+        "is_playable": true, 
+        "uri": "spotify:track:6gpkTvvmychrSmqTOlkdYf", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6gpkTvvmychrSmqTOlkdYf", 
+        "artists": [
+          {
+            "name": "Bruce Springsteen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+            }, 
+            "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT", 
+            "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT", 
+            "type": "artist", 
+            "id": "3eqjTLE0HfPfh78zjh6TqT"
+          }
+        ], 
+        "duration_ms": 260106, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "6gpkTvvmychrSmqTOlkdYf"
+      }, 
+      {
+        "name": "Countin' On A Miracle", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5HqK6HOczMtdrnvYmDZgAI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/274550f3e03c57afd10a63f40aecc89815af29bb", 
+        "is_playable": true, 
+        "uri": "spotify:track:5HqK6HOczMtdrnvYmDZgAI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5HqK6HOczMtdrnvYmDZgAI", 
+        "artists": [
+          {
+            "name": "Bruce Springsteen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+            }, 
+            "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT", 
+            "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT", 
+            "type": "artist", 
+            "id": "3eqjTLE0HfPfh78zjh6TqT"
+          }
+        ], 
+        "duration_ms": 280533, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "5HqK6HOczMtdrnvYmDZgAI"
+      }, 
+      {
+        "name": "Empty Sky", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4J3kArNud5C3B98dbCZXE4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6b4120db21e0e2e3d8a1fa6f980ed7864289d855", 
+        "is_playable": true, 
+        "uri": "spotify:track:4J3kArNud5C3B98dbCZXE4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4J3kArNud5C3B98dbCZXE4", 
+        "artists": [
+          {
+            "name": "Bruce Springsteen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+            }, 
+            "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT", 
+            "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT", 
+            "type": "artist", 
+            "id": "3eqjTLE0HfPfh78zjh6TqT"
+          }
+        ], 
+        "duration_ms": 212466, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "4J3kArNud5C3B98dbCZXE4"
+      }, 
+      {
+        "name": "Worlds Apart", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2AyGYefMitcHfYGOtzsEWf"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/74a7f81279e3a4a429469bd9e2e915e344088f7d", 
+        "is_playable": true, 
+        "uri": "spotify:track:2AyGYefMitcHfYGOtzsEWf", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2AyGYefMitcHfYGOtzsEWf", 
+        "artists": [
+          {
+            "name": "Bruce Springsteen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+            }, 
+            "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT", 
+            "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT", 
+            "type": "artist", 
+            "id": "3eqjTLE0HfPfh78zjh6TqT"
+          }
+        ], 
+        "duration_ms": 362600, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "2AyGYefMitcHfYGOtzsEWf"
+      }, 
+      {
+        "name": "Let's Be Friends (Skin to Skin)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5YBWXntTBc5P0NWS9hClHG"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2223c0ae0700f57ffb838369cf2728099871baa6", 
+        "is_playable": true, 
+        "uri": "spotify:track:5YBWXntTBc5P0NWS9hClHG", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5YBWXntTBc5P0NWS9hClHG", 
+        "artists": [
+          {
+            "name": "Bruce Springsteen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+            }, 
+            "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT", 
+            "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT", 
+            "type": "artist", 
+            "id": "3eqjTLE0HfPfh78zjh6TqT"
+          }
+        ], 
+        "duration_ms": 258560, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "5YBWXntTBc5P0NWS9hClHG"
+      }, 
+      {
+        "name": "Further On (Up the Road)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/42LXJi06Y5KXYAJCsZSPv1"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fcc95e81a57b0d490ef7a39b08fc33de275c05b8", 
+        "is_playable": true, 
+        "uri": "spotify:track:42LXJi06Y5KXYAJCsZSPv1", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/42LXJi06Y5KXYAJCsZSPv1", 
+        "artists": [
+          {
+            "name": "Bruce Springsteen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+            }, 
+            "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT", 
+            "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT", 
+            "type": "artist", 
+            "id": "3eqjTLE0HfPfh78zjh6TqT"
+          }
+        ], 
+        "duration_ms": 230160, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "42LXJi06Y5KXYAJCsZSPv1"
+      }, 
+      {
+        "name": "The Fuse", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/33J7vGytLYoIAomYcZn8kl"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5ef8f08e0d9291fc3f3bbdbb2b5104db44fccfa4", 
+        "is_playable": true, 
+        "uri": "spotify:track:33J7vGytLYoIAomYcZn8kl", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/33J7vGytLYoIAomYcZn8kl", 
+        "artists": [
+          {
+            "name": "Bruce Springsteen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+            }, 
+            "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT", 
+            "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT", 
+            "type": "artist", 
+            "id": "3eqjTLE0HfPfh78zjh6TqT"
+          }
+        ], 
+        "duration_ms": 336333, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "33J7vGytLYoIAomYcZn8kl"
+      }, 
+      {
+        "name": "Mary's Place", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0g0MBBxtDRy8Igs0AzSZR4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/458d7786451b8c477d6ffac8186273cefa0c60a1", 
+        "is_playable": true, 
+        "uri": "spotify:track:0g0MBBxtDRy8Igs0AzSZR4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0g0MBBxtDRy8Igs0AzSZR4", 
+        "artists": [
+          {
+            "name": "Bruce Springsteen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+            }, 
+            "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT", 
+            "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT", 
+            "type": "artist", 
+            "id": "3eqjTLE0HfPfh78zjh6TqT"
+          }
+        ], 
+        "duration_ms": 358933, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "0g0MBBxtDRy8Igs0AzSZR4"
+      }, 
+      {
+        "name": "You're Missing", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/23zMvkiwXFOM7Y1bO954GA"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b58eaf1003c4de672ddd1c7ebfd0e71546c55d7b", 
+        "is_playable": true, 
+        "uri": "spotify:track:23zMvkiwXFOM7Y1bO954GA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/23zMvkiwXFOM7Y1bO954GA", 
+        "artists": [
+          {
+            "name": "Bruce Springsteen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+            }, 
+            "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT", 
+            "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT", 
+            "type": "artist", 
+            "id": "3eqjTLE0HfPfh78zjh6TqT"
+          }
+        ], 
+        "duration_ms": 307800, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "23zMvkiwXFOM7Y1bO954GA"
+      }, 
+      {
+        "name": "The Rising -The Song", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2czBvzOv3TvnyoW7Ozo7fP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f9fc1e3ba10382ca4b4f5c43d9cd15561da452bb", 
+        "is_playable": true, 
+        "uri": "spotify:track:2czBvzOv3TvnyoW7Ozo7fP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2czBvzOv3TvnyoW7Ozo7fP", 
+        "artists": [
+          {
+            "name": "Bruce Springsteen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+            }, 
+            "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT", 
+            "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT", 
+            "type": "artist", 
+            "id": "3eqjTLE0HfPfh78zjh6TqT"
+          }
+        ], 
+        "duration_ms": 287040, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "2czBvzOv3TvnyoW7Ozo7fP"
+      }, 
+      {
+        "name": "Paradise", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5aAfwNuKUeDuZd4wkUPlA2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0dca0da19d7bade17bfc5ed3668a3e930d912d48", 
+        "is_playable": true, 
+        "uri": "spotify:track:5aAfwNuKUeDuZd4wkUPlA2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5aAfwNuKUeDuZd4wkUPlA2", 
+        "artists": [
+          {
+            "name": "Bruce Springsteen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+            }, 
+            "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT", 
+            "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT", 
+            "type": "artist", 
+            "id": "3eqjTLE0HfPfh78zjh6TqT"
+          }
+        ], 
+        "duration_ms": 334493, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "5aAfwNuKUeDuZd4wkUPlA2"
+      }, 
+      {
+        "name": "My City of Ruins", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5A2wRK7ch9tg6k5iibUsgT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fd45e36d6e7be1a774ba411ee721f581f9ee8f84", 
+        "is_playable": true, 
+        "uri": "spotify:track:5A2wRK7ch9tg6k5iibUsgT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5A2wRK7ch9tg6k5iibUsgT", 
+        "artists": [
+          {
+            "name": "Bruce Springsteen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+            }, 
+            "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT", 
+            "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT", 
+            "type": "artist", 
+            "id": "3eqjTLE0HfPfh78zjh6TqT"
+          }
+        ], 
+        "duration_ms": 300000, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "5A2wRK7ch9tg6k5iibUsgT"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/23vzCh5cDn0LzdGmGWrT1d/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 15, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/23vzCh5cDn0LzdGmGWrT1d", 
+  "copyrights": [
+    {
+      "text": "(P) 2002 Bruce Springsteen WARNING: All Rights Reserved. Unauthorized duplication is a violation of applicable laws.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Bruce Springsteen", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      }, 
+      "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT", 
+      "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT", 
+      "type": "artist", 
+      "id": "3eqjTLE0HfPfh78zjh6TqT"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/5bccfa9a59cbcc063a614b238879fbbf6f2fb0ec", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/6761c240d47e1b57440cfce382992b8c0a40413b", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/5a82078d6f7821a5c0de0ad8e2a08b95c71c8f81", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "696998660021"
+  }, 
+  "type": "album", 
+  "id": "23vzCh5cDn0LzdGmGWrT1d", 
+  "name": "The Rising"
+}

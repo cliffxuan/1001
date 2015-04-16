@@ -1,0 +1,511 @@
+{
+  "album_type": "compilation", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm"
+  }, 
+  "release_date": "2009-11-03", 
+  "popularity": 78, 
+  "genres": [], 
+  "uri": "spotify:album:1zCNrbPpz5OLSr6mSpPdKm", 
+  "tracks": {
+    "items": [
+      {
+        "name": "All My Life", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2HbVINmehEbPmjlcueXEJJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e361d9380100c0775f12b2b9e07be4ab7c0194bb", 
+        "is_playable": true, 
+        "uri": "spotify:track:2HbVINmehEbPmjlcueXEJJ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2HbVINmehEbPmjlcueXEJJ", 
+        "artists": [
+          {
+            "name": "Foo Fighters", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+            }, 
+            "uri": "spotify:artist:7jy3rLJdDQY21OgRLCZ9sD", 
+            "href": "https://api.spotify.com/v1/artists/7jy3rLJdDQY21OgRLCZ9sD", 
+            "type": "artist", 
+            "id": "7jy3rLJdDQY21OgRLCZ9sD"
+          }
+        ], 
+        "duration_ms": 263560, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "2HbVINmehEbPmjlcueXEJJ"
+      }, 
+      {
+        "name": "Best Of You", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1sn6iOK93jnp0Hn5BnNOXy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/18c1f74ead3f3044b63bbc10d744a4b45e9e3186", 
+        "is_playable": true, 
+        "uri": "spotify:track:1sn6iOK93jnp0Hn5BnNOXy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1sn6iOK93jnp0Hn5BnNOXy", 
+        "artists": [
+          {
+            "name": "Foo Fighters", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+            }, 
+            "uri": "spotify:artist:7jy3rLJdDQY21OgRLCZ9sD", 
+            "href": "https://api.spotify.com/v1/artists/7jy3rLJdDQY21OgRLCZ9sD", 
+            "type": "artist", 
+            "id": "7jy3rLJdDQY21OgRLCZ9sD"
+          }
+        ], 
+        "duration_ms": 254973, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "1sn6iOK93jnp0Hn5BnNOXy"
+      }, 
+      {
+        "name": "Everlong", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/07q6QTQXyPRCf7GbLakRPr"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6d1148cd1ae8b8128eb00814ce31237c9fdb3b28", 
+        "is_playable": true, 
+        "uri": "spotify:track:07q6QTQXyPRCf7GbLakRPr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/07q6QTQXyPRCf7GbLakRPr", 
+        "artists": [
+          {
+            "name": "Foo Fighters", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+            }, 
+            "uri": "spotify:artist:7jy3rLJdDQY21OgRLCZ9sD", 
+            "href": "https://api.spotify.com/v1/artists/7jy3rLJdDQY21OgRLCZ9sD", 
+            "type": "artist", 
+            "id": "7jy3rLJdDQY21OgRLCZ9sD"
+          }
+        ], 
+        "duration_ms": 249986, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "07q6QTQXyPRCf7GbLakRPr"
+      }, 
+      {
+        "name": "The Pretender", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6HNruFQlzQx4ulL4ppRLYI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d4cd34f573c67f2e240b52a56741710ee3ad69a8", 
+        "is_playable": true, 
+        "uri": "spotify:track:6HNruFQlzQx4ulL4ppRLYI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6HNruFQlzQx4ulL4ppRLYI", 
+        "artists": [
+          {
+            "name": "Foo Fighters", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+            }, 
+            "uri": "spotify:artist:7jy3rLJdDQY21OgRLCZ9sD", 
+            "href": "https://api.spotify.com/v1/artists/7jy3rLJdDQY21OgRLCZ9sD", 
+            "type": "artist", 
+            "id": "7jy3rLJdDQY21OgRLCZ9sD"
+          }
+        ], 
+        "duration_ms": 267360, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "6HNruFQlzQx4ulL4ppRLYI"
+      }, 
+      {
+        "name": "My Hero", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7u5dBtASrtOuBTTZjJrvuJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/70b67b7e20bb9d4aa96b5905010a3210390dd023", 
+        "is_playable": true, 
+        "uri": "spotify:track:7u5dBtASrtOuBTTZjJrvuJ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7u5dBtASrtOuBTTZjJrvuJ", 
+        "artists": [
+          {
+            "name": "Foo Fighters", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+            }, 
+            "uri": "spotify:artist:7jy3rLJdDQY21OgRLCZ9sD", 
+            "href": "https://api.spotify.com/v1/artists/7jy3rLJdDQY21OgRLCZ9sD", 
+            "type": "artist", 
+            "id": "7jy3rLJdDQY21OgRLCZ9sD"
+          }
+        ], 
+        "duration_ms": 258973, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "7u5dBtASrtOuBTTZjJrvuJ"
+      }, 
+      {
+        "name": "Learn to Fly", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0mWiuXuLAJ3Brin3Or2x6v"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c6f02cfcad2e6bc5f68791a1c599ee88cb1f0092", 
+        "is_playable": true, 
+        "uri": "spotify:track:0mWiuXuLAJ3Brin3Or2x6v", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0mWiuXuLAJ3Brin3Or2x6v", 
+        "artists": [
+          {
+            "name": "Foo Fighters", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+            }, 
+            "uri": "spotify:artist:7jy3rLJdDQY21OgRLCZ9sD", 
+            "href": "https://api.spotify.com/v1/artists/7jy3rLJdDQY21OgRLCZ9sD", 
+            "type": "artist", 
+            "id": "7jy3rLJdDQY21OgRLCZ9sD"
+          }
+        ], 
+        "duration_ms": 234800, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "0mWiuXuLAJ3Brin3Or2x6v"
+      }, 
+      {
+        "name": "Times Like These", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4xanWVQIzdCf51mg8cd1cQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e32884a2c4924db83ddb5558ee10492464366d55", 
+        "is_playable": true, 
+        "uri": "spotify:track:4xanWVQIzdCf51mg8cd1cQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4xanWVQIzdCf51mg8cd1cQ", 
+        "artists": [
+          {
+            "name": "Foo Fighters", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+            }, 
+            "uri": "spotify:artist:7jy3rLJdDQY21OgRLCZ9sD", 
+            "href": "https://api.spotify.com/v1/artists/7jy3rLJdDQY21OgRLCZ9sD", 
+            "type": "artist", 
+            "id": "7jy3rLJdDQY21OgRLCZ9sD"
+          }
+        ], 
+        "duration_ms": 267973, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "4xanWVQIzdCf51mg8cd1cQ"
+      }, 
+      {
+        "name": "Monkey Wrench", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/43TxY9bYSyZ4QRPA0UJddL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3aed583114a73be0c8284fe2b19926164f2adab5", 
+        "is_playable": true, 
+        "uri": "spotify:track:43TxY9bYSyZ4QRPA0UJddL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/43TxY9bYSyZ4QRPA0UJddL", 
+        "artists": [
+          {
+            "name": "Foo Fighters", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+            }, 
+            "uri": "spotify:artist:7jy3rLJdDQY21OgRLCZ9sD", 
+            "href": "https://api.spotify.com/v1/artists/7jy3rLJdDQY21OgRLCZ9sD", 
+            "type": "artist", 
+            "id": "7jy3rLJdDQY21OgRLCZ9sD"
+          }
+        ], 
+        "duration_ms": 230826, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "43TxY9bYSyZ4QRPA0UJddL"
+      }, 
+      {
+        "name": "Big Me", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/04Jk0uP8SbDHLyAKfRctNQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/83fc43622b51bf0bc02e4d899f1ca8b6d66a2574", 
+        "is_playable": true, 
+        "uri": "spotify:track:04Jk0uP8SbDHLyAKfRctNQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/04Jk0uP8SbDHLyAKfRctNQ", 
+        "artists": [
+          {
+            "name": "Foo Fighters", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+            }, 
+            "uri": "spotify:artist:7jy3rLJdDQY21OgRLCZ9sD", 
+            "href": "https://api.spotify.com/v1/artists/7jy3rLJdDQY21OgRLCZ9sD", 
+            "type": "artist", 
+            "id": "7jy3rLJdDQY21OgRLCZ9sD"
+          }
+        ], 
+        "duration_ms": 132333, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "04Jk0uP8SbDHLyAKfRctNQ"
+      }, 
+      {
+        "name": "Breakout", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Y8X0tMSEKZt7rOHDwCrtt"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0faf6c3ab343b84b85e7c902582687b4be1acec7", 
+        "is_playable": true, 
+        "uri": "spotify:track:3Y8X0tMSEKZt7rOHDwCrtt", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3Y8X0tMSEKZt7rOHDwCrtt", 
+        "artists": [
+          {
+            "name": "Foo Fighters", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+            }, 
+            "uri": "spotify:artist:7jy3rLJdDQY21OgRLCZ9sD", 
+            "href": "https://api.spotify.com/v1/artists/7jy3rLJdDQY21OgRLCZ9sD", 
+            "type": "artist", 
+            "id": "7jy3rLJdDQY21OgRLCZ9sD"
+          }
+        ], 
+        "duration_ms": 200826, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "3Y8X0tMSEKZt7rOHDwCrtt"
+      }, 
+      {
+        "name": "Long Road To Ruin", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Hv5jUXVQveCj36wN6dPmD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f9a47e8a0fd09f0e3a74afa3faf7ae01d0982b98", 
+        "is_playable": true, 
+        "uri": "spotify:track:4Hv5jUXVQveCj36wN6dPmD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4Hv5jUXVQveCj36wN6dPmD", 
+        "artists": [
+          {
+            "name": "Foo Fighters", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+            }, 
+            "uri": "spotify:artist:7jy3rLJdDQY21OgRLCZ9sD", 
+            "href": "https://api.spotify.com/v1/artists/7jy3rLJdDQY21OgRLCZ9sD", 
+            "type": "artist", 
+            "id": "7jy3rLJdDQY21OgRLCZ9sD"
+          }
+        ], 
+        "duration_ms": 228346, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "4Hv5jUXVQveCj36wN6dPmD"
+      }, 
+      {
+        "name": "This Is A Call", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1KZVbkPnQYwaN5OeAHGa4P"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0ea788a47da01061344c7653d34fc875f9c05249", 
+        "is_playable": true, 
+        "uri": "spotify:track:1KZVbkPnQYwaN5OeAHGa4P", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1KZVbkPnQYwaN5OeAHGa4P", 
+        "artists": [
+          {
+            "name": "Foo Fighters", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+            }, 
+            "uri": "spotify:artist:7jy3rLJdDQY21OgRLCZ9sD", 
+            "href": "https://api.spotify.com/v1/artists/7jy3rLJdDQY21OgRLCZ9sD", 
+            "type": "artist", 
+            "id": "7jy3rLJdDQY21OgRLCZ9sD"
+          }
+        ], 
+        "duration_ms": 233066, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "1KZVbkPnQYwaN5OeAHGa4P"
+      }, 
+      {
+        "name": "Skin And Bones", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1eoQNKgUm4dX9nk0876FsL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c28df521fbc1db29d5c7a35896f525a7ac1abe70", 
+        "is_playable": true, 
+        "uri": "spotify:track:1eoQNKgUm4dX9nk0876FsL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1eoQNKgUm4dX9nk0876FsL", 
+        "artists": [
+          {
+            "name": "Foo Fighters", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+            }, 
+            "uri": "spotify:artist:7jy3rLJdDQY21OgRLCZ9sD", 
+            "href": "https://api.spotify.com/v1/artists/7jy3rLJdDQY21OgRLCZ9sD", 
+            "type": "artist", 
+            "id": "7jy3rLJdDQY21OgRLCZ9sD"
+          }
+        ], 
+        "duration_ms": 242373, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "1eoQNKgUm4dX9nk0876FsL"
+      }, 
+      {
+        "name": "Wheels", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3KsatAMRt1a7iryhWt5I8U"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c7ff25f4fa639260dba2d097058ac0f133382f3d", 
+        "is_playable": true, 
+        "uri": "spotify:track:3KsatAMRt1a7iryhWt5I8U", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3KsatAMRt1a7iryhWt5I8U", 
+        "artists": [
+          {
+            "name": "Foo Fighters", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+            }, 
+            "uri": "spotify:artist:7jy3rLJdDQY21OgRLCZ9sD", 
+            "href": "https://api.spotify.com/v1/artists/7jy3rLJdDQY21OgRLCZ9sD", 
+            "type": "artist", 
+            "id": "7jy3rLJdDQY21OgRLCZ9sD"
+          }
+        ], 
+        "duration_ms": 278213, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "3KsatAMRt1a7iryhWt5I8U"
+      }, 
+      {
+        "name": "Word Forward", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/74QDbj3qdHQhofu01RyFtT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/782f466ec89b8626c962f06e4d0106dde20c9376", 
+        "is_playable": true, 
+        "uri": "spotify:track:74QDbj3qdHQhofu01RyFtT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/74QDbj3qdHQhofu01RyFtT", 
+        "artists": [
+          {
+            "name": "Foo Fighters", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+            }, 
+            "uri": "spotify:artist:7jy3rLJdDQY21OgRLCZ9sD", 
+            "href": "https://api.spotify.com/v1/artists/7jy3rLJdDQY21OgRLCZ9sD", 
+            "type": "artist", 
+            "id": "7jy3rLJdDQY21OgRLCZ9sD"
+          }
+        ], 
+        "duration_ms": 226640, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "74QDbj3qdHQhofu01RyFtT"
+      }, 
+      {
+        "name": "Everlong - Acoustic Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3QmesrvdbPjwf7i40nht1D"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/94aa28155271e417820081a68be34a55a97d4bff", 
+        "is_playable": true, 
+        "uri": "spotify:track:3QmesrvdbPjwf7i40nht1D", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3QmesrvdbPjwf7i40nht1D", 
+        "artists": [
+          {
+            "name": "Foo Fighters", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+            }, 
+            "uri": "spotify:artist:7jy3rLJdDQY21OgRLCZ9sD", 
+            "href": "https://api.spotify.com/v1/artists/7jy3rLJdDQY21OgRLCZ9sD", 
+            "type": "artist", 
+            "id": "7jy3rLJdDQY21OgRLCZ9sD"
+          }
+        ], 
+        "duration_ms": 250906, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "3QmesrvdbPjwf7i40nht1D"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/1zCNrbPpz5OLSr6mSpPdKm/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 16, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/1zCNrbPpz5OLSr6mSpPdKm", 
+  "copyrights": [
+    {
+      "text": "(P) 1995, 1996, 1999, 2002, 2005, 2006, 2007 & 2009 Roswell Records, Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Foo Fighters", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+      }, 
+      "uri": "spotify:artist:7jy3rLJdDQY21OgRLCZ9sD", 
+      "href": "https://api.spotify.com/v1/artists/7jy3rLJdDQY21OgRLCZ9sD", 
+      "type": "artist", 
+      "id": "7jy3rLJdDQY21OgRLCZ9sD"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/d181666ebeda1aa062a5f0250b85be6150badd0f", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/9ed1dc82d30f1b519a97659f401c2397cfd68878", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/e08a4a69c8c83ecf2437f15ba706db3f35106a6b", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "884977373295"
+  }, 
+  "type": "album", 
+  "id": "1zCNrbPpz5OLSr6mSpPdKm", 
+  "name": "Greatest Hits"
+}

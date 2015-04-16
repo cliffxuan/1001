@@ -1,0 +1,795 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4svRRLCgfp7s3ZXhSOa909"
+  }, 
+  "release_date": "2012-08-03", 
+  "popularity": 46, 
+  "genres": [], 
+  "uri": "spotify:album:4svRRLCgfp7s3ZXhSOa909", 
+  "tracks": {
+    "items": [
+      {
+        "name": "A Message to You Rudy - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1QA2UaUodLGu9ES9Q7wiMq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/039875c44c685196351bb1ea37e46690c54053fe", 
+        "is_playable": true, 
+        "uri": "spotify:track:1QA2UaUodLGu9ES9Q7wiMq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1QA2UaUodLGu9ES9Q7wiMq", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 163696, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "1QA2UaUodLGu9ES9Q7wiMq"
+      }, 
+      {
+        "name": "Do the Dog - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0fL0A3WHjD1FY0EHBJQQNM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/daeb5a0c4e775b47c1d4a3584704129f8d717595", 
+        "is_playable": true, 
+        "uri": "spotify:track:0fL0A3WHjD1FY0EHBJQQNM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0fL0A3WHjD1FY0EHBJQQNM", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 133778, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "0fL0A3WHjD1FY0EHBJQQNM"
+      }, 
+      {
+        "name": "It's Up to You - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5YfIEb7iH5v827AdYatwQZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c8645e0ec1d2fc9cfeb518fffac815bab5395dcd", 
+        "is_playable": true, 
+        "uri": "spotify:track:5YfIEb7iH5v827AdYatwQZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5YfIEb7iH5v827AdYatwQZ", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 219015, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "5YfIEb7iH5v827AdYatwQZ"
+      }, 
+      {
+        "name": "Nite Klub - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1IFBm6YOSvjvv8M9H9MXwb"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e6f1d5fa63711e817a076039ec9cb1075eaa0077", 
+        "is_playable": true, 
+        "uri": "spotify:track:1IFBm6YOSvjvv8M9H9MXwb", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1IFBm6YOSvjvv8M9H9MXwb", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 240914, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "1IFBm6YOSvjvv8M9H9MXwb"
+      }, 
+      {
+        "name": "Doesn't Make It Alright - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Sa0A8Sg3dt1I3Qu4fKKZR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7b111b3483ab3de5a94be6b196224f19408369f9", 
+        "is_playable": true, 
+        "uri": "spotify:track:5Sa0A8Sg3dt1I3Qu4fKKZR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5Sa0A8Sg3dt1I3Qu4fKKZR", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 214504, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "5Sa0A8Sg3dt1I3Qu4fKKZR"
+      }, 
+      {
+        "name": "Concrete Jungle - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6GghLCZrcxKYltbp7QfF9S"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a962177b99024925b8242e8268ba186fa8711b88", 
+        "is_playable": true, 
+        "uri": "spotify:track:6GghLCZrcxKYltbp7QfF9S", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6GghLCZrcxKYltbp7QfF9S", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 189021, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "6GghLCZrcxKYltbp7QfF9S"
+      }, 
+      {
+        "name": "Too Hot - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0eEIj0JvXJIapWdiwJDbjJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/265821387a1746b4fba4d4e850bf2fe589819432", 
+        "is_playable": true, 
+        "uri": "spotify:track:0eEIj0JvXJIapWdiwJDbjJ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0eEIj0JvXJIapWdiwJDbjJ", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 165014, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "0eEIj0JvXJIapWdiwJDbjJ"
+      }, 
+      {
+        "name": "Monkey Man - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/443YGcubAjyILq61m9zBng"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/04ca207396fbe0bda38fcd41d9d04b0c781eb3b6", 
+        "is_playable": true, 
+        "uri": "spotify:track:443YGcubAjyILq61m9zBng", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/443YGcubAjyILq61m9zBng", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 156581, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "443YGcubAjyILq61m9zBng"
+      }, 
+      {
+        "name": "(Dawning of A) New Era - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Ciqy3lDCiaWLJ5g03Yc1o"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/aaaab5450c1d0b29df45f512cfae4e41158d1ace", 
+        "is_playable": true, 
+        "uri": "spotify:track:6Ciqy3lDCiaWLJ5g03Yc1o", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6Ciqy3lDCiaWLJ5g03Yc1o", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 143218, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "6Ciqy3lDCiaWLJ5g03Yc1o"
+      }, 
+      {
+        "name": "Blank Expression - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1eYaFW2m51l7fYPpxrpU3J"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/705ba3a9287ac72a3e86af0ca57cbea64222a748", 
+        "is_playable": true, 
+        "uri": "spotify:track:1eYaFW2m51l7fYPpxrpU3J", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1eYaFW2m51l7fYPpxrpU3J", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 125108, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "1eYaFW2m51l7fYPpxrpU3J"
+      }, 
+      {
+        "name": "Stupid Marriage - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5kEJgcbtcrbsNiJorbZ6F7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0dbc100299ad2572164de636376d355eb0ddbfb5", 
+        "is_playable": true, 
+        "uri": "spotify:track:5kEJgcbtcrbsNiJorbZ6F7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5kEJgcbtcrbsNiJorbZ6F7", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 273487, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "5kEJgcbtcrbsNiJorbZ6F7"
+      }, 
+      {
+        "name": "Too Much Too Young - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0oylUJRtqvZd8FneSdOehD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f3e117c6742e10fa69c9633c0da8d3e8f37d07f0", 
+        "is_playable": true, 
+        "uri": "spotify:track:0oylUJRtqvZd8FneSdOehD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0oylUJRtqvZd8FneSdOehD", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 116813, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "0oylUJRtqvZd8FneSdOehD"
+      }, 
+      {
+        "name": "Little Bitch - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/41XwNBpgiywSuxpBUm3wvT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b4bb1ac496148469f4d3bcc93a43d8406ac397f8", 
+        "is_playable": true, 
+        "uri": "spotify:track:41XwNBpgiywSuxpBUm3wvT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/41XwNBpgiywSuxpBUm3wvT", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 148747, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "41XwNBpgiywSuxpBUm3wvT"
+      }, 
+      {
+        "name": "You're Wondering Now - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4ciraMx2rFFlaazbp5tWVo"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/605fffcd9d9a4bea7d136bd2810319c391468988", 
+        "is_playable": true, 
+        "uri": "spotify:track:4ciraMx2rFFlaazbp5tWVo", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4ciraMx2rFFlaazbp5tWVo", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 190985, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "4ciraMx2rFFlaazbp5tWVo"
+      }, 
+      {
+        "name": "Enjoy Yourself (It's Later Than You Think) - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/58afRhIBo2n2PXZQyCkq8Y"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/066e52dc98db6047a22dcb9f5102fa5c821d85eb", 
+        "is_playable": true, 
+        "uri": "spotify:track:58afRhIBo2n2PXZQyCkq8Y", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/58afRhIBo2n2PXZQyCkq8Y", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 214737, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "58afRhIBo2n2PXZQyCkq8Y"
+      }, 
+      {
+        "name": "Rat Race - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2X9bm8ajjIcAnamtQcF5lP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4c3ab40eff2a196d73b045cb79d5ac7d267208ee", 
+        "is_playable": true, 
+        "uri": "spotify:track:2X9bm8ajjIcAnamtQcF5lP", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/2X9bm8ajjIcAnamtQcF5lP", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 187680, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "2X9bm8ajjIcAnamtQcF5lP"
+      }, 
+      {
+        "name": "Man At C&A - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/64bi0eATZwssbOqxDnPPWm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1839afe8511750fcdc4d288fd7c02ebf32ec0230", 
+        "is_playable": true, 
+        "uri": "spotify:track:64bi0eATZwssbOqxDnPPWm", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/64bi0eATZwssbOqxDnPPWm", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 216902, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "64bi0eATZwssbOqxDnPPWm"
+      }, 
+      {
+        "name": "Hey Little Rich Girl - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3b9fJ54Ra7iO3wiDxDG8MQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/dd5b07f84ae6a234aa5b6b7e6d6d12cdc7aee494", 
+        "is_playable": true, 
+        "uri": "spotify:track:3b9fJ54Ra7iO3wiDxDG8MQ", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/3b9fJ54Ra7iO3wiDxDG8MQ", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 216921, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "3b9fJ54Ra7iO3wiDxDG8MQ"
+      }, 
+      {
+        "name": "Do Nothing - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1wACEY3lwELDt5poA7IUfV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3189a216afb849d997ec7894f889e242bb601e14", 
+        "is_playable": true, 
+        "uri": "spotify:track:1wACEY3lwELDt5poA7IUfV", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1wACEY3lwELDt5poA7IUfV", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 212063, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "1wACEY3lwELDt5poA7IUfV"
+      }, 
+      {
+        "name": "Pearl's Cafe - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0z3R4In2WtboDsBViXTFnw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/43b47585b9acdb3f2d0bd98edfdf04b9d36a97aa", 
+        "is_playable": true, 
+        "uri": "spotify:track:0z3R4In2WtboDsBViXTFnw", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/0z3R4In2WtboDsBViXTFnw", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 189273, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "0z3R4In2WtboDsBViXTFnw"
+      }, 
+      {
+        "name": "Stereotype - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0ZVC1z50Rra8HcPpmfo2de"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5c0876baec5aa4760294d0fa7e3a3322b4ae2eae", 
+        "is_playable": true, 
+        "uri": "spotify:track:0ZVC1z50Rra8HcPpmfo2de", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/0ZVC1z50Rra8HcPpmfo2de", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 269997, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "0ZVC1z50Rra8HcPpmfo2de"
+      }, 
+      {
+        "name": "Ghost Town - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3XhChqLQGnbtGILCh3a54w"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d98c252beb6ce6c58e07ac41a1bcef2f26e7948c", 
+        "is_playable": true, 
+        "uri": "spotify:track:3XhChqLQGnbtGILCh3a54w", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/3XhChqLQGnbtGILCh3a54w", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 367872, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "3XhChqLQGnbtGILCh3a54w"
+      }, 
+      {
+        "name": "Friday Night, Saturday Morning - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4TkLtJOPsr5RJ69CJSYSBF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/12f5128993094948cdb28547cc3fee54dc5b4c9a", 
+        "is_playable": true, 
+        "uri": "spotify:track:4TkLtJOPsr5RJ69CJSYSBF", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4TkLtJOPsr5RJ69CJSYSBF", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 202048, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "4TkLtJOPsr5RJ69CJSYSBF"
+      }, 
+      {
+        "name": "International Jet Set - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5PKDShyS7Q821HvsUs5Im7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9beab6eb89661f216d5409fe1552bee0303c3372", 
+        "is_playable": true, 
+        "uri": "spotify:track:5PKDShyS7Q821HvsUs5Im7", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5PKDShyS7Q821HvsUs5Im7", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 233833, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "5PKDShyS7Q821HvsUs5Im7"
+      }, 
+      {
+        "name": "Gangsters - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4fSJnXum3B8HmHf8yd5jXb"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e5fa82c366b5d182208dd4959530dbc8800e73f2", 
+        "is_playable": true, 
+        "uri": "spotify:track:4fSJnXum3B8HmHf8yd5jXb", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4fSJnXum3B8HmHf8yd5jXb", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 183156, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "4fSJnXum3B8HmHf8yd5jXb"
+      }, 
+      {
+        "name": "Guns of Navarone - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6GKdACmNOj0is6RpBUc7ZG"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0f9c12de95b9809db2b2ed3c6f81234ea7e762aa", 
+        "is_playable": true, 
+        "uri": "spotify:track:6GKdACmNOj0is6RpBUc7ZG", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6GKdACmNOj0is6RpBUc7ZG", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 162742, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "6GKdACmNOj0is6RpBUc7ZG"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/4svRRLCgfp7s3ZXhSOa909/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 26, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/4svRRLCgfp7s3ZXhSOa909", 
+  "copyrights": [
+    {
+      "text": "2012 Windrush AKA LLP under exclusive licence to Parlophone Records Ltd", 
+      "type": "C"
+    }, 
+    {
+      "text": "2012 Windrush AKA LLP under exclusive licence to Parlophone Records Ltd", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "The Specials", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+      }, 
+      "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+      "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+      "type": "artist", 
+      "id": "6xnvNmSzmeOE1bLKnYXKW3"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/fcdfc979ffed673ef8669e5fb48bfe5840f92b08", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/d74eafeaed4569c7ad1be3747d904ede97fe1a08", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/7cf55b7660e3cd1ae4316378bd510146e13d3c4c", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "5099962101158"
+  }, 
+  "type": "album", 
+  "id": "4svRRLCgfp7s3ZXhSOa909", 
+  "name": "More...Or Less. The Specials Live"
+}

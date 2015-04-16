@@ -1,0 +1,767 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3fRCOoTbBsOITBWlCRCJQr"
+  }, 
+  "release_date": "1972", 
+  "popularity": 49, 
+  "genres": [], 
+  "uri": "spotify:album:3fRCOoTbBsOITBWlCRCJQr", 
+  "tracks": {
+    "items": [
+      {
+        "name": "I Saw The Light", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0B1zVsLqmV9ibIFdNS5tGs"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/281cbca6d3f921217b42a048e9f95f4d3e9ee350", 
+        "is_playable": true, 
+        "uri": "spotify:track:0B1zVsLqmV9ibIFdNS5tGs", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0B1zVsLqmV9ibIFdNS5tGs", 
+        "artists": [
+          {
+            "name": "Todd Rundgren", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
+            }, 
+            "uri": "spotify:artist:0Lpr5wXzWLtDWm1SjNbpPb", 
+            "href": "https://api.spotify.com/v1/artists/0Lpr5wXzWLtDWm1SjNbpPb", 
+            "type": "artist", 
+            "id": "0Lpr5wXzWLtDWm1SjNbpPb"
+          }
+        ], 
+        "duration_ms": 182800, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "0B1zVsLqmV9ibIFdNS5tGs"
+      }, 
+      {
+        "name": "It Wouldn't Have Made Any Difference", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/00f5cJ88kjiyCLJebRHgAY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c4ccd49b4464d013687019c8725421fce95faa4b", 
+        "is_playable": true, 
+        "uri": "spotify:track:00f5cJ88kjiyCLJebRHgAY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/00f5cJ88kjiyCLJebRHgAY", 
+        "artists": [
+          {
+            "name": "Todd Rundgren", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
+            }, 
+            "uri": "spotify:artist:0Lpr5wXzWLtDWm1SjNbpPb", 
+            "href": "https://api.spotify.com/v1/artists/0Lpr5wXzWLtDWm1SjNbpPb", 
+            "type": "artist", 
+            "id": "0Lpr5wXzWLtDWm1SjNbpPb"
+          }
+        ], 
+        "duration_ms": 233800, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "00f5cJ88kjiyCLJebRHgAY"
+      }, 
+      {
+        "name": "Wolfman Jack", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7gYEcnIrG2MZsHHlfihStV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a1818a86a400cfc81acc270c4528a5b070fc609a", 
+        "is_playable": true, 
+        "uri": "spotify:track:7gYEcnIrG2MZsHHlfihStV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7gYEcnIrG2MZsHHlfihStV", 
+        "artists": [
+          {
+            "name": "Todd Rundgren", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
+            }, 
+            "uri": "spotify:artist:0Lpr5wXzWLtDWm1SjNbpPb", 
+            "href": "https://api.spotify.com/v1/artists/0Lpr5wXzWLtDWm1SjNbpPb", 
+            "type": "artist", 
+            "id": "0Lpr5wXzWLtDWm1SjNbpPb"
+          }
+        ], 
+        "duration_ms": 174386, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "7gYEcnIrG2MZsHHlfihStV"
+      }, 
+      {
+        "name": "Cold Morning Light", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0XEC9bbC1nqnNbigggQJrO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1eb1af7e32056775b46cbc2cef1fd05fdddac066", 
+        "is_playable": true, 
+        "uri": "spotify:track:0XEC9bbC1nqnNbigggQJrO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0XEC9bbC1nqnNbigggQJrO", 
+        "artists": [
+          {
+            "name": "Todd Rundgren", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
+            }, 
+            "uri": "spotify:artist:0Lpr5wXzWLtDWm1SjNbpPb", 
+            "href": "https://api.spotify.com/v1/artists/0Lpr5wXzWLtDWm1SjNbpPb", 
+            "type": "artist", 
+            "id": "0Lpr5wXzWLtDWm1SjNbpPb"
+          }
+        ], 
+        "duration_ms": 214906, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "0XEC9bbC1nqnNbigggQJrO"
+      }, 
+      {
+        "name": "It Takes Two To Tango [This Is For The Girls]", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5vtv11TLTbIIQZJjceBUXc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9031b6c3a66d9202d846d83430e7d4dec51343a6", 
+        "is_playable": true, 
+        "uri": "spotify:track:5vtv11TLTbIIQZJjceBUXc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5vtv11TLTbIIQZJjceBUXc", 
+        "artists": [
+          {
+            "name": "Todd Rundgren", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
+            }, 
+            "uri": "spotify:artist:0Lpr5wXzWLtDWm1SjNbpPb", 
+            "href": "https://api.spotify.com/v1/artists/0Lpr5wXzWLtDWm1SjNbpPb", 
+            "type": "artist", 
+            "id": "0Lpr5wXzWLtDWm1SjNbpPb"
+          }
+        ], 
+        "duration_ms": 161426, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "5vtv11TLTbIIQZJjceBUXc"
+      }, 
+      {
+        "name": "Sweeter Memories", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/55QchVZGuIv2MRkMaEswUL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7be8c31683389569db6ed8074fa77dd322443601", 
+        "is_playable": true, 
+        "uri": "spotify:track:55QchVZGuIv2MRkMaEswUL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/55QchVZGuIv2MRkMaEswUL", 
+        "artists": [
+          {
+            "name": "Todd Rundgren", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
+            }, 
+            "uri": "spotify:artist:0Lpr5wXzWLtDWm1SjNbpPb", 
+            "href": "https://api.spotify.com/v1/artists/0Lpr5wXzWLtDWm1SjNbpPb", 
+            "type": "artist", 
+            "id": "0Lpr5wXzWLtDWm1SjNbpPb"
+          }
+        ], 
+        "duration_ms": 213640, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "55QchVZGuIv2MRkMaEswUL"
+      }, 
+      {
+        "name": "Intro", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0IEZI57xAMEdWkCkxOVxST"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6026177012efe89f96bd9b6664a397a74ca1af95", 
+        "is_playable": true, 
+        "uri": "spotify:track:0IEZI57xAMEdWkCkxOVxST", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0IEZI57xAMEdWkCkxOVxST", 
+        "artists": [
+          {
+            "name": "Todd Rundgren", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
+            }, 
+            "uri": "spotify:artist:0Lpr5wXzWLtDWm1SjNbpPb", 
+            "href": "https://api.spotify.com/v1/artists/0Lpr5wXzWLtDWm1SjNbpPb", 
+            "type": "artist", 
+            "id": "0Lpr5wXzWLtDWm1SjNbpPb"
+          }
+        ], 
+        "duration_ms": 71400, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "0IEZI57xAMEdWkCkxOVxST"
+      }, 
+      {
+        "name": "Breathless [instrumental]", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2PorMZrQi8RtTwwH0IYqvF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3be9cd93956b5cc78187f469e5be7e9ec7e5a5ed", 
+        "is_playable": true, 
+        "uri": "spotify:track:2PorMZrQi8RtTwwH0IYqvF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2PorMZrQi8RtTwwH0IYqvF", 
+        "artists": [
+          {
+            "name": "Todd Rundgren", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
+            }, 
+            "uri": "spotify:artist:0Lpr5wXzWLtDWm1SjNbpPb", 
+            "href": "https://api.spotify.com/v1/artists/0Lpr5wXzWLtDWm1SjNbpPb", 
+            "type": "artist", 
+            "id": "0Lpr5wXzWLtDWm1SjNbpPb"
+          }
+        ], 
+        "duration_ms": 195373, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "2PorMZrQi8RtTwwH0IYqvF"
+      }, 
+      {
+        "name": "The Night The Carousel Burned Down", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4OlRuc0DvBjfO7ncO0qcuj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a0b49dcfc4713fd97ac532eb66e11efa9c0c2f5e", 
+        "is_playable": true, 
+        "uri": "spotify:track:4OlRuc0DvBjfO7ncO0qcuj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4OlRuc0DvBjfO7ncO0qcuj", 
+        "artists": [
+          {
+            "name": "Todd Rundgren", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
+            }, 
+            "uri": "spotify:artist:0Lpr5wXzWLtDWm1SjNbpPb", 
+            "href": "https://api.spotify.com/v1/artists/0Lpr5wXzWLtDWm1SjNbpPb", 
+            "type": "artist", 
+            "id": "0Lpr5wXzWLtDWm1SjNbpPb"
+          }
+        ], 
+        "duration_ms": 268826, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "4OlRuc0DvBjfO7ncO0qcuj"
+      }, 
+      {
+        "name": "Saving Grace", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7xlQYz6LpDMii7y3G5upEb"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7cf8c99429304698b56333bac89f21708f1b6a05", 
+        "is_playable": true, 
+        "uri": "spotify:track:7xlQYz6LpDMii7y3G5upEb", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7xlQYz6LpDMii7y3G5upEb", 
+        "artists": [
+          {
+            "name": "Todd Rundgren", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
+            }, 
+            "uri": "spotify:artist:0Lpr5wXzWLtDWm1SjNbpPb", 
+            "href": "https://api.spotify.com/v1/artists/0Lpr5wXzWLtDWm1SjNbpPb", 
+            "type": "artist", 
+            "id": "0Lpr5wXzWLtDWm1SjNbpPb"
+          }
+        ], 
+        "duration_ms": 252600, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "7xlQYz6LpDMii7y3G5upEb"
+      }, 
+      {
+        "name": "Marlene", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6LJNwRoSsx5G3Ktp6lp3eK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b7c2649cad52b1eddcf4f6f950b89c42f28b2392", 
+        "is_playable": true, 
+        "uri": "spotify:track:6LJNwRoSsx5G3Ktp6lp3eK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6LJNwRoSsx5G3Ktp6lp3eK", 
+        "artists": [
+          {
+            "name": "Todd Rundgren", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
+            }, 
+            "uri": "spotify:artist:0Lpr5wXzWLtDWm1SjNbpPb", 
+            "href": "https://api.spotify.com/v1/artists/0Lpr5wXzWLtDWm1SjNbpPb", 
+            "type": "artist", 
+            "id": "0Lpr5wXzWLtDWm1SjNbpPb"
+          }
+        ], 
+        "duration_ms": 234200, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "6LJNwRoSsx5G3Ktp6lp3eK"
+      }, 
+      {
+        "name": "Song Of The Viking", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0xyx6J1l9808WlAJiTInqq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/274da8779acbbfd391d9cd8b96f8797f3fd8fdc2", 
+        "is_playable": true, 
+        "uri": "spotify:track:0xyx6J1l9808WlAJiTInqq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0xyx6J1l9808WlAJiTInqq", 
+        "artists": [
+          {
+            "name": "Todd Rundgren", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
+            }, 
+            "uri": "spotify:artist:0Lpr5wXzWLtDWm1SjNbpPb", 
+            "href": "https://api.spotify.com/v1/artists/0Lpr5wXzWLtDWm1SjNbpPb", 
+            "type": "artist", 
+            "id": "0Lpr5wXzWLtDWm1SjNbpPb"
+          }
+        ], 
+        "duration_ms": 151640, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "0xyx6J1l9808WlAJiTInqq"
+      }, 
+      {
+        "name": "I Went To The Mirror", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/73f7HS33i8GmNtMl0SKDsh"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/14d66044ec71bf2981f474a2352f82c098d6d79d", 
+        "is_playable": true, 
+        "uri": "spotify:track:73f7HS33i8GmNtMl0SKDsh", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/73f7HS33i8GmNtMl0SKDsh", 
+        "artists": [
+          {
+            "name": "Todd Rundgren", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
+            }, 
+            "uri": "spotify:artist:0Lpr5wXzWLtDWm1SjNbpPb", 
+            "href": "https://api.spotify.com/v1/artists/0Lpr5wXzWLtDWm1SjNbpPb", 
+            "type": "artist", 
+            "id": "0Lpr5wXzWLtDWm1SjNbpPb"
+          }
+        ], 
+        "duration_ms": 244400, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "73f7HS33i8GmNtMl0SKDsh"
+      }, 
+      {
+        "name": "Black Maria", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2cQPn2UvmVPISIYyZf37ik"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/497f161c89d4742bc68798621356065acda74f30", 
+        "is_playable": true, 
+        "uri": "spotify:track:2cQPn2UvmVPISIYyZf37ik", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2cQPn2UvmVPISIYyZf37ik", 
+        "artists": [
+          {
+            "name": "Todd Rundgren", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
+            }, 
+            "uri": "spotify:artist:0Lpr5wXzWLtDWm1SjNbpPb", 
+            "href": "https://api.spotify.com/v1/artists/0Lpr5wXzWLtDWm1SjNbpPb", 
+            "type": "artist", 
+            "id": "0Lpr5wXzWLtDWm1SjNbpPb"
+          }
+        ], 
+        "duration_ms": 320706, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "2cQPn2UvmVPISIYyZf37ik"
+      }, 
+      {
+        "name": "One More Day [No Word]", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0BOav0FaagyDhh1FGw3Wza"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6061cadacf9f051b5c5719a0887b718aa0887711", 
+        "is_playable": true, 
+        "uri": "spotify:track:0BOav0FaagyDhh1FGw3Wza", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0BOav0FaagyDhh1FGw3Wza", 
+        "artists": [
+          {
+            "name": "Todd Rundgren", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
+            }, 
+            "uri": "spotify:artist:0Lpr5wXzWLtDWm1SjNbpPb", 
+            "href": "https://api.spotify.com/v1/artists/0Lpr5wXzWLtDWm1SjNbpPb", 
+            "type": "artist", 
+            "id": "0Lpr5wXzWLtDWm1SjNbpPb"
+          }
+        ], 
+        "duration_ms": 223000, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "0BOav0FaagyDhh1FGw3Wza"
+      }, 
+      {
+        "name": "Couldn't I Just Tell You", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/02jZSvPG0SNsBwj6g9yRCo"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1ecc8fa5f260f8a9fcf05fb2cf6166b7cd228aea", 
+        "is_playable": true, 
+        "uri": "spotify:track:02jZSvPG0SNsBwj6g9yRCo", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/02jZSvPG0SNsBwj6g9yRCo", 
+        "artists": [
+          {
+            "name": "Todd Rundgren", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
+            }, 
+            "uri": "spotify:artist:0Lpr5wXzWLtDWm1SjNbpPb", 
+            "href": "https://api.spotify.com/v1/artists/0Lpr5wXzWLtDWm1SjNbpPb", 
+            "type": "artist", 
+            "id": "0Lpr5wXzWLtDWm1SjNbpPb"
+          }
+        ], 
+        "duration_ms": 202506, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "02jZSvPG0SNsBwj6g9yRCo"
+      }, 
+      {
+        "name": "Torch Song", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2xu1LAcW7YHL54K2VPDux3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/95374330814dfd022cd649a75695d799e5880dd1", 
+        "is_playable": true, 
+        "uri": "spotify:track:2xu1LAcW7YHL54K2VPDux3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2xu1LAcW7YHL54K2VPDux3", 
+        "artists": [
+          {
+            "name": "Todd Rundgren", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
+            }, 
+            "uri": "spotify:artist:0Lpr5wXzWLtDWm1SjNbpPb", 
+            "href": "https://api.spotify.com/v1/artists/0Lpr5wXzWLtDWm1SjNbpPb", 
+            "type": "artist", 
+            "id": "0Lpr5wXzWLtDWm1SjNbpPb"
+          }
+        ], 
+        "duration_ms": 173240, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "2xu1LAcW7YHL54K2VPDux3"
+      }, 
+      {
+        "name": "Little Red Lights", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1LoJCcOkOwhdVu34KGeE39"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d35b9b483e3d2a08559fa56571e556d61fa72f53", 
+        "is_playable": true, 
+        "uri": "spotify:track:1LoJCcOkOwhdVu34KGeE39", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1LoJCcOkOwhdVu34KGeE39", 
+        "artists": [
+          {
+            "name": "Todd Rundgren", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
+            }, 
+            "uri": "spotify:artist:0Lpr5wXzWLtDWm1SjNbpPb", 
+            "href": "https://api.spotify.com/v1/artists/0Lpr5wXzWLtDWm1SjNbpPb", 
+            "type": "artist", 
+            "id": "0Lpr5wXzWLtDWm1SjNbpPb"
+          }
+        ], 
+        "duration_ms": 289426, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "1LoJCcOkOwhdVu34KGeE39"
+      }, 
+      {
+        "name": "Overture - My Roots: Money [That's What I Want]//Messin' With The Kid", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3rlASa17Axd0WzFo8pexxB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1d0d7415b6efdaa7c0a642ef51aace7e36e8b90c", 
+        "is_playable": true, 
+        "uri": "spotify:track:3rlASa17Axd0WzFo8pexxB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3rlASa17Axd0WzFo8pexxB", 
+        "artists": [
+          {
+            "name": "Todd Rundgren", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
+            }, 
+            "uri": "spotify:artist:0Lpr5wXzWLtDWm1SjNbpPb", 
+            "href": "https://api.spotify.com/v1/artists/0Lpr5wXzWLtDWm1SjNbpPb", 
+            "type": "artist", 
+            "id": "0Lpr5wXzWLtDWm1SjNbpPb"
+          }
+        ], 
+        "duration_ms": 148893, 
+        "track_number": 19, 
+        "type": "track", 
+        "id": "3rlASa17Axd0WzFo8pexxB"
+      }, 
+      {
+        "name": "Dust In The Wind", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7gnAdOnDFHgaEB3VpwCZNM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6b14d1a131617b118693c6b4f8e4664af3fb442c", 
+        "is_playable": true, 
+        "uri": "spotify:track:7gnAdOnDFHgaEB3VpwCZNM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7gnAdOnDFHgaEB3VpwCZNM", 
+        "artists": [
+          {
+            "name": "Todd Rundgren", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
+            }, 
+            "uri": "spotify:artist:0Lpr5wXzWLtDWm1SjNbpPb", 
+            "href": "https://api.spotify.com/v1/artists/0Lpr5wXzWLtDWm1SjNbpPb", 
+            "type": "artist", 
+            "id": "0Lpr5wXzWLtDWm1SjNbpPb"
+          }
+        ], 
+        "duration_ms": 229240, 
+        "track_number": 20, 
+        "type": "track", 
+        "id": "7gnAdOnDFHgaEB3VpwCZNM"
+      }, 
+      {
+        "name": "Piss Aaron", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3f3OD6f2xRjCJD2DE1NS7T"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8a274e51d20f5d56289360723ce25cae55e7626b", 
+        "is_playable": true, 
+        "uri": "spotify:track:3f3OD6f2xRjCJD2DE1NS7T", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3f3OD6f2xRjCJD2DE1NS7T", 
+        "artists": [
+          {
+            "name": "Todd Rundgren", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
+            }, 
+            "uri": "spotify:artist:0Lpr5wXzWLtDWm1SjNbpPb", 
+            "href": "https://api.spotify.com/v1/artists/0Lpr5wXzWLtDWm1SjNbpPb", 
+            "type": "artist", 
+            "id": "0Lpr5wXzWLtDWm1SjNbpPb"
+          }
+        ], 
+        "duration_ms": 206866, 
+        "track_number": 21, 
+        "type": "track", 
+        "id": "3f3OD6f2xRjCJD2DE1NS7T"
+      }, 
+      {
+        "name": "Hello It's Me", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3gHFKiDanj4d2rqgHlRFFc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/13f9909f90ec6647a74a60d7d679dcc961a25ce6", 
+        "is_playable": true, 
+        "uri": "spotify:track:3gHFKiDanj4d2rqgHlRFFc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3gHFKiDanj4d2rqgHlRFFc", 
+        "artists": [
+          {
+            "name": "Todd Rundgren", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
+            }, 
+            "uri": "spotify:artist:0Lpr5wXzWLtDWm1SjNbpPb", 
+            "href": "https://api.spotify.com/v1/artists/0Lpr5wXzWLtDWm1SjNbpPb", 
+            "type": "artist", 
+            "id": "0Lpr5wXzWLtDWm1SjNbpPb"
+          }
+        ], 
+        "duration_ms": 264093, 
+        "track_number": 22, 
+        "type": "track", 
+        "id": "3gHFKiDanj4d2rqgHlRFFc"
+      }, 
+      {
+        "name": "Some Folks Is Even Whiter Than Me", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6yzNoze9DpUXiK2MpJ1SOg"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/38ba3b9c1baa60898c0a4b6ca66408455cf0b9b4", 
+        "is_playable": true, 
+        "uri": "spotify:track:6yzNoze9DpUXiK2MpJ1SOg", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6yzNoze9DpUXiK2MpJ1SOg", 
+        "artists": [
+          {
+            "name": "Todd Rundgren", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
+            }, 
+            "uri": "spotify:artist:0Lpr5wXzWLtDWm1SjNbpPb", 
+            "href": "https://api.spotify.com/v1/artists/0Lpr5wXzWLtDWm1SjNbpPb", 
+            "type": "artist", 
+            "id": "0Lpr5wXzWLtDWm1SjNbpPb"
+          }
+        ], 
+        "duration_ms": 240173, 
+        "track_number": 23, 
+        "type": "track", 
+        "id": "6yzNoze9DpUXiK2MpJ1SOg"
+      }, 
+      {
+        "name": "You Left Me Sore", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/577d37MK13qDP6lYHE6WyL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/660b5b42bc145f9efd82d8f9482a05c75299ec91", 
+        "is_playable": true, 
+        "uri": "spotify:track:577d37MK13qDP6lYHE6WyL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/577d37MK13qDP6lYHE6WyL", 
+        "artists": [
+          {
+            "name": "Todd Rundgren", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
+            }, 
+            "uri": "spotify:artist:0Lpr5wXzWLtDWm1SjNbpPb", 
+            "href": "https://api.spotify.com/v1/artists/0Lpr5wXzWLtDWm1SjNbpPb", 
+            "type": "artist", 
+            "id": "0Lpr5wXzWLtDWm1SjNbpPb"
+          }
+        ], 
+        "duration_ms": 193800, 
+        "track_number": 24, 
+        "type": "track", 
+        "id": "577d37MK13qDP6lYHE6WyL"
+      }, 
+      {
+        "name": "Slut", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3nx5O5uwblXfD9INmgLUy0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c07744d499564538af22da421b5bbc5ba0afa9ea", 
+        "is_playable": true, 
+        "uri": "spotify:track:3nx5O5uwblXfD9INmgLUy0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3nx5O5uwblXfD9INmgLUy0", 
+        "artists": [
+          {
+            "name": "Todd Rundgren", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
+            }, 
+            "uri": "spotify:artist:0Lpr5wXzWLtDWm1SjNbpPb", 
+            "href": "https://api.spotify.com/v1/artists/0Lpr5wXzWLtDWm1SjNbpPb", 
+            "type": "artist", 
+            "id": "0Lpr5wXzWLtDWm1SjNbpPb"
+          }
+        ], 
+        "duration_ms": 244600, 
+        "track_number": 25, 
+        "type": "track", 
+        "id": "3nx5O5uwblXfD9INmgLUy0"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/3fRCOoTbBsOITBWlCRCJQr/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 25, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/3fRCOoTbBsOITBWlCRCJQr", 
+  "copyrights": [
+    {
+      "text": "1972 Bearsville Records Inc. Manufactured and Marketed by Rhino Records Inc.", 
+      "type": "C"
+    }, 
+    {
+      "text": "1972 Bearsville Records Inc. Manufactured and Marketed by Rhino Records Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Todd Rundgren", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
+      }, 
+      "uri": "spotify:artist:0Lpr5wXzWLtDWm1SjNbpPb", 
+      "href": "https://api.spotify.com/v1/artists/0Lpr5wXzWLtDWm1SjNbpPb", 
+      "type": "artist", 
+      "id": "0Lpr5wXzWLtDWm1SjNbpPb"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/9a129203c3ba39a30ee3bf3a8b1bf66d1ac9fa6a", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/99cd4f94fb2e31a82a01bb1cf16c79736b444c23", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/ad2c408ee9e34b8a121d8f1ffa58167dde14d3aa", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "081227110765"
+  }, 
+  "type": "album", 
+  "id": "3fRCOoTbBsOITBWlCRCJQr", 
+  "name": "Something/Anything?"
+}

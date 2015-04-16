@@ -1,0 +1,751 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0TTt6Qm26MyMKv0EM2BKAa"
+  }, 
+  "release_date": "1990-05-16", 
+  "popularity": 51, 
+  "genres": [], 
+  "uri": "spotify:album:0TTt6Qm26MyMKv0EM2BKAa", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Better Off Dead", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1yRNV5v6EKQre1u99PzyOX"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/dfba99b4077e9826af8c1731ee7567d17cb4c4a2", 
+        "is_playable": true, 
+        "uri": "spotify:track:1yRNV5v6EKQre1u99PzyOX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1yRNV5v6EKQre1u99PzyOX", 
+        "artists": [
+          {
+            "name": "Ice Cube", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+            }, 
+            "uri": "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA", 
+            "href": "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA", 
+            "type": "artist", 
+            "id": "3Mcii5XWf6E0lrY3Uky4cA"
+          }
+        ], 
+        "duration_ms": 62960, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "1yRNV5v6EKQre1u99PzyOX"
+      }, 
+      {
+        "name": "The Nigga Ya Love To Hate", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7vZK429dbZl31tNX3sOnZh"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/dfff664dadddc99fef8a094d971ab6a79248a8a1", 
+        "is_playable": true, 
+        "uri": "spotify:track:7vZK429dbZl31tNX3sOnZh", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7vZK429dbZl31tNX3sOnZh", 
+        "artists": [
+          {
+            "name": "Ice Cube", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+            }, 
+            "uri": "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA", 
+            "href": "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA", 
+            "type": "artist", 
+            "id": "3Mcii5XWf6E0lrY3Uky4cA"
+          }
+        ], 
+        "duration_ms": 192933, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "7vZK429dbZl31tNX3sOnZh"
+      }, 
+      {
+        "name": "AmeriKKKa's Most Wanted", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3g3iafPsVXn37kbdU5wffH"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e6744b4edc83393ed3ec9debb1b68b933591d60f", 
+        "is_playable": true, 
+        "uri": "spotify:track:3g3iafPsVXn37kbdU5wffH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3g3iafPsVXn37kbdU5wffH", 
+        "artists": [
+          {
+            "name": "Ice Cube", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+            }, 
+            "uri": "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA", 
+            "href": "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA", 
+            "type": "artist", 
+            "id": "3Mcii5XWf6E0lrY3Uky4cA"
+          }
+        ], 
+        "duration_ms": 248466, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "3g3iafPsVXn37kbdU5wffH"
+      }, 
+      {
+        "name": "What They Hittin' Foe?", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0C8dpgSPjSPlS4Hn7Fs0yu"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4ed9e1acc9b92e2c5f5602ce57ae959eeab09d2d", 
+        "is_playable": true, 
+        "uri": "spotify:track:0C8dpgSPjSPlS4Hn7Fs0yu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0C8dpgSPjSPlS4Hn7Fs0yu", 
+        "artists": [
+          {
+            "name": "Ice Cube", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+            }, 
+            "uri": "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA", 
+            "href": "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA", 
+            "type": "artist", 
+            "id": "3Mcii5XWf6E0lrY3Uky4cA"
+          }
+        ], 
+        "duration_ms": 82866, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "0C8dpgSPjSPlS4Hn7Fs0yu"
+      }, 
+      {
+        "name": "You Can't Fade Me/JD's Gaffilin' (Medley)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7Cg9uA6kuSqT1IF27JdILJ"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/774d17c9e3feedaad5eea944b8d4262bb0bf6201", 
+        "is_playable": true, 
+        "uri": "spotify:track:7Cg9uA6kuSqT1IF27JdILJ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7Cg9uA6kuSqT1IF27JdILJ", 
+        "artists": [
+          {
+            "name": "Ice Cube", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+            }, 
+            "uri": "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA", 
+            "href": "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA", 
+            "type": "artist", 
+            "id": "3Mcii5XWf6E0lrY3Uky4cA"
+          }
+        ], 
+        "duration_ms": 312840, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "7Cg9uA6kuSqT1IF27JdILJ"
+      }, 
+      {
+        "name": "Once Upon A Time In The Projects", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1InXAuvscHC5A5i84XIrz6"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/81f3752341092584252e16dad0a1f51be7b509e6", 
+        "is_playable": true, 
+        "uri": "spotify:track:1InXAuvscHC5A5i84XIrz6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1InXAuvscHC5A5i84XIrz6", 
+        "artists": [
+          {
+            "name": "Ice Cube", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+            }, 
+            "uri": "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA", 
+            "href": "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA", 
+            "type": "artist", 
+            "id": "3Mcii5XWf6E0lrY3Uky4cA"
+          }
+        ], 
+        "duration_ms": 220026, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "1InXAuvscHC5A5i84XIrz6"
+      }, 
+      {
+        "name": "Turn Off The Radio", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7BePz00e3NNMV2Uw8Zr1hR"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3e784320252f079dac1d9b316b91ee5cbe6943f9", 
+        "is_playable": true, 
+        "uri": "spotify:track:7BePz00e3NNMV2Uw8Zr1hR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7BePz00e3NNMV2Uw8Zr1hR", 
+        "artists": [
+          {
+            "name": "Ice Cube", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+            }, 
+            "uri": "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA", 
+            "href": "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA", 
+            "type": "artist", 
+            "id": "3Mcii5XWf6E0lrY3Uky4cA"
+          }
+        ], 
+        "duration_ms": 157600, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "7BePz00e3NNMV2Uw8Zr1hR"
+      }, 
+      {
+        "name": "Endangered Species (Tales From The Darkside) - Feat. Chuck D", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7i5TM9cEZnh60AlMM5BPdB"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/843e35a8ca6f6853e7de40218b37c03fc1d3e2db", 
+        "is_playable": true, 
+        "uri": "spotify:track:7i5TM9cEZnh60AlMM5BPdB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7i5TM9cEZnh60AlMM5BPdB", 
+        "artists": [
+          {
+            "name": "Ice Cube", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+            }, 
+            "uri": "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA", 
+            "href": "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA", 
+            "type": "artist", 
+            "id": "3Mcii5XWf6E0lrY3Uky4cA"
+          }, 
+          {
+            "name": "Chuck D", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1JfH8gevkDviqs50A5NO0L"
+            }, 
+            "uri": "spotify:artist:1JfH8gevkDviqs50A5NO0L", 
+            "href": "https://api.spotify.com/v1/artists/1JfH8gevkDviqs50A5NO0L", 
+            "type": "artist", 
+            "id": "1JfH8gevkDviqs50A5NO0L"
+          }
+        ], 
+        "duration_ms": 201533, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "7i5TM9cEZnh60AlMM5BPdB"
+      }, 
+      {
+        "name": "A Gangsta's Fairytale", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7jfSQpvVyg7JimVwpgNJ5U"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1e2bf281ca34f7cbb44d16b4122e9ab9c301aeb6", 
+        "is_playable": true, 
+        "uri": "spotify:track:7jfSQpvVyg7JimVwpgNJ5U", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7jfSQpvVyg7JimVwpgNJ5U", 
+        "artists": [
+          {
+            "name": "Ice Cube", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+            }, 
+            "uri": "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA", 
+            "href": "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA", 
+            "type": "artist", 
+            "id": "3Mcii5XWf6E0lrY3Uky4cA"
+          }
+        ], 
+        "duration_ms": 196506, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "7jfSQpvVyg7JimVwpgNJ5U"
+      }, 
+      {
+        "name": "I'm Only Out For One Thang - Feat. Flavor Flav", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4nZAnZLLJM63L7ngNqbGtT"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a1a4f5547a5564a5b107f9b1cd0f8012d2b4ed6e", 
+        "is_playable": true, 
+        "uri": "spotify:track:4nZAnZLLJM63L7ngNqbGtT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4nZAnZLLJM63L7ngNqbGtT", 
+        "artists": [
+          {
+            "name": "Ice Cube", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+            }, 
+            "uri": "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA", 
+            "href": "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA", 
+            "type": "artist", 
+            "id": "3Mcii5XWf6E0lrY3Uky4cA"
+          }, 
+          {
+            "name": "Flavor Flav", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Bzd9B4YO9HFqNVM2P7MPX"
+            }, 
+            "uri": "spotify:artist:7Bzd9B4YO9HFqNVM2P7MPX", 
+            "href": "https://api.spotify.com/v1/artists/7Bzd9B4YO9HFqNVM2P7MPX", 
+            "type": "artist", 
+            "id": "7Bzd9B4YO9HFqNVM2P7MPX"
+          }
+        ], 
+        "duration_ms": 130693, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "4nZAnZLLJM63L7ngNqbGtT"
+      }, 
+      {
+        "name": "Get Off My Dick And Tell Yo Bitch To Come Here", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2ILqyjPMAamb67omY11ZDP"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bae8567b38031d12b05e8397eea0259489e3903d", 
+        "is_playable": true, 
+        "uri": "spotify:track:2ILqyjPMAamb67omY11ZDP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2ILqyjPMAamb67omY11ZDP", 
+        "artists": [
+          {
+            "name": "Ice Cube", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+            }, 
+            "uri": "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA", 
+            "href": "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA", 
+            "type": "artist", 
+            "id": "3Mcii5XWf6E0lrY3Uky4cA"
+          }
+        ], 
+        "duration_ms": 56866, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "2ILqyjPMAamb67omY11ZDP"
+      }, 
+      {
+        "name": "The Drive-By", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1jUL6jFQHxTesOAtqTa4bj"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1b233ac9d7e216abe3a12028ae88e6b55096301c", 
+        "is_playable": true, 
+        "uri": "spotify:track:1jUL6jFQHxTesOAtqTa4bj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1jUL6jFQHxTesOAtqTa4bj", 
+        "artists": [
+          {
+            "name": "Ice Cube", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+            }, 
+            "uri": "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA", 
+            "href": "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA", 
+            "type": "artist", 
+            "id": "3Mcii5XWf6E0lrY3Uky4cA"
+          }
+        ], 
+        "duration_ms": 61706, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "1jUL6jFQHxTesOAtqTa4bj"
+      }, 
+      {
+        "name": "Rollin' Wit The Lench Mob", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7jwChGLqdKNqQiELSfXRmL"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5741ef8295d5bd44e9e59d4237dd9afb5640a5ac", 
+        "is_playable": true, 
+        "uri": "spotify:track:7jwChGLqdKNqQiELSfXRmL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7jwChGLqdKNqQiELSfXRmL", 
+        "artists": [
+          {
+            "name": "Ice Cube", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+            }, 
+            "uri": "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA", 
+            "href": "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA", 
+            "type": "artist", 
+            "id": "3Mcii5XWf6E0lrY3Uky4cA"
+          }
+        ], 
+        "duration_ms": 223560, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "7jwChGLqdKNqQiELSfXRmL"
+      }, 
+      {
+        "name": "Who's The Mack?", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Wbzic8UiVcUc81aRNC1xW"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/87bb22588fae1c613bf25047597ec551fa2904da", 
+        "is_playable": true, 
+        "uri": "spotify:track:1Wbzic8UiVcUc81aRNC1xW", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1Wbzic8UiVcUc81aRNC1xW", 
+        "artists": [
+          {
+            "name": "Ice Cube", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+            }, 
+            "uri": "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA", 
+            "href": "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA", 
+            "type": "artist", 
+            "id": "3Mcii5XWf6E0lrY3Uky4cA"
+          }
+        ], 
+        "duration_ms": 273573, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "1Wbzic8UiVcUc81aRNC1xW"
+      }, 
+      {
+        "name": "It's A Man's World - Feat. Yo-Yo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0G6LOKa2shmxAPOWdl4C7w"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bf5eb273ac7d58fa042e3d0ad9b3f9019129a211", 
+        "is_playable": true, 
+        "uri": "spotify:track:0G6LOKa2shmxAPOWdl4C7w", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0G6LOKa2shmxAPOWdl4C7w", 
+        "artists": [
+          {
+            "name": "Ice Cube", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+            }, 
+            "uri": "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA", 
+            "href": "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA", 
+            "type": "artist", 
+            "id": "3Mcii5XWf6E0lrY3Uky4cA"
+          }, 
+          {
+            "name": "Yo-Yo", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6kL8ioxe4mWK945hvcHLkS"
+            }, 
+            "uri": "spotify:artist:6kL8ioxe4mWK945hvcHLkS", 
+            "href": "https://api.spotify.com/v1/artists/6kL8ioxe4mWK945hvcHLkS", 
+            "type": "artist", 
+            "id": "6kL8ioxe4mWK945hvcHLkS"
+          }
+        ], 
+        "duration_ms": 326800, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "0G6LOKa2shmxAPOWdl4C7w"
+      }, 
+      {
+        "name": "The Bomb", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3lVGcZCGyYPlboN9CYKYx7"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c2431ffeb7e63912b277ee73fb7346c93659098a", 
+        "is_playable": true, 
+        "uri": "spotify:track:3lVGcZCGyYPlboN9CYKYx7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3lVGcZCGyYPlboN9CYKYx7", 
+        "artists": [
+          {
+            "name": "Ice Cube", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+            }, 
+            "uri": "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA", 
+            "href": "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA", 
+            "type": "artist", 
+            "id": "3Mcii5XWf6E0lrY3Uky4cA"
+          }
+        ], 
+        "duration_ms": 207200, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "3lVGcZCGyYPlboN9CYKYx7"
+      }, 
+      {
+        "name": "Endangered Species (Tales From The Darkside) - Feat. Chuck D", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3IwsLosVHZWPur1W9Gaace"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ead2cb8e0a9aace2f64307478493b78b585b9b1c", 
+        "is_playable": true, 
+        "uri": "spotify:track:3IwsLosVHZWPur1W9Gaace", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3IwsLosVHZWPur1W9Gaace", 
+        "artists": [
+          {
+            "name": "Ice Cube", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+            }, 
+            "uri": "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA", 
+            "href": "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA", 
+            "type": "artist", 
+            "id": "3Mcii5XWf6E0lrY3Uky4cA"
+          }, 
+          {
+            "name": "Chuck D", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1JfH8gevkDviqs50A5NO0L"
+            }, 
+            "uri": "spotify:artist:1JfH8gevkDviqs50A5NO0L", 
+            "href": "https://api.spotify.com/v1/artists/1JfH8gevkDviqs50A5NO0L", 
+            "type": "artist", 
+            "id": "1JfH8gevkDviqs50A5NO0L"
+          }
+        ], 
+        "duration_ms": 250693, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "3IwsLosVHZWPur1W9Gaace"
+      }, 
+      {
+        "name": "Jackin' For Beats", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3xQnprfjRgWVPDe1fzfZEa"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5d90769f0f35d16ea053250e66c0496b00df9843", 
+        "is_playable": true, 
+        "uri": "spotify:track:3xQnprfjRgWVPDe1fzfZEa", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3xQnprfjRgWVPDe1fzfZEa", 
+        "artists": [
+          {
+            "name": "Ice Cube", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+            }, 
+            "uri": "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA", 
+            "href": "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA", 
+            "type": "artist", 
+            "id": "3Mcii5XWf6E0lrY3Uky4cA"
+          }
+        ], 
+        "duration_ms": 177306, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "3xQnprfjRgWVPDe1fzfZEa"
+      }, 
+      {
+        "name": "Get Off My Dick And Tell Yo Bitch To Come Here - Remix;", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3zUFsAkXKei4iNF5ZHTNUa"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fa72bf4f0e51517e0d127469b5eb0cb0182dba67", 
+        "is_playable": true, 
+        "uri": "spotify:track:3zUFsAkXKei4iNF5ZHTNUa", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3zUFsAkXKei4iNF5ZHTNUa", 
+        "artists": [
+          {
+            "name": "Ice Cube", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+            }, 
+            "uri": "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA", 
+            "href": "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA", 
+            "type": "artist", 
+            "id": "3Mcii5XWf6E0lrY3Uky4cA"
+          }
+        ], 
+        "duration_ms": 218333, 
+        "track_number": 19, 
+        "type": "track", 
+        "id": "3zUFsAkXKei4iNF5ZHTNUa"
+      }, 
+      {
+        "name": "The Product", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3AJ4DjGdjeJWk0JZa1EGWR"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ce5212b135d57007d20ddefc508d27a10e054df6", 
+        "is_playable": true, 
+        "uri": "spotify:track:3AJ4DjGdjeJWk0JZa1EGWR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3AJ4DjGdjeJWk0JZa1EGWR", 
+        "artists": [
+          {
+            "name": "Ice Cube", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+            }, 
+            "uri": "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA", 
+            "href": "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA", 
+            "type": "artist", 
+            "id": "3Mcii5XWf6E0lrY3Uky4cA"
+          }
+        ], 
+        "duration_ms": 215200, 
+        "track_number": 20, 
+        "type": "track", 
+        "id": "3AJ4DjGdjeJWk0JZa1EGWR"
+      }, 
+      {
+        "name": "Dead Homiez", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7MAVhKvvNaDP0QkQAabmD8"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6e4181eca018e2475d59e3c9353d19c894effdcf", 
+        "is_playable": true, 
+        "uri": "spotify:track:7MAVhKvvNaDP0QkQAabmD8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7MAVhKvvNaDP0QkQAabmD8", 
+        "artists": [
+          {
+            "name": "Ice Cube", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+            }, 
+            "uri": "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA", 
+            "href": "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA", 
+            "type": "artist", 
+            "id": "3Mcii5XWf6E0lrY3Uky4cA"
+          }
+        ], 
+        "duration_ms": 235266, 
+        "track_number": 21, 
+        "type": "track", 
+        "id": "7MAVhKvvNaDP0QkQAabmD8"
+      }, 
+      {
+        "name": "JD's Gaffilin' (Part 2)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/08L8ztVHcqYorofaaGBq9y"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/dddc78a4b6834da1fb10726630bed7d6e86b0afc", 
+        "is_playable": true, 
+        "uri": "spotify:track:08L8ztVHcqYorofaaGBq9y", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/08L8ztVHcqYorofaaGBq9y", 
+        "artists": [
+          {
+            "name": "Ice Cube", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+            }, 
+            "uri": "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA", 
+            "href": "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA", 
+            "type": "artist", 
+            "id": "3Mcii5XWf6E0lrY3Uky4cA"
+          }
+        ], 
+        "duration_ms": 32226, 
+        "track_number": 22, 
+        "type": "track", 
+        "id": "08L8ztVHcqYorofaaGBq9y"
+      }, 
+      {
+        "name": "I Gotta Say What Up!!!", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5VvbJZFlDLGOBRZIGy1swn"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/12d66205c19ee9b0169a32a8f0037ffe94ab4c89", 
+        "is_playable": true, 
+        "uri": "spotify:track:5VvbJZFlDLGOBRZIGy1swn", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5VvbJZFlDLGOBRZIGy1swn", 
+        "artists": [
+          {
+            "name": "Ice Cube", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+            }, 
+            "uri": "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA", 
+            "href": "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA", 
+            "type": "artist", 
+            "id": "3Mcii5XWf6E0lrY3Uky4cA"
+          }
+        ], 
+        "duration_ms": 188466, 
+        "track_number": 23, 
+        "type": "track", 
+        "id": "5VvbJZFlDLGOBRZIGy1swn"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/0TTt6Qm26MyMKv0EM2BKAa/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 23, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/0TTt6Qm26MyMKv0EM2BKAa", 
+  "copyrights": [
+    {
+      "text": "'AmeriKKKa's Most Wanted' original artwork (C) 1990 Priority Records LLC.''Kill At Will' original artwork (C) 1990 Priority Records LLC.This compilation (C) 2003 Priority Records LLC. All rights reserved.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 2003 Priority Records LLC", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Ice Cube", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+      }, 
+      "uri": "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA", 
+      "href": "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA", 
+      "type": "artist", 
+      "id": "3Mcii5XWf6E0lrY3Uky4cA"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/73b8ce6a52e73f5044289d1f64c377ae4bb1fbc2", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/b1a70df5d1229cb1ac916f28f3b6a1a32fc9c469", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/cd62cb09f4022225c8883530e390cb2cfbce031b", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00724353760151"
+  }, 
+  "type": "album", 
+  "id": "0TTt6Qm26MyMKv0EM2BKAa", 
+  "name": "AmeriKKKa's Most Wanted"
+}

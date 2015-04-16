@@ -1,0 +1,347 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA"
+  }, 
+  "release_date": "1998-01-16", 
+  "popularity": 62, 
+  "genres": [], 
+  "uri": "spotify:album:5dmYtZVJ1bG9RyrZBRrkOA", 
+  "tracks": {
+    "items": [
+      {
+        "name": "La Femme D'argent", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3ZzhV6JIDKWvWR7wiKWD0C"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/adbd95b1ad3c2d702b91654fd71d17102415a3bf", 
+        "is_playable": true, 
+        "uri": "spotify:track:3ZzhV6JIDKWvWR7wiKWD0C", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3ZzhV6JIDKWvWR7wiKWD0C", 
+        "artists": [
+          {
+            "name": "Air", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+            }, 
+            "uri": "spotify:artist:1P6U1dCeHxPui5pIrGmndZ", 
+            "href": "https://api.spotify.com/v1/artists/1P6U1dCeHxPui5pIrGmndZ", 
+            "type": "artist", 
+            "id": "1P6U1dCeHxPui5pIrGmndZ"
+          }
+        ], 
+        "duration_ms": 426614, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "3ZzhV6JIDKWvWR7wiKWD0C"
+      }, 
+      {
+        "name": "Sexy Boy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6INLpBxo9F5QMer04VXEnd"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1d8d697f03b81f493df836aabe11d582c4332748", 
+        "is_playable": true, 
+        "uri": "spotify:track:6INLpBxo9F5QMer04VXEnd", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6INLpBxo9F5QMer04VXEnd", 
+        "artists": [
+          {
+            "name": "Air", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+            }, 
+            "uri": "spotify:artist:1P6U1dCeHxPui5pIrGmndZ", 
+            "href": "https://api.spotify.com/v1/artists/1P6U1dCeHxPui5pIrGmndZ", 
+            "type": "artist", 
+            "id": "1P6U1dCeHxPui5pIrGmndZ"
+          }
+        ], 
+        "duration_ms": 298466, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "6INLpBxo9F5QMer04VXEnd"
+      }, 
+      {
+        "name": "All I Need", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6T10XPeC9X5xEaD6tMcK6M"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/28800940013d8fbf39917da2ae1291f82bcd70aa", 
+        "is_playable": true, 
+        "uri": "spotify:track:6T10XPeC9X5xEaD6tMcK6M", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6T10XPeC9X5xEaD6tMcK6M", 
+        "artists": [
+          {
+            "name": "Beth Hirsch", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7a1nGgiWVcRP4PV6xkXQ96"
+            }, 
+            "uri": "spotify:artist:7a1nGgiWVcRP4PV6xkXQ96", 
+            "href": "https://api.spotify.com/v1/artists/7a1nGgiWVcRP4PV6xkXQ96", 
+            "type": "artist", 
+            "id": "7a1nGgiWVcRP4PV6xkXQ96"
+          }
+        ], 
+        "duration_ms": 268306, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "6T10XPeC9X5xEaD6tMcK6M"
+      }, 
+      {
+        "name": "Kelly Watch The Stars", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5tR13oIwi5J3elcTZPTTIU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6b217a1fc1731314a55c40aadbffb63e15114cf8", 
+        "is_playable": true, 
+        "uri": "spotify:track:5tR13oIwi5J3elcTZPTTIU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5tR13oIwi5J3elcTZPTTIU", 
+        "artists": [
+          {
+            "name": "Air", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+            }, 
+            "uri": "spotify:artist:1P6U1dCeHxPui5pIrGmndZ", 
+            "href": "https://api.spotify.com/v1/artists/1P6U1dCeHxPui5pIrGmndZ", 
+            "type": "artist", 
+            "id": "1P6U1dCeHxPui5pIrGmndZ"
+          }
+        ], 
+        "duration_ms": 226293, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "5tR13oIwi5J3elcTZPTTIU"
+      }, 
+      {
+        "name": "Talisman", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4XxbBFfKlXY2E5PN3dHAfz"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/960966d79b90db0153ab04456c439c2c097a447a", 
+        "is_playable": true, 
+        "uri": "spotify:track:4XxbBFfKlXY2E5PN3dHAfz", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4XxbBFfKlXY2E5PN3dHAfz", 
+        "artists": [
+          {
+            "name": "Air", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+            }, 
+            "uri": "spotify:artist:1P6U1dCeHxPui5pIrGmndZ", 
+            "href": "https://api.spotify.com/v1/artists/1P6U1dCeHxPui5pIrGmndZ", 
+            "type": "artist", 
+            "id": "1P6U1dCeHxPui5pIrGmndZ"
+          }
+        ], 
+        "duration_ms": 256706, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "4XxbBFfKlXY2E5PN3dHAfz"
+      }, 
+      {
+        "name": "Remember", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/49yNskzLtR1VNTWhSF90mu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cfee7926bc480ea534b8ad8bd4c0bd33a372c061", 
+        "is_playable": true, 
+        "uri": "spotify:track:49yNskzLtR1VNTWhSF90mu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/49yNskzLtR1VNTWhSF90mu", 
+        "artists": [
+          {
+            "name": "Air", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+            }, 
+            "uri": "spotify:artist:1P6U1dCeHxPui5pIrGmndZ", 
+            "href": "https://api.spotify.com/v1/artists/1P6U1dCeHxPui5pIrGmndZ", 
+            "type": "artist", 
+            "id": "1P6U1dCeHxPui5pIrGmndZ"
+          }
+        ], 
+        "duration_ms": 154293, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "49yNskzLtR1VNTWhSF90mu"
+      }, 
+      {
+        "name": "You Make It Easy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6kYwzIqAj4Wp6ApoPpoqny"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/062b0b7e0487aaa533dc6958d03c4593b22ea636", 
+        "is_playable": true, 
+        "uri": "spotify:track:6kYwzIqAj4Wp6ApoPpoqny", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6kYwzIqAj4Wp6ApoPpoqny", 
+        "artists": [
+          {
+            "name": "Beth Hirsch", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7a1nGgiWVcRP4PV6xkXQ96"
+            }, 
+            "uri": "spotify:artist:7a1nGgiWVcRP4PV6xkXQ96", 
+            "href": "https://api.spotify.com/v1/artists/7a1nGgiWVcRP4PV6xkXQ96", 
+            "type": "artist", 
+            "id": "7a1nGgiWVcRP4PV6xkXQ96"
+          }
+        ], 
+        "duration_ms": 241533, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "6kYwzIqAj4Wp6ApoPpoqny"
+      }, 
+      {
+        "name": "Ce Matin-L\u00e0", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7yieArGOFIdoGJv1V8hDr2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ce467b639186e33f8f4fa2095262285240c2274c", 
+        "is_playable": true, 
+        "uri": "spotify:track:7yieArGOFIdoGJv1V8hDr2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7yieArGOFIdoGJv1V8hDr2", 
+        "artists": [
+          {
+            "name": "Air", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+            }, 
+            "uri": "spotify:artist:1P6U1dCeHxPui5pIrGmndZ", 
+            "href": "https://api.spotify.com/v1/artists/1P6U1dCeHxPui5pIrGmndZ", 
+            "type": "artist", 
+            "id": "1P6U1dCeHxPui5pIrGmndZ"
+          }
+        ], 
+        "duration_ms": 219040, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "7yieArGOFIdoGJv1V8hDr2"
+      }, 
+      {
+        "name": "New Star In The Sky", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7E2NpVcD3i6AIm3uyd343i"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/93a851e8b7e12ddecdea52f52b85e9c3564eac02", 
+        "is_playable": true, 
+        "uri": "spotify:track:7E2NpVcD3i6AIm3uyd343i", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7E2NpVcD3i6AIm3uyd343i", 
+        "artists": [
+          {
+            "name": "Air", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+            }, 
+            "uri": "spotify:artist:1P6U1dCeHxPui5pIrGmndZ", 
+            "href": "https://api.spotify.com/v1/artists/1P6U1dCeHxPui5pIrGmndZ", 
+            "type": "artist", 
+            "id": "1P6U1dCeHxPui5pIrGmndZ"
+          }
+        ], 
+        "duration_ms": 340600, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "7E2NpVcD3i6AIm3uyd343i"
+      }, 
+      {
+        "name": "Le voyage de P\u00e9n\u00e9lope", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2AFttonwFsCFpC6Cos9pcZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e6d82b1ebe1ffe2ad53fac7a130eb56d376c3543", 
+        "is_playable": true, 
+        "uri": "spotify:track:2AFttonwFsCFpC6Cos9pcZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2AFttonwFsCFpC6Cos9pcZ", 
+        "artists": [
+          {
+            "name": "Air", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+            }, 
+            "uri": "spotify:artist:1P6U1dCeHxPui5pIrGmndZ", 
+            "href": "https://api.spotify.com/v1/artists/1P6U1dCeHxPui5pIrGmndZ", 
+            "type": "artist", 
+            "id": "1P6U1dCeHxPui5pIrGmndZ"
+          }
+        ], 
+        "duration_ms": 190866, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "2AFttonwFsCFpC6Cos9pcZ"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/5dmYtZVJ1bG9RyrZBRrkOA/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 10, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/5dmYtZVJ1bG9RyrZBRrkOA", 
+  "copyrights": [
+    {
+      "text": "1998 - Source/ Parlophone Music, une division de Parlophone Music France.", 
+      "type": "C"
+    }, 
+    {
+      "text": "1998 - Source/ Parlophone Music, une division de Parlophone Music France.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Air", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+      }, 
+      "uri": "spotify:artist:1P6U1dCeHxPui5pIrGmndZ", 
+      "href": "https://api.spotify.com/v1/artists/1P6U1dCeHxPui5pIrGmndZ", 
+      "type": "artist", 
+      "id": "1P6U1dCeHxPui5pIrGmndZ"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/0eac9b7d15bac9f705f89a62a5e7a52c5096e813", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/eba315b54484b420d68a6dc95914ef2c565533dc", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/77d116e8686363633fc10005d77a7f2103ecd9e8", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "0724384497859"
+  }, 
+  "type": "album", 
+  "id": "5dmYtZVJ1bG9RyrZBRrkOA", 
+  "name": "Moon Safari"
+}

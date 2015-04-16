@@ -1,0 +1,963 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6YbDNY7VkyBqbO9rBmqVAN"
+  }, 
+  "release_date": "1988-01-10", 
+  "popularity": 30, 
+  "genres": [], 
+  "uri": "spotify:album:6YbDNY7VkyBqbO9rBmqVAN", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Touch Me I'm Sick", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6wqCxCqYo91ITacXydBobx"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f930fbe1796db0513e9969c7ae615dc099b9e1cf", 
+        "is_playable": true, 
+        "uri": "spotify:track:6wqCxCqYo91ITacXydBobx", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6wqCxCqYo91ITacXydBobx", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 152706, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "6wqCxCqYo91ITacXydBobx"
+      }, 
+      {
+        "name": "Sweet Young Thing Ain't Sweet No More", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6nod73HcV1CmdzvUBGgDug"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9884bee330103cbeb71a92892e5cbfd86f7a02dd", 
+        "is_playable": true, 
+        "uri": "spotify:track:6nod73HcV1CmdzvUBGgDug", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6nod73HcV1CmdzvUBGgDug", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 226240, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "6nod73HcV1CmdzvUBGgDug"
+      }, 
+      {
+        "name": "Twenty Four", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/12478NnOMBBlZ6J7HqZAcM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/21993e4b36c7aeef9ca584a4da4ceb3516011695", 
+        "is_playable": true, 
+        "uri": "spotify:track:12478NnOMBBlZ6J7HqZAcM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/12478NnOMBBlZ6J7HqZAcM", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 165760, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "12478NnOMBBlZ6J7HqZAcM"
+      }, 
+      {
+        "name": "Need", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6l4a3Y5kWyoYUi2EKQjCvI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/24919f0aeeb7aef5ad9f82158f5a5b715e948038", 
+        "is_playable": true, 
+        "uri": "spotify:track:6l4a3Y5kWyoYUi2EKQjCvI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6l4a3Y5kWyoYUi2EKQjCvI", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 180840, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "6l4a3Y5kWyoYUi2EKQjCvI"
+      }, 
+      {
+        "name": "Chain That Door", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7alXX9hkaHNncfrlikHHQy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8bc35658ab3a0df04214cc416853a449d3cd2400", 
+        "is_playable": true, 
+        "uri": "spotify:track:7alXX9hkaHNncfrlikHHQy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7alXX9hkaHNncfrlikHHQy", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 111640, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "7alXX9hkaHNncfrlikHHQy"
+      }, 
+      {
+        "name": "Mudride", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5d76HjstInvsyApcD3m1bw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c9ff0f4ec050608455b56037eb1a76468fea0fad", 
+        "is_playable": true, 
+        "uri": "spotify:track:5d76HjstInvsyApcD3m1bw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5d76HjstInvsyApcD3m1bw", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 344160, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "5d76HjstInvsyApcD3m1bw"
+      }, 
+      {
+        "name": "No One Has", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2fahra9kh9QFypZy6sQPzv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f3a6a5b79bd4d8f372b8a4670c3917be9dcbae29", 
+        "is_playable": true, 
+        "uri": "spotify:track:2fahra9kh9QFypZy6sQPzv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2fahra9kh9QFypZy6sQPzv", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 206480, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "2fahra9kh9QFypZy6sQPzv"
+      }, 
+      {
+        "name": "If I Think", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7dLpHQtYcXRduBo4eDlPBI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6526c6d4913b41dc3edf3499231cd9182f142a7d", 
+        "is_playable": true, 
+        "uri": "spotify:track:7dLpHQtYcXRduBo4eDlPBI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7dLpHQtYcXRduBo4eDlPBI", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 217426, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "7dLpHQtYcXRduBo4eDlPBI"
+      }, 
+      {
+        "name": "In 'n' Out of Grace", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7870QLvjdMFdVSwMRVPhkf"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bddafd2cc2ea27a2e8dcfd6d2e0a74ec7c350355", 
+        "is_playable": true, 
+        "uri": "spotify:track:7870QLvjdMFdVSwMRVPhkf", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7870QLvjdMFdVSwMRVPhkf", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 331000, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "7870QLvjdMFdVSwMRVPhkf"
+      }, 
+      {
+        "name": "The Rose", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/26ZRoOlxjrmaFNkafd0nn8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/38302abd38420ffee608a6482987ef6516faf333", 
+        "is_playable": true, 
+        "uri": "spotify:track:26ZRoOlxjrmaFNkafd0nn8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/26ZRoOlxjrmaFNkafd0nn8", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 243893, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "26ZRoOlxjrmaFNkafd0nn8"
+      }, 
+      {
+        "name": "Hate the Police", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6wpBjGcsKoSQyIEh8C7CZD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4f4bbe0b87e305b93809ee1281cca552940de979", 
+        "is_playable": true, 
+        "uri": "spotify:track:6wpBjGcsKoSQyIEh8C7CZD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6wpBjGcsKoSQyIEh8C7CZD", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 128840, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "6wpBjGcsKoSQyIEh8C7CZD"
+      }, 
+      {
+        "name": "You Got It (Keep It Outta My Face)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Ppltmc60dL76Gb4yb4vGY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/99cbe54a056459157e5c2a9abbc74a287eafd986", 
+        "is_playable": true, 
+        "uri": "spotify:track:1Ppltmc60dL76Gb4yb4vGY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1Ppltmc60dL76Gb4yb4vGY", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 174946, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "1Ppltmc60dL76Gb4yb4vGY"
+      }, 
+      {
+        "name": "Burn It Clean", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3krxkh8guHHbmh1nH7rfAP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b06896e30167255491f8c8168af2daf5370cb99e", 
+        "is_playable": true, 
+        "uri": "spotify:track:3krxkh8guHHbmh1nH7rfAP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3krxkh8guHHbmh1nH7rfAP", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 177800, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "3krxkh8guHHbmh1nH7rfAP"
+      }, 
+      {
+        "name": "Halloween", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/09dycyfTF9ek8gw6njPI75"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8fa1fc18c2eb099f6e77a10d6334736aa5b942a3", 
+        "is_playable": true, 
+        "uri": "spotify:track:09dycyfTF9ek8gw6njPI75", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/09dycyfTF9ek8gw6njPI75", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 371573, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "09dycyfTF9ek8gw6njPI75"
+      }, 
+      {
+        "name": "Need", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1X7Sc19IB5s7SsiCGXGxXS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/68e4b6284094445f2adc3224b00a687294a133fc", 
+        "is_playable": true, 
+        "uri": "spotify:track:1X7Sc19IB5s7SsiCGXGxXS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1X7Sc19IB5s7SsiCGXGxXS", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 203266, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "1X7Sc19IB5s7SsiCGXGxXS"
+      }, 
+      {
+        "name": "Mudride", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4VgbiI82N7mc2wk2mGGtyY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e6e3f7bd05c39d3678d6779b0f02a7a3b19aece7", 
+        "is_playable": true, 
+        "uri": "spotify:track:4VgbiI82N7mc2wk2mGGtyY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4VgbiI82N7mc2wk2mGGtyY", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 363493, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "4VgbiI82N7mc2wk2mGGtyY"
+      }, 
+      {
+        "name": "In 'n' Out of Grace", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/64LtcjZ1ZeLDwXsiHNX6AZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f69e88b8ee30762f47cffe9eb1998da7f49f64d0", 
+        "is_playable": true, 
+        "uri": "spotify:track:64LtcjZ1ZeLDwXsiHNX6AZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/64LtcjZ1ZeLDwXsiHNX6AZ", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 292880, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "64LtcjZ1ZeLDwXsiHNX6AZ"
+      }, 
+      {
+        "name": "No One Has", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1mF4ynKTUZryJUoIDT5ahw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/843ccfe53e918820c7b782a3881edfc13ae8e768", 
+        "is_playable": true, 
+        "uri": "spotify:track:1mF4ynKTUZryJUoIDT5ahw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1mF4ynKTUZryJUoIDT5ahw", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 238640, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "1mF4ynKTUZryJUoIDT5ahw"
+      }, 
+      {
+        "name": "Sweet Young Thing Ain't Sweet No More", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5E6mV36TkJl1NEO0JP3yCd"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c0757bf8ae397a00c996d37accfe778b17d9bead", 
+        "is_playable": true, 
+        "uri": "spotify:track:5E6mV36TkJl1NEO0JP3yCd", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5E6mV36TkJl1NEO0JP3yCd", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 225333, 
+        "track_number": 19, 
+        "type": "track", 
+        "id": "5E6mV36TkJl1NEO0JP3yCd"
+      }, 
+      {
+        "name": "Need", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4ke6tSZTJQlAhFIlrnc9rF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9220df628828a74fa1f5f8d7e6ac23907f05657a", 
+        "is_playable": true, 
+        "uri": "spotify:track:4ke6tSZTJQlAhFIlrnc9rF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4ke6tSZTJQlAhFIlrnc9rF", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 167066, 
+        "track_number": 20, 
+        "type": "track", 
+        "id": "4ke6tSZTJQlAhFIlrnc9rF"
+      }, 
+      {
+        "name": "Chain That Door", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4OXHfzvmk7pmOXziDFdVxf"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fa243da9cf890a38f40ff5004ca8643dbb9d7d8b", 
+        "is_playable": true, 
+        "uri": "spotify:track:4OXHfzvmk7pmOXziDFdVxf", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4OXHfzvmk7pmOXziDFdVxf", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 119026, 
+        "track_number": 21, 
+        "type": "track", 
+        "id": "4OXHfzvmk7pmOXziDFdVxf"
+      }, 
+      {
+        "name": "If I Think", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4hy4HgLYK0e1BCtHc7OO4y"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c7a1441dc8f945de543e80f7da1b620910e94db6", 
+        "is_playable": true, 
+        "uri": "spotify:track:4hy4HgLYK0e1BCtHc7OO4y", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4hy4HgLYK0e1BCtHc7OO4y", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 198386, 
+        "track_number": 22, 
+        "type": "track", 
+        "id": "4hy4HgLYK0e1BCtHc7OO4y"
+      }, 
+      {
+        "name": "Mudride", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/68qjSLY3HeB1qjoAHrzlYz"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2bdfdc00371a26fab612b1bda5746b02dd9c89cf", 
+        "is_playable": true, 
+        "uri": "spotify:track:68qjSLY3HeB1qjoAHrzlYz", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/68qjSLY3HeB1qjoAHrzlYz", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 379666, 
+        "track_number": 23, 
+        "type": "track", 
+        "id": "68qjSLY3HeB1qjoAHrzlYz"
+      }, 
+      {
+        "name": "Here Comes Sickness", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0gyoh58rQntwgYjzyv2wWD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/948159bcd342594a92039c45ed4ad43148041faa", 
+        "is_playable": true, 
+        "uri": "spotify:track:0gyoh58rQntwgYjzyv2wWD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0gyoh58rQntwgYjzyv2wWD", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 251533, 
+        "track_number": 24, 
+        "type": "track", 
+        "id": "0gyoh58rQntwgYjzyv2wWD"
+      }, 
+      {
+        "name": "Touch Me I'm Sick", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2lZhyDfQeUEbZDZNt5mZi8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cd285b7f35c54bb0df13fb9302ead6f38481dcd8", 
+        "is_playable": true, 
+        "uri": "spotify:track:2lZhyDfQeUEbZDZNt5mZi8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2lZhyDfQeUEbZDZNt5mZi8", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 171480, 
+        "track_number": 25, 
+        "type": "track", 
+        "id": "2lZhyDfQeUEbZDZNt5mZi8"
+      }, 
+      {
+        "name": "In 'n' Out of Grace", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0rVXmuZScwcjTbUdGDj2sL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/717a6837d76aa103900e27b2e56d382ed9d8b493", 
+        "is_playable": true, 
+        "uri": "spotify:track:0rVXmuZScwcjTbUdGDj2sL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0rVXmuZScwcjTbUdGDj2sL", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 415266, 
+        "track_number": 26, 
+        "type": "track", 
+        "id": "0rVXmuZScwcjTbUdGDj2sL"
+      }, 
+      {
+        "name": "Mudride", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6f794ZSH1bo3V6iUuCuCUi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ecd2bb10088213d020622bf97fb774a03f7f0a5e", 
+        "is_playable": true, 
+        "uri": "spotify:track:6f794ZSH1bo3V6iUuCuCUi", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6f794ZSH1bo3V6iUuCuCUi", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 334306, 
+        "track_number": 27, 
+        "type": "track", 
+        "id": "6f794ZSH1bo3V6iUuCuCUi"
+      }, 
+      {
+        "name": "Here Comes Sickness", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0s9Or0g0cjThOK7IbSTZnU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/48fb45155e8ce914c941ac2bd9215975c8299f06", 
+        "is_playable": true, 
+        "uri": "spotify:track:0s9Or0g0cjThOK7IbSTZnU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0s9Or0g0cjThOK7IbSTZnU", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 250133, 
+        "track_number": 28, 
+        "type": "track", 
+        "id": "0s9Or0g0cjThOK7IbSTZnU"
+      }, 
+      {
+        "name": "No One Has", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/00X32EE4liii3BZ2euPF56"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3944370721bc59728f512ee8ae649b8523c88fd0", 
+        "is_playable": true, 
+        "uri": "spotify:track:00X32EE4liii3BZ2euPF56", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/00X32EE4liii3BZ2euPF56", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 211746, 
+        "track_number": 29, 
+        "type": "track", 
+        "id": "00X32EE4liii3BZ2euPF56"
+      }, 
+      {
+        "name": "By Her Own Hand", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1i86a9pCx6kjW5NS9BiXBh"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/91ec21e2b661030f508d50cf1266b958b4602333", 
+        "is_playable": true, 
+        "uri": "spotify:track:1i86a9pCx6kjW5NS9BiXBh", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1i86a9pCx6kjW5NS9BiXBh", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 211826, 
+        "track_number": 30, 
+        "type": "track", 
+        "id": "1i86a9pCx6kjW5NS9BiXBh"
+      }, 
+      {
+        "name": "Touch Me I'm Sick", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/09cYt62PAlYxHzIrUjASuQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ea714d87742a0b8ad69b0cb500151fe454bbb931", 
+        "is_playable": true, 
+        "uri": "spotify:track:09cYt62PAlYxHzIrUjASuQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/09cYt62PAlYxHzIrUjASuQ", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 193640, 
+        "track_number": 31, 
+        "type": "track", 
+        "id": "09cYt62PAlYxHzIrUjASuQ"
+      }, 
+      {
+        "name": "Dead Love", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7z2JQ0xs5D9WslodZhWyqb"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7627ace197738fde76ca9523e81b2fb795d6966d", 
+        "is_playable": true, 
+        "uri": "spotify:track:7z2JQ0xs5D9WslodZhWyqb", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7z2JQ0xs5D9WslodZhWyqb", 
+        "artists": [
+          {
+            "name": "Mudhoney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+            }, 
+            "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+            "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+            "type": "artist", 
+            "id": "7LuYiSXiWs86rwWJjEEgB9"
+          }
+        ], 
+        "duration_ms": 858186, 
+        "track_number": 32, 
+        "type": "track", 
+        "id": "7z2JQ0xs5D9WslodZhWyqb"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/6YbDNY7VkyBqbO9rBmqVAN/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 32, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/6YbDNY7VkyBqbO9rBmqVAN", 
+  "copyrights": [
+    {
+      "text": "1988 Sub Pop Records", 
+      "type": "C"
+    }, 
+    {
+      "text": "1988 Sub Pop Records", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Mudhoney", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+      }, 
+      "uri": "spotify:artist:7LuYiSXiWs86rwWJjEEgB9", 
+      "href": "https://api.spotify.com/v1/artists/7LuYiSXiWs86rwWJjEEgB9", 
+      "type": "artist", 
+      "id": "7LuYiSXiWs86rwWJjEEgB9"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/368c40be0a5317859110ae4d58fb01bcf208fdad", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/7835ba9da29330099c921a8f34accdc053221855", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/47f6b9da8ef5b16dd2aeba0658a70e6a204eb9f2", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "0098787077360"
+  }, 
+  "type": "album", 
+  "id": "6YbDNY7VkyBqbO9rBmqVAN", 
+  "name": "Superfuzz Bigmuff"
+}

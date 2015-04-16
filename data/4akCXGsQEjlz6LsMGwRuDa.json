@@ -1,0 +1,403 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4akCXGsQEjlz6LsMGwRuDa"
+  }, 
+  "release_date": "1993-07-05", 
+  "popularity": 41, 
+  "genres": [], 
+  "uri": "spotify:album:4akCXGsQEjlz6LsMGwRuDa", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Human Behaviour", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2tRfoSKVlGtnU0hZdgzqfD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ffca858df7da0f272d0c8abc6741376930a69455", 
+        "is_playable": true, 
+        "uri": "spotify:track:2tRfoSKVlGtnU0hZdgzqfD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2tRfoSKVlGtnU0hZdgzqfD", 
+        "artists": [
+          {
+            "name": "Bj\u00f6rk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+            }, 
+            "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA", 
+            "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA", 
+            "type": "artist", 
+            "id": "7w29UYBi0qsHi5RTcv3lmA"
+          }
+        ], 
+        "duration_ms": 252360, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "2tRfoSKVlGtnU0hZdgzqfD"
+      }, 
+      {
+        "name": "Crying", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5EySAwzN6uWV0x6mEPPbgx"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/638e682bd7deb4fad362958f3d0f6acba8c570c0", 
+        "is_playable": true, 
+        "uri": "spotify:track:5EySAwzN6uWV0x6mEPPbgx", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5EySAwzN6uWV0x6mEPPbgx", 
+        "artists": [
+          {
+            "name": "Bj\u00f6rk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+            }, 
+            "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA", 
+            "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA", 
+            "type": "artist", 
+            "id": "7w29UYBi0qsHi5RTcv3lmA"
+          }
+        ], 
+        "duration_ms": 290906, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "5EySAwzN6uWV0x6mEPPbgx"
+      }, 
+      {
+        "name": "Venus As a Boy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4R0Bi30gTAO5AuCnRseDqt"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a13054969b6fed69776b5bcf3715181d7be0ebc2", 
+        "is_playable": true, 
+        "uri": "spotify:track:4R0Bi30gTAO5AuCnRseDqt", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4R0Bi30gTAO5AuCnRseDqt", 
+        "artists": [
+          {
+            "name": "Bj\u00f6rk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+            }, 
+            "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA", 
+            "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA", 
+            "type": "artist", 
+            "id": "7w29UYBi0qsHi5RTcv3lmA"
+          }
+        ], 
+        "duration_ms": 282560, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "4R0Bi30gTAO5AuCnRseDqt"
+      }, 
+      {
+        "name": "There Is More to Life Than This", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/33BL60Cel6CtxtRDK4i88F"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ab43e31ea6eedde2cb82ddae824c2cd004613db9", 
+        "is_playable": true, 
+        "uri": "spotify:track:33BL60Cel6CtxtRDK4i88F", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/33BL60Cel6CtxtRDK4i88F", 
+        "artists": [
+          {
+            "name": "Bj\u00f6rk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+            }, 
+            "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA", 
+            "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA", 
+            "type": "artist", 
+            "id": "7w29UYBi0qsHi5RTcv3lmA"
+          }
+        ], 
+        "duration_ms": 201533, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "33BL60Cel6CtxtRDK4i88F"
+      }, 
+      {
+        "name": "Like Someone In Love", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1pkgJ3EsKs4LIFfeQzvHeQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c23f72037ace00c36e3c4055573f123665ae8a57", 
+        "is_playable": true, 
+        "uri": "spotify:track:1pkgJ3EsKs4LIFfeQzvHeQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1pkgJ3EsKs4LIFfeQzvHeQ", 
+        "artists": [
+          {
+            "name": "Bj\u00f6rk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+            }, 
+            "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA", 
+            "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA", 
+            "type": "artist", 
+            "id": "7w29UYBi0qsHi5RTcv3lmA"
+          }
+        ], 
+        "duration_ms": 273400, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "1pkgJ3EsKs4LIFfeQzvHeQ"
+      }, 
+      {
+        "name": "Big Time Sensuality", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6bylxImiXwE4lyqYHaHI9C"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/beeb2b9e3387ebcfe4f9bc1c44466a679d3e3611", 
+        "is_playable": true, 
+        "uri": "spotify:track:6bylxImiXwE4lyqYHaHI9C", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6bylxImiXwE4lyqYHaHI9C", 
+        "artists": [
+          {
+            "name": "Bj\u00f6rk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+            }, 
+            "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA", 
+            "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA", 
+            "type": "artist", 
+            "id": "7w29UYBi0qsHi5RTcv3lmA"
+          }
+        ], 
+        "duration_ms": 236640, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "6bylxImiXwE4lyqYHaHI9C"
+      }, 
+      {
+        "name": "One Day", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6h8xyBQ8Efo5FM6qc6V5UY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7d456e8d36bede6ce2ad0accddfae95eab3b23cf", 
+        "is_playable": true, 
+        "uri": "spotify:track:6h8xyBQ8Efo5FM6qc6V5UY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6h8xyBQ8Efo5FM6qc6V5UY", 
+        "artists": [
+          {
+            "name": "Bj\u00f6rk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+            }, 
+            "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA", 
+            "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA", 
+            "type": "artist", 
+            "id": "7w29UYBi0qsHi5RTcv3lmA"
+          }
+        ], 
+        "duration_ms": 324266, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "6h8xyBQ8Efo5FM6qc6V5UY"
+      }, 
+      {
+        "name": "Aeroplane", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5WO4hZ02YfjY5BMmLTqXKC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fae677f4cd8511793cafce298193ab864c1bae1a", 
+        "is_playable": true, 
+        "uri": "spotify:track:5WO4hZ02YfjY5BMmLTqXKC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5WO4hZ02YfjY5BMmLTqXKC", 
+        "artists": [
+          {
+            "name": "Bj\u00f6rk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+            }, 
+            "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA", 
+            "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA", 
+            "type": "artist", 
+            "id": "7w29UYBi0qsHi5RTcv3lmA"
+          }
+        ], 
+        "duration_ms": 234466, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "5WO4hZ02YfjY5BMmLTqXKC"
+      }, 
+      {
+        "name": "Come to Me", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3BVPf7BJkJxMFQ6tGzvkLg"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/81c1ea5cac1f8860c50e1afb2b1e7e90dcc6971d", 
+        "is_playable": true, 
+        "uri": "spotify:track:3BVPf7BJkJxMFQ6tGzvkLg", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3BVPf7BJkJxMFQ6tGzvkLg", 
+        "artists": [
+          {
+            "name": "Bj\u00f6rk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+            }, 
+            "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA", 
+            "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA", 
+            "type": "artist", 
+            "id": "7w29UYBi0qsHi5RTcv3lmA"
+          }
+        ], 
+        "duration_ms": 295360, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "3BVPf7BJkJxMFQ6tGzvkLg"
+      }, 
+      {
+        "name": "Violently Happy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4ncbyIaXAmwFs92jhRPLDn"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1e413560d4a8c4af7cb283a13d46e28bec258ac2", 
+        "is_playable": true, 
+        "uri": "spotify:track:4ncbyIaXAmwFs92jhRPLDn", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4ncbyIaXAmwFs92jhRPLDn", 
+        "artists": [
+          {
+            "name": "Bj\u00f6rk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+            }, 
+            "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA", 
+            "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA", 
+            "type": "artist", 
+            "id": "7w29UYBi0qsHi5RTcv3lmA"
+          }
+        ], 
+        "duration_ms": 299173, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "4ncbyIaXAmwFs92jhRPLDn"
+      }, 
+      {
+        "name": "The Anchor Song", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0qtQ8YbQkieICcAQGPzz4l"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/65b4476417fddf46370ad2f83ad4b01936285303", 
+        "is_playable": true, 
+        "uri": "spotify:track:0qtQ8YbQkieICcAQGPzz4l", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0qtQ8YbQkieICcAQGPzz4l", 
+        "artists": [
+          {
+            "name": "Bj\u00f6rk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+            }, 
+            "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA", 
+            "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA", 
+            "type": "artist", 
+            "id": "7w29UYBi0qsHi5RTcv3lmA"
+          }
+        ], 
+        "duration_ms": 220626, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "0qtQ8YbQkieICcAQGPzz4l"
+      }, 
+      {
+        "name": "Play Dead", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6uwlsfbVxGTwLikXyqeOpR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b1d4b91b2873eff5c5dc7180e0a8e9bc1661475f", 
+        "is_playable": true, 
+        "uri": "spotify:track:6uwlsfbVxGTwLikXyqeOpR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6uwlsfbVxGTwLikXyqeOpR", 
+        "artists": [
+          {
+            "name": "Bj\u00f6rk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+            }, 
+            "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA", 
+            "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA", 
+            "type": "artist", 
+            "id": "7w29UYBi0qsHi5RTcv3lmA"
+          }
+        ], 
+        "duration_ms": 236706, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "6uwlsfbVxGTwLikXyqeOpR"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/4akCXGsQEjlz6LsMGwRuDa/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 12, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/4akCXGsQEjlz6LsMGwRuDa", 
+  "copyrights": [
+    {
+      "text": "1993 Bapsi/ One Little Indian Ltd", 
+      "type": "C"
+    }, 
+    {
+      "text": "1993 Bapsi/ One Little Indian Ltd", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Bj\u00f6rk", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+      }, 
+      "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA", 
+      "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA", 
+      "type": "artist", 
+      "id": "7w29UYBi0qsHi5RTcv3lmA"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/09a8d5c5404975b7244b6826adf0018623f46def", 
+      "width": 640, 
+      "height": 625
+    }, 
+    {
+      "url": "https://i.scdn.co/image/dce7e36f8454c7c826361b506ab6c8de10d9eab1", 
+      "width": 300, 
+      "height": 293
+    }, 
+    {
+      "url": "https://i.scdn.co/image/c6b892b58696dfa182d5fe0415d73ed0deabea15", 
+      "width": 64, 
+      "height": 63
+    }
+  ], 
+  "external_ids": {
+    "upc": "5016958020620"
+  }, 
+  "type": "album", 
+  "id": "4akCXGsQEjlz6LsMGwRuDa", 
+  "name": "Debut"
+}

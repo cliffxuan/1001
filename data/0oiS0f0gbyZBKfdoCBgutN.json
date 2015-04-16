@@ -1,0 +1,601 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0oiS0f0gbyZBKfdoCBgutN"
+  }, 
+  "release_date": "1993-02-13", 
+  "popularity": 61, 
+  "genres": [], 
+  "uri": "spotify:album:0oiS0f0gbyZBKfdoCBgutN", 
+  "tracks": {
+    "items": [
+      {
+        "name": "The Celtic Soul Brothers (More, Please, Thank You)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3hcqBf8i58YgEmEbcA0ulW"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1ca95ad1fa10e6086b7bb66895f0b0ab422f73be", 
+        "is_playable": true, 
+        "uri": "spotify:track:3hcqBf8i58YgEmEbcA0ulW", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3hcqBf8i58YgEmEbcA0ulW", 
+        "artists": [
+          {
+            "name": "Dexys Midnight Runners", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
+            }, 
+            "uri": "spotify:artist:4QTVePrFu1xuGM9K0kNXkk", 
+            "href": "https://api.spotify.com/v1/artists/4QTVePrFu1xuGM9K0kNXkk", 
+            "type": "artist", 
+            "id": "4QTVePrFu1xuGM9K0kNXkk"
+          }, 
+          {
+            "name": "The Emerald Express", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/087ESelnMG9z8BeaYR6UcD"
+            }, 
+            "uri": "spotify:artist:087ESelnMG9z8BeaYR6UcD", 
+            "href": "https://api.spotify.com/v1/artists/087ESelnMG9z8BeaYR6UcD", 
+            "type": "artist", 
+            "id": "087ESelnMG9z8BeaYR6UcD"
+          }
+        ], 
+        "duration_ms": 190933, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "3hcqBf8i58YgEmEbcA0ulW"
+      }, 
+      {
+        "name": "Let's Make This Precious", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3soeS6tQ2bUSKGQZSwiOJp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/21fed80cecdbd22a873054f512077a22d589ccdb", 
+        "is_playable": true, 
+        "uri": "spotify:track:3soeS6tQ2bUSKGQZSwiOJp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3soeS6tQ2bUSKGQZSwiOJp", 
+        "artists": [
+          {
+            "name": "Dexys Midnight Runners", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
+            }, 
+            "uri": "spotify:artist:4QTVePrFu1xuGM9K0kNXkk", 
+            "href": "https://api.spotify.com/v1/artists/4QTVePrFu1xuGM9K0kNXkk", 
+            "type": "artist", 
+            "id": "4QTVePrFu1xuGM9K0kNXkk"
+          }
+        ], 
+        "duration_ms": 243533, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "3soeS6tQ2bUSKGQZSwiOJp"
+      }, 
+      {
+        "name": "All In All (This One Last Wild Waltz)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3kkr1AwhDPGHMUs3tN7MNT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e953c2d6d1c55041947d1a2be9bd9b48eed24800", 
+        "is_playable": true, 
+        "uri": "spotify:track:3kkr1AwhDPGHMUs3tN7MNT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3kkr1AwhDPGHMUs3tN7MNT", 
+        "artists": [
+          {
+            "name": "Dexys Midnight Runners", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
+            }, 
+            "uri": "spotify:artist:4QTVePrFu1xuGM9K0kNXkk", 
+            "href": "https://api.spotify.com/v1/artists/4QTVePrFu1xuGM9K0kNXkk", 
+            "type": "artist", 
+            "id": "4QTVePrFu1xuGM9K0kNXkk"
+          }, 
+          {
+            "name": "Kevin Rowland", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7ipGLKpbyUOKFaji4MY19m"
+            }, 
+            "uri": "spotify:artist:7ipGLKpbyUOKFaji4MY19m", 
+            "href": "https://api.spotify.com/v1/artists/7ipGLKpbyUOKFaji4MY19m", 
+            "type": "artist", 
+            "id": "7ipGLKpbyUOKFaji4MY19m"
+          }
+        ], 
+        "duration_ms": 247933, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "3kkr1AwhDPGHMUs3tN7MNT"
+      }, 
+      {
+        "name": "Jackie Wilson Said (I'm In Heaven When You Smile)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6JcPsnv00aQrANiEMXDCf0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2dccbce854c53ce6326d49c9d5bc26eddd3c19c6", 
+        "is_playable": true, 
+        "uri": "spotify:track:6JcPsnv00aQrANiEMXDCf0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6JcPsnv00aQrANiEMXDCf0", 
+        "artists": [
+          {
+            "name": "Dexys Midnight Runners", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
+            }, 
+            "uri": "spotify:artist:4QTVePrFu1xuGM9K0kNXkk", 
+            "href": "https://api.spotify.com/v1/artists/4QTVePrFu1xuGM9K0kNXkk", 
+            "type": "artist", 
+            "id": "4QTVePrFu1xuGM9K0kNXkk"
+          }
+        ], 
+        "duration_ms": 187560, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "6JcPsnv00aQrANiEMXDCf0"
+      }, 
+      {
+        "name": "Old", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Wrg5VBkP6sXm5kmLb467S"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1749e090737eb825ef1b1e0260ac4838f92f2599", 
+        "is_playable": true, 
+        "uri": "spotify:track:1Wrg5VBkP6sXm5kmLb467S", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1Wrg5VBkP6sXm5kmLb467S", 
+        "artists": [
+          {
+            "name": "Dexys Midnight Runners", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
+            }, 
+            "uri": "spotify:artist:4QTVePrFu1xuGM9K0kNXkk", 
+            "href": "https://api.spotify.com/v1/artists/4QTVePrFu1xuGM9K0kNXkk", 
+            "type": "artist", 
+            "id": "4QTVePrFu1xuGM9K0kNXkk"
+          }
+        ], 
+        "duration_ms": 334973, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "1Wrg5VBkP6sXm5kmLb467S"
+      }, 
+      {
+        "name": "Plan B", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2mbFrfHHLtdFrGH0Au0GLv"
+        }, 
+        "explicit": false, 
+        "preview_url": null, 
+        "is_playable": false, 
+        "uri": "spotify:track:2mbFrfHHLtdFrGH0Au0GLv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2mbFrfHHLtdFrGH0Au0GLv", 
+        "artists": [
+          {
+            "name": "Dexys Midnight Runners", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
+            }, 
+            "uri": "spotify:artist:4QTVePrFu1xuGM9K0kNXkk", 
+            "href": "https://api.spotify.com/v1/artists/4QTVePrFu1xuGM9K0kNXkk", 
+            "type": "artist", 
+            "id": "4QTVePrFu1xuGM9K0kNXkk"
+          }
+        ], 
+        "duration_ms": 306828, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "2mbFrfHHLtdFrGH0Au0GLv"
+      }, 
+      {
+        "name": "I'll Show You", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4DgOwavwuDrGqGCK2HVOhi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4935c4c78f16a837fb0dc062cfda07e673142318", 
+        "is_playable": true, 
+        "uri": "spotify:track:4DgOwavwuDrGqGCK2HVOhi", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4DgOwavwuDrGqGCK2HVOhi", 
+        "artists": [
+          {
+            "name": "Dexys Midnight Runners", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
+            }, 
+            "uri": "spotify:artist:4QTVePrFu1xuGM9K0kNXkk", 
+            "href": "https://api.spotify.com/v1/artists/4QTVePrFu1xuGM9K0kNXkk", 
+            "type": "artist", 
+            "id": "4QTVePrFu1xuGM9K0kNXkk"
+          }
+        ], 
+        "duration_ms": 160493, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "4DgOwavwuDrGqGCK2HVOhi"
+      }, 
+      {
+        "name": "Liars A To E", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1kJqy3PeWjJTkEh7DtPp7Q"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/af1e9745f9328285ea827c6c194ee6d118c5c0a3", 
+        "is_playable": true, 
+        "uri": "spotify:track:1kJqy3PeWjJTkEh7DtPp7Q", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1kJqy3PeWjJTkEh7DtPp7Q", 
+        "artists": [
+          {
+            "name": "Dexys Midnight Runners", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
+            }, 
+            "uri": "spotify:artist:4QTVePrFu1xuGM9K0kNXkk", 
+            "href": "https://api.spotify.com/v1/artists/4QTVePrFu1xuGM9K0kNXkk", 
+            "type": "artist", 
+            "id": "4QTVePrFu1xuGM9K0kNXkk"
+          }
+        ], 
+        "duration_ms": 250773, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "1kJqy3PeWjJTkEh7DtPp7Q"
+      }, 
+      {
+        "name": "Until I Believe In My Soul", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Sn9FVEROQLceZho0tuizw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/359bc35df52f072af63469b9553b32c5cff1c1d9", 
+        "is_playable": true, 
+        "uri": "spotify:track:3Sn9FVEROQLceZho0tuizw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3Sn9FVEROQLceZho0tuizw", 
+        "artists": [
+          {
+            "name": "Dexys Midnight Runners", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
+            }, 
+            "uri": "spotify:artist:4QTVePrFu1xuGM9K0kNXkk", 
+            "href": "https://api.spotify.com/v1/artists/4QTVePrFu1xuGM9K0kNXkk", 
+            "type": "artist", 
+            "id": "4QTVePrFu1xuGM9K0kNXkk"
+          }, 
+          {
+            "name": "Kevin Rowland", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7ipGLKpbyUOKFaji4MY19m"
+            }, 
+            "uri": "spotify:artist:7ipGLKpbyUOKFaji4MY19m", 
+            "href": "https://api.spotify.com/v1/artists/7ipGLKpbyUOKFaji4MY19m", 
+            "type": "artist", 
+            "id": "7ipGLKpbyUOKFaji4MY19m"
+          }
+        ], 
+        "duration_ms": 421000, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "3Sn9FVEROQLceZho0tuizw"
+      }, 
+      {
+        "name": "Come On Eileen", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4jKojTEsrJtUU5rNp3gbGQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1237f6f3983f4ce5baf2e8c24d6ed4c2e4bee8f1", 
+        "is_playable": true, 
+        "uri": "spotify:track:4jKojTEsrJtUU5rNp3gbGQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4jKojTEsrJtUU5rNp3gbGQ", 
+        "artists": [
+          {
+            "name": "Dexys Midnight Runners", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
+            }, 
+            "uri": "spotify:artist:4QTVePrFu1xuGM9K0kNXkk", 
+            "href": "https://api.spotify.com/v1/artists/4QTVePrFu1xuGM9K0kNXkk", 
+            "type": "artist", 
+            "id": "4QTVePrFu1xuGM9K0kNXkk"
+          }
+        ], 
+        "duration_ms": 273933, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "4jKojTEsrJtUU5rNp3gbGQ"
+      }, 
+      {
+        "name": "The Celtic Soul Brothers - US Mix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0VMQhvtFCEeAKbx8nGbE2E"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b4c31e8c84c1fc61fe431a526c908d9b1597ce2d", 
+        "is_playable": true, 
+        "uri": "spotify:track:0VMQhvtFCEeAKbx8nGbE2E", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0VMQhvtFCEeAKbx8nGbE2E", 
+        "artists": [
+          {
+            "name": "Dexys Midnight Runners", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
+            }, 
+            "uri": "spotify:artist:4QTVePrFu1xuGM9K0kNXkk", 
+            "href": "https://api.spotify.com/v1/artists/4QTVePrFu1xuGM9K0kNXkk", 
+            "type": "artist", 
+            "id": "4QTVePrFu1xuGM9K0kNXkk"
+          }
+        ], 
+        "duration_ms": 187560, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "0VMQhvtFCEeAKbx8nGbE2E"
+      }, 
+      {
+        "name": "Jackie Wilson Said (I'm In Heaven When You Smile) - Live Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3nes51Sdxs4Qi0X1ajsI4u"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/37538e45503c02921e36faab99c7962da3db8561", 
+        "is_playable": true, 
+        "uri": "spotify:track:3nes51Sdxs4Qi0X1ajsI4u", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3nes51Sdxs4Qi0X1ajsI4u", 
+        "artists": [
+          {
+            "name": "Dexys Midnight Runners", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
+            }, 
+            "uri": "spotify:artist:4QTVePrFu1xuGM9K0kNXkk", 
+            "href": "https://api.spotify.com/v1/artists/4QTVePrFu1xuGM9K0kNXkk", 
+            "type": "artist", 
+            "id": "4QTVePrFu1xuGM9K0kNXkk"
+          }
+        ], 
+        "duration_ms": 170440, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "3nes51Sdxs4Qi0X1ajsI4u"
+      }, 
+      {
+        "name": "Come On Eileen - Live Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3DScPH6NhMvtieITqPIuCg"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f515e8282145735213fce11b3164bf6923d4b3bb", 
+        "is_playable": true, 
+        "uri": "spotify:track:3DScPH6NhMvtieITqPIuCg", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3DScPH6NhMvtieITqPIuCg", 
+        "artists": [
+          {
+            "name": "Dexys Midnight Runners", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
+            }, 
+            "uri": "spotify:artist:4QTVePrFu1xuGM9K0kNXkk", 
+            "href": "https://api.spotify.com/v1/artists/4QTVePrFu1xuGM9K0kNXkk", 
+            "type": "artist", 
+            "id": "4QTVePrFu1xuGM9K0kNXkk"
+          }
+        ], 
+        "duration_ms": 436426, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "3DScPH6NhMvtieITqPIuCg"
+      }, 
+      {
+        "name": "Marguerita Time - 7\" Mix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0FUksUryAwtu9vdzaWrGpM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e809f7503b4779619457e8a9226ca9c602cfee1a", 
+        "is_playable": true, 
+        "uri": "spotify:track:0FUksUryAwtu9vdzaWrGpM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0FUksUryAwtu9vdzaWrGpM", 
+        "artists": [
+          {
+            "name": "Dexys Midnight Runners", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
+            }, 
+            "uri": "spotify:artist:4QTVePrFu1xuGM9K0kNXkk", 
+            "href": "https://api.spotify.com/v1/artists/4QTVePrFu1xuGM9K0kNXkk", 
+            "type": "artist", 
+            "id": "4QTVePrFu1xuGM9K0kNXkk"
+          }
+        ], 
+        "duration_ms": 292600, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "0FUksUryAwtu9vdzaWrGpM"
+      }, 
+      {
+        "name": "Respect - Live Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5YFISbYyVMNakVTeZu96oQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ea47e6026c4cd1fe0c34b6ee80ef758f0217b2b8", 
+        "is_playable": true, 
+        "uri": "spotify:track:5YFISbYyVMNakVTeZu96oQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5YFISbYyVMNakVTeZu96oQ", 
+        "artists": [
+          {
+            "name": "Dexys Midnight Runners", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
+            }, 
+            "uri": "spotify:artist:4QTVePrFu1xuGM9K0kNXkk", 
+            "href": "https://api.spotify.com/v1/artists/4QTVePrFu1xuGM9K0kNXkk", 
+            "type": "artist", 
+            "id": "4QTVePrFu1xuGM9K0kNXkk"
+          }
+        ], 
+        "duration_ms": 466333, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "5YFISbYyVMNakVTeZu96oQ"
+      }, 
+      {
+        "name": "Dubious", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/32EjeQYTPXPk6sIZtJsoxU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c7c1276ecd713efb74fc788c49a179b0f51a4120", 
+        "is_playable": true, 
+        "uri": "spotify:track:32EjeQYTPXPk6sIZtJsoxU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/32EjeQYTPXPk6sIZtJsoxU", 
+        "artists": [
+          {
+            "name": "Dexys Midnight Runners", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
+            }, 
+            "uri": "spotify:artist:4QTVePrFu1xuGM9K0kNXkk", 
+            "href": "https://api.spotify.com/v1/artists/4QTVePrFu1xuGM9K0kNXkk", 
+            "type": "artist", 
+            "id": "4QTVePrFu1xuGM9K0kNXkk"
+          }
+        ], 
+        "duration_ms": 160506, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "32EjeQYTPXPk6sIZtJsoxU"
+      }, 
+      {
+        "name": "Love Part 2", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5uwXhgPsIAvAnKRwjwXofi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cc8ec1e2fab0fa9623f9b71cfcff810ceeeda6f0", 
+        "is_playable": true, 
+        "uri": "spotify:track:5uwXhgPsIAvAnKRwjwXofi", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5uwXhgPsIAvAnKRwjwXofi", 
+        "artists": [
+          {
+            "name": "Dexys Midnight Runners", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
+            }, 
+            "uri": "spotify:artist:4QTVePrFu1xuGM9K0kNXkk", 
+            "href": "https://api.spotify.com/v1/artists/4QTVePrFu1xuGM9K0kNXkk", 
+            "type": "artist", 
+            "id": "4QTVePrFu1xuGM9K0kNXkk"
+          }
+        ], 
+        "duration_ms": 77666, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "5uwXhgPsIAvAnKRwjwXofi"
+      }, 
+      {
+        "name": "T.S.O.P.", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/60tNuWHmUpvNiQK8EDWSXa"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8e7d7872b9ac6038626e1cffd708dbe6768b8011", 
+        "is_playable": true, 
+        "uri": "spotify:track:60tNuWHmUpvNiQK8EDWSXa", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/60tNuWHmUpvNiQK8EDWSXa", 
+        "artists": [
+          {
+            "name": "Dexys Midnight Runners", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
+            }, 
+            "uri": "spotify:artist:4QTVePrFu1xuGM9K0kNXkk", 
+            "href": "https://api.spotify.com/v1/artists/4QTVePrFu1xuGM9K0kNXkk", 
+            "type": "artist", 
+            "id": "4QTVePrFu1xuGM9K0kNXkk"
+          }
+        ], 
+        "duration_ms": 227960, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "60tNuWHmUpvNiQK8EDWSXa"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/0oiS0f0gbyZBKfdoCBgutN/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 18, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/0oiS0f0gbyZBKfdoCBgutN", 
+  "copyrights": [
+    {
+      "text": "(C) 1996 Mercury Records Limited", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1996 Mercury Records Limited", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Dexys Midnight Runners", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
+      }, 
+      "uri": "spotify:artist:4QTVePrFu1xuGM9K0kNXkk", 
+      "href": "https://api.spotify.com/v1/artists/4QTVePrFu1xuGM9K0kNXkk", 
+      "type": "artist", 
+      "id": "4QTVePrFu1xuGM9K0kNXkk"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/f9a8161a598b1a5231dcd763201c38f124d77d4e", 
+      "width": 640, 
+      "height": 634
+    }, 
+    {
+      "url": "https://i.scdn.co/image/364702d5490a7c494b4bc4d3324120020e69345f", 
+      "width": 300, 
+      "height": 297
+    }, 
+    {
+      "url": "https://i.scdn.co/image/03e2ed4986baadc8124ddcf867239b6547b7b6ba", 
+      "width": 64, 
+      "height": 63
+    }
+  ], 
+  "external_ids": {
+    "upc": "00731451483929"
+  }, 
+  "type": "album", 
+  "id": "0oiS0f0gbyZBKfdoCBgutN", 
+  "name": "Too Rye Ay"
+}

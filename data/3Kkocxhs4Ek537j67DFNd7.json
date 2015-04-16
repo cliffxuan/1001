@@ -1,0 +1,483 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3Kkocxhs4Ek537j67DFNd7"
+  }, 
+  "release_date": "1991", 
+  "popularity": 56, 
+  "genres": [], 
+  "uri": "spotify:album:3Kkocxhs4Ek537j67DFNd7", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Movin' on Up", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/64otvDsAAAmLVTSEM2FYSW"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8539baa3299bd700ddcd20112ee3f1ccb74cc25f", 
+        "is_playable": true, 
+        "uri": "spotify:track:64otvDsAAAmLVTSEM2FYSW", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/64otvDsAAAmLVTSEM2FYSW", 
+        "artists": [
+          {
+            "name": "Primal Scream", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+            }, 
+            "uri": "spotify:artist:3wury2nd8idV4GecUg5xze", 
+            "href": "https://api.spotify.com/v1/artists/3wury2nd8idV4GecUg5xze", 
+            "type": "artist", 
+            "id": "3wury2nd8idV4GecUg5xze"
+          }
+        ], 
+        "duration_ms": 231240, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "64otvDsAAAmLVTSEM2FYSW"
+      }, 
+      {
+        "name": "Slip Inside This House", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4u1pPhm0oQ86CuuGkFYJWi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4fa36c55db63091618afcf476857d93ee0af5517", 
+        "is_playable": true, 
+        "uri": "spotify:track:4u1pPhm0oQ86CuuGkFYJWi", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4u1pPhm0oQ86CuuGkFYJWi", 
+        "artists": [
+          {
+            "name": "Primal Scream", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+            }, 
+            "uri": "spotify:artist:3wury2nd8idV4GecUg5xze", 
+            "href": "https://api.spotify.com/v1/artists/3wury2nd8idV4GecUg5xze", 
+            "type": "artist", 
+            "id": "3wury2nd8idV4GecUg5xze"
+          }
+        ], 
+        "duration_ms": 316653, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "4u1pPhm0oQ86CuuGkFYJWi"
+      }, 
+      {
+        "name": "Don't Fight It, Feel It", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/41YkQZivCxWdMgBcoSrcA0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ec4271b7aee3e4c9bb8e6916870e8f92c63b1250", 
+        "is_playable": true, 
+        "uri": "spotify:track:41YkQZivCxWdMgBcoSrcA0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/41YkQZivCxWdMgBcoSrcA0", 
+        "artists": [
+          {
+            "name": "Primal Scream", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+            }, 
+            "uri": "spotify:artist:3wury2nd8idV4GecUg5xze", 
+            "href": "https://api.spotify.com/v1/artists/3wury2nd8idV4GecUg5xze", 
+            "type": "artist", 
+            "id": "3wury2nd8idV4GecUg5xze"
+          }
+        ], 
+        "duration_ms": 414120, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "41YkQZivCxWdMgBcoSrcA0"
+      }, 
+      {
+        "name": "Higher Than the Sun", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5tK31pGyjFBTsnzKzcNaza"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/22020840ed649eb261fa09a89cbf1761b0fee899", 
+        "is_playable": true, 
+        "uri": "spotify:track:5tK31pGyjFBTsnzKzcNaza", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5tK31pGyjFBTsnzKzcNaza", 
+        "artists": [
+          {
+            "name": "Primal Scream", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+            }, 
+            "uri": "spotify:artist:3wury2nd8idV4GecUg5xze", 
+            "href": "https://api.spotify.com/v1/artists/3wury2nd8idV4GecUg5xze", 
+            "type": "artist", 
+            "id": "3wury2nd8idV4GecUg5xze"
+          }
+        ], 
+        "duration_ms": 218293, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "5tK31pGyjFBTsnzKzcNaza"
+      }, 
+      {
+        "name": "Inner Flight", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/68LHj5BByMqZwcwfTu9l7e"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3503ccee7cf2e26edca7740e7d162aa61fd58e4c", 
+        "is_playable": true, 
+        "uri": "spotify:track:68LHj5BByMqZwcwfTu9l7e", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/68LHj5BByMqZwcwfTu9l7e", 
+        "artists": [
+          {
+            "name": "Primal Scream", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+            }, 
+            "uri": "spotify:artist:3wury2nd8idV4GecUg5xze", 
+            "href": "https://api.spotify.com/v1/artists/3wury2nd8idV4GecUg5xze", 
+            "type": "artist", 
+            "id": "3wury2nd8idV4GecUg5xze"
+          }
+        ], 
+        "duration_ms": 301973, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "68LHj5BByMqZwcwfTu9l7e"
+      }, 
+      {
+        "name": "Come Together", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1g0ANOIlEp0A9mp8xm3ICz"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fbfb87dc23faa7e33aba987ad890854a2598aad8", 
+        "is_playable": true, 
+        "uri": "spotify:track:1g0ANOIlEp0A9mp8xm3ICz", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1g0ANOIlEp0A9mp8xm3ICz", 
+        "artists": [
+          {
+            "name": "Primal Scream", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+            }, 
+            "uri": "spotify:artist:3wury2nd8idV4GecUg5xze", 
+            "href": "https://api.spotify.com/v1/artists/3wury2nd8idV4GecUg5xze", 
+            "type": "artist", 
+            "id": "3wury2nd8idV4GecUg5xze"
+          }
+        ], 
+        "duration_ms": 625253, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "1g0ANOIlEp0A9mp8xm3ICz"
+      }, 
+      {
+        "name": "Loaded", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0CBxYZz0mxzViWUvoMnRGi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ffd7586cb3d6ad6fe49f88c0fe69e6ec5e5d0490", 
+        "is_playable": true, 
+        "uri": "spotify:track:0CBxYZz0mxzViWUvoMnRGi", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0CBxYZz0mxzViWUvoMnRGi", 
+        "artists": [
+          {
+            "name": "Primal Scream", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+            }, 
+            "uri": "spotify:artist:3wury2nd8idV4GecUg5xze", 
+            "href": "https://api.spotify.com/v1/artists/3wury2nd8idV4GecUg5xze", 
+            "type": "artist", 
+            "id": "3wury2nd8idV4GecUg5xze"
+          }
+        ], 
+        "duration_ms": 422426, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "0CBxYZz0mxzViWUvoMnRGi"
+      }, 
+      {
+        "name": "Damaged", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/68Sbhbe60jQ3v4d9HqX7ct"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e8369a470f7f52634c24ee5514b86aec4b4670d0", 
+        "is_playable": true, 
+        "uri": "spotify:track:68Sbhbe60jQ3v4d9HqX7ct", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/68Sbhbe60jQ3v4d9HqX7ct", 
+        "artists": [
+          {
+            "name": "Primal Scream", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+            }, 
+            "uri": "spotify:artist:3wury2nd8idV4GecUg5xze", 
+            "href": "https://api.spotify.com/v1/artists/3wury2nd8idV4GecUg5xze", 
+            "type": "artist", 
+            "id": "3wury2nd8idV4GecUg5xze"
+          }
+        ], 
+        "duration_ms": 339266, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "68Sbhbe60jQ3v4d9HqX7ct"
+      }, 
+      {
+        "name": "I'm Comin' Down", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4oGhrD2N7obptanoOBzE0Q"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ff89fe953591721ed53f81be48ba4a0aa541d36f", 
+        "is_playable": true, 
+        "uri": "spotify:track:4oGhrD2N7obptanoOBzE0Q", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4oGhrD2N7obptanoOBzE0Q", 
+        "artists": [
+          {
+            "name": "Primal Scream", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+            }, 
+            "uri": "spotify:artist:3wury2nd8idV4GecUg5xze", 
+            "href": "https://api.spotify.com/v1/artists/3wury2nd8idV4GecUg5xze", 
+            "type": "artist", 
+            "id": "3wury2nd8idV4GecUg5xze"
+          }
+        ], 
+        "duration_ms": 361106, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "4oGhrD2N7obptanoOBzE0Q"
+      }, 
+      {
+        "name": "Higher Than the Sun (A Dub Symphony in Two Parts)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/30XYSOgeyanrvYkCMngnhG"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bda62079016fcb9035ecb31ea04c6adaee7b6ca9", 
+        "is_playable": true, 
+        "uri": "spotify:track:30XYSOgeyanrvYkCMngnhG", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/30XYSOgeyanrvYkCMngnhG", 
+        "artists": [
+          {
+            "name": "Primal Scream", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+            }, 
+            "uri": "spotify:artist:3wury2nd8idV4GecUg5xze", 
+            "href": "https://api.spotify.com/v1/artists/3wury2nd8idV4GecUg5xze", 
+            "type": "artist", 
+            "id": "3wury2nd8idV4GecUg5xze"
+          }
+        ], 
+        "duration_ms": 458533, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "30XYSOgeyanrvYkCMngnhG"
+      }, 
+      {
+        "name": "Shine Like Stars", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3IPCjp0cZIkzEHR4OAtHZ9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8d2f38e22c1a6e04e881015ed8ec5dc33166aaef", 
+        "is_playable": true, 
+        "uri": "spotify:track:3IPCjp0cZIkzEHR4OAtHZ9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3IPCjp0cZIkzEHR4OAtHZ9", 
+        "artists": [
+          {
+            "name": "Primal Scream", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+            }, 
+            "uri": "spotify:artist:3wury2nd8idV4GecUg5xze", 
+            "href": "https://api.spotify.com/v1/artists/3wury2nd8idV4GecUg5xze", 
+            "type": "artist", 
+            "id": "3wury2nd8idV4GecUg5xze"
+          }
+        ], 
+        "duration_ms": 227360, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "3IPCjp0cZIkzEHR4OAtHZ9"
+      }, 
+      {
+        "name": "Movin' on Up", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1FnCQM9WvQjv0O2bDSFRKL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a5ce19165935dec0a9e1c1a798e2874fc323b011", 
+        "is_playable": true, 
+        "uri": "spotify:track:1FnCQM9WvQjv0O2bDSFRKL", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1FnCQM9WvQjv0O2bDSFRKL", 
+        "artists": [
+          {
+            "name": "Primal Scream", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+            }, 
+            "uri": "spotify:artist:3wury2nd8idV4GecUg5xze", 
+            "href": "https://api.spotify.com/v1/artists/3wury2nd8idV4GecUg5xze", 
+            "type": "artist", 
+            "id": "3wury2nd8idV4GecUg5xze"
+          }
+        ], 
+        "duration_ms": 228093, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "1FnCQM9WvQjv0O2bDSFRKL"
+      }, 
+      {
+        "name": "Stone My Soul", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4FLYqDg5dDL1PvhG42InlE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3c473c50852e39b9367ad93c92c4dae23b83a15f", 
+        "is_playable": true, 
+        "uri": "spotify:track:4FLYqDg5dDL1PvhG42InlE", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4FLYqDg5dDL1PvhG42InlE", 
+        "artists": [
+          {
+            "name": "Primal Scream", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+            }, 
+            "uri": "spotify:artist:3wury2nd8idV4GecUg5xze", 
+            "href": "https://api.spotify.com/v1/artists/3wury2nd8idV4GecUg5xze", 
+            "type": "artist", 
+            "id": "3wury2nd8idV4GecUg5xze"
+          }
+        ], 
+        "duration_ms": 181746, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "4FLYqDg5dDL1PvhG42InlE"
+      }, 
+      {
+        "name": "Carry Me Home", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3BLLll62JJ1vo9nzXLYVGR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/936497077ea0d153ab701ecf18485a4918ed1570", 
+        "is_playable": true, 
+        "uri": "spotify:track:3BLLll62JJ1vo9nzXLYVGR", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/3BLLll62JJ1vo9nzXLYVGR", 
+        "artists": [
+          {
+            "name": "Primal Scream", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+            }, 
+            "uri": "spotify:artist:3wury2nd8idV4GecUg5xze", 
+            "href": "https://api.spotify.com/v1/artists/3wury2nd8idV4GecUg5xze", 
+            "type": "artist", 
+            "id": "3wury2nd8idV4GecUg5xze"
+          }
+        ], 
+        "duration_ms": 316026, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "3BLLll62JJ1vo9nzXLYVGR"
+      }, 
+      {
+        "name": "Screamadelica", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2V5whwpSKQiGOIbPQKDPML"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9a17639a19f59075b5ed605faff8a74d6ccd26a6", 
+        "is_playable": true, 
+        "uri": "spotify:track:2V5whwpSKQiGOIbPQKDPML", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/2V5whwpSKQiGOIbPQKDPML", 
+        "artists": [
+          {
+            "name": "Primal Scream", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+            }, 
+            "uri": "spotify:artist:3wury2nd8idV4GecUg5xze", 
+            "href": "https://api.spotify.com/v1/artists/3wury2nd8idV4GecUg5xze", 
+            "type": "artist", 
+            "id": "3wury2nd8idV4GecUg5xze"
+          }
+        ], 
+        "duration_ms": 649066, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "2V5whwpSKQiGOIbPQKDPML"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/3Kkocxhs4Ek537j67DFNd7/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 15, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/3Kkocxhs4Ek537j67DFNd7", 
+  "copyrights": [
+    {
+      "text": "(P) 2011 Creation Records. Creation Records is wholly owned by Sony Music Entertainment UK Limited", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Primal Scream", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+      }, 
+      "uri": "spotify:artist:3wury2nd8idV4GecUg5xze", 
+      "href": "https://api.spotify.com/v1/artists/3wury2nd8idV4GecUg5xze", 
+      "type": "artist", 
+      "id": "3wury2nd8idV4GecUg5xze"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/5ece6deff77c5bd9462d85a559383e45a68df319", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/44a04c158a0ccaa4da7798d9b6f7492c6ef2f03c", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/c364891f22de1526ebc0102a1864a4c2611d85ae", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "884977787498"
+  }, 
+  "type": "album", 
+  "id": "3Kkocxhs4Ek537j67DFNd7", 
+  "name": "Screamadelica"
+}

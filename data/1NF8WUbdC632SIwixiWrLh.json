@@ -1,0 +1,319 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1NF8WUbdC632SIwixiWrLh"
+  }, 
+  "release_date": "1985-05-13", 
+  "popularity": 68, 
+  "genres": [], 
+  "uri": "spotify:album:1NF8WUbdC632SIwixiWrLh", 
+  "tracks": {
+    "items": [
+      {
+        "name": "So Far Away - Full Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0h8pmQEibj5GUdMoaqrJnF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/02a203bda506712f31225a150ae33e7a4b23ce21", 
+        "is_playable": true, 
+        "uri": "spotify:track:0h8pmQEibj5GUdMoaqrJnF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0h8pmQEibj5GUdMoaqrJnF", 
+        "artists": [
+          {
+            "name": "Dire Straits", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+            }, 
+            "uri": "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T", 
+            "href": "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T", 
+            "type": "artist", 
+            "id": "0WwSkZ7LtFUFjGjMZBMt6T"
+          }
+        ], 
+        "duration_ms": 308800, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "0h8pmQEibj5GUdMoaqrJnF"
+      }, 
+      {
+        "name": "Money For Nothing", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4WfGrAJVC3A5xhUTja0gUG"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f262b55ad5df6f74c95e1886b42e01fe0e5b248f", 
+        "is_playable": true, 
+        "uri": "spotify:track:4WfGrAJVC3A5xhUTja0gUG", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4WfGrAJVC3A5xhUTja0gUG", 
+        "artists": [
+          {
+            "name": "Dire Straits", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+            }, 
+            "uri": "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T", 
+            "href": "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T", 
+            "type": "artist", 
+            "id": "0WwSkZ7LtFUFjGjMZBMt6T"
+          }
+        ], 
+        "duration_ms": 510933, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "4WfGrAJVC3A5xhUTja0gUG"
+      }, 
+      {
+        "name": "Walk Of Life", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4tyl9OMKMG8F2L0RUYQMH3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a407f27772dc2ae70f8d507c7778bd54504e82af", 
+        "is_playable": true, 
+        "uri": "spotify:track:4tyl9OMKMG8F2L0RUYQMH3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4tyl9OMKMG8F2L0RUYQMH3", 
+        "artists": [
+          {
+            "name": "Dire Straits", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+            }, 
+            "uri": "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T", 
+            "href": "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T", 
+            "type": "artist", 
+            "id": "0WwSkZ7LtFUFjGjMZBMt6T"
+          }
+        ], 
+        "duration_ms": 249960, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "4tyl9OMKMG8F2L0RUYQMH3"
+      }, 
+      {
+        "name": "Your Latest Trick", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6rg61PBHTfEDvgNt7MNhyU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/50f85b0a2a3894cb61ad930e6a9f66d3b97894d6", 
+        "is_playable": true, 
+        "uri": "spotify:track:6rg61PBHTfEDvgNt7MNhyU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6rg61PBHTfEDvgNt7MNhyU", 
+        "artists": [
+          {
+            "name": "Dire Straits", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+            }, 
+            "uri": "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T", 
+            "href": "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T", 
+            "type": "artist", 
+            "id": "0WwSkZ7LtFUFjGjMZBMt6T"
+          }
+        ], 
+        "duration_ms": 393266, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "6rg61PBHTfEDvgNt7MNhyU"
+      }, 
+      {
+        "name": "Why Worry?", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0NL5lqKSd0obXvKwfvyTKw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b059ea8f3d01ca04549d66c64c5d35205cc2ed00", 
+        "is_playable": true, 
+        "uri": "spotify:track:0NL5lqKSd0obXvKwfvyTKw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0NL5lqKSd0obXvKwfvyTKw", 
+        "artists": [
+          {
+            "name": "Dire Straits", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+            }, 
+            "uri": "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T", 
+            "href": "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T", 
+            "type": "artist", 
+            "id": "0WwSkZ7LtFUFjGjMZBMt6T"
+          }
+        ], 
+        "duration_ms": 509066, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "0NL5lqKSd0obXvKwfvyTKw"
+      }, 
+      {
+        "name": "Ride Across The River", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/232usfwnBVq3HPkhBxKFcT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fa273f20eba82d3399b84442e1d40f8632dec3e1", 
+        "is_playable": true, 
+        "uri": "spotify:track:232usfwnBVq3HPkhBxKFcT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/232usfwnBVq3HPkhBxKFcT", 
+        "artists": [
+          {
+            "name": "Dire Straits", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+            }, 
+            "uri": "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T", 
+            "href": "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T", 
+            "type": "artist", 
+            "id": "0WwSkZ7LtFUFjGjMZBMt6T"
+          }
+        ], 
+        "duration_ms": 424600, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "232usfwnBVq3HPkhBxKFcT"
+      }, 
+      {
+        "name": "The Man's Too Strong", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5UvLMW2qdHge1P9AkkDXfa"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f962b3259b4e58e009e750c2f85f2df6dfc504d7", 
+        "is_playable": true, 
+        "uri": "spotify:track:5UvLMW2qdHge1P9AkkDXfa", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5UvLMW2qdHge1P9AkkDXfa", 
+        "artists": [
+          {
+            "name": "Dire Straits", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+            }, 
+            "uri": "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T", 
+            "href": "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T", 
+            "type": "artist", 
+            "id": "0WwSkZ7LtFUFjGjMZBMt6T"
+          }
+        ], 
+        "duration_ms": 275481, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "5UvLMW2qdHge1P9AkkDXfa"
+      }, 
+      {
+        "name": "One World", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1W3kfKYF1BimzHj1Q20hAF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6d009bc9c96e484a7c305185d5273127043159fb", 
+        "is_playable": true, 
+        "uri": "spotify:track:1W3kfKYF1BimzHj1Q20hAF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1W3kfKYF1BimzHj1Q20hAF", 
+        "artists": [
+          {
+            "name": "Dire Straits", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+            }, 
+            "uri": "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T", 
+            "href": "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T", 
+            "type": "artist", 
+            "id": "0WwSkZ7LtFUFjGjMZBMt6T"
+          }
+        ], 
+        "duration_ms": 218466, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "1W3kfKYF1BimzHj1Q20hAF"
+      }, 
+      {
+        "name": "Brothers In Arms", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7EmSPZ9f1AiLR9eVHNSI62"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1999ee75aa6ace713fe6ad9321cad4db163f7a8b", 
+        "is_playable": true, 
+        "uri": "spotify:track:7EmSPZ9f1AiLR9eVHNSI62", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7EmSPZ9f1AiLR9eVHNSI62", 
+        "artists": [
+          {
+            "name": "Dire Straits", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+            }, 
+            "uri": "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T", 
+            "href": "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T", 
+            "type": "artist", 
+            "id": "0WwSkZ7LtFUFjGjMZBMt6T"
+          }
+        ], 
+        "duration_ms": 424000, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "7EmSPZ9f1AiLR9eVHNSI62"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/1NF8WUbdC632SIwixiWrLh/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 9, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/1NF8WUbdC632SIwixiWrLh", 
+  "copyrights": [
+    {
+      "text": "(C) 1985 Mercury Records Limited", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1985 Mercury Records Limited", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Dire Straits", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+      }, 
+      "uri": "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T", 
+      "href": "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T", 
+      "type": "artist", 
+      "id": "0WwSkZ7LtFUFjGjMZBMt6T"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/623174994487554315f0bc1c3f5b047eef83db98", 
+      "width": 640, 
+      "height": 634
+    }, 
+    {
+      "url": "https://i.scdn.co/image/0e528f08633f70706fc1494f611aa974a31c9df7", 
+      "width": 300, 
+      "height": 297
+    }, 
+    {
+      "url": "https://i.scdn.co/image/92bd5f6a5e6bdae2980e9b5b74e9498ff264ab9b", 
+      "width": 64, 
+      "height": 63
+    }
+  ], 
+  "external_ids": {
+    "upc": "00042282449924"
+  }, 
+  "type": "album", 
+  "id": "1NF8WUbdC632SIwixiWrLh", 
+  "name": "Brothers In Arms (Remastered)"
+}

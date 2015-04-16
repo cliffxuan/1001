@@ -1,0 +1,623 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM"
+  }, 
+  "release_date": "1993-06-14", 
+  "popularity": 48, 
+  "genres": [], 
+  "uri": "spotify:album:0SeTonJJPjy57LqiCDmeEM", 
+  "tracks": {
+    "items": [
+      {
+        "name": "When You Gonna Learn? - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/09jscLcwa4usINbtfzo5FL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ec215831984396d4a5f0db0518735d1cb6ae6c1a", 
+        "is_playable": true, 
+        "uri": "spotify:track:09jscLcwa4usINbtfzo5FL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/09jscLcwa4usINbtfzo5FL", 
+        "artists": [
+          {
+            "name": "Jamiroquai", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+            }, 
+            "uri": "spotify:artist:6J7biCazzYhU3gM9j1wfid", 
+            "href": "https://api.spotify.com/v1/artists/6J7biCazzYhU3gM9j1wfid", 
+            "type": "artist", 
+            "id": "6J7biCazzYhU3gM9j1wfid"
+          }
+        ], 
+        "duration_ms": 230053, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "09jscLcwa4usINbtfzo5FL"
+      }, 
+      {
+        "name": "Too Young to Die - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3toXFhdNpH0Cs5vQkTrHQ3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bafbbdbb8c653f59a7b138f35f550239d3cc6d6f", 
+        "is_playable": true, 
+        "uri": "spotify:track:3toXFhdNpH0Cs5vQkTrHQ3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3toXFhdNpH0Cs5vQkTrHQ3", 
+        "artists": [
+          {
+            "name": "Jamiroquai", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+            }, 
+            "uri": "spotify:artist:6J7biCazzYhU3gM9j1wfid", 
+            "href": "https://api.spotify.com/v1/artists/6J7biCazzYhU3gM9j1wfid", 
+            "type": "artist", 
+            "id": "6J7biCazzYhU3gM9j1wfid"
+          }
+        ], 
+        "duration_ms": 365733, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "3toXFhdNpH0Cs5vQkTrHQ3"
+      }, 
+      {
+        "name": "Hooked Up - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3qwiKTgBoATvWr4cm4K5dU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a4814955924a9da72dad52922a57e4169e6f6b41", 
+        "is_playable": true, 
+        "uri": "spotify:track:3qwiKTgBoATvWr4cm4K5dU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3qwiKTgBoATvWr4cm4K5dU", 
+        "artists": [
+          {
+            "name": "Jamiroquai", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+            }, 
+            "uri": "spotify:artist:6J7biCazzYhU3gM9j1wfid", 
+            "href": "https://api.spotify.com/v1/artists/6J7biCazzYhU3gM9j1wfid", 
+            "type": "artist", 
+            "id": "6J7biCazzYhU3gM9j1wfid"
+          }
+        ], 
+        "duration_ms": 276120, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "3qwiKTgBoATvWr4cm4K5dU"
+      }, 
+      {
+        "name": "If I Like It, I Do It - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6DpVRGSelmlUqjOaXrlS3N"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/45f12ddda0e7068eed77a4b22edeaddf43191671", 
+        "is_playable": true, 
+        "uri": "spotify:track:6DpVRGSelmlUqjOaXrlS3N", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6DpVRGSelmlUqjOaXrlS3N", 
+        "artists": [
+          {
+            "name": "Jamiroquai", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+            }, 
+            "uri": "spotify:artist:6J7biCazzYhU3gM9j1wfid", 
+            "href": "https://api.spotify.com/v1/artists/6J7biCazzYhU3gM9j1wfid", 
+            "type": "artist", 
+            "id": "6J7biCazzYhU3gM9j1wfid"
+          }
+        ], 
+        "duration_ms": 292666, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "6DpVRGSelmlUqjOaXrlS3N"
+      }, 
+      {
+        "name": "Music of the Mind - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/29uQW0hQQLU39lTYoB9YMo"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a28503dbb46d94f0d335253810317ffe490a4325", 
+        "is_playable": true, 
+        "uri": "spotify:track:29uQW0hQQLU39lTYoB9YMo", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/29uQW0hQQLU39lTYoB9YMo", 
+        "artists": [
+          {
+            "name": "Jamiroquai", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+            }, 
+            "uri": "spotify:artist:6J7biCazzYhU3gM9j1wfid", 
+            "href": "https://api.spotify.com/v1/artists/6J7biCazzYhU3gM9j1wfid", 
+            "type": "artist", 
+            "id": "6J7biCazzYhU3gM9j1wfid"
+          }
+        ], 
+        "duration_ms": 383360, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "29uQW0hQQLU39lTYoB9YMo"
+      }, 
+      {
+        "name": "Emergency on Planet Earth - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0mmI8HaXjgzxrtKDmvAN7R"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0b09fcc21ee39d5890b09a6bc483449903fca8ed", 
+        "is_playable": true, 
+        "uri": "spotify:track:0mmI8HaXjgzxrtKDmvAN7R", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0mmI8HaXjgzxrtKDmvAN7R", 
+        "artists": [
+          {
+            "name": "Jamiroquai", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+            }, 
+            "uri": "spotify:artist:6J7biCazzYhU3gM9j1wfid", 
+            "href": "https://api.spotify.com/v1/artists/6J7biCazzYhU3gM9j1wfid", 
+            "type": "artist", 
+            "id": "6J7biCazzYhU3gM9j1wfid"
+          }
+        ], 
+        "duration_ms": 245173, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "0mmI8HaXjgzxrtKDmvAN7R"
+      }, 
+      {
+        "name": "Whatever It Is, I Just Can't Stop - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4buWcRCtcG9B22tEATuDJH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/56f151cc2be45405426434c16b3e3b0dfa3baf75", 
+        "is_playable": true, 
+        "uri": "spotify:track:4buWcRCtcG9B22tEATuDJH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4buWcRCtcG9B22tEATuDJH", 
+        "artists": [
+          {
+            "name": "Jamiroquai", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+            }, 
+            "uri": "spotify:artist:6J7biCazzYhU3gM9j1wfid", 
+            "href": "https://api.spotify.com/v1/artists/6J7biCazzYhU3gM9j1wfid", 
+            "type": "artist", 
+            "id": "6J7biCazzYhU3gM9j1wfid"
+          }
+        ], 
+        "duration_ms": 247533, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "4buWcRCtcG9B22tEATuDJH"
+      }, 
+      {
+        "name": "Blow Your Mind - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5rzmEiv5KA1OskLzcqRDFK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/73983c5229db4811b9cece2a89e7636809c304b2", 
+        "is_playable": true, 
+        "uri": "spotify:track:5rzmEiv5KA1OskLzcqRDFK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5rzmEiv5KA1OskLzcqRDFK", 
+        "artists": [
+          {
+            "name": "Jamiroquai", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+            }, 
+            "uri": "spotify:artist:6J7biCazzYhU3gM9j1wfid", 
+            "href": "https://api.spotify.com/v1/artists/6J7biCazzYhU3gM9j1wfid", 
+            "type": "artist", 
+            "id": "6J7biCazzYhU3gM9j1wfid"
+          }
+        ], 
+        "duration_ms": 512280, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "5rzmEiv5KA1OskLzcqRDFK"
+      }, 
+      {
+        "name": "Revolution 1993 - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2oQLlmcEzbbbwvcHLLKkz1"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/418ae43eb63117f93161ab9600493ce54dcd365a", 
+        "is_playable": true, 
+        "uri": "spotify:track:2oQLlmcEzbbbwvcHLLKkz1", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2oQLlmcEzbbbwvcHLLKkz1", 
+        "artists": [
+          {
+            "name": "Jamiroquai", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+            }, 
+            "uri": "spotify:artist:6J7biCazzYhU3gM9j1wfid", 
+            "href": "https://api.spotify.com/v1/artists/6J7biCazzYhU3gM9j1wfid", 
+            "type": "artist", 
+            "id": "6J7biCazzYhU3gM9j1wfid"
+          }
+        ], 
+        "duration_ms": 617146, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "2oQLlmcEzbbbwvcHLLKkz1"
+      }, 
+      {
+        "name": "Didgin' Out - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7C6EUWMFEpAkKjK2uLUL9v"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f92617dd6297ea3b6c96c1c132f6aa6ac4fad08b", 
+        "is_playable": true, 
+        "uri": "spotify:track:7C6EUWMFEpAkKjK2uLUL9v", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7C6EUWMFEpAkKjK2uLUL9v", 
+        "artists": [
+          {
+            "name": "Jamiroquai", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+            }, 
+            "uri": "spotify:artist:6J7biCazzYhU3gM9j1wfid", 
+            "href": "https://api.spotify.com/v1/artists/6J7biCazzYhU3gM9j1wfid", 
+            "type": "artist", 
+            "id": "6J7biCazzYhU3gM9j1wfid"
+          }
+        ], 
+        "duration_ms": 157000, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "7C6EUWMFEpAkKjK2uLUL9v"
+      }, 
+      {
+        "name": "When You Gonna Learn? - Cante Hondo Mix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1qgrOwV90ueEbez9OriVei"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8f2c30627bb9a6d967e392765e723afbdb1dd441", 
+        "is_playable": true, 
+        "uri": "spotify:track:1qgrOwV90ueEbez9OriVei", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1qgrOwV90ueEbez9OriVei", 
+        "artists": [
+          {
+            "name": "Jamiroquai", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+            }, 
+            "uri": "spotify:artist:6J7biCazzYhU3gM9j1wfid", 
+            "href": "https://api.spotify.com/v1/artists/6J7biCazzYhU3gM9j1wfid", 
+            "type": "artist", 
+            "id": "6J7biCazzYhU3gM9j1wfid"
+          }
+        ], 
+        "duration_ms": 348400, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "1qgrOwV90ueEbez9OriVei"
+      }, 
+      {
+        "name": "When You Gonna Learn? - Live at Leadmill, Sheffield", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6I08WUtkA9fqUXYcezb1UU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e2727c53c2ee73699a51d7824e5844fa234fd4c4", 
+        "is_playable": true, 
+        "uri": "spotify:track:6I08WUtkA9fqUXYcezb1UU", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6I08WUtkA9fqUXYcezb1UU", 
+        "artists": [
+          {
+            "name": "Jamiroquai", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+            }, 
+            "uri": "spotify:artist:6J7biCazzYhU3gM9j1wfid", 
+            "href": "https://api.spotify.com/v1/artists/6J7biCazzYhU3gM9j1wfid", 
+            "type": "artist", 
+            "id": "6J7biCazzYhU3gM9j1wfid"
+          }
+        ], 
+        "duration_ms": 589346, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "6I08WUtkA9fqUXYcezb1UU"
+      }, 
+      {
+        "name": "Too Young to Die - Extended", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1JvQ743Jhg7ixuqj9uxqPq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/dd4bb08f8abb8cc8eae0f0855c2cfef993893bba", 
+        "is_playable": true, 
+        "uri": "spotify:track:1JvQ743Jhg7ixuqj9uxqPq", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1JvQ743Jhg7ixuqj9uxqPq", 
+        "artists": [
+          {
+            "name": "Jamiroquai", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+            }, 
+            "uri": "spotify:artist:6J7biCazzYhU3gM9j1wfid", 
+            "href": "https://api.spotify.com/v1/artists/6J7biCazzYhU3gM9j1wfid", 
+            "type": "artist", 
+            "id": "6J7biCazzYhU3gM9j1wfid"
+          }
+        ], 
+        "duration_ms": 610400, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "1JvQ743Jhg7ixuqj9uxqPq"
+      }, 
+      {
+        "name": "If I Like It, I Do It - Acoustic", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0q90fSTKS8zNibrCdw4Mms"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/91b94e0a33d39d0898d96fb97f3de9883f97aebe", 
+        "is_playable": true, 
+        "uri": "spotify:track:0q90fSTKS8zNibrCdw4Mms", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/0q90fSTKS8zNibrCdw4Mms", 
+        "artists": [
+          {
+            "name": "Jamiroquai", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+            }, 
+            "uri": "spotify:artist:6J7biCazzYhU3gM9j1wfid", 
+            "href": "https://api.spotify.com/v1/artists/6J7biCazzYhU3gM9j1wfid", 
+            "type": "artist", 
+            "id": "6J7biCazzYhU3gM9j1wfid"
+          }
+        ], 
+        "duration_ms": 263786, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "0q90fSTKS8zNibrCdw4Mms"
+      }, 
+      {
+        "name": "Emergency on Planet Earth - London Rican Mix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0crVymydWK1GnPg04hocOF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ebb780ec0c12c904b124a69f341681ae8144e1d4", 
+        "is_playable": true, 
+        "uri": "spotify:track:0crVymydWK1GnPg04hocOF", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/0crVymydWK1GnPg04hocOF", 
+        "artists": [
+          {
+            "name": "Jamiroquai", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+            }, 
+            "uri": "spotify:artist:6J7biCazzYhU3gM9j1wfid", 
+            "href": "https://api.spotify.com/v1/artists/6J7biCazzYhU3gM9j1wfid", 
+            "type": "artist", 
+            "id": "6J7biCazzYhU3gM9j1wfid"
+          }
+        ], 
+        "duration_ms": 434746, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "0crVymydWK1GnPg04hocOF"
+      }, 
+      {
+        "name": "Revolution 1993 - Demo Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6sMqdhpqvSJZjeDCK8krfu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/59c169e384ecd52ef86d11a55c27add8a1f3ffac", 
+        "is_playable": true, 
+        "uri": "spotify:track:6sMqdhpqvSJZjeDCK8krfu", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6sMqdhpqvSJZjeDCK8krfu", 
+        "artists": [
+          {
+            "name": "Jamiroquai", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+            }, 
+            "uri": "spotify:artist:6J7biCazzYhU3gM9j1wfid", 
+            "href": "https://api.spotify.com/v1/artists/6J7biCazzYhU3gM9j1wfid", 
+            "type": "artist", 
+            "id": "6J7biCazzYhU3gM9j1wfid"
+          }
+        ], 
+        "duration_ms": 619333, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "6sMqdhpqvSJZjeDCK8krfu"
+      }, 
+      {
+        "name": "Didgin' Out - Live at the Milky Way, Amsterdam", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4qmOd0X8U3Kol9hjGbmeIH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0e9cafb504a67f5872ffe58c52b5fe355f1b7c5b", 
+        "is_playable": true, 
+        "uri": "spotify:track:4qmOd0X8U3Kol9hjGbmeIH", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4qmOd0X8U3Kol9hjGbmeIH", 
+        "artists": [
+          {
+            "name": "Jamiroquai", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+            }, 
+            "uri": "spotify:artist:6J7biCazzYhU3gM9j1wfid", 
+            "href": "https://api.spotify.com/v1/artists/6J7biCazzYhU3gM9j1wfid", 
+            "type": "artist", 
+            "id": "6J7biCazzYhU3gM9j1wfid"
+          }
+        ], 
+        "duration_ms": 206186, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "4qmOd0X8U3Kol9hjGbmeIH"
+      }, 
+      {
+        "name": "Brothers Like You - Live at Glastonbury, 1993", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5RrVcd9vXcpkjSSC5EtDL3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/49238b2a74c19734f5a3e124f5172b6e5c6a1e7c", 
+        "is_playable": true, 
+        "uri": "spotify:track:5RrVcd9vXcpkjSSC5EtDL3", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5RrVcd9vXcpkjSSC5EtDL3", 
+        "artists": [
+          {
+            "name": "Jamiroquai", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+            }, 
+            "uri": "spotify:artist:6J7biCazzYhU3gM9j1wfid", 
+            "href": "https://api.spotify.com/v1/artists/6J7biCazzYhU3gM9j1wfid", 
+            "type": "artist", 
+            "id": "6J7biCazzYhU3gM9j1wfid"
+          }
+        ], 
+        "duration_ms": 272040, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "5RrVcd9vXcpkjSSC5EtDL3"
+      }, 
+      {
+        "name": "God Made Me Funky - Live at Glastonbury, 1993", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6nlttyVcolo3l7ZAIb82Hj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3df96711904075052d6c4919f47b62d32111f6a1", 
+        "is_playable": true, 
+        "uri": "spotify:track:6nlttyVcolo3l7ZAIb82Hj", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6nlttyVcolo3l7ZAIb82Hj", 
+        "artists": [
+          {
+            "name": "Jamiroquai", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+            }, 
+            "uri": "spotify:artist:6J7biCazzYhU3gM9j1wfid", 
+            "href": "https://api.spotify.com/v1/artists/6J7biCazzYhU3gM9j1wfid", 
+            "type": "artist", 
+            "id": "6J7biCazzYhU3gM9j1wfid"
+          }
+        ], 
+        "duration_ms": 264600, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "6nlttyVcolo3l7ZAIb82Hj"
+      }, 
+      {
+        "name": "Music of the Mind - Live at Glastonbury, 1993", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5gULTvpi0DuW4qqQn4A4je"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8c84dcd0837a7626269bab51ed0ad3ffd61aa4f0", 
+        "is_playable": true, 
+        "uri": "spotify:track:5gULTvpi0DuW4qqQn4A4je", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5gULTvpi0DuW4qqQn4A4je", 
+        "artists": [
+          {
+            "name": "Jamiroquai", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+            }, 
+            "uri": "spotify:artist:6J7biCazzYhU3gM9j1wfid", 
+            "href": "https://api.spotify.com/v1/artists/6J7biCazzYhU3gM9j1wfid", 
+            "type": "artist", 
+            "id": "6J7biCazzYhU3gM9j1wfid"
+          }
+        ], 
+        "duration_ms": 381786, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "5gULTvpi0DuW4qqQn4A4je"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/0SeTonJJPjy57LqiCDmeEM/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 20, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/0SeTonJJPjy57LqiCDmeEM", 
+  "copyrights": [
+    {
+      "text": "(P) 2013 Sony Music Entertainment UK Limited", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Jamiroquai", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+      }, 
+      "uri": "spotify:artist:6J7biCazzYhU3gM9j1wfid", 
+      "href": "https://api.spotify.com/v1/artists/6J7biCazzYhU3gM9j1wfid", 
+      "type": "artist", 
+      "id": "6J7biCazzYhU3gM9j1wfid"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/1c8f1c87e155066f5c0a8642a2cbb5bc4386d59b", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/fb9da088b5d1bba8f71a37ab56821078f0a9acfa", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/974d1df89764793dd3c87b93c858a650850663db", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "886443385665"
+  }, 
+  "type": "album", 
+  "id": "0SeTonJJPjy57LqiCDmeEM", 
+  "name": "Emergency On Planet Earth"
+}

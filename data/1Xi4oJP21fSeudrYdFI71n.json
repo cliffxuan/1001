@@ -1,0 +1,403 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1Xi4oJP21fSeudrYdFI71n"
+  }, 
+  "release_date": "1978", 
+  "popularity": 42, 
+  "genres": [], 
+  "uri": "spotify:album:1Xi4oJP21fSeudrYdFI71n", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Pure", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1E6keGpJmVRHEFlzISih2l"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5dbebe761c3a0fccb5ebb08938334c9267579750", 
+        "is_playable": true, 
+        "uri": "spotify:track:1E6keGpJmVRHEFlzISih2l", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1E6keGpJmVRHEFlzISih2l", 
+        "artists": [
+          {
+            "name": "Siouxsie And The Banshees", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+            }, 
+            "uri": "spotify:artist:1n65zfwYIj5kKEtNgxUlWb", 
+            "href": "https://api.spotify.com/v1/artists/1n65zfwYIj5kKEtNgxUlWb", 
+            "type": "artist", 
+            "id": "1n65zfwYIj5kKEtNgxUlWb"
+          }
+        ], 
+        "duration_ms": 111600, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "1E6keGpJmVRHEFlzISih2l"
+      }, 
+      {
+        "name": "Jigsaw Feeling", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3xWTQQm2u9KvPL31DT27eM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2365f5e1c5032c796a5f1306df16df34bd8c7b85", 
+        "is_playable": true, 
+        "uri": "spotify:track:3xWTQQm2u9KvPL31DT27eM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3xWTQQm2u9KvPL31DT27eM", 
+        "artists": [
+          {
+            "name": "Siouxsie And The Banshees", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+            }, 
+            "uri": "spotify:artist:1n65zfwYIj5kKEtNgxUlWb", 
+            "href": "https://api.spotify.com/v1/artists/1n65zfwYIj5kKEtNgxUlWb", 
+            "type": "artist", 
+            "id": "1n65zfwYIj5kKEtNgxUlWb"
+          }
+        ], 
+        "duration_ms": 278853, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "3xWTQQm2u9KvPL31DT27eM"
+      }, 
+      {
+        "name": "Overground - Original Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3gmedG195wm9KXy0ciZDcw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7cec49791393e6de2ee40dc565f562341b25bdd2", 
+        "is_playable": true, 
+        "uri": "spotify:track:3gmedG195wm9KXy0ciZDcw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3gmedG195wm9KXy0ciZDcw", 
+        "artists": [
+          {
+            "name": "Siouxsie And The Banshees", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+            }, 
+            "uri": "spotify:artist:1n65zfwYIj5kKEtNgxUlWb", 
+            "href": "https://api.spotify.com/v1/artists/1n65zfwYIj5kKEtNgxUlWb", 
+            "type": "artist", 
+            "id": "1n65zfwYIj5kKEtNgxUlWb"
+          }
+        ], 
+        "duration_ms": 227600, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "3gmedG195wm9KXy0ciZDcw"
+      }, 
+      {
+        "name": "Carcass", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4iwxbnUPekzRSkbr0mrrg5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c91a6cd8c8e5da4f3aa90717c2ecf75d8d4e94c6", 
+        "is_playable": true, 
+        "uri": "spotify:track:4iwxbnUPekzRSkbr0mrrg5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4iwxbnUPekzRSkbr0mrrg5", 
+        "artists": [
+          {
+            "name": "Siouxsie And The Banshees", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+            }, 
+            "uri": "spotify:artist:1n65zfwYIj5kKEtNgxUlWb", 
+            "href": "https://api.spotify.com/v1/artists/1n65zfwYIj5kKEtNgxUlWb", 
+            "type": "artist", 
+            "id": "1n65zfwYIj5kKEtNgxUlWb"
+          }
+        ], 
+        "duration_ms": 229573, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "4iwxbnUPekzRSkbr0mrrg5"
+      }, 
+      {
+        "name": "Helter Skelter", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0cXLslelWiEASZWAjUgTUD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c54a5266869bd903068a5dcac7c5b798b43767ea", 
+        "is_playable": true, 
+        "uri": "spotify:track:0cXLslelWiEASZWAjUgTUD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0cXLslelWiEASZWAjUgTUD", 
+        "artists": [
+          {
+            "name": "Siouxsie And The Banshees", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+            }, 
+            "uri": "spotify:artist:1n65zfwYIj5kKEtNgxUlWb", 
+            "href": "https://api.spotify.com/v1/artists/1n65zfwYIj5kKEtNgxUlWb", 
+            "type": "artist", 
+            "id": "1n65zfwYIj5kKEtNgxUlWb"
+          }
+        ], 
+        "duration_ms": 227453, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "0cXLslelWiEASZWAjUgTUD"
+      }, 
+      {
+        "name": "Mirage", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6JbKYIRzsWHXddc8wh8F22"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3568d60ea51262f47c5753c454571fb35b657a05", 
+        "is_playable": true, 
+        "uri": "spotify:track:6JbKYIRzsWHXddc8wh8F22", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6JbKYIRzsWHXddc8wh8F22", 
+        "artists": [
+          {
+            "name": "Siouxsie And The Banshees", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+            }, 
+            "uri": "spotify:artist:1n65zfwYIj5kKEtNgxUlWb", 
+            "href": "https://api.spotify.com/v1/artists/1n65zfwYIj5kKEtNgxUlWb", 
+            "type": "artist", 
+            "id": "1n65zfwYIj5kKEtNgxUlWb"
+          }
+        ], 
+        "duration_ms": 169830, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "6JbKYIRzsWHXddc8wh8F22"
+      }, 
+      {
+        "name": "Metal Postcard (Mittageisen)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6cVnCavV3ucFY86rox4v69"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b95ac3a1a33977e830b310598997cbcbdedaa3b0", 
+        "is_playable": true, 
+        "uri": "spotify:track:6cVnCavV3ucFY86rox4v69", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6cVnCavV3ucFY86rox4v69", 
+        "artists": [
+          {
+            "name": "Siouxsie And The Banshees", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+            }, 
+            "uri": "spotify:artist:1n65zfwYIj5kKEtNgxUlWb", 
+            "href": "https://api.spotify.com/v1/artists/1n65zfwYIj5kKEtNgxUlWb", 
+            "type": "artist", 
+            "id": "1n65zfwYIj5kKEtNgxUlWb"
+          }
+        ], 
+        "duration_ms": 254506, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "6cVnCavV3ucFY86rox4v69"
+      }, 
+      {
+        "name": "Nicotine Stain", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1seWyQXGTRrtNzg3AsJA9s"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/87f79fdd1bbda950993e23c67ddacc2a227502d4", 
+        "is_playable": true, 
+        "uri": "spotify:track:1seWyQXGTRrtNzg3AsJA9s", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1seWyQXGTRrtNzg3AsJA9s", 
+        "artists": [
+          {
+            "name": "Siouxsie And The Banshees", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+            }, 
+            "uri": "spotify:artist:1n65zfwYIj5kKEtNgxUlWb", 
+            "href": "https://api.spotify.com/v1/artists/1n65zfwYIj5kKEtNgxUlWb", 
+            "type": "artist", 
+            "id": "1n65zfwYIj5kKEtNgxUlWb"
+          }
+        ], 
+        "duration_ms": 177120, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "1seWyQXGTRrtNzg3AsJA9s"
+      }, 
+      {
+        "name": "Suburban Relapse", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6KtpWDGcjVEYpeWdRmTI7S"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c2f754c81656f419a3b4d928d5d1765bdf98c1dd", 
+        "is_playable": true, 
+        "uri": "spotify:track:6KtpWDGcjVEYpeWdRmTI7S", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6KtpWDGcjVEYpeWdRmTI7S", 
+        "artists": [
+          {
+            "name": "Siouxsie And The Banshees", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+            }, 
+            "uri": "spotify:artist:1n65zfwYIj5kKEtNgxUlWb", 
+            "href": "https://api.spotify.com/v1/artists/1n65zfwYIj5kKEtNgxUlWb", 
+            "type": "artist", 
+            "id": "1n65zfwYIj5kKEtNgxUlWb"
+          }
+        ], 
+        "duration_ms": 253040, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "6KtpWDGcjVEYpeWdRmTI7S"
+      }, 
+      {
+        "name": "Switch", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2M4NfLz1IJ7spF0kb2DY89"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8ffb812cc54c9bee86a0a6be88d8a41c5f7e6f81", 
+        "is_playable": true, 
+        "uri": "spotify:track:2M4NfLz1IJ7spF0kb2DY89", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2M4NfLz1IJ7spF0kb2DY89", 
+        "artists": [
+          {
+            "name": "Siouxsie And The Banshees", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+            }, 
+            "uri": "spotify:artist:1n65zfwYIj5kKEtNgxUlWb", 
+            "href": "https://api.spotify.com/v1/artists/1n65zfwYIj5kKEtNgxUlWb", 
+            "type": "artist", 
+            "id": "1n65zfwYIj5kKEtNgxUlWb"
+          }
+        ], 
+        "duration_ms": 417226, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "2M4NfLz1IJ7spF0kb2DY89"
+      }, 
+      {
+        "name": "Hong Kong Garden", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6zQhANi5mDTELfSuUFPx4Q"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a9d46b87861eb508781bde7834f9f6a8525f2ece", 
+        "is_playable": true, 
+        "uri": "spotify:track:6zQhANi5mDTELfSuUFPx4Q", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6zQhANi5mDTELfSuUFPx4Q", 
+        "artists": [
+          {
+            "name": "Siouxsie And The Banshees", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+            }, 
+            "uri": "spotify:artist:1n65zfwYIj5kKEtNgxUlWb", 
+            "href": "https://api.spotify.com/v1/artists/1n65zfwYIj5kKEtNgxUlWb", 
+            "type": "artist", 
+            "id": "1n65zfwYIj5kKEtNgxUlWb"
+          }
+        ], 
+        "duration_ms": 175906, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "6zQhANi5mDTELfSuUFPx4Q"
+      }, 
+      {
+        "name": "The Staircase (Mystery)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5J7TelBUD0fc6SOo27ITTO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ffb20e8f3dc076a6b3504b070dce65d27474545b", 
+        "is_playable": true, 
+        "uri": "spotify:track:5J7TelBUD0fc6SOo27ITTO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5J7TelBUD0fc6SOo27ITTO", 
+        "artists": [
+          {
+            "name": "Siouxsie And The Banshees", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+            }, 
+            "uri": "spotify:artist:1n65zfwYIj5kKEtNgxUlWb", 
+            "href": "https://api.spotify.com/v1/artists/1n65zfwYIj5kKEtNgxUlWb", 
+            "type": "artist", 
+            "id": "1n65zfwYIj5kKEtNgxUlWb"
+          }
+        ], 
+        "duration_ms": 195706, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "5J7TelBUD0fc6SOo27ITTO"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/1Xi4oJP21fSeudrYdFI71n/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 12, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/1Xi4oJP21fSeudrYdFI71n", 
+  "copyrights": [
+    {
+      "text": "(C) 2006 Polydor Ltd. (UK)", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 2006 Polydor Ltd. (UK)", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Siouxsie And The Banshees", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+      }, 
+      "uri": "spotify:artist:1n65zfwYIj5kKEtNgxUlWb", 
+      "href": "https://api.spotify.com/v1/artists/1n65zfwYIj5kKEtNgxUlWb", 
+      "type": "artist", 
+      "id": "1n65zfwYIj5kKEtNgxUlWb"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/3c2b17758b41015ca19be90c37bed396f23f9eb1", 
+      "width": 640, 
+      "height": 634
+    }, 
+    {
+      "url": "https://i.scdn.co/image/fb78edaf12a2eb77395bab998477fc1621d44272", 
+      "width": 300, 
+      "height": 297
+    }, 
+    {
+      "url": "https://i.scdn.co/image/9f0794902146f261d7f3da8a673fa66843a49d6f", 
+      "width": 64, 
+      "height": 63
+    }
+  ], 
+  "external_ids": {
+    "upc": "00602498369111"
+  }, 
+  "type": "album", 
+  "id": "1Xi4oJP21fSeudrYdFI71n", 
+  "name": "The Scream (Remastered & Expanded)"
+}

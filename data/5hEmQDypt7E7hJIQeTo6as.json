@@ -1,0 +1,465 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5hEmQDypt7E7hJIQeTo6as"
+  }, 
+  "release_date": "2004", 
+  "popularity": 36, 
+  "genres": [], 
+  "uri": "spotify:album:5hEmQDypt7E7hJIQeTo6as", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Valley Of The Dolls", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5HysOrX0Rgr1y5RueF6AO8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/06c28ac2a57867a5d5b3f54f57a526ed20c2b7b8", 
+        "is_playable": true, 
+        "uri": "spotify:track:5HysOrX0Rgr1y5RueF6AO8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5HysOrX0Rgr1y5RueF6AO8", 
+        "artists": [
+          {
+            "name": "Mylo", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti"
+            }, 
+            "uri": "spotify:artist:5YjEVrNMrIRw2xGbjTN6Ti", 
+            "href": "https://api.spotify.com/v1/artists/5YjEVrNMrIRw2xGbjTN6Ti", 
+            "type": "artist", 
+            "id": "5YjEVrNMrIRw2xGbjTN6Ti"
+          }
+        ], 
+        "duration_ms": 209666, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "5HysOrX0Rgr1y5RueF6AO8"
+      }, 
+      {
+        "name": "Sunworshipper", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1HDWClqZC8Mjy6ruDgnML3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/75bc558db2114ba5e343e506ead1a1b54088611e", 
+        "is_playable": true, 
+        "uri": "spotify:track:1HDWClqZC8Mjy6ruDgnML3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1HDWClqZC8Mjy6ruDgnML3", 
+        "artists": [
+          {
+            "name": "Mylo", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti"
+            }, 
+            "uri": "spotify:artist:5YjEVrNMrIRw2xGbjTN6Ti", 
+            "href": "https://api.spotify.com/v1/artists/5YjEVrNMrIRw2xGbjTN6Ti", 
+            "type": "artist", 
+            "id": "5YjEVrNMrIRw2xGbjTN6Ti"
+          }
+        ], 
+        "duration_ms": 206280, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "1HDWClqZC8Mjy6ruDgnML3"
+      }, 
+      {
+        "name": "Musclecars", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6L2or4UExh4dce09QBauqC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9d1ac5add8e47e95211b55409c543f044d0183f6", 
+        "is_playable": true, 
+        "uri": "spotify:track:6L2or4UExh4dce09QBauqC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6L2or4UExh4dce09QBauqC", 
+        "artists": [
+          {
+            "name": "Mylo", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti"
+            }, 
+            "uri": "spotify:artist:5YjEVrNMrIRw2xGbjTN6Ti", 
+            "href": "https://api.spotify.com/v1/artists/5YjEVrNMrIRw2xGbjTN6Ti", 
+            "type": "artist", 
+            "id": "5YjEVrNMrIRw2xGbjTN6Ti"
+          }
+        ], 
+        "duration_ms": 218733, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "6L2or4UExh4dce09QBauqC"
+      }, 
+      {
+        "name": "Drop The Pressure", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/243NB0yDHxtapXQvJvCaW6"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/70c5e98e0336ac1ec83bd86601f449b9186487bf", 
+        "is_playable": true, 
+        "uri": "spotify:track:243NB0yDHxtapXQvJvCaW6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/243NB0yDHxtapXQvJvCaW6", 
+        "artists": [
+          {
+            "name": "Mylo", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti"
+            }, 
+            "uri": "spotify:artist:5YjEVrNMrIRw2xGbjTN6Ti", 
+            "href": "https://api.spotify.com/v1/artists/5YjEVrNMrIRw2xGbjTN6Ti", 
+            "type": "artist", 
+            "id": "5YjEVrNMrIRw2xGbjTN6Ti"
+          }
+        ], 
+        "duration_ms": 255413, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "243NB0yDHxtapXQvJvCaW6"
+      }, 
+      {
+        "name": "In My Arms", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2CvN4459v5p7vPmKHFdRmU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/63912e195fcd0601ee1a7ac33e806ab690e13489", 
+        "is_playable": true, 
+        "uri": "spotify:track:2CvN4459v5p7vPmKHFdRmU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2CvN4459v5p7vPmKHFdRmU", 
+        "artists": [
+          {
+            "name": "Mylo", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti"
+            }, 
+            "uri": "spotify:artist:5YjEVrNMrIRw2xGbjTN6Ti", 
+            "href": "https://api.spotify.com/v1/artists/5YjEVrNMrIRw2xGbjTN6Ti", 
+            "type": "artist", 
+            "id": "5YjEVrNMrIRw2xGbjTN6Ti"
+          }
+        ], 
+        "duration_ms": 226080, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "2CvN4459v5p7vPmKHFdRmU"
+      }, 
+      {
+        "name": "Guilty of Love - '05 Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Zklg7ws6h2tjBmWKtEkFK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/32b41c2b90e7e24ef648dbfabb5ff55c80b2bc28", 
+        "is_playable": true, 
+        "uri": "spotify:track:3Zklg7ws6h2tjBmWKtEkFK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3Zklg7ws6h2tjBmWKtEkFK", 
+        "artists": [
+          {
+            "name": "Mylo", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti"
+            }, 
+            "uri": "spotify:artist:5YjEVrNMrIRw2xGbjTN6Ti", 
+            "href": "https://api.spotify.com/v1/artists/5YjEVrNMrIRw2xGbjTN6Ti", 
+            "type": "artist", 
+            "id": "5YjEVrNMrIRw2xGbjTN6Ti"
+          }
+        ], 
+        "duration_ms": 185546, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "3Zklg7ws6h2tjBmWKtEkFK"
+      }, 
+      {
+        "name": "Paris Four Hundred", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0SR2mzcdHWH1ibRZHuy7rQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/262391b0fa8922239a6f887f12877a43fb4198e1", 
+        "is_playable": true, 
+        "uri": "spotify:track:0SR2mzcdHWH1ibRZHuy7rQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0SR2mzcdHWH1ibRZHuy7rQ", 
+        "artists": [
+          {
+            "name": "Mylo", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti"
+            }, 
+            "uri": "spotify:artist:5YjEVrNMrIRw2xGbjTN6Ti", 
+            "href": "https://api.spotify.com/v1/artists/5YjEVrNMrIRw2xGbjTN6Ti", 
+            "type": "artist", 
+            "id": "5YjEVrNMrIRw2xGbjTN6Ti"
+          }
+        ], 
+        "duration_ms": 212240, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "0SR2mzcdHWH1ibRZHuy7rQ"
+      }, 
+      {
+        "name": "Destroy Rock & Roll", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1gG05RqOP9cu3Rxm3jXB3z"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2647e5da52b6ad86169804e8965e7a41a12a9e60", 
+        "is_playable": true, 
+        "uri": "spotify:track:1gG05RqOP9cu3Rxm3jXB3z", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1gG05RqOP9cu3Rxm3jXB3z", 
+        "artists": [
+          {
+            "name": "Mylo", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti"
+            }, 
+            "uri": "spotify:artist:5YjEVrNMrIRw2xGbjTN6Ti", 
+            "href": "https://api.spotify.com/v1/artists/5YjEVrNMrIRw2xGbjTN6Ti", 
+            "type": "artist", 
+            "id": "5YjEVrNMrIRw2xGbjTN6Ti"
+          }
+        ], 
+        "duration_ms": 246720, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "1gG05RqOP9cu3Rxm3jXB3z"
+      }, 
+      {
+        "name": "Rikki", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0LZR7tJPjEtBMylwQT8Oq5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ae26545fc0ea13b93fbee0bf4e936f1da5224780", 
+        "is_playable": true, 
+        "uri": "spotify:track:0LZR7tJPjEtBMylwQT8Oq5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0LZR7tJPjEtBMylwQT8Oq5", 
+        "artists": [
+          {
+            "name": "Mylo", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti"
+            }, 
+            "uri": "spotify:artist:5YjEVrNMrIRw2xGbjTN6Ti", 
+            "href": "https://api.spotify.com/v1/artists/5YjEVrNMrIRw2xGbjTN6Ti", 
+            "type": "artist", 
+            "id": "5YjEVrNMrIRw2xGbjTN6Ti"
+          }
+        ], 
+        "duration_ms": 198360, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "0LZR7tJPjEtBMylwQT8Oq5"
+      }, 
+      {
+        "name": "Otto's Journey", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3ZjWQCeqMEyNZmizrPRx8J"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/19d7717fb45035e454ef52560c395b12e0be4dac", 
+        "is_playable": true, 
+        "uri": "spotify:track:3ZjWQCeqMEyNZmizrPRx8J", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3ZjWQCeqMEyNZmizrPRx8J", 
+        "artists": [
+          {
+            "name": "Mylo", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti"
+            }, 
+            "uri": "spotify:artist:5YjEVrNMrIRw2xGbjTN6Ti", 
+            "href": "https://api.spotify.com/v1/artists/5YjEVrNMrIRw2xGbjTN6Ti", 
+            "type": "artist", 
+            "id": "5YjEVrNMrIRw2xGbjTN6Ti"
+          }
+        ], 
+        "duration_ms": 238120, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "3ZjWQCeqMEyNZmizrPRx8J"
+      }, 
+      {
+        "name": "Muscle Car - '05 Mixdown", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/54fqHQ4rchFEz3auzZzJpO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7835eba6091e5be958cdfa38ba74eab4ced86566", 
+        "is_playable": true, 
+        "uri": "spotify:track:54fqHQ4rchFEz3auzZzJpO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/54fqHQ4rchFEz3auzZzJpO", 
+        "artists": [
+          {
+            "name": "Mylo", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti"
+            }, 
+            "uri": "spotify:artist:5YjEVrNMrIRw2xGbjTN6Ti", 
+            "href": "https://api.spotify.com/v1/artists/5YjEVrNMrIRw2xGbjTN6Ti", 
+            "type": "artist", 
+            "id": "5YjEVrNMrIRw2xGbjTN6Ti"
+          }, 
+          {
+            "name": "Freeform Five", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5moj04MGEjXS0834GF3wK5"
+            }, 
+            "uri": "spotify:artist:5moj04MGEjXS0834GF3wK5", 
+            "href": "https://api.spotify.com/v1/artists/5moj04MGEjXS0834GF3wK5", 
+            "type": "artist", 
+            "id": "5moj04MGEjXS0834GF3wK5"
+          }
+        ], 
+        "duration_ms": 232826, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "54fqHQ4rchFEz3auzZzJpO"
+      }, 
+      {
+        "name": "Zenophile - '05 Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0H51ZIH4j8hbdL4265icX0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2ad070d66b757213cda6ea72822e39b5641f2427", 
+        "is_playable": true, 
+        "uri": "spotify:track:0H51ZIH4j8hbdL4265icX0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0H51ZIH4j8hbdL4265icX0", 
+        "artists": [
+          {
+            "name": "Mylo", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti"
+            }, 
+            "uri": "spotify:artist:5YjEVrNMrIRw2xGbjTN6Ti", 
+            "href": "https://api.spotify.com/v1/artists/5YjEVrNMrIRw2xGbjTN6Ti", 
+            "type": "artist", 
+            "id": "5YjEVrNMrIRw2xGbjTN6Ti"
+          }
+        ], 
+        "duration_ms": 248400, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "0H51ZIH4j8hbdL4265icX0"
+      }, 
+      {
+        "name": "Need You Tonite", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6VIHLyRgNkmLEg42ZenrR7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6062c2d373875ff128ee7b62cd3c37256ed7c6cf", 
+        "is_playable": true, 
+        "uri": "spotify:track:6VIHLyRgNkmLEg42ZenrR7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6VIHLyRgNkmLEg42ZenrR7", 
+        "artists": [
+          {
+            "name": "Mylo", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti"
+            }, 
+            "uri": "spotify:artist:5YjEVrNMrIRw2xGbjTN6Ti", 
+            "href": "https://api.spotify.com/v1/artists/5YjEVrNMrIRw2xGbjTN6Ti", 
+            "type": "artist", 
+            "id": "5YjEVrNMrIRw2xGbjTN6Ti"
+          }
+        ], 
+        "duration_ms": 291240, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "6VIHLyRgNkmLEg42ZenrR7"
+      }, 
+      {
+        "name": "Emotion 98.6", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7lMv1wvyjOgIDiiC1Xa01o"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b74a11a32bd5c0b304c858980fcb6824f1489efc", 
+        "is_playable": true, 
+        "uri": "spotify:track:7lMv1wvyjOgIDiiC1Xa01o", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7lMv1wvyjOgIDiiC1Xa01o", 
+        "artists": [
+          {
+            "name": "Mylo", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti"
+            }, 
+            "uri": "spotify:artist:5YjEVrNMrIRw2xGbjTN6Ti", 
+            "href": "https://api.spotify.com/v1/artists/5YjEVrNMrIRw2xGbjTN6Ti", 
+            "type": "artist", 
+            "id": "5YjEVrNMrIRw2xGbjTN6Ti"
+          }
+        ], 
+        "duration_ms": 335520, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "7lMv1wvyjOgIDiiC1Xa01o"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/5hEmQDypt7E7hJIQeTo6as/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 14, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/5hEmQDypt7E7hJIQeTo6as", 
+  "copyrights": [
+    {
+      "text": "(P) 2003, 2004 & 2005 Breastfed Records Ltd. under exclusive licence to SONY BMG MUSIC ENTERTAINMENT (UK) LIMITED", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Mylo", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti"
+      }, 
+      "uri": "spotify:artist:5YjEVrNMrIRw2xGbjTN6Ti", 
+      "href": "https://api.spotify.com/v1/artists/5YjEVrNMrIRw2xGbjTN6Ti", 
+      "type": "artist", 
+      "id": "5YjEVrNMrIRw2xGbjTN6Ti"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/bb3fe7ff37c861e415519b13ab8d1ea9849bc946", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/4631d84483f7edd554dd02ab09aafd8bc3e75700", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/c8c2b92c04d19ff3377fe53433a1d1bb9e7ad4f1", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "886443372665"
+  }, 
+  "type": "album", 
+  "id": "5hEmQDypt7E7hJIQeTo6as", 
+  "name": "Destroy Rock & Roll"
+}

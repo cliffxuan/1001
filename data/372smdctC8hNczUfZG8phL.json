@@ -1,0 +1,375 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/372smdctC8hNczUfZG8phL"
+  }, 
+  "release_date": "1976", 
+  "popularity": 29, 
+  "genres": [], 
+  "uri": "spotify:album:372smdctC8hNczUfZG8phL", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Penguin Cafe Single", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5pcqotDRD05m9TlzfrvF0d"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6b7bd3a68bb7a7cfed240cabfe133cae4dea7930", 
+        "is_playable": true, 
+        "uri": "spotify:track:5pcqotDRD05m9TlzfrvF0d", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5pcqotDRD05m9TlzfrvF0d", 
+        "artists": [
+          {
+            "name": "Penguin Cafe Orchestra", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6rAZ6OYwAXqykSlPxqGy8E"
+            }, 
+            "uri": "spotify:artist:6rAZ6OYwAXqykSlPxqGy8E", 
+            "href": "https://api.spotify.com/v1/artists/6rAZ6OYwAXqykSlPxqGy8E", 
+            "type": "artist", 
+            "id": "6rAZ6OYwAXqykSlPxqGy8E"
+          }
+        ], 
+        "duration_ms": 380426, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "5pcqotDRD05m9TlzfrvF0d"
+      }, 
+      {
+        "name": "Zopf: From The Colonies", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3XJmNCrpFZ3diN6MeCVlD9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/03c1d788a84e7ed60a900b927b5b65ac20c40fdc", 
+        "is_playable": true, 
+        "uri": "spotify:track:3XJmNCrpFZ3diN6MeCVlD9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3XJmNCrpFZ3diN6MeCVlD9", 
+        "artists": [
+          {
+            "name": "Penguin Cafe Orchestra", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6rAZ6OYwAXqykSlPxqGy8E"
+            }, 
+            "uri": "spotify:artist:6rAZ6OYwAXqykSlPxqGy8E", 
+            "href": "https://api.spotify.com/v1/artists/6rAZ6OYwAXqykSlPxqGy8E", 
+            "type": "artist", 
+            "id": "6rAZ6OYwAXqykSlPxqGy8E"
+          }
+        ], 
+        "duration_ms": 98866, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "3XJmNCrpFZ3diN6MeCVlD9"
+      }, 
+      {
+        "name": "Zopf: In A Sydney Motel", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3mv9RJOzRdGAwOI3n4rTRB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b7a72fa81673fe622c1a40c854bbcd5d1a85ebf9", 
+        "is_playable": true, 
+        "uri": "spotify:track:3mv9RJOzRdGAwOI3n4rTRB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3mv9RJOzRdGAwOI3n4rTRB", 
+        "artists": [
+          {
+            "name": "Penguin Cafe Orchestra", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6rAZ6OYwAXqykSlPxqGy8E"
+            }, 
+            "uri": "spotify:artist:6rAZ6OYwAXqykSlPxqGy8E", 
+            "href": "https://api.spotify.com/v1/artists/6rAZ6OYwAXqykSlPxqGy8E", 
+            "type": "artist", 
+            "id": "6rAZ6OYwAXqykSlPxqGy8E"
+          }
+        ], 
+        "duration_ms": 148173, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "3mv9RJOzRdGAwOI3n4rTRB"
+      }, 
+      {
+        "name": "Zopf: Surface Tension", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0DPylpuFHe3jXFExczJpBL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8db2e3f69534e4b495da154f43ba864f809b798f", 
+        "is_playable": true, 
+        "uri": "spotify:track:0DPylpuFHe3jXFExczJpBL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0DPylpuFHe3jXFExczJpBL", 
+        "artists": [
+          {
+            "name": "Penguin Cafe Orchestra", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6rAZ6OYwAXqykSlPxqGy8E"
+            }, 
+            "uri": "spotify:artist:6rAZ6OYwAXqykSlPxqGy8E", 
+            "href": "https://api.spotify.com/v1/artists/6rAZ6OYwAXqykSlPxqGy8E", 
+            "type": "artist", 
+            "id": "6rAZ6OYwAXqykSlPxqGy8E"
+          }
+        ], 
+        "duration_ms": 142733, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "0DPylpuFHe3jXFExczJpBL"
+      }, 
+      {
+        "name": "Zopf: Milk", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4br8Ay5s2XIRgwO8ZDSvZu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/546221afdca6db8b75656ef640c731136c7ea206", 
+        "is_playable": true, 
+        "uri": "spotify:track:4br8Ay5s2XIRgwO8ZDSvZu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4br8Ay5s2XIRgwO8ZDSvZu", 
+        "artists": [
+          {
+            "name": "Penguin Cafe Orchestra", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6rAZ6OYwAXqykSlPxqGy8E"
+            }, 
+            "uri": "spotify:artist:6rAZ6OYwAXqykSlPxqGy8E", 
+            "href": "https://api.spotify.com/v1/artists/6rAZ6OYwAXqykSlPxqGy8E", 
+            "type": "artist", 
+            "id": "6rAZ6OYwAXqykSlPxqGy8E"
+          }
+        ], 
+        "duration_ms": 142066, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "4br8Ay5s2XIRgwO8ZDSvZu"
+      }, 
+      {
+        "name": "Zopf: Coronation", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1wYDwDsAOm8UfxkN1Pwvat"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0bc1a752555cde6988cb3f87b77cf67632370313", 
+        "is_playable": true, 
+        "uri": "spotify:track:1wYDwDsAOm8UfxkN1Pwvat", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1wYDwDsAOm8UfxkN1Pwvat", 
+        "artists": [
+          {
+            "name": "Penguin Cafe Orchestra", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6rAZ6OYwAXqykSlPxqGy8E"
+            }, 
+            "uri": "spotify:artist:6rAZ6OYwAXqykSlPxqGy8E", 
+            "href": "https://api.spotify.com/v1/artists/6rAZ6OYwAXqykSlPxqGy8E", 
+            "type": "artist", 
+            "id": "6rAZ6OYwAXqykSlPxqGy8E"
+          }
+        ], 
+        "duration_ms": 93000, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "1wYDwDsAOm8UfxkN1Pwvat"
+      }, 
+      {
+        "name": "Zopf: Giles Farnaby's Dream", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6lS82lM9TXC89sk5XoC2sX"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/077babe9e7c71716f7b10846943b70f52548e5c5", 
+        "is_playable": true, 
+        "uri": "spotify:track:6lS82lM9TXC89sk5XoC2sX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6lS82lM9TXC89sk5XoC2sX", 
+        "artists": [
+          {
+            "name": "Penguin Cafe Orchestra", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6rAZ6OYwAXqykSlPxqGy8E"
+            }, 
+            "uri": "spotify:artist:6rAZ6OYwAXqykSlPxqGy8E", 
+            "href": "https://api.spotify.com/v1/artists/6rAZ6OYwAXqykSlPxqGy8E", 
+            "type": "artist", 
+            "id": "6rAZ6OYwAXqykSlPxqGy8E"
+          }
+        ], 
+        "duration_ms": 139933, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "6lS82lM9TXC89sk5XoC2sX"
+      }, 
+      {
+        "name": "Zopf: Pigtail", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7dD81BBNpQ2lma62U5wVYx"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/dc40415d956dcdfc7448b6f2fee74ecdeb1d4357", 
+        "is_playable": true, 
+        "uri": "spotify:track:7dD81BBNpQ2lma62U5wVYx", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7dD81BBNpQ2lma62U5wVYx", 
+        "artists": [
+          {
+            "name": "Penguin Cafe Orchestra", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6rAZ6OYwAXqykSlPxqGy8E"
+            }, 
+            "uri": "spotify:artist:6rAZ6OYwAXqykSlPxqGy8E", 
+            "href": "https://api.spotify.com/v1/artists/6rAZ6OYwAXqykSlPxqGy8E", 
+            "type": "artist", 
+            "id": "6rAZ6OYwAXqykSlPxqGy8E"
+          }
+        ], 
+        "duration_ms": 164693, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "7dD81BBNpQ2lma62U5wVYx"
+      }, 
+      {
+        "name": "The Sound Of Someone You Love Who's Going Away And It Doesn't Matter", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2QZnRYgn0musGxxPXK7DD8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9573d73457ab618dd06364f5e1f3da3a70b4c0fd", 
+        "is_playable": true, 
+        "uri": "spotify:track:2QZnRYgn0musGxxPXK7DD8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2QZnRYgn0musGxxPXK7DD8", 
+        "artists": [
+          {
+            "name": "Penguin Cafe Orchestra", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6rAZ6OYwAXqykSlPxqGy8E"
+            }, 
+            "uri": "spotify:artist:6rAZ6OYwAXqykSlPxqGy8E", 
+            "href": "https://api.spotify.com/v1/artists/6rAZ6OYwAXqykSlPxqGy8E", 
+            "type": "artist", 
+            "id": "6rAZ6OYwAXqykSlPxqGy8E"
+          }
+        ], 
+        "duration_ms": 706866, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "2QZnRYgn0musGxxPXK7DD8"
+      }, 
+      {
+        "name": "Hugebaby", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/26JQYQr6iaC1qlFUcmiJ0N"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ab4286b19b44b7beb5ec652bd1a41d16a8807b2f", 
+        "is_playable": true, 
+        "uri": "spotify:track:26JQYQr6iaC1qlFUcmiJ0N", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/26JQYQr6iaC1qlFUcmiJ0N", 
+        "artists": [
+          {
+            "name": "Penguin Cafe Orchestra", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6rAZ6OYwAXqykSlPxqGy8E"
+            }, 
+            "uri": "spotify:artist:6rAZ6OYwAXqykSlPxqGy8E", 
+            "href": "https://api.spotify.com/v1/artists/6rAZ6OYwAXqykSlPxqGy8E", 
+            "type": "artist", 
+            "id": "6rAZ6OYwAXqykSlPxqGy8E"
+          }
+        ], 
+        "duration_ms": 288306, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "26JQYQr6iaC1qlFUcmiJ0N"
+      }, 
+      {
+        "name": "Chartered Flight", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3apTgWfjMkm0lrDs9tgKC2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b7a834c56fdc9592e89a54a4873fb674233daa14", 
+        "is_playable": true, 
+        "uri": "spotify:track:3apTgWfjMkm0lrDs9tgKC2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3apTgWfjMkm0lrDs9tgKC2", 
+        "artists": [
+          {
+            "name": "Penguin Cafe Orchestra", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6rAZ6OYwAXqykSlPxqGy8E"
+            }, 
+            "uri": "spotify:artist:6rAZ6OYwAXqykSlPxqGy8E", 
+            "href": "https://api.spotify.com/v1/artists/6rAZ6OYwAXqykSlPxqGy8E", 
+            "type": "artist", 
+            "id": "6rAZ6OYwAXqykSlPxqGy8E"
+          }
+        ], 
+        "duration_ms": 401426, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "3apTgWfjMkm0lrDs9tgKC2"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/372smdctC8hNczUfZG8phL/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 11, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/372smdctC8hNczUfZG8phL", 
+  "copyrights": [
+    {
+      "text": "(C) 1976 Virgin Records LtdThis label copy information is the subject of copyright protection. All rights reserved.(C) 1976 Virgin Records Ltd", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1976 The copyright in this sound recording is owned by Virgin Records Ltd", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Penguin Cafe Orchestra", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6rAZ6OYwAXqykSlPxqGy8E"
+      }, 
+      "uri": "spotify:artist:6rAZ6OYwAXqykSlPxqGy8E", 
+      "href": "https://api.spotify.com/v1/artists/6rAZ6OYwAXqykSlPxqGy8E", 
+      "type": "artist", 
+      "id": "6rAZ6OYwAXqykSlPxqGy8E"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/221f49315d3ef64287c279b03e4ee7ba80add992", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/e8d54e8bd15885fccad2b51ab9a598bcb64a2d54", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/c1e4f6ffbbe20496133b9a9878795ad01bd2bb00", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00077778744856"
+  }, 
+  "type": "album", 
+  "id": "372smdctC8hNczUfZG8phL", 
+  "name": "Music From The Penguin Cafe"
+}

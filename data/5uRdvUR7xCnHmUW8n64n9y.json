@@ -1,0 +1,515 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
+  }, 
+  "release_date": "1997-01-16", 
+  "popularity": 66, 
+  "genres": [], 
+  "uri": "spotify:album:5uRdvUR7xCnHmUW8n64n9y", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Daftendirekt", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7fYIXtdOUl8WqXAqQGyIHQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1d6a1464f7de1ce535d79f59eea10c15285c5850", 
+        "is_playable": true, 
+        "uri": "spotify:track:7fYIXtdOUl8WqXAqQGyIHQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7fYIXtdOUl8WqXAqQGyIHQ", 
+        "artists": [
+          {
+            "name": "Daft Punk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+            }, 
+            "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi", 
+            "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi", 
+            "type": "artist", 
+            "id": "4tZwfgrHOc3mvqYlEYSvVi"
+          }
+        ], 
+        "duration_ms": 164560, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "7fYIXtdOUl8WqXAqQGyIHQ"
+      }, 
+      {
+        "name": "Wdpk 837 Fm", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7dTWkvPOPgbGuMk4HDxNpY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/aeda5b9187ef87046f0ac9eb98d3cb7111e493cf", 
+        "is_playable": true, 
+        "uri": "spotify:track:7dTWkvPOPgbGuMk4HDxNpY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7dTWkvPOPgbGuMk4HDxNpY", 
+        "artists": [
+          {
+            "name": "Daft Punk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+            }, 
+            "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi", 
+            "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi", 
+            "type": "artist", 
+            "id": "4tZwfgrHOc3mvqYlEYSvVi"
+          }
+        ], 
+        "duration_ms": 28333, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "7dTWkvPOPgbGuMk4HDxNpY"
+      }, 
+      {
+        "name": "Revolution 909", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5pgZpHqfv4TSomtkfGZGrG"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a9e4e5d4b60706b45ae12188b19797eb06328361", 
+        "is_playable": true, 
+        "uri": "spotify:track:5pgZpHqfv4TSomtkfGZGrG", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5pgZpHqfv4TSomtkfGZGrG", 
+        "artists": [
+          {
+            "name": "Daft Punk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+            }, 
+            "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi", 
+            "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi", 
+            "type": "artist", 
+            "id": "4tZwfgrHOc3mvqYlEYSvVi"
+          }
+        ], 
+        "duration_ms": 335026, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "5pgZpHqfv4TSomtkfGZGrG"
+      }, 
+      {
+        "name": "Da Funk", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4ac3ee190b9a6931690a23bfa74894e21eeff493", 
+        "is_playable": true, 
+        "uri": "spotify:track:0MyY4WcN7DIfbSmp5yej5z", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0MyY4WcN7DIfbSmp5yej5z", 
+        "artists": [
+          {
+            "name": "Daft Punk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+            }, 
+            "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi", 
+            "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi", 
+            "type": "artist", 
+            "id": "4tZwfgrHOc3mvqYlEYSvVi"
+          }
+        ], 
+        "duration_ms": 328680, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "0MyY4WcN7DIfbSmp5yej5z"
+      }, 
+      {
+        "name": "Phoenix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6nQy5XEEEJKu8FE1FS2Wbt"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ea0fed3442c9db2b40579957ba0b53abe95a6137", 
+        "is_playable": true, 
+        "uri": "spotify:track:6nQy5XEEEJKu8FE1FS2Wbt", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6nQy5XEEEJKu8FE1FS2Wbt", 
+        "artists": [
+          {
+            "name": "Daft Punk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+            }, 
+            "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi", 
+            "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi", 
+            "type": "artist", 
+            "id": "4tZwfgrHOc3mvqYlEYSvVi"
+          }
+        ], 
+        "duration_ms": 297106, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "6nQy5XEEEJKu8FE1FS2Wbt"
+      }, 
+      {
+        "name": "Fresh", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/78H72MElkOY9cRnaudxZFY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/51cb3d536d1d285759ad946a6f520b9d88025ee6", 
+        "is_playable": true, 
+        "uri": "spotify:track:78H72MElkOY9cRnaudxZFY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/78H72MElkOY9cRnaudxZFY", 
+        "artists": [
+          {
+            "name": "Daft Punk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+            }, 
+            "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi", 
+            "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi", 
+            "type": "artist", 
+            "id": "4tZwfgrHOc3mvqYlEYSvVi"
+          }
+        ], 
+        "duration_ms": 244400, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "78H72MElkOY9cRnaudxZFY"
+      }, 
+      {
+        "name": "Around The World", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c5d22f3e0ae0c55052cc2368b7e6a5707d84cff9", 
+        "is_playable": true, 
+        "uri": "spotify:track:1pKYYY0dkg23sQQXi0Q5zN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1pKYYY0dkg23sQQXi0Q5zN", 
+        "artists": [
+          {
+            "name": "Daft Punk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+            }, 
+            "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi", 
+            "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi", 
+            "type": "artist", 
+            "id": "4tZwfgrHOc3mvqYlEYSvVi"
+          }
+        ], 
+        "duration_ms": 429533, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "1pKYYY0dkg23sQQXi0Q5zN"
+      }, 
+      {
+        "name": "Rollin' & Scratchin'", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6hgBJPTHoDJyxydmtFWHKf"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6901599b81de61c21a76c726dbeed8dfba4930ac", 
+        "is_playable": true, 
+        "uri": "spotify:track:6hgBJPTHoDJyxydmtFWHKf", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6hgBJPTHoDJyxydmtFWHKf", 
+        "artists": [
+          {
+            "name": "Daft Punk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+            }, 
+            "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi", 
+            "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi", 
+            "type": "artist", 
+            "id": "4tZwfgrHOc3mvqYlEYSvVi"
+          }
+        ], 
+        "duration_ms": 448626, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "6hgBJPTHoDJyxydmtFWHKf"
+      }, 
+      {
+        "name": "Teachers", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4ZdjCuiWBv2weLftWPJ72c"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8ac64ac1c90d5e4cc3de4f4b5219ccedeee3795d", 
+        "is_playable": true, 
+        "uri": "spotify:track:4ZdjCuiWBv2weLftWPJ72c", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4ZdjCuiWBv2weLftWPJ72c", 
+        "artists": [
+          {
+            "name": "Daft Punk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+            }, 
+            "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi", 
+            "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi", 
+            "type": "artist", 
+            "id": "4tZwfgrHOc3mvqYlEYSvVi"
+          }
+        ], 
+        "duration_ms": 173493, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "4ZdjCuiWBv2weLftWPJ72c"
+      }, 
+      {
+        "name": "High Fidelity", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/63ZAmhkAV6Kaw955ohbEsN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/448b6eb08d490c3b6562acd951adf22eb7e9f909", 
+        "is_playable": true, 
+        "uri": "spotify:track:63ZAmhkAV6Kaw955ohbEsN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/63ZAmhkAV6Kaw955ohbEsN", 
+        "artists": [
+          {
+            "name": "Daft Punk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+            }, 
+            "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi", 
+            "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi", 
+            "type": "artist", 
+            "id": "4tZwfgrHOc3mvqYlEYSvVi"
+          }
+        ], 
+        "duration_ms": 362466, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "63ZAmhkAV6Kaw955ohbEsN"
+      }, 
+      {
+        "name": "Rock'n Roll", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1nluqUxDKnwWyScYVeQHXa"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/59513d5a6c314e04b5285b2fc53aad5fcf0dca30", 
+        "is_playable": true, 
+        "uri": "spotify:track:1nluqUxDKnwWyScYVeQHXa", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1nluqUxDKnwWyScYVeQHXa", 
+        "artists": [
+          {
+            "name": "Daft Punk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+            }, 
+            "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi", 
+            "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi", 
+            "type": "artist", 
+            "id": "4tZwfgrHOc3mvqYlEYSvVi"
+          }
+        ], 
+        "duration_ms": 453866, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "1nluqUxDKnwWyScYVeQHXa"
+      }, 
+      {
+        "name": "Oh Yeah", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Pm4jgrXCu0W7gTqyrlR4F"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/eadb91da1c82b10c2a5863d4301844401cb11080", 
+        "is_playable": true, 
+        "uri": "spotify:track:3Pm4jgrXCu0W7gTqyrlR4F", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3Pm4jgrXCu0W7gTqyrlR4F", 
+        "artists": [
+          {
+            "name": "Daft Punk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+            }, 
+            "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi", 
+            "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi", 
+            "type": "artist", 
+            "id": "4tZwfgrHOc3mvqYlEYSvVi"
+          }
+        ], 
+        "duration_ms": 121200, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "3Pm4jgrXCu0W7gTqyrlR4F"
+      }, 
+      {
+        "name": "Burnin'", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6nSOhDfZOulWp0pnEHFrnn"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d83e2b1fc36f3a1b38105c74aa8e17c83a7eb9b2", 
+        "is_playable": true, 
+        "uri": "spotify:track:6nSOhDfZOulWp0pnEHFrnn", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6nSOhDfZOulWp0pnEHFrnn", 
+        "artists": [
+          {
+            "name": "Daft Punk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+            }, 
+            "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi", 
+            "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi", 
+            "type": "artist", 
+            "id": "4tZwfgrHOc3mvqYlEYSvVi"
+          }
+        ], 
+        "duration_ms": 414173, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "6nSOhDfZOulWp0pnEHFrnn"
+      }, 
+      {
+        "name": "Indo Silver Club", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4jF8GAMRCOenL17cNnBDI0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/93a27696020588f98d878291140b26ab2edf3203", 
+        "is_playable": true, 
+        "uri": "spotify:track:4jF8GAMRCOenL17cNnBDI0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4jF8GAMRCOenL17cNnBDI0", 
+        "artists": [
+          {
+            "name": "Daft Punk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+            }, 
+            "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi", 
+            "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi", 
+            "type": "artist", 
+            "id": "4tZwfgrHOc3mvqYlEYSvVi"
+          }
+        ], 
+        "duration_ms": 274733, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "4jF8GAMRCOenL17cNnBDI0"
+      }, 
+      {
+        "name": "Alive", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1PH5Es89c1cENU8WVuWwbp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/27671291548e579e83125c050a66f44a50e50cf2", 
+        "is_playable": true, 
+        "uri": "spotify:track:1PH5Es89c1cENU8WVuWwbp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1PH5Es89c1cENU8WVuWwbp", 
+        "artists": [
+          {
+            "name": "Daft Punk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+            }, 
+            "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi", 
+            "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi", 
+            "type": "artist", 
+            "id": "4tZwfgrHOc3mvqYlEYSvVi"
+          }
+        ], 
+        "duration_ms": 316253, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "1PH5Es89c1cENU8WVuWwbp"
+      }, 
+      {
+        "name": "Funk Ad", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0cjavaamK4gxP9iZYw5I2X"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/99d75582d4b4285c9ab82981c19d79944c60b588", 
+        "is_playable": true, 
+        "uri": "spotify:track:0cjavaamK4gxP9iZYw5I2X", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0cjavaamK4gxP9iZYw5I2X", 
+        "artists": [
+          {
+            "name": "Daft Punk", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+            }, 
+            "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi", 
+            "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi", 
+            "type": "artist", 
+            "id": "4tZwfgrHOc3mvqYlEYSvVi"
+          }
+        ], 
+        "duration_ms": 51400, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "0cjavaamK4gxP9iZYw5I2X"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/5uRdvUR7xCnHmUW8n64n9y/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 16, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/5uRdvUR7xCnHmUW8n64n9y", 
+  "copyrights": [
+    {
+      "text": "1997 Daft Life under exclusive license to Parlophone Records Ltd./Parlophone Music, a division of Parlophone Music France", 
+      "type": "C"
+    }, 
+    {
+      "text": "1997 Daft Life under exclusive license to Parlophone Records Ltd./Parlophone Music, a division of Parlophone Music France", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Daft Punk", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+      }, 
+      "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi", 
+      "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi", 
+      "type": "artist", 
+      "id": "4tZwfgrHOc3mvqYlEYSvVi"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/c40036110e2c683d0a7e5239a6e1a7909ae6d241", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/2d08bcbf8a088a15d67d0892795a7798d61b5f30", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/5a753d786a79871ae2da7cd6078d94281bd16e91", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "0724384260958"
+  }, 
+  "type": "album", 
+  "id": "5uRdvUR7xCnHmUW8n64n9y", 
+  "name": "Homework"
+}

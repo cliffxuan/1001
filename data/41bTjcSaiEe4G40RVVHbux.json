@@ -1,0 +1,287 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/41bTjcSaiEe4G40RVVHbux"
+  }, 
+  "release_date": "1986-03-03", 
+  "popularity": 71, 
+  "genres": [], 
+  "uri": "spotify:album:41bTjcSaiEe4G40RVVHbux", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Battery", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4A1jq5W97gi5ok44CgZiab"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2cdaa4ce46409ec67d1f00fcaee461aa975a85cb", 
+        "is_playable": true, 
+        "uri": "spotify:track:4A1jq5W97gi5ok44CgZiab", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4A1jq5W97gi5ok44CgZiab", 
+        "artists": [
+          {
+            "name": "Metallica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            }, 
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+            "type": "artist", 
+            "id": "2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ], 
+        "duration_ms": 312706, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "4A1jq5W97gi5ok44CgZiab"
+      }, 
+      {
+        "name": "Master Of Puppets", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6NwbeybX6TDtXlpXvnUOZC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/99e0d4ab098b7c625b71b1930630f976eafcbf1a", 
+        "is_playable": true, 
+        "uri": "spotify:track:6NwbeybX6TDtXlpXvnUOZC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6NwbeybX6TDtXlpXvnUOZC", 
+        "artists": [
+          {
+            "name": "Metallica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            }, 
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+            "type": "artist", 
+            "id": "2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ], 
+        "duration_ms": 516293, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "6NwbeybX6TDtXlpXvnUOZC"
+      }, 
+      {
+        "name": "The Thing That Should Not Be", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7s0vuW12tMatfSPqLSHILG"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fd660e13ca2f69c8c4f4b09b4bc64fcb0607c0f4", 
+        "is_playable": true, 
+        "uri": "spotify:track:7s0vuW12tMatfSPqLSHILG", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7s0vuW12tMatfSPqLSHILG", 
+        "artists": [
+          {
+            "name": "Metallica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            }, 
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+            "type": "artist", 
+            "id": "2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ], 
+        "duration_ms": 397066, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "7s0vuW12tMatfSPqLSHILG"
+      }, 
+      {
+        "name": "Welcome Home (Sanitarium)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/48Ih1FjoQ5KoCpsdKUk8Eu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d2ca235f0b42f40fbe1b7c0ed5bf9bf47680b162", 
+        "is_playable": true, 
+        "uri": "spotify:track:48Ih1FjoQ5KoCpsdKUk8Eu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/48Ih1FjoQ5KoCpsdKUk8Eu", 
+        "artists": [
+          {
+            "name": "Metallica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            }, 
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+            "type": "artist", 
+            "id": "2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ], 
+        "duration_ms": 387840, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "48Ih1FjoQ5KoCpsdKUk8Eu"
+      }, 
+      {
+        "name": "Disposable Heroes", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/37wVVs5OLy6mUOxUf8DYsp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3134f38d6414f5b473e546ba33ba2a483a54dea7", 
+        "is_playable": true, 
+        "uri": "spotify:track:37wVVs5OLy6mUOxUf8DYsp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/37wVVs5OLy6mUOxUf8DYsp", 
+        "artists": [
+          {
+            "name": "Metallica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            }, 
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+            "type": "artist", 
+            "id": "2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ], 
+        "duration_ms": 496960, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "37wVVs5OLy6mUOxUf8DYsp"
+      }, 
+      {
+        "name": "Leper Messiah", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2GdgR5kZgBgH4eQzvOgc1g"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7bfa423ced16199d1fd31a77851696e2db185acc", 
+        "is_playable": true, 
+        "uri": "spotify:track:2GdgR5kZgBgH4eQzvOgc1g", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2GdgR5kZgBgH4eQzvOgc1g", 
+        "artists": [
+          {
+            "name": "Metallica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            }, 
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+            "type": "artist", 
+            "id": "2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ], 
+        "duration_ms": 340773, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "2GdgR5kZgBgH4eQzvOgc1g"
+      }, 
+      {
+        "name": "Orion (Instrumental)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5qp4uB6muUB0qdrb4zpuf4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4a6b0a18a2c7054db5e20d43c3432bf7c2c3f9d2", 
+        "is_playable": true, 
+        "uri": "spotify:track:5qp4uB6muUB0qdrb4zpuf4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5qp4uB6muUB0qdrb4zpuf4", 
+        "artists": [
+          {
+            "name": "Metallica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            }, 
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+            "type": "artist", 
+            "id": "2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ], 
+        "duration_ms": 508000, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "5qp4uB6muUB0qdrb4zpuf4"
+      }, 
+      {
+        "name": "Damage, Inc.", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0wGZZWwMpkdpxio6sUaryz"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1745dc2d5556b9d365486409db3512ce91ccc888", 
+        "is_playable": true, 
+        "uri": "spotify:track:0wGZZWwMpkdpxio6sUaryz", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0wGZZWwMpkdpxio6sUaryz", 
+        "artists": [
+          {
+            "name": "Metallica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            }, 
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+            "type": "artist", 
+            "id": "2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ], 
+        "duration_ms": 329666, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "0wGZZWwMpkdpxio6sUaryz"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/41bTjcSaiEe4G40RVVHbux/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 8, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/41bTjcSaiEe4G40RVVHbux", 
+  "copyrights": [
+    {
+      "text": "1986 Blackened Recordings", 
+      "type": "C"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Metallica", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+      }, 
+      "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+      "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+      "type": "artist", 
+      "id": "2ye2Wgw4gimLv2eAKyk1NB"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/74a3da0609d62ee0112ff51e764d1b57736b0d57", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/720e1d7a38da870d3efce843d0bcc4ccd4cafaad", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/1504b13a5f50f70b100424ea6805fb0be63bfbda", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "093624986577"
+  }, 
+  "type": "album", 
+  "id": "41bTjcSaiEe4G40RVVHbux", 
+  "name": "Master Of Puppets"
+}

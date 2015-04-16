@@ -1,0 +1,459 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2okCg9scHue9GNELoB8U9g"
+  }, 
+  "release_date": "1997-09-29", 
+  "popularity": 70, 
+  "genres": [], 
+  "uri": "spotify:album:2okCg9scHue9GNELoB8U9g", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Bitter Sweet Symphony", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5yEPxDjbbzUzyauGtnmVEC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b61926ed26a06218472bc4b2bcb6ddff010de595", 
+        "is_playable": true, 
+        "uri": "spotify:track:5yEPxDjbbzUzyauGtnmVEC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5yEPxDjbbzUzyauGtnmVEC", 
+        "artists": [
+          {
+            "name": "The Verve", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+            }, 
+            "uri": "spotify:artist:2cGwlqi3k18jFpUyTrsR84", 
+            "href": "https://api.spotify.com/v1/artists/2cGwlqi3k18jFpUyTrsR84", 
+            "type": "artist", 
+            "id": "2cGwlqi3k18jFpUyTrsR84"
+          }
+        ], 
+        "duration_ms": 358426, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "5yEPxDjbbzUzyauGtnmVEC"
+      }, 
+      {
+        "name": "Sonnet", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4vvK7kQ42AAXabZAXiGsDH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2db38a8bbb7fd89db81ae2af7dfdf3f98bdf80d3", 
+        "is_playable": true, 
+        "uri": "spotify:track:4vvK7kQ42AAXabZAXiGsDH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4vvK7kQ42AAXabZAXiGsDH", 
+        "artists": [
+          {
+            "name": "The Verve", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+            }, 
+            "uri": "spotify:artist:2cGwlqi3k18jFpUyTrsR84", 
+            "href": "https://api.spotify.com/v1/artists/2cGwlqi3k18jFpUyTrsR84", 
+            "type": "artist", 
+            "id": "2cGwlqi3k18jFpUyTrsR84"
+          }
+        ], 
+        "duration_ms": 261440, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "4vvK7kQ42AAXabZAXiGsDH"
+      }, 
+      {
+        "name": "The Rolling People", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3p4c8oIkEy3tOEnST22K0E"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4c99fec7883d897cf9b409e2040d6ead1efa026e", 
+        "is_playable": true, 
+        "uri": "spotify:track:3p4c8oIkEy3tOEnST22K0E", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3p4c8oIkEy3tOEnST22K0E", 
+        "artists": [
+          {
+            "name": "The Verve", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+            }, 
+            "uri": "spotify:artist:2cGwlqi3k18jFpUyTrsR84", 
+            "href": "https://api.spotify.com/v1/artists/2cGwlqi3k18jFpUyTrsR84", 
+            "type": "artist", 
+            "id": "2cGwlqi3k18jFpUyTrsR84"
+          }
+        ], 
+        "duration_ms": 421960, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "3p4c8oIkEy3tOEnST22K0E"
+      }, 
+      {
+        "name": "The Drugs Don't Work", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2KArbNRAnfGcnZ1gSYhVy5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d1829f1bb66a3d235a668cc230947f6772d717ff", 
+        "is_playable": true, 
+        "uri": "spotify:track:2KArbNRAnfGcnZ1gSYhVy5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2KArbNRAnfGcnZ1gSYhVy5", 
+        "artists": [
+          {
+            "name": "The Verve", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+            }, 
+            "uri": "spotify:artist:2cGwlqi3k18jFpUyTrsR84", 
+            "href": "https://api.spotify.com/v1/artists/2cGwlqi3k18jFpUyTrsR84", 
+            "type": "artist", 
+            "id": "2cGwlqi3k18jFpUyTrsR84"
+          }
+        ], 
+        "duration_ms": 305066, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "2KArbNRAnfGcnZ1gSYhVy5"
+      }, 
+      {
+        "name": "Catching The Butterfly", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/32L6gXAoF0md68yO988TvE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4ea7a8148f2cc23ebb5f9922bfbf2ef409e96548", 
+        "is_playable": true, 
+        "uri": "spotify:track:32L6gXAoF0md68yO988TvE", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/32L6gXAoF0md68yO988TvE", 
+        "artists": [
+          {
+            "name": "The Verve", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+            }, 
+            "uri": "spotify:artist:2cGwlqi3k18jFpUyTrsR84", 
+            "href": "https://api.spotify.com/v1/artists/2cGwlqi3k18jFpUyTrsR84", 
+            "type": "artist", 
+            "id": "2cGwlqi3k18jFpUyTrsR84"
+          }
+        ], 
+        "duration_ms": 386733, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "32L6gXAoF0md68yO988TvE"
+      }, 
+      {
+        "name": "Neon Wilderness", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/257nIX1mlKFXn0TxfHTmNw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/382fcd5e9cab3b69a6ab46b2530c1d6a552f5f7b", 
+        "is_playable": true, 
+        "uri": "spotify:track:257nIX1mlKFXn0TxfHTmNw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/257nIX1mlKFXn0TxfHTmNw", 
+        "artists": [
+          {
+            "name": "The Verve", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+            }, 
+            "uri": "spotify:artist:2cGwlqi3k18jFpUyTrsR84", 
+            "href": "https://api.spotify.com/v1/artists/2cGwlqi3k18jFpUyTrsR84", 
+            "type": "artist", 
+            "id": "2cGwlqi3k18jFpUyTrsR84"
+          }
+        ], 
+        "duration_ms": 157733, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "257nIX1mlKFXn0TxfHTmNw"
+      }, 
+      {
+        "name": "Space And Time", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1P7gg1ii1cyDElnspTWbkp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bc249f0de745a0cea3bd3d3e9a4a48e50d144cb3", 
+        "is_playable": true, 
+        "uri": "spotify:track:1P7gg1ii1cyDElnspTWbkp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1P7gg1ii1cyDElnspTWbkp", 
+        "artists": [
+          {
+            "name": "The Verve", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+            }, 
+            "uri": "spotify:artist:2cGwlqi3k18jFpUyTrsR84", 
+            "href": "https://api.spotify.com/v1/artists/2cGwlqi3k18jFpUyTrsR84", 
+            "type": "artist", 
+            "id": "2cGwlqi3k18jFpUyTrsR84"
+          }
+        ], 
+        "duration_ms": 336640, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "1P7gg1ii1cyDElnspTWbkp"
+      }, 
+      {
+        "name": "Weeping Willow", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6RCYQVnuM57xjDj8OGtMpa"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8697bce387ade6c3383794bc93b4ec3919dcfb65", 
+        "is_playable": true, 
+        "uri": "spotify:track:6RCYQVnuM57xjDj8OGtMpa", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6RCYQVnuM57xjDj8OGtMpa", 
+        "artists": [
+          {
+            "name": "The Verve", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+            }, 
+            "uri": "spotify:artist:2cGwlqi3k18jFpUyTrsR84", 
+            "href": "https://api.spotify.com/v1/artists/2cGwlqi3k18jFpUyTrsR84", 
+            "type": "artist", 
+            "id": "2cGwlqi3k18jFpUyTrsR84"
+          }
+        ], 
+        "duration_ms": 289933, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "6RCYQVnuM57xjDj8OGtMpa"
+      }, 
+      {
+        "name": "Lucky Man", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5tBnCBnTlDQQRdlqHe9qXq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6517b417f227a5af0313fb6b8757306d7d8c7526", 
+        "is_playable": true, 
+        "uri": "spotify:track:5tBnCBnTlDQQRdlqHe9qXq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5tBnCBnTlDQQRdlqHe9qXq", 
+        "artists": [
+          {
+            "name": "The Verve", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+            }, 
+            "uri": "spotify:artist:2cGwlqi3k18jFpUyTrsR84", 
+            "href": "https://api.spotify.com/v1/artists/2cGwlqi3k18jFpUyTrsR84", 
+            "type": "artist", 
+            "id": "2cGwlqi3k18jFpUyTrsR84"
+          }
+        ], 
+        "duration_ms": 293493, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "5tBnCBnTlDQQRdlqHe9qXq"
+      }, 
+      {
+        "name": "One Day", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5THJZZuuIAneALBDJtDgsq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7ea8be66a569c4ed0d71aea7ee7858dc6ca2e78a", 
+        "is_playable": true, 
+        "uri": "spotify:track:5THJZZuuIAneALBDJtDgsq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5THJZZuuIAneALBDJtDgsq", 
+        "artists": [
+          {
+            "name": "The Verve", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+            }, 
+            "uri": "spotify:artist:2cGwlqi3k18jFpUyTrsR84", 
+            "href": "https://api.spotify.com/v1/artists/2cGwlqi3k18jFpUyTrsR84", 
+            "type": "artist", 
+            "id": "2cGwlqi3k18jFpUyTrsR84"
+          }
+        ], 
+        "duration_ms": 303000, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "5THJZZuuIAneALBDJtDgsq"
+      }, 
+      {
+        "name": "This Time", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2jGq02ChRHIiOeNIyeCBDS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/77354c18578968cdda44b895b7ad29bc00b23f05", 
+        "is_playable": true, 
+        "uri": "spotify:track:2jGq02ChRHIiOeNIyeCBDS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2jGq02ChRHIiOeNIyeCBDS", 
+        "artists": [
+          {
+            "name": "The Verve", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+            }, 
+            "uri": "spotify:artist:2cGwlqi3k18jFpUyTrsR84", 
+            "href": "https://api.spotify.com/v1/artists/2cGwlqi3k18jFpUyTrsR84", 
+            "type": "artist", 
+            "id": "2cGwlqi3k18jFpUyTrsR84"
+          }
+        ], 
+        "duration_ms": 230906, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "2jGq02ChRHIiOeNIyeCBDS"
+      }, 
+      {
+        "name": "Velvet Morning", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4AzN1fbi8dF5lbr9OfuIu7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/75194a9d407b632eab528b718a50487a85b3a559", 
+        "is_playable": true, 
+        "uri": "spotify:track:4AzN1fbi8dF5lbr9OfuIu7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4AzN1fbi8dF5lbr9OfuIu7", 
+        "artists": [
+          {
+            "name": "The Verve", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+            }, 
+            "uri": "spotify:artist:2cGwlqi3k18jFpUyTrsR84", 
+            "href": "https://api.spotify.com/v1/artists/2cGwlqi3k18jFpUyTrsR84", 
+            "type": "artist", 
+            "id": "2cGwlqi3k18jFpUyTrsR84"
+          }
+        ], 
+        "duration_ms": 297333, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "4AzN1fbi8dF5lbr9OfuIu7"
+      }, 
+      {
+        "name": "Come On", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0OL99qUMmgmDdUHUXAeIJA"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c0130fd9c82cb0b37b92154086f26adc00f19847", 
+        "is_playable": true, 
+        "uri": "spotify:track:0OL99qUMmgmDdUHUXAeIJA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0OL99qUMmgmDdUHUXAeIJA", 
+        "artists": [
+          {
+            "name": "The Verve", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+            }, 
+            "uri": "spotify:artist:2cGwlqi3k18jFpUyTrsR84", 
+            "href": "https://api.spotify.com/v1/artists/2cGwlqi3k18jFpUyTrsR84", 
+            "type": "artist", 
+            "id": "2cGwlqi3k18jFpUyTrsR84"
+          }
+        ], 
+        "duration_ms": 400181, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "0OL99qUMmgmDdUHUXAeIJA"
+      }, 
+      {
+        "name": "Deep Freeze", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7nLIBKE8mVcHxg81Ily8s5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c81061111462e48c940ee92055f0528dbcf16f90", 
+        "is_playable": true, 
+        "uri": "spotify:track:7nLIBKE8mVcHxg81Ily8s5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7nLIBKE8mVcHxg81Ily8s5", 
+        "artists": [
+          {
+            "name": "The Verve", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+            }, 
+            "uri": "spotify:artist:2cGwlqi3k18jFpUyTrsR84", 
+            "href": "https://api.spotify.com/v1/artists/2cGwlqi3k18jFpUyTrsR84", 
+            "type": "artist", 
+            "id": "2cGwlqi3k18jFpUyTrsR84"
+          }
+        ], 
+        "duration_ms": 132170, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "7nLIBKE8mVcHxg81Ily8s5"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/2okCg9scHue9GNELoB8U9g/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 14, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/2okCg9scHue9GNELoB8U9g", 
+  "copyrights": [
+    {
+      "text": "(C) 1997 Virgin Records LtdThis label copy information is the subject of copyright protection. All rights reserved.(C) 1997 Virgin Records Ltd", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1997 The copyright in this sound recording is owned by Virgin Records Ltd", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "The Verve", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+      }, 
+      "uri": "spotify:artist:2cGwlqi3k18jFpUyTrsR84", 
+      "href": "https://api.spotify.com/v1/artists/2cGwlqi3k18jFpUyTrsR84", 
+      "type": "artist", 
+      "id": "2cGwlqi3k18jFpUyTrsR84"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/2d3304df30a2ee192cd4c6ebe1edd223c5a14a17", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/58b696c0504f5b0ee9c5c36f86fd476b710ff20a", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/d4f788ee65ae8623db318efe8ec0308db86f4fe9", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00724384491352"
+  }, 
+  "type": "album", 
+  "id": "2okCg9scHue9GNELoB8U9g", 
+  "name": "Urban Hymns"
+}

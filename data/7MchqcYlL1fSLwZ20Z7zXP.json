@@ -1,0 +1,431 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7MchqcYlL1fSLwZ20Z7zXP"
+  }, 
+  "release_date": "2009-01-01", 
+  "popularity": 29, 
+  "genres": [], 
+  "uri": "spotify:album:7MchqcYlL1fSLwZ20Z7zXP", 
+  "tracks": {
+    "items": [
+      {
+        "name": "This Is Radio Etienne", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5TDvMHhcQyg8kWAx8k9dfp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d2942e216360db538ce0339b781493fd52a01eac", 
+        "is_playable": true, 
+        "uri": "spotify:track:5TDvMHhcQyg8kWAx8k9dfp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5TDvMHhcQyg8kWAx8k9dfp", 
+        "artists": [
+          {
+            "name": "Saint Etienne", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f"
+            }, 
+            "uri": "spotify:artist:1N2FgBLehaq77UEdJhCt7f", 
+            "href": "https://api.spotify.com/v1/artists/1N2FgBLehaq77UEdJhCt7f", 
+            "type": "artist", 
+            "id": "1N2FgBLehaq77UEdJhCt7f"
+          }
+        ], 
+        "duration_ms": 42864, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "5TDvMHhcQyg8kWAx8k9dfp"
+      }, 
+      {
+        "name": "Only Love Can Break Your Heart", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7z3SrXAkhERgQ8DA92upvg"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1ca3f461d9416576dd1164ca75e9fe5f6a25df66", 
+        "is_playable": true, 
+        "uri": "spotify:track:7z3SrXAkhERgQ8DA92upvg", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7z3SrXAkhERgQ8DA92upvg", 
+        "artists": [
+          {
+            "name": "Saint Etienne", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f"
+            }, 
+            "uri": "spotify:artist:1N2FgBLehaq77UEdJhCt7f", 
+            "href": "https://api.spotify.com/v1/artists/1N2FgBLehaq77UEdJhCt7f", 
+            "type": "artist", 
+            "id": "1N2FgBLehaq77UEdJhCt7f"
+          }
+        ], 
+        "duration_ms": 268840, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "7z3SrXAkhERgQ8DA92upvg"
+      }, 
+      {
+        "name": "Wilson", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/57CV5iGQSZNObnlipgU6NL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9830bf6f922fc4ee72f6a37c2c7e6c7a6e9caa26", 
+        "is_playable": true, 
+        "uri": "spotify:track:57CV5iGQSZNObnlipgU6NL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/57CV5iGQSZNObnlipgU6NL", 
+        "artists": [
+          {
+            "name": "Saint Etienne", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f"
+            }, 
+            "uri": "spotify:artist:1N2FgBLehaq77UEdJhCt7f", 
+            "href": "https://api.spotify.com/v1/artists/1N2FgBLehaq77UEdJhCt7f", 
+            "type": "artist", 
+            "id": "1N2FgBLehaq77UEdJhCt7f"
+          }
+        ], 
+        "duration_ms": 118979, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "57CV5iGQSZNObnlipgU6NL"
+      }, 
+      {
+        "name": "Carnt Sleep", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3kZh5opNsYFg4tDX7Id5lB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/909aa9eacbfe4fb82845f3dbb377e04a146eaaa4", 
+        "is_playable": true, 
+        "uri": "spotify:track:3kZh5opNsYFg4tDX7Id5lB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3kZh5opNsYFg4tDX7Id5lB", 
+        "artists": [
+          {
+            "name": "Saint Etienne", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f"
+            }, 
+            "uri": "spotify:artist:1N2FgBLehaq77UEdJhCt7f", 
+            "href": "https://api.spotify.com/v1/artists/1N2FgBLehaq77UEdJhCt7f", 
+            "type": "artist", 
+            "id": "1N2FgBLehaq77UEdJhCt7f"
+          }
+        ], 
+        "duration_ms": 283144, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "3kZh5opNsYFg4tDX7Id5lB"
+      }, 
+      {
+        "name": "Girl VII", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3ngTuDdoeFSdouChwPK6DC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/95a4eac9b70d34d1604f2cf90b91a24b3fbd433d", 
+        "is_playable": true, 
+        "uri": "spotify:track:3ngTuDdoeFSdouChwPK6DC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3ngTuDdoeFSdouChwPK6DC", 
+        "artists": [
+          {
+            "name": "Saint Etienne", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f"
+            }, 
+            "uri": "spotify:artist:1N2FgBLehaq77UEdJhCt7f", 
+            "href": "https://api.spotify.com/v1/artists/1N2FgBLehaq77UEdJhCt7f", 
+            "type": "artist", 
+            "id": "1N2FgBLehaq77UEdJhCt7f"
+          }
+        ], 
+        "duration_ms": 225558, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "3ngTuDdoeFSdouChwPK6DC"
+      }, 
+      {
+        "name": "Spring", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2D1D5Q7IFQMagR1LCkg5Ah"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e48008fd7d374c1f6adde3c28d22520c33c101f5", 
+        "is_playable": true, 
+        "uri": "spotify:track:2D1D5Q7IFQMagR1LCkg5Ah", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2D1D5Q7IFQMagR1LCkg5Ah", 
+        "artists": [
+          {
+            "name": "Saint Etienne", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f"
+            }, 
+            "uri": "spotify:artist:1N2FgBLehaq77UEdJhCt7f", 
+            "href": "https://api.spotify.com/v1/artists/1N2FgBLehaq77UEdJhCt7f", 
+            "type": "artist", 
+            "id": "1N2FgBLehaq77UEdJhCt7f"
+          }
+        ], 
+        "duration_ms": 222122, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "2D1D5Q7IFQMagR1LCkg5Ah"
+      }, 
+      {
+        "name": "She's The One", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0LVIDVJVt1FdZy5vnNxcv7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/106a78b157c251d471de9cc24c9111ec1266678c", 
+        "is_playable": true, 
+        "uri": "spotify:track:0LVIDVJVt1FdZy5vnNxcv7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0LVIDVJVt1FdZy5vnNxcv7", 
+        "artists": [
+          {
+            "name": "Saint Etienne", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f"
+            }, 
+            "uri": "spotify:artist:1N2FgBLehaq77UEdJhCt7f", 
+            "href": "https://api.spotify.com/v1/artists/1N2FgBLehaq77UEdJhCt7f", 
+            "type": "artist", 
+            "id": "1N2FgBLehaq77UEdJhCt7f"
+          }
+        ], 
+        "duration_ms": 187431, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "0LVIDVJVt1FdZy5vnNxcv7"
+      }, 
+      {
+        "name": "Stoned To Say The Least", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6jrjdJsjydPdDCZZ9Fqplk"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/15b4a0821ac9ed2086f0e37da8b45e2e331ecb57", 
+        "is_playable": true, 
+        "uri": "spotify:track:6jrjdJsjydPdDCZZ9Fqplk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6jrjdJsjydPdDCZZ9Fqplk", 
+        "artists": [
+          {
+            "name": "Saint Etienne", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f"
+            }, 
+            "uri": "spotify:artist:1N2FgBLehaq77UEdJhCt7f", 
+            "href": "https://api.spotify.com/v1/artists/1N2FgBLehaq77UEdJhCt7f", 
+            "type": "artist", 
+            "id": "1N2FgBLehaq77UEdJhCt7f"
+          }
+        ], 
+        "duration_ms": 461891, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "6jrjdJsjydPdDCZZ9Fqplk"
+      }, 
+      {
+        "name": "Nothing Can Stop Us", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3c91pk1YYjtwDYIteHSma8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/62b078c403ad9cf6f5101bf20d37e39f677d5f0a", 
+        "is_playable": true, 
+        "uri": "spotify:track:3c91pk1YYjtwDYIteHSma8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3c91pk1YYjtwDYIteHSma8", 
+        "artists": [
+          {
+            "name": "Saint Etienne", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f"
+            }, 
+            "uri": "spotify:artist:1N2FgBLehaq77UEdJhCt7f", 
+            "href": "https://api.spotify.com/v1/artists/1N2FgBLehaq77UEdJhCt7f", 
+            "type": "artist", 
+            "id": "1N2FgBLehaq77UEdJhCt7f"
+          }
+        ], 
+        "duration_ms": 259645, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "3c91pk1YYjtwDYIteHSma8"
+      }, 
+      {
+        "name": "Etienne Gonna Die", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/07B1nqnVAOno4yCZFyZpaa"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c9627a2ad223daa69ee32401fc551433214af6c1", 
+        "is_playable": true, 
+        "uri": "spotify:track:07B1nqnVAOno4yCZFyZpaa", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/07B1nqnVAOno4yCZFyZpaa", 
+        "artists": [
+          {
+            "name": "Saint Etienne", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f"
+            }, 
+            "uri": "spotify:artist:1N2FgBLehaq77UEdJhCt7f", 
+            "href": "https://api.spotify.com/v1/artists/1N2FgBLehaq77UEdJhCt7f", 
+            "type": "artist", 
+            "id": "1N2FgBLehaq77UEdJhCt7f"
+          }
+        ], 
+        "duration_ms": 92043, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "07B1nqnVAOno4yCZFyZpaa"
+      }, 
+      {
+        "name": "London Belongs To Me", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2VR2Bn7yYfZo34qD3pfXWS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7236c9bc0f645fa8ede5b03993293c4e5a6281f5", 
+        "is_playable": true, 
+        "uri": "spotify:track:2VR2Bn7yYfZo34qD3pfXWS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2VR2Bn7yYfZo34qD3pfXWS", 
+        "artists": [
+          {
+            "name": "Saint Etienne", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f"
+            }, 
+            "uri": "spotify:artist:1N2FgBLehaq77UEdJhCt7f", 
+            "href": "https://api.spotify.com/v1/artists/1N2FgBLehaq77UEdJhCt7f", 
+            "type": "artist", 
+            "id": "1N2FgBLehaq77UEdJhCt7f"
+          }
+        ], 
+        "duration_ms": 236518, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "2VR2Bn7yYfZo34qD3pfXWS"
+      }, 
+      {
+        "name": "Like The Swallow", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0e9G2zSgET9gRDnUAG3Zvf"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7f693429448a0f44eb98b0504ca9a776e8e0a4c8", 
+        "is_playable": true, 
+        "uri": "spotify:track:0e9G2zSgET9gRDnUAG3Zvf", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0e9G2zSgET9gRDnUAG3Zvf", 
+        "artists": [
+          {
+            "name": "Saint Etienne", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f"
+            }, 
+            "uri": "spotify:artist:1N2FgBLehaq77UEdJhCt7f", 
+            "href": "https://api.spotify.com/v1/artists/1N2FgBLehaq77UEdJhCt7f", 
+            "type": "artist", 
+            "id": "1N2FgBLehaq77UEdJhCt7f"
+          }
+        ], 
+        "duration_ms": 458594, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "0e9G2zSgET9gRDnUAG3Zvf"
+      }, 
+      {
+        "name": "Dilworth's Theme", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1XHbyuRfKyPaccIUfYx2VZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a23a4ee6fea3fd599025218ee387a923eeff65ea", 
+        "is_playable": true, 
+        "uri": "spotify:track:1XHbyuRfKyPaccIUfYx2VZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1XHbyuRfKyPaccIUfYx2VZ", 
+        "artists": [
+          {
+            "name": "Saint Etienne", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f"
+            }, 
+            "uri": "spotify:artist:1N2FgBLehaq77UEdJhCt7f", 
+            "href": "https://api.spotify.com/v1/artists/1N2FgBLehaq77UEdJhCt7f", 
+            "type": "artist", 
+            "id": "1N2FgBLehaq77UEdJhCt7f"
+          }
+        ], 
+        "duration_ms": 38312, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "1XHbyuRfKyPaccIUfYx2VZ"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/7MchqcYlL1fSLwZ20Z7zXP/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 13, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/7MchqcYlL1fSLwZ20Z7zXP", 
+  "copyrights": [
+    {
+      "text": "(C) 2009 Saint Etienne Limited, under exclusive licence to Universal Music Operations Ltd", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 2009 Saint Etienne Limited, under exclusive licence to Universal Music Operations Ltd", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Saint Etienne", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f"
+      }, 
+      "uri": "spotify:artist:1N2FgBLehaq77UEdJhCt7f", 
+      "href": "https://api.spotify.com/v1/artists/1N2FgBLehaq77UEdJhCt7f", 
+      "type": "artist", 
+      "id": "1N2FgBLehaq77UEdJhCt7f"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/9936648142987ff97b40d85e355fadfafba8391f", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/8c15db6dbb2fb21e63bfef161e10c7ad457fd881", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/c13a7e8a37ffe709979288c24c691d3913349563", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00602527591094"
+  }, 
+  "type": "album", 
+  "id": "7MchqcYlL1fSLwZ20Z7zXP", 
+  "name": "Foxbase Alpha"
+}

@@ -1,0 +1,375 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0lpEvJEfpLXHd858t35DQt"
+  }, 
+  "release_date": "1993", 
+  "popularity": 42, 
+  "genres": [], 
+  "uri": "spotify:album:0lpEvJEfpLXHd858t35DQt", 
+  "tracks": {
+    "items": [
+      {
+        "name": "The Shining Hour", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3DLYPztAColaOPoDY57Aj4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cdc04cb257e4727ac733d318ef2596b5ce28997c", 
+        "is_playable": true, 
+        "uri": "spotify:track:3DLYPztAColaOPoDY57Aj4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3DLYPztAColaOPoDY57Aj4", 
+        "artists": [
+          {
+            "name": "Grant Lee Buffalo", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/31ir0nQWMLTowZmZO8CiBw"
+            }, 
+            "uri": "spotify:artist:31ir0nQWMLTowZmZO8CiBw", 
+            "href": "https://api.spotify.com/v1/artists/31ir0nQWMLTowZmZO8CiBw", 
+            "type": "artist", 
+            "id": "31ir0nQWMLTowZmZO8CiBw"
+          }
+        ], 
+        "duration_ms": 232626, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "3DLYPztAColaOPoDY57Aj4"
+      }, 
+      {
+        "name": "Jupiter And Teardrop", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1w21QD4gdarLWvV6hmxAg3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c211d5f8cf792db470da4a1d749dc79193c3d8f1", 
+        "is_playable": true, 
+        "uri": "spotify:track:1w21QD4gdarLWvV6hmxAg3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1w21QD4gdarLWvV6hmxAg3", 
+        "artists": [
+          {
+            "name": "Grant Lee Buffalo", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/31ir0nQWMLTowZmZO8CiBw"
+            }, 
+            "uri": "spotify:artist:31ir0nQWMLTowZmZO8CiBw", 
+            "href": "https://api.spotify.com/v1/artists/31ir0nQWMLTowZmZO8CiBw", 
+            "type": "artist", 
+            "id": "31ir0nQWMLTowZmZO8CiBw"
+          }
+        ], 
+        "duration_ms": 356933, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "1w21QD4gdarLWvV6hmxAg3"
+      }, 
+      {
+        "name": "Fuzzy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4teinH3IrEdjp8ZYHb59ca"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a60367c834194267cccd8b3f335d7da7717cd0ce", 
+        "is_playable": true, 
+        "uri": "spotify:track:4teinH3IrEdjp8ZYHb59ca", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4teinH3IrEdjp8ZYHb59ca", 
+        "artists": [
+          {
+            "name": "Grant Lee Buffalo", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/31ir0nQWMLTowZmZO8CiBw"
+            }, 
+            "uri": "spotify:artist:31ir0nQWMLTowZmZO8CiBw", 
+            "href": "https://api.spotify.com/v1/artists/31ir0nQWMLTowZmZO8CiBw", 
+            "type": "artist", 
+            "id": "31ir0nQWMLTowZmZO8CiBw"
+          }
+        ], 
+        "duration_ms": 296533, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "4teinH3IrEdjp8ZYHb59ca"
+      }, 
+      {
+        "name": "Wish You Well", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6zxUKdKkkYftwzSI95XBam"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/aeed823a69740f2232f459c75c403e8c612c1cec", 
+        "is_playable": true, 
+        "uri": "spotify:track:6zxUKdKkkYftwzSI95XBam", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6zxUKdKkkYftwzSI95XBam", 
+        "artists": [
+          {
+            "name": "Grant Lee Buffalo", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/31ir0nQWMLTowZmZO8CiBw"
+            }, 
+            "uri": "spotify:artist:31ir0nQWMLTowZmZO8CiBw", 
+            "href": "https://api.spotify.com/v1/artists/31ir0nQWMLTowZmZO8CiBw", 
+            "type": "artist", 
+            "id": "31ir0nQWMLTowZmZO8CiBw"
+          }
+        ], 
+        "duration_ms": 210493, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "6zxUKdKkkYftwzSI95XBam"
+      }, 
+      {
+        "name": "The Hook", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7rzVf4DF3n6rBvM3pOHXlP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d45959e00a9fed11af92254f466c5e3adff9d677", 
+        "is_playable": true, 
+        "uri": "spotify:track:7rzVf4DF3n6rBvM3pOHXlP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7rzVf4DF3n6rBvM3pOHXlP", 
+        "artists": [
+          {
+            "name": "Grant Lee Buffalo", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/31ir0nQWMLTowZmZO8CiBw"
+            }, 
+            "uri": "spotify:artist:31ir0nQWMLTowZmZO8CiBw", 
+            "href": "https://api.spotify.com/v1/artists/31ir0nQWMLTowZmZO8CiBw", 
+            "type": "artist", 
+            "id": "31ir0nQWMLTowZmZO8CiBw"
+          }
+        ], 
+        "duration_ms": 253773, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "7rzVf4DF3n6rBvM3pOHXlP"
+      }, 
+      {
+        "name": "Soft Wolf Tread", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4NEj0vd5pQHYkWcjdDhUZk"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ab56ab5a0f962ee503daa98ab504bdaa3829469c", 
+        "is_playable": true, 
+        "uri": "spotify:track:4NEj0vd5pQHYkWcjdDhUZk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4NEj0vd5pQHYkWcjdDhUZk", 
+        "artists": [
+          {
+            "name": "Grant Lee Buffalo", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/31ir0nQWMLTowZmZO8CiBw"
+            }, 
+            "uri": "spotify:artist:31ir0nQWMLTowZmZO8CiBw", 
+            "href": "https://api.spotify.com/v1/artists/31ir0nQWMLTowZmZO8CiBw", 
+            "type": "artist", 
+            "id": "31ir0nQWMLTowZmZO8CiBw"
+          }
+        ], 
+        "duration_ms": 172493, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "4NEj0vd5pQHYkWcjdDhUZk"
+      }, 
+      {
+        "name": "Stars N' Stripes", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6JHZ3lz71ea3T7UoHqQF4S"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fb59989d71a63054b9b45c3659ad66e3bfed13a0", 
+        "is_playable": true, 
+        "uri": "spotify:track:6JHZ3lz71ea3T7UoHqQF4S", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6JHZ3lz71ea3T7UoHqQF4S", 
+        "artists": [
+          {
+            "name": "Grant Lee Buffalo", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/31ir0nQWMLTowZmZO8CiBw"
+            }, 
+            "uri": "spotify:artist:31ir0nQWMLTowZmZO8CiBw", 
+            "href": "https://api.spotify.com/v1/artists/31ir0nQWMLTowZmZO8CiBw", 
+            "type": "artist", 
+            "id": "31ir0nQWMLTowZmZO8CiBw"
+          }
+        ], 
+        "duration_ms": 281533, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "6JHZ3lz71ea3T7UoHqQF4S"
+      }, 
+      {
+        "name": "Dixie Drug Store", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2qinPaekLz6ayMzxEOPZcF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fe8103c1b6fb664ea7c2a0859162ad43909bcede", 
+        "is_playable": true, 
+        "uri": "spotify:track:2qinPaekLz6ayMzxEOPZcF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2qinPaekLz6ayMzxEOPZcF", 
+        "artists": [
+          {
+            "name": "Grant Lee Buffalo", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/31ir0nQWMLTowZmZO8CiBw"
+            }, 
+            "uri": "spotify:artist:31ir0nQWMLTowZmZO8CiBw", 
+            "href": "https://api.spotify.com/v1/artists/31ir0nQWMLTowZmZO8CiBw", 
+            "type": "artist", 
+            "id": "31ir0nQWMLTowZmZO8CiBw"
+          }
+        ], 
+        "duration_ms": 308000, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "2qinPaekLz6ayMzxEOPZcF"
+      }, 
+      {
+        "name": "America Snoring", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4UKFVcZPaLh5hhOsvgXVPP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/df9859f11d41166d04931a9ffd36886e02924937", 
+        "is_playable": true, 
+        "uri": "spotify:track:4UKFVcZPaLh5hhOsvgXVPP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4UKFVcZPaLh5hhOsvgXVPP", 
+        "artists": [
+          {
+            "name": "Grant Lee Buffalo", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/31ir0nQWMLTowZmZO8CiBw"
+            }, 
+            "uri": "spotify:artist:31ir0nQWMLTowZmZO8CiBw", 
+            "href": "https://api.spotify.com/v1/artists/31ir0nQWMLTowZmZO8CiBw", 
+            "type": "artist", 
+            "id": "31ir0nQWMLTowZmZO8CiBw"
+          }
+        ], 
+        "duration_ms": 219933, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "4UKFVcZPaLh5hhOsvgXVPP"
+      }, 
+      {
+        "name": "Grace", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2YPz9JMHDOnHh8IkOp34Pn"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7e2c16ddb9dfe6eaa89b876b5735a6a4c2898add", 
+        "is_playable": true, 
+        "uri": "spotify:track:2YPz9JMHDOnHh8IkOp34Pn", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2YPz9JMHDOnHh8IkOp34Pn", 
+        "artists": [
+          {
+            "name": "Grant Lee Buffalo", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/31ir0nQWMLTowZmZO8CiBw"
+            }, 
+            "uri": "spotify:artist:31ir0nQWMLTowZmZO8CiBw", 
+            "href": "https://api.spotify.com/v1/artists/31ir0nQWMLTowZmZO8CiBw", 
+            "type": "artist", 
+            "id": "31ir0nQWMLTowZmZO8CiBw"
+          }
+        ], 
+        "duration_ms": 375040, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "2YPz9JMHDOnHh8IkOp34Pn"
+      }, 
+      {
+        "name": "You Just Have To Be Crazy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4YQaSwQX8I7WZCO34QReWK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e83e73df511ccea4f04c01f81dc17b02499af966", 
+        "is_playable": true, 
+        "uri": "spotify:track:4YQaSwQX8I7WZCO34QReWK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4YQaSwQX8I7WZCO34QReWK", 
+        "artists": [
+          {
+            "name": "Grant Lee Buffalo", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/31ir0nQWMLTowZmZO8CiBw"
+            }, 
+            "uri": "spotify:artist:31ir0nQWMLTowZmZO8CiBw", 
+            "href": "https://api.spotify.com/v1/artists/31ir0nQWMLTowZmZO8CiBw", 
+            "type": "artist", 
+            "id": "31ir0nQWMLTowZmZO8CiBw"
+          }
+        ], 
+        "duration_ms": 216960, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "4YQaSwQX8I7WZCO34QReWK"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/0lpEvJEfpLXHd858t35DQt/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 11, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/0lpEvJEfpLXHd858t35DQt", 
+  "copyrights": [
+    {
+      "text": "1993 Slash Records", 
+      "type": "C"
+    }, 
+    {
+      "text": "1993 Slash Records", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Grant Lee Buffalo", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/31ir0nQWMLTowZmZO8CiBw"
+      }, 
+      "uri": "spotify:artist:31ir0nQWMLTowZmZO8CiBw", 
+      "href": "https://api.spotify.com/v1/artists/31ir0nQWMLTowZmZO8CiBw", 
+      "type": "artist", 
+      "id": "31ir0nQWMLTowZmZO8CiBw"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/f61ef7d5b7091cc2b42463f3cc1793260bf4435b", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/5c10f19588405bc98ae9461b0131d211ed24f62f", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/eca8ccc050f6338aa00ac7fa100e16a994c4d34d", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "081227995560"
+  }, 
+  "type": "album", 
+  "id": "0lpEvJEfpLXHd858t35DQt", 
+  "name": "Fuzzy"
+}

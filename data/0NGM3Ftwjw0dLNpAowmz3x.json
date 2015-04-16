@@ -1,0 +1,459 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0NGM3Ftwjw0dLNpAowmz3x"
+  }, 
+  "release_date": "1971-03-19", 
+  "popularity": 59, 
+  "genres": [], 
+  "uri": "spotify:album:0NGM3Ftwjw0dLNpAowmz3x", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Aqualung", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5UuikgHTxSRFRnC0zXx10i"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5bdbd73de7e3de1029f293eef2bc0481e97a2305", 
+        "is_playable": true, 
+        "uri": "spotify:track:5UuikgHTxSRFRnC0zXx10i", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5UuikgHTxSRFRnC0zXx10i", 
+        "artists": [
+          {
+            "name": "Jethro Tull", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+            }, 
+            "uri": "spotify:artist:6w6z8m4WXX7Tub4Rb6Lu7R", 
+            "href": "https://api.spotify.com/v1/artists/6w6z8m4WXX7Tub4Rb6Lu7R", 
+            "type": "artist", 
+            "id": "6w6z8m4WXX7Tub4Rb6Lu7R"
+          }
+        ], 
+        "duration_ms": 395293, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "5UuikgHTxSRFRnC0zXx10i"
+      }, 
+      {
+        "name": "Cross Eyed Mary", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6MBZyLisOWTChcevgFqwVr"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0a21f871dc5e5da00fa9fbc9008304703e43f4e2", 
+        "is_playable": true, 
+        "uri": "spotify:track:6MBZyLisOWTChcevgFqwVr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6MBZyLisOWTChcevgFqwVr", 
+        "artists": [
+          {
+            "name": "Jethro Tull", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+            }, 
+            "uri": "spotify:artist:6w6z8m4WXX7Tub4Rb6Lu7R", 
+            "href": "https://api.spotify.com/v1/artists/6w6z8m4WXX7Tub4Rb6Lu7R", 
+            "type": "artist", 
+            "id": "6w6z8m4WXX7Tub4Rb6Lu7R"
+          }
+        ], 
+        "duration_ms": 248573, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "6MBZyLisOWTChcevgFqwVr"
+      }, 
+      {
+        "name": "Cheap Day Return", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/46ITAa2MkDCQQQbVJv1cTN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5b72b92b3fe27092730d4f974e7e08b9bb4e8621", 
+        "is_playable": true, 
+        "uri": "spotify:track:46ITAa2MkDCQQQbVJv1cTN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/46ITAa2MkDCQQQbVJv1cTN", 
+        "artists": [
+          {
+            "name": "Jethro Tull", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+            }, 
+            "uri": "spotify:artist:6w6z8m4WXX7Tub4Rb6Lu7R", 
+            "href": "https://api.spotify.com/v1/artists/6w6z8m4WXX7Tub4Rb6Lu7R", 
+            "type": "artist", 
+            "id": "6w6z8m4WXX7Tub4Rb6Lu7R"
+          }
+        ], 
+        "duration_ms": 80880, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "46ITAa2MkDCQQQbVJv1cTN"
+      }, 
+      {
+        "name": "Mother Goose", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5RsfvV4oSchEPH6t93C1lR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/048585667ea18af41b1d72db84105098a2064096", 
+        "is_playable": true, 
+        "uri": "spotify:track:5RsfvV4oSchEPH6t93C1lR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5RsfvV4oSchEPH6t93C1lR", 
+        "artists": [
+          {
+            "name": "Jethro Tull", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+            }, 
+            "uri": "spotify:artist:6w6z8m4WXX7Tub4Rb6Lu7R", 
+            "href": "https://api.spotify.com/v1/artists/6w6z8m4WXX7Tub4Rb6Lu7R", 
+            "type": "artist", 
+            "id": "6w6z8m4WXX7Tub4Rb6Lu7R"
+          }
+        ], 
+        "duration_ms": 232200, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "5RsfvV4oSchEPH6t93C1lR"
+      }, 
+      {
+        "name": "Wond'Ring Aloud", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7bo2X63U1NpKYMXV1mZFkq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8c55ed2c95df132c5731500570a98c174c84e4eb", 
+        "is_playable": true, 
+        "uri": "spotify:track:7bo2X63U1NpKYMXV1mZFkq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7bo2X63U1NpKYMXV1mZFkq", 
+        "artists": [
+          {
+            "name": "Jethro Tull", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+            }, 
+            "uri": "spotify:artist:6w6z8m4WXX7Tub4Rb6Lu7R", 
+            "href": "https://api.spotify.com/v1/artists/6w6z8m4WXX7Tub4Rb6Lu7R", 
+            "type": "artist", 
+            "id": "6w6z8m4WXX7Tub4Rb6Lu7R"
+          }
+        ], 
+        "duration_ms": 113426, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "7bo2X63U1NpKYMXV1mZFkq"
+      }, 
+      {
+        "name": "Up To Me", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4eswKSdbIeYn0gMwZDuvRM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a5df7ef4a418b928b748b1f38b783997a4a82f01", 
+        "is_playable": true, 
+        "uri": "spotify:track:4eswKSdbIeYn0gMwZDuvRM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4eswKSdbIeYn0gMwZDuvRM", 
+        "artists": [
+          {
+            "name": "Jethro Tull", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+            }, 
+            "uri": "spotify:artist:6w6z8m4WXX7Tub4Rb6Lu7R", 
+            "href": "https://api.spotify.com/v1/artists/6w6z8m4WXX7Tub4Rb6Lu7R", 
+            "type": "artist", 
+            "id": "6w6z8m4WXX7Tub4Rb6Lu7R"
+          }
+        ], 
+        "duration_ms": 194186, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "4eswKSdbIeYn0gMwZDuvRM"
+      }, 
+      {
+        "name": "My God", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1pkoB8ZiZymyyIvaZmKElJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ac2e80a264d952f36dcf8e2aa253d1ff1030e458", 
+        "is_playable": true, 
+        "uri": "spotify:track:1pkoB8ZiZymyyIvaZmKElJ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1pkoB8ZiZymyyIvaZmKElJ", 
+        "artists": [
+          {
+            "name": "Jethro Tull", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+            }, 
+            "uri": "spotify:artist:6w6z8m4WXX7Tub4Rb6Lu7R", 
+            "href": "https://api.spotify.com/v1/artists/6w6z8m4WXX7Tub4Rb6Lu7R", 
+            "type": "artist", 
+            "id": "6w6z8m4WXX7Tub4Rb6Lu7R"
+          }
+        ], 
+        "duration_ms": 431053, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "1pkoB8ZiZymyyIvaZmKElJ"
+      }, 
+      {
+        "name": "Hymn 43", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2it4DH8fqcCkSTCmqY5gzk"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/18e47cc32d54c96a256b9828506e0151fb7bd545", 
+        "is_playable": true, 
+        "uri": "spotify:track:2it4DH8fqcCkSTCmqY5gzk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2it4DH8fqcCkSTCmqY5gzk", 
+        "artists": [
+          {
+            "name": "Jethro Tull", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+            }, 
+            "uri": "spotify:artist:6w6z8m4WXX7Tub4Rb6Lu7R", 
+            "href": "https://api.spotify.com/v1/artists/6w6z8m4WXX7Tub4Rb6Lu7R", 
+            "type": "artist", 
+            "id": "6w6z8m4WXX7Tub4Rb6Lu7R"
+          }
+        ], 
+        "duration_ms": 196680, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "2it4DH8fqcCkSTCmqY5gzk"
+      }, 
+      {
+        "name": "Slipstream", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1QhqX9moYeL8V4ZnOXirEH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/099f7d8ef3155951ce314ccbaad79a28b6effa8c", 
+        "is_playable": true, 
+        "uri": "spotify:track:1QhqX9moYeL8V4ZnOXirEH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1QhqX9moYeL8V4ZnOXirEH", 
+        "artists": [
+          {
+            "name": "Jethro Tull", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+            }, 
+            "uri": "spotify:artist:6w6z8m4WXX7Tub4Rb6Lu7R", 
+            "href": "https://api.spotify.com/v1/artists/6w6z8m4WXX7Tub4Rb6Lu7R", 
+            "type": "artist", 
+            "id": "6w6z8m4WXX7Tub4Rb6Lu7R"
+          }
+        ], 
+        "duration_ms": 71106, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "1QhqX9moYeL8V4ZnOXirEH"
+      }, 
+      {
+        "name": "Locomotive Breath", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0MYNeFsKpzBHwrJGfWZysV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3e3e4d6e8bdc61f87ff2f29507adaeee50acfbb9", 
+        "is_playable": true, 
+        "uri": "spotify:track:0MYNeFsKpzBHwrJGfWZysV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0MYNeFsKpzBHwrJGfWZysV", 
+        "artists": [
+          {
+            "name": "Jethro Tull", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+            }, 
+            "uri": "spotify:artist:6w6z8m4WXX7Tub4Rb6Lu7R", 
+            "href": "https://api.spotify.com/v1/artists/6w6z8m4WXX7Tub4Rb6Lu7R", 
+            "type": "artist", 
+            "id": "6w6z8m4WXX7Tub4Rb6Lu7R"
+          }
+        ], 
+        "duration_ms": 268906, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "0MYNeFsKpzBHwrJGfWZysV"
+      }, 
+      {
+        "name": "Wind Up", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/35KrMfAdlfZWmoIOlwO74m"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7c64e69dc2306c170a3751455fd3921cd9f60896", 
+        "is_playable": true, 
+        "uri": "spotify:track:35KrMfAdlfZWmoIOlwO74m", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/35KrMfAdlfZWmoIOlwO74m", 
+        "artists": [
+          {
+            "name": "Jethro Tull", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+            }, 
+            "uri": "spotify:artist:6w6z8m4WXX7Tub4Rb6Lu7R", 
+            "href": "https://api.spotify.com/v1/artists/6w6z8m4WXX7Tub4Rb6Lu7R", 
+            "type": "artist", 
+            "id": "6w6z8m4WXX7Tub4Rb6Lu7R"
+          }
+        ], 
+        "duration_ms": 360933, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "35KrMfAdlfZWmoIOlwO74m"
+      }, 
+      {
+        "name": "Lick Your Fingers Clean", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2uDINz5D5dJpb6iQnd0IYM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/aefb82d5963d6391c889da301612ff94118d83b4", 
+        "is_playable": true, 
+        "uri": "spotify:track:2uDINz5D5dJpb6iQnd0IYM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2uDINz5D5dJpb6iQnd0IYM", 
+        "artists": [
+          {
+            "name": "Jethro Tull", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+            }, 
+            "uri": "spotify:artist:6w6z8m4WXX7Tub4Rb6Lu7R", 
+            "href": "https://api.spotify.com/v1/artists/6w6z8m4WXX7Tub4Rb6Lu7R", 
+            "type": "artist", 
+            "id": "6w6z8m4WXX7Tub4Rb6Lu7R"
+          }
+        ], 
+        "duration_ms": 166333, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "2uDINz5D5dJpb6iQnd0IYM"
+      }, 
+      {
+        "name": "Wind Up - Quad Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2zQlfgqYJvPkISWFQwWWHs"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/14a8e50123c14b4f3bd9cfad09cc1de15bc9fea8", 
+        "is_playable": true, 
+        "uri": "spotify:track:2zQlfgqYJvPkISWFQwWWHs", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2zQlfgqYJvPkISWFQwWWHs", 
+        "artists": [
+          {
+            "name": "Jethro Tull", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+            }, 
+            "uri": "spotify:artist:6w6z8m4WXX7Tub4Rb6Lu7R", 
+            "href": "https://api.spotify.com/v1/artists/6w6z8m4WXX7Tub4Rb6Lu7R", 
+            "type": "artist", 
+            "id": "6w6z8m4WXX7Tub4Rb6Lu7R"
+          }
+        ], 
+        "duration_ms": 323466, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "2zQlfgqYJvPkISWFQwWWHs"
+      }, 
+      {
+        "name": "Ian Anderson Interview", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1YRW7IE2T1W8vhbtaQjRXC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5608c409e82fd9540d7bc85e65f275f2c0ca61d8", 
+        "is_playable": true, 
+        "uri": "spotify:track:1YRW7IE2T1W8vhbtaQjRXC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1YRW7IE2T1W8vhbtaQjRXC", 
+        "artists": [
+          {
+            "name": "Jethro Tull", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+            }, 
+            "uri": "spotify:artist:6w6z8m4WXX7Tub4Rb6Lu7R", 
+            "href": "https://api.spotify.com/v1/artists/6w6z8m4WXX7Tub4Rb6Lu7R", 
+            "type": "artist", 
+            "id": "6w6z8m4WXX7Tub4Rb6Lu7R"
+          }
+        ], 
+        "duration_ms": 838560, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "1YRW7IE2T1W8vhbtaQjRXC"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/0NGM3Ftwjw0dLNpAowmz3x/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 14, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/0NGM3Ftwjw0dLNpAowmz3x", 
+  "copyrights": [
+    {
+      "text": "1996 Chrysalis Records Ltd, a Warner Music Group Company", 
+      "type": "C"
+    }, 
+    {
+      "text": "1996 Chrysalis Records Ltd, a Warner Music Group Company", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Jethro Tull", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+      }, 
+      "uri": "spotify:artist:6w6z8m4WXX7Tub4Rb6Lu7R", 
+      "href": "https://api.spotify.com/v1/artists/6w6z8m4WXX7Tub4Rb6Lu7R", 
+      "type": "artist", 
+      "id": "6w6z8m4WXX7Tub4Rb6Lu7R"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/977c5868bda8829e4e309337d7e927bfe8211ae7", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/a5642f7ab6672a31cf642ce11ca0e90b6a0a9280", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/d44f22e922455407decc8544432aa49d96f0d330", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "0724349540156"
+  }, 
+  "type": "album", 
+  "id": "0NGM3Ftwjw0dLNpAowmz3x", 
+  "name": "Aqualung"
+}

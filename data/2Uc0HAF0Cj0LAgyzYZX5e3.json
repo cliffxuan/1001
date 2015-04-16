@@ -1,0 +1,485 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2Uc0HAF0Cj0LAgyzYZX5e3"
+  }, 
+  "release_date": "1998-08-25", 
+  "popularity": 72, 
+  "genres": [], 
+  "uri": "spotify:album:2Uc0HAF0Cj0LAgyzYZX5e3", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Intro", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3srvx7IyN10XpXm6QSTQGc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fd1fa2f8f827cf1a1842130ef9035737d7ace05e", 
+        "is_playable": true, 
+        "uri": "spotify:track:3srvx7IyN10XpXm6QSTQGc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3srvx7IyN10XpXm6QSTQGc", 
+        "artists": [
+          {
+            "name": "Lauryn Hill", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3elP7hppV9gTjSKucnXELy"
+            }, 
+            "uri": "spotify:artist:3elP7hppV9gTjSKucnXELy", 
+            "href": "https://api.spotify.com/v1/artists/3elP7hppV9gTjSKucnXELy", 
+            "type": "artist", 
+            "id": "3elP7hppV9gTjSKucnXELy"
+          }
+        ], 
+        "duration_ms": 47293, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "3srvx7IyN10XpXm6QSTQGc"
+      }, 
+      {
+        "name": "Lost Ones", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0x6TCyRm4vmh81Ev0Tvylc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/976b400611b9cc67954939c5ee6854463cb0e1af", 
+        "is_playable": true, 
+        "uri": "spotify:track:0x6TCyRm4vmh81Ev0Tvylc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0x6TCyRm4vmh81Ev0Tvylc", 
+        "artists": [
+          {
+            "name": "Lauryn Hill", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3elP7hppV9gTjSKucnXELy"
+            }, 
+            "uri": "spotify:artist:3elP7hppV9gTjSKucnXELy", 
+            "href": "https://api.spotify.com/v1/artists/3elP7hppV9gTjSKucnXELy", 
+            "type": "artist", 
+            "id": "3elP7hppV9gTjSKucnXELy"
+          }
+        ], 
+        "duration_ms": 333906, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "0x6TCyRm4vmh81Ev0Tvylc"
+      }, 
+      {
+        "name": "Ex-Factor", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2XCTU3DJ9W6glWSkM2uQTS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/72acbf0f481aa559239a42360bdae406934412ac", 
+        "is_playable": true, 
+        "uri": "spotify:track:2XCTU3DJ9W6glWSkM2uQTS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2XCTU3DJ9W6glWSkM2uQTS", 
+        "artists": [
+          {
+            "name": "Lauryn Hill", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3elP7hppV9gTjSKucnXELy"
+            }, 
+            "uri": "spotify:artist:3elP7hppV9gTjSKucnXELy", 
+            "href": "https://api.spotify.com/v1/artists/3elP7hppV9gTjSKucnXELy", 
+            "type": "artist", 
+            "id": "3elP7hppV9gTjSKucnXELy"
+          }
+        ], 
+        "duration_ms": 326533, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "2XCTU3DJ9W6glWSkM2uQTS"
+      }, 
+      {
+        "name": "To Zion", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3FFuQ5eoLNQU3IgbZP6F13"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/32897911177e7db6407081e0c59425bdb649d79d", 
+        "is_playable": true, 
+        "uri": "spotify:track:3FFuQ5eoLNQU3IgbZP6F13", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3FFuQ5eoLNQU3IgbZP6F13", 
+        "artists": [
+          {
+            "name": "Lauryn Hill", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3elP7hppV9gTjSKucnXELy"
+            }, 
+            "uri": "spotify:artist:3elP7hppV9gTjSKucnXELy", 
+            "href": "https://api.spotify.com/v1/artists/3elP7hppV9gTjSKucnXELy", 
+            "type": "artist", 
+            "id": "3elP7hppV9gTjSKucnXELy"
+          }, 
+          {
+            "name": "Carlos Santana", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7yGQgQiiKpg2k00JXf8hJk"
+            }, 
+            "uri": "spotify:artist:7yGQgQiiKpg2k00JXf8hJk", 
+            "href": "https://api.spotify.com/v1/artists/7yGQgQiiKpg2k00JXf8hJk", 
+            "type": "artist", 
+            "id": "7yGQgQiiKpg2k00JXf8hJk"
+          }
+        ], 
+        "duration_ms": 369293, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "3FFuQ5eoLNQU3IgbZP6F13"
+      }, 
+      {
+        "name": "Doo Wop (That Thing)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Uu8IiLkLY0UXhCHka4Dlr"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/29b1f240c4a100953b4bec02832b828353376239", 
+        "is_playable": true, 
+        "uri": "spotify:track:2Uu8IiLkLY0UXhCHka4Dlr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2Uu8IiLkLY0UXhCHka4Dlr", 
+        "artists": [
+          {
+            "name": "Lauryn Hill", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3elP7hppV9gTjSKucnXELy"
+            }, 
+            "uri": "spotify:artist:3elP7hppV9gTjSKucnXELy", 
+            "href": "https://api.spotify.com/v1/artists/3elP7hppV9gTjSKucnXELy", 
+            "type": "artist", 
+            "id": "3elP7hppV9gTjSKucnXELy"
+          }
+        ], 
+        "duration_ms": 320266, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "2Uu8IiLkLY0UXhCHka4Dlr"
+      }, 
+      {
+        "name": "Superstar", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0yqby64XNHe6ayGZNf4E9B"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/30da61dd7075edc5aad4840094d856fa7404b488", 
+        "is_playable": true, 
+        "uri": "spotify:track:0yqby64XNHe6ayGZNf4E9B", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0yqby64XNHe6ayGZNf4E9B", 
+        "artists": [
+          {
+            "name": "Lauryn Hill", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3elP7hppV9gTjSKucnXELy"
+            }, 
+            "uri": "spotify:artist:3elP7hppV9gTjSKucnXELy", 
+            "href": "https://api.spotify.com/v1/artists/3elP7hppV9gTjSKucnXELy", 
+            "type": "artist", 
+            "id": "3elP7hppV9gTjSKucnXELy"
+          }
+        ], 
+        "duration_ms": 297106, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "0yqby64XNHe6ayGZNf4E9B"
+      }, 
+      {
+        "name": "Final Hour", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5k6vM0Fte8g9SmCjSdT4Tt"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4d5a3ff1246b230fb1c69de93f9446a97ff4d7f6", 
+        "is_playable": true, 
+        "uri": "spotify:track:5k6vM0Fte8g9SmCjSdT4Tt", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5k6vM0Fte8g9SmCjSdT4Tt", 
+        "artists": [
+          {
+            "name": "Lauryn Hill", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3elP7hppV9gTjSKucnXELy"
+            }, 
+            "uri": "spotify:artist:3elP7hppV9gTjSKucnXELy", 
+            "href": "https://api.spotify.com/v1/artists/3elP7hppV9gTjSKucnXELy", 
+            "type": "artist", 
+            "id": "3elP7hppV9gTjSKucnXELy"
+          }
+        ], 
+        "duration_ms": 256000, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "5k6vM0Fte8g9SmCjSdT4Tt"
+      }, 
+      {
+        "name": "When It Hurts So Bad", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/66b0iFfTko0Np7tTYCTE8g"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d2b02a1114804d98e7670c163c5f0e2c47a2190d", 
+        "is_playable": true, 
+        "uri": "spotify:track:66b0iFfTko0Np7tTYCTE8g", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/66b0iFfTko0Np7tTYCTE8g", 
+        "artists": [
+          {
+            "name": "Lauryn Hill", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3elP7hppV9gTjSKucnXELy"
+            }, 
+            "uri": "spotify:artist:3elP7hppV9gTjSKucnXELy", 
+            "href": "https://api.spotify.com/v1/artists/3elP7hppV9gTjSKucnXELy", 
+            "type": "artist", 
+            "id": "3elP7hppV9gTjSKucnXELy"
+          }
+        ], 
+        "duration_ms": 342200, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "66b0iFfTko0Np7tTYCTE8g"
+      }, 
+      {
+        "name": "I Used To Love Him", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3VNIHK4Dnxyf1EY2D1kolb"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c721fe4d2f3deedd173f9d769d31a217be33a3eb", 
+        "is_playable": true, 
+        "uri": "spotify:track:3VNIHK4Dnxyf1EY2D1kolb", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3VNIHK4Dnxyf1EY2D1kolb", 
+        "artists": [
+          {
+            "name": "Lauryn Hill", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3elP7hppV9gTjSKucnXELy"
+            }, 
+            "uri": "spotify:artist:3elP7hppV9gTjSKucnXELy", 
+            "href": "https://api.spotify.com/v1/artists/3elP7hppV9gTjSKucnXELy", 
+            "type": "artist", 
+            "id": "3elP7hppV9gTjSKucnXELy"
+          }, 
+          {
+            "name": "Mary J. Blige", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+            }, 
+            "uri": "spotify:artist:1XkoF8ryArs86LZvFOkbyr", 
+            "href": "https://api.spotify.com/v1/artists/1XkoF8ryArs86LZvFOkbyr", 
+            "type": "artist", 
+            "id": "1XkoF8ryArs86LZvFOkbyr"
+          }
+        ], 
+        "duration_ms": 339866, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "3VNIHK4Dnxyf1EY2D1kolb"
+      }, 
+      {
+        "name": "Forgive Them Father", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/35zq0is9h4tI8N8FPNsUtn"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/87d7c904e611b6b53070bb0257687327013656c3", 
+        "is_playable": true, 
+        "uri": "spotify:track:35zq0is9h4tI8N8FPNsUtn", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/35zq0is9h4tI8N8FPNsUtn", 
+        "artists": [
+          {
+            "name": "Lauryn Hill", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3elP7hppV9gTjSKucnXELy"
+            }, 
+            "uri": "spotify:artist:3elP7hppV9gTjSKucnXELy", 
+            "href": "https://api.spotify.com/v1/artists/3elP7hppV9gTjSKucnXELy", 
+            "type": "artist", 
+            "id": "3elP7hppV9gTjSKucnXELy"
+          }
+        ], 
+        "duration_ms": 315293, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "35zq0is9h4tI8N8FPNsUtn"
+      }, 
+      {
+        "name": "Every Ghetto, Every City", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/17W009FVVcy9iA7h9lncjK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/39332f8705e4bc8527e4ca7c97904a4232945201", 
+        "is_playable": true, 
+        "uri": "spotify:track:17W009FVVcy9iA7h9lncjK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/17W009FVVcy9iA7h9lncjK", 
+        "artists": [
+          {
+            "name": "Lauryn Hill", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3elP7hppV9gTjSKucnXELy"
+            }, 
+            "uri": "spotify:artist:3elP7hppV9gTjSKucnXELy", 
+            "href": "https://api.spotify.com/v1/artists/3elP7hppV9gTjSKucnXELy", 
+            "type": "artist", 
+            "id": "3elP7hppV9gTjSKucnXELy"
+          }
+        ], 
+        "duration_ms": 314706, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "17W009FVVcy9iA7h9lncjK"
+      }, 
+      {
+        "name": "Nothing Even Matters", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3xhXKRGahWzcXF8rD5gUvd"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/48742d39e97efcdffa1a7428062fadc986b27b53", 
+        "is_playable": true, 
+        "uri": "spotify:track:3xhXKRGahWzcXF8rD5gUvd", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3xhXKRGahWzcXF8rD5gUvd", 
+        "artists": [
+          {
+            "name": "Lauryn Hill", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3elP7hppV9gTjSKucnXELy"
+            }, 
+            "uri": "spotify:artist:3elP7hppV9gTjSKucnXELy", 
+            "href": "https://api.spotify.com/v1/artists/3elP7hppV9gTjSKucnXELy", 
+            "type": "artist", 
+            "id": "3elP7hppV9gTjSKucnXELy"
+          }, 
+          {
+            "name": "D'Angelo", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+            }, 
+            "uri": "spotify:artist:336vr2M3Va0FjyvB55lJEd", 
+            "href": "https://api.spotify.com/v1/artists/336vr2M3Va0FjyvB55lJEd", 
+            "type": "artist", 
+            "id": "336vr2M3Va0FjyvB55lJEd"
+          }
+        ], 
+        "duration_ms": 350533, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "3xhXKRGahWzcXF8rD5gUvd"
+      }, 
+      {
+        "name": "Everything Is Everything", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/09RS0QfhJVmx1zwwEGtMQu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/879438607dc041ac8097435dda7a65911e3ce50e", 
+        "is_playable": true, 
+        "uri": "spotify:track:09RS0QfhJVmx1zwwEGtMQu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/09RS0QfhJVmx1zwwEGtMQu", 
+        "artists": [
+          {
+            "name": "Lauryn Hill", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3elP7hppV9gTjSKucnXELy"
+            }, 
+            "uri": "spotify:artist:3elP7hppV9gTjSKucnXELy", 
+            "href": "https://api.spotify.com/v1/artists/3elP7hppV9gTjSKucnXELy", 
+            "type": "artist", 
+            "id": "3elP7hppV9gTjSKucnXELy"
+          }
+        ], 
+        "duration_ms": 293266, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "09RS0QfhJVmx1zwwEGtMQu"
+      }, 
+      {
+        "name": "The Miseducation Of Lauryn Hill", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/363xwihswonix3JdYsJkKm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ac477b4b24db9470abad9d764fbb3270632d80d6", 
+        "is_playable": true, 
+        "uri": "spotify:track:363xwihswonix3JdYsJkKm", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/363xwihswonix3JdYsJkKm", 
+        "artists": [
+          {
+            "name": "Lauryn Hill", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3elP7hppV9gTjSKucnXELy"
+            }, 
+            "uri": "spotify:artist:3elP7hppV9gTjSKucnXELy", 
+            "href": "https://api.spotify.com/v1/artists/3elP7hppV9gTjSKucnXELy", 
+            "type": "artist", 
+            "id": "3elP7hppV9gTjSKucnXELy"
+          }
+        ], 
+        "duration_ms": 235466, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "363xwihswonix3JdYsJkKm"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/2Uc0HAF0Cj0LAgyzYZX5e3/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 14, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/2Uc0HAF0Cj0LAgyzYZX5e3", 
+  "copyrights": [
+    {
+      "text": "1998 Ruffhouse Records LP WARNING: All Rights Reserved. Unauthorized duplication is a violation of applicable laws.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Lauryn Hill", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3elP7hppV9gTjSKucnXELy"
+      }, 
+      "uri": "spotify:artist:3elP7hppV9gTjSKucnXELy", 
+      "href": "https://api.spotify.com/v1/artists/3elP7hppV9gTjSKucnXELy", 
+      "type": "artist", 
+      "id": "3elP7hppV9gTjSKucnXELy"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/43660a1f9fd70e3463a782e5f7948a54f4e4cc99", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/517be4be20d34be9a9b27e1ff72d974a3ad86238", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/427ac24b200fb7c6ae2a9d62ea499309702d8675", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "074646903520"
+  }, 
+  "type": "album", 
+  "id": "2Uc0HAF0Cj0LAgyzYZX5e3", 
+  "name": "The Miseducation of Lauryn Hill"
+}

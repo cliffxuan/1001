@@ -1,0 +1,515 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4JqaU9JdOp2yyOxv7qSaFM"
+  }, 
+  "release_date": "2010-04-19", 
+  "popularity": 45, 
+  "genres": [], 
+  "uri": "spotify:album:4JqaU9JdOp2yyOxv7qSaFM", 
+  "tracks": {
+    "items": [
+      {
+        "name": "TC & Honeybear", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0va7YoLydotJduKxFzr49O"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3fec1226a9bbb6d0f9fbdaf63181ea0ff630039d", 
+        "is_playable": true, 
+        "uri": "spotify:track:0va7YoLydotJduKxFzr49O", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0va7YoLydotJduKxFzr49O", 
+        "artists": [
+          {
+            "name": "John Grant", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf"
+            }, 
+            "uri": "spotify:artist:3TScZ6zJkavDy0tqoGqiCf", 
+            "href": "https://api.spotify.com/v1/artists/3TScZ6zJkavDy0tqoGqiCf", 
+            "type": "artist", 
+            "id": "3TScZ6zJkavDy0tqoGqiCf"
+          }
+        ], 
+        "duration_ms": 306106, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "0va7YoLydotJduKxFzr49O"
+      }, 
+      {
+        "name": "Marz", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2cAW25pTimwRYykCoIF2tE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a2516eb9e3f66304ae7ad7831667f2b2be2553f2", 
+        "is_playable": true, 
+        "uri": "spotify:track:2cAW25pTimwRYykCoIF2tE", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2cAW25pTimwRYykCoIF2tE", 
+        "artists": [
+          {
+            "name": "John Grant", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf"
+            }, 
+            "uri": "spotify:artist:3TScZ6zJkavDy0tqoGqiCf", 
+            "href": "https://api.spotify.com/v1/artists/3TScZ6zJkavDy0tqoGqiCf", 
+            "type": "artist", 
+            "id": "3TScZ6zJkavDy0tqoGqiCf"
+          }
+        ], 
+        "duration_ms": 238000, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "2cAW25pTimwRYykCoIF2tE"
+      }, 
+      {
+        "name": "Where The Dreams Go To Die", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6wcVxTqG0h1STbzvVjQfKV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/68bbdf327d7d09d2b6a1adc94d3fb48383343b1b", 
+        "is_playable": true, 
+        "uri": "spotify:track:6wcVxTqG0h1STbzvVjQfKV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6wcVxTqG0h1STbzvVjQfKV", 
+        "artists": [
+          {
+            "name": "John Grant", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf"
+            }, 
+            "uri": "spotify:artist:3TScZ6zJkavDy0tqoGqiCf", 
+            "href": "https://api.spotify.com/v1/artists/3TScZ6zJkavDy0tqoGqiCf", 
+            "type": "artist", 
+            "id": "3TScZ6zJkavDy0tqoGqiCf"
+          }
+        ], 
+        "duration_ms": 364000, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "6wcVxTqG0h1STbzvVjQfKV"
+      }, 
+      {
+        "name": "Sigourney Weaver", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0FeBOg4wUZCI7Z75QlsLNf"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e41b859c6d69885a5f7e7bbd238015a872f69c1a", 
+        "is_playable": true, 
+        "uri": "spotify:track:0FeBOg4wUZCI7Z75QlsLNf", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0FeBOg4wUZCI7Z75QlsLNf", 
+        "artists": [
+          {
+            "name": "John Grant", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf"
+            }, 
+            "uri": "spotify:artist:3TScZ6zJkavDy0tqoGqiCf", 
+            "href": "https://api.spotify.com/v1/artists/3TScZ6zJkavDy0tqoGqiCf", 
+            "type": "artist", 
+            "id": "3TScZ6zJkavDy0tqoGqiCf"
+          }
+        ], 
+        "duration_ms": 211226, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "0FeBOg4wUZCI7Z75QlsLNf"
+      }, 
+      {
+        "name": "Chicken Bones", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4k3p0nS2Cxf26SQsj1UcLb"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bf15e8f4230fae99f748e012bc549dedbceb1302", 
+        "is_playable": true, 
+        "uri": "spotify:track:4k3p0nS2Cxf26SQsj1UcLb", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4k3p0nS2Cxf26SQsj1UcLb", 
+        "artists": [
+          {
+            "name": "John Grant", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf"
+            }, 
+            "uri": "spotify:artist:3TScZ6zJkavDy0tqoGqiCf", 
+            "href": "https://api.spotify.com/v1/artists/3TScZ6zJkavDy0tqoGqiCf", 
+            "type": "artist", 
+            "id": "3TScZ6zJkavDy0tqoGqiCf"
+          }
+        ], 
+        "duration_ms": 218413, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "4k3p0nS2Cxf26SQsj1UcLb"
+      }, 
+      {
+        "name": "Silver Platter Club", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5gqjBbUiWBSnUT9fbZCxCd"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/67729f02a51d187af706d5f4ee92b05f7eaf323b", 
+        "is_playable": true, 
+        "uri": "spotify:track:5gqjBbUiWBSnUT9fbZCxCd", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5gqjBbUiWBSnUT9fbZCxCd", 
+        "artists": [
+          {
+            "name": "John Grant", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf"
+            }, 
+            "uri": "spotify:artist:3TScZ6zJkavDy0tqoGqiCf", 
+            "href": "https://api.spotify.com/v1/artists/3TScZ6zJkavDy0tqoGqiCf", 
+            "type": "artist", 
+            "id": "3TScZ6zJkavDy0tqoGqiCf"
+          }
+        ], 
+        "duration_ms": 250613, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "5gqjBbUiWBSnUT9fbZCxCd"
+      }, 
+      {
+        "name": "It's Easier", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7IQmd2aEiKhuIOeKQAEdK9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8dd6b458ec0c0321c68f0a2a2cd60fbda07e3333", 
+        "is_playable": true, 
+        "uri": "spotify:track:7IQmd2aEiKhuIOeKQAEdK9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7IQmd2aEiKhuIOeKQAEdK9", 
+        "artists": [
+          {
+            "name": "John Grant", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf"
+            }, 
+            "uri": "spotify:artist:3TScZ6zJkavDy0tqoGqiCf", 
+            "href": "https://api.spotify.com/v1/artists/3TScZ6zJkavDy0tqoGqiCf", 
+            "type": "artist", 
+            "id": "3TScZ6zJkavDy0tqoGqiCf"
+          }
+        ], 
+        "duration_ms": 278333, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "7IQmd2aEiKhuIOeKQAEdK9"
+      }, 
+      {
+        "name": "Outer Space", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4CWuguXmX3jpQM3cBKdOZj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b0af77aadae0fe653f22cd91239229a08f0ee18a", 
+        "is_playable": true, 
+        "uri": "spotify:track:4CWuguXmX3jpQM3cBKdOZj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4CWuguXmX3jpQM3cBKdOZj", 
+        "artists": [
+          {
+            "name": "John Grant", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf"
+            }, 
+            "uri": "spotify:artist:3TScZ6zJkavDy0tqoGqiCf", 
+            "href": "https://api.spotify.com/v1/artists/3TScZ6zJkavDy0tqoGqiCf", 
+            "type": "artist", 
+            "id": "3TScZ6zJkavDy0tqoGqiCf"
+          }
+        ], 
+        "duration_ms": 194533, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "4CWuguXmX3jpQM3cBKdOZj"
+      }, 
+      {
+        "name": "JC Hates Faggots", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/60WiNHNPGQ06y2ZyoPQ4Eh"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e971e898c18f1bcb0996ff45a0e89729db1c7103", 
+        "is_playable": true, 
+        "uri": "spotify:track:60WiNHNPGQ06y2ZyoPQ4Eh", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/60WiNHNPGQ06y2ZyoPQ4Eh", 
+        "artists": [
+          {
+            "name": "John Grant", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf"
+            }, 
+            "uri": "spotify:artist:3TScZ6zJkavDy0tqoGqiCf", 
+            "href": "https://api.spotify.com/v1/artists/3TScZ6zJkavDy0tqoGqiCf", 
+            "type": "artist", 
+            "id": "3TScZ6zJkavDy0tqoGqiCf"
+          }
+        ], 
+        "duration_ms": 227853, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "60WiNHNPGQ06y2ZyoPQ4Eh"
+      }, 
+      {
+        "name": "Caramel", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6k3dKPXv7NfL7wAvwxztGE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/59d15abe159a18b108f271a5a753121f7ee894e9", 
+        "is_playable": true, 
+        "uri": "spotify:track:6k3dKPXv7NfL7wAvwxztGE", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6k3dKPXv7NfL7wAvwxztGE", 
+        "artists": [
+          {
+            "name": "John Grant", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf"
+            }, 
+            "uri": "spotify:artist:3TScZ6zJkavDy0tqoGqiCf", 
+            "href": "https://api.spotify.com/v1/artists/3TScZ6zJkavDy0tqoGqiCf", 
+            "type": "artist", 
+            "id": "3TScZ6zJkavDy0tqoGqiCf"
+          }
+        ], 
+        "duration_ms": 215493, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "6k3dKPXv7NfL7wAvwxztGE"
+      }, 
+      {
+        "name": "Leopard And Lamb", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7GXSLUJaBg0G2hCl9Ysb9C"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0512c2618fab30037e510671b11e2bc9ca1cd7c9", 
+        "is_playable": true, 
+        "uri": "spotify:track:7GXSLUJaBg0G2hCl9Ysb9C", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7GXSLUJaBg0G2hCl9Ysb9C", 
+        "artists": [
+          {
+            "name": "John Grant", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf"
+            }, 
+            "uri": "spotify:artist:3TScZ6zJkavDy0tqoGqiCf", 
+            "href": "https://api.spotify.com/v1/artists/3TScZ6zJkavDy0tqoGqiCf", 
+            "type": "artist", 
+            "id": "3TScZ6zJkavDy0tqoGqiCf"
+          }
+        ], 
+        "duration_ms": 281080, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "7GXSLUJaBg0G2hCl9Ysb9C"
+      }, 
+      {
+        "name": "Queen Of Denmark", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4j0fsZahdRzY9xlvqMTSb2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a5ab076219d5c907a3e84aed1554f691e58f5151", 
+        "is_playable": true, 
+        "uri": "spotify:track:4j0fsZahdRzY9xlvqMTSb2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4j0fsZahdRzY9xlvqMTSb2", 
+        "artists": [
+          {
+            "name": "John Grant", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf"
+            }, 
+            "uri": "spotify:artist:3TScZ6zJkavDy0tqoGqiCf", 
+            "href": "https://api.spotify.com/v1/artists/3TScZ6zJkavDy0tqoGqiCf", 
+            "type": "artist", 
+            "id": "3TScZ6zJkavDy0tqoGqiCf"
+          }
+        ], 
+        "duration_ms": 288506, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "4j0fsZahdRzY9xlvqMTSb2"
+      }, 
+      {
+        "name": "That's The Good News", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3XdLaC6e1ORuiMmyxI09d0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fdc7527d108fefba75ab6607da5fc339c110cad0", 
+        "is_playable": true, 
+        "uri": "spotify:track:3XdLaC6e1ORuiMmyxI09d0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3XdLaC6e1ORuiMmyxI09d0", 
+        "artists": [
+          {
+            "name": "John Grant", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf"
+            }, 
+            "uri": "spotify:artist:3TScZ6zJkavDy0tqoGqiCf", 
+            "href": "https://api.spotify.com/v1/artists/3TScZ6zJkavDy0tqoGqiCf", 
+            "type": "artist", 
+            "id": "3TScZ6zJkavDy0tqoGqiCf"
+          }
+        ], 
+        "duration_ms": 252026, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "3XdLaC6e1ORuiMmyxI09d0"
+      }, 
+      {
+        "name": "Supernatural Defibrillator", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5JyhsNZV9pLsF4OIAk6b6E"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5a75ff6b9d984f4b4009f4b05c957ea3e466cb4e", 
+        "is_playable": true, 
+        "uri": "spotify:track:5JyhsNZV9pLsF4OIAk6b6E", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5JyhsNZV9pLsF4OIAk6b6E", 
+        "artists": [
+          {
+            "name": "John Grant", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf"
+            }, 
+            "uri": "spotify:artist:3TScZ6zJkavDy0tqoGqiCf", 
+            "href": "https://api.spotify.com/v1/artists/3TScZ6zJkavDy0tqoGqiCf", 
+            "type": "artist", 
+            "id": "3TScZ6zJkavDy0tqoGqiCf"
+          }
+        ], 
+        "duration_ms": 171880, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "5JyhsNZV9pLsF4OIAk6b6E"
+      }, 
+      {
+        "name": "Fireflies", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0NnsWZnF63oz5etUCVvSW8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/af848f2962e5298f53b90dbc700f51e5923dea89", 
+        "is_playable": true, 
+        "uri": "spotify:track:0NnsWZnF63oz5etUCVvSW8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0NnsWZnF63oz5etUCVvSW8", 
+        "artists": [
+          {
+            "name": "John Grant", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf"
+            }, 
+            "uri": "spotify:artist:3TScZ6zJkavDy0tqoGqiCf", 
+            "href": "https://api.spotify.com/v1/artists/3TScZ6zJkavDy0tqoGqiCf", 
+            "type": "artist", 
+            "id": "3TScZ6zJkavDy0tqoGqiCf"
+          }
+        ], 
+        "duration_ms": 220173, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "0NnsWZnF63oz5etUCVvSW8"
+      }, 
+      {
+        "name": "What Time?", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1MfFVvQkXPLXbKz62fKQeJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1cfadf3d9b6da24cb96c713519bf12fe95505b26", 
+        "is_playable": true, 
+        "uri": "spotify:track:1MfFVvQkXPLXbKz62fKQeJ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1MfFVvQkXPLXbKz62fKQeJ", 
+        "artists": [
+          {
+            "name": "John Grant", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf"
+            }, 
+            "uri": "spotify:artist:3TScZ6zJkavDy0tqoGqiCf", 
+            "href": "https://api.spotify.com/v1/artists/3TScZ6zJkavDy0tqoGqiCf", 
+            "type": "artist", 
+            "id": "3TScZ6zJkavDy0tqoGqiCf"
+          }
+        ], 
+        "duration_ms": 474626, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "1MfFVvQkXPLXbKz62fKQeJ"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/4JqaU9JdOp2yyOxv7qSaFM/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 16, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/4JqaU9JdOp2yyOxv7qSaFM", 
+  "copyrights": [
+    {
+      "text": "2010 Bella Union", 
+      "type": "C"
+    }, 
+    {
+      "text": "2010 Bella Union", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "John Grant", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf"
+      }, 
+      "uri": "spotify:artist:3TScZ6zJkavDy0tqoGqiCf", 
+      "href": "https://api.spotify.com/v1/artists/3TScZ6zJkavDy0tqoGqiCf", 
+      "type": "artist", 
+      "id": "3TScZ6zJkavDy0tqoGqiCf"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/b4aefae20d0b5550eabf726d5d3f9a5d4321ea35", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/328f636f643dc6225551fa24dae76314cfd3cfe7", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/de6514ad3b809a180f5f29b14f884021d5573c3b", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "0602527375496"
+  }, 
+  "type": "album", 
+  "id": "4JqaU9JdOp2yyOxv7qSaFM", 
+  "name": "Queen Of Denmark"
+}

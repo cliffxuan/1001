@@ -1,0 +1,607 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/22v70dJq6kWS32SkR2c7kd"
+  }, 
+  "release_date": "2009-01-01", 
+  "popularity": 73, 
+  "genres": [], 
+  "uri": "spotify:album:22v70dJq6kWS32SkR2c7kd", 
+  "tracks": {
+    "items": [
+      {
+        "name": "What We Talkin' About", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3e463hLpx6nf3dm6o0BZda"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/89116908aaec290ec17cbb12ef2c4ebda0f1a59b", 
+        "is_playable": true, 
+        "uri": "spotify:track:3e463hLpx6nf3dm6o0BZda", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3e463hLpx6nf3dm6o0BZda", 
+        "artists": [
+          {
+            "name": "JAY Z", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+            }, 
+            "uri": "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB", 
+            "href": "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB", 
+            "type": "artist", 
+            "id": "3nFkdlSjzX9mRTtwJOzDYB"
+          }, 
+          {
+            "name": "Luke Steele", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0CliOhi161ZCRIVw60prp0"
+            }, 
+            "uri": "spotify:artist:0CliOhi161ZCRIVw60prp0", 
+            "href": "https://api.spotify.com/v1/artists/0CliOhi161ZCRIVw60prp0", 
+            "type": "artist", 
+            "id": "0CliOhi161ZCRIVw60prp0"
+          }
+        ], 
+        "duration_ms": 243973, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "3e463hLpx6nf3dm6o0BZda"
+      }, 
+      {
+        "name": "Thank You", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2gGWecFSvKuw0VggVVPtGc"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a36a18297c63ca18d76b29a2cdfd0aa64d0414b3", 
+        "is_playable": true, 
+        "uri": "spotify:track:2gGWecFSvKuw0VggVVPtGc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2gGWecFSvKuw0VggVVPtGc", 
+        "artists": [
+          {
+            "name": "JAY Z", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+            }, 
+            "uri": "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB", 
+            "href": "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB", 
+            "type": "artist", 
+            "id": "3nFkdlSjzX9mRTtwJOzDYB"
+          }
+        ], 
+        "duration_ms": 249480, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "2gGWecFSvKuw0VggVVPtGc"
+      }, 
+      {
+        "name": "D.O.A. (Death Of Auto-Tune)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2GhfPith4XCcqNetTRWN4m"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/556bf6f077295f40b3923d85e2d405b3b3db9d3e", 
+        "is_playable": true, 
+        "uri": "spotify:track:2GhfPith4XCcqNetTRWN4m", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2GhfPith4XCcqNetTRWN4m", 
+        "artists": [
+          {
+            "name": "JAY Z", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+            }, 
+            "uri": "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB", 
+            "href": "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB", 
+            "type": "artist", 
+            "id": "3nFkdlSjzX9mRTtwJOzDYB"
+          }
+        ], 
+        "duration_ms": 256386, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "2GhfPith4XCcqNetTRWN4m"
+      }, 
+      {
+        "name": "Run This Town", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6MmT9hje2krkn1twcmtBYu"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/50490ee134ab4b8437af475c2c473eba855e0355", 
+        "is_playable": true, 
+        "uri": "spotify:track:6MmT9hje2krkn1twcmtBYu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6MmT9hje2krkn1twcmtBYu", 
+        "artists": [
+          {
+            "name": "JAY Z", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+            }, 
+            "uri": "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB", 
+            "href": "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB", 
+            "type": "artist", 
+            "id": "3nFkdlSjzX9mRTtwJOzDYB"
+          }, 
+          {
+            "name": "Rihanna", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+            }, 
+            "uri": "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H", 
+            "href": "https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H", 
+            "type": "artist", 
+            "id": "5pKCCKE2ajJHZ9KAiaK11H"
+          }, 
+          {
+            "name": "Kanye West", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+            }, 
+            "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x", 
+            "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x", 
+            "type": "artist", 
+            "id": "5K4W6rqBFWDnAN6FQUkS6x"
+          }
+        ], 
+        "duration_ms": 267520, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "6MmT9hje2krkn1twcmtBYu"
+      }, 
+      {
+        "name": "Empire State Of Mind", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3lPAHV0b53zgRRm9LBgnTY"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/27d722c026c78aa0dd7aa63f80948f475d12dc92", 
+        "is_playable": true, 
+        "uri": "spotify:track:3lPAHV0b53zgRRm9LBgnTY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3lPAHV0b53zgRRm9LBgnTY", 
+        "artists": [
+          {
+            "name": "JAY Z", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+            }, 
+            "uri": "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB", 
+            "href": "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB", 
+            "type": "artist", 
+            "id": "3nFkdlSjzX9mRTtwJOzDYB"
+          }, 
+          {
+            "name": "Alicia Keys", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+            }, 
+            "uri": "spotify:artist:3DiDSECUqqY1AuBP8qtaIa", 
+            "href": "https://api.spotify.com/v1/artists/3DiDSECUqqY1AuBP8qtaIa", 
+            "type": "artist", 
+            "id": "3DiDSECUqqY1AuBP8qtaIa"
+          }
+        ], 
+        "duration_ms": 276920, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "3lPAHV0b53zgRRm9LBgnTY"
+      }, 
+      {
+        "name": "Real As It Gets", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6CTq9vPHDfo08SJWQZqw1X"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/12c8ba3556e9bfe8a3b135173f2721d54acc1513", 
+        "is_playable": true, 
+        "uri": "spotify:track:6CTq9vPHDfo08SJWQZqw1X", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6CTq9vPHDfo08SJWQZqw1X", 
+        "artists": [
+          {
+            "name": "JAY Z", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+            }, 
+            "uri": "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB", 
+            "href": "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB", 
+            "type": "artist", 
+            "id": "3nFkdlSjzX9mRTtwJOzDYB"
+          }, 
+          {
+            "name": "Jeezy", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+            }, 
+            "uri": "spotify:artist:4yBK75WVCQXej1p04GWqxH", 
+            "href": "https://api.spotify.com/v1/artists/4yBK75WVCQXej1p04GWqxH", 
+            "type": "artist", 
+            "id": "4yBK75WVCQXej1p04GWqxH"
+          }
+        ], 
+        "duration_ms": 252613, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "6CTq9vPHDfo08SJWQZqw1X"
+      }, 
+      {
+        "name": "On To The Next One", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0fNLvLmoJ7oQdS7CsOMJS7"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/40e27bf6f0062c2c6d652ec3f81e964a7d1aa81c", 
+        "is_playable": true, 
+        "uri": "spotify:track:0fNLvLmoJ7oQdS7CsOMJS7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0fNLvLmoJ7oQdS7CsOMJS7", 
+        "artists": [
+          {
+            "name": "JAY Z", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+            }, 
+            "uri": "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB", 
+            "href": "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB", 
+            "type": "artist", 
+            "id": "3nFkdlSjzX9mRTtwJOzDYB"
+          }, 
+          {
+            "name": "Swizz Beatz", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3"
+            }, 
+            "uri": "spotify:artist:2cADQgiLMjNhbsfeN52Bf3", 
+            "href": "https://api.spotify.com/v1/artists/2cADQgiLMjNhbsfeN52Bf3", 
+            "type": "artist", 
+            "id": "2cADQgiLMjNhbsfeN52Bf3"
+          }
+        ], 
+        "duration_ms": 256133, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "0fNLvLmoJ7oQdS7CsOMJS7"
+      }, 
+      {
+        "name": "Off That", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3JSBgYgE90iC5Pd57rzA5j"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a9d726e7ed0f754f99bac363e06d510a6b805e97", 
+        "is_playable": true, 
+        "uri": "spotify:track:3JSBgYgE90iC5Pd57rzA5j", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3JSBgYgE90iC5Pd57rzA5j", 
+        "artists": [
+          {
+            "name": "JAY Z", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+            }, 
+            "uri": "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB", 
+            "href": "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB", 
+            "type": "artist", 
+            "id": "3nFkdlSjzX9mRTtwJOzDYB"
+          }, 
+          {
+            "name": "Drake", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            }, 
+            "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4", 
+            "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4", 
+            "type": "artist", 
+            "id": "3TVXtAsR1Inumwj472S9r4"
+          }
+        ], 
+        "duration_ms": 246506, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "3JSBgYgE90iC5Pd57rzA5j"
+      }, 
+      {
+        "name": "A Star Is Born", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6JMz6GVwM9xTwrwXXUOQ4F"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/425498f6388f24e32fd64b5b0af9fc3d4f64167b", 
+        "is_playable": true, 
+        "uri": "spotify:track:6JMz6GVwM9xTwrwXXUOQ4F", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6JMz6GVwM9xTwrwXXUOQ4F", 
+        "artists": [
+          {
+            "name": "JAY Z", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+            }, 
+            "uri": "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB", 
+            "href": "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB", 
+            "type": "artist", 
+            "id": "3nFkdlSjzX9mRTtwJOzDYB"
+          }, 
+          {
+            "name": "J. Cole", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+            }, 
+            "uri": "spotify:artist:6l3HvQ5sa6mXTsMTB19rO5", 
+            "href": "https://api.spotify.com/v1/artists/6l3HvQ5sa6mXTsMTB19rO5", 
+            "type": "artist", 
+            "id": "6l3HvQ5sa6mXTsMTB19rO5"
+          }
+        ], 
+        "duration_ms": 226920, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "6JMz6GVwM9xTwrwXXUOQ4F"
+      }, 
+      {
+        "name": "Venus Vs. Mars", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0FtceGDcbhiRbvIqcYjion"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/add23f03320c809441ef280b6d7b117bd665fc5e", 
+        "is_playable": true, 
+        "uri": "spotify:track:0FtceGDcbhiRbvIqcYjion", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0FtceGDcbhiRbvIqcYjion", 
+        "artists": [
+          {
+            "name": "JAY Z", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+            }, 
+            "uri": "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB", 
+            "href": "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB", 
+            "type": "artist", 
+            "id": "3nFkdlSjzX9mRTtwJOzDYB"
+          }
+        ], 
+        "duration_ms": 190813, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "0FtceGDcbhiRbvIqcYjion"
+      }, 
+      {
+        "name": "Already Home", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5RqJaEXoUQJUFTMgqXj2cZ"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/461cd72412d104b01b2724cc732c776ed07193b8", 
+        "is_playable": true, 
+        "uri": "spotify:track:5RqJaEXoUQJUFTMgqXj2cZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5RqJaEXoUQJUFTMgqXj2cZ", 
+        "artists": [
+          {
+            "name": "JAY Z", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+            }, 
+            "uri": "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB", 
+            "href": "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB", 
+            "type": "artist", 
+            "id": "3nFkdlSjzX9mRTtwJOzDYB"
+          }, 
+          {
+            "name": "Kid Cudi", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+            }, 
+            "uri": "spotify:artist:0fA0VVWsXO9YnASrzqfmYu", 
+            "href": "https://api.spotify.com/v1/artists/0fA0VVWsXO9YnASrzqfmYu", 
+            "type": "artist", 
+            "id": "0fA0VVWsXO9YnASrzqfmYu"
+          }
+        ], 
+        "duration_ms": 269853, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "5RqJaEXoUQJUFTMgqXj2cZ"
+      }, 
+      {
+        "name": "Hate", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2YMPbRNzrmZTMMLBXYHWPh"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4442ed66d3e5d5fc357cb6e0466907da1ca9fef3", 
+        "is_playable": true, 
+        "uri": "spotify:track:2YMPbRNzrmZTMMLBXYHWPh", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2YMPbRNzrmZTMMLBXYHWPh", 
+        "artists": [
+          {
+            "name": "JAY Z", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+            }, 
+            "uri": "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB", 
+            "href": "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB", 
+            "type": "artist", 
+            "id": "3nFkdlSjzX9mRTtwJOzDYB"
+          }, 
+          {
+            "name": "Kanye West", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+            }, 
+            "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x", 
+            "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x", 
+            "type": "artist", 
+            "id": "5K4W6rqBFWDnAN6FQUkS6x"
+          }
+        ], 
+        "duration_ms": 151426, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "2YMPbRNzrmZTMMLBXYHWPh"
+      }, 
+      {
+        "name": "Reminder", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3jz1CfKCmCgXIBy0oKqYdJ"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7ac9574d2679ce7068c9a361829a66112351e7e5", 
+        "is_playable": true, 
+        "uri": "spotify:track:3jz1CfKCmCgXIBy0oKqYdJ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3jz1CfKCmCgXIBy0oKqYdJ", 
+        "artists": [
+          {
+            "name": "JAY Z", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+            }, 
+            "uri": "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB", 
+            "href": "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB", 
+            "type": "artist", 
+            "id": "3nFkdlSjzX9mRTtwJOzDYB"
+          }
+        ], 
+        "duration_ms": 258093, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "3jz1CfKCmCgXIBy0oKqYdJ"
+      }, 
+      {
+        "name": "So Ambitious", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7KmDXRy4tULE6V3mJAunBH"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e05746af3af464b0bc8a066f98e0a3d235fb0db5", 
+        "is_playable": true, 
+        "uri": "spotify:track:7KmDXRy4tULE6V3mJAunBH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7KmDXRy4tULE6V3mJAunBH", 
+        "artists": [
+          {
+            "name": "JAY Z", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+            }, 
+            "uri": "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB", 
+            "href": "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB", 
+            "type": "artist", 
+            "id": "3nFkdlSjzX9mRTtwJOzDYB"
+          }, 
+          {
+            "name": "Pharrell Williams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+            }, 
+            "uri": "spotify:artist:2RdwBSPQiwcmiDo9kixcl8", 
+            "href": "https://api.spotify.com/v1/artists/2RdwBSPQiwcmiDo9kixcl8", 
+            "type": "artist", 
+            "id": "2RdwBSPQiwcmiDo9kixcl8"
+          }
+        ], 
+        "duration_ms": 252146, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "7KmDXRy4tULE6V3mJAunBH"
+      }, 
+      {
+        "name": "Young Forever", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5EGxLRhFh1TepvW1CNIkOR"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3a76ceb98f1b7a30649349e15142f8a25def3030", 
+        "is_playable": true, 
+        "uri": "spotify:track:5EGxLRhFh1TepvW1CNIkOR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5EGxLRhFh1TepvW1CNIkOR", 
+        "artists": [
+          {
+            "name": "JAY Z", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+            }, 
+            "uri": "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB", 
+            "href": "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB", 
+            "type": "artist", 
+            "id": "3nFkdlSjzX9mRTtwJOzDYB"
+          }, 
+          {
+            "name": "Mr Hudson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1zV9UjTUevjp5VUddqIUUn"
+            }, 
+            "uri": "spotify:artist:1zV9UjTUevjp5VUddqIUUn", 
+            "href": "https://api.spotify.com/v1/artists/1zV9UjTUevjp5VUddqIUUn", 
+            "type": "artist", 
+            "id": "1zV9UjTUevjp5VUddqIUUn"
+          }
+        ], 
+        "duration_ms": 253906, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "5EGxLRhFh1TepvW1CNIkOR"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/22v70dJq6kWS32SkR2c7kd/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 15, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/22v70dJq6kWS32SkR2c7kd", 
+  "copyrights": [
+    {
+      "text": "(C) 2009 S. Carter Enterprises, Manufactured by Def Jam Recordings, A Division of UMG Recordings, Inc, Distributed by Universal Music Distribution. All Rights Reserved.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 2009 S. Carter Enterprises, Manufactured by Def Jam Recordings, A Division of UMG Recordings, Inc, Distributed by Universal Music Distribution. All Rights Reserved.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "JAY Z", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+      }, 
+      "uri": "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB", 
+      "href": "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB", 
+      "type": "artist", 
+      "id": "3nFkdlSjzX9mRTtwJOzDYB"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/1474679cf69db23f6d8b98ef3a6dae0aa7e41b2b", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/5f7ef3aa1d42c5cc1f7c4b6d56fb31e03f245209", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/81d2d5c74282233eb6600e24f1322ed81308327e", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00858786005463"
+  }, 
+  "type": "album", 
+  "id": "22v70dJq6kWS32SkR2c7kd", 
+  "name": "The Blueprint 3"
+}

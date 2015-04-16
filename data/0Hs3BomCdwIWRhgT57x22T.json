@@ -1,0 +1,119 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0Hs3BomCdwIWRhgT57x22T"
+  }, 
+  "release_date": "1969", 
+  "popularity": 34, 
+  "genres": [], 
+  "uri": "spotify:album:0Hs3BomCdwIWRhgT57x22T", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Shhh / Peaceful - LP Mix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/267lVml7gJ9xefwgO6E2Ag"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5e16f4ba1e4d7faffa76e5ef440854a880df2c65", 
+        "is_playable": true, 
+        "uri": "spotify:track:267lVml7gJ9xefwgO6E2Ag", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/267lVml7gJ9xefwgO6E2Ag", 
+        "artists": [
+          {
+            "name": "Miles Davis", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+            }, 
+            "uri": "spotify:artist:0kbYTNQb4Pb1rPbbaF0pT4", 
+            "href": "https://api.spotify.com/v1/artists/0kbYTNQb4Pb1rPbbaF0pT4", 
+            "type": "artist", 
+            "id": "0kbYTNQb4Pb1rPbbaF0pT4"
+          }
+        ], 
+        "duration_ms": 1094733, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "267lVml7gJ9xefwgO6E2Ag"
+      }, 
+      {
+        "name": "In a Silent Way - LP Mix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/54a3lHJAwce1dOKrsDPEHv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/aba08ac3305c45e4bac2fb516d49aced684e31ce", 
+        "is_playable": true, 
+        "uri": "spotify:track:54a3lHJAwce1dOKrsDPEHv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/54a3lHJAwce1dOKrsDPEHv", 
+        "artists": [
+          {
+            "name": "Miles Davis", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+            }, 
+            "uri": "spotify:artist:0kbYTNQb4Pb1rPbbaF0pT4", 
+            "href": "https://api.spotify.com/v1/artists/0kbYTNQb4Pb1rPbbaF0pT4", 
+            "type": "artist", 
+            "id": "0kbYTNQb4Pb1rPbbaF0pT4"
+          }
+        ], 
+        "duration_ms": 1192333, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "54a3lHJAwce1dOKrsDPEHv"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/0Hs3BomCdwIWRhgT57x22T/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 2, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/0Hs3BomCdwIWRhgT57x22T", 
+  "copyrights": [
+    {
+      "text": "Originally Released 1969 Sony Music Entertainment Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Miles Davis", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+      }, 
+      "uri": "spotify:artist:0kbYTNQb4Pb1rPbbaF0pT4", 
+      "href": "https://api.spotify.com/v1/artists/0kbYTNQb4Pb1rPbbaF0pT4", 
+      "type": "artist", 
+      "id": "0kbYTNQb4Pb1rPbbaF0pT4"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/1fddb6c4e26d5f8e85252c9acc5d530e7821a17d", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/bf1fb601654caeecf7e16357bec660751457a3dc", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/0d407cf707617af351142816d9d3dbc1e0337723", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "696998655621"
+  }, 
+  "type": "album", 
+  "id": "0Hs3BomCdwIWRhgT57x22T", 
+  "name": "In A Silent Way"
+}

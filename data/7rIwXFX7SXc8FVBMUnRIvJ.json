@@ -1,0 +1,655 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7rIwXFX7SXc8FVBMUnRIvJ"
+  }, 
+  "release_date": "2001-09-24", 
+  "popularity": 57, 
+  "genres": [], 
+  "uri": "spotify:album:7rIwXFX7SXc8FVBMUnRIvJ", 
+  "tracks": {
+    "items": [
+      {
+        "name": "New York, New York", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/70fgBn0MXm4YaYf6tXZvQR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/614633ef9783063966ff1b19fb9c88d969120ddf", 
+        "is_playable": true, 
+        "uri": "spotify:track:70fgBn0MXm4YaYf6tXZvQR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/70fgBn0MXm4YaYf6tXZvQR", 
+        "artists": [
+          {
+            "name": "Ryan Adams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+            }, 
+            "uri": "spotify:artist:2qc41rNTtdLK0tV3mJn2Pm", 
+            "href": "https://api.spotify.com/v1/artists/2qc41rNTtdLK0tV3mJn2Pm", 
+            "type": "artist", 
+            "id": "2qc41rNTtdLK0tV3mJn2Pm"
+          }
+        ], 
+        "duration_ms": 226693, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "70fgBn0MXm4YaYf6tXZvQR"
+      }, 
+      {
+        "name": "Firecracker", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/09KwsYdqoZUsa01p0XeBVc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/916756c7f79441ac44a60adb9aa69d28f06163b8", 
+        "is_playable": true, 
+        "uri": "spotify:track:09KwsYdqoZUsa01p0XeBVc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/09KwsYdqoZUsa01p0XeBVc", 
+        "artists": [
+          {
+            "name": "Ryan Adams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+            }, 
+            "uri": "spotify:artist:2qc41rNTtdLK0tV3mJn2Pm", 
+            "href": "https://api.spotify.com/v1/artists/2qc41rNTtdLK0tV3mJn2Pm", 
+            "type": "artist", 
+            "id": "2qc41rNTtdLK0tV3mJn2Pm"
+          }
+        ], 
+        "duration_ms": 171666, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "09KwsYdqoZUsa01p0XeBVc"
+      }, 
+      {
+        "name": "Answering Bell", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6EySfSAHFp2B4Oh99eCHp0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0df226ae1257ff770ad7c7c74ef7f82dd896cfba", 
+        "is_playable": true, 
+        "uri": "spotify:track:6EySfSAHFp2B4Oh99eCHp0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6EySfSAHFp2B4Oh99eCHp0", 
+        "artists": [
+          {
+            "name": "Ryan Adams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+            }, 
+            "uri": "spotify:artist:2qc41rNTtdLK0tV3mJn2Pm", 
+            "href": "https://api.spotify.com/v1/artists/2qc41rNTtdLK0tV3mJn2Pm", 
+            "type": "artist", 
+            "id": "2qc41rNTtdLK0tV3mJn2Pm"
+          }
+        ], 
+        "duration_ms": 185000, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "6EySfSAHFp2B4Oh99eCHp0"
+      }, 
+      {
+        "name": "La Cienega Just Smiled", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7M5muIJFufE3FaF1b6F8ho"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/95f4b8fd3ffec027e06fbb04662110452d7b44ce", 
+        "is_playable": true, 
+        "uri": "spotify:track:7M5muIJFufE3FaF1b6F8ho", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7M5muIJFufE3FaF1b6F8ho", 
+        "artists": [
+          {
+            "name": "Ryan Adams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+            }, 
+            "uri": "spotify:artist:2qc41rNTtdLK0tV3mJn2Pm", 
+            "href": "https://api.spotify.com/v1/artists/2qc41rNTtdLK0tV3mJn2Pm", 
+            "type": "artist", 
+            "id": "2qc41rNTtdLK0tV3mJn2Pm"
+          }
+        ], 
+        "duration_ms": 301013, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "7M5muIJFufE3FaF1b6F8ho"
+      }, 
+      {
+        "name": "The Rescue Blues", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6lUY5R9gcTIUkddQkdcjuy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f9f805b3e2f4409ae88bfa81cf01c4b8eb8d8de6", 
+        "is_playable": true, 
+        "uri": "spotify:track:6lUY5R9gcTIUkddQkdcjuy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6lUY5R9gcTIUkddQkdcjuy", 
+        "artists": [
+          {
+            "name": "Ryan Adams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+            }, 
+            "uri": "spotify:artist:2qc41rNTtdLK0tV3mJn2Pm", 
+            "href": "https://api.spotify.com/v1/artists/2qc41rNTtdLK0tV3mJn2Pm", 
+            "type": "artist", 
+            "id": "2qc41rNTtdLK0tV3mJn2Pm"
+          }
+        ], 
+        "duration_ms": 218400, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "6lUY5R9gcTIUkddQkdcjuy"
+      }, 
+      {
+        "name": "Somehow, Someday", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5WKmThnRqYXaOnV4pTMiIq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/37e47f28fde654c52c2a92bb96fc3afd6657f514", 
+        "is_playable": true, 
+        "uri": "spotify:track:5WKmThnRqYXaOnV4pTMiIq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5WKmThnRqYXaOnV4pTMiIq", 
+        "artists": [
+          {
+            "name": "Ryan Adams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+            }, 
+            "uri": "spotify:artist:2qc41rNTtdLK0tV3mJn2Pm", 
+            "href": "https://api.spotify.com/v1/artists/2qc41rNTtdLK0tV3mJn2Pm", 
+            "type": "artist", 
+            "id": "2qc41rNTtdLK0tV3mJn2Pm"
+          }
+        ], 
+        "duration_ms": 264333, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "5WKmThnRqYXaOnV4pTMiIq"
+      }, 
+      {
+        "name": "When The Stars Go Blue", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0nOe9N3bENgpIGpRecUVnZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b62ec986fe074b695bfd97d284e98fc32625b743", 
+        "is_playable": true, 
+        "uri": "spotify:track:0nOe9N3bENgpIGpRecUVnZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0nOe9N3bENgpIGpRecUVnZ", 
+        "artists": [
+          {
+            "name": "Ryan Adams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+            }, 
+            "uri": "spotify:artist:2qc41rNTtdLK0tV3mJn2Pm", 
+            "href": "https://api.spotify.com/v1/artists/2qc41rNTtdLK0tV3mJn2Pm", 
+            "type": "artist", 
+            "id": "2qc41rNTtdLK0tV3mJn2Pm"
+          }
+        ], 
+        "duration_ms": 211666, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "0nOe9N3bENgpIGpRecUVnZ"
+      }, 
+      {
+        "name": "Nobody Girl", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3ErBprumcSR4ogVXOC76Og"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9ed925b4770a768ceb9b6afed2555e4b00ff8ec5", 
+        "is_playable": true, 
+        "uri": "spotify:track:3ErBprumcSR4ogVXOC76Og", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3ErBprumcSR4ogVXOC76Og", 
+        "artists": [
+          {
+            "name": "Ryan Adams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+            }, 
+            "uri": "spotify:artist:2qc41rNTtdLK0tV3mJn2Pm", 
+            "href": "https://api.spotify.com/v1/artists/2qc41rNTtdLK0tV3mJn2Pm", 
+            "type": "artist", 
+            "id": "2qc41rNTtdLK0tV3mJn2Pm"
+          }
+        ], 
+        "duration_ms": 579506, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "3ErBprumcSR4ogVXOC76Og"
+      }, 
+      {
+        "name": "Sylvia Plath", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5mGn6IIggcabZiSdF9psu4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cfb5dfc44d230087ee12809a50bfcd180305cc17", 
+        "is_playable": true, 
+        "uri": "spotify:track:5mGn6IIggcabZiSdF9psu4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5mGn6IIggcabZiSdF9psu4", 
+        "artists": [
+          {
+            "name": "Ryan Adams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+            }, 
+            "uri": "spotify:artist:2qc41rNTtdLK0tV3mJn2Pm", 
+            "href": "https://api.spotify.com/v1/artists/2qc41rNTtdLK0tV3mJn2Pm", 
+            "type": "artist", 
+            "id": "2qc41rNTtdLK0tV3mJn2Pm"
+          }
+        ], 
+        "duration_ms": 250106, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "5mGn6IIggcabZiSdF9psu4"
+      }, 
+      {
+        "name": "Enemy Fire", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4hleIdkCWkzWz6Tl2gTtOo"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/16d6275d83cc6f0d7cf8a0349f96ddd368b39d23", 
+        "is_playable": true, 
+        "uri": "spotify:track:4hleIdkCWkzWz6Tl2gTtOo", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4hleIdkCWkzWz6Tl2gTtOo", 
+        "artists": [
+          {
+            "name": "Ryan Adams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+            }, 
+            "uri": "spotify:artist:2qc41rNTtdLK0tV3mJn2Pm", 
+            "href": "https://api.spotify.com/v1/artists/2qc41rNTtdLK0tV3mJn2Pm", 
+            "type": "artist", 
+            "id": "2qc41rNTtdLK0tV3mJn2Pm"
+          }
+        ], 
+        "duration_ms": 249026, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "4hleIdkCWkzWz6Tl2gTtOo"
+      }, 
+      {
+        "name": "Gonna Make You Love Me", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/78CXlVV2G80nmEAEiRGX1A"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/da4ffbdeb874d83219f498ad4c82731d300cc41f", 
+        "is_playable": true, 
+        "uri": "spotify:track:78CXlVV2G80nmEAEiRGX1A", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/78CXlVV2G80nmEAEiRGX1A", 
+        "artists": [
+          {
+            "name": "Ryan Adams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+            }, 
+            "uri": "spotify:artist:2qc41rNTtdLK0tV3mJn2Pm", 
+            "href": "https://api.spotify.com/v1/artists/2qc41rNTtdLK0tV3mJn2Pm", 
+            "type": "artist", 
+            "id": "2qc41rNTtdLK0tV3mJn2Pm"
+          }
+        ], 
+        "duration_ms": 156973, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "78CXlVV2G80nmEAEiRGX1A"
+      }, 
+      {
+        "name": "Wild Flowers", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0OpPZ1FIuCJ8VKShs8zy6g"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ca4265351d7cbfe87692e9237872ce5a0ef1427b", 
+        "is_playable": true, 
+        "uri": "spotify:track:0OpPZ1FIuCJ8VKShs8zy6g", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0OpPZ1FIuCJ8VKShs8zy6g", 
+        "artists": [
+          {
+            "name": "Ryan Adams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+            }, 
+            "uri": "spotify:artist:2qc41rNTtdLK0tV3mJn2Pm", 
+            "href": "https://api.spotify.com/v1/artists/2qc41rNTtdLK0tV3mJn2Pm", 
+            "type": "artist", 
+            "id": "2qc41rNTtdLK0tV3mJn2Pm"
+          }
+        ], 
+        "duration_ms": 299866, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "0OpPZ1FIuCJ8VKShs8zy6g"
+      }, 
+      {
+        "name": "Harder Now That It's Over", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5TTiXxO7SPIYHulRCSyYzR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6d89f1f7dfbc0c81567d8b50804080f1570dcb90", 
+        "is_playable": true, 
+        "uri": "spotify:track:5TTiXxO7SPIYHulRCSyYzR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5TTiXxO7SPIYHulRCSyYzR", 
+        "artists": [
+          {
+            "name": "Ryan Adams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+            }, 
+            "uri": "spotify:artist:2qc41rNTtdLK0tV3mJn2Pm", 
+            "href": "https://api.spotify.com/v1/artists/2qc41rNTtdLK0tV3mJn2Pm", 
+            "type": "artist", 
+            "id": "2qc41rNTtdLK0tV3mJn2Pm"
+          }
+        ], 
+        "duration_ms": 272933, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "5TTiXxO7SPIYHulRCSyYzR"
+      }, 
+      {
+        "name": "Touch, Feel & Lose", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Dm9IExTcOoeqNmgJ8hY2C"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1af4ba1a4e4c3094226daf233ffbc3e334876a62", 
+        "is_playable": true, 
+        "uri": "spotify:track:1Dm9IExTcOoeqNmgJ8hY2C", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1Dm9IExTcOoeqNmgJ8hY2C", 
+        "artists": [
+          {
+            "name": "Ryan Adams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+            }, 
+            "uri": "spotify:artist:2qc41rNTtdLK0tV3mJn2Pm", 
+            "href": "https://api.spotify.com/v1/artists/2qc41rNTtdLK0tV3mJn2Pm", 
+            "type": "artist", 
+            "id": "2qc41rNTtdLK0tV3mJn2Pm"
+          }
+        ], 
+        "duration_ms": 255760, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "1Dm9IExTcOoeqNmgJ8hY2C"
+      }, 
+      {
+        "name": "Tina Toledo's Street Walkin' Blues", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0AqjOg8zE4pCoUGZSwZtJ0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0f60e9e6bbfd8e832cebc8a9ca73833bc968ae8c", 
+        "is_playable": true, 
+        "uri": "spotify:track:0AqjOg8zE4pCoUGZSwZtJ0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0AqjOg8zE4pCoUGZSwZtJ0", 
+        "artists": [
+          {
+            "name": "Ryan Adams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+            }, 
+            "uri": "spotify:artist:2qc41rNTtdLK0tV3mJn2Pm", 
+            "href": "https://api.spotify.com/v1/artists/2qc41rNTtdLK0tV3mJn2Pm", 
+            "type": "artist", 
+            "id": "2qc41rNTtdLK0tV3mJn2Pm"
+          }
+        ], 
+        "duration_ms": 366600, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "0AqjOg8zE4pCoUGZSwZtJ0"
+      }, 
+      {
+        "name": "Goodnight, Hollywood Blvd.", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2rIJHK7tIln1lrsbUxifmN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d3e29d0cc859222cc84ae24b9567c3d980264885", 
+        "is_playable": true, 
+        "uri": "spotify:track:2rIJHK7tIln1lrsbUxifmN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2rIJHK7tIln1lrsbUxifmN", 
+        "artists": [
+          {
+            "name": "Ryan Adams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+            }, 
+            "uri": "spotify:artist:2qc41rNTtdLK0tV3mJn2Pm", 
+            "href": "https://api.spotify.com/v1/artists/2qc41rNTtdLK0tV3mJn2Pm", 
+            "type": "artist", 
+            "id": "2qc41rNTtdLK0tV3mJn2Pm"
+          }
+        ], 
+        "duration_ms": 205440, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "2rIJHK7tIln1lrsbUxifmN"
+      }, 
+      {
+        "name": "Rosalie Come And Go", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6tTK4VThcATTJgkiEh81d4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a1ad153129bd3bfcc1f3ededd8866935944e515f", 
+        "is_playable": true, 
+        "uri": "spotify:track:6tTK4VThcATTJgkiEh81d4", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6tTK4VThcATTJgkiEh81d4", 
+        "artists": [
+          {
+            "name": "Ryan Adams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+            }, 
+            "uri": "spotify:artist:2qc41rNTtdLK0tV3mJn2Pm", 
+            "href": "https://api.spotify.com/v1/artists/2qc41rNTtdLK0tV3mJn2Pm", 
+            "type": "artist", 
+            "id": "2qc41rNTtdLK0tV3mJn2Pm"
+          }
+        ], 
+        "duration_ms": 233266, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "6tTK4VThcATTJgkiEh81d4"
+      }, 
+      {
+        "name": "The Fools We Are As Men", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2CQWmsNcqo96g7keZAFW79"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a15b26946c45301339a11969152769a6e55b8f96", 
+        "is_playable": true, 
+        "uri": "spotify:track:2CQWmsNcqo96g7keZAFW79", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/2CQWmsNcqo96g7keZAFW79", 
+        "artists": [
+          {
+            "name": "Ryan Adams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+            }, 
+            "uri": "spotify:artist:2qc41rNTtdLK0tV3mJn2Pm", 
+            "href": "https://api.spotify.com/v1/artists/2qc41rNTtdLK0tV3mJn2Pm", 
+            "type": "artist", 
+            "id": "2qc41rNTtdLK0tV3mJn2Pm"
+          }
+        ], 
+        "duration_ms": 240266, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "2CQWmsNcqo96g7keZAFW79"
+      }, 
+      {
+        "name": "Sweet Black Magic", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5kn1ySPHiXfhsa2S4hHu2T"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e4899378884dc310c12f122a4a44336494f72887", 
+        "is_playable": true, 
+        "uri": "spotify:track:5kn1ySPHiXfhsa2S4hHu2T", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5kn1ySPHiXfhsa2S4hHu2T", 
+        "artists": [
+          {
+            "name": "Ryan Adams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+            }, 
+            "uri": "spotify:artist:2qc41rNTtdLK0tV3mJn2Pm", 
+            "href": "https://api.spotify.com/v1/artists/2qc41rNTtdLK0tV3mJn2Pm", 
+            "type": "artist", 
+            "id": "2qc41rNTtdLK0tV3mJn2Pm"
+          }
+        ], 
+        "duration_ms": 154000, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "5kn1ySPHiXfhsa2S4hHu2T"
+      }, 
+      {
+        "name": "The Bar Is A Beautiful Place", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5fT4A3Q4EJallqSCUINnnk"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a08d8d2b4c07e1c97fe541481087691ca58fe77a", 
+        "is_playable": true, 
+        "uri": "spotify:track:5fT4A3Q4EJallqSCUINnnk", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5fT4A3Q4EJallqSCUINnnk", 
+        "artists": [
+          {
+            "name": "Ryan Adams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+            }, 
+            "uri": "spotify:artist:2qc41rNTtdLK0tV3mJn2Pm", 
+            "href": "https://api.spotify.com/v1/artists/2qc41rNTtdLK0tV3mJn2Pm", 
+            "type": "artist", 
+            "id": "2qc41rNTtdLK0tV3mJn2Pm"
+          }
+        ], 
+        "duration_ms": 357626, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "5fT4A3Q4EJallqSCUINnnk"
+      }, 
+      {
+        "name": "Cannonball Days", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1AGrVPxLGLDIoSamuKvvYc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/660be834734663f813f9fcae26b24499e2c92f9b", 
+        "is_playable": true, 
+        "uri": "spotify:track:1AGrVPxLGLDIoSamuKvvYc", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1AGrVPxLGLDIoSamuKvvYc", 
+        "artists": [
+          {
+            "name": "Ryan Adams", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+            }, 
+            "uri": "spotify:artist:2qc41rNTtdLK0tV3mJn2Pm", 
+            "href": "https://api.spotify.com/v1/artists/2qc41rNTtdLK0tV3mJn2Pm", 
+            "type": "artist", 
+            "id": "2qc41rNTtdLK0tV3mJn2Pm"
+          }
+        ], 
+        "duration_ms": 205000, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "1AGrVPxLGLDIoSamuKvvYc"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/7rIwXFX7SXc8FVBMUnRIvJ/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 21, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/7rIwXFX7SXc8FVBMUnRIvJ", 
+  "copyrights": [
+    {
+      "text": "(C) 2001 UMG Recordings, Inc.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 2001 UMG Recordings, Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Ryan Adams", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+      }, 
+      "uri": "spotify:artist:2qc41rNTtdLK0tV3mJn2Pm", 
+      "href": "https://api.spotify.com/v1/artists/2qc41rNTtdLK0tV3mJn2Pm", 
+      "type": "artist", 
+      "id": "2qc41rNTtdLK0tV3mJn2Pm"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/6184d04b71730a8624bf3442d32b687891eecc15", 
+      "width": 640, 
+      "height": 634
+    }, 
+    {
+      "url": "https://i.scdn.co/image/e71b85a0a809a2d1fc517b49fe76f1ae1b6790cc", 
+      "width": 300, 
+      "height": 297
+    }, 
+    {
+      "url": "https://i.scdn.co/image/0569c68d59f07d0fdb5a2c6c9ce3b0be0517aad1", 
+      "width": 64, 
+      "height": 63
+    }
+  ], 
+  "external_ids": {
+    "upc": "00008817025223"
+  }, 
+  "type": "album", 
+  "id": "7rIwXFX7SXc8FVBMUnRIvJ", 
+  "name": "Gold"
+}

@@ -1,0 +1,403 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5b533EfxPpiYtk0MmilEJO"
+  }, 
+  "release_date": "1978-11-03", 
+  "popularity": 45, 
+  "genres": [], 
+  "uri": "spotify:album:5b533EfxPpiYtk0MmilEJO", 
+  "tracks": {
+    "items": [
+      {
+        "name": "All Mod Cons", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3nWfsi6YyZKyE2uG6qVfk9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3cc9341b38c67671ee9808e78c8dd32db632e4a9", 
+        "is_playable": true, 
+        "uri": "spotify:track:3nWfsi6YyZKyE2uG6qVfk9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3nWfsi6YyZKyE2uG6qVfk9", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 78973, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "3nWfsi6YyZKyE2uG6qVfk9"
+      }, 
+      {
+        "name": "To Be Someone (Didn't We Have A Nice Time)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5ehKz2wOGyb32YMzkEwpyj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8b92314dd597adb03f7eb512c15732d67b728e79", 
+        "is_playable": true, 
+        "uri": "spotify:track:5ehKz2wOGyb32YMzkEwpyj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5ehKz2wOGyb32YMzkEwpyj", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 148666, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "5ehKz2wOGyb32YMzkEwpyj"
+      }, 
+      {
+        "name": "Mr. Clean", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/31fJCLGP3yo8MaQYChtrKu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6421362225317122779c06de3a239b1a867e37cf", 
+        "is_playable": true, 
+        "uri": "spotify:track:31fJCLGP3yo8MaQYChtrKu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/31fJCLGP3yo8MaQYChtrKu", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 207666, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "31fJCLGP3yo8MaQYChtrKu"
+      }, 
+      {
+        "name": "David Watts", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6WVHNEzEwKOypiP7Gjn48G"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5a8d32c3016ba79e1df5cb3f9d8c15d9a6b3a09c", 
+        "is_playable": true, 
+        "uri": "spotify:track:6WVHNEzEwKOypiP7Gjn48G", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6WVHNEzEwKOypiP7Gjn48G", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 174920, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "6WVHNEzEwKOypiP7Gjn48G"
+      }, 
+      {
+        "name": "English Rose", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1sQJKC3jQkuMX1wvMgKcdE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4535ed5397567471c6a3c772972d345d46214606", 
+        "is_playable": true, 
+        "uri": "spotify:track:1sQJKC3jQkuMX1wvMgKcdE", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1sQJKC3jQkuMX1wvMgKcdE", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 169333, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "1sQJKC3jQkuMX1wvMgKcdE"
+      }, 
+      {
+        "name": "In The Crowd - Full Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2oRZoWdZbZSc2XVyOQzYsi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bb4b3da115704b44be9a5f4f00e5745b3805d986", 
+        "is_playable": true, 
+        "uri": "spotify:track:2oRZoWdZbZSc2XVyOQzYsi", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2oRZoWdZbZSc2XVyOQzYsi", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 339066, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "2oRZoWdZbZSc2XVyOQzYsi"
+      }, 
+      {
+        "name": "Billy Hunt", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4rh4EtoWn8PyPq7FDaiGyc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a281bf4bb4297565549613b7e3a2e3af874c3291", 
+        "is_playable": true, 
+        "uri": "spotify:track:4rh4EtoWn8PyPq7FDaiGyc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4rh4EtoWn8PyPq7FDaiGyc", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 180026, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "4rh4EtoWn8PyPq7FDaiGyc"
+      }, 
+      {
+        "name": "It's Too Bad", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0IFZgaRbPPrfNA16t429JK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d7fab2f81bd2afbc01c357393cd99084fa9a13ed", 
+        "is_playable": true, 
+        "uri": "spotify:track:0IFZgaRbPPrfNA16t429JK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0IFZgaRbPPrfNA16t429JK", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 155533, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "0IFZgaRbPPrfNA16t429JK"
+      }, 
+      {
+        "name": "Fly", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1iZGo3IoHDbRSXnMHHHZFV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5ddf54c111bb833e3b3af93e9005535e325a37b7", 
+        "is_playable": true, 
+        "uri": "spotify:track:1iZGo3IoHDbRSXnMHHHZFV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1iZGo3IoHDbRSXnMHHHZFV", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 199226, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "1iZGo3IoHDbRSXnMHHHZFV"
+      }, 
+      {
+        "name": "The Place I Love", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1SSCTLczoQhA9l7Bytz9kl"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fbaa4d9a0b7aba2a9c34423bb7be9ad3893a90f3", 
+        "is_playable": true, 
+        "uri": "spotify:track:1SSCTLczoQhA9l7Bytz9kl", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1SSCTLczoQhA9l7Bytz9kl", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 172466, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "1SSCTLczoQhA9l7Bytz9kl"
+      }, 
+      {
+        "name": "'A' Bomb In Wardour Street", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5MnB2wiZ9xTu4eptzP3CRg"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b9bdb82151703c5f0593aa714d13356fec3f2790", 
+        "is_playable": true, 
+        "uri": "spotify:track:5MnB2wiZ9xTu4eptzP3CRg", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5MnB2wiZ9xTu4eptzP3CRg", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 156933, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "5MnB2wiZ9xTu4eptzP3CRg"
+      }, 
+      {
+        "name": "Down In The Tube Station At Midnight - Full Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4NtmaDFb2gT2MyYVtnK1sq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/76a6c79901f846b9d526ab40165f5dc319c6d95e", 
+        "is_playable": true, 
+        "uri": "spotify:track:4NtmaDFb2gT2MyYVtnK1sq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4NtmaDFb2gT2MyYVtnK1sq", 
+        "artists": [
+          {
+            "name": "The Jam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+            }, 
+            "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+            "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+            "type": "artist", 
+            "id": "2P560DaOMNDUACoH8ZhOCR"
+          }
+        ], 
+        "duration_ms": 283093, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "4NtmaDFb2gT2MyYVtnK1sq"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/5b533EfxPpiYtk0MmilEJO/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 12, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/5b533EfxPpiYtk0MmilEJO", 
+  "copyrights": [
+    {
+      "text": "(C) 1997 Polydor Ltd. (UK)", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1978 Polydor Ltd. (UK)", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "The Jam", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+      }, 
+      "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR", 
+      "href": "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR", 
+      "type": "artist", 
+      "id": "2P560DaOMNDUACoH8ZhOCR"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/276395623e1a7552178d4c1e11b8296fe3756a0c", 
+      "width": 640, 
+      "height": 634
+    }, 
+    {
+      "url": "https://i.scdn.co/image/c5cbaad65dcd4bce2bd1c629b7adc6218281b319", 
+      "width": 300, 
+      "height": 297
+    }, 
+    {
+      "url": "https://i.scdn.co/image/e8a94a014ae91bff8cc48e5444285d8505207c08", 
+      "width": 64, 
+      "height": 63
+    }
+  ], 
+  "external_ids": {
+    "upc": "00731453741928"
+  }, 
+  "type": "album", 
+  "id": "5b533EfxPpiYtk0MmilEJO", 
+  "name": "All Mod Cons (Remastered Version)"
+}

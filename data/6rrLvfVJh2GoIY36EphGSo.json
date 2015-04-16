@@ -1,0 +1,647 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6rrLvfVJh2GoIY36EphGSo"
+  }, 
+  "release_date": "2008-03-31", 
+  "popularity": 61, 
+  "genres": [], 
+  "uri": "spotify:album:6rrLvfVJh2GoIY36EphGSo", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Gangsters", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/60bZSbsw5fFuwMZDIXLm9J"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/83946929298a736d3925a57664fb30bb5a0a5e0f", 
+        "is_playable": true, 
+        "uri": "spotify:track:60bZSbsw5fFuwMZDIXLm9J", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/60bZSbsw5fFuwMZDIXLm9J", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 169440, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "60bZSbsw5fFuwMZDIXLm9J"
+      }, 
+      {
+        "name": "A Message to You Rudy - 2002 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2EwEtZrsBpjLmwhe7GCGhs"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/539fce0f537104936d8d3dd79e057171bc83f83a", 
+        "is_playable": true, 
+        "uri": "spotify:track:2EwEtZrsBpjLmwhe7GCGhs", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2EwEtZrsBpjLmwhe7GCGhs", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 172706, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "2EwEtZrsBpjLmwhe7GCGhs"
+      }, 
+      {
+        "name": "Nite Klub - Feat. Rico; 2002 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1ADrj5L4UScxNpaMRn248l"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/eb8e634d593ee337cf6c44d9283c1ebb8cf211a2", 
+        "is_playable": true, 
+        "uri": "spotify:track:1ADrj5L4UScxNpaMRn248l", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1ADrj5L4UScxNpaMRn248l", 
+        "artists": [
+          {
+            "name": "The Specials Featuring Rico", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1ny7bo68axVIoSvre7IHzu"
+            }, 
+            "uri": "spotify:artist:1ny7bo68axVIoSvre7IHzu", 
+            "href": "https://api.spotify.com/v1/artists/1ny7bo68axVIoSvre7IHzu", 
+            "type": "artist", 
+            "id": "1ny7bo68axVIoSvre7IHzu"
+          }
+        ], 
+        "duration_ms": 202986, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "1ADrj5L4UScxNpaMRn248l"
+      }, 
+      {
+        "name": "Concrete Jungle - 2002 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7jxrEEs4P6vqxzOq9MG7RF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/069da30584752bbcee05685ea98917e62440021e", 
+        "is_playable": true, 
+        "uri": "spotify:track:7jxrEEs4P6vqxzOq9MG7RF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7jxrEEs4P6vqxzOq9MG7RF", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 199000, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "7jxrEEs4P6vqxzOq9MG7RF"
+      }, 
+      {
+        "name": "Too Much Too Young - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6dAPDUcin8fkAmemnzVxbz"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7fc8e5d8b8cfc075baa6695835cf05ea352e090c", 
+        "is_playable": true, 
+        "uri": "spotify:track:6dAPDUcin8fkAmemnzVxbz", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6dAPDUcin8fkAmemnzVxbz", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 126000, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "6dAPDUcin8fkAmemnzVxbz"
+      }, 
+      {
+        "name": "Blank Expression - 2002 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4IlX36JlEzp74uYRAsP3AG"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/404c3ac65663c926002d8744d20c5d3ccd7cc475", 
+        "is_playable": true, 
+        "uri": "spotify:track:4IlX36JlEzp74uYRAsP3AG", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4IlX36JlEzp74uYRAsP3AG", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 164440, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "4IlX36JlEzp74uYRAsP3AG"
+      }, 
+      {
+        "name": "Doesn't Make It Alright - 2002 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1f47QCVFgmVwiLy4NAhv3L"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/57c7ff5915dea5110cc004de71135ebfe7d1dd93", 
+        "is_playable": true, 
+        "uri": "spotify:track:1f47QCVFgmVwiLy4NAhv3L", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1f47QCVFgmVwiLy4NAhv3L", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 207933, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "1f47QCVFgmVwiLy4NAhv3L"
+      }, 
+      {
+        "name": "Rude Boys Outa Jail", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3BC1w99O2lRvpZNYCIhpCP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ba582f22028133d4b64ea84cda465408334d19a4", 
+        "is_playable": true, 
+        "uri": "spotify:track:3BC1w99O2lRvpZNYCIhpCP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3BC1w99O2lRvpZNYCIhpCP", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 160920, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "3BC1w99O2lRvpZNYCIhpCP"
+      }, 
+      {
+        "name": "Rat Race", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0qjc0UFFbsYiAmZU6TOGwJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/57a15c9b94fb7a33afadd92e9840a025679b8603", 
+        "is_playable": true, 
+        "uri": "spotify:track:0qjc0UFFbsYiAmZU6TOGwJ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0qjc0UFFbsYiAmZU6TOGwJ", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 190426, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "0qjc0UFFbsYiAmZU6TOGwJ"
+      }, 
+      {
+        "name": "Man At C&A - 2002 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0YX0PvGDTrGfYqUPUlSHp7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1917adb8babba53d1b4921c8c7aac48c6093fb11", 
+        "is_playable": true, 
+        "uri": "spotify:track:0YX0PvGDTrGfYqUPUlSHp7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0YX0PvGDTrGfYqUPUlSHp7", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 218813, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "0YX0PvGDTrGfYqUPUlSHp7"
+      }, 
+      {
+        "name": "Do Nothing (feat. Rico with The Ice Rink String Sounds)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2HOzSYR0WoJjAhL2khN9Iy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/be26e627da9226b2140f51d746f13b87f9eac5ce", 
+        "is_playable": true, 
+        "uri": "spotify:track:2HOzSYR0WoJjAhL2khN9Iy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2HOzSYR0WoJjAhL2khN9Iy", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }, 
+          {
+            "name": "Rico", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6DwzHek5dCcuLoa9HGotoG"
+            }, 
+            "uri": "spotify:artist:6DwzHek5dCcuLoa9HGotoG", 
+            "href": "https://api.spotify.com/v1/artists/6DwzHek5dCcuLoa9HGotoG", 
+            "type": "artist", 
+            "id": "6DwzHek5dCcuLoa9HGotoG"
+          }, 
+          {
+            "name": "The Ice Rink String Sounds", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0MFpM17q3IFYIU2339PnOm"
+            }, 
+            "uri": "spotify:artist:0MFpM17q3IFYIU2339PnOm", 
+            "href": "https://api.spotify.com/v1/artists/0MFpM17q3IFYIU2339PnOm", 
+            "type": "artist", 
+            "id": "0MFpM17q3IFYIU2339PnOm"
+          }
+        ], 
+        "duration_ms": 221253, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "2HOzSYR0WoJjAhL2khN9Iy"
+      }, 
+      {
+        "name": "Stereotype/Stereotypes (Part 2) [Medley] - 2002 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7bYdqhUnT0nG9yOAKTeztY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b43f4ab6844c710c70d5ea74dce88544d4460f00", 
+        "is_playable": true, 
+        "uri": "spotify:track:7bYdqhUnT0nG9yOAKTeztY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7bYdqhUnT0nG9yOAKTeztY", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 446013, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "7bYdqhUnT0nG9yOAKTeztY"
+      }, 
+      {
+        "name": "International Jet Set - 2002 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2iei7KhQdhTuFboHA4D9F3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/90794b6056d79b0dd63ca00f3cd9d3c36d076d52", 
+        "is_playable": true, 
+        "uri": "spotify:track:2iei7KhQdhTuFboHA4D9F3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2iei7KhQdhTuFboHA4D9F3", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 340333, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "2iei7KhQdhTuFboHA4D9F3"
+      }, 
+      {
+        "name": "Friday Night, Saturday Morning", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1l2YNt9VZPObHdpGkCfghM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4c7b8575f05420fe3728a55cdb0b9dff07df565e", 
+        "is_playable": true, 
+        "uri": "spotify:track:1l2YNt9VZPObHdpGkCfghM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1l2YNt9VZPObHdpGkCfghM", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 214320, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "1l2YNt9VZPObHdpGkCfghM"
+      }, 
+      {
+        "name": "Why? - Edit", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2qyr0VXgIiDuTXW3PKKHcB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3ea0c26bc8f8970550f2b3641c979921945b8e04", 
+        "is_playable": true, 
+        "uri": "spotify:track:2qyr0VXgIiDuTXW3PKKHcB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2qyr0VXgIiDuTXW3PKKHcB", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 176266, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "2qyr0VXgIiDuTXW3PKKHcB"
+      }, 
+      {
+        "name": "Ghost Town - Extended Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5jSQJ9n4kScujfTwDEtyC2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bad3c252c092be6cc6db7008a152475bd12c8dd1", 
+        "is_playable": true, 
+        "uri": "spotify:track:5jSQJ9n4kScujfTwDEtyC2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5jSQJ9n4kScujfTwDEtyC2", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 361226, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "5jSQJ9n4kScujfTwDEtyC2"
+      }, 
+      {
+        "name": "What I Like Most About You Is Your Girlfriend - 2002 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Q3GumaecSMEaiT2tlmAdK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b8965ea3302828ad455791e695b906996392224a", 
+        "is_playable": true, 
+        "uri": "spotify:track:4Q3GumaecSMEaiT2tlmAdK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4Q3GumaecSMEaiT2tlmAdK", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 292213, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "4Q3GumaecSMEaiT2tlmAdK"
+      }, 
+      {
+        "name": "Racist Friend", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Bi99HivSjpNRLxcbPyd1p"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b51912d1ab9cd15c9057efcd0c3b61cceb349bfa", 
+        "is_playable": true, 
+        "uri": "spotify:track:0Bi99HivSjpNRLxcbPyd1p", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0Bi99HivSjpNRLxcbPyd1p", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 243773, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "0Bi99HivSjpNRLxcbPyd1p"
+      }, 
+      {
+        "name": "War Crimes (The Crime Remains The Same) - Edit", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/23LI2xWsYXMaCBt7jZQF8N"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/552cf0983c6b2912962c4473e8e82480fb606276", 
+        "is_playable": true, 
+        "uri": "spotify:track:23LI2xWsYXMaCBt7jZQF8N", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/23LI2xWsYXMaCBt7jZQF8N", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 243413, 
+        "track_number": 19, 
+        "type": "track", 
+        "id": "23LI2xWsYXMaCBt7jZQF8N"
+      }, 
+      {
+        "name": "Nelson Mandela - 2002 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/57mY4qUaUegA3jvoyoz7oT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/792229621a1aa536daa1430736f66daed2607924", 
+        "is_playable": true, 
+        "uri": "spotify:track:57mY4qUaUegA3jvoyoz7oT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/57mY4qUaUegA3jvoyoz7oT", 
+        "artists": [
+          {
+            "name": "The Specials", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+            }, 
+            "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+            "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+            "type": "artist", 
+            "id": "6xnvNmSzmeOE1bLKnYXKW3"
+          }
+        ], 
+        "duration_ms": 257320, 
+        "track_number": 20, 
+        "type": "track", 
+        "id": "57mY4qUaUegA3jvoyoz7oT"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/6rrLvfVJh2GoIY36EphGSo/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 20, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/6rrLvfVJh2GoIY36EphGSo", 
+  "copyrights": [
+    {
+      "text": "2008 Parlophone Records Ltd, a Warner Music Group Company", 
+      "type": "C"
+    }, 
+    {
+      "text": "2008 Parlophone Records Ltd, a Warner Music Group Company", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "The Specials", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+      }, 
+      "uri": "spotify:artist:6xnvNmSzmeOE1bLKnYXKW3", 
+      "href": "https://api.spotify.com/v1/artists/6xnvNmSzmeOE1bLKnYXKW3", 
+      "type": "artist", 
+      "id": "6xnvNmSzmeOE1bLKnYXKW3"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/56a3607f238fa0a64a6399aff1a41c1b1250cfab", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/02da020754ae0557b17cc9ef03ac4e64bbf5e8c2", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/9f888f471ffec505b1d4728faf967bc17d266584", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "5099952039850"
+  }, 
+  "type": "album", 
+  "id": "6rrLvfVJh2GoIY36EphGSo", 
+  "name": "The Best Of The Specials"
+}

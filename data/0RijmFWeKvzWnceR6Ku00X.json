@@ -1,0 +1,375 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0RijmFWeKvzWnceR6Ku00X"
+  }, 
+  "release_date": "1974", 
+  "popularity": 44, 
+  "genres": [], 
+  "uri": "spotify:album:0RijmFWeKvzWnceR6Ku00X", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Rikki Don't Lose That Number", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/028NYvJAD47k4iGSlpT2zy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c843fc528759967946f6a58a0eb9ddc062d6f144", 
+        "is_playable": true, 
+        "uri": "spotify:track:028NYvJAD47k4iGSlpT2zy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/028NYvJAD47k4iGSlpT2zy", 
+        "artists": [
+          {
+            "name": "Steely Dan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+            }, 
+            "uri": "spotify:artist:6P7H3ai06vU1sGvdpBwDmE", 
+            "href": "https://api.spotify.com/v1/artists/6P7H3ai06vU1sGvdpBwDmE", 
+            "type": "artist", 
+            "id": "6P7H3ai06vU1sGvdpBwDmE"
+          }
+        ], 
+        "duration_ms": 272626, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "028NYvJAD47k4iGSlpT2zy"
+      }, 
+      {
+        "name": "Night By Night", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/387xCi3DjJ8NRBhbRNPns2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5516539c61036f332a9924449101a98ffd81ebf6", 
+        "is_playable": true, 
+        "uri": "spotify:track:387xCi3DjJ8NRBhbRNPns2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/387xCi3DjJ8NRBhbRNPns2", 
+        "artists": [
+          {
+            "name": "Steely Dan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+            }, 
+            "uri": "spotify:artist:6P7H3ai06vU1sGvdpBwDmE", 
+            "href": "https://api.spotify.com/v1/artists/6P7H3ai06vU1sGvdpBwDmE", 
+            "type": "artist", 
+            "id": "6P7H3ai06vU1sGvdpBwDmE"
+          }
+        ], 
+        "duration_ms": 220013, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "387xCi3DjJ8NRBhbRNPns2"
+      }, 
+      {
+        "name": "Any Major Dude Will Tell You", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7bTzJfz5RQajc7497JzWQZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9b4db2355303e2e05dd99512e874eac4369eafe0", 
+        "is_playable": true, 
+        "uri": "spotify:track:7bTzJfz5RQajc7497JzWQZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7bTzJfz5RQajc7497JzWQZ", 
+        "artists": [
+          {
+            "name": "Steely Dan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+            }, 
+            "uri": "spotify:artist:6P7H3ai06vU1sGvdpBwDmE", 
+            "href": "https://api.spotify.com/v1/artists/6P7H3ai06vU1sGvdpBwDmE", 
+            "type": "artist", 
+            "id": "6P7H3ai06vU1sGvdpBwDmE"
+          }
+        ], 
+        "duration_ms": 188146, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "7bTzJfz5RQajc7497JzWQZ"
+      }, 
+      {
+        "name": "Barrytown", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/43CglHtTHHH3UuWqOVY4FI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fc0da515cc0bdbaa7739d28504dc2b61d3caf802", 
+        "is_playable": true, 
+        "uri": "spotify:track:43CglHtTHHH3UuWqOVY4FI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/43CglHtTHHH3UuWqOVY4FI", 
+        "artists": [
+          {
+            "name": "Steely Dan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+            }, 
+            "uri": "spotify:artist:6P7H3ai06vU1sGvdpBwDmE", 
+            "href": "https://api.spotify.com/v1/artists/6P7H3ai06vU1sGvdpBwDmE", 
+            "type": "artist", 
+            "id": "6P7H3ai06vU1sGvdpBwDmE"
+          }
+        ], 
+        "duration_ms": 202200, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "43CglHtTHHH3UuWqOVY4FI"
+      }, 
+      {
+        "name": "East St. Louis Toodle-Oo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1hS9TNVtYzohwuEl6t2LtM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d726b21ee363584d74862faca0dbb4f12f04dd4b", 
+        "is_playable": true, 
+        "uri": "spotify:track:1hS9TNVtYzohwuEl6t2LtM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1hS9TNVtYzohwuEl6t2LtM", 
+        "artists": [
+          {
+            "name": "Steely Dan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+            }, 
+            "uri": "spotify:artist:6P7H3ai06vU1sGvdpBwDmE", 
+            "href": "https://api.spotify.com/v1/artists/6P7H3ai06vU1sGvdpBwDmE", 
+            "type": "artist", 
+            "id": "6P7H3ai06vU1sGvdpBwDmE"
+          }
+        ], 
+        "duration_ms": 169600, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "1hS9TNVtYzohwuEl6t2LtM"
+      }, 
+      {
+        "name": "Parker's Band", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2FLnEevzci0hIXtIwJsqEQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d3424bd6ae567ff0bd278f04dc84691f94a7fe86", 
+        "is_playable": true, 
+        "uri": "spotify:track:2FLnEevzci0hIXtIwJsqEQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2FLnEevzci0hIXtIwJsqEQ", 
+        "artists": [
+          {
+            "name": "Steely Dan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+            }, 
+            "uri": "spotify:artist:6P7H3ai06vU1sGvdpBwDmE", 
+            "href": "https://api.spotify.com/v1/artists/6P7H3ai06vU1sGvdpBwDmE", 
+            "type": "artist", 
+            "id": "6P7H3ai06vU1sGvdpBwDmE"
+          }
+        ], 
+        "duration_ms": 165146, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "2FLnEevzci0hIXtIwJsqEQ"
+      }, 
+      {
+        "name": "Through With Buzz", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3qRcP3wwYClW7FIC6It51i"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/57a23faa42d30a7e34aa7fd7e63120c14fbbf926", 
+        "is_playable": true, 
+        "uri": "spotify:track:3qRcP3wwYClW7FIC6It51i", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3qRcP3wwYClW7FIC6It51i", 
+        "artists": [
+          {
+            "name": "Steely Dan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+            }, 
+            "uri": "spotify:artist:6P7H3ai06vU1sGvdpBwDmE", 
+            "href": "https://api.spotify.com/v1/artists/6P7H3ai06vU1sGvdpBwDmE", 
+            "type": "artist", 
+            "id": "6P7H3ai06vU1sGvdpBwDmE"
+          }
+        ], 
+        "duration_ms": 94080, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "3qRcP3wwYClW7FIC6It51i"
+      }, 
+      {
+        "name": "Pretzel Logic", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1iT3WVxV3fEeOzZZDHnipd"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a4c88579ba1045fcf54cc732e98583436186bd35", 
+        "is_playable": true, 
+        "uri": "spotify:track:1iT3WVxV3fEeOzZZDHnipd", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1iT3WVxV3fEeOzZZDHnipd", 
+        "artists": [
+          {
+            "name": "Steely Dan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+            }, 
+            "uri": "spotify:artist:6P7H3ai06vU1sGvdpBwDmE", 
+            "href": "https://api.spotify.com/v1/artists/6P7H3ai06vU1sGvdpBwDmE", 
+            "type": "artist", 
+            "id": "6P7H3ai06vU1sGvdpBwDmE"
+          }
+        ], 
+        "duration_ms": 272640, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "1iT3WVxV3fEeOzZZDHnipd"
+      }, 
+      {
+        "name": "With A Gun", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2u9jtYutIh7yuLyCeC5WtC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/eecba58598075526f691ffcac76e8c9da414c56f", 
+        "is_playable": true, 
+        "uri": "spotify:track:2u9jtYutIh7yuLyCeC5WtC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2u9jtYutIh7yuLyCeC5WtC", 
+        "artists": [
+          {
+            "name": "Steely Dan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+            }, 
+            "uri": "spotify:artist:6P7H3ai06vU1sGvdpBwDmE", 
+            "href": "https://api.spotify.com/v1/artists/6P7H3ai06vU1sGvdpBwDmE", 
+            "type": "artist", 
+            "id": "6P7H3ai06vU1sGvdpBwDmE"
+          }
+        ], 
+        "duration_ms": 138786, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "2u9jtYutIh7yuLyCeC5WtC"
+      }, 
+      {
+        "name": "Charlie Freak", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0UCKr3kCC4iaptbcyxHLeu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/11f14cb9fb8ad474f5b0daaa82853f6a46986793", 
+        "is_playable": true, 
+        "uri": "spotify:track:0UCKr3kCC4iaptbcyxHLeu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0UCKr3kCC4iaptbcyxHLeu", 
+        "artists": [
+          {
+            "name": "Steely Dan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+            }, 
+            "uri": "spotify:artist:6P7H3ai06vU1sGvdpBwDmE", 
+            "href": "https://api.spotify.com/v1/artists/6P7H3ai06vU1sGvdpBwDmE", 
+            "type": "artist", 
+            "id": "6P7H3ai06vU1sGvdpBwDmE"
+          }
+        ], 
+        "duration_ms": 164853, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "0UCKr3kCC4iaptbcyxHLeu"
+      }, 
+      {
+        "name": "Monkey In Your Soul", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3ifua7MggsEVtqSV1z3LT7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/785b28509386398659d43c028ab6c162d7f339de", 
+        "is_playable": true, 
+        "uri": "spotify:track:3ifua7MggsEVtqSV1z3LT7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3ifua7MggsEVtqSV1z3LT7", 
+        "artists": [
+          {
+            "name": "Steely Dan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+            }, 
+            "uri": "spotify:artist:6P7H3ai06vU1sGvdpBwDmE", 
+            "href": "https://api.spotify.com/v1/artists/6P7H3ai06vU1sGvdpBwDmE", 
+            "type": "artist", 
+            "id": "6P7H3ai06vU1sGvdpBwDmE"
+          }
+        ], 
+        "duration_ms": 158706, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "3ifua7MggsEVtqSV1z3LT7"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/0RijmFWeKvzWnceR6Ku00X/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 11, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/0RijmFWeKvzWnceR6Ku00X", 
+  "copyrights": [
+    {
+      "text": "(C) 1974 MCA Records Inc.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1974 UMG Recordings, Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Steely Dan", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+      }, 
+      "uri": "spotify:artist:6P7H3ai06vU1sGvdpBwDmE", 
+      "href": "https://api.spotify.com/v1/artists/6P7H3ai06vU1sGvdpBwDmE", 
+      "type": "artist", 
+      "id": "6P7H3ai06vU1sGvdpBwDmE"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/5492401a2abbca8830fa1c34faabd9ba6db0e977", 
+      "width": 638, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/0e2df1a41846f31cf7ec7d723a675b095ed3e958", 
+      "width": 299, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/cd6116910dcd88a3247d2bae8a462ee888a5b046", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00008811191726"
+  }, 
+  "type": "album", 
+  "id": "0RijmFWeKvzWnceR6Ku00X", 
+  "name": "Pretzel Logic"
+}

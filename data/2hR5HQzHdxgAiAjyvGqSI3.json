@@ -1,0 +1,627 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2hR5HQzHdxgAiAjyvGqSI3"
+  }, 
+  "release_date": "2001", 
+  "popularity": 34, 
+  "genres": [], 
+  "uri": "spotify:album:2hR5HQzHdxgAiAjyvGqSI3", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Days Of Graduation", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6ymN6wYd2sMx1hYtQ4hGgp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1d656b3c02cd78fffcffda73f0c7c87522b4d132", 
+        "is_playable": true, 
+        "uri": "spotify:track:6ymN6wYd2sMx1hYtQ4hGgp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6ymN6wYd2sMx1hYtQ4hGgp", 
+        "artists": [
+          {
+            "name": "Drive-By Truckers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v"
+            }, 
+            "uri": "spotify:artist:1rXr1ZnvbRoYBaedIl9v4v", 
+            "href": "https://api.spotify.com/v1/artists/1rXr1ZnvbRoYBaedIl9v4v", 
+            "type": "artist", 
+            "id": "1rXr1ZnvbRoYBaedIl9v4v"
+          }
+        ], 
+        "duration_ms": 156733, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "6ymN6wYd2sMx1hYtQ4hGgp"
+      }, 
+      {
+        "name": "Ronnie And Neil", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6lsXoGv4XDN5JQCvsAz1P1"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/52f7ff10c8ff0c89c228d7cb5cb61950241eed63", 
+        "is_playable": true, 
+        "uri": "spotify:track:6lsXoGv4XDN5JQCvsAz1P1", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6lsXoGv4XDN5JQCvsAz1P1", 
+        "artists": [
+          {
+            "name": "Drive-By Truckers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v"
+            }, 
+            "uri": "spotify:artist:1rXr1ZnvbRoYBaedIl9v4v", 
+            "href": "https://api.spotify.com/v1/artists/1rXr1ZnvbRoYBaedIl9v4v", 
+            "type": "artist", 
+            "id": "1rXr1ZnvbRoYBaedIl9v4v"
+          }
+        ], 
+        "duration_ms": 292826, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "6lsXoGv4XDN5JQCvsAz1P1"
+      }, 
+      {
+        "name": "72 (This Highway's Mean)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1lUlhujyfm7HlW8gCCSvT0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5f166ec29e98bdef21528d7bcaf0321e8fb5a5b8", 
+        "is_playable": true, 
+        "uri": "spotify:track:1lUlhujyfm7HlW8gCCSvT0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1lUlhujyfm7HlW8gCCSvT0", 
+        "artists": [
+          {
+            "name": "Drive-By Truckers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v"
+            }, 
+            "uri": "spotify:artist:1rXr1ZnvbRoYBaedIl9v4v", 
+            "href": "https://api.spotify.com/v1/artists/1rXr1ZnvbRoYBaedIl9v4v", 
+            "type": "artist", 
+            "id": "1rXr1ZnvbRoYBaedIl9v4v"
+          }
+        ], 
+        "duration_ms": 326773, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "1lUlhujyfm7HlW8gCCSvT0"
+      }, 
+      {
+        "name": "Dead, Drunk And Naked", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/28dS1MFj542FHZFjN10d8h"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f08942897688011d43a1a4c1120bc5ec3cc86453", 
+        "is_playable": true, 
+        "uri": "spotify:track:28dS1MFj542FHZFjN10d8h", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/28dS1MFj542FHZFjN10d8h", 
+        "artists": [
+          {
+            "name": "Drive-By Truckers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v"
+            }, 
+            "uri": "spotify:artist:1rXr1ZnvbRoYBaedIl9v4v", 
+            "href": "https://api.spotify.com/v1/artists/1rXr1ZnvbRoYBaedIl9v4v", 
+            "type": "artist", 
+            "id": "1rXr1ZnvbRoYBaedIl9v4v"
+          }
+        ], 
+        "duration_ms": 291266, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "28dS1MFj542FHZFjN10d8h"
+      }, 
+      {
+        "name": "Guitar Man Upstairs", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1a8zSDAGooRayrSQEBAvmJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d709d7cedd8ca7af332f670febee1f6159e449e4", 
+        "is_playable": true, 
+        "uri": "spotify:track:1a8zSDAGooRayrSQEBAvmJ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1a8zSDAGooRayrSQEBAvmJ", 
+        "artists": [
+          {
+            "name": "Drive-By Truckers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v"
+            }, 
+            "uri": "spotify:artist:1rXr1ZnvbRoYBaedIl9v4v", 
+            "href": "https://api.spotify.com/v1/artists/1rXr1ZnvbRoYBaedIl9v4v", 
+            "type": "artist", 
+            "id": "1rXr1ZnvbRoYBaedIl9v4v"
+          }
+        ], 
+        "duration_ms": 197090, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "1a8zSDAGooRayrSQEBAvmJ"
+      }, 
+      {
+        "name": "Birmingham", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5ZhmYqzgJQg4yyCAZoHKZa"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b40db78010bb82cbd1bcc44d8a66b630b50073ec", 
+        "is_playable": true, 
+        "uri": "spotify:track:5ZhmYqzgJQg4yyCAZoHKZa", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5ZhmYqzgJQg4yyCAZoHKZa", 
+        "artists": [
+          {
+            "name": "Drive-By Truckers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v"
+            }, 
+            "uri": "spotify:artist:1rXr1ZnvbRoYBaedIl9v4v", 
+            "href": "https://api.spotify.com/v1/artists/1rXr1ZnvbRoYBaedIl9v4v", 
+            "type": "artist", 
+            "id": "1rXr1ZnvbRoYBaedIl9v4v"
+          }
+        ], 
+        "duration_ms": 303440, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "5ZhmYqzgJQg4yyCAZoHKZa"
+      }, 
+      {
+        "name": "The Southern Thing", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0cBjeFZuhgB5NhA8FJdZqh"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4b80c374adcac348cbd27c505d2a60aa4a870af9", 
+        "is_playable": true, 
+        "uri": "spotify:track:0cBjeFZuhgB5NhA8FJdZqh", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0cBjeFZuhgB5NhA8FJdZqh", 
+        "artists": [
+          {
+            "name": "Drive-By Truckers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v"
+            }, 
+            "uri": "spotify:artist:1rXr1ZnvbRoYBaedIl9v4v", 
+            "href": "https://api.spotify.com/v1/artists/1rXr1ZnvbRoYBaedIl9v4v", 
+            "type": "artist", 
+            "id": "1rXr1ZnvbRoYBaedIl9v4v"
+          }
+        ], 
+        "duration_ms": 308760, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "0cBjeFZuhgB5NhA8FJdZqh"
+      }, 
+      {
+        "name": "Three Great Alabama Icons", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/57zw4Pp3pRz96t32RgNXMc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/75f83f402524dee8497f1c4337de6fcbc6f7d33a", 
+        "is_playable": true, 
+        "uri": "spotify:track:57zw4Pp3pRz96t32RgNXMc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/57zw4Pp3pRz96t32RgNXMc", 
+        "artists": [
+          {
+            "name": "Drive-By Truckers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v"
+            }, 
+            "uri": "spotify:artist:1rXr1ZnvbRoYBaedIl9v4v", 
+            "href": "https://api.spotify.com/v1/artists/1rXr1ZnvbRoYBaedIl9v4v", 
+            "type": "artist", 
+            "id": "1rXr1ZnvbRoYBaedIl9v4v"
+          }
+        ], 
+        "duration_ms": 411600, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "57zw4Pp3pRz96t32RgNXMc"
+      }, 
+      {
+        "name": "Wallace", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/77i0hCtypWuyrWmJYR0tYa"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d04d78a3216b1e4c382c04d1d3fccf7cb43f0ded", 
+        "is_playable": true, 
+        "uri": "spotify:track:77i0hCtypWuyrWmJYR0tYa", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/77i0hCtypWuyrWmJYR0tYa", 
+        "artists": [
+          {
+            "name": "Drive-By Truckers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v"
+            }, 
+            "uri": "spotify:artist:1rXr1ZnvbRoYBaedIl9v4v", 
+            "href": "https://api.spotify.com/v1/artists/1rXr1ZnvbRoYBaedIl9v4v", 
+            "type": "artist", 
+            "id": "1rXr1ZnvbRoYBaedIl9v4v"
+          }
+        ], 
+        "duration_ms": 207133, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "77i0hCtypWuyrWmJYR0tYa"
+      }, 
+      {
+        "name": "Zip City", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0oNUTjABBOkyISQ43lknMP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/84a7a20fb8441b062c3bad4763447ed60cf2c329", 
+        "is_playable": true, 
+        "uri": "spotify:track:0oNUTjABBOkyISQ43lknMP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0oNUTjABBOkyISQ43lknMP", 
+        "artists": [
+          {
+            "name": "Drive-By Truckers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v"
+            }, 
+            "uri": "spotify:artist:1rXr1ZnvbRoYBaedIl9v4v", 
+            "href": "https://api.spotify.com/v1/artists/1rXr1ZnvbRoYBaedIl9v4v", 
+            "type": "artist", 
+            "id": "1rXr1ZnvbRoYBaedIl9v4v"
+          }
+        ], 
+        "duration_ms": 316933, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "0oNUTjABBOkyISQ43lknMP"
+      }, 
+      {
+        "name": "Moved", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0gsa9zQ4wYqyovXyeoeKsK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b1173e70a295048072fd29756b5587ad14492ec5", 
+        "is_playable": true, 
+        "uri": "spotify:track:0gsa9zQ4wYqyovXyeoeKsK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0gsa9zQ4wYqyovXyeoeKsK", 
+        "artists": [
+          {
+            "name": "Drive-By Truckers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v"
+            }, 
+            "uri": "spotify:artist:1rXr1ZnvbRoYBaedIl9v4v", 
+            "href": "https://api.spotify.com/v1/artists/1rXr1ZnvbRoYBaedIl9v4v", 
+            "type": "artist", 
+            "id": "1rXr1ZnvbRoYBaedIl9v4v"
+          }
+        ], 
+        "duration_ms": 257666, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "0gsa9zQ4wYqyovXyeoeKsK"
+      }, 
+      {
+        "name": "Let There Be Rock", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5T6kltxy4JFNBeQLrzS3yR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b22633eff89c48c0200cfd7b67e60ef448a9ef77", 
+        "is_playable": true, 
+        "uri": "spotify:track:5T6kltxy4JFNBeQLrzS3yR", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5T6kltxy4JFNBeQLrzS3yR", 
+        "artists": [
+          {
+            "name": "Drive-By Truckers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v"
+            }, 
+            "uri": "spotify:artist:1rXr1ZnvbRoYBaedIl9v4v", 
+            "href": "https://api.spotify.com/v1/artists/1rXr1ZnvbRoYBaedIl9v4v", 
+            "type": "artist", 
+            "id": "1rXr1ZnvbRoYBaedIl9v4v"
+          }
+        ], 
+        "duration_ms": 259026, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "5T6kltxy4JFNBeQLrzS3yR"
+      }, 
+      {
+        "name": "Road Cases", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/73S5AOKHjVZCEWeRLGNOG5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b378470242997343e9d6ad570f815e51874caad3", 
+        "is_playable": true, 
+        "uri": "spotify:track:73S5AOKHjVZCEWeRLGNOG5", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/73S5AOKHjVZCEWeRLGNOG5", 
+        "artists": [
+          {
+            "name": "Drive-By Truckers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v"
+            }, 
+            "uri": "spotify:artist:1rXr1ZnvbRoYBaedIl9v4v", 
+            "href": "https://api.spotify.com/v1/artists/1rXr1ZnvbRoYBaedIl9v4v", 
+            "type": "artist", 
+            "id": "1rXr1ZnvbRoYBaedIl9v4v"
+          }
+        ], 
+        "duration_ms": 162800, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "73S5AOKHjVZCEWeRLGNOG5"
+      }, 
+      {
+        "name": "Women Without Whiskey", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5TlxnafJmxEkxCVCQfKJIE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9556124a98ea841688a0b1b291813596c4e9d237", 
+        "is_playable": true, 
+        "uri": "spotify:track:5TlxnafJmxEkxCVCQfKJIE", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5TlxnafJmxEkxCVCQfKJIE", 
+        "artists": [
+          {
+            "name": "Drive-By Truckers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v"
+            }, 
+            "uri": "spotify:artist:1rXr1ZnvbRoYBaedIl9v4v", 
+            "href": "https://api.spotify.com/v1/artists/1rXr1ZnvbRoYBaedIl9v4v", 
+            "type": "artist", 
+            "id": "1rXr1ZnvbRoYBaedIl9v4v"
+          }
+        ], 
+        "duration_ms": 259839, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "5TlxnafJmxEkxCVCQfKJIE"
+      }, 
+      {
+        "name": "Plastic Flowers On The Highway", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7M3KEZpH90dFMzSL2CFZtY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b333fe372d94ea9821365a432b2311eea08f4108", 
+        "is_playable": true, 
+        "uri": "spotify:track:7M3KEZpH90dFMzSL2CFZtY", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/7M3KEZpH90dFMzSL2CFZtY", 
+        "artists": [
+          {
+            "name": "Drive-By Truckers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v"
+            }, 
+            "uri": "spotify:artist:1rXr1ZnvbRoYBaedIl9v4v", 
+            "href": "https://api.spotify.com/v1/artists/1rXr1ZnvbRoYBaedIl9v4v", 
+            "type": "artist", 
+            "id": "1rXr1ZnvbRoYBaedIl9v4v"
+          }
+        ], 
+        "duration_ms": 304893, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "7M3KEZpH90dFMzSL2CFZtY"
+      }, 
+      {
+        "name": "Cassie's Brother", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/41kI5HoFo6KXINTHljfbtn"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0c775b996460974a125f4fb3e4179f8b839dfba5", 
+        "is_playable": true, 
+        "uri": "spotify:track:41kI5HoFo6KXINTHljfbtn", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/41kI5HoFo6KXINTHljfbtn", 
+        "artists": [
+          {
+            "name": "Drive-By Truckers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v"
+            }, 
+            "uri": "spotify:artist:1rXr1ZnvbRoYBaedIl9v4v", 
+            "href": "https://api.spotify.com/v1/artists/1rXr1ZnvbRoYBaedIl9v4v", 
+            "type": "artist", 
+            "id": "1rXr1ZnvbRoYBaedIl9v4v"
+          }
+        ], 
+        "duration_ms": 298306, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "41kI5HoFo6KXINTHljfbtn"
+      }, 
+      {
+        "name": "Life In The Factory", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6r06JmEPGCEGmHvphSCy6Y"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/962bde3a81c48e09cedeba5db70743d6f54cef33", 
+        "is_playable": true, 
+        "uri": "spotify:track:6r06JmEPGCEGmHvphSCy6Y", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6r06JmEPGCEGmHvphSCy6Y", 
+        "artists": [
+          {
+            "name": "Drive-By Truckers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v"
+            }, 
+            "uri": "spotify:artist:1rXr1ZnvbRoYBaedIl9v4v", 
+            "href": "https://api.spotify.com/v1/artists/1rXr1ZnvbRoYBaedIl9v4v", 
+            "type": "artist", 
+            "id": "1rXr1ZnvbRoYBaedIl9v4v"
+          }
+        ], 
+        "duration_ms": 328693, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "6r06JmEPGCEGmHvphSCy6Y"
+      }, 
+      {
+        "name": "Shut Up And Get On The Plane", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5UgVyxKBt8ZVQzKLJ2cQRl"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b6ec46bfe90825cd202c21c4dd511fa3a3a746b1", 
+        "is_playable": true, 
+        "uri": "spotify:track:5UgVyxKBt8ZVQzKLJ2cQRl", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5UgVyxKBt8ZVQzKLJ2cQRl", 
+        "artists": [
+          {
+            "name": "Drive-By Truckers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v"
+            }, 
+            "uri": "spotify:artist:1rXr1ZnvbRoYBaedIl9v4v", 
+            "href": "https://api.spotify.com/v1/artists/1rXr1ZnvbRoYBaedIl9v4v", 
+            "type": "artist", 
+            "id": "1rXr1ZnvbRoYBaedIl9v4v"
+          }
+        ], 
+        "duration_ms": 218640, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "5UgVyxKBt8ZVQzKLJ2cQRl"
+      }, 
+      {
+        "name": "Greenville To Baton Rouge", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2co6eiOWicHfJIMnj8KTHw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9436e9726e70ed387f990abc97b773574df2a474", 
+        "is_playable": true, 
+        "uri": "spotify:track:2co6eiOWicHfJIMnj8KTHw", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/2co6eiOWicHfJIMnj8KTHw", 
+        "artists": [
+          {
+            "name": "Drive-By Truckers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v"
+            }, 
+            "uri": "spotify:artist:1rXr1ZnvbRoYBaedIl9v4v", 
+            "href": "https://api.spotify.com/v1/artists/1rXr1ZnvbRoYBaedIl9v4v", 
+            "type": "artist", 
+            "id": "1rXr1ZnvbRoYBaedIl9v4v"
+          }
+        ], 
+        "duration_ms": 251760, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "2co6eiOWicHfJIMnj8KTHw"
+      }, 
+      {
+        "name": "Angels And Fuselage", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/26wr1g9dzwIkoMYKyi4bGr"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7d9e233f4053bfc3163e083b61fbd4856afb73fc", 
+        "is_playable": true, 
+        "uri": "spotify:track:26wr1g9dzwIkoMYKyi4bGr", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/26wr1g9dzwIkoMYKyi4bGr", 
+        "artists": [
+          {
+            "name": "Drive-By Truckers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v"
+            }, 
+            "uri": "spotify:artist:1rXr1ZnvbRoYBaedIl9v4v", 
+            "href": "https://api.spotify.com/v1/artists/1rXr1ZnvbRoYBaedIl9v4v", 
+            "type": "artist", 
+            "id": "1rXr1ZnvbRoYBaedIl9v4v"
+          }
+        ], 
+        "duration_ms": 480466, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "26wr1g9dzwIkoMYKyi4bGr"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/2hR5HQzHdxgAiAjyvGqSI3/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 20, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/2hR5HQzHdxgAiAjyvGqSI3", 
+  "copyrights": [
+    {
+      "text": "(C) 2002 UMG Recordings, Inc.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 2002 UMG Recordings, Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Drive-By Truckers", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v"
+      }, 
+      "uri": "spotify:artist:1rXr1ZnvbRoYBaedIl9v4v", 
+      "href": "https://api.spotify.com/v1/artists/1rXr1ZnvbRoYBaedIl9v4v", 
+      "type": "artist", 
+      "id": "1rXr1ZnvbRoYBaedIl9v4v"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/bd2c94a0fbdf35fdf81a9f162126633eb434a984", 
+      "width": 640, 
+      "height": 626
+    }, 
+    {
+      "url": "https://i.scdn.co/image/f8a4a58cae826073f6215f1bc5b994dbedcb5698", 
+      "width": 300, 
+      "height": 294
+    }, 
+    {
+      "url": "https://i.scdn.co/image/3e1c970c6a8e8ba3d3db5695ad39541f05c3d026", 
+      "width": 64, 
+      "height": 63
+    }
+  ], 
+  "external_ids": {
+    "upc": "00008817030821"
+  }, 
+  "type": "album", 
+  "id": "2hR5HQzHdxgAiAjyvGqSI3", 
+  "name": "Southern Rock Opera"
+}

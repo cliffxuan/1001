@@ -1,0 +1,683 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/79BolrDAU59MwJAa2jqwhi"
+  }, 
+  "release_date": "2002", 
+  "popularity": 35, 
+  "genres": [], 
+  "uri": "spotify:album:79BolrDAU59MwJAa2jqwhi", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Sunshine Superman", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2uzAcsG0tQbMsgF9sWEmKO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d4c8af001ff90730b125116853a71e74a08a09ab", 
+        "is_playable": true, 
+        "uri": "spotify:track:2uzAcsG0tQbMsgF9sWEmKO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2uzAcsG0tQbMsgF9sWEmKO", 
+        "artists": [
+          {
+            "name": "Donovan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+            }, 
+            "uri": "spotify:artist:6vLlQYujOujIrm7zAKzEdG", 
+            "href": "https://api.spotify.com/v1/artists/6vLlQYujOujIrm7zAKzEdG", 
+            "type": "artist", 
+            "id": "6vLlQYujOujIrm7zAKzEdG"
+          }
+        ], 
+        "duration_ms": 273933, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "2uzAcsG0tQbMsgF9sWEmKO"
+      }, 
+      {
+        "name": "Mellow Yellow", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/000mFaHFqvtU9bYShUFMlk"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/32740ae69e8e79639445224fd3b6ded8e2e83ac3", 
+        "is_playable": true, 
+        "uri": "spotify:track:000mFaHFqvtU9bYShUFMlk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/000mFaHFqvtU9bYShUFMlk", 
+        "artists": [
+          {
+            "name": "Donovan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+            }, 
+            "uri": "spotify:artist:6vLlQYujOujIrm7zAKzEdG", 
+            "href": "https://api.spotify.com/v1/artists/6vLlQYujOujIrm7zAKzEdG", 
+            "type": "artist", 
+            "id": "6vLlQYujOujIrm7zAKzEdG"
+          }
+        ], 
+        "duration_ms": 219733, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "000mFaHFqvtU9bYShUFMlk"
+      }, 
+      {
+        "name": "Catch The Wind", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/17Zjt2VlbIi2kzviHwbsld"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/db2c71cbee2d136945afdbc019e2592686d6258d", 
+        "is_playable": true, 
+        "uri": "spotify:track:17Zjt2VlbIi2kzviHwbsld", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/17Zjt2VlbIi2kzviHwbsld", 
+        "artists": [
+          {
+            "name": "Donovan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+            }, 
+            "uri": "spotify:artist:6vLlQYujOujIrm7zAKzEdG", 
+            "href": "https://api.spotify.com/v1/artists/6vLlQYujOujIrm7zAKzEdG", 
+            "type": "artist", 
+            "id": "6vLlQYujOujIrm7zAKzEdG"
+          }
+        ], 
+        "duration_ms": 175533, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "17Zjt2VlbIi2kzviHwbsld"
+      }, 
+      {
+        "name": "There Is a Mountain", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5qZsmcnIkb28mLh9GYPjx4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d5f1faf16aa8831eddc9c1dad347abcc66dbe0b2", 
+        "is_playable": true, 
+        "uri": "spotify:track:5qZsmcnIkb28mLh9GYPjx4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5qZsmcnIkb28mLh9GYPjx4", 
+        "artists": [
+          {
+            "name": "Donovan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+            }, 
+            "uri": "spotify:artist:6vLlQYujOujIrm7zAKzEdG", 
+            "href": "https://api.spotify.com/v1/artists/6vLlQYujOujIrm7zAKzEdG", 
+            "type": "artist", 
+            "id": "6vLlQYujOujIrm7zAKzEdG"
+          }
+        ], 
+        "duration_ms": 155200, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "5qZsmcnIkb28mLh9GYPjx4"
+      }, 
+      {
+        "name": "Colours", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5aW5NaFShUwBk8VKYOwb0M"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/264496c9ceee59199b809a4dcbdeee2ea9afe944", 
+        "is_playable": true, 
+        "uri": "spotify:track:5aW5NaFShUwBk8VKYOwb0M", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5aW5NaFShUwBk8VKYOwb0M", 
+        "artists": [
+          {
+            "name": "Donovan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+            }, 
+            "uri": "spotify:artist:6vLlQYujOujIrm7zAKzEdG", 
+            "href": "https://api.spotify.com/v1/artists/6vLlQYujOujIrm7zAKzEdG", 
+            "type": "artist", 
+            "id": "6vLlQYujOujIrm7zAKzEdG"
+          }
+        ], 
+        "duration_ms": 165893, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "5aW5NaFShUwBk8VKYOwb0M"
+      }, 
+      {
+        "name": "Jennifer Juniper", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7iZYNUSG5wrcdHM5RQ1xRQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/96423bef7e3bb60983538cac73f064c3745d9bff", 
+        "is_playable": true, 
+        "uri": "spotify:track:7iZYNUSG5wrcdHM5RQ1xRQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7iZYNUSG5wrcdHM5RQ1xRQ", 
+        "artists": [
+          {
+            "name": "Donovan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+            }, 
+            "uri": "spotify:artist:6vLlQYujOujIrm7zAKzEdG", 
+            "href": "https://api.spotify.com/v1/artists/6vLlQYujOujIrm7zAKzEdG", 
+            "type": "artist", 
+            "id": "6vLlQYujOujIrm7zAKzEdG"
+          }
+        ], 
+        "duration_ms": 162133, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "7iZYNUSG5wrcdHM5RQ1xRQ"
+      }, 
+      {
+        "name": "The Trip", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6tuFwxtmgBEcjfzlUq9Uoy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/440e80e396afc215a67ddd3881ad88efc9f091b5", 
+        "is_playable": true, 
+        "uri": "spotify:track:6tuFwxtmgBEcjfzlUq9Uoy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6tuFwxtmgBEcjfzlUq9Uoy", 
+        "artists": [
+          {
+            "name": "Donovan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+            }, 
+            "uri": "spotify:artist:6vLlQYujOujIrm7zAKzEdG", 
+            "href": "https://api.spotify.com/v1/artists/6vLlQYujOujIrm7zAKzEdG", 
+            "type": "artist", 
+            "id": "6vLlQYujOujIrm7zAKzEdG"
+          }
+        ], 
+        "duration_ms": 274666, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "6tuFwxtmgBEcjfzlUq9Uoy"
+      }, 
+      {
+        "name": "Sunny Goodge Street", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0W0WuexnXG8xdSnTIHKnrQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5b850f9db9e62946a735ec4174f3495e52599283", 
+        "is_playable": true, 
+        "uri": "spotify:track:0W0WuexnXG8xdSnTIHKnrQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0W0WuexnXG8xdSnTIHKnrQ", 
+        "artists": [
+          {
+            "name": "Donovan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+            }, 
+            "uri": "spotify:artist:6vLlQYujOujIrm7zAKzEdG", 
+            "href": "https://api.spotify.com/v1/artists/6vLlQYujOujIrm7zAKzEdG", 
+            "type": "artist", 
+            "id": "6vLlQYujOujIrm7zAKzEdG"
+          }
+        ], 
+        "duration_ms": 175773, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "0W0WuexnXG8xdSnTIHKnrQ"
+      }, 
+      {
+        "name": "Happiness Runs", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/52mZsZ8Qo0YihDO0jmJMld"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/510540538ed3bee88ed298cb3cbf94b94130a955", 
+        "is_playable": true, 
+        "uri": "spotify:track:52mZsZ8Qo0YihDO0jmJMld", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/52mZsZ8Qo0YihDO0jmJMld", 
+        "artists": [
+          {
+            "name": "Donovan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+            }, 
+            "uri": "spotify:artist:6vLlQYujOujIrm7zAKzEdG", 
+            "href": "https://api.spotify.com/v1/artists/6vLlQYujOujIrm7zAKzEdG", 
+            "type": "artist", 
+            "id": "6vLlQYujOujIrm7zAKzEdG"
+          }
+        ], 
+        "duration_ms": 205666, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "52mZsZ8Qo0YihDO0jmJMld"
+      }, 
+      {
+        "name": "Poor Cow", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1A2zBgoQZr05VwbGe00Sk8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/afecc336ebca345618537e615c6b917523ca6c35", 
+        "is_playable": true, 
+        "uri": "spotify:track:1A2zBgoQZr05VwbGe00Sk8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1A2zBgoQZr05VwbGe00Sk8", 
+        "artists": [
+          {
+            "name": "Donovan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+            }, 
+            "uri": "spotify:artist:6vLlQYujOujIrm7zAKzEdG", 
+            "href": "https://api.spotify.com/v1/artists/6vLlQYujOujIrm7zAKzEdG", 
+            "type": "artist", 
+            "id": "6vLlQYujOujIrm7zAKzEdG"
+          }
+        ], 
+        "duration_ms": 177466, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "1A2zBgoQZr05VwbGe00Sk8"
+      }, 
+      {
+        "name": "Preachin' Love", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6J8CJ7K9yUqU4ncFwf7STy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3fc7ab87851e7e0996afd98cf4407579cdbae7af", 
+        "is_playable": true, 
+        "uri": "spotify:track:6J8CJ7K9yUqU4ncFwf7STy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6J8CJ7K9yUqU4ncFwf7STy", 
+        "artists": [
+          {
+            "name": "Donovan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+            }, 
+            "uri": "spotify:artist:6vLlQYujOujIrm7zAKzEdG", 
+            "href": "https://api.spotify.com/v1/artists/6vLlQYujOujIrm7zAKzEdG", 
+            "type": "artist", 
+            "id": "6vLlQYujOujIrm7zAKzEdG"
+          }
+        ], 
+        "duration_ms": 160560, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "6J8CJ7K9yUqU4ncFwf7STy"
+      }, 
+      {
+        "name": "Hurdy Gurdy Man", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6xbP49qodQfDU9mprVSDZx"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/076fe59111642e355858e785ee42c5833b5119a9", 
+        "is_playable": true, 
+        "uri": "spotify:track:6xbP49qodQfDU9mprVSDZx", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6xbP49qodQfDU9mprVSDZx", 
+        "artists": [
+          {
+            "name": "Donovan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+            }, 
+            "uri": "spotify:artist:6vLlQYujOujIrm7zAKzEdG", 
+            "href": "https://api.spotify.com/v1/artists/6vLlQYujOujIrm7zAKzEdG", 
+            "type": "artist", 
+            "id": "6vLlQYujOujIrm7zAKzEdG"
+          }
+        ], 
+        "duration_ms": 193840, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "6xbP49qodQfDU9mprVSDZx"
+      }, 
+      {
+        "name": "Superlungs My Supergirl", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0gIiJ8DdPpC7Z3eikg55xD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8eb862908ad6eb81b1dbeadf6b2aaace51c09c5a", 
+        "is_playable": true, 
+        "uri": "spotify:track:0gIiJ8DdPpC7Z3eikg55xD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0gIiJ8DdPpC7Z3eikg55xD", 
+        "artists": [
+          {
+            "name": "Donovan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+            }, 
+            "uri": "spotify:artist:6vLlQYujOujIrm7zAKzEdG", 
+            "href": "https://api.spotify.com/v1/artists/6vLlQYujOujIrm7zAKzEdG", 
+            "type": "artist", 
+            "id": "6vLlQYujOujIrm7zAKzEdG"
+          }
+        ], 
+        "duration_ms": 160760, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "0gIiJ8DdPpC7Z3eikg55xD"
+      }, 
+      {
+        "name": "Season Of The Witch", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/51m325oZ7OmZfQCj1tsKLS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e4aa58b96e4928dae69c275d61bfedf42b3a51af", 
+        "is_playable": true, 
+        "uri": "spotify:track:51m325oZ7OmZfQCj1tsKLS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/51m325oZ7OmZfQCj1tsKLS", 
+        "artists": [
+          {
+            "name": "Donovan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+            }, 
+            "uri": "spotify:artist:6vLlQYujOujIrm7zAKzEdG", 
+            "href": "https://api.spotify.com/v1/artists/6vLlQYujOujIrm7zAKzEdG", 
+            "type": "artist", 
+            "id": "6vLlQYujOujIrm7zAKzEdG"
+          }
+        ], 
+        "duration_ms": 295733, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "51m325oZ7OmZfQCj1tsKLS"
+      }, 
+      {
+        "name": "Turquoise", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5EDfOAgytyCLBOI3njrD7G"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/50329cd6a631756dbe6d1e9c8282cc9dd1207939", 
+        "is_playable": true, 
+        "uri": "spotify:track:5EDfOAgytyCLBOI3njrD7G", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5EDfOAgytyCLBOI3njrD7G", 
+        "artists": [
+          {
+            "name": "Donovan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+            }, 
+            "uri": "spotify:artist:6vLlQYujOujIrm7zAKzEdG", 
+            "href": "https://api.spotify.com/v1/artists/6vLlQYujOujIrm7zAKzEdG", 
+            "type": "artist", 
+            "id": "6vLlQYujOujIrm7zAKzEdG"
+          }
+        ], 
+        "duration_ms": 210466, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "5EDfOAgytyCLBOI3njrD7G"
+      }, 
+      {
+        "name": "Epistle To Dippy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1pOBdfJqAwn5OgC4CUvk9N"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/be8fb8be6443860ee34c1e98d8e1e48234bfbc70", 
+        "is_playable": true, 
+        "uri": "spotify:track:1pOBdfJqAwn5OgC4CUvk9N", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1pOBdfJqAwn5OgC4CUvk9N", 
+        "artists": [
+          {
+            "name": "Donovan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+            }, 
+            "uri": "spotify:artist:6vLlQYujOujIrm7zAKzEdG", 
+            "href": "https://api.spotify.com/v1/artists/6vLlQYujOujIrm7zAKzEdG", 
+            "type": "artist", 
+            "id": "6vLlQYujOujIrm7zAKzEdG"
+          }
+        ], 
+        "duration_ms": 190933, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "1pOBdfJqAwn5OgC4CUvk9N"
+      }, 
+      {
+        "name": "Sand And Foam", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3I9T88TtppwrAQ62KQT7jv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a30feb35f339562a65edc82232203b8c3d78259e", 
+        "is_playable": true, 
+        "uri": "spotify:track:3I9T88TtppwrAQ62KQT7jv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3I9T88TtppwrAQ62KQT7jv", 
+        "artists": [
+          {
+            "name": "Donovan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+            }, 
+            "uri": "spotify:artist:6vLlQYujOujIrm7zAKzEdG", 
+            "href": "https://api.spotify.com/v1/artists/6vLlQYujOujIrm7zAKzEdG", 
+            "type": "artist", 
+            "id": "6vLlQYujOujIrm7zAKzEdG"
+          }
+        ], 
+        "duration_ms": 199666, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "3I9T88TtppwrAQ62KQT7jv"
+      }, 
+      {
+        "name": "Atlantis", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5w1Cf1Cy7oe8nkNcifApAj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5ff6f4761eb7eb021b7d36f6612a4789edc82b5f", 
+        "is_playable": true, 
+        "uri": "spotify:track:5w1Cf1Cy7oe8nkNcifApAj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5w1Cf1Cy7oe8nkNcifApAj", 
+        "artists": [
+          {
+            "name": "Donovan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+            }, 
+            "uri": "spotify:artist:6vLlQYujOujIrm7zAKzEdG", 
+            "href": "https://api.spotify.com/v1/artists/6vLlQYujOujIrm7zAKzEdG", 
+            "type": "artist", 
+            "id": "6vLlQYujOujIrm7zAKzEdG"
+          }
+        ], 
+        "duration_ms": 299840, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "5w1Cf1Cy7oe8nkNcifApAj"
+      }, 
+      {
+        "name": "Guinevere", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3S7cM6LVo2Guiasa3SlLuc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5fa37ab4033903ab5ed7d194bd27ec0ca0424ceb", 
+        "is_playable": true, 
+        "uri": "spotify:track:3S7cM6LVo2Guiasa3SlLuc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3S7cM6LVo2Guiasa3SlLuc", 
+        "artists": [
+          {
+            "name": "Donovan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+            }, 
+            "uri": "spotify:artist:6vLlQYujOujIrm7zAKzEdG", 
+            "href": "https://api.spotify.com/v1/artists/6vLlQYujOujIrm7zAKzEdG", 
+            "type": "artist", 
+            "id": "6vLlQYujOujIrm7zAKzEdG"
+          }
+        ], 
+        "duration_ms": 220093, 
+        "track_number": 19, 
+        "type": "track", 
+        "id": "3S7cM6LVo2Guiasa3SlLuc"
+      }, 
+      {
+        "name": "Wear Your Love Like Heaven", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6sScm5SlOb8VEteOHCIeaI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9b446882e6887b28c691b6bcf3e7b43639d0bdf7", 
+        "is_playable": true, 
+        "uri": "spotify:track:6sScm5SlOb8VEteOHCIeaI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6sScm5SlOb8VEteOHCIeaI", 
+        "artists": [
+          {
+            "name": "Donovan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+            }, 
+            "uri": "spotify:artist:6vLlQYujOujIrm7zAKzEdG", 
+            "href": "https://api.spotify.com/v1/artists/6vLlQYujOujIrm7zAKzEdG", 
+            "type": "artist", 
+            "id": "6vLlQYujOujIrm7zAKzEdG"
+          }
+        ], 
+        "duration_ms": 144973, 
+        "track_number": 20, 
+        "type": "track", 
+        "id": "6sScm5SlOb8VEteOHCIeaI"
+      }, 
+      {
+        "name": "Barabajagal (Love Is Hot)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Jak9lQeNHbpWAr9yx9Scr"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e9a363871620ed1fb786137083aaae9d3e27b5b1", 
+        "is_playable": true, 
+        "uri": "spotify:track:3Jak9lQeNHbpWAr9yx9Scr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3Jak9lQeNHbpWAr9yx9Scr", 
+        "artists": [
+          {
+            "name": "Donovan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+            }, 
+            "uri": "spotify:artist:6vLlQYujOujIrm7zAKzEdG", 
+            "href": "https://api.spotify.com/v1/artists/6vLlQYujOujIrm7zAKzEdG", 
+            "type": "artist", 
+            "id": "6vLlQYujOujIrm7zAKzEdG"
+          }
+        ], 
+        "duration_ms": 201600, 
+        "track_number": 21, 
+        "type": "track", 
+        "id": "3Jak9lQeNHbpWAr9yx9Scr"
+      }, 
+      {
+        "name": "Lalena", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7FcDEj2anvVmxf0ESqcFFY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/85fb4af3a380ffef03b5e682cc31508bd0829244", 
+        "is_playable": true, 
+        "uri": "spotify:track:7FcDEj2anvVmxf0ESqcFFY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7FcDEj2anvVmxf0ESqcFFY", 
+        "artists": [
+          {
+            "name": "Donovan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+            }, 
+            "uri": "spotify:artist:6vLlQYujOujIrm7zAKzEdG", 
+            "href": "https://api.spotify.com/v1/artists/6vLlQYujOujIrm7zAKzEdG", 
+            "type": "artist", 
+            "id": "6vLlQYujOujIrm7zAKzEdG"
+          }
+        ], 
+        "duration_ms": 174760, 
+        "track_number": 22, 
+        "type": "track", 
+        "id": "7FcDEj2anvVmxf0ESqcFFY"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/79BolrDAU59MwJAa2jqwhi/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 22, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/79BolrDAU59MwJAa2jqwhi", 
+  "copyrights": [
+    {
+      "text": "2006 Parlophone Records Ltd. This label copy information is the subject of copyright protection. All rights reserved. (C) 2006 Parlophone Records Ltd", 
+      "type": "C"
+    }, 
+    {
+      "text": "2006 The copyright in this compilation is owned by Parlophone Records Ltd", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Donovan", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+      }, 
+      "uri": "spotify:artist:6vLlQYujOujIrm7zAKzEdG", 
+      "href": "https://api.spotify.com/v1/artists/6vLlQYujOujIrm7zAKzEdG", 
+      "type": "artist", 
+      "id": "6vLlQYujOujIrm7zAKzEdG"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/6c2fa072d3ebeee162dde4aa2e4fafc25e6570e9", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/5147eb236de4a7444a1e8f414dc9d15d68145f2a", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/514fa05f9977a9d16b3f43babbb49bc121f5a006", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "0094637182857"
+  }, 
+  "type": "album", 
+  "id": "79BolrDAU59MwJAa2jqwhi", 
+  "name": "Sunshine Superman - The Very Best Of Donovan"
+}

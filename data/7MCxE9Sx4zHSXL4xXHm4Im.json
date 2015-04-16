@@ -1,0 +1,637 @@
+{
+  "album_type": "compilation", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7MCxE9Sx4zHSXL4xXHm4Im"
+  }, 
+  "release_date": "1995", 
+  "popularity": 60, 
+  "genres": [], 
+  "uri": "spotify:album:7MCxE9Sx4zHSXL4xXHm4Im", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Virginia Plain", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/32vq3MBLVjsCJCGTF3G7xK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c05f51f5fc1ed5dbe2f6804f77d60bfd9b718e3a", 
+        "is_playable": true, 
+        "uri": "spotify:track:32vq3MBLVjsCJCGTF3G7xK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/32vq3MBLVjsCJCGTF3G7xK", 
+        "artists": [
+          {
+            "name": "Roxy Music", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
+            }, 
+            "uri": "spotify:artist:3fhOTtm0LBJ3Ojn4hIljLo", 
+            "href": "https://api.spotify.com/v1/artists/3fhOTtm0LBJ3Ojn4hIljLo", 
+            "type": "artist", 
+            "id": "3fhOTtm0LBJ3Ojn4hIljLo"
+          }
+        ], 
+        "duration_ms": 178160, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "32vq3MBLVjsCJCGTF3G7xK"
+      }, 
+      {
+        "name": "A Hard Rain's A-Gonna Fall - Edit", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Z5E0vrgMOi2rgl3zjPZ4I"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/31b4ee6819c274aa4d0bf24e10157e2369f9812f", 
+        "is_playable": true, 
+        "uri": "spotify:track:3Z5E0vrgMOi2rgl3zjPZ4I", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3Z5E0vrgMOi2rgl3zjPZ4I", 
+        "artists": [
+          {
+            "name": "Bryan Ferry", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
+            }, 
+            "uri": "spotify:artist:5RNFFojXkPRmlJZIwXeKQC", 
+            "href": "https://api.spotify.com/v1/artists/5RNFFojXkPRmlJZIwXeKQC", 
+            "type": "artist", 
+            "id": "5RNFFojXkPRmlJZIwXeKQC"
+          }
+        ], 
+        "duration_ms": 253866, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "3Z5E0vrgMOi2rgl3zjPZ4I"
+      }, 
+      {
+        "name": "Street Life", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1utVYLe2reel7p7EpZDfcX"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4c77c9485b01c8b320ba89fec41f6e858024b864", 
+        "is_playable": true, 
+        "uri": "spotify:track:1utVYLe2reel7p7EpZDfcX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1utVYLe2reel7p7EpZDfcX", 
+        "artists": [
+          {
+            "name": "Roxy Music", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
+            }, 
+            "uri": "spotify:artist:3fhOTtm0LBJ3Ojn4hIljLo", 
+            "href": "https://api.spotify.com/v1/artists/3fhOTtm0LBJ3Ojn4hIljLo", 
+            "type": "artist", 
+            "id": "3fhOTtm0LBJ3Ojn4hIljLo"
+          }
+        ], 
+        "duration_ms": 203800, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "1utVYLe2reel7p7EpZDfcX"
+      }, 
+      {
+        "name": "These Foolish Things - Edit", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5kfFfDkeCRPeA0rAQyl27F"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/512032dfa4301eeb8254be2c4f394ba61bcbfe3d", 
+        "is_playable": true, 
+        "uri": "spotify:track:5kfFfDkeCRPeA0rAQyl27F", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5kfFfDkeCRPeA0rAQyl27F", 
+        "artists": [
+          {
+            "name": "Bryan Ferry", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
+            }, 
+            "uri": "spotify:artist:5RNFFojXkPRmlJZIwXeKQC", 
+            "href": "https://api.spotify.com/v1/artists/5RNFFojXkPRmlJZIwXeKQC", 
+            "type": "artist", 
+            "id": "5RNFFojXkPRmlJZIwXeKQC"
+          }
+        ], 
+        "duration_ms": 289040, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "5kfFfDkeCRPeA0rAQyl27F"
+      }, 
+      {
+        "name": "Love Is the Drug", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4iwKntlrE2GoSvVYXOHaFI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/224474d0bf9a1e8dd5299fdcf3fac1560d42b26a", 
+        "is_playable": true, 
+        "uri": "spotify:track:4iwKntlrE2GoSvVYXOHaFI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4iwKntlrE2GoSvVYXOHaFI", 
+        "artists": [
+          {
+            "name": "Roxy Music", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
+            }, 
+            "uri": "spotify:artist:3fhOTtm0LBJ3Ojn4hIljLo", 
+            "href": "https://api.spotify.com/v1/artists/3fhOTtm0LBJ3Ojn4hIljLo", 
+            "type": "artist", 
+            "id": "3fhOTtm0LBJ3Ojn4hIljLo"
+          }
+        ], 
+        "duration_ms": 238960, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "4iwKntlrE2GoSvVYXOHaFI"
+      }, 
+      {
+        "name": "Smoke Gets In Your Eyes", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1ZmvxisQ7JWqmybY2PC5Ip"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4fee1a26dac217038dfe7438593ec78d609cd607", 
+        "is_playable": true, 
+        "uri": "spotify:track:1ZmvxisQ7JWqmybY2PC5Ip", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1ZmvxisQ7JWqmybY2PC5Ip", 
+        "artists": [
+          {
+            "name": "Bryan Ferry", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
+            }, 
+            "uri": "spotify:artist:5RNFFojXkPRmlJZIwXeKQC", 
+            "href": "https://api.spotify.com/v1/artists/5RNFFojXkPRmlJZIwXeKQC", 
+            "type": "artist", 
+            "id": "5RNFFojXkPRmlJZIwXeKQC"
+          }
+        ], 
+        "duration_ms": 177173, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "1ZmvxisQ7JWqmybY2PC5Ip"
+      }, 
+      {
+        "name": "Dance Away", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3HJxLljRQFPKC49zPrvKWi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/259abe942963b7f5466581436f996df0e60211c9", 
+        "is_playable": true, 
+        "uri": "spotify:track:3HJxLljRQFPKC49zPrvKWi", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3HJxLljRQFPKC49zPrvKWi", 
+        "artists": [
+          {
+            "name": "Roxy Music", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
+            }, 
+            "uri": "spotify:artist:3fhOTtm0LBJ3Ojn4hIljLo", 
+            "href": "https://api.spotify.com/v1/artists/3fhOTtm0LBJ3Ojn4hIljLo", 
+            "type": "artist", 
+            "id": "3fhOTtm0LBJ3Ojn4hIljLo"
+          }
+        ], 
+        "duration_ms": 226466, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "3HJxLljRQFPKC49zPrvKWi"
+      }, 
+      {
+        "name": "Let's Stick Together", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2KU5P5eLPw8wJ25djO7xjl"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5a0d6b5591eeae3a39b9942658fa191efbfca56f", 
+        "is_playable": true, 
+        "uri": "spotify:track:2KU5P5eLPw8wJ25djO7xjl", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2KU5P5eLPw8wJ25djO7xjl", 
+        "artists": [
+          {
+            "name": "Bryan Ferry", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
+            }, 
+            "uri": "spotify:artist:5RNFFojXkPRmlJZIwXeKQC", 
+            "href": "https://api.spotify.com/v1/artists/5RNFFojXkPRmlJZIwXeKQC", 
+            "type": "artist", 
+            "id": "5RNFFojXkPRmlJZIwXeKQC"
+          }
+        ], 
+        "duration_ms": 179000, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "2KU5P5eLPw8wJ25djO7xjl"
+      }, 
+      {
+        "name": "Angel Eyes", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2buRmJYRPpGeSjDeHLAMjS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f2f599baf468bdaebd7c9b20f6be302047a39db1", 
+        "is_playable": true, 
+        "uri": "spotify:track:2buRmJYRPpGeSjDeHLAMjS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2buRmJYRPpGeSjDeHLAMjS", 
+        "artists": [
+          {
+            "name": "Roxy Music", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
+            }, 
+            "uri": "spotify:artist:3fhOTtm0LBJ3Ojn4hIljLo", 
+            "href": "https://api.spotify.com/v1/artists/3fhOTtm0LBJ3Ojn4hIljLo", 
+            "type": "artist", 
+            "id": "3fhOTtm0LBJ3Ojn4hIljLo"
+          }
+        ], 
+        "duration_ms": 171226, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "2buRmJYRPpGeSjDeHLAMjS"
+      }, 
+      {
+        "name": "Slave to Love", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7imzBhHn7KD6ag3letxmSt"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/917a064db107d9a46c3863c524a0adbd844661cb", 
+        "is_playable": true, 
+        "uri": "spotify:track:7imzBhHn7KD6ag3letxmSt", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7imzBhHn7KD6ag3letxmSt", 
+        "artists": [
+          {
+            "name": "Bryan Ferry", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
+            }, 
+            "uri": "spotify:artist:5RNFFojXkPRmlJZIwXeKQC", 
+            "href": "https://api.spotify.com/v1/artists/5RNFFojXkPRmlJZIwXeKQC", 
+            "type": "artist", 
+            "id": "5RNFFojXkPRmlJZIwXeKQC"
+          }
+        ], 
+        "duration_ms": 259066, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "7imzBhHn7KD6ag3letxmSt"
+      }, 
+      {
+        "name": "Oh Yeah!", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7gn3O7gB8yFPB6ZfEoGzkI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bd48a12ce1d9e844ab2974124a6536d31087f031", 
+        "is_playable": true, 
+        "uri": "spotify:track:7gn3O7gB8yFPB6ZfEoGzkI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7gn3O7gB8yFPB6ZfEoGzkI", 
+        "artists": [
+          {
+            "name": "Roxy Music", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
+            }, 
+            "uri": "spotify:artist:3fhOTtm0LBJ3Ojn4hIljLo", 
+            "href": "https://api.spotify.com/v1/artists/3fhOTtm0LBJ3Ojn4hIljLo", 
+            "type": "artist", 
+            "id": "3fhOTtm0LBJ3Ojn4hIljLo"
+          }
+        ], 
+        "duration_ms": 290933, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "7gn3O7gB8yFPB6ZfEoGzkI"
+      }, 
+      {
+        "name": "Don't Stop The Dance", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3P3G9WIrGbsbND4uvHkLxp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7531706deb31e5458dc6141077f0a81d581d039f", 
+        "is_playable": true, 
+        "uri": "spotify:track:3P3G9WIrGbsbND4uvHkLxp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3P3G9WIrGbsbND4uvHkLxp", 
+        "artists": [
+          {
+            "name": "Bryan Ferry", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
+            }, 
+            "uri": "spotify:artist:5RNFFojXkPRmlJZIwXeKQC", 
+            "href": "https://api.spotify.com/v1/artists/5RNFFojXkPRmlJZIwXeKQC", 
+            "type": "artist", 
+            "id": "5RNFFojXkPRmlJZIwXeKQC"
+          }
+        ], 
+        "duration_ms": 260040, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "3P3G9WIrGbsbND4uvHkLxp"
+      }, 
+      {
+        "name": "Same Old Scene", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3wqUsyPTLsb5NLhh4DFoWm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/52a7f3150f52c8980663105006a7a35273fae003", 
+        "is_playable": true, 
+        "uri": "spotify:track:3wqUsyPTLsb5NLhh4DFoWm", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3wqUsyPTLsb5NLhh4DFoWm", 
+        "artists": [
+          {
+            "name": "Roxy Music", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
+            }, 
+            "uri": "spotify:artist:3fhOTtm0LBJ3Ojn4hIljLo", 
+            "href": "https://api.spotify.com/v1/artists/3fhOTtm0LBJ3Ojn4hIljLo", 
+            "type": "artist", 
+            "id": "3fhOTtm0LBJ3Ojn4hIljLo"
+          }
+        ], 
+        "duration_ms": 237133, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "3wqUsyPTLsb5NLhh4DFoWm"
+      }, 
+      {
+        "name": "Is Your Love Strong Enough?", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1wW3N3WrE76MiKmDyEzEbc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f6b268ed0d03937c237c4f5f52fcae1dc005ab73", 
+        "is_playable": true, 
+        "uri": "spotify:track:1wW3N3WrE76MiKmDyEzEbc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1wW3N3WrE76MiKmDyEzEbc", 
+        "artists": [
+          {
+            "name": "Bryan Ferry", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
+            }, 
+            "uri": "spotify:artist:5RNFFojXkPRmlJZIwXeKQC", 
+            "href": "https://api.spotify.com/v1/artists/5RNFFojXkPRmlJZIwXeKQC", 
+            "type": "artist", 
+            "id": "5RNFFojXkPRmlJZIwXeKQC"
+          }
+        ], 
+        "duration_ms": 294666, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "1wW3N3WrE76MiKmDyEzEbc"
+      }, 
+      {
+        "name": "Jealous Guy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5vrKEX1dsW34A2gQW80WBn"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ca572834ec686699cef1871e69dc975f6e990861", 
+        "is_playable": true, 
+        "uri": "spotify:track:5vrKEX1dsW34A2gQW80WBn", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5vrKEX1dsW34A2gQW80WBn", 
+        "artists": [
+          {
+            "name": "Roxy Music", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
+            }, 
+            "uri": "spotify:artist:3fhOTtm0LBJ3Ojn4hIljLo", 
+            "href": "https://api.spotify.com/v1/artists/3fhOTtm0LBJ3Ojn4hIljLo", 
+            "type": "artist", 
+            "id": "3fhOTtm0LBJ3Ojn4hIljLo"
+          }
+        ], 
+        "duration_ms": 293466, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "5vrKEX1dsW34A2gQW80WBn"
+      }, 
+      {
+        "name": "Kiss And Tell - Edit", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2QzlrpzRLKqIi6guXkBRCc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/92999d7ecd258edddf8b5111e386756df113d3a4", 
+        "is_playable": true, 
+        "uri": "spotify:track:2QzlrpzRLKqIi6guXkBRCc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2QzlrpzRLKqIi6guXkBRCc", 
+        "artists": [
+          {
+            "name": "Bryan Ferry", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
+            }, 
+            "uri": "spotify:artist:5RNFFojXkPRmlJZIwXeKQC", 
+            "href": "https://api.spotify.com/v1/artists/5RNFFojXkPRmlJZIwXeKQC", 
+            "type": "artist", 
+            "id": "5RNFFojXkPRmlJZIwXeKQC"
+          }
+        ], 
+        "duration_ms": 239066, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "2QzlrpzRLKqIi6guXkBRCc"
+      }, 
+      {
+        "name": "More Than This", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0lfe0zMRtyN26mozUVeOLP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d1ad9dc2722cb027456145fec3c1a6e4f4bd71d7", 
+        "is_playable": true, 
+        "uri": "spotify:track:0lfe0zMRtyN26mozUVeOLP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0lfe0zMRtyN26mozUVeOLP", 
+        "artists": [
+          {
+            "name": "Roxy Music", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
+            }, 
+            "uri": "spotify:artist:3fhOTtm0LBJ3Ojn4hIljLo", 
+            "href": "https://api.spotify.com/v1/artists/3fhOTtm0LBJ3Ojn4hIljLo", 
+            "type": "artist", 
+            "id": "3fhOTtm0LBJ3Ojn4hIljLo"
+          }
+        ], 
+        "duration_ms": 249293, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "0lfe0zMRtyN26mozUVeOLP"
+      }, 
+      {
+        "name": "I Put A Spell On You - Edit", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/332aLyB2kP89E35XUfEjYq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b22775ed773c5ecc0b7c1c218c353664dcfd306f", 
+        "is_playable": true, 
+        "uri": "spotify:track:332aLyB2kP89E35XUfEjYq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/332aLyB2kP89E35XUfEjYq", 
+        "artists": [
+          {
+            "name": "Bryan Ferry", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
+            }, 
+            "uri": "spotify:artist:5RNFFojXkPRmlJZIwXeKQC", 
+            "href": "https://api.spotify.com/v1/artists/5RNFFojXkPRmlJZIwXeKQC", 
+            "type": "artist", 
+            "id": "5RNFFojXkPRmlJZIwXeKQC"
+          }
+        ], 
+        "duration_ms": 236306, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "332aLyB2kP89E35XUfEjYq"
+      }, 
+      {
+        "name": "Avalon", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/61y28QdZIXzVtNIs3xZuaT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/96822c406f70691e6aef87177dc2b601c712b71c", 
+        "is_playable": true, 
+        "uri": "spotify:track:61y28QdZIXzVtNIs3xZuaT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/61y28QdZIXzVtNIs3xZuaT", 
+        "artists": [
+          {
+            "name": "Roxy Music", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
+            }, 
+            "uri": "spotify:artist:3fhOTtm0LBJ3Ojn4hIljLo", 
+            "href": "https://api.spotify.com/v1/artists/3fhOTtm0LBJ3Ojn4hIljLo", 
+            "type": "artist", 
+            "id": "3fhOTtm0LBJ3Ojn4hIljLo"
+          }
+        ], 
+        "duration_ms": 256760, 
+        "track_number": 19, 
+        "type": "track", 
+        "id": "61y28QdZIXzVtNIs3xZuaT"
+      }, 
+      {
+        "name": "Your Painted Smile", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2qFEDZgfkZgf1cxJApZYVJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/78dc96d165f4cdd4fec878908f6c09614a9265b6", 
+        "is_playable": true, 
+        "uri": "spotify:track:2qFEDZgfkZgf1cxJApZYVJ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2qFEDZgfkZgf1cxJApZYVJ", 
+        "artists": [
+          {
+            "name": "Bryan Ferry", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
+            }, 
+            "uri": "spotify:artist:5RNFFojXkPRmlJZIwXeKQC", 
+            "href": "https://api.spotify.com/v1/artists/5RNFFojXkPRmlJZIwXeKQC", 
+            "type": "artist", 
+            "id": "5RNFFojXkPRmlJZIwXeKQC"
+          }
+        ], 
+        "duration_ms": 199040, 
+        "track_number": 20, 
+        "type": "track", 
+        "id": "2qFEDZgfkZgf1cxJApZYVJ"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/7MCxE9Sx4zHSXL4xXHm4Im/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 20, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/7MCxE9Sx4zHSXL4xXHm4Im", 
+  "copyrights": [
+    {
+      "text": "(C) 1995 Virgin Records LtdThis label copy information is the subject of copyright protection. All rights reserved.(C) 1995 Virgin Records Ltd", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1995 The copyright in this compilation is owned by Virgin Records Ltd", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Bryan Ferry", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
+      }, 
+      "uri": "spotify:artist:5RNFFojXkPRmlJZIwXeKQC", 
+      "href": "https://api.spotify.com/v1/artists/5RNFFojXkPRmlJZIwXeKQC", 
+      "type": "artist", 
+      "id": "5RNFFojXkPRmlJZIwXeKQC"
+    }, 
+    {
+      "name": "Roxy Music", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
+      }, 
+      "uri": "spotify:artist:3fhOTtm0LBJ3Ojn4hIljLo", 
+      "href": "https://api.spotify.com/v1/artists/3fhOTtm0LBJ3Ojn4hIljLo", 
+      "type": "artist", 
+      "id": "3fhOTtm0LBJ3Ojn4hIljLo"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/bceaddf81652dcfc62ab28d90e3b12b7ff59b324", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/4c6e30b6c9a5a3e4628b3bfc5f28a328a36ec0c4", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/807caecdb55678d11bfe35bd70e47c236c103764", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00724384095154"
+  }, 
+  "type": "album", 
+  "id": "7MCxE9Sx4zHSXL4xXHm4Im", 
+  "name": "More Than This - The Best Of Bryan Ferry And Roxy Music"
+}

@@ -1,0 +1,431 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1b5kjGhDwtLgOJLS65bKYh"
+  }, 
+  "release_date": "1996-03-11", 
+  "popularity": 25, 
+  "genres": [], 
+  "uri": "spotify:album:1b5kjGhDwtLgOJLS65bKYh", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Metronomic Underground", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/08GFBBgUwyuG9s4rFVbULP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/476cb67bc4ba6ce214844c7ba097b8665501fd84", 
+        "is_playable": true, 
+        "uri": "spotify:track:08GFBBgUwyuG9s4rFVbULP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/08GFBBgUwyuG9s4rFVbULP", 
+        "artists": [
+          {
+            "name": "Stereolab", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+            }, 
+            "uri": "spotify:artist:3Rj0tDHoX7C5NFq5DKIpHt", 
+            "href": "https://api.spotify.com/v1/artists/3Rj0tDHoX7C5NFq5DKIpHt", 
+            "type": "artist", 
+            "id": "3Rj0tDHoX7C5NFq5DKIpHt"
+          }
+        ], 
+        "duration_ms": 474506, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "08GFBBgUwyuG9s4rFVbULP"
+      }, 
+      {
+        "name": "Cybele's Reverie", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5ciXUjByE8xkrUVEn0WDo8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ca8daf3ad2c748b564dc1feab575d9b2d684ab3f", 
+        "is_playable": true, 
+        "uri": "spotify:track:5ciXUjByE8xkrUVEn0WDo8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5ciXUjByE8xkrUVEn0WDo8", 
+        "artists": [
+          {
+            "name": "Stereolab", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+            }, 
+            "uri": "spotify:artist:3Rj0tDHoX7C5NFq5DKIpHt", 
+            "href": "https://api.spotify.com/v1/artists/3Rj0tDHoX7C5NFq5DKIpHt", 
+            "type": "artist", 
+            "id": "3Rj0tDHoX7C5NFq5DKIpHt"
+          }
+        ], 
+        "duration_ms": 282840, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "5ciXUjByE8xkrUVEn0WDo8"
+      }, 
+      {
+        "name": "Percolator", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3KfbH7hqGACdEAF9FTWDOB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/40f3bf58f0237e4ff209fb47765c17cd3eef5ff8", 
+        "is_playable": true, 
+        "uri": "spotify:track:3KfbH7hqGACdEAF9FTWDOB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3KfbH7hqGACdEAF9FTWDOB", 
+        "artists": [
+          {
+            "name": "Stereolab", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+            }, 
+            "uri": "spotify:artist:3Rj0tDHoX7C5NFq5DKIpHt", 
+            "href": "https://api.spotify.com/v1/artists/3Rj0tDHoX7C5NFq5DKIpHt", 
+            "type": "artist", 
+            "id": "3Rj0tDHoX7C5NFq5DKIpHt"
+          }
+        ], 
+        "duration_ms": 227200, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "3KfbH7hqGACdEAF9FTWDOB"
+      }, 
+      {
+        "name": "Les Yper Sound", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7yeNVwDxyU3PYh78JbQEDj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8f147f0f85cbbe6d6751c1be5fed433e793f818e", 
+        "is_playable": true, 
+        "uri": "spotify:track:7yeNVwDxyU3PYh78JbQEDj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7yeNVwDxyU3PYh78JbQEDj", 
+        "artists": [
+          {
+            "name": "Stereolab", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+            }, 
+            "uri": "spotify:artist:3Rj0tDHoX7C5NFq5DKIpHt", 
+            "href": "https://api.spotify.com/v1/artists/3Rj0tDHoX7C5NFq5DKIpHt", 
+            "type": "artist", 
+            "id": "3Rj0tDHoX7C5NFq5DKIpHt"
+          }
+        ], 
+        "duration_ms": 245160, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "7yeNVwDxyU3PYh78JbQEDj"
+      }, 
+      {
+        "name": "Spark Plug", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4IwEdHpCrfrY9wtNpA9FGS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3fd48df936e3918bd6d779fd2d9f7372e87c4e06", 
+        "is_playable": true, 
+        "uri": "spotify:track:4IwEdHpCrfrY9wtNpA9FGS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4IwEdHpCrfrY9wtNpA9FGS", 
+        "artists": [
+          {
+            "name": "Stereolab", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+            }, 
+            "uri": "spotify:artist:3Rj0tDHoX7C5NFq5DKIpHt", 
+            "href": "https://api.spotify.com/v1/artists/3Rj0tDHoX7C5NFq5DKIpHt", 
+            "type": "artist", 
+            "id": "3Rj0tDHoX7C5NFq5DKIpHt"
+          }
+        ], 
+        "duration_ms": 149533, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "4IwEdHpCrfrY9wtNpA9FGS"
+      }, 
+      {
+        "name": "OLV 26", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3vGoo35EyrjMABr8vGQ7Lo"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6b3c117dbff16c50abe6591f0b55cb87aaf379e6", 
+        "is_playable": true, 
+        "uri": "spotify:track:3vGoo35EyrjMABr8vGQ7Lo", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3vGoo35EyrjMABr8vGQ7Lo", 
+        "artists": [
+          {
+            "name": "Stereolab", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+            }, 
+            "uri": "spotify:artist:3Rj0tDHoX7C5NFq5DKIpHt", 
+            "href": "https://api.spotify.com/v1/artists/3Rj0tDHoX7C5NFq5DKIpHt", 
+            "type": "artist", 
+            "id": "3Rj0tDHoX7C5NFq5DKIpHt"
+          }
+        ], 
+        "duration_ms": 342306, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "3vGoo35EyrjMABr8vGQ7Lo"
+      }, 
+      {
+        "name": "The Noise Of Carpet", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6UdN03myELDpJbk9uieVwt"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fab52241f08bceb9054fad997652138683d7af09", 
+        "is_playable": true, 
+        "uri": "spotify:track:6UdN03myELDpJbk9uieVwt", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6UdN03myELDpJbk9uieVwt", 
+        "artists": [
+          {
+            "name": "Stereolab", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+            }, 
+            "uri": "spotify:artist:3Rj0tDHoX7C5NFq5DKIpHt", 
+            "href": "https://api.spotify.com/v1/artists/3Rj0tDHoX7C5NFq5DKIpHt", 
+            "type": "artist", 
+            "id": "3Rj0tDHoX7C5NFq5DKIpHt"
+          }
+        ], 
+        "duration_ms": 185493, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "6UdN03myELDpJbk9uieVwt"
+      }, 
+      {
+        "name": "Tomorrow Is Already Here", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5c06WXJpCqFz66pPvUc4RU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c89c7eb7a65c2e377e9c37a5473c0caba467099b", 
+        "is_playable": true, 
+        "uri": "spotify:track:5c06WXJpCqFz66pPvUc4RU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5c06WXJpCqFz66pPvUc4RU", 
+        "artists": [
+          {
+            "name": "Stereolab", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+            }, 
+            "uri": "spotify:artist:3Rj0tDHoX7C5NFq5DKIpHt", 
+            "href": "https://api.spotify.com/v1/artists/3Rj0tDHoX7C5NFq5DKIpHt", 
+            "type": "artist", 
+            "id": "3Rj0tDHoX7C5NFq5DKIpHt"
+          }
+        ], 
+        "duration_ms": 296666, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "5c06WXJpCqFz66pPvUc4RU"
+      }, 
+      {
+        "name": "Emperor Tomato Ketchup", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Z7cd08vj6r38uG0OfKt3I"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/93a902d6dbbf0840a80971b244cea804145f7f5e", 
+        "is_playable": true, 
+        "uri": "spotify:track:2Z7cd08vj6r38uG0OfKt3I", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2Z7cd08vj6r38uG0OfKt3I", 
+        "artists": [
+          {
+            "name": "Stereolab", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+            }, 
+            "uri": "spotify:artist:3Rj0tDHoX7C5NFq5DKIpHt", 
+            "href": "https://api.spotify.com/v1/artists/3Rj0tDHoX7C5NFq5DKIpHt", 
+            "type": "artist", 
+            "id": "3Rj0tDHoX7C5NFq5DKIpHt"
+          }
+        ], 
+        "duration_ms": 277333, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "2Z7cd08vj6r38uG0OfKt3I"
+      }, 
+      {
+        "name": "Monstre Sacre", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6b4FRvtwXTbEgLJPHVDczy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ae8dae94f67af2888ca4e247f40514a79927e43d", 
+        "is_playable": true, 
+        "uri": "spotify:track:6b4FRvtwXTbEgLJPHVDczy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6b4FRvtwXTbEgLJPHVDczy", 
+        "artists": [
+          {
+            "name": "Stereolab", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+            }, 
+            "uri": "spotify:artist:3Rj0tDHoX7C5NFq5DKIpHt", 
+            "href": "https://api.spotify.com/v1/artists/3Rj0tDHoX7C5NFq5DKIpHt", 
+            "type": "artist", 
+            "id": "3Rj0tDHoX7C5NFq5DKIpHt"
+          }
+        ], 
+        "duration_ms": 224333, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "6b4FRvtwXTbEgLJPHVDczy"
+      }, 
+      {
+        "name": "Motoroller Scalatron", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/412ATQ7ZA40CjkmdQnIxGx"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c40e1544bd1133512e101377f61b15bf5f55f889", 
+        "is_playable": true, 
+        "uri": "spotify:track:412ATQ7ZA40CjkmdQnIxGx", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/412ATQ7ZA40CjkmdQnIxGx", 
+        "artists": [
+          {
+            "name": "Stereolab", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+            }, 
+            "uri": "spotify:artist:3Rj0tDHoX7C5NFq5DKIpHt", 
+            "href": "https://api.spotify.com/v1/artists/3Rj0tDHoX7C5NFq5DKIpHt", 
+            "type": "artist", 
+            "id": "3Rj0tDHoX7C5NFq5DKIpHt"
+          }
+        ], 
+        "duration_ms": 228666, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "412ATQ7ZA40CjkmdQnIxGx"
+      }, 
+      {
+        "name": "Slow Fast Hazel", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/17146bUmuAzJMxT4k0gdOk"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a4cae6b138818741aa3822d66115be98a2f7cfdf", 
+        "is_playable": true, 
+        "uri": "spotify:track:17146bUmuAzJMxT4k0gdOk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/17146bUmuAzJMxT4k0gdOk", 
+        "artists": [
+          {
+            "name": "Stereolab", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+            }, 
+            "uri": "spotify:artist:3Rj0tDHoX7C5NFq5DKIpHt", 
+            "href": "https://api.spotify.com/v1/artists/3Rj0tDHoX7C5NFq5DKIpHt", 
+            "type": "artist", 
+            "id": "3Rj0tDHoX7C5NFq5DKIpHt"
+          }
+        ], 
+        "duration_ms": 233200, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "17146bUmuAzJMxT4k0gdOk"
+      }, 
+      {
+        "name": "Anonymous Collective", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6TdX9s6wHn2dIgtWFzp5DC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1811140163ef1a2256a627ad02af4dca517cb2b8", 
+        "is_playable": true, 
+        "uri": "spotify:track:6TdX9s6wHn2dIgtWFzp5DC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6TdX9s6wHn2dIgtWFzp5DC", 
+        "artists": [
+          {
+            "name": "Stereolab", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+            }, 
+            "uri": "spotify:artist:3Rj0tDHoX7C5NFq5DKIpHt", 
+            "href": "https://api.spotify.com/v1/artists/3Rj0tDHoX7C5NFq5DKIpHt", 
+            "type": "artist", 
+            "id": "3Rj0tDHoX7C5NFq5DKIpHt"
+          }
+        ], 
+        "duration_ms": 272760, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "6TdX9s6wHn2dIgtWFzp5DC"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/1b5kjGhDwtLgOJLS65bKYh/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 13, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/1b5kjGhDwtLgOJLS65bKYh", 
+  "copyrights": [
+    {
+      "text": "1996 Duophonic UHF Disks", 
+      "type": "C"
+    }, 
+    {
+      "text": "1996 Duophonic UHF Disks", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Stereolab", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+      }, 
+      "uri": "spotify:artist:3Rj0tDHoX7C5NFq5DKIpHt", 
+      "href": "https://api.spotify.com/v1/artists/3Rj0tDHoX7C5NFq5DKIpHt", 
+      "type": "artist", 
+      "id": "3Rj0tDHoX7C5NFq5DKIpHt"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/022325eda30b41e72fb9c65dafcbed03694b8cca", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/be0034e124adda30b8e47a3e5d792dc2d35e2b4a", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/d91834517e9fdfd3367c92728c215ec9f1927fa5", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "5051083051293"
+  }, 
+  "type": "album", 
+  "id": "1b5kjGhDwtLgOJLS65bKYh", 
+  "name": "Emperor Tomato Ketchup"
+}

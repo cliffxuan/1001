@@ -1,0 +1,431 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3dbeq8w6JqKAIxIgfZQPjC"
+  }, 
+  "release_date": "1994", 
+  "popularity": 24, 
+  "genres": [], 
+  "uri": "spotify:album:3dbeq8w6JqKAIxIgfZQPjC", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Intro (Life)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5wc2Hjz1jRFHwFEgWxP5LU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c321170dd27aa176f131a49de69d034cad441a5b", 
+        "is_playable": true, 
+        "uri": "spotify:track:5wc2Hjz1jRFHwFEgWxP5LU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5wc2Hjz1jRFHwFEgWxP5LU", 
+        "artists": [
+          {
+            "name": "Jeru The Damaja", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6CsOL9C9iLL0eWKINlDxzQ"
+            }, 
+            "uri": "spotify:artist:6CsOL9C9iLL0eWKINlDxzQ", 
+            "href": "https://api.spotify.com/v1/artists/6CsOL9C9iLL0eWKINlDxzQ", 
+            "type": "artist", 
+            "id": "6CsOL9C9iLL0eWKINlDxzQ"
+          }
+        ], 
+        "duration_ms": 50200, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "5wc2Hjz1jRFHwFEgWxP5LU"
+      }, 
+      {
+        "name": "D. Original", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6w7qNYH0bfksVoPxNxVM7x"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fdf6f7146da8f3704a061862369db4e589f60dd7", 
+        "is_playable": true, 
+        "uri": "spotify:track:6w7qNYH0bfksVoPxNxVM7x", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6w7qNYH0bfksVoPxNxVM7x", 
+        "artists": [
+          {
+            "name": "Jeru The Damaja", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6CsOL9C9iLL0eWKINlDxzQ"
+            }, 
+            "uri": "spotify:artist:6CsOL9C9iLL0eWKINlDxzQ", 
+            "href": "https://api.spotify.com/v1/artists/6CsOL9C9iLL0eWKINlDxzQ", 
+            "type": "artist", 
+            "id": "6CsOL9C9iLL0eWKINlDxzQ"
+          }
+        ], 
+        "duration_ms": 215200, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "6w7qNYH0bfksVoPxNxVM7x"
+      }, 
+      {
+        "name": "Brooklyn Took It", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/68IRXdN3MyiBk9vlyUXBb6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6626d6aacd6215dc4145eee21be0a831034b0f1d", 
+        "is_playable": true, 
+        "uri": "spotify:track:68IRXdN3MyiBk9vlyUXBb6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/68IRXdN3MyiBk9vlyUXBb6", 
+        "artists": [
+          {
+            "name": "Jeru The Damaja", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6CsOL9C9iLL0eWKINlDxzQ"
+            }, 
+            "uri": "spotify:artist:6CsOL9C9iLL0eWKINlDxzQ", 
+            "href": "https://api.spotify.com/v1/artists/6CsOL9C9iLL0eWKINlDxzQ", 
+            "type": "artist", 
+            "id": "6CsOL9C9iLL0eWKINlDxzQ"
+          }
+        ], 
+        "duration_ms": 202626, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "68IRXdN3MyiBk9vlyUXBb6"
+      }, 
+      {
+        "name": "Perverted Monks In Tha House (Skit)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7cyPtUym2SOkajRJQTs9XQ"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ecace49de826a7eb825e4ad653654f47bed9ab41", 
+        "is_playable": true, 
+        "uri": "spotify:track:7cyPtUym2SOkajRJQTs9XQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7cyPtUym2SOkajRJQTs9XQ", 
+        "artists": [
+          {
+            "name": "Jeru The Damaja", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6CsOL9C9iLL0eWKINlDxzQ"
+            }, 
+            "uri": "spotify:artist:6CsOL9C9iLL0eWKINlDxzQ", 
+            "href": "https://api.spotify.com/v1/artists/6CsOL9C9iLL0eWKINlDxzQ", 
+            "type": "artist", 
+            "id": "6CsOL9C9iLL0eWKINlDxzQ"
+          }
+        ], 
+        "duration_ms": 73293, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "7cyPtUym2SOkajRJQTs9XQ"
+      }, 
+      {
+        "name": "Mental Stamina", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5wz5f738WZPMyqMr9opDay"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a6999bbd5a113375df3cfbdb6c3f2a68e974eebe", 
+        "is_playable": true, 
+        "uri": "spotify:track:5wz5f738WZPMyqMr9opDay", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5wz5f738WZPMyqMr9opDay", 
+        "artists": [
+          {
+            "name": "Jeru The Damaja", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6CsOL9C9iLL0eWKINlDxzQ"
+            }, 
+            "uri": "spotify:artist:6CsOL9C9iLL0eWKINlDxzQ", 
+            "href": "https://api.spotify.com/v1/artists/6CsOL9C9iLL0eWKINlDxzQ", 
+            "type": "artist", 
+            "id": "6CsOL9C9iLL0eWKINlDxzQ"
+          }
+        ], 
+        "duration_ms": 141266, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "5wz5f738WZPMyqMr9opDay"
+      }, 
+      {
+        "name": "Da Bichez", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4WFxLWQpdhUA5sMLVVFPeA"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/58819cd486e16c81c099934e8b932a7374d13105", 
+        "is_playable": true, 
+        "uri": "spotify:track:4WFxLWQpdhUA5sMLVVFPeA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4WFxLWQpdhUA5sMLVVFPeA", 
+        "artists": [
+          {
+            "name": "Jeru The Damaja", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6CsOL9C9iLL0eWKINlDxzQ"
+            }, 
+            "uri": "spotify:artist:6CsOL9C9iLL0eWKINlDxzQ", 
+            "href": "https://api.spotify.com/v1/artists/6CsOL9C9iLL0eWKINlDxzQ", 
+            "type": "artist", 
+            "id": "6CsOL9C9iLL0eWKINlDxzQ"
+          }
+        ], 
+        "duration_ms": 231466, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "4WFxLWQpdhUA5sMLVVFPeA"
+      }, 
+      {
+        "name": "You Can't Stop The Prophet", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1FjQWeNtb1yUwHCJUt3rsu"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/39154a3f74faa6d32e2680097f16285dfba9bb07", 
+        "is_playable": true, 
+        "uri": "spotify:track:1FjQWeNtb1yUwHCJUt3rsu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1FjQWeNtb1yUwHCJUt3rsu", 
+        "artists": [
+          {
+            "name": "Jeru The Damaja", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6CsOL9C9iLL0eWKINlDxzQ"
+            }, 
+            "uri": "spotify:artist:6CsOL9C9iLL0eWKINlDxzQ", 
+            "href": "https://api.spotify.com/v1/artists/6CsOL9C9iLL0eWKINlDxzQ", 
+            "type": "artist", 
+            "id": "6CsOL9C9iLL0eWKINlDxzQ"
+          }
+        ], 
+        "duration_ms": 233893, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "1FjQWeNtb1yUwHCJUt3rsu"
+      }, 
+      {
+        "name": "Perverted Monks In Tha House (Theme)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/74dZJXAR4seDqF7DrrT9dc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/58a4f7fa6aeb228afbbd01c3c0550305ec3c02a1", 
+        "is_playable": true, 
+        "uri": "spotify:track:74dZJXAR4seDqF7DrrT9dc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/74dZJXAR4seDqF7DrrT9dc", 
+        "artists": [
+          {
+            "name": "Jeru The Damaja", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6CsOL9C9iLL0eWKINlDxzQ"
+            }, 
+            "uri": "spotify:artist:6CsOL9C9iLL0eWKINlDxzQ", 
+            "href": "https://api.spotify.com/v1/artists/6CsOL9C9iLL0eWKINlDxzQ", 
+            "type": "artist", 
+            "id": "6CsOL9C9iLL0eWKINlDxzQ"
+          }
+        ], 
+        "duration_ms": 62026, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "74dZJXAR4seDqF7DrrT9dc"
+      }, 
+      {
+        "name": "Ain't The Devil Happy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/03NautxhWQzZTt2s7yWGJx"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3167e53e7f2d006068f810e2cda6da5bb0057bac", 
+        "is_playable": true, 
+        "uri": "spotify:track:03NautxhWQzZTt2s7yWGJx", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/03NautxhWQzZTt2s7yWGJx", 
+        "artists": [
+          {
+            "name": "Jeru The Damaja", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6CsOL9C9iLL0eWKINlDxzQ"
+            }, 
+            "uri": "spotify:artist:6CsOL9C9iLL0eWKINlDxzQ", 
+            "href": "https://api.spotify.com/v1/artists/6CsOL9C9iLL0eWKINlDxzQ", 
+            "type": "artist", 
+            "id": "6CsOL9C9iLL0eWKINlDxzQ"
+          }
+        ], 
+        "duration_ms": 223933, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "03NautxhWQzZTt2s7yWGJx"
+      }, 
+      {
+        "name": "My Mind Spray", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6JRad6k6gRR89vG1lZhKt2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ae1624f23a3cd402c1d5e2eded5eede9cb6fa218", 
+        "is_playable": true, 
+        "uri": "spotify:track:6JRad6k6gRR89vG1lZhKt2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6JRad6k6gRR89vG1lZhKt2", 
+        "artists": [
+          {
+            "name": "Jeru The Damaja", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6CsOL9C9iLL0eWKINlDxzQ"
+            }, 
+            "uri": "spotify:artist:6CsOL9C9iLL0eWKINlDxzQ", 
+            "href": "https://api.spotify.com/v1/artists/6CsOL9C9iLL0eWKINlDxzQ", 
+            "type": "artist", 
+            "id": "6CsOL9C9iLL0eWKINlDxzQ"
+          }
+        ], 
+        "duration_ms": 224000, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "6JRad6k6gRR89vG1lZhKt2"
+      }, 
+      {
+        "name": "Come Clean - E New Y Radio", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7zPZmh3z86rACXyZOvSnOh"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/44209115e7a17ca78462dda6006091b899170846", 
+        "is_playable": true, 
+        "uri": "spotify:track:7zPZmh3z86rACXyZOvSnOh", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7zPZmh3z86rACXyZOvSnOh", 
+        "artists": [
+          {
+            "name": "Jeru The Damaja", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6CsOL9C9iLL0eWKINlDxzQ"
+            }, 
+            "uri": "spotify:artist:6CsOL9C9iLL0eWKINlDxzQ", 
+            "href": "https://api.spotify.com/v1/artists/6CsOL9C9iLL0eWKINlDxzQ", 
+            "type": "artist", 
+            "id": "6CsOL9C9iLL0eWKINlDxzQ"
+          }
+        ], 
+        "duration_ms": 296706, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "7zPZmh3z86rACXyZOvSnOh"
+      }, 
+      {
+        "name": "Jungle Music", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3dRtSNkOdWHfUlEI2UTOwm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3a24d29a138a2856454a37679d19a87346d25423", 
+        "is_playable": true, 
+        "uri": "spotify:track:3dRtSNkOdWHfUlEI2UTOwm", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3dRtSNkOdWHfUlEI2UTOwm", 
+        "artists": [
+          {
+            "name": "Jeru The Damaja", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6CsOL9C9iLL0eWKINlDxzQ"
+            }, 
+            "uri": "spotify:artist:6CsOL9C9iLL0eWKINlDxzQ", 
+            "href": "https://api.spotify.com/v1/artists/6CsOL9C9iLL0eWKINlDxzQ", 
+            "type": "artist", 
+            "id": "6CsOL9C9iLL0eWKINlDxzQ"
+          }
+        ], 
+        "duration_ms": 229693, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "3dRtSNkOdWHfUlEI2UTOwm"
+      }, 
+      {
+        "name": "Statik", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0U1IlxKQLrnONpwKATCpvY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9d7a7057aa0abb429985a0a7501c51e126395030", 
+        "is_playable": true, 
+        "uri": "spotify:track:0U1IlxKQLrnONpwKATCpvY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0U1IlxKQLrnONpwKATCpvY", 
+        "artists": [
+          {
+            "name": "Jeru The Damaja", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6CsOL9C9iLL0eWKINlDxzQ"
+            }, 
+            "uri": "spotify:artist:6CsOL9C9iLL0eWKINlDxzQ", 
+            "href": "https://api.spotify.com/v1/artists/6CsOL9C9iLL0eWKINlDxzQ", 
+            "type": "artist", 
+            "id": "6CsOL9C9iLL0eWKINlDxzQ"
+          }
+        ], 
+        "duration_ms": 186733, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "0U1IlxKQLrnONpwKATCpvY"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/3dbeq8w6JqKAIxIgfZQPjC/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 13, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/3dbeq8w6JqKAIxIgfZQPjC", 
+  "copyrights": [
+    {
+      "text": "(C) 1994 FFRR", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1994 FFRR", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Jeru The Damaja", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6CsOL9C9iLL0eWKINlDxzQ"
+      }, 
+      "uri": "spotify:artist:6CsOL9C9iLL0eWKINlDxzQ", 
+      "href": "https://api.spotify.com/v1/artists/6CsOL9C9iLL0eWKINlDxzQ", 
+      "type": "artist", 
+      "id": "6CsOL9C9iLL0eWKINlDxzQ"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/45dff4133953a554e1e3f8a54e8ed3ff7c6cf06e", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/7437d60a445c388d0fc80b288b2e66b3c4ac7875", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/b509293083f71514e2dd0083406a4a4b36cbd40c", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00769712401122"
+  }, 
+  "type": "album", 
+  "id": "3dbeq8w6JqKAIxIgfZQPjC", 
+  "name": "The Sun Rises In The East"
+}

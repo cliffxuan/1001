@@ -1,0 +1,375 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5pCRW9AT4BgoMOS52pRoJq"
+  }, 
+  "release_date": "1969", 
+  "popularity": 58, 
+  "genres": [], 
+  "uri": "spotify:album:5pCRW9AT4BgoMOS52pRoJq", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Born On The Bayou", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/587bVBCHYW5Q2VNRLig4AS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/72a30e87058cfdbc5b0d2f24847fef09bd00774f", 
+        "is_playable": true, 
+        "uri": "spotify:track:587bVBCHYW5Q2VNRLig4AS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/587bVBCHYW5Q2VNRLig4AS", 
+        "artists": [
+          {
+            "name": "Creedence Clearwater Revival", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+            }, 
+            "uri": "spotify:artist:3IYUhFvPQItj6xySrBmZkd", 
+            "href": "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd", 
+            "type": "artist", 
+            "id": "3IYUhFvPQItj6xySrBmZkd"
+          }
+        ], 
+        "duration_ms": 315200, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "587bVBCHYW5Q2VNRLig4AS"
+      }, 
+      {
+        "name": "Bootleg", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6gYrx5BUExG7LcQSjC4hpH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/98063d129d33995c0a49251956cea172d9916b6f", 
+        "is_playable": true, 
+        "uri": "spotify:track:6gYrx5BUExG7LcQSjC4hpH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6gYrx5BUExG7LcQSjC4hpH", 
+        "artists": [
+          {
+            "name": "Creedence Clearwater Revival", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+            }, 
+            "uri": "spotify:artist:3IYUhFvPQItj6xySrBmZkd", 
+            "href": "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd", 
+            "type": "artist", 
+            "id": "3IYUhFvPQItj6xySrBmZkd"
+          }
+        ], 
+        "duration_ms": 182013, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "6gYrx5BUExG7LcQSjC4hpH"
+      }, 
+      {
+        "name": "Graveyard Train", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1IXHlsAAdH8r7N2ueqTaSP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5a83a4afaf34bcbe6a7f2617feca16f6517152d6", 
+        "is_playable": true, 
+        "uri": "spotify:track:1IXHlsAAdH8r7N2ueqTaSP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1IXHlsAAdH8r7N2ueqTaSP", 
+        "artists": [
+          {
+            "name": "Creedence Clearwater Revival", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+            }, 
+            "uri": "spotify:artist:3IYUhFvPQItj6xySrBmZkd", 
+            "href": "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd", 
+            "type": "artist", 
+            "id": "3IYUhFvPQItj6xySrBmZkd"
+          }
+        ], 
+        "duration_ms": 516320, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "1IXHlsAAdH8r7N2ueqTaSP"
+      }, 
+      {
+        "name": "Good Golly Miss Molly", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Ip2Ia3DPgc9PJ6hcQW6Xa"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/15339b82bd8aa68e38eb3e23d1d8b6bce105174c", 
+        "is_playable": true, 
+        "uri": "spotify:track:6Ip2Ia3DPgc9PJ6hcQW6Xa", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6Ip2Ia3DPgc9PJ6hcQW6Xa", 
+        "artists": [
+          {
+            "name": "Creedence Clearwater Revival", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+            }, 
+            "uri": "spotify:artist:3IYUhFvPQItj6xySrBmZkd", 
+            "href": "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd", 
+            "type": "artist", 
+            "id": "3IYUhFvPQItj6xySrBmZkd"
+          }
+        ], 
+        "duration_ms": 161853, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "6Ip2Ia3DPgc9PJ6hcQW6Xa"
+      }, 
+      {
+        "name": "Penthouse Pauper", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/15sEvPgJVQxppJQVcI1Hsm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1db17ff0753f88189033d8a9d328aea0d9dd2c57", 
+        "is_playable": true, 
+        "uri": "spotify:track:15sEvPgJVQxppJQVcI1Hsm", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/15sEvPgJVQxppJQVcI1Hsm", 
+        "artists": [
+          {
+            "name": "Creedence Clearwater Revival", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+            }, 
+            "uri": "spotify:artist:3IYUhFvPQItj6xySrBmZkd", 
+            "href": "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd", 
+            "type": "artist", 
+            "id": "3IYUhFvPQItj6xySrBmZkd"
+          }
+        ], 
+        "duration_ms": 217666, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "15sEvPgJVQxppJQVcI1Hsm"
+      }, 
+      {
+        "name": "Proud Mary", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6pxWv6GV35VGmcPf5dh6CH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8bb35ad2a351d1df0b4a387e08ff6e214823b168", 
+        "is_playable": true, 
+        "uri": "spotify:track:6pxWv6GV35VGmcPf5dh6CH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6pxWv6GV35VGmcPf5dh6CH", 
+        "artists": [
+          {
+            "name": "Creedence Clearwater Revival", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+            }, 
+            "uri": "spotify:artist:3IYUhFvPQItj6xySrBmZkd", 
+            "href": "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd", 
+            "type": "artist", 
+            "id": "3IYUhFvPQItj6xySrBmZkd"
+          }
+        ], 
+        "duration_ms": 187213, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "6pxWv6GV35VGmcPf5dh6CH"
+      }, 
+      {
+        "name": "Keep On Chooglin'", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5IxWpMxgs2dWVbcKGedAt3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/835becd2070a8ad41e2ee7b2af82d7756ac381c6", 
+        "is_playable": true, 
+        "uri": "spotify:track:5IxWpMxgs2dWVbcKGedAt3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5IxWpMxgs2dWVbcKGedAt3", 
+        "artists": [
+          {
+            "name": "Creedence Clearwater Revival", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+            }, 
+            "uri": "spotify:artist:3IYUhFvPQItj6xySrBmZkd", 
+            "href": "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd", 
+            "type": "artist", 
+            "id": "3IYUhFvPQItj6xySrBmZkd"
+          }
+        ], 
+        "duration_ms": 461293, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "5IxWpMxgs2dWVbcKGedAt3"
+      }, 
+      {
+        "name": "Bootleg - Alternate Take", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/01yeCqBol6a2pKYDG36Ahw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8bd445f3306fdae87c36428148caaabdabf58434", 
+        "is_playable": true, 
+        "uri": "spotify:track:01yeCqBol6a2pKYDG36Ahw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/01yeCqBol6a2pKYDG36Ahw", 
+        "artists": [
+          {
+            "name": "Creedence Clearwater Revival", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+            }, 
+            "uri": "spotify:artist:3IYUhFvPQItj6xySrBmZkd", 
+            "href": "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd", 
+            "type": "artist", 
+            "id": "3IYUhFvPQItj6xySrBmZkd"
+          }
+        ], 
+        "duration_ms": 346200, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "01yeCqBol6a2pKYDG36Ahw"
+      }, 
+      {
+        "name": "Born On The Bayou - Live In London", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1nmmdbh7hhr7Kj4fKhGfFs"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/39fd61c8b76d36b719b59848b9ea47e369ad79cb", 
+        "is_playable": true, 
+        "uri": "spotify:track:1nmmdbh7hhr7Kj4fKhGfFs", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1nmmdbh7hhr7Kj4fKhGfFs", 
+        "artists": [
+          {
+            "name": "Creedence Clearwater Revival", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+            }, 
+            "uri": "spotify:artist:3IYUhFvPQItj6xySrBmZkd", 
+            "href": "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd", 
+            "type": "artist", 
+            "id": "3IYUhFvPQItj6xySrBmZkd"
+          }
+        ], 
+        "duration_ms": 286160, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "1nmmdbh7hhr7Kj4fKhGfFs"
+      }, 
+      {
+        "name": "Proud Mary - Live In Stockholm", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3NEvd0XhGdbIJb0no9R0Jl"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/286936d7cc7c1a20171a91e22ebd09372c278912", 
+        "is_playable": true, 
+        "uri": "spotify:track:3NEvd0XhGdbIJb0no9R0Jl", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3NEvd0XhGdbIJb0no9R0Jl", 
+        "artists": [
+          {
+            "name": "Creedence Clearwater Revival", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+            }, 
+            "uri": "spotify:artist:3IYUhFvPQItj6xySrBmZkd", 
+            "href": "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd", 
+            "type": "artist", 
+            "id": "3IYUhFvPQItj6xySrBmZkd"
+          }
+        ], 
+        "duration_ms": 169186, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "3NEvd0XhGdbIJb0no9R0Jl"
+      }, 
+      {
+        "name": "Crazy Otto - Live at The Fillmore", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3GwlfGIs0TF3WWcBHp3rbQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2017809bafe2807b0a7f48bc8e0ba09d5832023f", 
+        "is_playable": true, 
+        "uri": "spotify:track:3GwlfGIs0TF3WWcBHp3rbQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3GwlfGIs0TF3WWcBHp3rbQ", 
+        "artists": [
+          {
+            "name": "Creedence Clearwater Revival", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+            }, 
+            "uri": "spotify:artist:3IYUhFvPQItj6xySrBmZkd", 
+            "href": "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd", 
+            "type": "artist", 
+            "id": "3IYUhFvPQItj6xySrBmZkd"
+          }
+        ], 
+        "duration_ms": 528840, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "3GwlfGIs0TF3WWcBHp3rbQ"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/5pCRW9AT4BgoMOS52pRoJq/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 11, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/5pCRW9AT4BgoMOS52pRoJq", 
+  "copyrights": [
+    {
+      "text": "(C) 2008 Concord Music Group, Inc.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 2008 Concord Music Group, Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Creedence Clearwater Revival", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+      }, 
+      "uri": "spotify:artist:3IYUhFvPQItj6xySrBmZkd", 
+      "href": "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd", 
+      "type": "artist", 
+      "id": "3IYUhFvPQItj6xySrBmZkd"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ea953711d7aee5d77ec89a3524eb1ca1913c4cbd", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/378d421c5232404c22ba6296c688463f8f390d8b", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/7e5acb86a79b0ce70ebd866f1881e18be2704369", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00888072360969"
+  }, 
+  "type": "album", 
+  "id": "5pCRW9AT4BgoMOS52pRoJq", 
+  "name": "Bayou Country (40th Anniversary Edition)"
+}

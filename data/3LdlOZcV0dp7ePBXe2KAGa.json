@@ -1,0 +1,511 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3LdlOZcV0dp7ePBXe2KAGa"
+  }, 
+  "release_date": "1972", 
+  "popularity": 54, 
+  "genres": [], 
+  "uri": "spotify:album:3LdlOZcV0dp7ePBXe2KAGa", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Sweet Jane", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6FfW6UCP2xGzhVcPWiyP9t"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ff184c7d20d2d0d15538854347993b0f50b2cddc", 
+        "is_playable": true, 
+        "uri": "spotify:track:6FfW6UCP2xGzhVcPWiyP9t", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6FfW6UCP2xGzhVcPWiyP9t", 
+        "artists": [
+          {
+            "name": "Mott The Hoople", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6"
+            }, 
+            "uri": "spotify:artist:6ysQi6NI88X627t2srsWz6", 
+            "href": "https://api.spotify.com/v1/artists/6ysQi6NI88X627t2srsWz6", 
+            "type": "artist", 
+            "id": "6ysQi6NI88X627t2srsWz6"
+          }
+        ], 
+        "duration_ms": 261200, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "6FfW6UCP2xGzhVcPWiyP9t"
+      }, 
+      {
+        "name": "Momma's Little Jewel", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/641dtfYmSfdCGSwoika6aT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/017db12408bb286a29fc95f5d5faca3a790cdbd4", 
+        "is_playable": true, 
+        "uri": "spotify:track:641dtfYmSfdCGSwoika6aT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/641dtfYmSfdCGSwoika6aT", 
+        "artists": [
+          {
+            "name": "Mott The Hoople", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6"
+            }, 
+            "uri": "spotify:artist:6ysQi6NI88X627t2srsWz6", 
+            "href": "https://api.spotify.com/v1/artists/6ysQi6NI88X627t2srsWz6", 
+            "type": "artist", 
+            "id": "6ysQi6NI88X627t2srsWz6"
+          }
+        ], 
+        "duration_ms": 266800, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "641dtfYmSfdCGSwoika6aT"
+      }, 
+      {
+        "name": "All the Young Dudes", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0WNGPpmWqzPnk0psUhJ3SX"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/feb95b82ba47a3f1d15272ead2f5b0efd5f3aa35", 
+        "is_playable": true, 
+        "uri": "spotify:track:0WNGPpmWqzPnk0psUhJ3SX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0WNGPpmWqzPnk0psUhJ3SX", 
+        "artists": [
+          {
+            "name": "Mott The Hoople", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6"
+            }, 
+            "uri": "spotify:artist:6ysQi6NI88X627t2srsWz6", 
+            "href": "https://api.spotify.com/v1/artists/6ysQi6NI88X627t2srsWz6", 
+            "type": "artist", 
+            "id": "6ysQi6NI88X627t2srsWz6"
+          }
+        ], 
+        "duration_ms": 211066, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "0WNGPpmWqzPnk0psUhJ3SX"
+      }, 
+      {
+        "name": "Sucker", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4RyRHVMQO83QOegMOMXHq2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2ca57f2a3f5633bb900551fbe4bc87f241c089ec", 
+        "is_playable": true, 
+        "uri": "spotify:track:4RyRHVMQO83QOegMOMXHq2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4RyRHVMQO83QOegMOMXHq2", 
+        "artists": [
+          {
+            "name": "Mott The Hoople", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6"
+            }, 
+            "uri": "spotify:artist:6ysQi6NI88X627t2srsWz6", 
+            "href": "https://api.spotify.com/v1/artists/6ysQi6NI88X627t2srsWz6", 
+            "type": "artist", 
+            "id": "6ysQi6NI88X627t2srsWz6"
+          }
+        ], 
+        "duration_ms": 299693, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "4RyRHVMQO83QOegMOMXHq2"
+      }, 
+      {
+        "name": "Jerkin' Crocus", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1xKF80cHD0H6VydMJqK4st"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6c3ea301c7f8aa365b97cfd4e1c43fbffc8e6af8", 
+        "is_playable": true, 
+        "uri": "spotify:track:1xKF80cHD0H6VydMJqK4st", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1xKF80cHD0H6VydMJqK4st", 
+        "artists": [
+          {
+            "name": "Mott The Hoople", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6"
+            }, 
+            "uri": "spotify:artist:6ysQi6NI88X627t2srsWz6", 
+            "href": "https://api.spotify.com/v1/artists/6ysQi6NI88X627t2srsWz6", 
+            "type": "artist", 
+            "id": "6ysQi6NI88X627t2srsWz6"
+          }
+        ], 
+        "duration_ms": 240800, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "1xKF80cHD0H6VydMJqK4st"
+      }, 
+      {
+        "name": "One of the Boys", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3xyJQopi3TWy2ouP5A3EcS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9c884151b8ae664924ee42b68110deb1171a4054", 
+        "is_playable": true, 
+        "uri": "spotify:track:3xyJQopi3TWy2ouP5A3EcS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3xyJQopi3TWy2ouP5A3EcS", 
+        "artists": [
+          {
+            "name": "Mott The Hoople", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6"
+            }, 
+            "uri": "spotify:artist:6ysQi6NI88X627t2srsWz6", 
+            "href": "https://api.spotify.com/v1/artists/6ysQi6NI88X627t2srsWz6", 
+            "type": "artist", 
+            "id": "6ysQi6NI88X627t2srsWz6"
+          }
+        ], 
+        "duration_ms": 406133, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "3xyJQopi3TWy2ouP5A3EcS"
+      }, 
+      {
+        "name": "Soft Ground", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4XafZ3SYHSfnapiqYfkVTZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bfc68e2d7b867953d58bdc53a968552b9a898dee", 
+        "is_playable": true, 
+        "uri": "spotify:track:4XafZ3SYHSfnapiqYfkVTZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4XafZ3SYHSfnapiqYfkVTZ", 
+        "artists": [
+          {
+            "name": "Mott The Hoople", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6"
+            }, 
+            "uri": "spotify:artist:6ysQi6NI88X627t2srsWz6", 
+            "href": "https://api.spotify.com/v1/artists/6ysQi6NI88X627t2srsWz6", 
+            "type": "artist", 
+            "id": "6ysQi6NI88X627t2srsWz6"
+          }
+        ], 
+        "duration_ms": 197626, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "4XafZ3SYHSfnapiqYfkVTZ"
+      }, 
+      {
+        "name": "Ready for Love / After Lights", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2XMmGaJiT0MnOdsUuEJOnP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f68f6f9373ebf13af3499b17c372f6f2d97d0d07", 
+        "is_playable": true, 
+        "uri": "spotify:track:2XMmGaJiT0MnOdsUuEJOnP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2XMmGaJiT0MnOdsUuEJOnP", 
+        "artists": [
+          {
+            "name": "Mott The Hoople", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6"
+            }, 
+            "uri": "spotify:artist:6ysQi6NI88X627t2srsWz6", 
+            "href": "https://api.spotify.com/v1/artists/6ysQi6NI88X627t2srsWz6", 
+            "type": "artist", 
+            "id": "6ysQi6NI88X627t2srsWz6"
+          }
+        ], 
+        "duration_ms": 405773, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "2XMmGaJiT0MnOdsUuEJOnP"
+      }, 
+      {
+        "name": "Sea Diver", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2FyKZ35cDojbqabaNJ76pW"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/54692c50f85054d66d701be2fc5a4390212cc22f", 
+        "is_playable": true, 
+        "uri": "spotify:track:2FyKZ35cDojbqabaNJ76pW", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2FyKZ35cDojbqabaNJ76pW", 
+        "artists": [
+          {
+            "name": "Mott The Hoople", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6"
+            }, 
+            "uri": "spotify:artist:6ysQi6NI88X627t2srsWz6", 
+            "href": "https://api.spotify.com/v1/artists/6ysQi6NI88X627t2srsWz6", 
+            "type": "artist", 
+            "id": "6ysQi6NI88X627t2srsWz6"
+          }
+        ], 
+        "duration_ms": 173706, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "2FyKZ35cDojbqabaNJ76pW"
+      }, 
+      {
+        "name": "One of the Boys - Demo Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/25atP8LN3pp7CkcUjWXZmC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1c44a5b8a187964d7208c39b5b7540f5a8b623c0", 
+        "is_playable": true, 
+        "uri": "spotify:track:25atP8LN3pp7CkcUjWXZmC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/25atP8LN3pp7CkcUjWXZmC", 
+        "artists": [
+          {
+            "name": "Mott The Hoople", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6"
+            }, 
+            "uri": "spotify:artist:6ysQi6NI88X627t2srsWz6", 
+            "href": "https://api.spotify.com/v1/artists/6ysQi6NI88X627t2srsWz6", 
+            "type": "artist", 
+            "id": "6ysQi6NI88X627t2srsWz6"
+          }
+        ], 
+        "duration_ms": 256506, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "25atP8LN3pp7CkcUjWXZmC"
+      }, 
+      {
+        "name": "Black Scorpio - Demo Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2pEydj4lKBDjcOgUrVhX6l"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ff8cd9412cf7b1b64fc3b22ca4be77cc16529334", 
+        "is_playable": true, 
+        "uri": "spotify:track:2pEydj4lKBDjcOgUrVhX6l", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2pEydj4lKBDjcOgUrVhX6l", 
+        "artists": [
+          {
+            "name": "Mott The Hoople", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6"
+            }, 
+            "uri": "spotify:artist:6ysQi6NI88X627t2srsWz6", 
+            "href": "https://api.spotify.com/v1/artists/6ysQi6NI88X627t2srsWz6", 
+            "type": "artist", 
+            "id": "6ysQi6NI88X627t2srsWz6"
+          }
+        ], 
+        "duration_ms": 213640, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "2pEydj4lKBDjcOgUrVhX6l"
+      }, 
+      {
+        "name": "Ride On The Sun - Demo Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0mlLIkI9Y3qW7Io0gvPjl1"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/23e4d57352e56e1101df06eb93d1fd2d49012be4", 
+        "is_playable": true, 
+        "uri": "spotify:track:0mlLIkI9Y3qW7Io0gvPjl1", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0mlLIkI9Y3qW7Io0gvPjl1", 
+        "artists": [
+          {
+            "name": "Mott The Hoople", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6"
+            }, 
+            "uri": "spotify:artist:6ysQi6NI88X627t2srsWz6", 
+            "href": "https://api.spotify.com/v1/artists/6ysQi6NI88X627t2srsWz6", 
+            "type": "artist", 
+            "id": "6ysQi6NI88X627t2srsWz6"
+          }
+        ], 
+        "duration_ms": 215040, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "0mlLIkI9Y3qW7Io0gvPjl1"
+      }, 
+      {
+        "name": "One of the Boys - Single Verison", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/19uTSUtOAujIOhCeZIJV8F"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/402789b824d12e2c9dac48116714cbf6e18cbdf1", 
+        "is_playable": true, 
+        "uri": "spotify:track:19uTSUtOAujIOhCeZIJV8F", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/19uTSUtOAujIOhCeZIJV8F", 
+        "artists": [
+          {
+            "name": "Mott The Hoople", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6"
+            }, 
+            "uri": "spotify:artist:6ysQi6NI88X627t2srsWz6", 
+            "href": "https://api.spotify.com/v1/artists/6ysQi6NI88X627t2srsWz6", 
+            "type": "artist", 
+            "id": "6ysQi6NI88X627t2srsWz6"
+          }
+        ], 
+        "duration_ms": 259733, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "19uTSUtOAujIOhCeZIJV8F"
+      }, 
+      {
+        "name": "All The Young Dudes", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0mqSUEphLHhooUE91a9LHz"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e36d562b6919bb3b18d1e4227fd2c12b97da33f5", 
+        "is_playable": true, 
+        "uri": "spotify:track:0mqSUEphLHhooUE91a9LHz", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0mqSUEphLHhooUE91a9LHz", 
+        "artists": [
+          {
+            "name": "Mott The Hoople", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6"
+            }, 
+            "uri": "spotify:artist:6ysQi6NI88X627t2srsWz6", 
+            "href": "https://api.spotify.com/v1/artists/6ysQi6NI88X627t2srsWz6", 
+            "type": "artist", 
+            "id": "6ysQi6NI88X627t2srsWz6"
+          }
+        ], 
+        "duration_ms": 262773, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "0mqSUEphLHhooUE91a9LHz"
+      }, 
+      {
+        "name": "Sucker - Live Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6P5MCZlDUfXQ49fvg3ZDou"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8acc2c8c233176bd94e0ea9cc60314ae9f948909", 
+        "is_playable": true, 
+        "uri": "spotify:track:6P5MCZlDUfXQ49fvg3ZDou", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6P5MCZlDUfXQ49fvg3ZDou", 
+        "artists": [
+          {
+            "name": "Mott The Hoople", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6"
+            }, 
+            "uri": "spotify:artist:6ysQi6NI88X627t2srsWz6", 
+            "href": "https://api.spotify.com/v1/artists/6ysQi6NI88X627t2srsWz6", 
+            "type": "artist", 
+            "id": "6ysQi6NI88X627t2srsWz6"
+          }
+        ], 
+        "duration_ms": 387960, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "6P5MCZlDUfXQ49fvg3ZDou"
+      }, 
+      {
+        "name": "Sweet Jane - Live Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0bUsdIPyliCSRP7kUoScHq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b46f1041db609ea1deaeec339bd2510b5f3b5c4f", 
+        "is_playable": true, 
+        "uri": "spotify:track:0bUsdIPyliCSRP7kUoScHq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0bUsdIPyliCSRP7kUoScHq", 
+        "artists": [
+          {
+            "name": "Mott The Hoople", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6"
+            }, 
+            "uri": "spotify:artist:6ysQi6NI88X627t2srsWz6", 
+            "href": "https://api.spotify.com/v1/artists/6ysQi6NI88X627t2srsWz6", 
+            "type": "artist", 
+            "id": "6ysQi6NI88X627t2srsWz6"
+          }
+        ], 
+        "duration_ms": 300666, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "0bUsdIPyliCSRP7kUoScHq"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/3LdlOZcV0dp7ePBXe2KAGa/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 16, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/3LdlOZcV0dp7ePBXe2KAGa", 
+  "copyrights": [
+    {
+      "text": "(P) 1972, 1981, 1998, 2004 SONY BMG MUSIC ENTERTAINMENT", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Mott The Hoople", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6"
+      }, 
+      "uri": "spotify:artist:6ysQi6NI88X627t2srsWz6", 
+      "href": "https://api.spotify.com/v1/artists/6ysQi6NI88X627t2srsWz6", 
+      "type": "artist", 
+      "id": "6ysQi6NI88X627t2srsWz6"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/29a07389ef9a33edc77eb29fb147ff6e99745f19", 
+      "width": 640, 
+      "height": 637
+    }, 
+    {
+      "url": "https://i.scdn.co/image/ccf7e24614838633d54f8de17cd0ec9a27e628c5", 
+      "width": 300, 
+      "height": 299
+    }, 
+    {
+      "url": "https://i.scdn.co/image/f8ba4d98284ffd1fb66eea9b875c7b760eac97ae", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "827969380925"
+  }, 
+  "type": "album", 
+  "id": "3LdlOZcV0dp7ePBXe2KAGa", 
+  "name": "All The Young Dudes"
+}

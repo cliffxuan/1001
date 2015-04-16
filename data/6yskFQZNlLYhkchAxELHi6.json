@@ -1,0 +1,343 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6"
+  }, 
+  "release_date": "1982", 
+  "popularity": 56, 
+  "genres": [], 
+  "uri": "spotify:album:6yskFQZNlLYhkchAxELHi6", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Nebraska", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7GDIQqD5pdHCda5rpZ98Ie"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/85846396fe4a8c52dd4b44d9d49eea3a9a675eb4", 
+        "is_playable": true, 
+        "uri": "spotify:track:7GDIQqD5pdHCda5rpZ98Ie", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7GDIQqD5pdHCda5rpZ98Ie", 
+        "artists": [
+          {
+            "name": "Bruce Springsteen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+            }, 
+            "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT", 
+            "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT", 
+            "type": "artist", 
+            "id": "3eqjTLE0HfPfh78zjh6TqT"
+          }
+        ], 
+        "duration_ms": 269813, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "7GDIQqD5pdHCda5rpZ98Ie"
+      }, 
+      {
+        "name": "Atlantic City", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Vp8U39YNsDfd6yVuaUq12"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/83a793c96f4196fc173ec2e42f21f846529707d5", 
+        "is_playable": true, 
+        "uri": "spotify:track:1Vp8U39YNsDfd6yVuaUq12", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1Vp8U39YNsDfd6yVuaUq12", 
+        "artists": [
+          {
+            "name": "Bruce Springsteen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+            }, 
+            "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT", 
+            "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT", 
+            "type": "artist", 
+            "id": "3eqjTLE0HfPfh78zjh6TqT"
+          }
+        ], 
+        "duration_ms": 236653, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "1Vp8U39YNsDfd6yVuaUq12"
+      }, 
+      {
+        "name": "Mansion on the Hill", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4eQQGTTbcKl5abbaIM0OxW"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7816bcfcee07a87027a8f42c0d2695a0dabbef1c", 
+        "is_playable": true, 
+        "uri": "spotify:track:4eQQGTTbcKl5abbaIM0OxW", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4eQQGTTbcKl5abbaIM0OxW", 
+        "artists": [
+          {
+            "name": "Bruce Springsteen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+            }, 
+            "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT", 
+            "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT", 
+            "type": "artist", 
+            "id": "3eqjTLE0HfPfh78zjh6TqT"
+          }
+        ], 
+        "duration_ms": 244866, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "4eQQGTTbcKl5abbaIM0OxW"
+      }, 
+      {
+        "name": "Johnny 99", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2ohcpZDvcIRdCE3lWxu6Tc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8eb0cb792d2b033e9e6320abfc3b95b1b8b4799f", 
+        "is_playable": true, 
+        "uri": "spotify:track:2ohcpZDvcIRdCE3lWxu6Tc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2ohcpZDvcIRdCE3lWxu6Tc", 
+        "artists": [
+          {
+            "name": "Bruce Springsteen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+            }, 
+            "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT", 
+            "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT", 
+            "type": "artist", 
+            "id": "3eqjTLE0HfPfh78zjh6TqT"
+          }
+        ], 
+        "duration_ms": 218240, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "2ohcpZDvcIRdCE3lWxu6Tc"
+      }, 
+      {
+        "name": "Highway Patrolman", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/408tTuSDxIr3zDR90Zmcw2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/762c5ceffeecae70199bab4625742006fa888ec0", 
+        "is_playable": true, 
+        "uri": "spotify:track:408tTuSDxIr3zDR90Zmcw2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/408tTuSDxIr3zDR90Zmcw2", 
+        "artists": [
+          {
+            "name": "Bruce Springsteen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+            }, 
+            "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT", 
+            "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT", 
+            "type": "artist", 
+            "id": "3eqjTLE0HfPfh78zjh6TqT"
+          }
+        ], 
+        "duration_ms": 336400, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "408tTuSDxIr3zDR90Zmcw2"
+      }, 
+      {
+        "name": "State Trooper", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Ulh5rWbhhV3PltDadTBZC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d0e67aff90f9657a1ddc17a5f18b2fd2be0261b5", 
+        "is_playable": true, 
+        "uri": "spotify:track:1Ulh5rWbhhV3PltDadTBZC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1Ulh5rWbhhV3PltDadTBZC", 
+        "artists": [
+          {
+            "name": "Bruce Springsteen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+            }, 
+            "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT", 
+            "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT", 
+            "type": "artist", 
+            "id": "3eqjTLE0HfPfh78zjh6TqT"
+          }
+        ], 
+        "duration_ms": 191293, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "1Ulh5rWbhhV3PltDadTBZC"
+      }, 
+      {
+        "name": "Used Cars", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1LDz5dqGxxWSOxNWjuzclb"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/31715b4a0ef4b912fc55221b7d4e781163c4d385", 
+        "is_playable": true, 
+        "uri": "spotify:track:1LDz5dqGxxWSOxNWjuzclb", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1LDz5dqGxxWSOxNWjuzclb", 
+        "artists": [
+          {
+            "name": "Bruce Springsteen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+            }, 
+            "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT", 
+            "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT", 
+            "type": "artist", 
+            "id": "3eqjTLE0HfPfh78zjh6TqT"
+          }
+        ], 
+        "duration_ms": 188080, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "1LDz5dqGxxWSOxNWjuzclb"
+      }, 
+      {
+        "name": "Open All Night", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6puA3V4iUFow4GMGFDf7qF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f66d788f432088d54a2eb4b069cfde1f66e05735", 
+        "is_playable": true, 
+        "uri": "spotify:track:6puA3V4iUFow4GMGFDf7qF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6puA3V4iUFow4GMGFDf7qF", 
+        "artists": [
+          {
+            "name": "Bruce Springsteen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+            }, 
+            "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT", 
+            "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT", 
+            "type": "artist", 
+            "id": "3eqjTLE0HfPfh78zjh6TqT"
+          }
+        ], 
+        "duration_ms": 173813, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "6puA3V4iUFow4GMGFDf7qF"
+      }, 
+      {
+        "name": "My Father's House", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/20mvEa8wRNsdU7diadzRGg"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f9756fc17c142a144b5043f3c0b8019d7364c42c", 
+        "is_playable": true, 
+        "uri": "spotify:track:20mvEa8wRNsdU7diadzRGg", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/20mvEa8wRNsdU7diadzRGg", 
+        "artists": [
+          {
+            "name": "Bruce Springsteen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+            }, 
+            "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT", 
+            "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT", 
+            "type": "artist", 
+            "id": "3eqjTLE0HfPfh78zjh6TqT"
+          }
+        ], 
+        "duration_ms": 303960, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "20mvEa8wRNsdU7diadzRGg"
+      }, 
+      {
+        "name": "Reason to Believe", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7tRIpQDyq22qkjdk4mzBrq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3db86f6dcc599536ecf563b8f5c7cded1d15a418", 
+        "is_playable": true, 
+        "uri": "spotify:track:7tRIpQDyq22qkjdk4mzBrq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7tRIpQDyq22qkjdk4mzBrq", 
+        "artists": [
+          {
+            "name": "Bruce Springsteen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+            }, 
+            "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT", 
+            "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT", 
+            "type": "artist", 
+            "id": "3eqjTLE0HfPfh78zjh6TqT"
+          }
+        ], 
+        "duration_ms": 250800, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "7tRIpQDyq22qkjdk4mzBrq"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/6yskFQZNlLYhkchAxELHi6/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 10, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/6yskFQZNlLYhkchAxELHi6", 
+  "copyrights": [
+    {
+      "text": "(P) 1982 Bruce Springsteen", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Bruce Springsteen", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      }, 
+      "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT", 
+      "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT", 
+      "type": "artist", 
+      "id": "3eqjTLE0HfPfh78zjh6TqT"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/2d6eb3ee73cf0d5132b46dd0d6bf9f23160bf0a2", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/3d9db05ea029fd266227dfc6b85d8a074f4bd050", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/d68d88a38cb1ddb136a1df08bc9df6e97218969e", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "074643835824"
+  }, 
+  "type": "album", 
+  "id": "6yskFQZNlLYhkchAxELHi6", 
+  "name": "Nebraska"
+}

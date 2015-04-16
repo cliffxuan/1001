@@ -1,0 +1,319 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4gV58UaDEEHWy5hPPkKNWm"
+  }, 
+  "release_date": "1992-01-01", 
+  "popularity": 18, 
+  "genres": [], 
+  "uri": "spotify:album:4gV58UaDEEHWy5hPPkKNWm", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Papa bonheur", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1LaJ7BUss2zKRpQfSxww1z"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/81638baaf02aeca2b54fb746be5aec0fa6f0da5c", 
+        "is_playable": true, 
+        "uri": "spotify:track:1LaJ7BUss2zKRpQfSxww1z", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1LaJ7BUss2zKRpQfSxww1z", 
+        "artists": [
+          {
+            "name": "Koffi Olomide", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb"
+            }, 
+            "uri": "spotify:artist:7e14Bh8oZXNRmZxjhhTARb", 
+            "href": "https://api.spotify.com/v1/artists/7e14Bh8oZXNRmZxjhhTARb", 
+            "type": "artist", 
+            "id": "7e14Bh8oZXNRmZxjhhTARb"
+          }
+        ], 
+        "duration_ms": 430266, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "1LaJ7BUss2zKRpQfSxww1z"
+      }, 
+      {
+        "name": "D\u00e9sespoir", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3BtVLNycX22ncn3BcW46ob"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/147df80fb9574393c8e3ee21473be47f6e039595", 
+        "is_playable": true, 
+        "uri": "spotify:track:3BtVLNycX22ncn3BcW46ob", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3BtVLNycX22ncn3BcW46ob", 
+        "artists": [
+          {
+            "name": "Koffi Olomide", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb"
+            }, 
+            "uri": "spotify:artist:7e14Bh8oZXNRmZxjhhTARb", 
+            "href": "https://api.spotify.com/v1/artists/7e14Bh8oZXNRmZxjhhTARb", 
+            "type": "artist", 
+            "id": "7e14Bh8oZXNRmZxjhhTARb"
+          }
+        ], 
+        "duration_ms": 383266, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "3BtVLNycX22ncn3BcW46ob"
+      }, 
+      {
+        "name": "Kowe\u00eft, rive gauche", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4aolq2LnPuWk6xdgqElVp4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/08dd18a2f1dfd5a288af4445567e3c5a1fcd99da", 
+        "is_playable": true, 
+        "uri": "spotify:track:4aolq2LnPuWk6xdgqElVp4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4aolq2LnPuWk6xdgqElVp4", 
+        "artists": [
+          {
+            "name": "Koffi Olomide", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb"
+            }, 
+            "uri": "spotify:artist:7e14Bh8oZXNRmZxjhhTARb", 
+            "href": "https://api.spotify.com/v1/artists/7e14Bh8oZXNRmZxjhhTARb", 
+            "type": "artist", 
+            "id": "7e14Bh8oZXNRmZxjhhTARb"
+          }
+        ], 
+        "duration_ms": 398000, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "4aolq2LnPuWk6xdgqElVp4"
+      }, 
+      {
+        "name": "Qui cherche trouve", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1jnJeBtToQdSkOtBkJMoWW"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/303941cb531e075bfcb184886470eb72673206b9", 
+        "is_playable": true, 
+        "uri": "spotify:track:1jnJeBtToQdSkOtBkJMoWW", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1jnJeBtToQdSkOtBkJMoWW", 
+        "artists": [
+          {
+            "name": "Koffi Olomide", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb"
+            }, 
+            "uri": "spotify:artist:7e14Bh8oZXNRmZxjhhTARb", 
+            "href": "https://api.spotify.com/v1/artists/7e14Bh8oZXNRmZxjhhTARb", 
+            "type": "artist", 
+            "id": "7e14Bh8oZXNRmZxjhhTARb"
+          }
+        ], 
+        "duration_ms": 406533, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "1jnJeBtToQdSkOtBkJMoWW"
+      }, 
+      {
+        "name": "\u00c9lixir", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3ONRs9jmivbTbkaKBippUS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/164ae834863205d5863e946f98463c09ffb71621", 
+        "is_playable": true, 
+        "uri": "spotify:track:3ONRs9jmivbTbkaKBippUS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3ONRs9jmivbTbkaKBippUS", 
+        "artists": [
+          {
+            "name": "Koffi Olomide", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb"
+            }, 
+            "uri": "spotify:artist:7e14Bh8oZXNRmZxjhhTARb", 
+            "href": "https://api.spotify.com/v1/artists/7e14Bh8oZXNRmZxjhhTARb", 
+            "type": "artist", 
+            "id": "7e14Bh8oZXNRmZxjhhTARb"
+          }
+        ], 
+        "duration_ms": 291933, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "3ONRs9jmivbTbkaKBippUS"
+      }, 
+      {
+        "name": "Porte-monnaie", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6312CTgdks1K03PQFLAY6f"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/28173e2ee68619163a54665234efd4d497f8dd20", 
+        "is_playable": true, 
+        "uri": "spotify:track:6312CTgdks1K03PQFLAY6f", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6312CTgdks1K03PQFLAY6f", 
+        "artists": [
+          {
+            "name": "Koffi Olomide", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb"
+            }, 
+            "uri": "spotify:artist:7e14Bh8oZXNRmZxjhhTARb", 
+            "href": "https://api.spotify.com/v1/artists/7e14Bh8oZXNRmZxjhhTARb", 
+            "type": "artist", 
+            "id": "7e14Bh8oZXNRmZxjhhTARb"
+          }
+        ], 
+        "duration_ms": 387093, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "6312CTgdks1K03PQFLAY6f"
+      }, 
+      {
+        "name": "Conte de f\u00e9es", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3A876eB1ibCCQ5p8hOS4gQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ffb5abe52aa77d97874240a388ae7fb36bbf56fc", 
+        "is_playable": true, 
+        "uri": "spotify:track:3A876eB1ibCCQ5p8hOS4gQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3A876eB1ibCCQ5p8hOS4gQ", 
+        "artists": [
+          {
+            "name": "Koffi Olomide", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb"
+            }, 
+            "uri": "spotify:artist:7e14Bh8oZXNRmZxjhhTARb", 
+            "href": "https://api.spotify.com/v1/artists/7e14Bh8oZXNRmZxjhhTARb", 
+            "type": "artist", 
+            "id": "7e14Bh8oZXNRmZxjhhTARb"
+          }
+        ], 
+        "duration_ms": 435173, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "3A876eB1ibCCQ5p8hOS4gQ"
+      }, 
+      {
+        "name": "Obrigado", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1ak70DvmdWVz7L9eRXI6qe"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/81031b97b9627677d3734f9b1206ba43a0a6b5bb", 
+        "is_playable": true, 
+        "uri": "spotify:track:1ak70DvmdWVz7L9eRXI6qe", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1ak70DvmdWVz7L9eRXI6qe", 
+        "artists": [
+          {
+            "name": "Koffi Olomide", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb"
+            }, 
+            "uri": "spotify:artist:7e14Bh8oZXNRmZxjhhTARb", 
+            "href": "https://api.spotify.com/v1/artists/7e14Bh8oZXNRmZxjhhTARb", 
+            "type": "artist", 
+            "id": "7e14Bh8oZXNRmZxjhhTARb"
+          }
+        ], 
+        "duration_ms": 402266, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "1ak70DvmdWVz7L9eRXI6qe"
+      }, 
+      {
+        "name": "Dit Jeannot", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6kkgbWAjQDSHdhW5uPt4iw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a90b7326f2297961c6a417dccf9f5cba32352bda", 
+        "is_playable": true, 
+        "uri": "spotify:track:6kkgbWAjQDSHdhW5uPt4iw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6kkgbWAjQDSHdhW5uPt4iw", 
+        "artists": [
+          {
+            "name": "Koffi Olomide", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb"
+            }, 
+            "uri": "spotify:artist:7e14Bh8oZXNRmZxjhhTARb", 
+            "href": "https://api.spotify.com/v1/artists/7e14Bh8oZXNRmZxjhhTARb", 
+            "type": "artist", 
+            "id": "7e14Bh8oZXNRmZxjhhTARb"
+          }
+        ], 
+        "duration_ms": 362066, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "6kkgbWAjQDSHdhW5uPt4iw"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/4gV58UaDEEHWy5hPPkKNWm/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 9, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/4gV58UaDEEHWy5hPPkKNWm", 
+  "copyrights": [
+    {
+      "text": "1992 Koffi Olomid\u00e9", 
+      "type": "C"
+    }, 
+    {
+      "text": "1992 Koffi Olomid\u00e9", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Koffi Olomide", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb"
+      }, 
+      "uri": "spotify:artist:7e14Bh8oZXNRmZxjhhTARb", 
+      "href": "https://api.spotify.com/v1/artists/7e14Bh8oZXNRmZxjhhTARb", 
+      "type": "artist", 
+      "id": "7e14Bh8oZXNRmZxjhhTARb"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ac12712331d5302c41f09077adcfd158f6edc93e", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/46ffe13e517fc95f6322f43331f65ba45c57d7c0", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/07797e6c0337720c657124e82e3be921102b95ed", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "3252419200756"
+  }, 
+  "type": "album", 
+  "id": "4gV58UaDEEHWy5hPPkKNWm", 
+  "name": "Haut de gamme / Kowe\u00eft, rive gauche"
+}

@@ -1,0 +1,655 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3SHtv5ToASRVvdxDnGOwtP"
+  }, 
+  "release_date": "1967-09-15", 
+  "popularity": 41, 
+  "genres": [], 
+  "uri": "spotify:album:3SHtv5ToASRVvdxDnGOwtP", 
+  "tracks": {
+    "items": [
+      {
+        "name": "David Watts", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2RBHaJcqaDPshKu9kyQnq6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e7e72353f3cbd76cc6c17caa91d82e0211d7445f", 
+        "is_playable": true, 
+        "uri": "spotify:track:2RBHaJcqaDPshKu9kyQnq6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2RBHaJcqaDPshKu9kyQnq6", 
+        "artists": [
+          {
+            "name": "The Kinks", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+            }, 
+            "uri": "spotify:artist:1SQRv42e4PjEYfPhS0Tk9E", 
+            "href": "https://api.spotify.com/v1/artists/1SQRv42e4PjEYfPhS0Tk9E", 
+            "type": "artist", 
+            "id": "1SQRv42e4PjEYfPhS0Tk9E"
+          }
+        ], 
+        "duration_ms": 150160, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "2RBHaJcqaDPshKu9kyQnq6"
+      }, 
+      {
+        "name": "Death of a Clown", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5j2XviennnSjAX69zaYUX6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/eba5980f3ff38102d506c01f410555d659f99225", 
+        "is_playable": true, 
+        "uri": "spotify:track:5j2XviennnSjAX69zaYUX6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5j2XviennnSjAX69zaYUX6", 
+        "artists": [
+          {
+            "name": "The Kinks", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+            }, 
+            "uri": "spotify:artist:1SQRv42e4PjEYfPhS0Tk9E", 
+            "href": "https://api.spotify.com/v1/artists/1SQRv42e4PjEYfPhS0Tk9E", 
+            "type": "artist", 
+            "id": "1SQRv42e4PjEYfPhS0Tk9E"
+          }
+        ], 
+        "duration_ms": 181840, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "5j2XviennnSjAX69zaYUX6"
+      }, 
+      {
+        "name": "Two Sisters", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3vH1Su46SiChwwHw37t9o1"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/eb477b90f3ce3be129ed41beb0d9a8216d65cbab", 
+        "is_playable": true, 
+        "uri": "spotify:track:3vH1Su46SiChwwHw37t9o1", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3vH1Su46SiChwwHw37t9o1", 
+        "artists": [
+          {
+            "name": "The Kinks", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+            }, 
+            "uri": "spotify:artist:1SQRv42e4PjEYfPhS0Tk9E", 
+            "href": "https://api.spotify.com/v1/artists/1SQRv42e4PjEYfPhS0Tk9E", 
+            "type": "artist", 
+            "id": "1SQRv42e4PjEYfPhS0Tk9E"
+          }
+        ], 
+        "duration_ms": 119133, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "3vH1Su46SiChwwHw37t9o1"
+      }, 
+      {
+        "name": "No Return - Stereo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0eaqqUNtVUXl3V6GIlEkRa"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/090bc41a09d0ccfa95e81ec5b0aa5a49c93b80f5", 
+        "is_playable": true, 
+        "uri": "spotify:track:0eaqqUNtVUXl3V6GIlEkRa", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0eaqqUNtVUXl3V6GIlEkRa", 
+        "artists": [
+          {
+            "name": "The Kinks", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+            }, 
+            "uri": "spotify:artist:1SQRv42e4PjEYfPhS0Tk9E", 
+            "href": "https://api.spotify.com/v1/artists/1SQRv42e4PjEYfPhS0Tk9E", 
+            "type": "artist", 
+            "id": "1SQRv42e4PjEYfPhS0Tk9E"
+          }
+        ], 
+        "duration_ms": 119733, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "0eaqqUNtVUXl3V6GIlEkRa"
+      }, 
+      {
+        "name": "Harry Rag - Stereo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/71Zpo72DVnqxZXYjw10ry6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7344fc00d24c20b26c923f9885a8bbeb9bb24ef9", 
+        "is_playable": true, 
+        "uri": "spotify:track:71Zpo72DVnqxZXYjw10ry6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/71Zpo72DVnqxZXYjw10ry6", 
+        "artists": [
+          {
+            "name": "The Kinks", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+            }, 
+            "uri": "spotify:artist:1SQRv42e4PjEYfPhS0Tk9E", 
+            "href": "https://api.spotify.com/v1/artists/1SQRv42e4PjEYfPhS0Tk9E", 
+            "type": "artist", 
+            "id": "1SQRv42e4PjEYfPhS0Tk9E"
+          }
+        ], 
+        "duration_ms": 134573, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "71Zpo72DVnqxZXYjw10ry6"
+      }, 
+      {
+        "name": "Tin Soldier Man - Stereo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/12yRzXyrDrTTLT1TepH0D0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d3e0ef2dfe7719380f06403bf3d77c219b22ed50", 
+        "is_playable": true, 
+        "uri": "spotify:track:12yRzXyrDrTTLT1TepH0D0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/12yRzXyrDrTTLT1TepH0D0", 
+        "artists": [
+          {
+            "name": "The Kinks", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+            }, 
+            "uri": "spotify:artist:1SQRv42e4PjEYfPhS0Tk9E", 
+            "href": "https://api.spotify.com/v1/artists/1SQRv42e4PjEYfPhS0Tk9E", 
+            "type": "artist", 
+            "id": "1SQRv42e4PjEYfPhS0Tk9E"
+          }
+        ], 
+        "duration_ms": 167400, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "12yRzXyrDrTTLT1TepH0D0"
+      }, 
+      {
+        "name": "Situation Vacant - Stereo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1OlPyfCebQ33HalErRrKV9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d70a5dbb5cd3cf59abb049ff9cd01494411f2f49", 
+        "is_playable": true, 
+        "uri": "spotify:track:1OlPyfCebQ33HalErRrKV9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1OlPyfCebQ33HalErRrKV9", 
+        "artists": [
+          {
+            "name": "The Kinks", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+            }, 
+            "uri": "spotify:artist:1SQRv42e4PjEYfPhS0Tk9E", 
+            "href": "https://api.spotify.com/v1/artists/1SQRv42e4PjEYfPhS0Tk9E", 
+            "type": "artist", 
+            "id": "1SQRv42e4PjEYfPhS0Tk9E"
+          }
+        ], 
+        "duration_ms": 194733, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "1OlPyfCebQ33HalErRrKV9"
+      }, 
+      {
+        "name": "Love Me Till the Sun Shines - Stereo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4ZLNlSZBPG5JFVyjr8kbI7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b9eab16d832391341ed507aebebe84d744de0618", 
+        "is_playable": true, 
+        "uri": "spotify:track:4ZLNlSZBPG5JFVyjr8kbI7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4ZLNlSZBPG5JFVyjr8kbI7", 
+        "artists": [
+          {
+            "name": "The Kinks", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+            }, 
+            "uri": "spotify:artist:1SQRv42e4PjEYfPhS0Tk9E", 
+            "href": "https://api.spotify.com/v1/artists/1SQRv42e4PjEYfPhS0Tk9E", 
+            "type": "artist", 
+            "id": "1SQRv42e4PjEYfPhS0Tk9E"
+          }
+        ], 
+        "duration_ms": 194600, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "4ZLNlSZBPG5JFVyjr8kbI7"
+      }, 
+      {
+        "name": "Lazy Old Sun - Stereo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2kUpmQmn5nbqZbjr61c3ox"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/80138d4974af521929164ccfbf3c873fdedb14c1", 
+        "is_playable": true, 
+        "uri": "spotify:track:2kUpmQmn5nbqZbjr61c3ox", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2kUpmQmn5nbqZbjr61c3ox", 
+        "artists": [
+          {
+            "name": "The Kinks", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+            }, 
+            "uri": "spotify:artist:1SQRv42e4PjEYfPhS0Tk9E", 
+            "href": "https://api.spotify.com/v1/artists/1SQRv42e4PjEYfPhS0Tk9E", 
+            "type": "artist", 
+            "id": "1SQRv42e4PjEYfPhS0Tk9E"
+          }
+        ], 
+        "duration_ms": 166293, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "2kUpmQmn5nbqZbjr61c3ox"
+      }, 
+      {
+        "name": "Afternoon Tea - Stereo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2FXOUgetSNcpYauybpVaMO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0ab4fb116d087ab63bd3ad22052f0fbecf83f03c", 
+        "is_playable": true, 
+        "uri": "spotify:track:2FXOUgetSNcpYauybpVaMO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2FXOUgetSNcpYauybpVaMO", 
+        "artists": [
+          {
+            "name": "The Kinks", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+            }, 
+            "uri": "spotify:artist:1SQRv42e4PjEYfPhS0Tk9E", 
+            "href": "https://api.spotify.com/v1/artists/1SQRv42e4PjEYfPhS0Tk9E", 
+            "type": "artist", 
+            "id": "1SQRv42e4PjEYfPhS0Tk9E"
+          }
+        ], 
+        "duration_ms": 204826, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "2FXOUgetSNcpYauybpVaMO"
+      }, 
+      {
+        "name": "Funny Face - Stereo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1QRO4dznyicNrmohg29K1O"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ca19a2264f12060727fb7ce3d213c39c1a7f87d6", 
+        "is_playable": true, 
+        "uri": "spotify:track:1QRO4dznyicNrmohg29K1O", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1QRO4dznyicNrmohg29K1O", 
+        "artists": [
+          {
+            "name": "The Kinks", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+            }, 
+            "uri": "spotify:artist:1SQRv42e4PjEYfPhS0Tk9E", 
+            "href": "https://api.spotify.com/v1/artists/1SQRv42e4PjEYfPhS0Tk9E", 
+            "type": "artist", 
+            "id": "1SQRv42e4PjEYfPhS0Tk9E"
+          }
+        ], 
+        "duration_ms": 135960, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "1QRO4dznyicNrmohg29K1O"
+      }, 
+      {
+        "name": "End of the Season", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4fIiiYGAtLGquE4ninNA7t"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/32d280632fd16a81423a563c2642c4e11ce06b29", 
+        "is_playable": true, 
+        "uri": "spotify:track:4fIiiYGAtLGquE4ninNA7t", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4fIiiYGAtLGquE4ninNA7t", 
+        "artists": [
+          {
+            "name": "The Kinks", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+            }, 
+            "uri": "spotify:artist:1SQRv42e4PjEYfPhS0Tk9E", 
+            "href": "https://api.spotify.com/v1/artists/1SQRv42e4PjEYfPhS0Tk9E", 
+            "type": "artist", 
+            "id": "1SQRv42e4PjEYfPhS0Tk9E"
+          }
+        ], 
+        "duration_ms": 176666, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "4fIiiYGAtLGquE4ninNA7t"
+      }, 
+      {
+        "name": "Waterloo Sunset - Stereo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/784WsZD4irVO0PA5NCZbTi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/215dc11240ee46f116dd7125374a012d899dac5f", 
+        "is_playable": true, 
+        "uri": "spotify:track:784WsZD4irVO0PA5NCZbTi", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/784WsZD4irVO0PA5NCZbTi", 
+        "artists": [
+          {
+            "name": "The Kinks", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+            }, 
+            "uri": "spotify:artist:1SQRv42e4PjEYfPhS0Tk9E", 
+            "href": "https://api.spotify.com/v1/artists/1SQRv42e4PjEYfPhS0Tk9E", 
+            "type": "artist", 
+            "id": "1SQRv42e4PjEYfPhS0Tk9E"
+          }
+        ], 
+        "duration_ms": 193293, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "784WsZD4irVO0PA5NCZbTi"
+      }, 
+      {
+        "name": "Act Nice and Gentle - Mono", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0g6lc4mAjgLWC2jnD5bYYr"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/33fae8ec28ef2f4aa6ad6ff305c3fd2113011f9b", 
+        "is_playable": true, 
+        "uri": "spotify:track:0g6lc4mAjgLWC2jnD5bYYr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0g6lc4mAjgLWC2jnD5bYYr", 
+        "artists": [
+          {
+            "name": "The Kinks", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+            }, 
+            "uri": "spotify:artist:1SQRv42e4PjEYfPhS0Tk9E", 
+            "href": "https://api.spotify.com/v1/artists/1SQRv42e4PjEYfPhS0Tk9E", 
+            "type": "artist", 
+            "id": "1SQRv42e4PjEYfPhS0Tk9E"
+          }
+        ], 
+        "duration_ms": 157600, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "0g6lc4mAjgLWC2jnD5bYYr"
+      }, 
+      {
+        "name": "Autumn Almanac", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1FddbXovStBxiID1SA5COQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d3ae1a5e8169b3a889cfaa2892e90551fb9cf85d", 
+        "is_playable": true, 
+        "uri": "spotify:track:1FddbXovStBxiID1SA5COQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1FddbXovStBxiID1SA5COQ", 
+        "artists": [
+          {
+            "name": "The Kinks", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+            }, 
+            "uri": "spotify:artist:1SQRv42e4PjEYfPhS0Tk9E", 
+            "href": "https://api.spotify.com/v1/artists/1SQRv42e4PjEYfPhS0Tk9E", 
+            "type": "artist", 
+            "id": "1SQRv42e4PjEYfPhS0Tk9E"
+          }
+        ], 
+        "duration_ms": 183733, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "1FddbXovStBxiID1SA5COQ"
+      }, 
+      {
+        "name": "Susannah's Still Alive", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2M3DwpY4WU7p8UJX0uWKf7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cad191c65feca5d3d602cd931efe8af0d356271e", 
+        "is_playable": true, 
+        "uri": "spotify:track:2M3DwpY4WU7p8UJX0uWKf7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2M3DwpY4WU7p8UJX0uWKf7", 
+        "artists": [
+          {
+            "name": "The Kinks", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+            }, 
+            "uri": "spotify:artist:1SQRv42e4PjEYfPhS0Tk9E", 
+            "href": "https://api.spotify.com/v1/artists/1SQRv42e4PjEYfPhS0Tk9E", 
+            "type": "artist", 
+            "id": "1SQRv42e4PjEYfPhS0Tk9E"
+          }
+        ], 
+        "duration_ms": 140426, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "2M3DwpY4WU7p8UJX0uWKf7"
+      }, 
+      {
+        "name": "Wonderboy (Bonus Track) [Stereo Version]", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/78g9tckznLL9qffAN8J6EL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/da586d158c9060580aba7a64149438bd1a893d42", 
+        "is_playable": true, 
+        "uri": "spotify:track:78g9tckznLL9qffAN8J6EL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/78g9tckznLL9qffAN8J6EL", 
+        "artists": [
+          {
+            "name": "The Kinks", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+            }, 
+            "uri": "spotify:artist:1SQRv42e4PjEYfPhS0Tk9E", 
+            "href": "https://api.spotify.com/v1/artists/1SQRv42e4PjEYfPhS0Tk9E", 
+            "type": "artist", 
+            "id": "1SQRv42e4PjEYfPhS0Tk9E"
+          }
+        ], 
+        "duration_ms": 167626, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "78g9tckznLL9qffAN8J6EL"
+      }, 
+      {
+        "name": "Polly (Bonus Track) [Mono Version]", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0yD62e0n2PE6KxMu8fPM8o"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0fff620625741a50a5efdddfad456ff3ac7e0c9a", 
+        "is_playable": true, 
+        "uri": "spotify:track:0yD62e0n2PE6KxMu8fPM8o", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0yD62e0n2PE6KxMu8fPM8o", 
+        "artists": [
+          {
+            "name": "The Kinks", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+            }, 
+            "uri": "spotify:artist:1SQRv42e4PjEYfPhS0Tk9E", 
+            "href": "https://api.spotify.com/v1/artists/1SQRv42e4PjEYfPhS0Tk9E", 
+            "type": "artist", 
+            "id": "1SQRv42e4PjEYfPhS0Tk9E"
+          }
+        ], 
+        "duration_ms": 169400, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "0yD62e0n2PE6KxMu8fPM8o"
+      }, 
+      {
+        "name": "Lincoln County", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/50hHhLMlEBBPBXRzJhhXWK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8efd2cb96b894c42ae8a0a09c40dd141dc025fbd", 
+        "is_playable": true, 
+        "uri": "spotify:track:50hHhLMlEBBPBXRzJhhXWK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/50hHhLMlEBBPBXRzJhhXWK", 
+        "artists": [
+          {
+            "name": "The Kinks", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+            }, 
+            "uri": "spotify:artist:1SQRv42e4PjEYfPhS0Tk9E", 
+            "href": "https://api.spotify.com/v1/artists/1SQRv42e4PjEYfPhS0Tk9E", 
+            "type": "artist", 
+            "id": "1SQRv42e4PjEYfPhS0Tk9E"
+          }
+        ], 
+        "duration_ms": 189893, 
+        "track_number": 19, 
+        "type": "track", 
+        "id": "50hHhLMlEBBPBXRzJhhXWK"
+      }, 
+      {
+        "name": "There's No Life Without Love", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4zNLuKvuLKbKmFRiJGtA6e"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/556e7d6c4c25116f4fa3b6595c45eba4a33e5401", 
+        "is_playable": true, 
+        "uri": "spotify:track:4zNLuKvuLKbKmFRiJGtA6e", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4zNLuKvuLKbKmFRiJGtA6e", 
+        "artists": [
+          {
+            "name": "The Kinks", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+            }, 
+            "uri": "spotify:artist:1SQRv42e4PjEYfPhS0Tk9E", 
+            "href": "https://api.spotify.com/v1/artists/1SQRv42e4PjEYfPhS0Tk9E", 
+            "type": "artist", 
+            "id": "1SQRv42e4PjEYfPhS0Tk9E"
+          }
+        ], 
+        "duration_ms": 121440, 
+        "track_number": 20, 
+        "type": "track", 
+        "id": "4zNLuKvuLKbKmFRiJGtA6e"
+      }, 
+      {
+        "name": "Lazy Old Sun - Bonus Track", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6yeOwY33MlZqNYyfIunJnU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/57b86188b13a2493c88e85cd3f18037a74247673", 
+        "is_playable": true, 
+        "uri": "spotify:track:6yeOwY33MlZqNYyfIunJnU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6yeOwY33MlZqNYyfIunJnU", 
+        "artists": [
+          {
+            "name": "The Kinks", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+            }, 
+            "uri": "spotify:artist:1SQRv42e4PjEYfPhS0Tk9E", 
+            "href": "https://api.spotify.com/v1/artists/1SQRv42e4PjEYfPhS0Tk9E", 
+            "type": "artist", 
+            "id": "1SQRv42e4PjEYfPhS0Tk9E"
+          }
+        ], 
+        "duration_ms": 175000, 
+        "track_number": 21, 
+        "type": "track", 
+        "id": "6yeOwY33MlZqNYyfIunJnU"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/3SHtv5ToASRVvdxDnGOwtP/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 21, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/3SHtv5ToASRVvdxDnGOwtP", 
+  "copyrights": [
+    {
+      "text": "2004 Sanctuary Records Group Ltd., a BMG Company, under exclusive license to [PIAS] UK Ltd.", 
+      "type": "C"
+    }, 
+    {
+      "text": "1998 Sanctuary Records Group Ltd., a BMG Company, under exclusive license to [PIAS] UK Ltd.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "The Kinks", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+      }, 
+      "uri": "spotify:artist:1SQRv42e4PjEYfPhS0Tk9E", 
+      "href": "https://api.spotify.com/v1/artists/1SQRv42e4PjEYfPhS0Tk9E", 
+      "type": "artist", 
+      "id": "1SQRv42e4PjEYfPhS0Tk9E"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/b303d52c4eeab0b0a465d81bdac5993c8a77dec8", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/44184eb90b7d8d501ee209d715ab77b7d9ce475f", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/79f968c19c65a81cb1b7de6022eca317fa227b81", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "5414939542374"
+  }, 
+  "type": "album", 
+  "id": "3SHtv5ToASRVvdxDnGOwtP", 
+  "name": "Something Else By The Kinks"
+}

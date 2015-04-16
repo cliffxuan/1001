@@ -1,0 +1,431 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4UY90kcO4N9ZPBl4xPLvvU"
+  }, 
+  "release_date": "1974", 
+  "popularity": 42, 
+  "genres": [], 
+  "uri": "spotify:album:4UY90kcO4N9ZPBl4xPLvvU", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Rednecks - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2cS8dkvvjGxvArM1Nvj5IE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/21490bb9c9e1771fae7b15fcfd7b9e061067eab0", 
+        "is_playable": true, 
+        "uri": "spotify:track:2cS8dkvvjGxvArM1Nvj5IE", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2cS8dkvvjGxvArM1Nvj5IE", 
+        "artists": [
+          {
+            "name": "Randy Newman", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+            }, 
+            "uri": "spotify:artist:3HQyFCFFfJO3KKBlUfZsyW", 
+            "href": "https://api.spotify.com/v1/artists/3HQyFCFFfJO3KKBlUfZsyW", 
+            "type": "artist", 
+            "id": "3HQyFCFFfJO3KKBlUfZsyW"
+          }
+        ], 
+        "duration_ms": 189146, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "2cS8dkvvjGxvArM1Nvj5IE"
+      }, 
+      {
+        "name": "Birmingham - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5ZF3YU3oOEe7QsnJxz4CQV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8c893ce612d8ec892c2c0c733f5153d4d0a47588", 
+        "is_playable": true, 
+        "uri": "spotify:track:5ZF3YU3oOEe7QsnJxz4CQV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5ZF3YU3oOEe7QsnJxz4CQV", 
+        "artists": [
+          {
+            "name": "Randy Newman", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+            }, 
+            "uri": "spotify:artist:3HQyFCFFfJO3KKBlUfZsyW", 
+            "href": "https://api.spotify.com/v1/artists/3HQyFCFFfJO3KKBlUfZsyW", 
+            "type": "artist", 
+            "id": "3HQyFCFFfJO3KKBlUfZsyW"
+          }
+        ], 
+        "duration_ms": 166360, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "5ZF3YU3oOEe7QsnJxz4CQV"
+      }, 
+      {
+        "name": "Marie - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2RsIMMh9vfuaQanujKuqUq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a6e345d7cdfc5cac347518ef779b1b35f3de9a66", 
+        "is_playable": true, 
+        "uri": "spotify:track:2RsIMMh9vfuaQanujKuqUq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2RsIMMh9vfuaQanujKuqUq", 
+        "artists": [
+          {
+            "name": "Randy Newman", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+            }, 
+            "uri": "spotify:artist:3HQyFCFFfJO3KKBlUfZsyW", 
+            "href": "https://api.spotify.com/v1/artists/3HQyFCFFfJO3KKBlUfZsyW", 
+            "type": "artist", 
+            "id": "3HQyFCFFfJO3KKBlUfZsyW"
+          }
+        ], 
+        "duration_ms": 189266, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "2RsIMMh9vfuaQanujKuqUq"
+      }, 
+      {
+        "name": "Mr. President (Have Pity On The Working Man) - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5mN62DPkjTQ9vQfI4ueioJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/18fd59cb0fba85b41749dd7d0b6feac54f256e5f", 
+        "is_playable": true, 
+        "uri": "spotify:track:5mN62DPkjTQ9vQfI4ueioJ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5mN62DPkjTQ9vQfI4ueioJ", 
+        "artists": [
+          {
+            "name": "Randy Newman", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+            }, 
+            "uri": "spotify:artist:3HQyFCFFfJO3KKBlUfZsyW", 
+            "href": "https://api.spotify.com/v1/artists/3HQyFCFFfJO3KKBlUfZsyW", 
+            "type": "artist", 
+            "id": "3HQyFCFFfJO3KKBlUfZsyW"
+          }
+        ], 
+        "duration_ms": 166160, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "5mN62DPkjTQ9vQfI4ueioJ"
+      }, 
+      {
+        "name": "Guilty", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Pf46Rah6cYDPy6mtNYpxB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c02f229d92275cb5e45ae825b64946c97d68088d", 
+        "is_playable": true, 
+        "uri": "spotify:track:6Pf46Rah6cYDPy6mtNYpxB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6Pf46Rah6cYDPy6mtNYpxB", 
+        "artists": [
+          {
+            "name": "Randy Newman", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+            }, 
+            "uri": "spotify:artist:3HQyFCFFfJO3KKBlUfZsyW", 
+            "href": "https://api.spotify.com/v1/artists/3HQyFCFFfJO3KKBlUfZsyW", 
+            "type": "artist", 
+            "id": "3HQyFCFFfJO3KKBlUfZsyW"
+          }
+        ], 
+        "duration_ms": 153400, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "6Pf46Rah6cYDPy6mtNYpxB"
+      }, 
+      {
+        "name": "Louisiana 1927 - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7qLEaxMiR8WUsCG1uOBsuO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9e2cd5a8719520bb5cc7c23d28125446a330f770", 
+        "is_playable": true, 
+        "uri": "spotify:track:7qLEaxMiR8WUsCG1uOBsuO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7qLEaxMiR8WUsCG1uOBsuO", 
+        "artists": [
+          {
+            "name": "Randy Newman", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+            }, 
+            "uri": "spotify:artist:3HQyFCFFfJO3KKBlUfZsyW", 
+            "href": "https://api.spotify.com/v1/artists/3HQyFCFFfJO3KKBlUfZsyW", 
+            "type": "artist", 
+            "id": "3HQyFCFFfJO3KKBlUfZsyW"
+          }
+        ], 
+        "duration_ms": 176000, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "7qLEaxMiR8WUsCG1uOBsuO"
+      }, 
+      {
+        "name": "Every Man A King - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6TOtltlIwJrPVHqUeXrimu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/79fbd88ed99244b905406b75c7d441b90150cbf6", 
+        "is_playable": true, 
+        "uri": "spotify:track:6TOtltlIwJrPVHqUeXrimu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6TOtltlIwJrPVHqUeXrimu", 
+        "artists": [
+          {
+            "name": "Randy Newman", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+            }, 
+            "uri": "spotify:artist:3HQyFCFFfJO3KKBlUfZsyW", 
+            "href": "https://api.spotify.com/v1/artists/3HQyFCFFfJO3KKBlUfZsyW", 
+            "type": "artist", 
+            "id": "3HQyFCFFfJO3KKBlUfZsyW"
+          }
+        ], 
+        "duration_ms": 62573, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "6TOtltlIwJrPVHqUeXrimu"
+      }, 
+      {
+        "name": "Kingfish - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5fNi5vqe3VqWdpeJNTfR66"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f9884649f8d4103c75df7724f3f1e6e505ef22d7", 
+        "is_playable": true, 
+        "uri": "spotify:track:5fNi5vqe3VqWdpeJNTfR66", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5fNi5vqe3VqWdpeJNTfR66", 
+        "artists": [
+          {
+            "name": "Randy Newman", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+            }, 
+            "uri": "spotify:artist:3HQyFCFFfJO3KKBlUfZsyW", 
+            "href": "https://api.spotify.com/v1/artists/3HQyFCFFfJO3KKBlUfZsyW", 
+            "type": "artist", 
+            "id": "3HQyFCFFfJO3KKBlUfZsyW"
+          }
+        ], 
+        "duration_ms": 164693, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "5fNi5vqe3VqWdpeJNTfR66"
+      }, 
+      {
+        "name": "Naked Man - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Y4YTkmEPJradjnnyTD5TR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bc58414f2ee22c5bceb50aa04ee7c4a77682d0b4", 
+        "is_playable": true, 
+        "uri": "spotify:track:1Y4YTkmEPJradjnnyTD5TR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1Y4YTkmEPJradjnnyTD5TR", 
+        "artists": [
+          {
+            "name": "Randy Newman", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+            }, 
+            "uri": "spotify:artist:3HQyFCFFfJO3KKBlUfZsyW", 
+            "href": "https://api.spotify.com/v1/artists/3HQyFCFFfJO3KKBlUfZsyW", 
+            "type": "artist", 
+            "id": "3HQyFCFFfJO3KKBlUfZsyW"
+          }
+        ], 
+        "duration_ms": 189333, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "1Y4YTkmEPJradjnnyTD5TR"
+      }, 
+      {
+        "name": "A Wedding In Cherokee County - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6ykqc6Z9kIKZBinWmEPitn"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/22bd96567739aa93520a8e3ec5fc4a60690c7a6d", 
+        "is_playable": true, 
+        "uri": "spotify:track:6ykqc6Z9kIKZBinWmEPitn", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6ykqc6Z9kIKZBinWmEPitn", 
+        "artists": [
+          {
+            "name": "Randy Newman", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+            }, 
+            "uri": "spotify:artist:3HQyFCFFfJO3KKBlUfZsyW", 
+            "href": "https://api.spotify.com/v1/artists/3HQyFCFFfJO3KKBlUfZsyW", 
+            "type": "artist", 
+            "id": "3HQyFCFFfJO3KKBlUfZsyW"
+          }
+        ], 
+        "duration_ms": 189200, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "6ykqc6Z9kIKZBinWmEPitn"
+      }, 
+      {
+        "name": "Back On My Feet Again - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/569dvIIgoXk5Q4jwONOzfm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bf7a247a85439c071a959500ca8e29cf5776259c", 
+        "is_playable": true, 
+        "uri": "spotify:track:569dvIIgoXk5Q4jwONOzfm", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/569dvIIgoXk5Q4jwONOzfm", 
+        "artists": [
+          {
+            "name": "Randy Newman", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+            }, 
+            "uri": "spotify:artist:3HQyFCFFfJO3KKBlUfZsyW", 
+            "href": "https://api.spotify.com/v1/artists/3HQyFCFFfJO3KKBlUfZsyW", 
+            "type": "artist", 
+            "id": "3HQyFCFFfJO3KKBlUfZsyW"
+          }
+        ], 
+        "duration_ms": 201600, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "569dvIIgoXk5Q4jwONOzfm"
+      }, 
+      {
+        "name": "Rollin' - Remastered", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0AfiR5BgLzSAuXk3Y4PWLL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7900646c84df3f3ae5c8d48393765e2390f15932", 
+        "is_playable": true, 
+        "uri": "spotify:track:0AfiR5BgLzSAuXk3Y4PWLL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0AfiR5BgLzSAuXk3Y4PWLL", 
+        "artists": [
+          {
+            "name": "Randy Newman", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+            }, 
+            "uri": "spotify:artist:3HQyFCFFfJO3KKBlUfZsyW", 
+            "href": "https://api.spotify.com/v1/artists/3HQyFCFFfJO3KKBlUfZsyW", 
+            "type": "artist", 
+            "id": "3HQyFCFFfJO3KKBlUfZsyW"
+          }
+        ], 
+        "duration_ms": 175240, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "0AfiR5BgLzSAuXk3Y4PWLL"
+      }, 
+      {
+        "name": "Marie - Demo Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6H9uiUmcLrUGgUXw0i6tKL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5a997a319bf8c2bd8bb4c6b60fec0d76213e5223", 
+        "is_playable": true, 
+        "uri": "spotify:track:6H9uiUmcLrUGgUXw0i6tKL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6H9uiUmcLrUGgUXw0i6tKL", 
+        "artists": [
+          {
+            "name": "Randy Newman", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+            }, 
+            "uri": "spotify:artist:3HQyFCFFfJO3KKBlUfZsyW", 
+            "href": "https://api.spotify.com/v1/artists/3HQyFCFFfJO3KKBlUfZsyW", 
+            "type": "artist", 
+            "id": "3HQyFCFFfJO3KKBlUfZsyW"
+          }
+        ], 
+        "duration_ms": 171666, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "6H9uiUmcLrUGgUXw0i6tKL"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/4UY90kcO4N9ZPBl4xPLvvU/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 13, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/4UY90kcO4N9ZPBl4xPLvvU", 
+  "copyrights": [
+    {
+      "text": "2005 Warner Bros. Records Inc. Manufactured and Marketed by Warner Strategic Marketing", 
+      "type": "C"
+    }, 
+    {
+      "text": "2005 Warner Bros. Records Inc. Manufactured and Marketed by Warner Strategic Marketing", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Randy Newman", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+      }, 
+      "uri": "spotify:artist:3HQyFCFFfJO3KKBlUfZsyW", 
+      "href": "https://api.spotify.com/v1/artists/3HQyFCFFfJO3KKBlUfZsyW", 
+      "type": "artist", 
+      "id": "3HQyFCFFfJO3KKBlUfZsyW"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/a9c4ea3497e8f7b882958802653fac6a4b8b083c", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/110a6ad756c9217dfd983eca48e5912a5111704a", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/b6b69b6c43ed7cdcc51760f89d87a333ebe8dfda", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "081227383961"
+  }, 
+  "type": "album", 
+  "id": "4UY90kcO4N9ZPBl4xPLvvU", 
+  "name": "Good Old Boys"
+}

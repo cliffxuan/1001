@@ -1,0 +1,459 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0vkWciD32ObFi5iXtWmkvo"
+  }, 
+  "release_date": "1995", 
+  "popularity": 33, 
+  "genres": [], 
+  "uri": "spotify:album:0vkWciD32ObFi5iXtWmkvo", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Middle", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4BG0B2flYPEWfZXz65lI8X"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ac4c06af1e389df7592873b25267e9120f44abea", 
+        "is_playable": true, 
+        "uri": "spotify:track:4BG0B2flYPEWfZXz65lI8X", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4BG0B2flYPEWfZXz65lI8X", 
+        "artists": [
+          {
+            "name": "Rocket From The Crypt", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5GOJQ1HSMGp1rEnOhBeH1h"
+            }, 
+            "uri": "spotify:artist:5GOJQ1HSMGp1rEnOhBeH1h", 
+            "href": "https://api.spotify.com/v1/artists/5GOJQ1HSMGp1rEnOhBeH1h", 
+            "type": "artist", 
+            "id": "5GOJQ1HSMGp1rEnOhBeH1h"
+          }
+        ], 
+        "duration_ms": 61533, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "4BG0B2flYPEWfZXz65lI8X"
+      }, 
+      {
+        "name": "Born In '69", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2NCq00X1KLlrpLn7F4UHad"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/763e94ac6a745cdcec4812dc4c9bff168b035afa", 
+        "is_playable": true, 
+        "uri": "spotify:track:2NCq00X1KLlrpLn7F4UHad", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2NCq00X1KLlrpLn7F4UHad", 
+        "artists": [
+          {
+            "name": "Rocket From The Crypt", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5GOJQ1HSMGp1rEnOhBeH1h"
+            }, 
+            "uri": "spotify:artist:5GOJQ1HSMGp1rEnOhBeH1h", 
+            "href": "https://api.spotify.com/v1/artists/5GOJQ1HSMGp1rEnOhBeH1h", 
+            "type": "artist", 
+            "id": "5GOJQ1HSMGp1rEnOhBeH1h"
+          }
+        ], 
+        "duration_ms": 136906, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "2NCq00X1KLlrpLn7F4UHad"
+      }, 
+      {
+        "name": "On a Rope", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1vvsQUrAahPOvqEFqPR54q"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ba396a6704f5163cf9463fd5c729efb355fc9ca7", 
+        "is_playable": true, 
+        "uri": "spotify:track:1vvsQUrAahPOvqEFqPR54q", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1vvsQUrAahPOvqEFqPR54q", 
+        "artists": [
+          {
+            "name": "Rocket From The Crypt", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5GOJQ1HSMGp1rEnOhBeH1h"
+            }, 
+            "uri": "spotify:artist:5GOJQ1HSMGp1rEnOhBeH1h", 
+            "href": "https://api.spotify.com/v1/artists/5GOJQ1HSMGp1rEnOhBeH1h", 
+            "type": "artist", 
+            "id": "5GOJQ1HSMGp1rEnOhBeH1h"
+          }
+        ], 
+        "duration_ms": 173626, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "1vvsQUrAahPOvqEFqPR54q"
+      }, 
+      {
+        "name": "Young Livers", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/44xOWSgVlIPERDTI8ZJ1M8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/789f5fdf24a63e8af4cd5e1421f34a7eccfc8ecc", 
+        "is_playable": true, 
+        "uri": "spotify:track:44xOWSgVlIPERDTI8ZJ1M8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/44xOWSgVlIPERDTI8ZJ1M8", 
+        "artists": [
+          {
+            "name": "Rocket From The Crypt", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5GOJQ1HSMGp1rEnOhBeH1h"
+            }, 
+            "uri": "spotify:artist:5GOJQ1HSMGp1rEnOhBeH1h", 
+            "href": "https://api.spotify.com/v1/artists/5GOJQ1HSMGp1rEnOhBeH1h", 
+            "type": "artist", 
+            "id": "5GOJQ1HSMGp1rEnOhBeH1h"
+          }
+        ], 
+        "duration_ms": 174000, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "44xOWSgVlIPERDTI8ZJ1M8"
+      }, 
+      {
+        "name": "Drop Out", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5VCpRMFbTrVY69okNzkhfT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/177929180a38e06a7620ca2fd01371f2dad983e3", 
+        "is_playable": true, 
+        "uri": "spotify:track:5VCpRMFbTrVY69okNzkhfT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5VCpRMFbTrVY69okNzkhfT", 
+        "artists": [
+          {
+            "name": "Rocket From The Crypt", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5GOJQ1HSMGp1rEnOhBeH1h"
+            }, 
+            "uri": "spotify:artist:5GOJQ1HSMGp1rEnOhBeH1h", 
+            "href": "https://api.spotify.com/v1/artists/5GOJQ1HSMGp1rEnOhBeH1h", 
+            "type": "artist", 
+            "id": "5GOJQ1HSMGp1rEnOhBeH1h"
+          }
+        ], 
+        "duration_ms": 180040, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "5VCpRMFbTrVY69okNzkhfT"
+      }, 
+      {
+        "name": "Used", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7G0V1S9wr5LQN277jlEURD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/42c56ee86294b8433619c5913cd8d7a4552b1634", 
+        "is_playable": true, 
+        "uri": "spotify:track:7G0V1S9wr5LQN277jlEURD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7G0V1S9wr5LQN277jlEURD", 
+        "artists": [
+          {
+            "name": "Rocket From The Crypt", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5GOJQ1HSMGp1rEnOhBeH1h"
+            }, 
+            "uri": "spotify:artist:5GOJQ1HSMGp1rEnOhBeH1h", 
+            "href": "https://api.spotify.com/v1/artists/5GOJQ1HSMGp1rEnOhBeH1h", 
+            "type": "artist", 
+            "id": "5GOJQ1HSMGp1rEnOhBeH1h"
+          }
+        ], 
+        "duration_ms": 159093, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "7G0V1S9wr5LQN277jlEURD"
+      }, 
+      {
+        "name": "Ball Lightning", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/26dcWp5ockfpBRvkoUPjY0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f3390b2e7208716aafd62f6da00b0ac4130ce5ce", 
+        "is_playable": true, 
+        "uri": "spotify:track:26dcWp5ockfpBRvkoUPjY0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/26dcWp5ockfpBRvkoUPjY0", 
+        "artists": [
+          {
+            "name": "Rocket From The Crypt", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5GOJQ1HSMGp1rEnOhBeH1h"
+            }, 
+            "uri": "spotify:artist:5GOJQ1HSMGp1rEnOhBeH1h", 
+            "href": "https://api.spotify.com/v1/artists/5GOJQ1HSMGp1rEnOhBeH1h", 
+            "type": "artist", 
+            "id": "5GOJQ1HSMGp1rEnOhBeH1h"
+          }
+        ], 
+        "duration_ms": 229973, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "26dcWp5ockfpBRvkoUPjY0"
+      }, 
+      {
+        "name": "Fat Lip", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0mPsGpGx9WIzrsCRW1CCdu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3a28be02f8f0f1511a4ac835e78be28b18ffdc46", 
+        "is_playable": true, 
+        "uri": "spotify:track:0mPsGpGx9WIzrsCRW1CCdu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0mPsGpGx9WIzrsCRW1CCdu", 
+        "artists": [
+          {
+            "name": "Rocket From The Crypt", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5GOJQ1HSMGp1rEnOhBeH1h"
+            }, 
+            "uri": "spotify:artist:5GOJQ1HSMGp1rEnOhBeH1h", 
+            "href": "https://api.spotify.com/v1/artists/5GOJQ1HSMGp1rEnOhBeH1h", 
+            "type": "artist", 
+            "id": "5GOJQ1HSMGp1rEnOhBeH1h"
+          }
+        ], 
+        "duration_ms": 162226, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "0mPsGpGx9WIzrsCRW1CCdu"
+      }, 
+      {
+        "name": "Suit City", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7ExNv3vhoBphbsmU3PjTNA"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/dd5c8e2116e6698053dae26681d84627573a9e71", 
+        "is_playable": true, 
+        "uri": "spotify:track:7ExNv3vhoBphbsmU3PjTNA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7ExNv3vhoBphbsmU3PjTNA", 
+        "artists": [
+          {
+            "name": "Rocket From The Crypt", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5GOJQ1HSMGp1rEnOhBeH1h"
+            }, 
+            "uri": "spotify:artist:5GOJQ1HSMGp1rEnOhBeH1h", 
+            "href": "https://api.spotify.com/v1/artists/5GOJQ1HSMGp1rEnOhBeH1h", 
+            "type": "artist", 
+            "id": "5GOJQ1HSMGp1rEnOhBeH1h"
+          }
+        ], 
+        "duration_ms": 154733, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "7ExNv3vhoBphbsmU3PjTNA"
+      }, 
+      {
+        "name": "Heater Hands", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2UGwPLO1kA4DvB1Af86nqV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1321c64bc319b19d56db7842e59d2aa45ee6bded", 
+        "is_playable": true, 
+        "uri": "spotify:track:2UGwPLO1kA4DvB1Af86nqV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2UGwPLO1kA4DvB1Af86nqV", 
+        "artists": [
+          {
+            "name": "Rocket From The Crypt", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5GOJQ1HSMGp1rEnOhBeH1h"
+            }, 
+            "uri": "spotify:artist:5GOJQ1HSMGp1rEnOhBeH1h", 
+            "href": "https://api.spotify.com/v1/artists/5GOJQ1HSMGp1rEnOhBeH1h", 
+            "type": "artist", 
+            "id": "5GOJQ1HSMGp1rEnOhBeH1h"
+          }
+        ], 
+        "duration_ms": 216306, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "2UGwPLO1kA4DvB1Af86nqV"
+      }, 
+      {
+        "name": "Misbeaten", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4BOIGlb1M93LHxQDmII0Fx"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/867074bc7fb42d589ced5e772c508a9693ca73db", 
+        "is_playable": true, 
+        "uri": "spotify:track:4BOIGlb1M93LHxQDmII0Fx", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4BOIGlb1M93LHxQDmII0Fx", 
+        "artists": [
+          {
+            "name": "Rocket From The Crypt", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5GOJQ1HSMGp1rEnOhBeH1h"
+            }, 
+            "uri": "spotify:artist:5GOJQ1HSMGp1rEnOhBeH1h", 
+            "href": "https://api.spotify.com/v1/artists/5GOJQ1HSMGp1rEnOhBeH1h", 
+            "type": "artist", 
+            "id": "5GOJQ1HSMGp1rEnOhBeH1h"
+          }
+        ], 
+        "duration_ms": 242026, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "4BOIGlb1M93LHxQDmII0Fx"
+      }, 
+      {
+        "name": "Come See, Come Saw", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1EzzwgDtSwR1Ph5vcljB5d"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a9e01992fe7fcfaa01f06983eb27adca1d8b840b", 
+        "is_playable": true, 
+        "uri": "spotify:track:1EzzwgDtSwR1Ph5vcljB5d", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1EzzwgDtSwR1Ph5vcljB5d", 
+        "artists": [
+          {
+            "name": "Rocket From The Crypt", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5GOJQ1HSMGp1rEnOhBeH1h"
+            }, 
+            "uri": "spotify:artist:5GOJQ1HSMGp1rEnOhBeH1h", 
+            "href": "https://api.spotify.com/v1/artists/5GOJQ1HSMGp1rEnOhBeH1h", 
+            "type": "artist", 
+            "id": "5GOJQ1HSMGp1rEnOhBeH1h"
+          }
+        ], 
+        "duration_ms": 219600, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "1EzzwgDtSwR1Ph5vcljB5d"
+      }, 
+      {
+        "name": "Salt Future", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/32JQUo60tgdI7T99CdSOga"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7d2198cc3b0117cfce80be72ffdbf41dae1cb8f7", 
+        "is_playable": true, 
+        "uri": "spotify:track:32JQUo60tgdI7T99CdSOga", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/32JQUo60tgdI7T99CdSOga", 
+        "artists": [
+          {
+            "name": "Rocket From The Crypt", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5GOJQ1HSMGp1rEnOhBeH1h"
+            }, 
+            "uri": "spotify:artist:5GOJQ1HSMGp1rEnOhBeH1h", 
+            "href": "https://api.spotify.com/v1/artists/5GOJQ1HSMGp1rEnOhBeH1h", 
+            "type": "artist", 
+            "id": "5GOJQ1HSMGp1rEnOhBeH1h"
+          }
+        ], 
+        "duration_ms": 231706, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "32JQUo60tgdI7T99CdSOga"
+      }, 
+      {
+        "name": "Burnt Alive", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Ceo15YhK1Tf3n1y991JGt"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7f014a1d4cba5db7fead195fd77c6b4fa8fe24e6", 
+        "is_playable": true, 
+        "uri": "spotify:track:3Ceo15YhK1Tf3n1y991JGt", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3Ceo15YhK1Tf3n1y991JGt", 
+        "artists": [
+          {
+            "name": "Rocket From The Crypt", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5GOJQ1HSMGp1rEnOhBeH1h"
+            }, 
+            "uri": "spotify:artist:5GOJQ1HSMGp1rEnOhBeH1h", 
+            "href": "https://api.spotify.com/v1/artists/5GOJQ1HSMGp1rEnOhBeH1h", 
+            "type": "artist", 
+            "id": "5GOJQ1HSMGp1rEnOhBeH1h"
+          }
+        ], 
+        "duration_ms": 279333, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "3Ceo15YhK1Tf3n1y991JGt"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/0vkWciD32ObFi5iXtWmkvo/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 14, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/0vkWciD32ObFi5iXtWmkvo", 
+  "copyrights": [
+    {
+      "text": "1995 Elemental Records", 
+      "type": "C"
+    }, 
+    {
+      "text": "1995 Elemental Records", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Rocket From The Crypt", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5GOJQ1HSMGp1rEnOhBeH1h"
+      }, 
+      "uri": "spotify:artist:5GOJQ1HSMGp1rEnOhBeH1h", 
+      "href": "https://api.spotify.com/v1/artists/5GOJQ1HSMGp1rEnOhBeH1h", 
+      "type": "artist", 
+      "id": "5GOJQ1HSMGp1rEnOhBeH1h"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/b703c0243d95736f5ec8d842c828fa1ed8c8d50e", 
+      "width": 600, 
+      "height": 600
+    }, 
+    {
+      "url": "https://i.scdn.co/image/7bd725cff971d565d0257fd57f292663337abdec", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/d4302a650d88f14e66ed5189d05e6823aadd94b5", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "5023469003424"
+  }, 
+  "type": "album", 
+  "id": "0vkWciD32ObFi5iXtWmkvo", 
+  "name": "Scream, Dracula, Scream"
+}

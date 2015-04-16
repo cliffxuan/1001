@@ -1,0 +1,1241 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7e1BJQovPkAFsewqgPBHQC"
+  }, 
+  "release_date": "2002", 
+  "popularity": 45, 
+  "genres": [], 
+  "uri": "spotify:album:7e1BJQovPkAFsewqgPBHQC", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Take Me In Your Lifeboat", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/21BVxUaUa2kJqcya6BvLbe"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a4696d5c01f4309cf93f456a583b9eafbc66b7e0", 
+        "is_playable": true, 
+        "uri": "spotify:track:21BVxUaUa2kJqcya6BvLbe", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/21BVxUaUa2kJqcya6BvLbe", 
+        "artists": [
+          {
+            "name": "Nitty Gritty Dirt Band", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+            }, 
+            "uri": "spotify:artist:7y70dch6JuuuNnwlsOQvwW", 
+            "href": "https://api.spotify.com/v1/artists/7y70dch6JuuuNnwlsOQvwW", 
+            "type": "artist", 
+            "id": "7y70dch6JuuuNnwlsOQvwW"
+          }, 
+          {
+            "name": "Ronnie McCoury", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4xLzU33GmHeP6nGcYEIKdh"
+            }, 
+            "uri": "spotify:artist:4xLzU33GmHeP6nGcYEIKdh", 
+            "href": "https://api.spotify.com/v1/artists/4xLzU33GmHeP6nGcYEIKdh", 
+            "type": "artist", 
+            "id": "4xLzU33GmHeP6nGcYEIKdh"
+          }, 
+          {
+            "name": "Robbie McCoury", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1HoTGTQ1ptfCa9semwYf2a"
+            }, 
+            "uri": "spotify:artist:1HoTGTQ1ptfCa9semwYf2a", 
+            "href": "https://api.spotify.com/v1/artists/1HoTGTQ1ptfCa9semwYf2a", 
+            "type": "artist", 
+            "id": "1HoTGTQ1ptfCa9semwYf2a"
+          }, 
+          {
+            "name": "Del McCoury", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1yGXkI3DrirCcXv3uwJjGv"
+            }, 
+            "uri": "spotify:artist:1yGXkI3DrirCcXv3uwJjGv", 
+            "href": "https://api.spotify.com/v1/artists/1yGXkI3DrirCcXv3uwJjGv", 
+            "type": "artist", 
+            "id": "1yGXkI3DrirCcXv3uwJjGv"
+          }
+        ], 
+        "duration_ms": 221600, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "21BVxUaUa2kJqcya6BvLbe"
+      }, 
+      {
+        "name": "Milk Cow Blues", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5i22PC374PqrCviqh2I9m9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b5596f9c7e4d7764a2116462c5e1fa689dbc512b", 
+        "is_playable": true, 
+        "uri": "spotify:track:5i22PC374PqrCviqh2I9m9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5i22PC374PqrCviqh2I9m9", 
+        "artists": [
+          {
+            "name": "Nitty Gritty Dirt Band", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+            }, 
+            "uri": "spotify:artist:7y70dch6JuuuNnwlsOQvwW", 
+            "href": "https://api.spotify.com/v1/artists/7y70dch6JuuuNnwlsOQvwW", 
+            "type": "artist", 
+            "id": "7y70dch6JuuuNnwlsOQvwW"
+          }, 
+          {
+            "name": "Richard Watson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5Vdl2A0B68s7SHWK2Nspm2"
+            }, 
+            "uri": "spotify:artist:5Vdl2A0B68s7SHWK2Nspm2", 
+            "href": "https://api.spotify.com/v1/artists/5Vdl2A0B68s7SHWK2Nspm2", 
+            "type": "artist", 
+            "id": "5Vdl2A0B68s7SHWK2Nspm2"
+          }, 
+          {
+            "name": "Doc Watson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ"
+            }, 
+            "uri": "spotify:artist:01N1aZStXA4yGvkz4vRXtJ", 
+            "href": "https://api.spotify.com/v1/artists/01N1aZStXA4yGvkz4vRXtJ", 
+            "type": "artist", 
+            "id": "01N1aZStXA4yGvkz4vRXtJ"
+          }, 
+          {
+            "name": "Josh Graves", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1ME0F6kcxVEKn3lAO55JRW"
+            }, 
+            "uri": "spotify:artist:1ME0F6kcxVEKn3lAO55JRW", 
+            "href": "https://api.spotify.com/v1/artists/1ME0F6kcxVEKn3lAO55JRW", 
+            "type": "artist", 
+            "id": "1ME0F6kcxVEKn3lAO55JRW"
+          }
+        ], 
+        "duration_ms": 304040, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "5i22PC374PqrCviqh2I9m9"
+      }, 
+      {
+        "name": "I Find Jesus", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/467h4h9UVprBQWJ0MgoX0O"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c263e36f5b4a26d81c92265ebe75593c85303f9a", 
+        "is_playable": true, 
+        "uri": "spotify:track:467h4h9UVprBQWJ0MgoX0O", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/467h4h9UVprBQWJ0MgoX0O", 
+        "artists": [
+          {
+            "name": "Nitty Gritty Dirt Band", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+            }, 
+            "uri": "spotify:artist:7y70dch6JuuuNnwlsOQvwW", 
+            "href": "https://api.spotify.com/v1/artists/7y70dch6JuuuNnwlsOQvwW", 
+            "type": "artist", 
+            "id": "7y70dch6JuuuNnwlsOQvwW"
+          }
+        ], 
+        "duration_ms": 234040, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "467h4h9UVprBQWJ0MgoX0O"
+      }, 
+      {
+        "name": "Hold Whatcha Got", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/54RAoRASpgySjcUAWlUmDc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4dd9fecbba9b0b1a10173b07678c7c663078ea8d", 
+        "is_playable": true, 
+        "uri": "spotify:track:54RAoRASpgySjcUAWlUmDc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/54RAoRASpgySjcUAWlUmDc", 
+        "artists": [
+          {
+            "name": "Nitty Gritty Dirt Band", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+            }, 
+            "uri": "spotify:artist:7y70dch6JuuuNnwlsOQvwW", 
+            "href": "https://api.spotify.com/v1/artists/7y70dch6JuuuNnwlsOQvwW", 
+            "type": "artist", 
+            "id": "7y70dch6JuuuNnwlsOQvwW"
+          }, 
+          {
+            "name": "Jimmy Martin", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5Xwgp3LVYzHtRnio8TbzWz"
+            }, 
+            "uri": "spotify:artist:5Xwgp3LVYzHtRnio8TbzWz", 
+            "href": "https://api.spotify.com/v1/artists/5Xwgp3LVYzHtRnio8TbzWz", 
+            "type": "artist", 
+            "id": "5Xwgp3LVYzHtRnio8TbzWz"
+          }
+        ], 
+        "duration_ms": 175653, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "54RAoRASpgySjcUAWlUmDc"
+      }, 
+      {
+        "name": "Mama's Opry", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/06c7fWg3uSlIFzYJAgCQLD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a59d2c08d26def0555e9c90482e9c07f05bdc13f", 
+        "is_playable": true, 
+        "uri": "spotify:track:06c7fWg3uSlIFzYJAgCQLD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/06c7fWg3uSlIFzYJAgCQLD", 
+        "artists": [
+          {
+            "name": "Nitty Gritty Dirt Band", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+            }, 
+            "uri": "spotify:artist:7y70dch6JuuuNnwlsOQvwW", 
+            "href": "https://api.spotify.com/v1/artists/7y70dch6JuuuNnwlsOQvwW", 
+            "type": "artist", 
+            "id": "7y70dch6JuuuNnwlsOQvwW"
+          }, 
+          {
+            "name": "Iris DeMent", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY"
+            }, 
+            "uri": "spotify:artist:3NPZs8XgXtaWslUcnIw6rY", 
+            "href": "https://api.spotify.com/v1/artists/3NPZs8XgXtaWslUcnIw6rY", 
+            "type": "artist", 
+            "id": "3NPZs8XgXtaWslUcnIw6rY"
+          }
+        ], 
+        "duration_ms": 263013, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "06c7fWg3uSlIFzYJAgCQLD"
+      }, 
+      {
+        "name": "Diamonds In The Rough", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7e1OPqjkbvijXvaHa9xmdu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2ae93f084e73f46c56c543f29e11c4d25d6d4d6c", 
+        "is_playable": true, 
+        "uri": "spotify:track:7e1OPqjkbvijXvaHa9xmdu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7e1OPqjkbvijXvaHa9xmdu", 
+        "artists": [
+          {
+            "name": "Nitty Gritty Dirt Band", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+            }, 
+            "uri": "spotify:artist:7y70dch6JuuuNnwlsOQvwW", 
+            "href": "https://api.spotify.com/v1/artists/7y70dch6JuuuNnwlsOQvwW", 
+            "type": "artist", 
+            "id": "7y70dch6JuuuNnwlsOQvwW"
+          }, 
+          {
+            "name": "Earl Scruggs", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4NEA48c6ajydrRzCbyll3M"
+            }, 
+            "uri": "spotify:artist:4NEA48c6ajydrRzCbyll3M", 
+            "href": "https://api.spotify.com/v1/artists/4NEA48c6ajydrRzCbyll3M", 
+            "type": "artist", 
+            "id": "4NEA48c6ajydrRzCbyll3M"
+          }, 
+          {
+            "name": "June Carter Cash", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td"
+            }, 
+            "uri": "spotify:artist:0ZnY6mQmgr2yZarjry68td", 
+            "href": "https://api.spotify.com/v1/artists/0ZnY6mQmgr2yZarjry68td", 
+            "type": "artist", 
+            "id": "0ZnY6mQmgr2yZarjry68td"
+          }
+        ], 
+        "duration_ms": 219773, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "7e1OPqjkbvijXvaHa9xmdu"
+      }, 
+      {
+        "name": "Lonesome River", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2SSThiVaTS6DwQHhrybVe7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0b4ca83992129e7f0a8d7d6097f643a9c110739a", 
+        "is_playable": true, 
+        "uri": "spotify:track:2SSThiVaTS6DwQHhrybVe7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2SSThiVaTS6DwQHhrybVe7", 
+        "artists": [
+          {
+            "name": "Nitty Gritty Dirt Band", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+            }, 
+            "uri": "spotify:artist:7y70dch6JuuuNnwlsOQvwW", 
+            "href": "https://api.spotify.com/v1/artists/7y70dch6JuuuNnwlsOQvwW", 
+            "type": "artist", 
+            "id": "7y70dch6JuuuNnwlsOQvwW"
+          }, 
+          {
+            "name": "Sam Bush", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+            }, 
+            "uri": "spotify:artist:3Fud2i8WgXSZCVmi961lXm", 
+            "href": "https://api.spotify.com/v1/artists/3Fud2i8WgXSZCVmi961lXm", 
+            "type": "artist", 
+            "id": "3Fud2i8WgXSZCVmi961lXm"
+          }
+        ], 
+        "duration_ms": 263840, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "2SSThiVaTS6DwQHhrybVe7"
+      }, 
+      {
+        "name": "Some Dark Holler", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7BridBKAPwNprmQxeC4u7C"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/72b85a5fe81cf37b2603e8017d169b6150ddc621", 
+        "is_playable": true, 
+        "uri": "spotify:track:7BridBKAPwNprmQxeC4u7C", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7BridBKAPwNprmQxeC4u7C", 
+        "artists": [
+          {
+            "name": "Nitty Gritty Dirt Band", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+            }, 
+            "uri": "spotify:artist:7y70dch6JuuuNnwlsOQvwW", 
+            "href": "https://api.spotify.com/v1/artists/7y70dch6JuuuNnwlsOQvwW", 
+            "type": "artist", 
+            "id": "7y70dch6JuuuNnwlsOQvwW"
+          }, 
+          {
+            "name": "Dwight Yoakam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+            }, 
+            "uri": "spotify:artist:2sxmKe3CUrWnx7eoXMhOlW", 
+            "href": "https://api.spotify.com/v1/artists/2sxmKe3CUrWnx7eoXMhOlW", 
+            "type": "artist", 
+            "id": "2sxmKe3CUrWnx7eoXMhOlW"
+          }
+        ], 
+        "duration_ms": 199533, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "7BridBKAPwNprmQxeC4u7C"
+      }, 
+      {
+        "name": "The Lowlands (featuring Jaime Hanna & Jonathon McEuen)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6IAFyLp5YDvSKZ7JwOEUcz"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bf77a071135893e098a4b980136b3a061870b1d1", 
+        "is_playable": true, 
+        "uri": "spotify:track:6IAFyLp5YDvSKZ7JwOEUcz", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6IAFyLp5YDvSKZ7JwOEUcz", 
+        "artists": [
+          {
+            "name": "Nitty Gritty Dirt Band", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+            }, 
+            "uri": "spotify:artist:7y70dch6JuuuNnwlsOQvwW", 
+            "href": "https://api.spotify.com/v1/artists/7y70dch6JuuuNnwlsOQvwW", 
+            "type": "artist", 
+            "id": "7y70dch6JuuuNnwlsOQvwW"
+          }
+        ], 
+        "duration_ms": 230520, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "6IAFyLp5YDvSKZ7JwOEUcz"
+      }, 
+      {
+        "name": "Love, Please Come Home", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4vpe4K0W2IEHPoqFxr6Q2Y"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0654d76999164c1e93b510b41de718c5203d2675", 
+        "is_playable": true, 
+        "uri": "spotify:track:4vpe4K0W2IEHPoqFxr6Q2Y", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4vpe4K0W2IEHPoqFxr6Q2Y", 
+        "artists": [
+          {
+            "name": "Nitty Gritty Dirt Band", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+            }, 
+            "uri": "spotify:artist:7y70dch6JuuuNnwlsOQvwW", 
+            "href": "https://api.spotify.com/v1/artists/7y70dch6JuuuNnwlsOQvwW", 
+            "type": "artist", 
+            "id": "7y70dch6JuuuNnwlsOQvwW"
+          }, 
+          {
+            "name": "Ronnie McCoury", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4xLzU33GmHeP6nGcYEIKdh"
+            }, 
+            "uri": "spotify:artist:4xLzU33GmHeP6nGcYEIKdh", 
+            "href": "https://api.spotify.com/v1/artists/4xLzU33GmHeP6nGcYEIKdh", 
+            "type": "artist", 
+            "id": "4xLzU33GmHeP6nGcYEIKdh"
+          }, 
+          {
+            "name": "Robbie McCoury", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1HoTGTQ1ptfCa9semwYf2a"
+            }, 
+            "uri": "spotify:artist:1HoTGTQ1ptfCa9semwYf2a", 
+            "href": "https://api.spotify.com/v1/artists/1HoTGTQ1ptfCa9semwYf2a", 
+            "type": "artist", 
+            "id": "1HoTGTQ1ptfCa9semwYf2a"
+          }, 
+          {
+            "name": "Del McCoury", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1yGXkI3DrirCcXv3uwJjGv"
+            }, 
+            "uri": "spotify:artist:1yGXkI3DrirCcXv3uwJjGv", 
+            "href": "https://api.spotify.com/v1/artists/1yGXkI3DrirCcXv3uwJjGv", 
+            "type": "artist", 
+            "id": "1yGXkI3DrirCcXv3uwJjGv"
+          }
+        ], 
+        "duration_ms": 169080, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "4vpe4K0W2IEHPoqFxr6Q2Y"
+      }, 
+      {
+        "name": "Goodnight Irene", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1K7eSEGkEQMXit7Oae8lxw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3e373888fed44fe99e60403414e6af04448de833", 
+        "is_playable": true, 
+        "uri": "spotify:track:1K7eSEGkEQMXit7Oae8lxw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1K7eSEGkEQMXit7Oae8lxw", 
+        "artists": [
+          {
+            "name": "Willie Nelson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+            }, 
+            "uri": "spotify:artist:5W5bDNCqJ1jbCgTxDD0Cb3", 
+            "href": "https://api.spotify.com/v1/artists/5W5bDNCqJ1jbCgTxDD0Cb3", 
+            "type": "artist", 
+            "id": "5W5bDNCqJ1jbCgTxDD0Cb3"
+          }, 
+          {
+            "name": "Tom Petty", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+            }, 
+            "uri": "spotify:artist:2UZMlIwnkgAEDBsw1Rejkn", 
+            "href": "https://api.spotify.com/v1/artists/2UZMlIwnkgAEDBsw1Rejkn", 
+            "type": "artist", 
+            "id": "2UZMlIwnkgAEDBsw1Rejkn"
+          }
+        ], 
+        "duration_ms": 270920, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "1K7eSEGkEQMXit7Oae8lxw"
+      }, 
+      {
+        "name": "I Know What It Means To Be Lonesome", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7zQ6OFUw9XBQEuMlRd59Nr"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fb9c4c8f77462cdbcafa0aa03f664cd65b7cef4b", 
+        "is_playable": true, 
+        "uri": "spotify:track:7zQ6OFUw9XBQEuMlRd59Nr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7zQ6OFUw9XBQEuMlRd59Nr", 
+        "artists": [
+          {
+            "name": "Nitty Gritty Dirt Band", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+            }, 
+            "uri": "spotify:artist:7y70dch6JuuuNnwlsOQvwW", 
+            "href": "https://api.spotify.com/v1/artists/7y70dch6JuuuNnwlsOQvwW", 
+            "type": "artist", 
+            "id": "7y70dch6JuuuNnwlsOQvwW"
+          }, 
+          {
+            "name": "The Nashville Bluegrass Band", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/60PxSDzeNfdNALOPi5oe7b"
+            }, 
+            "uri": "spotify:artist:60PxSDzeNfdNALOPi5oe7b", 
+            "href": "https://api.spotify.com/v1/artists/60PxSDzeNfdNALOPi5oe7b", 
+            "type": "artist", 
+            "id": "60PxSDzeNfdNALOPi5oe7b"
+          }
+        ], 
+        "duration_ms": 229893, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "7zQ6OFUw9XBQEuMlRd59Nr"
+      }, 
+      {
+        "name": "I'll Be Faithful To You", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2EEK9NieUN1JKMbjX8tBrS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1a8fdb27fc0c2f2327de627d970d8d13b1165558", 
+        "is_playable": true, 
+        "uri": "spotify:track:2EEK9NieUN1JKMbjX8tBrS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2EEK9NieUN1JKMbjX8tBrS", 
+        "artists": [
+          {
+            "name": "Nitty Gritty Dirt Band", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+            }, 
+            "uri": "spotify:artist:7y70dch6JuuuNnwlsOQvwW", 
+            "href": "https://api.spotify.com/v1/artists/7y70dch6JuuuNnwlsOQvwW", 
+            "type": "artist", 
+            "id": "7y70dch6JuuuNnwlsOQvwW"
+          }, 
+          {
+            "name": "Emmylou Harris", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+            }, 
+            "uri": "spotify:artist:5s6TJEuHTr9GR894wc6VfP", 
+            "href": "https://api.spotify.com/v1/artists/5s6TJEuHTr9GR894wc6VfP", 
+            "type": "artist", 
+            "id": "5s6TJEuHTr9GR894wc6VfP"
+          }
+        ], 
+        "duration_ms": 153893, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "2EEK9NieUN1JKMbjX8tBrS"
+      }, 
+      {
+        "name": "Tears In The Holston River", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5w1KTFhyCmHYwfnG0qTvKS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d832ff8bb137f7fd385f86c2e755dcab7d6a54d5", 
+        "is_playable": true, 
+        "uri": "spotify:track:5w1KTFhyCmHYwfnG0qTvKS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5w1KTFhyCmHYwfnG0qTvKS", 
+        "artists": [
+          {
+            "name": "Nitty Gritty Dirt Band", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+            }, 
+            "uri": "spotify:artist:7y70dch6JuuuNnwlsOQvwW", 
+            "href": "https://api.spotify.com/v1/artists/7y70dch6JuuuNnwlsOQvwW", 
+            "type": "artist", 
+            "id": "7y70dch6JuuuNnwlsOQvwW"
+          }, 
+          {
+            "name": "Johnny Cash", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+            }, 
+            "uri": "spotify:artist:6kACVPfCOnqzgfEF5ryl0x", 
+            "href": "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x", 
+            "type": "artist", 
+            "id": "6kACVPfCOnqzgfEF5ryl0x"
+          }
+        ], 
+        "duration_ms": 254133, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "5w1KTFhyCmHYwfnG0qTvKS"
+      }, 
+      {
+        "name": "Fishin' Blues", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6qWbnpJhwxq7fIbcCjlULm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c48643fbc6f0c04643a5ecf54db5135caebd720d", 
+        "is_playable": true, 
+        "uri": "spotify:track:6qWbnpJhwxq7fIbcCjlULm", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6qWbnpJhwxq7fIbcCjlULm", 
+        "artists": [
+          {
+            "name": "Nitty Gritty Dirt Band", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+            }, 
+            "uri": "spotify:artist:7y70dch6JuuuNnwlsOQvwW", 
+            "href": "https://api.spotify.com/v1/artists/7y70dch6JuuuNnwlsOQvwW", 
+            "type": "artist", 
+            "id": "7y70dch6JuuuNnwlsOQvwW"
+          }, 
+          {
+            "name": "Taj Mahal", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+            }, 
+            "uri": "spotify:artist:1aTDTChWWyiJH3SEnYrdVp", 
+            "href": "https://api.spotify.com/v1/artists/1aTDTChWWyiJH3SEnYrdVp", 
+            "type": "artist", 
+            "id": "1aTDTChWWyiJH3SEnYrdVp"
+          }, 
+          {
+            "name": "Vassar Clements", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kRUvBTtkaTGxDczyLC4fU"
+            }, 
+            "uri": "spotify:artist:3kRUvBTtkaTGxDczyLC4fU", 
+            "href": "https://api.spotify.com/v1/artists/3kRUvBTtkaTGxDczyLC4fU", 
+            "type": "artist", 
+            "id": "3kRUvBTtkaTGxDczyLC4fU"
+          }
+        ], 
+        "duration_ms": 271706, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "6qWbnpJhwxq7fIbcCjlULm"
+      }, 
+      {
+        "name": "Save It, Save It", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/56hHMDKK8CFik5VFbmfbMp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3395c8bb5f60847f4e8af79c24536ba24122aa2d", 
+        "is_playable": true, 
+        "uri": "spotify:track:56hHMDKK8CFik5VFbmfbMp", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/56hHMDKK8CFik5VFbmfbMp", 
+        "artists": [
+          {
+            "name": "Nitty Gritty Dirt Band", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+            }, 
+            "uri": "spotify:artist:7y70dch6JuuuNnwlsOQvwW", 
+            "href": "https://api.spotify.com/v1/artists/7y70dch6JuuuNnwlsOQvwW", 
+            "type": "artist", 
+            "id": "7y70dch6JuuuNnwlsOQvwW"
+          }, 
+          {
+            "name": "Jimmy Martin", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5Xwgp3LVYzHtRnio8TbzWz"
+            }, 
+            "uri": "spotify:artist:5Xwgp3LVYzHtRnio8TbzWz", 
+            "href": "https://api.spotify.com/v1/artists/5Xwgp3LVYzHtRnio8TbzWz", 
+            "type": "artist", 
+            "id": "5Xwgp3LVYzHtRnio8TbzWz"
+          }
+        ], 
+        "duration_ms": 118053, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "56hHMDKK8CFik5VFbmfbMp"
+      }, 
+      {
+        "name": "Wheels", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7ulTy529TzdFF6pfgZXYkY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2f677a7a267f60e757a571603a7b1ab0c15e561c", 
+        "is_playable": true, 
+        "uri": "spotify:track:7ulTy529TzdFF6pfgZXYkY", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/7ulTy529TzdFF6pfgZXYkY", 
+        "artists": [
+          {
+            "name": "Nitty Gritty Dirt Band", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+            }, 
+            "uri": "spotify:artist:7y70dch6JuuuNnwlsOQvwW", 
+            "href": "https://api.spotify.com/v1/artists/7y70dch6JuuuNnwlsOQvwW", 
+            "type": "artist", 
+            "id": "7y70dch6JuuuNnwlsOQvwW"
+          }, 
+          {
+            "name": "Dwight Yoakam", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+            }, 
+            "uri": "spotify:artist:2sxmKe3CUrWnx7eoXMhOlW", 
+            "href": "https://api.spotify.com/v1/artists/2sxmKe3CUrWnx7eoXMhOlW", 
+            "type": "artist", 
+            "id": "2sxmKe3CUrWnx7eoXMhOlW"
+          }
+        ], 
+        "duration_ms": 195600, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "7ulTy529TzdFF6pfgZXYkY"
+      }, 
+      {
+        "name": "Roll In My Sweet Baby's Arms", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1dcm8pmB1eOdvInOhORxje"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f7292a70aa8ed1274db1397501666a685f7f4df9", 
+        "is_playable": true, 
+        "uri": "spotify:track:1dcm8pmB1eOdvInOhORxje", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1dcm8pmB1eOdvInOhORxje", 
+        "artists": [
+          {
+            "name": "Nitty Gritty Dirt Band", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+            }, 
+            "uri": "spotify:artist:7y70dch6JuuuNnwlsOQvwW", 
+            "href": "https://api.spotify.com/v1/artists/7y70dch6JuuuNnwlsOQvwW", 
+            "type": "artist", 
+            "id": "7y70dch6JuuuNnwlsOQvwW"
+          }, 
+          {
+            "name": "Willie Nelson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+            }, 
+            "uri": "spotify:artist:5W5bDNCqJ1jbCgTxDD0Cb3", 
+            "href": "https://api.spotify.com/v1/artists/5W5bDNCqJ1jbCgTxDD0Cb3", 
+            "type": "artist", 
+            "id": "5W5bDNCqJ1jbCgTxDD0Cb3"
+          }
+        ], 
+        "duration_ms": 236373, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "1dcm8pmB1eOdvInOhORxje"
+      }, 
+      {
+        "name": "Oh Cumberland", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5HOmxVOovhzcYJMqJmVgiq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ab5c57dc3932d38e1b242811bf20a0888a5433ea", 
+        "is_playable": true, 
+        "uri": "spotify:track:5HOmxVOovhzcYJMqJmVgiq", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5HOmxVOovhzcYJMqJmVgiq", 
+        "artists": [
+          {
+            "name": "Nitty Gritty Dirt Band", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+            }, 
+            "uri": "spotify:artist:7y70dch6JuuuNnwlsOQvwW", 
+            "href": "https://api.spotify.com/v1/artists/7y70dch6JuuuNnwlsOQvwW", 
+            "type": "artist", 
+            "id": "7y70dch6JuuuNnwlsOQvwW"
+          }, 
+          {
+            "name": "Emmylou Harris", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+            }, 
+            "uri": "spotify:artist:5s6TJEuHTr9GR894wc6VfP", 
+            "href": "https://api.spotify.com/v1/artists/5s6TJEuHTr9GR894wc6VfP", 
+            "type": "artist", 
+            "id": "5s6TJEuHTr9GR894wc6VfP"
+          }, 
+          {
+            "name": "Matraca Berg", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3tet9aJudN4LsqHAxcA4O9"
+            }, 
+            "uri": "spotify:artist:3tet9aJudN4LsqHAxcA4O9", 
+            "href": "https://api.spotify.com/v1/artists/3tet9aJudN4LsqHAxcA4O9", 
+            "type": "artist", 
+            "id": "3tet9aJudN4LsqHAxcA4O9"
+          }
+        ], 
+        "duration_ms": 261746, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "5HOmxVOovhzcYJMqJmVgiq"
+      }, 
+      {
+        "name": "I Am A Pilgrim", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2IMWsfN9rSXWgpI0QuVJxl"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/57906c67020ccce4bb13c22c3b1ab6731ec2f099", 
+        "is_playable": true, 
+        "uri": "spotify:track:2IMWsfN9rSXWgpI0QuVJxl", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/2IMWsfN9rSXWgpI0QuVJxl", 
+        "artists": [
+          {
+            "name": "Nitty Gritty Dirt Band", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+            }, 
+            "uri": "spotify:artist:7y70dch6JuuuNnwlsOQvwW", 
+            "href": "https://api.spotify.com/v1/artists/7y70dch6JuuuNnwlsOQvwW", 
+            "type": "artist", 
+            "id": "7y70dch6JuuuNnwlsOQvwW"
+          }, 
+          {
+            "name": "Doc Watson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ"
+            }, 
+            "uri": "spotify:artist:01N1aZStXA4yGvkz4vRXtJ", 
+            "href": "https://api.spotify.com/v1/artists/01N1aZStXA4yGvkz4vRXtJ", 
+            "type": "artist", 
+            "id": "01N1aZStXA4yGvkz4vRXtJ"
+          }
+        ], 
+        "duration_ms": 249493, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "2IMWsfN9rSXWgpI0QuVJxl"
+      }, 
+      {
+        "name": "Sallie Ann", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2iZril8jJzBoTQA4dqw2tx"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/830cab2d272a2dd28b8f2b6fb8ddd4a199a07f51", 
+        "is_playable": true, 
+        "uri": "spotify:track:2iZril8jJzBoTQA4dqw2tx", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/2iZril8jJzBoTQA4dqw2tx", 
+        "artists": [
+          {
+            "name": "Nitty Gritty Dirt Band", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+            }, 
+            "uri": "spotify:artist:7y70dch6JuuuNnwlsOQvwW", 
+            "href": "https://api.spotify.com/v1/artists/7y70dch6JuuuNnwlsOQvwW", 
+            "type": "artist", 
+            "id": "7y70dch6JuuuNnwlsOQvwW"
+          }, 
+          {
+            "name": "Earl Scruggs", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4NEA48c6ajydrRzCbyll3M"
+            }, 
+            "uri": "spotify:artist:4NEA48c6ajydrRzCbyll3M", 
+            "href": "https://api.spotify.com/v1/artists/4NEA48c6ajydrRzCbyll3M", 
+            "type": "artist", 
+            "id": "4NEA48c6ajydrRzCbyll3M"
+          }
+        ], 
+        "duration_ms": 157600, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "2iZril8jJzBoTQA4dqw2tx"
+      }, 
+      {
+        "name": "Catfish John", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6cdgNmhN5yId1N5vNkSsQp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3327c5130cfdded15a904603228e046247438620", 
+        "is_playable": true, 
+        "uri": "spotify:track:6cdgNmhN5yId1N5vNkSsQp", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6cdgNmhN5yId1N5vNkSsQp", 
+        "artists": [
+          {
+            "name": "Nitty Gritty Dirt Band", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+            }, 
+            "uri": "spotify:artist:7y70dch6JuuuNnwlsOQvwW", 
+            "href": "https://api.spotify.com/v1/artists/7y70dch6JuuuNnwlsOQvwW", 
+            "type": "artist", 
+            "id": "7y70dch6JuuuNnwlsOQvwW"
+          }, 
+          {
+            "name": "Alison Krauss", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+            }, 
+            "uri": "spotify:artist:5J6L7N6B4nI1M5cwa29mQG", 
+            "href": "https://api.spotify.com/v1/artists/5J6L7N6B4nI1M5cwa29mQG", 
+            "type": "artist", 
+            "id": "5J6L7N6B4nI1M5cwa29mQG"
+          }
+        ], 
+        "duration_ms": 247106, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "6cdgNmhN5yId1N5vNkSsQp"
+      }, 
+      {
+        "name": "Roll The Stone Away", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2SX18u96zlAm7jRCX9tbtt"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8b9ba1e74a7b2e14aa979668b8aac858de3e4daf", 
+        "is_playable": true, 
+        "uri": "spotify:track:2SX18u96zlAm7jRCX9tbtt", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/2SX18u96zlAm7jRCX9tbtt", 
+        "artists": [
+          {
+            "name": "Nitty Gritty Dirt Band", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+            }, 
+            "uri": "spotify:artist:7y70dch6JuuuNnwlsOQvwW", 
+            "href": "https://api.spotify.com/v1/artists/7y70dch6JuuuNnwlsOQvwW", 
+            "type": "artist", 
+            "id": "7y70dch6JuuuNnwlsOQvwW"
+          }
+        ], 
+        "duration_ms": 250120, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "2SX18u96zlAm7jRCX9tbtt"
+      }, 
+      {
+        "name": "All Prayed Up", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7LfVpkGHELuFy1SIqE6EeJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c479c441485f4254a8f44a123e2cf9e02835e084", 
+        "is_playable": true, 
+        "uri": "spotify:track:7LfVpkGHELuFy1SIqE6EeJ", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/7LfVpkGHELuFy1SIqE6EeJ", 
+        "artists": [
+          {
+            "name": "Nitty Gritty Dirt Band", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+            }, 
+            "uri": "spotify:artist:7y70dch6JuuuNnwlsOQvwW", 
+            "href": "https://api.spotify.com/v1/artists/7y70dch6JuuuNnwlsOQvwW", 
+            "type": "artist", 
+            "id": "7y70dch6JuuuNnwlsOQvwW"
+          }, 
+          {
+            "name": "Vince Gill", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+            }, 
+            "uri": "spotify:artist:3IhWQSrLj8EJjdvjFTpCyo", 
+            "href": "https://api.spotify.com/v1/artists/3IhWQSrLj8EJjdvjFTpCyo", 
+            "type": "artist", 
+            "id": "3IhWQSrLj8EJjdvjFTpCyo"
+          }
+        ], 
+        "duration_ms": 190306, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "7LfVpkGHELuFy1SIqE6EeJ"
+      }, 
+      {
+        "name": "Return To Dismal Swamp II - Feat. Jerry Douglas, Glen Duncan, Ronnie McCoury And Tony Rice", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/72ix2atoRm7SK3wwyWsToo"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f3ddf07f2fc849cc5270ca7f33147eceec07cf06", 
+        "is_playable": true, 
+        "uri": "spotify:track:72ix2atoRm7SK3wwyWsToo", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/72ix2atoRm7SK3wwyWsToo", 
+        "artists": [
+          {
+            "name": "Nitty Gritty Dirt Band", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+            }, 
+            "uri": "spotify:artist:7y70dch6JuuuNnwlsOQvwW", 
+            "href": "https://api.spotify.com/v1/artists/7y70dch6JuuuNnwlsOQvwW", 
+            "type": "artist", 
+            "id": "7y70dch6JuuuNnwlsOQvwW"
+          }, 
+          {
+            "name": "Tony Rice", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr"
+            }, 
+            "uri": "spotify:artist:6N9hyojoLChEhlsS8vYnyr", 
+            "href": "https://api.spotify.com/v1/artists/6N9hyojoLChEhlsS8vYnyr", 
+            "type": "artist", 
+            "id": "6N9hyojoLChEhlsS8vYnyr"
+          }, 
+          {
+            "name": "Ronnie McCoury", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4xLzU33GmHeP6nGcYEIKdh"
+            }, 
+            "uri": "spotify:artist:4xLzU33GmHeP6nGcYEIKdh", 
+            "href": "https://api.spotify.com/v1/artists/4xLzU33GmHeP6nGcYEIKdh", 
+            "type": "artist", 
+            "id": "4xLzU33GmHeP6nGcYEIKdh"
+          }, 
+          {
+            "name": "Glen Duncan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1LVuachI2hslHIEr7RQxXD"
+            }, 
+            "uri": "spotify:artist:1LVuachI2hslHIEr7RQxXD", 
+            "href": "https://api.spotify.com/v1/artists/1LVuachI2hslHIEr7RQxXD", 
+            "type": "artist", 
+            "id": "1LVuachI2hslHIEr7RQxXD"
+          }, 
+          {
+            "name": "Jerry Douglas", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+            }, 
+            "uri": "spotify:artist:4YgACLaoEjPl4kVZ5WmBN9", 
+            "href": "https://api.spotify.com/v1/artists/4YgACLaoEjPl4kVZ5WmBN9", 
+            "type": "artist", 
+            "id": "4YgACLaoEjPl4kVZ5WmBN9"
+          }
+        ], 
+        "duration_ms": 197880, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "72ix2atoRm7SK3wwyWsToo"
+      }, 
+      {
+        "name": "There Is A Time", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7gZoL9Acu8eTo3ngmKbfm7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cf32504042b06ac17390ae2860174ac3dee98a4d", 
+        "is_playable": true, 
+        "uri": "spotify:track:7gZoL9Acu8eTo3ngmKbfm7", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/7gZoL9Acu8eTo3ngmKbfm7", 
+        "artists": [
+          {
+            "name": "Nitty Gritty Dirt Band", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+            }, 
+            "uri": "spotify:artist:7y70dch6JuuuNnwlsOQvwW", 
+            "href": "https://api.spotify.com/v1/artists/7y70dch6JuuuNnwlsOQvwW", 
+            "type": "artist", 
+            "id": "7y70dch6JuuuNnwlsOQvwW"
+          }, 
+          {
+            "name": "Ricky Skaggs", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks"
+            }, 
+            "uri": "spotify:artist:0uNC9XuH437fKCCMuzvSks", 
+            "href": "https://api.spotify.com/v1/artists/0uNC9XuH437fKCCMuzvSks", 
+            "type": "artist", 
+            "id": "0uNC9XuH437fKCCMuzvSks"
+          }
+        ], 
+        "duration_ms": 212466, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "7gZoL9Acu8eTo3ngmKbfm7"
+      }, 
+      {
+        "name": "Will The Circle Be Unbroken (Glory, Glory)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2dXLLtSIYyPvLNDBl8zWGN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ae2e165d93b995bebe010f918c49c46aa7bfa5c1", 
+        "is_playable": true, 
+        "uri": "spotify:track:2dXLLtSIYyPvLNDBl8zWGN", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/2dXLLtSIYyPvLNDBl8zWGN", 
+        "artists": [
+          {
+            "name": "Nitty Gritty Dirt Band", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+            }, 
+            "uri": "spotify:artist:7y70dch6JuuuNnwlsOQvwW", 
+            "href": "https://api.spotify.com/v1/artists/7y70dch6JuuuNnwlsOQvwW", 
+            "type": "artist", 
+            "id": "7y70dch6JuuuNnwlsOQvwW"
+          }, 
+          {
+            "name": "Doc Watson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ"
+            }, 
+            "uri": "spotify:artist:01N1aZStXA4yGvkz4vRXtJ", 
+            "href": "https://api.spotify.com/v1/artists/01N1aZStXA4yGvkz4vRXtJ", 
+            "type": "artist", 
+            "id": "01N1aZStXA4yGvkz4vRXtJ"
+          }, 
+          {
+            "name": "Taj Mahal", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+            }, 
+            "uri": "spotify:artist:1aTDTChWWyiJH3SEnYrdVp", 
+            "href": "https://api.spotify.com/v1/artists/1aTDTChWWyiJH3SEnYrdVp", 
+            "type": "artist", 
+            "id": "1aTDTChWWyiJH3SEnYrdVp"
+          }, 
+          {
+            "name": "Alison Krauss", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+            }, 
+            "uri": "spotify:artist:5J6L7N6B4nI1M5cwa29mQG", 
+            "href": "https://api.spotify.com/v1/artists/5J6L7N6B4nI1M5cwa29mQG", 
+            "type": "artist", 
+            "id": "5J6L7N6B4nI1M5cwa29mQG"
+          }
+        ], 
+        "duration_ms": 279706, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "2dXLLtSIYyPvLNDBl8zWGN"
+      }, 
+      {
+        "name": "Farther Along", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Cn7ZQxvWWGmZapWt2r8Ap"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0e57dcd4245ddcd400e0d4f8f877306038404cf1", 
+        "is_playable": true, 
+        "uri": "spotify:track:5Cn7ZQxvWWGmZapWt2r8Ap", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5Cn7ZQxvWWGmZapWt2r8Ap", 
+        "artists": [
+          {
+            "name": "Nitty Gritty Dirt Band", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+            }, 
+            "uri": "spotify:artist:7y70dch6JuuuNnwlsOQvwW", 
+            "href": "https://api.spotify.com/v1/artists/7y70dch6JuuuNnwlsOQvwW", 
+            "type": "artist", 
+            "id": "7y70dch6JuuuNnwlsOQvwW"
+          }, 
+          {
+            "name": "Randy Scruggs", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/72UHy1aUed3uIQmH90XjFN"
+            }, 
+            "uri": "spotify:artist:72UHy1aUed3uIQmH90XjFN", 
+            "href": "https://api.spotify.com/v1/artists/72UHy1aUed3uIQmH90XjFN", 
+            "type": "artist", 
+            "id": "72UHy1aUed3uIQmH90XjFN"
+          }
+        ], 
+        "duration_ms": 361106, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "5Cn7ZQxvWWGmZapWt2r8Ap"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/7e1BJQovPkAFsewqgPBHQC/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 28, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/7e1BJQovPkAFsewqgPBHQC", 
+  "copyrights": [
+    {
+      "text": "(c) 2002 Capitol Nashville", 
+      "type": "C"
+    }, 
+    {
+      "text": "(p) 2002 Capitol Nashville", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Nitty Gritty Dirt Band", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+      }, 
+      "uri": "spotify:artist:7y70dch6JuuuNnwlsOQvwW", 
+      "href": "https://api.spotify.com/v1/artists/7y70dch6JuuuNnwlsOQvwW", 
+      "type": "artist", 
+      "id": "7y70dch6JuuuNnwlsOQvwW"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ce19ce0c68ca6565da6299b660f2265749d1e568", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/793ec43fec391462a0870a9d8a032f4d2f9068d4", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/8fa9e1cb129dfdec5bcb7283ab0416ec97325936", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "05099920791551"
+  }, 
+  "type": "album", 
+  "id": "7e1BJQovPkAFsewqgPBHQC", 
+  "name": "Will The Circle Be Unbroken, Volume III"
+}

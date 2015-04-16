@@ -1,0 +1,235 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0WYYrC9My9rYWigac003hw"
+  }, 
+  "release_date": "1969-10-10", 
+  "popularity": 44, 
+  "genres": [], 
+  "uri": "spotify:album:0WYYrC9My9rYWigac003hw", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Peaches En Regalia", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5uDu2qOoDou7cFXsipAo8l"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/dbd83069947438a88f116cf56c1fbec77e8a825d", 
+        "is_playable": true, 
+        "uri": "spotify:track:5uDu2qOoDou7cFXsipAo8l", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5uDu2qOoDou7cFXsipAo8l", 
+        "artists": [
+          {
+            "name": "Frank Zappa", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
+            }, 
+            "uri": "spotify:artist:6ra4GIOgCZQZMOaUECftGN", 
+            "href": "https://api.spotify.com/v1/artists/6ra4GIOgCZQZMOaUECftGN", 
+            "type": "artist", 
+            "id": "6ra4GIOgCZQZMOaUECftGN"
+          }
+        ], 
+        "duration_ms": 218893, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "5uDu2qOoDou7cFXsipAo8l"
+      }, 
+      {
+        "name": "Willie The Pimp", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3toxxSU3TcvzgmeR8LLUiX"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/958b4dc649064527e15e3a4e014ef576746f9cbf", 
+        "is_playable": true, 
+        "uri": "spotify:track:3toxxSU3TcvzgmeR8LLUiX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3toxxSU3TcvzgmeR8LLUiX", 
+        "artists": [
+          {
+            "name": "Frank Zappa", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
+            }, 
+            "uri": "spotify:artist:6ra4GIOgCZQZMOaUECftGN", 
+            "href": "https://api.spotify.com/v1/artists/6ra4GIOgCZQZMOaUECftGN", 
+            "type": "artist", 
+            "id": "6ra4GIOgCZQZMOaUECftGN"
+          }
+        ], 
+        "duration_ms": 563400, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "3toxxSU3TcvzgmeR8LLUiX"
+      }, 
+      {
+        "name": "Son Of Mr. Green Genes", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0nDpUq6nY7eWsFPQcVizpI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0d5df2162dcec1b1dfd1ce27cb3c2b9604d7975e", 
+        "is_playable": true, 
+        "uri": "spotify:track:0nDpUq6nY7eWsFPQcVizpI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0nDpUq6nY7eWsFPQcVizpI", 
+        "artists": [
+          {
+            "name": "Frank Zappa", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
+            }, 
+            "uri": "spotify:artist:6ra4GIOgCZQZMOaUECftGN", 
+            "href": "https://api.spotify.com/v1/artists/6ra4GIOgCZQZMOaUECftGN", 
+            "type": "artist", 
+            "id": "6ra4GIOgCZQZMOaUECftGN"
+          }
+        ], 
+        "duration_ms": 537360, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "0nDpUq6nY7eWsFPQcVizpI"
+      }, 
+      {
+        "name": "Little Umbrellas", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5bGb7jiHKrJldOlnVfyplD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a9e3da293436082dae4c20953a9e096602594641", 
+        "is_playable": true, 
+        "uri": "spotify:track:5bGb7jiHKrJldOlnVfyplD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5bGb7jiHKrJldOlnVfyplD", 
+        "artists": [
+          {
+            "name": "Frank Zappa", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
+            }, 
+            "uri": "spotify:artist:6ra4GIOgCZQZMOaUECftGN", 
+            "href": "https://api.spotify.com/v1/artists/6ra4GIOgCZQZMOaUECftGN", 
+            "type": "artist", 
+            "id": "6ra4GIOgCZQZMOaUECftGN"
+          }
+        ], 
+        "duration_ms": 188693, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "5bGb7jiHKrJldOlnVfyplD"
+      }, 
+      {
+        "name": "The Gumbo Variations", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4qgBYQNjvnuwxp9a68LG0t"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/466d25de2f12e5665aeb91c2db2ca3dd4bd59797", 
+        "is_playable": true, 
+        "uri": "spotify:track:4qgBYQNjvnuwxp9a68LG0t", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4qgBYQNjvnuwxp9a68LG0t", 
+        "artists": [
+          {
+            "name": "Frank Zappa", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
+            }, 
+            "uri": "spotify:artist:6ra4GIOgCZQZMOaUECftGN", 
+            "href": "https://api.spotify.com/v1/artists/6ra4GIOgCZQZMOaUECftGN", 
+            "type": "artist", 
+            "id": "6ra4GIOgCZQZMOaUECftGN"
+          }
+        ], 
+        "duration_ms": 774186, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "4qgBYQNjvnuwxp9a68LG0t"
+      }, 
+      {
+        "name": "It Must Be A Camel", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2vcx6Dr7pxeBqJQ5eIVqhk"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9cc6b395582903e6deff69bd48be57d662921a58", 
+        "is_playable": true, 
+        "uri": "spotify:track:2vcx6Dr7pxeBqJQ5eIVqhk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2vcx6Dr7pxeBqJQ5eIVqhk", 
+        "artists": [
+          {
+            "name": "Frank Zappa", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
+            }, 
+            "uri": "spotify:artist:6ra4GIOgCZQZMOaUECftGN", 
+            "href": "https://api.spotify.com/v1/artists/6ra4GIOgCZQZMOaUECftGN", 
+            "type": "artist", 
+            "id": "6ra4GIOgCZQZMOaUECftGN"
+          }
+        ], 
+        "duration_ms": 317226, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "2vcx6Dr7pxeBqJQ5eIVqhk"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/0WYYrC9My9rYWigac003hw/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 6, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/0WYYrC9My9rYWigac003hw", 
+  "copyrights": [
+    {
+      "text": "(C) 2012 Zappa Family Trust, Under exclusive license to Universal Music Enterprises, a Division of UMG Recordings, Inc.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 2012 Zappa Family Trust, Under exclusive license to Universal Music Enterprises, a Division of UMG Recordings, Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Frank Zappa", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
+      }, 
+      "uri": "spotify:artist:6ra4GIOgCZQZMOaUECftGN", 
+      "href": "https://api.spotify.com/v1/artists/6ra4GIOgCZQZMOaUECftGN", 
+      "type": "artist", 
+      "id": "6ra4GIOgCZQZMOaUECftGN"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/7b7b8f87e371a48bfa9b96d09ebbc6753b9e7297", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/de00035155324c6706fcb8af1ca14d418d0c1a06", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/571d985c0647f6c85c50b5b4cb68ed81f2440ce0", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00824302778227"
+  }, 
+  "type": "album", 
+  "id": "0WYYrC9My9rYWigac003hw", 
+  "name": "Hot Rats"
+}

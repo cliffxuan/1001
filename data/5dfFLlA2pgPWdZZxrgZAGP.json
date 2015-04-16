@@ -1,0 +1,655 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5dfFLlA2pgPWdZZxrgZAGP"
+  }, 
+  "release_date": "1977", 
+  "popularity": 49, 
+  "genres": [], 
+  "uri": "spotify:album:5dfFLlA2pgPWdZZxrgZAGP", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Reuters - 2006 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2anJA5fEQdfvxrrWiL10Vj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/68038de46fb4f7cb29e787c993e9af660b97baec", 
+        "is_playable": true, 
+        "uri": "spotify:track:2anJA5fEQdfvxrrWiL10Vj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2anJA5fEQdfvxrrWiL10Vj", 
+        "artists": [
+          {
+            "name": "Wire", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
+            }, 
+            "uri": "spotify:artist:2i8ynmFv4qgRksyDlBgi6d", 
+            "href": "https://api.spotify.com/v1/artists/2i8ynmFv4qgRksyDlBgi6d", 
+            "type": "artist", 
+            "id": "2i8ynmFv4qgRksyDlBgi6d"
+          }
+        ], 
+        "duration_ms": 183960, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "2anJA5fEQdfvxrrWiL10Vj"
+      }, 
+      {
+        "name": "Field Day For The Sundays - 2006 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4GJgH67TjjXFYGwlzYISa3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ee14ff5c2069f5c99fc5ad45398416e77b5f20b1", 
+        "is_playable": true, 
+        "uri": "spotify:track:4GJgH67TjjXFYGwlzYISa3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4GJgH67TjjXFYGwlzYISa3", 
+        "artists": [
+          {
+            "name": "Wire", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
+            }, 
+            "uri": "spotify:artist:2i8ynmFv4qgRksyDlBgi6d", 
+            "href": "https://api.spotify.com/v1/artists/2i8ynmFv4qgRksyDlBgi6d", 
+            "type": "artist", 
+            "id": "2i8ynmFv4qgRksyDlBgi6d"
+          }
+        ], 
+        "duration_ms": 28320, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "4GJgH67TjjXFYGwlzYISa3"
+      }, 
+      {
+        "name": "Three Girl Rhumba - 2006 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0lgxi5QqFjYnvUf5QjC3nI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9a720b17e5249e4ace289351d2c0c9e14f623084", 
+        "is_playable": true, 
+        "uri": "spotify:track:0lgxi5QqFjYnvUf5QjC3nI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0lgxi5QqFjYnvUf5QjC3nI", 
+        "artists": [
+          {
+            "name": "Wire", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
+            }, 
+            "uri": "spotify:artist:2i8ynmFv4qgRksyDlBgi6d", 
+            "href": "https://api.spotify.com/v1/artists/2i8ynmFv4qgRksyDlBgi6d", 
+            "type": "artist", 
+            "id": "2i8ynmFv4qgRksyDlBgi6d"
+          }
+        ], 
+        "duration_ms": 83733, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "0lgxi5QqFjYnvUf5QjC3nI"
+      }, 
+      {
+        "name": "Ex Lion Tamer - 2006 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3XBD2pEimgCRsVwMazPeCa"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2a40497380cb744591bade71fda73d08d6e8376e", 
+        "is_playable": true, 
+        "uri": "spotify:track:3XBD2pEimgCRsVwMazPeCa", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3XBD2pEimgCRsVwMazPeCa", 
+        "artists": [
+          {
+            "name": "Wire", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
+            }, 
+            "uri": "spotify:artist:2i8ynmFv4qgRksyDlBgi6d", 
+            "href": "https://api.spotify.com/v1/artists/2i8ynmFv4qgRksyDlBgi6d", 
+            "type": "artist", 
+            "id": "2i8ynmFv4qgRksyDlBgi6d"
+          }
+        ], 
+        "duration_ms": 139693, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "3XBD2pEimgCRsVwMazPeCa"
+      }, 
+      {
+        "name": "Lowdown - 2006 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3FaoaPNB0f5iN048gZYAc4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ffe653e73122e26ab45da26c906fb321d5df63e7", 
+        "is_playable": true, 
+        "uri": "spotify:track:3FaoaPNB0f5iN048gZYAc4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3FaoaPNB0f5iN048gZYAc4", 
+        "artists": [
+          {
+            "name": "Wire", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
+            }, 
+            "uri": "spotify:artist:2i8ynmFv4qgRksyDlBgi6d", 
+            "href": "https://api.spotify.com/v1/artists/2i8ynmFv4qgRksyDlBgi6d", 
+            "type": "artist", 
+            "id": "2i8ynmFv4qgRksyDlBgi6d"
+          }
+        ], 
+        "duration_ms": 146840, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "3FaoaPNB0f5iN048gZYAc4"
+      }, 
+      {
+        "name": "Start To Move - 2006 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0lTT47wt2WPP6viweFldoV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7dfe656f417794e3f478882a4b36106ec43f296f", 
+        "is_playable": true, 
+        "uri": "spotify:track:0lTT47wt2WPP6viweFldoV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0lTT47wt2WPP6viweFldoV", 
+        "artists": [
+          {
+            "name": "Wire", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
+            }, 
+            "uri": "spotify:artist:2i8ynmFv4qgRksyDlBgi6d", 
+            "href": "https://api.spotify.com/v1/artists/2i8ynmFv4qgRksyDlBgi6d", 
+            "type": "artist", 
+            "id": "2i8ynmFv4qgRksyDlBgi6d"
+          }
+        ], 
+        "duration_ms": 73280, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "0lTT47wt2WPP6viweFldoV"
+      }, 
+      {
+        "name": "Brazil - 2006 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/68UgZpIMcWlznVZVlPBLI2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/93d7ade039ebf3ae244b0c26d96a4fdef7bd6367", 
+        "is_playable": true, 
+        "uri": "spotify:track:68UgZpIMcWlznVZVlPBLI2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/68UgZpIMcWlznVZVlPBLI2", 
+        "artists": [
+          {
+            "name": "Wire", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
+            }, 
+            "uri": "spotify:artist:2i8ynmFv4qgRksyDlBgi6d", 
+            "href": "https://api.spotify.com/v1/artists/2i8ynmFv4qgRksyDlBgi6d", 
+            "type": "artist", 
+            "id": "2i8ynmFv4qgRksyDlBgi6d"
+          }
+        ], 
+        "duration_ms": 41200, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "68UgZpIMcWlznVZVlPBLI2"
+      }, 
+      {
+        "name": "It's So Obvious - 2006 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1MVM8x3DxvyKCvGwt8wQuO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f046dc7aa21514abd1e156bd24d388e686f163f0", 
+        "is_playable": true, 
+        "uri": "spotify:track:1MVM8x3DxvyKCvGwt8wQuO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1MVM8x3DxvyKCvGwt8wQuO", 
+        "artists": [
+          {
+            "name": "Wire", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
+            }, 
+            "uri": "spotify:artist:2i8ynmFv4qgRksyDlBgi6d", 
+            "href": "https://api.spotify.com/v1/artists/2i8ynmFv4qgRksyDlBgi6d", 
+            "type": "artist", 
+            "id": "2i8ynmFv4qgRksyDlBgi6d"
+          }
+        ], 
+        "duration_ms": 53893, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "1MVM8x3DxvyKCvGwt8wQuO"
+      }, 
+      {
+        "name": "Surgeon's Girl - 2006 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6U7fdRFwBMmwsfsfXi1tlb"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ab14c6fd559cdc018cf1d2b1876f1da0082cfb7f", 
+        "is_playable": true, 
+        "uri": "spotify:track:6U7fdRFwBMmwsfsfXi1tlb", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6U7fdRFwBMmwsfsfXi1tlb", 
+        "artists": [
+          {
+            "name": "Wire", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
+            }, 
+            "uri": "spotify:artist:2i8ynmFv4qgRksyDlBgi6d", 
+            "href": "https://api.spotify.com/v1/artists/2i8ynmFv4qgRksyDlBgi6d", 
+            "type": "artist", 
+            "id": "2i8ynmFv4qgRksyDlBgi6d"
+          }
+        ], 
+        "duration_ms": 77626, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "6U7fdRFwBMmwsfsfXi1tlb"
+      }, 
+      {
+        "name": "Pink Flag - 2006 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4PherUwOJbc4pzqT90RTvI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/54b866d37990a619a6d6f9215a53e078c6e47c89", 
+        "is_playable": true, 
+        "uri": "spotify:track:4PherUwOJbc4pzqT90RTvI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4PherUwOJbc4pzqT90RTvI", 
+        "artists": [
+          {
+            "name": "Wire", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
+            }, 
+            "uri": "spotify:artist:2i8ynmFv4qgRksyDlBgi6d", 
+            "href": "https://api.spotify.com/v1/artists/2i8ynmFv4qgRksyDlBgi6d", 
+            "type": "artist", 
+            "id": "2i8ynmFv4qgRksyDlBgi6d"
+          }
+        ], 
+        "duration_ms": 225813, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "4PherUwOJbc4pzqT90RTvI"
+      }, 
+      {
+        "name": "The Commercial - 2006 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6jLoCebRUOiWXjbTk8X0ey"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/31f1ca5d5825495847af99b37a52ac724ed4e6bf", 
+        "is_playable": true, 
+        "uri": "spotify:track:6jLoCebRUOiWXjbTk8X0ey", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6jLoCebRUOiWXjbTk8X0ey", 
+        "artists": [
+          {
+            "name": "Wire", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
+            }, 
+            "uri": "spotify:artist:2i8ynmFv4qgRksyDlBgi6d", 
+            "href": "https://api.spotify.com/v1/artists/2i8ynmFv4qgRksyDlBgi6d", 
+            "type": "artist", 
+            "id": "2i8ynmFv4qgRksyDlBgi6d"
+          }
+        ], 
+        "duration_ms": 49320, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "6jLoCebRUOiWXjbTk8X0ey"
+      }, 
+      {
+        "name": "Straight Line - 2006 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1fljAiFSoEOfKSK1w4ioTq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/35b2729852f3eec464e08c8963bd693b80f6dbbd", 
+        "is_playable": true, 
+        "uri": "spotify:track:1fljAiFSoEOfKSK1w4ioTq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1fljAiFSoEOfKSK1w4ioTq", 
+        "artists": [
+          {
+            "name": "Wire", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
+            }, 
+            "uri": "spotify:artist:2i8ynmFv4qgRksyDlBgi6d", 
+            "href": "https://api.spotify.com/v1/artists/2i8ynmFv4qgRksyDlBgi6d", 
+            "type": "artist", 
+            "id": "2i8ynmFv4qgRksyDlBgi6d"
+          }
+        ], 
+        "duration_ms": 44613, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "1fljAiFSoEOfKSK1w4ioTq"
+      }, 
+      {
+        "name": "106 Beats That - 2006 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2rs3zQt0Kkwa636NEvJVE8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4b24a583c4c4f9310dddb21a654d3c2f437df517", 
+        "is_playable": true, 
+        "uri": "spotify:track:2rs3zQt0Kkwa636NEvJVE8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2rs3zQt0Kkwa636NEvJVE8", 
+        "artists": [
+          {
+            "name": "Wire", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
+            }, 
+            "uri": "spotify:artist:2i8ynmFv4qgRksyDlBgi6d", 
+            "href": "https://api.spotify.com/v1/artists/2i8ynmFv4qgRksyDlBgi6d", 
+            "type": "artist", 
+            "id": "2i8ynmFv4qgRksyDlBgi6d"
+          }
+        ], 
+        "duration_ms": 72840, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "2rs3zQt0Kkwa636NEvJVE8"
+      }, 
+      {
+        "name": "Mr Suit - 2006 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3rF0N78XQff6uM8dVZDhjC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6f0a40398cc971e07f26275dc232a828c68b74ca", 
+        "is_playable": true, 
+        "uri": "spotify:track:3rF0N78XQff6uM8dVZDhjC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3rF0N78XQff6uM8dVZDhjC", 
+        "artists": [
+          {
+            "name": "Wire", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
+            }, 
+            "uri": "spotify:artist:2i8ynmFv4qgRksyDlBgi6d", 
+            "href": "https://api.spotify.com/v1/artists/2i8ynmFv4qgRksyDlBgi6d", 
+            "type": "artist", 
+            "id": "2i8ynmFv4qgRksyDlBgi6d"
+          }
+        ], 
+        "duration_ms": 85333, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "3rF0N78XQff6uM8dVZDhjC"
+      }, 
+      {
+        "name": "Strange - 2006 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/79lrCVUuhCqvMUQTML1cTo"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ef101670f6b998770bb7f68512152e9ac9288e2f", 
+        "is_playable": true, 
+        "uri": "spotify:track:79lrCVUuhCqvMUQTML1cTo", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/79lrCVUuhCqvMUQTML1cTo", 
+        "artists": [
+          {
+            "name": "Wire", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
+            }, 
+            "uri": "spotify:artist:2i8ynmFv4qgRksyDlBgi6d", 
+            "href": "https://api.spotify.com/v1/artists/2i8ynmFv4qgRksyDlBgi6d", 
+            "type": "artist", 
+            "id": "2i8ynmFv4qgRksyDlBgi6d"
+          }
+        ], 
+        "duration_ms": 239346, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "79lrCVUuhCqvMUQTML1cTo"
+      }, 
+      {
+        "name": "Fragile - 2006 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3YjkEvSREr7HhVAYLvWbaw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0de7af056ecb90212dafdfcc3997cc395c91c416", 
+        "is_playable": true, 
+        "uri": "spotify:track:3YjkEvSREr7HhVAYLvWbaw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3YjkEvSREr7HhVAYLvWbaw", 
+        "artists": [
+          {
+            "name": "Wire", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
+            }, 
+            "uri": "spotify:artist:2i8ynmFv4qgRksyDlBgi6d", 
+            "href": "https://api.spotify.com/v1/artists/2i8ynmFv4qgRksyDlBgi6d", 
+            "type": "artist", 
+            "id": "2i8ynmFv4qgRksyDlBgi6d"
+          }
+        ], 
+        "duration_ms": 78346, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "3YjkEvSREr7HhVAYLvWbaw"
+      }, 
+      {
+        "name": "Mannequin - 2006 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3iTGXWfuazyOJBbjHXary5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/10f419c7aef342cf31bd573f90ecba555aceb74f", 
+        "is_playable": true, 
+        "uri": "spotify:track:3iTGXWfuazyOJBbjHXary5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3iTGXWfuazyOJBbjHXary5", 
+        "artists": [
+          {
+            "name": "Wire", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
+            }, 
+            "uri": "spotify:artist:2i8ynmFv4qgRksyDlBgi6d", 
+            "href": "https://api.spotify.com/v1/artists/2i8ynmFv4qgRksyDlBgi6d", 
+            "type": "artist", 
+            "id": "2i8ynmFv4qgRksyDlBgi6d"
+          }
+        ], 
+        "duration_ms": 157360, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "3iTGXWfuazyOJBbjHXary5"
+      }, 
+      {
+        "name": "Different To Me - 2006 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/15SBfK9hwjNTYcoyDkW3te"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/37ebc6b82e8a635f178ac37e04da39910c5b6813", 
+        "is_playable": true, 
+        "uri": "spotify:track:15SBfK9hwjNTYcoyDkW3te", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/15SBfK9hwjNTYcoyDkW3te", 
+        "artists": [
+          {
+            "name": "Wire", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
+            }, 
+            "uri": "spotify:artist:2i8ynmFv4qgRksyDlBgi6d", 
+            "href": "https://api.spotify.com/v1/artists/2i8ynmFv4qgRksyDlBgi6d", 
+            "type": "artist", 
+            "id": "2i8ynmFv4qgRksyDlBgi6d"
+          }
+        ], 
+        "duration_ms": 43826, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "15SBfK9hwjNTYcoyDkW3te"
+      }, 
+      {
+        "name": "Champs - 2006 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2dr9Wag7VJjZVHyWpcc0sd"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/63d630ff6c4df6cfe5b2b79a8a331f553ef4aa9c", 
+        "is_playable": true, 
+        "uri": "spotify:track:2dr9Wag7VJjZVHyWpcc0sd", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2dr9Wag7VJjZVHyWpcc0sd", 
+        "artists": [
+          {
+            "name": "Wire", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
+            }, 
+            "uri": "spotify:artist:2i8ynmFv4qgRksyDlBgi6d", 
+            "href": "https://api.spotify.com/v1/artists/2i8ynmFv4qgRksyDlBgi6d", 
+            "type": "artist", 
+            "id": "2i8ynmFv4qgRksyDlBgi6d"
+          }
+        ], 
+        "duration_ms": 106133, 
+        "track_number": 19, 
+        "type": "track", 
+        "id": "2dr9Wag7VJjZVHyWpcc0sd"
+      }, 
+      {
+        "name": "Feeling Called Love - 2006 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6iPOxPQm1HDbUNEUTMatwz"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fd4536dd5d6f47c3c629ec0e0ea5f53764097e78", 
+        "is_playable": true, 
+        "uri": "spotify:track:6iPOxPQm1HDbUNEUTMatwz", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6iPOxPQm1HDbUNEUTMatwz", 
+        "artists": [
+          {
+            "name": "Wire", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
+            }, 
+            "uri": "spotify:artist:2i8ynmFv4qgRksyDlBgi6d", 
+            "href": "https://api.spotify.com/v1/artists/2i8ynmFv4qgRksyDlBgi6d", 
+            "type": "artist", 
+            "id": "2i8ynmFv4qgRksyDlBgi6d"
+          }
+        ], 
+        "duration_ms": 88040, 
+        "track_number": 20, 
+        "type": "track", 
+        "id": "6iPOxPQm1HDbUNEUTMatwz"
+      }, 
+      {
+        "name": "1 2 X U - 2006 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1uiX4w22seQ94JHQK1qShy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/17eeafc76118e850ca67abebcc75e27b3d3e37ec", 
+        "is_playable": true, 
+        "uri": "spotify:track:1uiX4w22seQ94JHQK1qShy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1uiX4w22seQ94JHQK1qShy", 
+        "artists": [
+          {
+            "name": "Wire", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
+            }, 
+            "uri": "spotify:artist:2i8ynmFv4qgRksyDlBgi6d", 
+            "href": "https://api.spotify.com/v1/artists/2i8ynmFv4qgRksyDlBgi6d", 
+            "type": "artist", 
+            "id": "2i8ynmFv4qgRksyDlBgi6d"
+          }
+        ], 
+        "duration_ms": 117480, 
+        "track_number": 21, 
+        "type": "track", 
+        "id": "1uiX4w22seQ94JHQK1qShy"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/5dfFLlA2pgPWdZZxrgZAGP/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 21, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/5dfFLlA2pgPWdZZxrgZAGP", 
+  "copyrights": [
+    {
+      "text": "2006 Parlophone Records Ltd, a Warner Music Group Company", 
+      "type": "C"
+    }, 
+    {
+      "text": "2006 Parlophone Records Ltd, a Warner Music Group Company", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Wire", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
+      }, 
+      "uri": "spotify:artist:2i8ynmFv4qgRksyDlBgi6d", 
+      "href": "https://api.spotify.com/v1/artists/2i8ynmFv4qgRksyDlBgi6d", 
+      "type": "artist", 
+      "id": "2i8ynmFv4qgRksyDlBgi6d"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/588dbbaf8cad128d9dd95a36346a24dfdf8798b6", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/3f054b00e63ca9093636beebfba25f34a6885f40", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/892561b66d8249a92031314a5ac39ae766859526", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "5099945582950"
+  }, 
+  "type": "album", 
+  "id": "5dfFLlA2pgPWdZZxrgZAGP", 
+  "name": "Pink Flag"
+}

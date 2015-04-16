@@ -1,0 +1,343 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+  }, 
+  "release_date": "2007-10-02", 
+  "popularity": 80, 
+  "genres": [], 
+  "uri": "spotify:album:6mm1Skz3JE6AXneya9Nyiv", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Time to Pretend", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/dea35470d39c06e43eb35b3ea1771d339ec606f6", 
+        "is_playable": true, 
+        "uri": "spotify:track:4iG2gAwKXsOcijVaVXzRPW", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4iG2gAwKXsOcijVaVXzRPW", 
+        "artists": [
+          {
+            "name": "MGMT", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+            }, 
+            "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE", 
+            "href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE", 
+            "type": "artist", 
+            "id": "0SwO7SWeDHJijQ3XNS7xEE"
+          }
+        ], 
+        "duration_ms": 261000, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "4iG2gAwKXsOcijVaVXzRPW"
+      }, 
+      {
+        "name": "Weekend Wars", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/19K3lUMJmOdeuOBTrbLm19"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a73a46a6554b53cf92c1e7645505f002de290064", 
+        "is_playable": true, 
+        "uri": "spotify:track:19K3lUMJmOdeuOBTrbLm19", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/19K3lUMJmOdeuOBTrbLm19", 
+        "artists": [
+          {
+            "name": "MGMT", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+            }, 
+            "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE", 
+            "href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE", 
+            "type": "artist", 
+            "id": "0SwO7SWeDHJijQ3XNS7xEE"
+          }
+        ], 
+        "duration_ms": 250773, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "19K3lUMJmOdeuOBTrbLm19"
+      }, 
+      {
+        "name": "The Youth", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5nv854ey1k43KaZ0kHmE4Z"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/290052b24509519635fa66a0dd34b89962bd320c", 
+        "is_playable": true, 
+        "uri": "spotify:track:5nv854ey1k43KaZ0kHmE4Z", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5nv854ey1k43KaZ0kHmE4Z", 
+        "artists": [
+          {
+            "name": "MGMT", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+            }, 
+            "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE", 
+            "href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE", 
+            "type": "artist", 
+            "id": "0SwO7SWeDHJijQ3XNS7xEE"
+          }
+        ], 
+        "duration_ms": 228013, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "5nv854ey1k43KaZ0kHmE4Z"
+      }, 
+      {
+        "name": "Electric Feel", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e24af90c88cec3b722d1d56741c6025cce544388", 
+        "is_playable": true, 
+        "uri": "spotify:track:3FtYbEfBqAlGO46NUDQSAt", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3FtYbEfBqAlGO46NUDQSAt", 
+        "artists": [
+          {
+            "name": "MGMT", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+            }, 
+            "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE", 
+            "href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE", 
+            "type": "artist", 
+            "id": "0SwO7SWeDHJijQ3XNS7xEE"
+          }
+        ], 
+        "duration_ms": 229640, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "3FtYbEfBqAlGO46NUDQSAt"
+      }, 
+      {
+        "name": "Kids", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/264b4e31b71b6536d054465d14730b3920523436", 
+        "is_playable": true, 
+        "uri": "spotify:track:1jJci4qxiYcOHhQR247rEU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1jJci4qxiYcOHhQR247rEU", 
+        "artists": [
+          {
+            "name": "MGMT", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+            }, 
+            "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE", 
+            "href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE", 
+            "type": "artist", 
+            "id": "0SwO7SWeDHJijQ3XNS7xEE"
+          }
+        ], 
+        "duration_ms": 302840, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "1jJci4qxiYcOHhQR247rEU"
+      }, 
+      {
+        "name": "4th Dimensional Transition", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5qdCsd05UUdtAsAtET9gxV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/52a9c4aa1e9b42f13e5c9cb585cfc90bed51784e", 
+        "is_playable": true, 
+        "uri": "spotify:track:5qdCsd05UUdtAsAtET9gxV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5qdCsd05UUdtAsAtET9gxV", 
+        "artists": [
+          {
+            "name": "MGMT", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+            }, 
+            "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE", 
+            "href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE", 
+            "type": "artist", 
+            "id": "0SwO7SWeDHJijQ3XNS7xEE"
+          }
+        ], 
+        "duration_ms": 238013, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "5qdCsd05UUdtAsAtET9gxV"
+      }, 
+      {
+        "name": "Pieces of What", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6wxDu7ISgm5nppPMea4W7D"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/745930bf9bebde2b409e610a3cdacf76a9a133c8", 
+        "is_playable": true, 
+        "uri": "spotify:track:6wxDu7ISgm5nppPMea4W7D", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6wxDu7ISgm5nppPMea4W7D", 
+        "artists": [
+          {
+            "name": "MGMT", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+            }, 
+            "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE", 
+            "href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE", 
+            "type": "artist", 
+            "id": "0SwO7SWeDHJijQ3XNS7xEE"
+          }
+        ], 
+        "duration_ms": 163773, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "6wxDu7ISgm5nppPMea4W7D"
+      }, 
+      {
+        "name": "Of Moons, Birds & Monsters", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0w8dULoVhTuC8x8m8PKwX7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fd0095cf9a0cd613efa1c97156e0a367342ec36e", 
+        "is_playable": true, 
+        "uri": "spotify:track:0w8dULoVhTuC8x8m8PKwX7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0w8dULoVhTuC8x8m8PKwX7", 
+        "artists": [
+          {
+            "name": "MGMT", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+            }, 
+            "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE", 
+            "href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE", 
+            "type": "artist", 
+            "id": "0SwO7SWeDHJijQ3XNS7xEE"
+          }
+        ], 
+        "duration_ms": 286720, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "0w8dULoVhTuC8x8m8PKwX7"
+      }, 
+      {
+        "name": "The Handshake", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7d4coyGabEbHZ5tRpTbQT5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/aaa0da5a573e039da9fbc1bf86d6f3e42aef8eeb", 
+        "is_playable": true, 
+        "uri": "spotify:track:7d4coyGabEbHZ5tRpTbQT5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7d4coyGabEbHZ5tRpTbQT5", 
+        "artists": [
+          {
+            "name": "MGMT", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+            }, 
+            "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE", 
+            "href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE", 
+            "type": "artist", 
+            "id": "0SwO7SWeDHJijQ3XNS7xEE"
+          }
+        ], 
+        "duration_ms": 219626, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "7d4coyGabEbHZ5tRpTbQT5"
+      }, 
+      {
+        "name": "Future Reflections", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0USruADoPffR0n8VHcRJ3r"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4d21c826d8b60c86e2c4993e3a7e75ecc3448c84", 
+        "is_playable": true, 
+        "uri": "spotify:track:0USruADoPffR0n8VHcRJ3r", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0USruADoPffR0n8VHcRJ3r", 
+        "artists": [
+          {
+            "name": "MGMT", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+            }, 
+            "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE", 
+            "href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE", 
+            "type": "artist", 
+            "id": "0SwO7SWeDHJijQ3XNS7xEE"
+          }
+        ], 
+        "duration_ms": 240253, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "0USruADoPffR0n8VHcRJ3r"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/6mm1Skz3JE6AXneya9Nyiv/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 10, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/6mm1Skz3JE6AXneya9Nyiv", 
+  "copyrights": [
+    {
+      "text": "(P) 2007 SONY BMG MUSIC ENTERTAINMENT", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "MGMT", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+      }, 
+      "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE", 
+      "href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE", 
+      "type": "artist", 
+      "id": "0SwO7SWeDHJijQ3XNS7xEE"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/3ed83e1c965af86610a3c951beaf8fbdcd8c72b9", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/60c81344995dcca6528e42adbd8b763a4e5c93da", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/1f51e30649870565b4b2f7b628cc1272d0611538", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "888880287779"
+  }, 
+  "type": "album", 
+  "id": "6mm1Skz3JE6AXneya9Nyiv", 
+  "name": "Oracular Spectacular"
+}

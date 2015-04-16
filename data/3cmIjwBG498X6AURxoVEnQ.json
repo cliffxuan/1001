@@ -1,0 +1,487 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3cmIjwBG498X6AURxoVEnQ"
+  }, 
+  "release_date": "1990", 
+  "popularity": 38, 
+  "genres": [], 
+  "uri": "spotify:album:3cmIjwBG498X6AURxoVEnQ", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Seagull", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Soy2VsSCQzUIJvwQIWHrF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d742fc800f536af08522a1ada2c0eb67cdaa46e8", 
+        "is_playable": true, 
+        "uri": "spotify:track:1Soy2VsSCQzUIJvwQIWHrF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1Soy2VsSCQzUIJvwQIWHrF", 
+        "artists": [
+          {
+            "name": "Ride", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX"
+            }, 
+            "uri": "spotify:artist:0WPY9nnBy01s5QOt4o4oQX", 
+            "href": "https://api.spotify.com/v1/artists/0WPY9nnBy01s5QOt4o4oQX", 
+            "type": "artist", 
+            "id": "0WPY9nnBy01s5QOt4o4oQX"
+          }
+        ], 
+        "duration_ms": 368760, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "1Soy2VsSCQzUIJvwQIWHrF"
+      }, 
+      {
+        "name": "Kaleidoscope", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3LntlKQGqAtVN1wCoyQ3FJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/814674fb7ace964acab4cb833dbd64fbb871f61d", 
+        "is_playable": true, 
+        "uri": "spotify:track:3LntlKQGqAtVN1wCoyQ3FJ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3LntlKQGqAtVN1wCoyQ3FJ", 
+        "artists": [
+          {
+            "name": "Ride", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX"
+            }, 
+            "uri": "spotify:artist:0WPY9nnBy01s5QOt4o4oQX", 
+            "href": "https://api.spotify.com/v1/artists/0WPY9nnBy01s5QOt4o4oQX", 
+            "type": "artist", 
+            "id": "0WPY9nnBy01s5QOt4o4oQX"
+          }
+        ], 
+        "duration_ms": 181106, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "3LntlKQGqAtVN1wCoyQ3FJ"
+      }, 
+      {
+        "name": "In a Different Place", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Q8RWgD6vmNUEkIDrOVotL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f9c2ef2a9d14a22e342d8b58f32954773d5c061c", 
+        "is_playable": true, 
+        "uri": "spotify:track:6Q8RWgD6vmNUEkIDrOVotL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6Q8RWgD6vmNUEkIDrOVotL", 
+        "artists": [
+          {
+            "name": "Ride", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX"
+            }, 
+            "uri": "spotify:artist:0WPY9nnBy01s5QOt4o4oQX", 
+            "href": "https://api.spotify.com/v1/artists/0WPY9nnBy01s5QOt4o4oQX", 
+            "type": "artist", 
+            "id": "0WPY9nnBy01s5QOt4o4oQX"
+          }
+        ], 
+        "duration_ms": 328626, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "6Q8RWgD6vmNUEkIDrOVotL"
+      }, 
+      {
+        "name": "Polar Bear", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Kd8nWnpiKnHT98L4HMwob"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/105dfea6ca8ecc2fcfeb0bb97c5250232c62dbb3", 
+        "is_playable": true, 
+        "uri": "spotify:track:0Kd8nWnpiKnHT98L4HMwob", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0Kd8nWnpiKnHT98L4HMwob", 
+        "artists": [
+          {
+            "name": "Ride", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX"
+            }, 
+            "uri": "spotify:artist:0WPY9nnBy01s5QOt4o4oQX", 
+            "href": "https://api.spotify.com/v1/artists/0WPY9nnBy01s5QOt4o4oQX", 
+            "type": "artist", 
+            "id": "0WPY9nnBy01s5QOt4o4oQX"
+          }
+        ], 
+        "duration_ms": 285106, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "0Kd8nWnpiKnHT98L4HMwob"
+      }, 
+      {
+        "name": "Dreams Burn Down", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7hzHKAOAa02SbntkxNsXws"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4773de1e097cfc72252802aa753e458fb3aa4de6", 
+        "is_playable": true, 
+        "uri": "spotify:track:7hzHKAOAa02SbntkxNsXws", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7hzHKAOAa02SbntkxNsXws", 
+        "artists": [
+          {
+            "name": "Ride", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX"
+            }, 
+            "uri": "spotify:artist:0WPY9nnBy01s5QOt4o4oQX", 
+            "href": "https://api.spotify.com/v1/artists/0WPY9nnBy01s5QOt4o4oQX", 
+            "type": "artist", 
+            "id": "0WPY9nnBy01s5QOt4o4oQX"
+          }
+        ], 
+        "duration_ms": 364066, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "7hzHKAOAa02SbntkxNsXws"
+      }, 
+      {
+        "name": "Decay", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0QMKRcRDKmOFXq5Xaa0XPq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f94c1212c8dddab452417507e1b69fdc6e9bdd15", 
+        "is_playable": true, 
+        "uri": "spotify:track:0QMKRcRDKmOFXq5Xaa0XPq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0QMKRcRDKmOFXq5Xaa0XPq", 
+        "artists": [
+          {
+            "name": "Ride", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX"
+            }, 
+            "uri": "spotify:artist:0WPY9nnBy01s5QOt4o4oQX", 
+            "href": "https://api.spotify.com/v1/artists/0WPY9nnBy01s5QOt4o4oQX", 
+            "type": "artist", 
+            "id": "0WPY9nnBy01s5QOt4o4oQX"
+          }
+        ], 
+        "duration_ms": 215266, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "0QMKRcRDKmOFXq5Xaa0XPq"
+      }, 
+      {
+        "name": "Paralysed", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6HAPB0740ERVBL6mK7IJGQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/25ef912a9b15b6e6d24fe5ad2782e2f106b2ff32", 
+        "is_playable": true, 
+        "uri": "spotify:track:6HAPB0740ERVBL6mK7IJGQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6HAPB0740ERVBL6mK7IJGQ", 
+        "artists": [
+          {
+            "name": "Ride", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX"
+            }, 
+            "uri": "spotify:artist:0WPY9nnBy01s5QOt4o4oQX", 
+            "href": "https://api.spotify.com/v1/artists/0WPY9nnBy01s5QOt4o4oQX", 
+            "type": "artist", 
+            "id": "0WPY9nnBy01s5QOt4o4oQX"
+          }
+        ], 
+        "duration_ms": 333626, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "6HAPB0740ERVBL6mK7IJGQ"
+      }, 
+      {
+        "name": "Vapour Trail", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0xxqMkpdQzhxTS4OMjx6gx"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c8d2ab7831ae58659e741887e3ecb838e7ca1cb6", 
+        "is_playable": true, 
+        "uri": "spotify:track:0xxqMkpdQzhxTS4OMjx6gx", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0xxqMkpdQzhxTS4OMjx6gx", 
+        "artists": [
+          {
+            "name": "Ride", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX"
+            }, 
+            "uri": "spotify:artist:0WPY9nnBy01s5QOt4o4oQX", 
+            "href": "https://api.spotify.com/v1/artists/0WPY9nnBy01s5QOt4o4oQX", 
+            "type": "artist", 
+            "id": "0WPY9nnBy01s5QOt4o4oQX"
+          }
+        ], 
+        "duration_ms": 258173, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "0xxqMkpdQzhxTS4OMjx6gx"
+      }, 
+      {
+        "name": "Taste", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4fiHywYzskFZyV3S8UmfCx"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/551ab320eb8fb5e4201be10f487ceac0d86a6d8d", 
+        "is_playable": true, 
+        "uri": "spotify:track:4fiHywYzskFZyV3S8UmfCx", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4fiHywYzskFZyV3S8UmfCx", 
+        "artists": [
+          {
+            "name": "Ride", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX"
+            }, 
+            "uri": "spotify:artist:0WPY9nnBy01s5QOt4o4oQX", 
+            "href": "https://api.spotify.com/v1/artists/0WPY9nnBy01s5QOt4o4oQX", 
+            "type": "artist", 
+            "id": "0WPY9nnBy01s5QOt4o4oQX"
+          }
+        ], 
+        "duration_ms": 196960, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "4fiHywYzskFZyV3S8UmfCx"
+      }, 
+      {
+        "name": "Here and Now", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1zitZ8iz4WLCHLpOW2SRID"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a4f9c9e96bf24aefb016ae4f132e93b1a5d5cb00", 
+        "is_playable": true, 
+        "uri": "spotify:track:1zitZ8iz4WLCHLpOW2SRID", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1zitZ8iz4WLCHLpOW2SRID", 
+        "artists": [
+          {
+            "name": "Ride", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX"
+            }, 
+            "uri": "spotify:artist:0WPY9nnBy01s5QOt4o4oQX", 
+            "href": "https://api.spotify.com/v1/artists/0WPY9nnBy01s5QOt4o4oQX", 
+            "type": "artist", 
+            "id": "0WPY9nnBy01s5QOt4o4oQX"
+          }
+        ], 
+        "duration_ms": 266306, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "1zitZ8iz4WLCHLpOW2SRID"
+      }, 
+      {
+        "name": "Nowhere", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2bbxzVguK3egCE75lmL14v"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/31a517b7dfbf4d325240d1529d86bc432cf1c6a8", 
+        "is_playable": true, 
+        "uri": "spotify:track:2bbxzVguK3egCE75lmL14v", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2bbxzVguK3egCE75lmL14v", 
+        "artists": [
+          {
+            "name": "Ride", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX"
+            }, 
+            "uri": "spotify:artist:0WPY9nnBy01s5QOt4o4oQX", 
+            "href": "https://api.spotify.com/v1/artists/0WPY9nnBy01s5QOt4o4oQX", 
+            "type": "artist", 
+            "id": "0WPY9nnBy01s5QOt4o4oQX"
+          }
+        ], 
+        "duration_ms": 323093, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "2bbxzVguK3egCE75lmL14v"
+      }, 
+      {
+        "name": "Unfamiliar", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3WoR9P1hHx1VlGNsi1TfR7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/54a4d9676823e78bf25c6a0bc5433437b9db9b70", 
+        "is_playable": true, 
+        "uri": "spotify:track:3WoR9P1hHx1VlGNsi1TfR7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3WoR9P1hHx1VlGNsi1TfR7", 
+        "artists": [
+          {
+            "name": "Ride", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX"
+            }, 
+            "uri": "spotify:artist:0WPY9nnBy01s5QOt4o4oQX", 
+            "href": "https://api.spotify.com/v1/artists/0WPY9nnBy01s5QOt4o4oQX", 
+            "type": "artist", 
+            "id": "0WPY9nnBy01s5QOt4o4oQX"
+          }
+        ], 
+        "duration_ms": 302640, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "3WoR9P1hHx1VlGNsi1TfR7"
+      }, 
+      {
+        "name": "Sennen", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/74qhy08FbixanzM9i17QfA"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9a5b6639d7637c1af6fe7153b41222df2d470be3", 
+        "is_playable": true, 
+        "uri": "spotify:track:74qhy08FbixanzM9i17QfA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/74qhy08FbixanzM9i17QfA", 
+        "artists": [
+          {
+            "name": "Ride", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX"
+            }, 
+            "uri": "spotify:artist:0WPY9nnBy01s5QOt4o4oQX", 
+            "href": "https://api.spotify.com/v1/artists/0WPY9nnBy01s5QOt4o4oQX", 
+            "type": "artist", 
+            "id": "0WPY9nnBy01s5QOt4o4oQX"
+          }
+        ], 
+        "duration_ms": 262960, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "74qhy08FbixanzM9i17QfA"
+      }, 
+      {
+        "name": "Beneath", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0XH4m6sqA8TKxJMP8L33UA"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ad05aa1273f7cb77cde8ea358f94bd7c96a66273", 
+        "is_playable": true, 
+        "uri": "spotify:track:0XH4m6sqA8TKxJMP8L33UA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0XH4m6sqA8TKxJMP8L33UA", 
+        "artists": [
+          {
+            "name": "Ride", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX"
+            }, 
+            "uri": "spotify:artist:0WPY9nnBy01s5QOt4o4oQX", 
+            "href": "https://api.spotify.com/v1/artists/0WPY9nnBy01s5QOt4o4oQX", 
+            "type": "artist", 
+            "id": "0WPY9nnBy01s5QOt4o4oQX"
+          }
+        ], 
+        "duration_ms": 246266, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "0XH4m6sqA8TKxJMP8L33UA"
+      }, 
+      {
+        "name": "Today", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3KldjqXLciFotfm8n6h2xs"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fbb9b3165fb7b507aedd0ca23b2d7168f6182b51", 
+        "is_playable": true, 
+        "uri": "spotify:track:3KldjqXLciFotfm8n6h2xs", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3KldjqXLciFotfm8n6h2xs", 
+        "artists": [
+          {
+            "name": "Ride", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX"
+            }, 
+            "uri": "spotify:artist:0WPY9nnBy01s5QOt4o4oQX", 
+            "href": "https://api.spotify.com/v1/artists/0WPY9nnBy01s5QOt4o4oQX", 
+            "type": "artist", 
+            "id": "0WPY9nnBy01s5QOt4o4oQX"
+          }
+        ], 
+        "duration_ms": 385733, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "3KldjqXLciFotfm8n6h2xs"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/3cmIjwBG498X6AURxoVEnQ/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 15, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/3cmIjwBG498X6AURxoVEnQ", 
+  "copyrights": [
+    {
+      "text": "2011, The Ride Partnership", 
+      "type": "C"
+    }, 
+    {
+      "text": "2011, The Ride Partnership", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Ride", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX"
+      }, 
+      "uri": "spotify:artist:0WPY9nnBy01s5QOt4o4oQX", 
+      "href": "https://api.spotify.com/v1/artists/0WPY9nnBy01s5QOt4o4oQX", 
+      "type": "artist", 
+      "id": "0WPY9nnBy01s5QOt4o4oQX"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/5f0fea4224fd4720e8644a6cdd794330feb18d01", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/45f723ddc89116aabe9bcf5580af7d42d09cb36f", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/df8be30da302f3f98f66196a334182e419dd24b8", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "5037300774206"
+  }, 
+  "type": "album", 
+  "id": "3cmIjwBG498X6AURxoVEnQ", 
+  "name": "Nowhere"
+}

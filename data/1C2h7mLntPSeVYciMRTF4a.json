@@ -1,0 +1,973 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
+  }, 
+  "release_date": "2008-02-08", 
+  "popularity": 77, 
+  "genres": [], 
+  "uri": "spotify:album:1C2h7mLntPSeVYciMRTF4a", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Wanna Be Startin' Somethin'", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2kulOHR2XY6YDZCWXb38hn"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/031f0191ba6b00e082aa4c13697239e64fb9824a", 
+        "is_playable": true, 
+        "uri": "spotify:track:2kulOHR2XY6YDZCWXb38hn", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2kulOHR2XY6YDZCWXb38hn", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }
+        ], 
+        "duration_ms": 362373, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "2kulOHR2XY6YDZCWXb38hn"
+      }, 
+      {
+        "name": "Baby Be Mine", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3bMveJpCPytU79V5A61Bb7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/91d9fd15f372624a1843851e94e1ee889b0e823f", 
+        "is_playable": true, 
+        "uri": "spotify:track:3bMveJpCPytU79V5A61Bb7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3bMveJpCPytU79V5A61Bb7", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }
+        ], 
+        "duration_ms": 260186, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "3bMveJpCPytU79V5A61Bb7"
+      }, 
+      {
+        "name": "The Girl Is Mine", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1diEQsD8PJC9hXB5Gpfgtn"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9273e0a534e5150427649c622a2685b4b48dec90", 
+        "is_playable": true, 
+        "uri": "spotify:track:1diEQsD8PJC9hXB5Gpfgtn", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1diEQsD8PJC9hXB5Gpfgtn", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }, 
+          {
+            "name": "Paul McCartney", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+            }, 
+            "uri": "spotify:artist:4STHEaNw4mPZ2tzheohgXB", 
+            "href": "https://api.spotify.com/v1/artists/4STHEaNw4mPZ2tzheohgXB", 
+            "type": "artist", 
+            "id": "4STHEaNw4mPZ2tzheohgXB"
+          }
+        ], 
+        "duration_ms": 222040, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "1diEQsD8PJC9hXB5Gpfgtn"
+      }, 
+      {
+        "name": "Thriller", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3S2R0EVwBSAVMd5UMgKTL0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b5b47ea87c4d379cf93a33d5dca3d860b0100c85", 
+        "is_playable": true, 
+        "uri": "spotify:track:3S2R0EVwBSAVMd5UMgKTL0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3S2R0EVwBSAVMd5UMgKTL0", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }
+        ], 
+        "duration_ms": 357266, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "3S2R0EVwBSAVMd5UMgKTL0"
+      }, 
+      {
+        "name": "Beat It - Single Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f9ba524c7a206522ba4d1f6896a11d09a0c1059f", 
+        "is_playable": true, 
+        "uri": "spotify:track:1OOtq8tRnDM8kG2gqUPjAj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1OOtq8tRnDM8kG2gqUPjAj", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }
+        ], 
+        "duration_ms": 258040, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "1OOtq8tRnDM8kG2gqUPjAj"
+      }, 
+      {
+        "name": "Billie Jean - Single Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5371616374a56bb4620612fbbc08d89747a04f2a", 
+        "is_playable": true, 
+        "uri": "spotify:track:5ChkMS8OtdzJeqyybCc9R5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5ChkMS8OtdzJeqyybCc9R5", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }
+        ], 
+        "duration_ms": 293826, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "5ChkMS8OtdzJeqyybCc9R5"
+      }, 
+      {
+        "name": "Human Nature", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/35lAjvsvS9k9HHuP1fjDT8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/97557dc655866bbb427611e2259cfa8212d9633c", 
+        "is_playable": true, 
+        "uri": "spotify:track:35lAjvsvS9k9HHuP1fjDT8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/35lAjvsvS9k9HHuP1fjDT8", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }
+        ], 
+        "duration_ms": 245560, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "35lAjvsvS9k9HHuP1fjDT8"
+      }, 
+      {
+        "name": "P.Y.T. (Pretty Young Thing)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5lA3pwMkBdd24StM90QrNR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b575b758e1935efa5e9895fd5e59cb40cd9eea82", 
+        "is_playable": true, 
+        "uri": "spotify:track:5lA3pwMkBdd24StM90QrNR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5lA3pwMkBdd24StM90QrNR", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }
+        ], 
+        "duration_ms": 238733, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "5lA3pwMkBdd24StM90QrNR"
+      }, 
+      {
+        "name": "The Lady in My Life", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4OpwADjlTmeRSWHkUrGXpz"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/76ea54bc9e999f215960328e200dd0734edda47b", 
+        "is_playable": true, 
+        "uri": "spotify:track:4OpwADjlTmeRSWHkUrGXpz", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4OpwADjlTmeRSWHkUrGXpz", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }
+        ], 
+        "duration_ms": 298800, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "4OpwADjlTmeRSWHkUrGXpz"
+      }, 
+      {
+        "name": "Vincent Price Excerpt From \"Thriller\" Voice-Over Session - Thriller 25th Anniversary Voice-Over Session", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1G3EVrzpUJHM3p1rVXdWPc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b4723acdb9d89c85835b8742302b518c7975f901", 
+        "is_playable": true, 
+        "uri": "spotify:track:1G3EVrzpUJHM3p1rVXdWPc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1G3EVrzpUJHM3p1rVXdWPc", 
+        "artists": [
+          {
+            "name": "Vincent Price", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2p81PEUXquhwwXOnifRlqV"
+            }, 
+            "uri": "spotify:artist:2p81PEUXquhwwXOnifRlqV", 
+            "href": "https://api.spotify.com/v1/artists/2p81PEUXquhwwXOnifRlqV", 
+            "type": "artist", 
+            "id": "2p81PEUXquhwwXOnifRlqV"
+          }
+        ], 
+        "duration_ms": 24453, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "1G3EVrzpUJHM3p1rVXdWPc"
+      }, 
+      {
+        "name": "The Girl Is Mine 2008 with will.i.am - Thriller 25th Anniversary Remix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3P5LP0QEswwTGJSlESoeB5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7b9f4dd5caa2abb07ce5c92d2447d526e9538126", 
+        "is_playable": true, 
+        "uri": "spotify:track:3P5LP0QEswwTGJSlESoeB5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3P5LP0QEswwTGJSlESoeB5", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }, 
+          {
+            "name": "will.i.am", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+            }, 
+            "uri": "spotify:artist:085pc2PYOi8bGKj0PNjekA", 
+            "href": "https://api.spotify.com/v1/artists/085pc2PYOi8bGKj0PNjekA", 
+            "type": "artist", 
+            "id": "085pc2PYOi8bGKj0PNjekA"
+          }
+        ], 
+        "duration_ms": 190253, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "3P5LP0QEswwTGJSlESoeB5"
+      }, 
+      {
+        "name": "P.Y.T. (Pretty Young Thing) 2008 with will.i.am - Thriller 25th Anniversary Remix Featuring willi.i.am", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4tYeov7pG1Hk1xaRP94Io5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e5c4dc833f814bbf9fba0cb4ff6d6edc75cfda0e", 
+        "is_playable": true, 
+        "uri": "spotify:track:4tYeov7pG1Hk1xaRP94Io5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4tYeov7pG1Hk1xaRP94Io5", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }, 
+          {
+            "name": "will.i.am", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+            }, 
+            "uri": "spotify:artist:085pc2PYOi8bGKj0PNjekA", 
+            "href": "https://api.spotify.com/v1/artists/085pc2PYOi8bGKj0PNjekA", 
+            "type": "artist", 
+            "id": "085pc2PYOi8bGKj0PNjekA"
+          }
+        ], 
+        "duration_ms": 261133, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "4tYeov7pG1Hk1xaRP94Io5"
+      }, 
+      {
+        "name": "Wanna Be Startin' Somethin' 2008 with Akon - Thriller 25th Anniversary Remix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/15A3uqmUTxJ1KJGfAdiywb"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fd6e8f7d39d0ae4a8831c9c67801d46747259a9d", 
+        "is_playable": true, 
+        "uri": "spotify:track:15A3uqmUTxJ1KJGfAdiywb", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/15A3uqmUTxJ1KJGfAdiywb", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }, 
+          {
+            "name": "Akon", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+            }, 
+            "uri": "spotify:artist:0z4gvV4rjIZ9wHck67ucSV", 
+            "href": "https://api.spotify.com/v1/artists/0z4gvV4rjIZ9wHck67ucSV", 
+            "type": "artist", 
+            "id": "0z4gvV4rjIZ9wHck67ucSV"
+          }
+        ], 
+        "duration_ms": 254120, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "15A3uqmUTxJ1KJGfAdiywb"
+      }, 
+      {
+        "name": "Beat It 2008 - Thriller 25th Anniversary Remix Featuring Fergie", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4WOd40p1zhy3cWL0Eh4yAy"
+        }, 
+        "explicit": false, 
+        "preview_url": null, 
+        "is_playable": false, 
+        "uri": "spotify:track:4WOd40p1zhy3cWL0Eh4yAy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4WOd40p1zhy3cWL0Eh4yAy", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }, 
+          {
+            "name": "Fergie", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+            }, 
+            "uri": "spotify:artist:3r17AfJCCUqC9Lf0OAc73G", 
+            "href": "https://api.spotify.com/v1/artists/3r17AfJCCUqC9Lf0OAc73G", 
+            "type": "artist", 
+            "id": "3r17AfJCCUqC9Lf0OAc73G"
+          }
+        ], 
+        "duration_ms": 251186, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "4WOd40p1zhy3cWL0Eh4yAy"
+      }, 
+      {
+        "name": "Billie Jean 2008 Kanye West Mix - Thriller 25th Anniversary Remix Featuring Kanye West", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/17bgTUPOnLLVavmeS2Pc0B"
+        }, 
+        "explicit": false, 
+        "preview_url": null, 
+        "is_playable": false, 
+        "uri": "spotify:track:17bgTUPOnLLVavmeS2Pc0B", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/17bgTUPOnLLVavmeS2Pc0B", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }
+        ], 
+        "duration_ms": 275933, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "17bgTUPOnLLVavmeS2Pc0B"
+      }, 
+      {
+        "name": "For All Time", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4NYi8J4w2AuI9qyv5bY2Nt"
+        }, 
+        "explicit": false, 
+        "preview_url": null, 
+        "is_playable": false, 
+        "uri": "spotify:track:4NYi8J4w2AuI9qyv5bY2Nt", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4NYi8J4w2AuI9qyv5bY2Nt", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }
+        ], 
+        "duration_ms": 243853, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "4NYi8J4w2AuI9qyv5bY2Nt"
+      }, 
+      {
+        "name": "Voice-Over Intro Quincy Jones Interview #1 / Quincy Jones Interview #1", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Xq33ThZ4gEje8gdVm85Ve"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/156d7fb889d8458f7fa9e759c267c140252f150b", 
+        "is_playable": true, 
+        "uri": "spotify:track:3Xq33ThZ4gEje8gdVm85Ve", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3Xq33ThZ4gEje8gdVm85Ve", 
+        "artists": [
+          {
+            "name": "Quincy Jones", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+            }, 
+            "uri": "spotify:artist:3rxIQc9kWT6Ueg4BhnOwRK", 
+            "href": "https://api.spotify.com/v1/artists/3rxIQc9kWT6Ueg4BhnOwRK", 
+            "type": "artist", 
+            "id": "3rxIQc9kWT6Ueg4BhnOwRK"
+          }
+        ], 
+        "duration_ms": 137893, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "3Xq33ThZ4gEje8gdVm85Ve"
+      }, 
+      {
+        "name": "Someone in the Dark", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2CxNfpTOTaThbGNGTmQ9Xg"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6b53433f2dd8668b0686ae2e66265cdb688b0dc4", 
+        "is_playable": true, 
+        "uri": "spotify:track:2CxNfpTOTaThbGNGTmQ9Xg", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2CxNfpTOTaThbGNGTmQ9Xg", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }
+        ], 
+        "duration_ms": 288426, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "2CxNfpTOTaThbGNGTmQ9Xg"
+      }, 
+      {
+        "name": "Voice-Over Intro Quincy Jones Interview #2/Quincy Jones Interview #2 / Voice-Over Intro Billie Jean (Demo)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5hYxcTFDceQRd9jQKn6N6T"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/22ee5ebe712b955aed5db0ea88a49cb2f9516c7a", 
+        "is_playable": true, 
+        "uri": "spotify:track:5hYxcTFDceQRd9jQKn6N6T", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5hYxcTFDceQRd9jQKn6N6T", 
+        "artists": [
+          {
+            "name": "Quincy Jones", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+            }, 
+            "uri": "spotify:artist:3rxIQc9kWT6Ueg4BhnOwRK", 
+            "href": "https://api.spotify.com/v1/artists/3rxIQc9kWT6Ueg4BhnOwRK", 
+            "type": "artist", 
+            "id": "3rxIQc9kWT6Ueg4BhnOwRK"
+          }
+        ], 
+        "duration_ms": 124066, 
+        "track_number": 19, 
+        "type": "track", 
+        "id": "5hYxcTFDceQRd9jQKn6N6T"
+      }, 
+      {
+        "name": "Billie Jean (Home Demo from 1981)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0FsyTSZ4Ghi1SpKJvJfJnZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/62f76e87dba16d9332a23a84c0f9e45b672d3046", 
+        "is_playable": true, 
+        "uri": "spotify:track:0FsyTSZ4Ghi1SpKJvJfJnZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0FsyTSZ4Ghi1SpKJvJfJnZ", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }
+        ], 
+        "duration_ms": 140040, 
+        "track_number": 20, 
+        "type": "track", 
+        "id": "0FsyTSZ4Ghi1SpKJvJfJnZ"
+      }, 
+      {
+        "name": "Quincy Jones Interview #3", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/08T3XRWA3rTjOAu682I80g"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b100f1c3f4ddcf513578abcc81faa1c1046b6c3a", 
+        "is_playable": true, 
+        "uri": "spotify:track:08T3XRWA3rTjOAu682I80g", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/08T3XRWA3rTjOAu682I80g", 
+        "artists": [
+          {
+            "name": "Quincy Jones", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+            }, 
+            "uri": "spotify:artist:3rxIQc9kWT6Ueg4BhnOwRK", 
+            "href": "https://api.spotify.com/v1/artists/3rxIQc9kWT6Ueg4BhnOwRK", 
+            "type": "artist", 
+            "id": "3rxIQc9kWT6Ueg4BhnOwRK"
+          }
+        ], 
+        "duration_ms": 190066, 
+        "track_number": 21, 
+        "type": "track", 
+        "id": "08T3XRWA3rTjOAu682I80g"
+      }, 
+      {
+        "name": "Voice-Over Intro Rod Temperton Interview #1 / Rod Temperton Interview #1", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/443n9T3L7lbvnwtwtkC7vl"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/13530975a162343a7799d535f8e82c3d4dcfa118", 
+        "is_playable": true, 
+        "uri": "spotify:track:443n9T3L7lbvnwtwtkC7vl", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/443n9T3L7lbvnwtwtkC7vl", 
+        "artists": [
+          {
+            "name": "Rod Temperton", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0HXtkeTuIrpcFWhWgZ8jNn"
+            }, 
+            "uri": "spotify:artist:0HXtkeTuIrpcFWhWgZ8jNn", 
+            "href": "https://api.spotify.com/v1/artists/0HXtkeTuIrpcFWhWgZ8jNn", 
+            "type": "artist", 
+            "id": "0HXtkeTuIrpcFWhWgZ8jNn"
+          }
+        ], 
+        "duration_ms": 242800, 
+        "track_number": 22, 
+        "type": "track", 
+        "id": "443n9T3L7lbvnwtwtkC7vl"
+      }, 
+      {
+        "name": "Quincy Jones Interview #4", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/56omgpLsxvyalOj6o1HWDP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ec07a4568b3d3a0fa7a03c858573d43fac4e3f52", 
+        "is_playable": true, 
+        "uri": "spotify:track:56omgpLsxvyalOj6o1HWDP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/56omgpLsxvyalOj6o1HWDP", 
+        "artists": [
+          {
+            "name": "Quincy Jones", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+            }, 
+            "uri": "spotify:artist:3rxIQc9kWT6Ueg4BhnOwRK", 
+            "href": "https://api.spotify.com/v1/artists/3rxIQc9kWT6Ueg4BhnOwRK", 
+            "type": "artist", 
+            "id": "3rxIQc9kWT6Ueg4BhnOwRK"
+          }
+        ], 
+        "duration_ms": 92466, 
+        "track_number": 23, 
+        "type": "track", 
+        "id": "56omgpLsxvyalOj6o1HWDP"
+      }, 
+      {
+        "name": "Voice-Over Intro / Voice-Over Session from Thriller", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/51PXL2lCvWSN41KhOcVdBE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/067799bd47de7d6b8d77c7b929743de8a8a55443", 
+        "is_playable": true, 
+        "uri": "spotify:track:51PXL2lCvWSN41KhOcVdBE", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/51PXL2lCvWSN41KhOcVdBE", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }, 
+          {
+            "name": "Rod Temperton", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0HXtkeTuIrpcFWhWgZ8jNn"
+            }, 
+            "uri": "spotify:artist:0HXtkeTuIrpcFWhWgZ8jNn", 
+            "href": "https://api.spotify.com/v1/artists/0HXtkeTuIrpcFWhWgZ8jNn", 
+            "type": "artist", 
+            "id": "0HXtkeTuIrpcFWhWgZ8jNn"
+          }, 
+          {
+            "name": "Vincent Price", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2p81PEUXquhwwXOnifRlqV"
+            }, 
+            "uri": "spotify:artist:2p81PEUXquhwwXOnifRlqV", 
+            "href": "https://api.spotify.com/v1/artists/2p81PEUXquhwwXOnifRlqV", 
+            "type": "artist", 
+            "id": "2p81PEUXquhwwXOnifRlqV"
+          }
+        ], 
+        "duration_ms": 172360, 
+        "track_number": 24, 
+        "type": "track", 
+        "id": "51PXL2lCvWSN41KhOcVdBE"
+      }, 
+      {
+        "name": "Voice-Over Intro Rod Temperton Interview #2 / Rod Temperton Interview #2", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1xU5NiN3ZKUa3J3S93aYd5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5d953cf9e14079903e739253458b531147e9d856", 
+        "is_playable": true, 
+        "uri": "spotify:track:1xU5NiN3ZKUa3J3S93aYd5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1xU5NiN3ZKUa3J3S93aYd5", 
+        "artists": [
+          {
+            "name": "Rod Temperton", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0HXtkeTuIrpcFWhWgZ8jNn"
+            }, 
+            "uri": "spotify:artist:0HXtkeTuIrpcFWhWgZ8jNn", 
+            "href": "https://api.spotify.com/v1/artists/0HXtkeTuIrpcFWhWgZ8jNn", 
+            "type": "artist", 
+            "id": "0HXtkeTuIrpcFWhWgZ8jNn"
+          }
+        ], 
+        "duration_ms": 115760, 
+        "track_number": 25, 
+        "type": "track", 
+        "id": "1xU5NiN3ZKUa3J3S93aYd5"
+      }, 
+      {
+        "name": "Quincy Jones Interview #5", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5UkQojZQHZntZHe2WoLo0n"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5aeee01b66f7f9442bd07a664d29cea261201a24", 
+        "is_playable": true, 
+        "uri": "spotify:track:5UkQojZQHZntZHe2WoLo0n", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5UkQojZQHZntZHe2WoLo0n", 
+        "artists": [
+          {
+            "name": "Quincy Jones", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+            }, 
+            "uri": "spotify:artist:3rxIQc9kWT6Ueg4BhnOwRK", 
+            "href": "https://api.spotify.com/v1/artists/3rxIQc9kWT6Ueg4BhnOwRK", 
+            "type": "artist", 
+            "id": "3rxIQc9kWT6Ueg4BhnOwRK"
+          }
+        ], 
+        "duration_ms": 121560, 
+        "track_number": 26, 
+        "type": "track", 
+        "id": "5UkQojZQHZntZHe2WoLo0n"
+      }, 
+      {
+        "name": "Carousel", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6MCFKOiRbDppSzOFKvHlnk"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2e43eac91fa5568e94829f760f01b8f8b3911674", 
+        "is_playable": true, 
+        "uri": "spotify:track:6MCFKOiRbDppSzOFKvHlnk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6MCFKOiRbDppSzOFKvHlnk", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }
+        ], 
+        "duration_ms": 109360, 
+        "track_number": 27, 
+        "type": "track", 
+        "id": "6MCFKOiRbDppSzOFKvHlnk"
+      }, 
+      {
+        "name": "Voice-Over Intro Quincy Jones Interview #6 / Quincy Jones Interview #6", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5jT0aOxgDOfW8naiT2YegG"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/77efb9fd8df6fb7923479ad59dcf9ac0eef0a989", 
+        "is_playable": true, 
+        "uri": "spotify:track:5jT0aOxgDOfW8naiT2YegG", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5jT0aOxgDOfW8naiT2YegG", 
+        "artists": [
+          {
+            "name": "Quincy Jones", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+            }, 
+            "uri": "spotify:artist:3rxIQc9kWT6Ueg4BhnOwRK", 
+            "href": "https://api.spotify.com/v1/artists/3rxIQc9kWT6Ueg4BhnOwRK", 
+            "type": "artist", 
+            "id": "3rxIQc9kWT6Ueg4BhnOwRK"
+          }
+        ], 
+        "duration_ms": 77693, 
+        "track_number": 28, 
+        "type": "track", 
+        "id": "5jT0aOxgDOfW8naiT2YegG"
+      }, 
+      {
+        "name": "Billie Jean - Underground Mix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6m9V5QOltZ8At8vIAayTnq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/97f777bac54a43f4ccd532fc7b022960cdd67dc3", 
+        "is_playable": true, 
+        "uri": "spotify:track:6m9V5QOltZ8At8vIAayTnq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6m9V5QOltZ8At8vIAayTnq", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }
+        ], 
+        "duration_ms": 400226, 
+        "track_number": 29, 
+        "type": "track", 
+        "id": "6m9V5QOltZ8At8vIAayTnq"
+      }, 
+      {
+        "name": "Thriller - Instrumental", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3yYt5HIf99u6lsinB95Ku8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1d89ae9921a27d7640ad0ed36fe718e7a52d3ea1", 
+        "is_playable": true, 
+        "uri": "spotify:track:3yYt5HIf99u6lsinB95Ku8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3yYt5HIf99u6lsinB95Ku8", 
+        "artists": [
+          {
+            "name": "Michael Jackson", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            }, 
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+            "type": "artist", 
+            "id": "3fMbdgg4jU18AjLCKBhRSm"
+          }
+        ], 
+        "duration_ms": 357840, 
+        "track_number": 30, 
+        "type": "track", 
+        "id": "3yYt5HIf99u6lsinB95Ku8"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/1C2h7mLntPSeVYciMRTF4a/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 30, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/1C2h7mLntPSeVYciMRTF4a", 
+  "copyrights": [
+    {
+      "text": "(P) 1982, 2001, 2008 MJJ Productions Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Michael Jackson", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+      }, 
+      "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm", 
+      "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm", 
+      "type": "artist", 
+      "id": "3fMbdgg4jU18AjLCKBhRSm"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/e337f3661f68bc4d96a554de0ad7988d65edb25a", 
+      "width": 640, 
+      "height": 568
+    }, 
+    {
+      "url": "https://i.scdn.co/image/6d1d714f4dcb306d3b3533fea400362974060d2d", 
+      "width": 300, 
+      "height": 266
+    }, 
+    {
+      "url": "https://i.scdn.co/image/46f49ee7906c54ba1bee122eeb07353b340241c1", 
+      "width": 64, 
+      "height": 57
+    }
+  ], 
+  "external_ids": {
+    "upc": "888880436030"
+  }, 
+  "type": "album", 
+  "id": "1C2h7mLntPSeVYciMRTF4a", 
+  "name": "Thriller 25 Super Deluxe Edition"
+}

@@ -1,0 +1,511 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/533zqKatpy90jse2K5IaiQ"
+  }, 
+  "release_date": "1968", 
+  "popularity": 32, 
+  "genres": [], 
+  "uri": "spotify:album:533zqKatpy90jse2K5IaiQ", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Luckie", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1c0HMSYtaT5LGLBEUKpHxR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/353768271e3bf00c9331cc9ea2f2911f8a1943eb", 
+        "is_playable": true, 
+        "uri": "spotify:track:1c0HMSYtaT5LGLBEUKpHxR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1c0HMSYtaT5LGLBEUKpHxR", 
+        "artists": [
+          {
+            "name": "Laura Nyro", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6QDWC6QeGhvCWCv3nUJwoV"
+            }, 
+            "uri": "spotify:artist:6QDWC6QeGhvCWCv3nUJwoV", 
+            "href": "https://api.spotify.com/v1/artists/6QDWC6QeGhvCWCv3nUJwoV", 
+            "type": "artist", 
+            "id": "6QDWC6QeGhvCWCv3nUJwoV"
+          }
+        ], 
+        "duration_ms": 180000, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "1c0HMSYtaT5LGLBEUKpHxR"
+      }, 
+      {
+        "name": "Lu", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/19uOR5CRYL9xwWfaASOVcV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b4f9e71925b16b96cefa0e57299b4dea735c609e", 
+        "is_playable": true, 
+        "uri": "spotify:track:19uOR5CRYL9xwWfaASOVcV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/19uOR5CRYL9xwWfaASOVcV", 
+        "artists": [
+          {
+            "name": "Laura Nyro", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6QDWC6QeGhvCWCv3nUJwoV"
+            }, 
+            "uri": "spotify:artist:6QDWC6QeGhvCWCv3nUJwoV", 
+            "href": "https://api.spotify.com/v1/artists/6QDWC6QeGhvCWCv3nUJwoV", 
+            "type": "artist", 
+            "id": "6QDWC6QeGhvCWCv3nUJwoV"
+          }
+        ], 
+        "duration_ms": 165293, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "19uOR5CRYL9xwWfaASOVcV"
+      }, 
+      {
+        "name": "Sweet Blindness", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6xjO42W2ynahl1uUpJGdSt"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fbf0b9b62b4fb2bf539bfc952b1a9970d5be5687", 
+        "is_playable": true, 
+        "uri": "spotify:track:6xjO42W2ynahl1uUpJGdSt", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6xjO42W2ynahl1uUpJGdSt", 
+        "artists": [
+          {
+            "name": "Laura Nyro", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6QDWC6QeGhvCWCv3nUJwoV"
+            }, 
+            "uri": "spotify:artist:6QDWC6QeGhvCWCv3nUJwoV", 
+            "href": "https://api.spotify.com/v1/artists/6QDWC6QeGhvCWCv3nUJwoV", 
+            "type": "artist", 
+            "id": "6QDWC6QeGhvCWCv3nUJwoV"
+          }
+        ], 
+        "duration_ms": 156306, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "6xjO42W2ynahl1uUpJGdSt"
+      }, 
+      {
+        "name": "Poverty Train", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6sj1PU9xB6bHke3bm4P3LU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/71baa9cf95c7f6a3a671a20fd0b4a6247b1b0527", 
+        "is_playable": true, 
+        "uri": "spotify:track:6sj1PU9xB6bHke3bm4P3LU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6sj1PU9xB6bHke3bm4P3LU", 
+        "artists": [
+          {
+            "name": "Laura Nyro", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6QDWC6QeGhvCWCv3nUJwoV"
+            }, 
+            "uri": "spotify:artist:6QDWC6QeGhvCWCv3nUJwoV", 
+            "href": "https://api.spotify.com/v1/artists/6QDWC6QeGhvCWCv3nUJwoV", 
+            "type": "artist", 
+            "id": "6QDWC6QeGhvCWCv3nUJwoV"
+          }
+        ], 
+        "duration_ms": 255733, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "6sj1PU9xB6bHke3bm4P3LU"
+      }, 
+      {
+        "name": "Lonely Women", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/61mABCzJwROZntKPXqYb4n"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/60e70a59dd3bed46a72a4449553b286b1024d003", 
+        "is_playable": true, 
+        "uri": "spotify:track:61mABCzJwROZntKPXqYb4n", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/61mABCzJwROZntKPXqYb4n", 
+        "artists": [
+          {
+            "name": "Laura Nyro", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6QDWC6QeGhvCWCv3nUJwoV"
+            }, 
+            "uri": "spotify:artist:6QDWC6QeGhvCWCv3nUJwoV", 
+            "href": "https://api.spotify.com/v1/artists/6QDWC6QeGhvCWCv3nUJwoV", 
+            "type": "artist", 
+            "id": "6QDWC6QeGhvCWCv3nUJwoV"
+          }
+        ], 
+        "duration_ms": 210960, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "61mABCzJwROZntKPXqYb4n"
+      }, 
+      {
+        "name": "Eli's Comin'", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/04x9RfuAP5Pyce6fYzK9Xp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/36edab570d4cfd674eb9f78718528d982ecacfd6", 
+        "is_playable": true, 
+        "uri": "spotify:track:04x9RfuAP5Pyce6fYzK9Xp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/04x9RfuAP5Pyce6fYzK9Xp", 
+        "artists": [
+          {
+            "name": "Laura Nyro", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6QDWC6QeGhvCWCv3nUJwoV"
+            }, 
+            "uri": "spotify:artist:6QDWC6QeGhvCWCv3nUJwoV", 
+            "href": "https://api.spotify.com/v1/artists/6QDWC6QeGhvCWCv3nUJwoV", 
+            "type": "artist", 
+            "id": "6QDWC6QeGhvCWCv3nUJwoV"
+          }
+        ], 
+        "duration_ms": 236400, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "04x9RfuAP5Pyce6fYzK9Xp"
+      }, 
+      {
+        "name": "Timer", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5RxVHgSVGC12uYC5Q6O3Fi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/71ad3d3a30774f6e5fea33856123353bf700dbfe", 
+        "is_playable": true, 
+        "uri": "spotify:track:5RxVHgSVGC12uYC5Q6O3Fi", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5RxVHgSVGC12uYC5Q6O3Fi", 
+        "artists": [
+          {
+            "name": "Laura Nyro", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6QDWC6QeGhvCWCv3nUJwoV"
+            }, 
+            "uri": "spotify:artist:6QDWC6QeGhvCWCv3nUJwoV", 
+            "href": "https://api.spotify.com/v1/artists/6QDWC6QeGhvCWCv3nUJwoV", 
+            "type": "artist", 
+            "id": "6QDWC6QeGhvCWCv3nUJwoV"
+          }
+        ], 
+        "duration_ms": 203293, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "5RxVHgSVGC12uYC5Q6O3Fi"
+      }, 
+      {
+        "name": "Stoned Soul Picnic", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2QE9xrU65Es1YwNtp1Sc9e"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e6a63d43513f0c5658c107bc30102325afd6b8d7", 
+        "is_playable": true, 
+        "uri": "spotify:track:2QE9xrU65Es1YwNtp1Sc9e", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2QE9xrU65Es1YwNtp1Sc9e", 
+        "artists": [
+          {
+            "name": "Laura Nyro", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6QDWC6QeGhvCWCv3nUJwoV"
+            }, 
+            "uri": "spotify:artist:6QDWC6QeGhvCWCv3nUJwoV", 
+            "href": "https://api.spotify.com/v1/artists/6QDWC6QeGhvCWCv3nUJwoV", 
+            "type": "artist", 
+            "id": "6QDWC6QeGhvCWCv3nUJwoV"
+          }
+        ], 
+        "duration_ms": 226826, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "2QE9xrU65Es1YwNtp1Sc9e"
+      }, 
+      {
+        "name": "Emmie", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Q6LHlmgQQMurLhTveYdZR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fbbee899ac84251982fe348248de479c5bee3144", 
+        "is_playable": true, 
+        "uri": "spotify:track:1Q6LHlmgQQMurLhTveYdZR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1Q6LHlmgQQMurLhTveYdZR", 
+        "artists": [
+          {
+            "name": "Laura Nyro", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6QDWC6QeGhvCWCv3nUJwoV"
+            }, 
+            "uri": "spotify:artist:6QDWC6QeGhvCWCv3nUJwoV", 
+            "href": "https://api.spotify.com/v1/artists/6QDWC6QeGhvCWCv3nUJwoV", 
+            "type": "artist", 
+            "id": "6QDWC6QeGhvCWCv3nUJwoV"
+          }
+        ], 
+        "duration_ms": 259959, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "1Q6LHlmgQQMurLhTveYdZR"
+      }, 
+      {
+        "name": "Woman's Blues", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0NnqNbijlGjAcKGZcfnEdI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d759a00cffde5324ec7cd61a27497eeeb37db6a2", 
+        "is_playable": true, 
+        "uri": "spotify:track:0NnqNbijlGjAcKGZcfnEdI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0NnqNbijlGjAcKGZcfnEdI", 
+        "artists": [
+          {
+            "name": "Laura Nyro", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6QDWC6QeGhvCWCv3nUJwoV"
+            }, 
+            "uri": "spotify:artist:6QDWC6QeGhvCWCv3nUJwoV", 
+            "href": "https://api.spotify.com/v1/artists/6QDWC6QeGhvCWCv3nUJwoV", 
+            "type": "artist", 
+            "id": "6QDWC6QeGhvCWCv3nUJwoV"
+          }
+        ], 
+        "duration_ms": 225826, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "0NnqNbijlGjAcKGZcfnEdI"
+      }, 
+      {
+        "name": "Once It Was Alright Now (Farmer Joe)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5rCdQrwqLE30EmRNAwsyhU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9604a6838fac9e6d335d9ff67c81ea7acf221547", 
+        "is_playable": true, 
+        "uri": "spotify:track:5rCdQrwqLE30EmRNAwsyhU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5rCdQrwqLE30EmRNAwsyhU", 
+        "artists": [
+          {
+            "name": "Laura Nyro", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6QDWC6QeGhvCWCv3nUJwoV"
+            }, 
+            "uri": "spotify:artist:6QDWC6QeGhvCWCv3nUJwoV", 
+            "href": "https://api.spotify.com/v1/artists/6QDWC6QeGhvCWCv3nUJwoV", 
+            "type": "artist", 
+            "id": "6QDWC6QeGhvCWCv3nUJwoV"
+          }
+        ], 
+        "duration_ms": 176373, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "5rCdQrwqLE30EmRNAwsyhU"
+      }, 
+      {
+        "name": "December's Boudoir", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5A1Imlsca7JkasY0AQeJy7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/01848df41e4e7c9f233523e514f02fdeba607d6f", 
+        "is_playable": true, 
+        "uri": "spotify:track:5A1Imlsca7JkasY0AQeJy7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5A1Imlsca7JkasY0AQeJy7", 
+        "artists": [
+          {
+            "name": "Laura Nyro", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6QDWC6QeGhvCWCv3nUJwoV"
+            }, 
+            "uri": "spotify:artist:6QDWC6QeGhvCWCv3nUJwoV", 
+            "href": "https://api.spotify.com/v1/artists/6QDWC6QeGhvCWCv3nUJwoV", 
+            "type": "artist", 
+            "id": "6QDWC6QeGhvCWCv3nUJwoV"
+          }
+        ], 
+        "duration_ms": 304773, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "5A1Imlsca7JkasY0AQeJy7"
+      }, 
+      {
+        "name": "The Confession", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/17Iv8ZNkq8pFWAChmmR4CB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bf7e71c7068fb109f7436a0f3888b0d4e9e2b482", 
+        "is_playable": true, 
+        "uri": "spotify:track:17Iv8ZNkq8pFWAChmmR4CB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/17Iv8ZNkq8pFWAChmmR4CB", 
+        "artists": [
+          {
+            "name": "Laura Nyro", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6QDWC6QeGhvCWCv3nUJwoV"
+            }, 
+            "uri": "spotify:artist:6QDWC6QeGhvCWCv3nUJwoV", 
+            "href": "https://api.spotify.com/v1/artists/6QDWC6QeGhvCWCv3nUJwoV", 
+            "type": "artist", 
+            "id": "6QDWC6QeGhvCWCv3nUJwoV"
+          }
+        ], 
+        "duration_ms": 167573, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "17Iv8ZNkq8pFWAChmmR4CB"
+      }, 
+      {
+        "name": "Lu - Demo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3FogubBFhnH3q9hXPEQGmO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1972ba008a497e52e980788e9b14908d692d7bbf", 
+        "is_playable": true, 
+        "uri": "spotify:track:3FogubBFhnH3q9hXPEQGmO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3FogubBFhnH3q9hXPEQGmO", 
+        "artists": [
+          {
+            "name": "Laura Nyro", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6QDWC6QeGhvCWCv3nUJwoV"
+            }, 
+            "uri": "spotify:artist:6QDWC6QeGhvCWCv3nUJwoV", 
+            "href": "https://api.spotify.com/v1/artists/6QDWC6QeGhvCWCv3nUJwoV", 
+            "type": "artist", 
+            "id": "6QDWC6QeGhvCWCv3nUJwoV"
+          }
+        ], 
+        "duration_ms": 157066, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "3FogubBFhnH3q9hXPEQGmO"
+      }, 
+      {
+        "name": "Stoned Soul Picnic - Demo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/75dH8wSVwpHGfqF2vgFPMP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/255a1d03f69f206e8f6e85a68dd48081ad48dd22", 
+        "is_playable": true, 
+        "uri": "spotify:track:75dH8wSVwpHGfqF2vgFPMP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/75dH8wSVwpHGfqF2vgFPMP", 
+        "artists": [
+          {
+            "name": "Laura Nyro", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6QDWC6QeGhvCWCv3nUJwoV"
+            }, 
+            "uri": "spotify:artist:6QDWC6QeGhvCWCv3nUJwoV", 
+            "href": "https://api.spotify.com/v1/artists/6QDWC6QeGhvCWCv3nUJwoV", 
+            "type": "artist", 
+            "id": "6QDWC6QeGhvCWCv3nUJwoV"
+          }
+        ], 
+        "duration_ms": 216733, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "75dH8wSVwpHGfqF2vgFPMP"
+      }, 
+      {
+        "name": "Emmie - Demo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/132Czg3Rfoto6c0aWAEbiy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2068246371e645aa84ee04871e9c2f5f540a34bc", 
+        "is_playable": true, 
+        "uri": "spotify:track:132Czg3Rfoto6c0aWAEbiy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/132Czg3Rfoto6c0aWAEbiy", 
+        "artists": [
+          {
+            "name": "Laura Nyro", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6QDWC6QeGhvCWCv3nUJwoV"
+            }, 
+            "uri": "spotify:artist:6QDWC6QeGhvCWCv3nUJwoV", 
+            "href": "https://api.spotify.com/v1/artists/6QDWC6QeGhvCWCv3nUJwoV", 
+            "type": "artist", 
+            "id": "6QDWC6QeGhvCWCv3nUJwoV"
+          }
+        ], 
+        "duration_ms": 265040, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "132Czg3Rfoto6c0aWAEbiy"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/533zqKatpy90jse2K5IaiQ/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 16, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/533zqKatpy90jse2K5IaiQ", 
+  "copyrights": [
+    {
+      "text": "Originally Recorded 1967 & Released 2002, Originally Released 1968, (P) 2002 Sony Music Entertainment Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Laura Nyro", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6QDWC6QeGhvCWCv3nUJwoV"
+      }, 
+      "uri": "spotify:artist:6QDWC6QeGhvCWCv3nUJwoV", 
+      "href": "https://api.spotify.com/v1/artists/6QDWC6QeGhvCWCv3nUJwoV", 
+      "type": "artist", 
+      "id": "6QDWC6QeGhvCWCv3nUJwoV"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/57362d54bb8d4dc1137467bdc6242c9f563adcc0", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/c316ed2e12c8954ae9f7218ae71d05b15b4dcd68", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/86497db1145853d343b3ddb910e24dd15a3ff185", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "696998576322"
+  }, 
+  "type": "album", 
+  "id": "533zqKatpy90jse2K5IaiQ", 
+  "name": "Eli And The Thirteenth Confession"
+}

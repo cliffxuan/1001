@@ -1,0 +1,651 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7HcHPb1P9mubh0vyDdawAv"
+  }, 
+  "release_date": "1999-11-23", 
+  "popularity": 66, 
+  "genres": [], 
+  "uri": "spotify:album:7HcHPb1P9mubh0vyDdawAv", 
+  "tracks": {
+    "items": [
+      {
+        "name": "The Ecstasy Of Gold (Live with the SFSO)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0mCS6W4eGouKP8WjvcZOJ7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a6962f5984155190b797910b77305f9a08deda19", 
+        "is_playable": true, 
+        "uri": "spotify:track:0mCS6W4eGouKP8WjvcZOJ7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0mCS6W4eGouKP8WjvcZOJ7", 
+        "artists": [
+          {
+            "name": "Metallica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            }, 
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+            "type": "artist", 
+            "id": "2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ], 
+        "duration_ms": 150600, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "0mCS6W4eGouKP8WjvcZOJ7"
+      }, 
+      {
+        "name": "The Call Of Ktulu (Live with the SFSO)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2u0m9H0byqN12Ho1Jh1lQh"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/58fa80ec43034412504111ac1618143b954b6986", 
+        "is_playable": true, 
+        "uri": "spotify:track:2u0m9H0byqN12Ho1Jh1lQh", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2u0m9H0byqN12Ho1Jh1lQh", 
+        "artists": [
+          {
+            "name": "Metallica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            }, 
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+            "type": "artist", 
+            "id": "2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ], 
+        "duration_ms": 574266, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "2u0m9H0byqN12Ho1Jh1lQh"
+      }, 
+      {
+        "name": "Master Of Puppets (Live with the SFSO)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5zsf8OkgBQoxPPtL11pQCk"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cd8e1d9e5436bd81c0fa635e43e611de25fe8872", 
+        "is_playable": true, 
+        "uri": "spotify:track:5zsf8OkgBQoxPPtL11pQCk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5zsf8OkgBQoxPPtL11pQCk", 
+        "artists": [
+          {
+            "name": "Metallica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            }, 
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+            "type": "artist", 
+            "id": "2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ], 
+        "duration_ms": 534773, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "5zsf8OkgBQoxPPtL11pQCk"
+      }, 
+      {
+        "name": "Of Wolf And Man (Live with the SFSO)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/57U9JRGUXtHko5Jc2liyKT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/38465aeed8fd2f2eb65951f1a06af00ab22a7e52", 
+        "is_playable": true, 
+        "uri": "spotify:track:57U9JRGUXtHko5Jc2liyKT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/57U9JRGUXtHko5Jc2liyKT", 
+        "artists": [
+          {
+            "name": "Metallica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            }, 
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+            "type": "artist", 
+            "id": "2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ], 
+        "duration_ms": 258866, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "57U9JRGUXtHko5Jc2liyKT"
+      }, 
+      {
+        "name": "The Thing That Should Not Be (Live with the SFSO)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/22f0HfO1PUGJ3bjVozEewR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0474c46935896584a2010844cf3f4912a0773a7f", 
+        "is_playable": true, 
+        "uri": "spotify:track:22f0HfO1PUGJ3bjVozEewR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/22f0HfO1PUGJ3bjVozEewR", 
+        "artists": [
+          {
+            "name": "Metallica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            }, 
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+            "type": "artist", 
+            "id": "2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ], 
+        "duration_ms": 446666, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "22f0HfO1PUGJ3bjVozEewR"
+      }, 
+      {
+        "name": "Fuel (Live with the SFSO)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/784N3wAWOqGHdODVvnHluw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2c4d4449d9558b3070a8bd98d7a720f86a069986", 
+        "is_playable": true, 
+        "uri": "spotify:track:784N3wAWOqGHdODVvnHluw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/784N3wAWOqGHdODVvnHluw", 
+        "artists": [
+          {
+            "name": "Metallica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            }, 
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+            "type": "artist", 
+            "id": "2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ], 
+        "duration_ms": 275893, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "784N3wAWOqGHdODVvnHluw"
+      }, 
+      {
+        "name": "The Memory Remains (Live with the SFSO)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Z4zABLK7CRjC6JZdf5Ago"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2c86af2fbd1bc19076a8178f182481073a493236", 
+        "is_playable": true, 
+        "uri": "spotify:track:3Z4zABLK7CRjC6JZdf5Ago", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3Z4zABLK7CRjC6JZdf5Ago", 
+        "artists": [
+          {
+            "name": "Metallica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            }, 
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+            "type": "artist", 
+            "id": "2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ], 
+        "duration_ms": 282373, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "3Z4zABLK7CRjC6JZdf5Ago"
+      }, 
+      {
+        "name": "No Leaf Clover (Live with the SFSO)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0epHEsqwVe2Viyc02QHdu8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/dfbb98102d5dd080736a779c1172961df53a969c", 
+        "is_playable": true, 
+        "uri": "spotify:track:0epHEsqwVe2Viyc02QHdu8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0epHEsqwVe2Viyc02QHdu8", 
+        "artists": [
+          {
+            "name": "Metallica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            }, 
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+            "type": "artist", 
+            "id": "2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ], 
+        "duration_ms": 343200, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "0epHEsqwVe2Viyc02QHdu8"
+      }, 
+      {
+        "name": "Hero Of The Day (Live with the SFSO)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6CegLoiZXSdPSyexrf8Ju3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a813fa54e73e7e22efecc38e15d665200e8cbf05", 
+        "is_playable": true, 
+        "uri": "spotify:track:6CegLoiZXSdPSyexrf8Ju3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6CegLoiZXSdPSyexrf8Ju3", 
+        "artists": [
+          {
+            "name": "Metallica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            }, 
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+            "type": "artist", 
+            "id": "2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ], 
+        "duration_ms": 284626, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "6CegLoiZXSdPSyexrf8Ju3"
+      }, 
+      {
+        "name": "Devil's Dance (Live with the SFSO)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5jcwJsJTlxy2QLFFnjRnxw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a42f5717fd8d4fcf4e84bbd1af4f40cebe125e44", 
+        "is_playable": true, 
+        "uri": "spotify:track:5jcwJsJTlxy2QLFFnjRnxw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5jcwJsJTlxy2QLFFnjRnxw", 
+        "artists": [
+          {
+            "name": "Metallica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            }, 
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+            "type": "artist", 
+            "id": "2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ], 
+        "duration_ms": 326000, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "5jcwJsJTlxy2QLFFnjRnxw"
+      }, 
+      {
+        "name": "Bleeding Me (Live with the SFSO)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7iUZUlXN9DrDHUX6YKqVTY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fb0111d32114a5c3ac980de024364f44080afedf", 
+        "is_playable": true, 
+        "uri": "spotify:track:7iUZUlXN9DrDHUX6YKqVTY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7iUZUlXN9DrDHUX6YKqVTY", 
+        "artists": [
+          {
+            "name": "Metallica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            }, 
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+            "type": "artist", 
+            "id": "2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ], 
+        "duration_ms": 541640, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "7iUZUlXN9DrDHUX6YKqVTY"
+      }, 
+      {
+        "name": "Nothing Else Matters (Live with the SFSO)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6R2MWNoXJ2UKYLDQZrZFy6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/02faf994e4a9c3048c21e71e9e1ec3e3ef523e46", 
+        "is_playable": true, 
+        "uri": "spotify:track:6R2MWNoXJ2UKYLDQZrZFy6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6R2MWNoXJ2UKYLDQZrZFy6", 
+        "artists": [
+          {
+            "name": "Metallica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            }, 
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+            "type": "artist", 
+            "id": "2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ], 
+        "duration_ms": 407266, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "6R2MWNoXJ2UKYLDQZrZFy6"
+      }, 
+      {
+        "name": "Until It Sleeps (Live with the SFSO)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Fp00zUfmyiwCXjwcCVPVv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2c99837c2f1f0ed51d41dcb928545a991498da0a", 
+        "is_playable": true, 
+        "uri": "spotify:track:2Fp00zUfmyiwCXjwcCVPVv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2Fp00zUfmyiwCXjwcCVPVv", 
+        "artists": [
+          {
+            "name": "Metallica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            }, 
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+            "type": "artist", 
+            "id": "2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ], 
+        "duration_ms": 269973, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "2Fp00zUfmyiwCXjwcCVPVv"
+      }, 
+      {
+        "name": "For Whom The Bell Tolls (Live with the SFSO)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6eE09AcVjekkR2rWz9GY6C"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2c006080fcc73278ed5a25b17520076673cdaa8f", 
+        "is_playable": true, 
+        "uri": "spotify:track:6eE09AcVjekkR2rWz9GY6C", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6eE09AcVjekkR2rWz9GY6C", 
+        "artists": [
+          {
+            "name": "Metallica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            }, 
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+            "type": "artist", 
+            "id": "2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ], 
+        "duration_ms": 292160, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "6eE09AcVjekkR2rWz9GY6C"
+      }, 
+      {
+        "name": "- Human (Live with the SFSO)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0zDOB6LOKYfgByM7wHor9K"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/412276f5a2cdf2ef441488b030a1b4f4d8411905", 
+        "is_playable": true, 
+        "uri": "spotify:track:0zDOB6LOKYfgByM7wHor9K", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0zDOB6LOKYfgByM7wHor9K", 
+        "artists": [
+          {
+            "name": "Metallica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            }, 
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+            "type": "artist", 
+            "id": "2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ], 
+        "duration_ms": 259800, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "0zDOB6LOKYfgByM7wHor9K"
+      }, 
+      {
+        "name": "Wherever I May Roam (Live with the SFSO)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0QTz48ypYxaUdPX4qFzz6y"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/dcea472b6d8b3f5bc09a080e648cea409711c39a", 
+        "is_playable": true, 
+        "uri": "spotify:track:0QTz48ypYxaUdPX4qFzz6y", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0QTz48ypYxaUdPX4qFzz6y", 
+        "artists": [
+          {
+            "name": "Metallica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            }, 
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+            "type": "artist", 
+            "id": "2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ], 
+        "duration_ms": 421466, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "0QTz48ypYxaUdPX4qFzz6y"
+      }, 
+      {
+        "name": "Outlaw Torn (Live with the SFSO)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2AoUPcthWEu4zcEU6yj6Tt"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3c3ed622b01ae05d1d4bbac4453b6deaf9a234b4", 
+        "is_playable": true, 
+        "uri": "spotify:track:2AoUPcthWEu4zcEU6yj6Tt", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2AoUPcthWEu4zcEU6yj6Tt", 
+        "artists": [
+          {
+            "name": "Metallica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            }, 
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+            "type": "artist", 
+            "id": "2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ], 
+        "duration_ms": 598906, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "2AoUPcthWEu4zcEU6yj6Tt"
+      }, 
+      {
+        "name": "Sad But True (Live with the SFSO)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4RqI5bDMlDDdBj3dTpJbre"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/100f2a8d8b0b16dec64ee2b3c4716719b9ff9e17", 
+        "is_playable": true, 
+        "uri": "spotify:track:4RqI5bDMlDDdBj3dTpJbre", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4RqI5bDMlDDdBj3dTpJbre", 
+        "artists": [
+          {
+            "name": "Metallica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            }, 
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+            "type": "artist", 
+            "id": "2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ], 
+        "duration_ms": 346266, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "4RqI5bDMlDDdBj3dTpJbre"
+      }, 
+      {
+        "name": "One (Live with the SFSO)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6C5TFmm7D2YKsKiLJgT03K"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e136ca27ba483ffaef50cf5f93ffabb593fc3c3c", 
+        "is_playable": true, 
+        "uri": "spotify:track:6C5TFmm7D2YKsKiLJgT03K", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6C5TFmm7D2YKsKiLJgT03K", 
+        "artists": [
+          {
+            "name": "Metallica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            }, 
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+            "type": "artist", 
+            "id": "2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ], 
+        "duration_ms": 473066, 
+        "track_number": 19, 
+        "type": "track", 
+        "id": "6C5TFmm7D2YKsKiLJgT03K"
+      }, 
+      {
+        "name": "Enter Sandman (Live with the SFSO)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5HTpET0Y8mzzaqYQiBDhmx"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ceb5387ccbb54030cf449760a164a2f1bf90ae41", 
+        "is_playable": true, 
+        "uri": "spotify:track:5HTpET0Y8mzzaqYQiBDhmx", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5HTpET0Y8mzzaqYQiBDhmx", 
+        "artists": [
+          {
+            "name": "Metallica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            }, 
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+            "type": "artist", 
+            "id": "2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ], 
+        "duration_ms": 459133, 
+        "track_number": 20, 
+        "type": "track", 
+        "id": "5HTpET0Y8mzzaqYQiBDhmx"
+      }, 
+      {
+        "name": "Battery (Live with the SFSO)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6oFkYgA97CaQOBOeDwG1DT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bd391bb18c3b6fa1f5fde4e8b05dee45681dd7c1", 
+        "is_playable": true, 
+        "uri": "spotify:track:6oFkYgA97CaQOBOeDwG1DT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6oFkYgA97CaQOBOeDwG1DT", 
+        "artists": [
+          {
+            "name": "Metallica", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+            }, 
+            "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+            "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+            "type": "artist", 
+            "id": "2ye2Wgw4gimLv2eAKyk1NB"
+          }
+        ], 
+        "duration_ms": 444666, 
+        "track_number": 21, 
+        "type": "track", 
+        "id": "6oFkYgA97CaQOBOeDwG1DT"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/7HcHPb1P9mubh0vyDdawAv/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 21, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/7HcHPb1P9mubh0vyDdawAv", 
+  "copyrights": [
+    {
+      "text": "1999 Blackened Recordings", 
+      "type": "C"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Metallica", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+      }, 
+      "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+      "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB", 
+      "type": "artist", 
+      "id": "2ye2Wgw4gimLv2eAKyk1NB"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/a4353db27a40a32c0ea022ba8601e2a013d3fb84", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/86e6ad42510e64f3758cd4077bb2955514241865", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/e0df187a5559076f65188cee7bc0b47eef2025d0", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "075596246361"
+  }, 
+  "type": "album", 
+  "id": "7HcHPb1P9mubh0vyDdawAv", 
+  "name": "S&M"
+}

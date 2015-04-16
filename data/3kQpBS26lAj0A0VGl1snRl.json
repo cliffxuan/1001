@@ -1,0 +1,483 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl"
+  }, 
+  "release_date": "1959", 
+  "popularity": 57, 
+  "genres": [], 
+  "uri": "spotify:album:3kQpBS26lAj0A0VGl1snRl", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Big Iron", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0AQquaENerGps8BQmbPw14"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2a36412bda20f1d610acb384c6f571fce2d031fa", 
+        "is_playable": true, 
+        "uri": "spotify:track:0AQquaENerGps8BQmbPw14", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0AQquaENerGps8BQmbPw14", 
+        "artists": [
+          {
+            "name": "Marty Robbins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+            }, 
+            "uri": "spotify:artist:0Xi59sEw38vRvwleSAVqoo", 
+            "href": "https://api.spotify.com/v1/artists/0Xi59sEw38vRvwleSAVqoo", 
+            "type": "artist", 
+            "id": "0Xi59sEw38vRvwleSAVqoo"
+          }
+        ], 
+        "duration_ms": 235733, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "0AQquaENerGps8BQmbPw14"
+      }, 
+      {
+        "name": "A Hundred And Sixty Acres", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/66RbVtQkNBFb7BcebSkeAT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c9afa7a3a515930a5256dcfd8838d1d24a26bdc4", 
+        "is_playable": true, 
+        "uri": "spotify:track:66RbVtQkNBFb7BcebSkeAT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/66RbVtQkNBFb7BcebSkeAT", 
+        "artists": [
+          {
+            "name": "Marty Robbins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+            }, 
+            "uri": "spotify:artist:0Xi59sEw38vRvwleSAVqoo", 
+            "href": "https://api.spotify.com/v1/artists/0Xi59sEw38vRvwleSAVqoo", 
+            "type": "artist", 
+            "id": "0Xi59sEw38vRvwleSAVqoo"
+          }
+        ], 
+        "duration_ms": 100360, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "66RbVtQkNBFb7BcebSkeAT"
+      }, 
+      {
+        "name": "They're Hanging Me Tonight", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4G9f3VGp9wjE49JUfg3XtO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/444de9c0b9d6eafe2e736846845b1d5b89172776", 
+        "is_playable": true, 
+        "uri": "spotify:track:4G9f3VGp9wjE49JUfg3XtO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4G9f3VGp9wjE49JUfg3XtO", 
+        "artists": [
+          {
+            "name": "Marty Robbins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+            }, 
+            "uri": "spotify:artist:0Xi59sEw38vRvwleSAVqoo", 
+            "href": "https://api.spotify.com/v1/artists/0Xi59sEw38vRvwleSAVqoo", 
+            "type": "artist", 
+            "id": "0Xi59sEw38vRvwleSAVqoo"
+          }
+        ], 
+        "duration_ms": 184706, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "4G9f3VGp9wjE49JUfg3XtO"
+      }, 
+      {
+        "name": "Cool Water", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1C0kmtVhqjfm1U9mXpvyNe"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fa8bfb3aa563adf69066b53b536edda49266cf12", 
+        "is_playable": true, 
+        "uri": "spotify:track:1C0kmtVhqjfm1U9mXpvyNe", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1C0kmtVhqjfm1U9mXpvyNe", 
+        "artists": [
+          {
+            "name": "Marty Robbins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+            }, 
+            "uri": "spotify:artist:0Xi59sEw38vRvwleSAVqoo", 
+            "href": "https://api.spotify.com/v1/artists/0Xi59sEw38vRvwleSAVqoo", 
+            "type": "artist", 
+            "id": "0Xi59sEw38vRvwleSAVqoo"
+          }
+        ], 
+        "duration_ms": 189093, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "1C0kmtVhqjfm1U9mXpvyNe"
+      }, 
+      {
+        "name": "Billy The Kid", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7tnoflnylUKY7P7WKGj4n2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/76d1b54fa4b2e329c578ba9450d1376a80459edb", 
+        "is_playable": true, 
+        "uri": "spotify:track:7tnoflnylUKY7P7WKGj4n2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7tnoflnylUKY7P7WKGj4n2", 
+        "artists": [
+          {
+            "name": "Marty Robbins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+            }, 
+            "uri": "spotify:artist:0Xi59sEw38vRvwleSAVqoo", 
+            "href": "https://api.spotify.com/v1/artists/0Xi59sEw38vRvwleSAVqoo", 
+            "type": "artist", 
+            "id": "0Xi59sEw38vRvwleSAVqoo"
+          }
+        ], 
+        "duration_ms": 139066, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "7tnoflnylUKY7P7WKGj4n2"
+      }, 
+      {
+        "name": "Utah Carol", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3xW8tODLhF9AOfWdi7i7Rg"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c97db30766273d425ffa84faaad5dc6a43d5d62f", 
+        "is_playable": true, 
+        "uri": "spotify:track:3xW8tODLhF9AOfWdi7i7Rg", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3xW8tODLhF9AOfWdi7i7Rg", 
+        "artists": [
+          {
+            "name": "Marty Robbins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+            }, 
+            "uri": "spotify:artist:0Xi59sEw38vRvwleSAVqoo", 
+            "href": "https://api.spotify.com/v1/artists/0Xi59sEw38vRvwleSAVqoo", 
+            "type": "artist", 
+            "id": "0Xi59sEw38vRvwleSAVqoo"
+          }
+        ], 
+        "duration_ms": 193400, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "3xW8tODLhF9AOfWdi7i7Rg"
+      }, 
+      {
+        "name": "The Strawberry Roan", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7BvaaY9U5h6UdHgrK3GyPh"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a701127a961cd807e1bed84a03ccf1b3c08947a3", 
+        "is_playable": true, 
+        "uri": "spotify:track:7BvaaY9U5h6UdHgrK3GyPh", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7BvaaY9U5h6UdHgrK3GyPh", 
+        "artists": [
+          {
+            "name": "Marty Robbins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+            }, 
+            "uri": "spotify:artist:0Xi59sEw38vRvwleSAVqoo", 
+            "href": "https://api.spotify.com/v1/artists/0Xi59sEw38vRvwleSAVqoo", 
+            "type": "artist", 
+            "id": "0Xi59sEw38vRvwleSAVqoo"
+          }
+        ], 
+        "duration_ms": 203933, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "7BvaaY9U5h6UdHgrK3GyPh"
+      }, 
+      {
+        "name": "The Master's Call", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/62rmfpQuieSgCITPX819sR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/feb75b9258169e418c2cb5380351922430d29751", 
+        "is_playable": true, 
+        "uri": "spotify:track:62rmfpQuieSgCITPX819sR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/62rmfpQuieSgCITPX819sR", 
+        "artists": [
+          {
+            "name": "Marty Robbins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+            }, 
+            "uri": "spotify:artist:0Xi59sEw38vRvwleSAVqoo", 
+            "href": "https://api.spotify.com/v1/artists/0Xi59sEw38vRvwleSAVqoo", 
+            "type": "artist", 
+            "id": "0Xi59sEw38vRvwleSAVqoo"
+          }
+        ], 
+        "duration_ms": 185466, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "62rmfpQuieSgCITPX819sR"
+      }, 
+      {
+        "name": "Running Gun", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1DvLnmJqQYtWD29uB6S8z3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ab2a3e7a858bc5f65fc4e2d8371abf52f97db29e", 
+        "is_playable": true, 
+        "uri": "spotify:track:1DvLnmJqQYtWD29uB6S8z3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1DvLnmJqQYtWD29uB6S8z3", 
+        "artists": [
+          {
+            "name": "Marty Robbins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+            }, 
+            "uri": "spotify:artist:0Xi59sEw38vRvwleSAVqoo", 
+            "href": "https://api.spotify.com/v1/artists/0Xi59sEw38vRvwleSAVqoo", 
+            "type": "artist", 
+            "id": "0Xi59sEw38vRvwleSAVqoo"
+          }
+        ], 
+        "duration_ms": 130293, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "1DvLnmJqQYtWD29uB6S8z3"
+      }, 
+      {
+        "name": "El Paso", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4f8hBeMXMvssn6HtFAtblo"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/628b8ac21130da787ebd4506f930edc2e2d8ef96", 
+        "is_playable": true, 
+        "uri": "spotify:track:4f8hBeMXMvssn6HtFAtblo", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4f8hBeMXMvssn6HtFAtblo", 
+        "artists": [
+          {
+            "name": "Marty Robbins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+            }, 
+            "uri": "spotify:artist:0Xi59sEw38vRvwleSAVqoo", 
+            "href": "https://api.spotify.com/v1/artists/0Xi59sEw38vRvwleSAVqoo", 
+            "type": "artist", 
+            "id": "0Xi59sEw38vRvwleSAVqoo"
+          }
+        ], 
+        "duration_ms": 259306, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "4f8hBeMXMvssn6HtFAtblo"
+      }, 
+      {
+        "name": "In The Valley", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2HuYj0YVL65hDEQe2cKwgg"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2831409896c1932743d7d2aa92dd43157e2519bc", 
+        "is_playable": true, 
+        "uri": "spotify:track:2HuYj0YVL65hDEQe2cKwgg", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2HuYj0YVL65hDEQe2cKwgg", 
+        "artists": [
+          {
+            "name": "Marty Robbins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+            }, 
+            "uri": "spotify:artist:0Xi59sEw38vRvwleSAVqoo", 
+            "href": "https://api.spotify.com/v1/artists/0Xi59sEw38vRvwleSAVqoo", 
+            "type": "artist", 
+            "id": "0Xi59sEw38vRvwleSAVqoo"
+          }
+        ], 
+        "duration_ms": 108466, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "2HuYj0YVL65hDEQe2cKwgg"
+      }, 
+      {
+        "name": "The Little Green Valley", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1lAh2EfGm0VOPeaws5sqB8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/08863ff5df53aa04902b6844c2320b422d2aaf0f", 
+        "is_playable": true, 
+        "uri": "spotify:track:1lAh2EfGm0VOPeaws5sqB8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1lAh2EfGm0VOPeaws5sqB8", 
+        "artists": [
+          {
+            "name": "Marty Robbins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+            }, 
+            "uri": "spotify:artist:0Xi59sEw38vRvwleSAVqoo", 
+            "href": "https://api.spotify.com/v1/artists/0Xi59sEw38vRvwleSAVqoo", 
+            "type": "artist", 
+            "id": "0Xi59sEw38vRvwleSAVqoo"
+          }
+        ], 
+        "duration_ms": 146106, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "1lAh2EfGm0VOPeaws5sqB8"
+      }, 
+      {
+        "name": "The Hanging Tree", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4iJr2NWIV27oktDKhXB6fC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/45323e0893b24ce0136ab18bcb62aca9acbc04db", 
+        "is_playable": true, 
+        "uri": "spotify:track:4iJr2NWIV27oktDKhXB6fC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4iJr2NWIV27oktDKhXB6fC", 
+        "artists": [
+          {
+            "name": "Marty Robbins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+            }, 
+            "uri": "spotify:artist:0Xi59sEw38vRvwleSAVqoo", 
+            "href": "https://api.spotify.com/v1/artists/0Xi59sEw38vRvwleSAVqoo", 
+            "type": "artist", 
+            "id": "0Xi59sEw38vRvwleSAVqoo"
+          }
+        ], 
+        "duration_ms": 170400, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "4iJr2NWIV27oktDKhXB6fC"
+      }, 
+      {
+        "name": "Saddle Tramp", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/68FTJoO8edSpzuYb6lGW6P"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/23642165da1ba9c4dac17b21bce1636a3754a17e", 
+        "is_playable": true, 
+        "uri": "spotify:track:68FTJoO8edSpzuYb6lGW6P", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/68FTJoO8edSpzuYb6lGW6P", 
+        "artists": [
+          {
+            "name": "Marty Robbins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+            }, 
+            "uri": "spotify:artist:0Xi59sEw38vRvwleSAVqoo", 
+            "href": "https://api.spotify.com/v1/artists/0Xi59sEw38vRvwleSAVqoo", 
+            "type": "artist", 
+            "id": "0Xi59sEw38vRvwleSAVqoo"
+          }
+        ], 
+        "duration_ms": 123373, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "68FTJoO8edSpzuYb6lGW6P"
+      }, 
+      {
+        "name": "El Paso", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5ESnx7UWLIGmu4sUfR5hGi"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/eee46f67466ca68f8bf83d8512e547839265a7d9", 
+        "is_playable": true, 
+        "uri": "spotify:track:5ESnx7UWLIGmu4sUfR5hGi", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5ESnx7UWLIGmu4sUfR5hGi", 
+        "artists": [
+          {
+            "name": "Marty Robbins", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+            }, 
+            "uri": "spotify:artist:0Xi59sEw38vRvwleSAVqoo", 
+            "href": "https://api.spotify.com/v1/artists/0Xi59sEw38vRvwleSAVqoo", 
+            "type": "artist", 
+            "id": "0Xi59sEw38vRvwleSAVqoo"
+          }
+        ], 
+        "duration_ms": 278133, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "5ESnx7UWLIGmu4sUfR5hGi"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/3kQpBS26lAj0A0VGl1snRl/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 15, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/3kQpBS26lAj0A0VGl1snRl", 
+  "copyrights": [
+    {
+      "text": "Originally Released 1958, 1959, 1960, (P) 1999 SONY BMG MUSIC ENTERTAINMENT", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Marty Robbins", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+      }, 
+      "uri": "spotify:artist:0Xi59sEw38vRvwleSAVqoo", 
+      "href": "https://api.spotify.com/v1/artists/0Xi59sEw38vRvwleSAVqoo", 
+      "type": "artist", 
+      "id": "0Xi59sEw38vRvwleSAVqoo"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/3d633aaf6ac8e62f6b77a40e62403609d660e724", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/c93e448becc81045daeb87c32bf78a0395306610", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/cf2df1240071c9f83c0285099e293639342c44cd", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "074646599624"
+  }, 
+  "type": "album", 
+  "id": "3kQpBS26lAj0A0VGl1snRl", 
+  "name": "Gunfighter Ballads And Trail Songs"
+}

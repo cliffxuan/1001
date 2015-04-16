@@ -1,0 +1,427 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+  }, 
+  "release_date": "1963-05-27", 
+  "popularity": 63, 
+  "genres": [], 
+  "uri": "spotify:album:0o1uFxZ1VTviqvNaYkTJek", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Blowin' in the Wind", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4ead3cf746b9b814febe1a4e5a7cb8240312b6f6", 
+        "is_playable": true, 
+        "uri": "spotify:track:18GiV1BaXzPVYpp9rmOg0E", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/18GiV1BaXzPVYpp9rmOg0E", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 165426, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "18GiV1BaXzPVYpp9rmOg0E"
+      }, 
+      {
+        "name": "Girl from the North Country", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/739sLmfUkVFoyPtb0C3263"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/42ad1538941a94d33c9b80383b6890a5ece95bfb", 
+        "is_playable": true, 
+        "uri": "spotify:track:739sLmfUkVFoyPtb0C3263", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/739sLmfUkVFoyPtb0C3263", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 199573, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "739sLmfUkVFoyPtb0C3263"
+      }, 
+      {
+        "name": "Masters of War", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7xVpkVkd1klTzLJEysIR7z"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/02ddce1cac63f91299ebe17c843ab874e4ee68f6", 
+        "is_playable": true, 
+        "uri": "spotify:track:7xVpkVkd1klTzLJEysIR7z", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7xVpkVkd1klTzLJEysIR7z", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 271360, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "7xVpkVkd1klTzLJEysIR7z"
+      }, 
+      {
+        "name": "Down the Highway", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7fzLfsWsXVvStzsk9yRfbG"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b05ab9293c660184aff046806cb4101876099eae", 
+        "is_playable": true, 
+        "uri": "spotify:track:7fzLfsWsXVvStzsk9yRfbG", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7fzLfsWsXVvStzsk9yRfbG", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 204506, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "7fzLfsWsXVvStzsk9yRfbG"
+      }, 
+      {
+        "name": "Bob Dylan's Blues", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1xa66kvw6zwboiW7c8W9t8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2dd77a62af38c7b229a46c064b0f7e30ecec803c", 
+        "is_playable": true, 
+        "uri": "spotify:track:1xa66kvw6zwboiW7c8W9t8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1xa66kvw6zwboiW7c8W9t8", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 140266, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "1xa66kvw6zwboiW7c8W9t8"
+      }, 
+      {
+        "name": "A Hard Rain's A-Gonna Fall", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7ny2ATvjtKszCpLpfsGnVQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/14d41b5b4b6d417913f85711ca67f43c7793391e", 
+        "is_playable": true, 
+        "uri": "spotify:track:7ny2ATvjtKszCpLpfsGnVQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7ny2ATvjtKszCpLpfsGnVQ", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 412200, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "7ny2ATvjtKszCpLpfsGnVQ"
+      }, 
+      {
+        "name": "Don't Think Twice, It's All Right", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2WOjLF83vqjit2Zh4B69V3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f37a4f615e3489f8ca77bba227a17ad27e13604a", 
+        "is_playable": true, 
+        "uri": "spotify:track:2WOjLF83vqjit2Zh4B69V3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2WOjLF83vqjit2Zh4B69V3", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 217400, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "2WOjLF83vqjit2Zh4B69V3"
+      }, 
+      {
+        "name": "Bob Dylan's Dream", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4MNxOR2Fu4NqJ892UdYx0h"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b2c310cefe360807048689cc5feb3709e402bbfc", 
+        "is_playable": true, 
+        "uri": "spotify:track:4MNxOR2Fu4NqJ892UdYx0h", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4MNxOR2Fu4NqJ892UdYx0h", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 300106, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "4MNxOR2Fu4NqJ892UdYx0h"
+      }, 
+      {
+        "name": "Oxford Town", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7Ay1lHxhuM33NoXKsS0iom"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/87b38492e410fadb5e1b914082d6e1ee6e561fde", 
+        "is_playable": true, 
+        "uri": "spotify:track:7Ay1lHxhuM33NoXKsS0iom", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7Ay1lHxhuM33NoXKsS0iom", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 107226, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "7Ay1lHxhuM33NoXKsS0iom"
+      }, 
+      {
+        "name": "Talkin' World War III Blues", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0ePDsEDDIPZNpbwRUEXKoX"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/76b0c59d4bf6a0b3f4e96a1019757adb2f20ac8b", 
+        "is_playable": true, 
+        "uri": "spotify:track:0ePDsEDDIPZNpbwRUEXKoX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0ePDsEDDIPZNpbwRUEXKoX", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 385266, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "0ePDsEDDIPZNpbwRUEXKoX"
+      }, 
+      {
+        "name": "Corrina, Corrina", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1L4RtuEiAiwdX5taX4meLI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/373757c44c142336daef99e9fbb1b64c2260d7af", 
+        "is_playable": true, 
+        "uri": "spotify:track:1L4RtuEiAiwdX5taX4meLI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1L4RtuEiAiwdX5taX4meLI", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 161466, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "1L4RtuEiAiwdX5taX4meLI"
+      }, 
+      {
+        "name": "Honey, Just Allow Me One More Chance", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/71XTdtW3bvmIrotG8yYVMS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7c9d0ae08082f0e4b24137af4652168eee8ebcf8", 
+        "is_playable": true, 
+        "uri": "spotify:track:71XTdtW3bvmIrotG8yYVMS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/71XTdtW3bvmIrotG8yYVMS", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 118160, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "71XTdtW3bvmIrotG8yYVMS"
+      }, 
+      {
+        "name": "I Shall Be Free", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0D7qLnnev1iKpH5RNT7YsD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/533fdeacb851386b7789cfeffe42fb720353a021", 
+        "is_playable": true, 
+        "uri": "spotify:track:0D7qLnnev1iKpH5RNT7YsD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0D7qLnnev1iKpH5RNT7YsD", 
+        "artists": [
+          {
+            "name": "Bob Dylan", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+            }, 
+            "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+            "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+            "type": "artist", 
+            "id": "74ASZWbe4lXaubB36ztrGX"
+          }
+        ], 
+        "duration_ms": 288000, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "0D7qLnnev1iKpH5RNT7YsD"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/0o1uFxZ1VTviqvNaYkTJek/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 13, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/0o1uFxZ1VTviqvNaYkTJek", 
+  "copyrights": [
+    {
+      "text": "Originally Released 1963 Sony Music Entertainment Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Bob Dylan", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+      }, 
+      "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX", 
+      "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX", 
+      "type": "artist", 
+      "id": "74ASZWbe4lXaubB36ztrGX"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ddde54f8e79714523603388c3f76d136539bdb56", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/48950e52d435e6993a3b2e3dbcaecd825e4a595b", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/6cc031899ed09ec6887ff9ff6676451f9d257e8c", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "074640878626"
+  }, 
+  "type": "album", 
+  "id": "0o1uFxZ1VTviqvNaYkTJek", 
+  "name": "The Freewheelin' Bob Dylan"
+}

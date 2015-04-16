@@ -1,0 +1,347 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2TSFFHkzdUwNzsf8DKemzS"
+  }, 
+  "release_date": "1999", 
+  "popularity": 59, 
+  "genres": [], 
+  "uri": "spotify:album:2TSFFHkzdUwNzsf8DKemzS", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Writing To Reach You", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2GQOZlRSvUI1lGnEhvJNon"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2c0f1a07ae865c328b1e4b89ee09298736b6ec35", 
+        "is_playable": true, 
+        "uri": "spotify:track:2GQOZlRSvUI1lGnEhvJNon", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2GQOZlRSvUI1lGnEhvJNon", 
+        "artists": [
+          {
+            "name": "Travis", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+            }, 
+            "uri": "spotify:artist:3bUwxJgNakzYKkqAVgZLlh", 
+            "href": "https://api.spotify.com/v1/artists/3bUwxJgNakzYKkqAVgZLlh", 
+            "type": "artist", 
+            "id": "3bUwxJgNakzYKkqAVgZLlh"
+          }
+        ], 
+        "duration_ms": 221760, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "2GQOZlRSvUI1lGnEhvJNon"
+      }, 
+      {
+        "name": "The Fear", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3w74MWDVX1JAP4GAMTLNBQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b166333374886d6152c54e490958c078eb840b21", 
+        "is_playable": true, 
+        "uri": "spotify:track:3w74MWDVX1JAP4GAMTLNBQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3w74MWDVX1JAP4GAMTLNBQ", 
+        "artists": [
+          {
+            "name": "Travis", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+            }, 
+            "uri": "spotify:artist:3bUwxJgNakzYKkqAVgZLlh", 
+            "href": "https://api.spotify.com/v1/artists/3bUwxJgNakzYKkqAVgZLlh", 
+            "type": "artist", 
+            "id": "3bUwxJgNakzYKkqAVgZLlh"
+          }
+        ], 
+        "duration_ms": 252573, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "3w74MWDVX1JAP4GAMTLNBQ"
+      }, 
+      {
+        "name": "As You Are", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5XoiuyvxSWKTKvecr5vQid"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8ab090687ff98e7b617be4bbc8adf4ab77a2b591", 
+        "is_playable": true, 
+        "uri": "spotify:track:5XoiuyvxSWKTKvecr5vQid", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5XoiuyvxSWKTKvecr5vQid", 
+        "artists": [
+          {
+            "name": "Travis", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+            }, 
+            "uri": "spotify:artist:3bUwxJgNakzYKkqAVgZLlh", 
+            "href": "https://api.spotify.com/v1/artists/3bUwxJgNakzYKkqAVgZLlh", 
+            "type": "artist", 
+            "id": "3bUwxJgNakzYKkqAVgZLlh"
+          }
+        ], 
+        "duration_ms": 254266, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "5XoiuyvxSWKTKvecr5vQid"
+      }, 
+      {
+        "name": "Driftwood", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/18ADNI1zYXdedfooug68SQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e14fc576c24511314db373e7195fc7483dc2836a", 
+        "is_playable": true, 
+        "uri": "spotify:track:18ADNI1zYXdedfooug68SQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/18ADNI1zYXdedfooug68SQ", 
+        "artists": [
+          {
+            "name": "Travis", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+            }, 
+            "uri": "spotify:artist:3bUwxJgNakzYKkqAVgZLlh", 
+            "href": "https://api.spotify.com/v1/artists/3bUwxJgNakzYKkqAVgZLlh", 
+            "type": "artist", 
+            "id": "3bUwxJgNakzYKkqAVgZLlh"
+          }
+        ], 
+        "duration_ms": 213666, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "18ADNI1zYXdedfooug68SQ"
+      }, 
+      {
+        "name": "The Last Of The Laughter", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6ia0uypRLRe4HHghR268Df"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3c3a87fbc1756a7e21f2b220d9af7a7338b7f2df", 
+        "is_playable": true, 
+        "uri": "spotify:track:6ia0uypRLRe4HHghR268Df", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6ia0uypRLRe4HHghR268Df", 
+        "artists": [
+          {
+            "name": "Travis", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+            }, 
+            "uri": "spotify:artist:3bUwxJgNakzYKkqAVgZLlh", 
+            "href": "https://api.spotify.com/v1/artists/3bUwxJgNakzYKkqAVgZLlh", 
+            "type": "artist", 
+            "id": "3bUwxJgNakzYKkqAVgZLlh"
+          }
+        ], 
+        "duration_ms": 260266, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "6ia0uypRLRe4HHghR268Df"
+      }, 
+      {
+        "name": "Turn", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5nD2mv1u55UT1srz1Zr874"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b91c568e3ca3cf3368e246d21f4dcc4d3de3d765", 
+        "is_playable": true, 
+        "uri": "spotify:track:5nD2mv1u55UT1srz1Zr874", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5nD2mv1u55UT1srz1Zr874", 
+        "artists": [
+          {
+            "name": "Travis", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+            }, 
+            "uri": "spotify:artist:3bUwxJgNakzYKkqAVgZLlh", 
+            "href": "https://api.spotify.com/v1/artists/3bUwxJgNakzYKkqAVgZLlh", 
+            "type": "artist", 
+            "id": "3bUwxJgNakzYKkqAVgZLlh"
+          }
+        ], 
+        "duration_ms": 264226, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "5nD2mv1u55UT1srz1Zr874"
+      }, 
+      {
+        "name": "Why Does It Always Rain On Me?", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6JXD70ZqUhx02AteE50CIS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/05e98a4d7f1120b09e0a23ffe1893e003b02a410", 
+        "is_playable": true, 
+        "uri": "spotify:track:6JXD70ZqUhx02AteE50CIS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6JXD70ZqUhx02AteE50CIS", 
+        "artists": [
+          {
+            "name": "Travis", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+            }, 
+            "uri": "spotify:artist:3bUwxJgNakzYKkqAVgZLlh", 
+            "href": "https://api.spotify.com/v1/artists/3bUwxJgNakzYKkqAVgZLlh", 
+            "type": "artist", 
+            "id": "3bUwxJgNakzYKkqAVgZLlh"
+          }
+        ], 
+        "duration_ms": 265000, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "6JXD70ZqUhx02AteE50CIS"
+      }, 
+      {
+        "name": "Luv", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2px3Ckm3f9vQOcTA2lJzs6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/401aba48191efa6057f53f641d3f9493344e177f", 
+        "is_playable": true, 
+        "uri": "spotify:track:2px3Ckm3f9vQOcTA2lJzs6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2px3Ckm3f9vQOcTA2lJzs6", 
+        "artists": [
+          {
+            "name": "Travis", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+            }, 
+            "uri": "spotify:artist:3bUwxJgNakzYKkqAVgZLlh", 
+            "href": "https://api.spotify.com/v1/artists/3bUwxJgNakzYKkqAVgZLlh", 
+            "type": "artist", 
+            "id": "3bUwxJgNakzYKkqAVgZLlh"
+          }
+        ], 
+        "duration_ms": 295240, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "2px3Ckm3f9vQOcTA2lJzs6"
+      }, 
+      {
+        "name": "She's So Strange", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0PpedMS9DpiYaliXzC4JDB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/51890d8c75dd0062a911e3729314166c441f1595", 
+        "is_playable": true, 
+        "uri": "spotify:track:0PpedMS9DpiYaliXzC4JDB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0PpedMS9DpiYaliXzC4JDB", 
+        "artists": [
+          {
+            "name": "Travis", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+            }, 
+            "uri": "spotify:artist:3bUwxJgNakzYKkqAVgZLlh", 
+            "href": "https://api.spotify.com/v1/artists/3bUwxJgNakzYKkqAVgZLlh", 
+            "type": "artist", 
+            "id": "3bUwxJgNakzYKkqAVgZLlh"
+          }
+        ], 
+        "duration_ms": 195466, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "0PpedMS9DpiYaliXzC4JDB"
+      }, 
+      {
+        "name": "Slide Show", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0N0xHJrWb96N3IpxxqIOZW"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fb9f1e70d7ef7aa1e66a9565cdbdacac96e442f8", 
+        "is_playable": true, 
+        "uri": "spotify:track:0N0xHJrWb96N3IpxxqIOZW", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0N0xHJrWb96N3IpxxqIOZW", 
+        "artists": [
+          {
+            "name": "Travis", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+            }, 
+            "uri": "spotify:artist:3bUwxJgNakzYKkqAVgZLlh", 
+            "href": "https://api.spotify.com/v1/artists/3bUwxJgNakzYKkqAVgZLlh", 
+            "type": "artist", 
+            "id": "3bUwxJgNakzYKkqAVgZLlh"
+          }
+        ], 
+        "duration_ms": 631026, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "0N0xHJrWb96N3IpxxqIOZW"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/2TSFFHkzdUwNzsf8DKemzS/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 10, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/2TSFFHkzdUwNzsf8DKemzS", 
+  "copyrights": [
+    {
+      "text": "1999 Independiente Ltd.", 
+      "type": "C"
+    }, 
+    {
+      "text": "1999 Independiente Ltd.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Travis", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+      }, 
+      "uri": "spotify:artist:3bUwxJgNakzYKkqAVgZLlh", 
+      "href": "https://api.spotify.com/v1/artists/3bUwxJgNakzYKkqAVgZLlh", 
+      "type": "artist", 
+      "id": "3bUwxJgNakzYKkqAVgZLlh"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ec1e1f1d1536a6ce4f7b9194a7e790afb7f59622", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/f5adf2280f55ff35c9688d8c687d7c7a0a68fd24", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/4d0b8fa763ade6122806136d9296acaecc9d8785", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "5051083065344"
+  }, 
+  "type": "album", 
+  "id": "2TSFFHkzdUwNzsf8DKemzS", 
+  "name": "The Man Who"
+}

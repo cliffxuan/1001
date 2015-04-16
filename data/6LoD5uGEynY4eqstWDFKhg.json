@@ -1,0 +1,375 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6LoD5uGEynY4eqstWDFKhg"
+  }, 
+  "release_date": "1972-01-01", 
+  "popularity": 65, 
+  "genres": [], 
+  "uri": "spotify:album:6LoD5uGEynY4eqstWDFKhg", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Pink Moon", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1CbPLR6Xjo2nc0Pf13N0RS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bdfd7fbe9143e1e98b476dc9fb3067fb7da2b134", 
+        "is_playable": true, 
+        "uri": "spotify:track:1CbPLR6Xjo2nc0Pf13N0RS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1CbPLR6Xjo2nc0Pf13N0RS", 
+        "artists": [
+          {
+            "name": "Nick Drake", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+            }, 
+            "uri": "spotify:artist:5c3GLXai8YOMid29ZEuR9y", 
+            "href": "https://api.spotify.com/v1/artists/5c3GLXai8YOMid29ZEuR9y", 
+            "type": "artist", 
+            "id": "5c3GLXai8YOMid29ZEuR9y"
+          }
+        ], 
+        "duration_ms": 123173, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "1CbPLR6Xjo2nc0Pf13N0RS"
+      }, 
+      {
+        "name": "Place To Be", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/277Q2UaF8FeL7WNWQgzdlk"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/eee633c97c776782162e7ffdfeff5a1f34c43b3e", 
+        "is_playable": true, 
+        "uri": "spotify:track:277Q2UaF8FeL7WNWQgzdlk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/277Q2UaF8FeL7WNWQgzdlk", 
+        "artists": [
+          {
+            "name": "Nick Drake", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+            }, 
+            "uri": "spotify:artist:5c3GLXai8YOMid29ZEuR9y", 
+            "href": "https://api.spotify.com/v1/artists/5c3GLXai8YOMid29ZEuR9y", 
+            "type": "artist", 
+            "id": "5c3GLXai8YOMid29ZEuR9y"
+          }
+        ], 
+        "duration_ms": 161186, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "277Q2UaF8FeL7WNWQgzdlk"
+      }, 
+      {
+        "name": "Road", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5USDPjFjBLfYF2G8UCbRpp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1dd82e2ac4bd21e5ede3764f22569f355755db6b", 
+        "is_playable": true, 
+        "uri": "spotify:track:5USDPjFjBLfYF2G8UCbRpp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5USDPjFjBLfYF2G8UCbRpp", 
+        "artists": [
+          {
+            "name": "Nick Drake", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+            }, 
+            "uri": "spotify:artist:5c3GLXai8YOMid29ZEuR9y", 
+            "href": "https://api.spotify.com/v1/artists/5c3GLXai8YOMid29ZEuR9y", 
+            "type": "artist", 
+            "id": "5c3GLXai8YOMid29ZEuR9y"
+          }
+        ], 
+        "duration_ms": 119680, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "5USDPjFjBLfYF2G8UCbRpp"
+      }, 
+      {
+        "name": "Which Will", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4OQg4N07cIEI5OJ3L4hiA6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e4eabef16c3ff111339b807a09ea965c7ce2833e", 
+        "is_playable": true, 
+        "uri": "spotify:track:4OQg4N07cIEI5OJ3L4hiA6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4OQg4N07cIEI5OJ3L4hiA6", 
+        "artists": [
+          {
+            "name": "Nick Drake", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+            }, 
+            "uri": "spotify:artist:5c3GLXai8YOMid29ZEuR9y", 
+            "href": "https://api.spotify.com/v1/artists/5c3GLXai8YOMid29ZEuR9y", 
+            "type": "artist", 
+            "id": "5c3GLXai8YOMid29ZEuR9y"
+          }
+        ], 
+        "duration_ms": 176280, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "4OQg4N07cIEI5OJ3L4hiA6"
+      }, 
+      {
+        "name": "Horn", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0YVvn2G75qW2wvtFaSHgx3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7cca8a44d0a445947d8333b827c6ffedf0383438", 
+        "is_playable": true, 
+        "uri": "spotify:track:0YVvn2G75qW2wvtFaSHgx3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0YVvn2G75qW2wvtFaSHgx3", 
+        "artists": [
+          {
+            "name": "Nick Drake", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+            }, 
+            "uri": "spotify:artist:5c3GLXai8YOMid29ZEuR9y", 
+            "href": "https://api.spotify.com/v1/artists/5c3GLXai8YOMid29ZEuR9y", 
+            "type": "artist", 
+            "id": "5c3GLXai8YOMid29ZEuR9y"
+          }
+        ], 
+        "duration_ms": 80800, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "0YVvn2G75qW2wvtFaSHgx3"
+      }, 
+      {
+        "name": "Things Behind The Sun", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7bIpR4tyHFgGLkue8fPLjL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e6bf1cb9c62cddae6c5e4514f16accfcdd9d7c61", 
+        "is_playable": true, 
+        "uri": "spotify:track:7bIpR4tyHFgGLkue8fPLjL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7bIpR4tyHFgGLkue8fPLjL", 
+        "artists": [
+          {
+            "name": "Nick Drake", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+            }, 
+            "uri": "spotify:artist:5c3GLXai8YOMid29ZEuR9y", 
+            "href": "https://api.spotify.com/v1/artists/5c3GLXai8YOMid29ZEuR9y", 
+            "type": "artist", 
+            "id": "5c3GLXai8YOMid29ZEuR9y"
+          }
+        ], 
+        "duration_ms": 234320, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "7bIpR4tyHFgGLkue8fPLjL"
+      }, 
+      {
+        "name": "Know", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1oqbUOYw2KuxuUUHdcwMbS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/37fcf21e2b1eb887211d6e4c1ae4764ded41fa2c", 
+        "is_playable": true, 
+        "uri": "spotify:track:1oqbUOYw2KuxuUUHdcwMbS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1oqbUOYw2KuxuUUHdcwMbS", 
+        "artists": [
+          {
+            "name": "Nick Drake", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+            }, 
+            "uri": "spotify:artist:5c3GLXai8YOMid29ZEuR9y", 
+            "href": "https://api.spotify.com/v1/artists/5c3GLXai8YOMid29ZEuR9y", 
+            "type": "artist", 
+            "id": "5c3GLXai8YOMid29ZEuR9y"
+          }
+        ], 
+        "duration_ms": 143133, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "1oqbUOYw2KuxuUUHdcwMbS"
+      }, 
+      {
+        "name": "Parasite", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5ShWfA8TjcBQkK5Egf6Zj5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f440802653f542e85795ea304afb21dd31462850", 
+        "is_playable": true, 
+        "uri": "spotify:track:5ShWfA8TjcBQkK5Egf6Zj5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5ShWfA8TjcBQkK5Egf6Zj5", 
+        "artists": [
+          {
+            "name": "Nick Drake", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+            }, 
+            "uri": "spotify:artist:5c3GLXai8YOMid29ZEuR9y", 
+            "href": "https://api.spotify.com/v1/artists/5c3GLXai8YOMid29ZEuR9y", 
+            "type": "artist", 
+            "id": "5c3GLXai8YOMid29ZEuR9y"
+          }
+        ], 
+        "duration_ms": 214240, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "5ShWfA8TjcBQkK5Egf6Zj5"
+      }, 
+      {
+        "name": "Free Ride", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0OsiXfbG1wYhJYVutbfPpr"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8430188db57ed323016db1f5285f1732b172516d", 
+        "is_playable": true, 
+        "uri": "spotify:track:0OsiXfbG1wYhJYVutbfPpr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0OsiXfbG1wYhJYVutbfPpr", 
+        "artists": [
+          {
+            "name": "Nick Drake", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+            }, 
+            "uri": "spotify:artist:5c3GLXai8YOMid29ZEuR9y", 
+            "href": "https://api.spotify.com/v1/artists/5c3GLXai8YOMid29ZEuR9y", 
+            "type": "artist", 
+            "id": "5c3GLXai8YOMid29ZEuR9y"
+          }
+        ], 
+        "duration_ms": 183840, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "0OsiXfbG1wYhJYVutbfPpr"
+      }, 
+      {
+        "name": "Harvest Breed", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/68iP7m39ppGoeJXg9C2BLv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1ba2e420566cb022f96711208d377f985e9db184", 
+        "is_playable": true, 
+        "uri": "spotify:track:68iP7m39ppGoeJXg9C2BLv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/68iP7m39ppGoeJXg9C2BLv", 
+        "artists": [
+          {
+            "name": "Nick Drake", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+            }, 
+            "uri": "spotify:artist:5c3GLXai8YOMid29ZEuR9y", 
+            "href": "https://api.spotify.com/v1/artists/5c3GLXai8YOMid29ZEuR9y", 
+            "type": "artist", 
+            "id": "5c3GLXai8YOMid29ZEuR9y"
+          }
+        ], 
+        "duration_ms": 94786, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "68iP7m39ppGoeJXg9C2BLv"
+      }, 
+      {
+        "name": "From The Morning", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7LW5iUY4yb8ky3fK32OB3E"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/307481fcb25014f789c8d64953280c50d60d2c44", 
+        "is_playable": true, 
+        "uri": "spotify:track:7LW5iUY4yb8ky3fK32OB3E", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7LW5iUY4yb8ky3fK32OB3E", 
+        "artists": [
+          {
+            "name": "Nick Drake", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+            }, 
+            "uri": "spotify:artist:5c3GLXai8YOMid29ZEuR9y", 
+            "href": "https://api.spotify.com/v1/artists/5c3GLXai8YOMid29ZEuR9y", 
+            "type": "artist", 
+            "id": "5c3GLXai8YOMid29ZEuR9y"
+          }
+        ], 
+        "duration_ms": 149960, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "7LW5iUY4yb8ky3fK32OB3E"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/6LoD5uGEynY4eqstWDFKhg/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 11, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/6LoD5uGEynY4eqstWDFKhg", 
+  "copyrights": [
+    {
+      "text": "(C) 1972 Island Records Ltd.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1972 Island Records Ltd.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Nick Drake", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+      }, 
+      "uri": "spotify:artist:5c3GLXai8YOMid29ZEuR9y", 
+      "href": "https://api.spotify.com/v1/artists/5c3GLXai8YOMid29ZEuR9y", 
+      "type": "artist", 
+      "id": "5c3GLXai8YOMid29ZEuR9y"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/7eca64a5f6819743522fadcbe2a0020aa63f0391", 
+      "width": 640, 
+      "height": 634
+    }, 
+    {
+      "url": "https://i.scdn.co/image/948223a2ac50b905d3998341d802e1868b34d018", 
+      "width": 300, 
+      "height": 297
+    }, 
+    {
+      "url": "https://i.scdn.co/image/17bddd82c3a136c3097143c6657e78a118ab9779", 
+      "width": 64, 
+      "height": 63
+    }
+  ], 
+  "external_ids": {
+    "upc": "00042284292320"
+  }, 
+  "type": "album", 
+  "id": "6LoD5uGEynY4eqstWDFKhg", 
+  "name": "Pink Moon"
+}

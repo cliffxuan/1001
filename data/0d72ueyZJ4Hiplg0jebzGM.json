@@ -1,0 +1,851 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0d72ueyZJ4Hiplg0jebzGM"
+  }, 
+  "release_date": "1995", 
+  "popularity": 47, 
+  "genres": [], 
+  "uri": "spotify:album:0d72ueyZJ4Hiplg0jebzGM", 
+  "tracks": {
+    "items": [
+      {
+        "name": "A Salty Salute", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7yHOsMqYFpC02fYXEpCWXX"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/06a0a0bcf263361a50e70a33f2b6adb24bf89edd", 
+        "is_playable": true, 
+        "uri": "spotify:track:7yHOsMqYFpC02fYXEpCWXX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7yHOsMqYFpC02fYXEpCWXX", 
+        "artists": [
+          {
+            "name": "Guided By Voices", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl"
+            }, 
+            "uri": "spotify:artist:4oV5EVJ0XFWsJKoOvdRPvl", 
+            "href": "https://api.spotify.com/v1/artists/4oV5EVJ0XFWsJKoOvdRPvl", 
+            "type": "artist", 
+            "id": "4oV5EVJ0XFWsJKoOvdRPvl"
+          }
+        ], 
+        "duration_ms": 89066, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "7yHOsMqYFpC02fYXEpCWXX"
+      }, 
+      {
+        "name": "Evil Speakers", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3kN7N7SWluTAMLbLPkGYAY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/eb812e04e1e048484c68f3eef69f6616a28a31ac", 
+        "is_playable": true, 
+        "uri": "spotify:track:3kN7N7SWluTAMLbLPkGYAY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3kN7N7SWluTAMLbLPkGYAY", 
+        "artists": [
+          {
+            "name": "Guided By Voices", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl"
+            }, 
+            "uri": "spotify:artist:4oV5EVJ0XFWsJKoOvdRPvl", 
+            "href": "https://api.spotify.com/v1/artists/4oV5EVJ0XFWsJKoOvdRPvl", 
+            "type": "artist", 
+            "id": "4oV5EVJ0XFWsJKoOvdRPvl"
+          }
+        ], 
+        "duration_ms": 58506, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "3kN7N7SWluTAMLbLPkGYAY"
+      }, 
+      {
+        "name": "Watch Me Jumpstart", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4rMLNB7NF192P0weYmfRDI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/61413e849de2a6c95f9022bfc3af547758cb2520", 
+        "is_playable": true, 
+        "uri": "spotify:track:4rMLNB7NF192P0weYmfRDI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4rMLNB7NF192P0weYmfRDI", 
+        "artists": [
+          {
+            "name": "Guided By Voices", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl"
+            }, 
+            "uri": "spotify:artist:4oV5EVJ0XFWsJKoOvdRPvl", 
+            "href": "https://api.spotify.com/v1/artists/4oV5EVJ0XFWsJKoOvdRPvl", 
+            "type": "artist", 
+            "id": "4oV5EVJ0XFWsJKoOvdRPvl"
+          }
+        ], 
+        "duration_ms": 144133, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "4rMLNB7NF192P0weYmfRDI"
+      }, 
+      {
+        "name": "They\u2019re Not Witches", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0uhHUKOjMuD11JS3AsC77C"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/33390555ecd4f14a0a76a4530d0ee2143ecda955", 
+        "is_playable": true, 
+        "uri": "spotify:track:0uhHUKOjMuD11JS3AsC77C", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0uhHUKOjMuD11JS3AsC77C", 
+        "artists": [
+          {
+            "name": "Guided By Voices", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl"
+            }, 
+            "uri": "spotify:artist:4oV5EVJ0XFWsJKoOvdRPvl", 
+            "href": "https://api.spotify.com/v1/artists/4oV5EVJ0XFWsJKoOvdRPvl", 
+            "type": "artist", 
+            "id": "4oV5EVJ0XFWsJKoOvdRPvl"
+          }
+        ], 
+        "duration_ms": 51133, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "0uhHUKOjMuD11JS3AsC77C"
+      }, 
+      {
+        "name": "As We Go Up, We Go Down", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3xHxdIVrt6JranUCYdHsWD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/771e8aec5098e30a7b346e49075b4e81b09cd328", 
+        "is_playable": true, 
+        "uri": "spotify:track:3xHxdIVrt6JranUCYdHsWD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3xHxdIVrt6JranUCYdHsWD", 
+        "artists": [
+          {
+            "name": "Guided By Voices", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl"
+            }, 
+            "uri": "spotify:artist:4oV5EVJ0XFWsJKoOvdRPvl", 
+            "href": "https://api.spotify.com/v1/artists/4oV5EVJ0XFWsJKoOvdRPvl", 
+            "type": "artist", 
+            "id": "4oV5EVJ0XFWsJKoOvdRPvl"
+          }
+        ], 
+        "duration_ms": 97226, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "3xHxdIVrt6JranUCYdHsWD"
+      }, 
+      {
+        "name": "(I Wanna Be A) Dumbcharger", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3C7v9wvhBjYbmHYiwr7FUr"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/581c0580cc426eae9871ea556625b20f38316aa9", 
+        "is_playable": true, 
+        "uri": "spotify:track:3C7v9wvhBjYbmHYiwr7FUr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3C7v9wvhBjYbmHYiwr7FUr", 
+        "artists": [
+          {
+            "name": "Guided By Voices", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl"
+            }, 
+            "uri": "spotify:artist:4oV5EVJ0XFWsJKoOvdRPvl", 
+            "href": "https://api.spotify.com/v1/artists/4oV5EVJ0XFWsJKoOvdRPvl", 
+            "type": "artist", 
+            "id": "4oV5EVJ0XFWsJKoOvdRPvl"
+          }
+        ], 
+        "duration_ms": 73533, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "3C7v9wvhBjYbmHYiwr7FUr"
+      }, 
+      {
+        "name": "Game of Pricks", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0IOsyajRwGLKRpbIBEsTdm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8443efacf5daa1c895a058d82402e1aa3f0ef2f6", 
+        "is_playable": true, 
+        "uri": "spotify:track:0IOsyajRwGLKRpbIBEsTdm", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0IOsyajRwGLKRpbIBEsTdm", 
+        "artists": [
+          {
+            "name": "Guided By Voices", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl"
+            }, 
+            "uri": "spotify:artist:4oV5EVJ0XFWsJKoOvdRPvl", 
+            "href": "https://api.spotify.com/v1/artists/4oV5EVJ0XFWsJKoOvdRPvl", 
+            "type": "artist", 
+            "id": "4oV5EVJ0XFWsJKoOvdRPvl"
+          }
+        ], 
+        "duration_ms": 93306, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "0IOsyajRwGLKRpbIBEsTdm"
+      }, 
+      {
+        "name": "The Ugly Vision", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7CWzZFVBPjO1MXqnZnraPK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3c292c133b1a20e27647d8a4382b6c599e05fbe4", 
+        "is_playable": true, 
+        "uri": "spotify:track:7CWzZFVBPjO1MXqnZnraPK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7CWzZFVBPjO1MXqnZnraPK", 
+        "artists": [
+          {
+            "name": "Guided By Voices", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl"
+            }, 
+            "uri": "spotify:artist:4oV5EVJ0XFWsJKoOvdRPvl", 
+            "href": "https://api.spotify.com/v1/artists/4oV5EVJ0XFWsJKoOvdRPvl", 
+            "type": "artist", 
+            "id": "4oV5EVJ0XFWsJKoOvdRPvl"
+          }
+        ], 
+        "duration_ms": 95026, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "7CWzZFVBPjO1MXqnZnraPK"
+      }, 
+      {
+        "name": "A Good Flying Bird", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/74rmnHjsbnoejjFVoE26Sp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/88fb3995c1b3a190979df6c6a6bfcbbaa95165d9", 
+        "is_playable": true, 
+        "uri": "spotify:track:74rmnHjsbnoejjFVoE26Sp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/74rmnHjsbnoejjFVoE26Sp", 
+        "artists": [
+          {
+            "name": "Guided By Voices", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl"
+            }, 
+            "uri": "spotify:artist:4oV5EVJ0XFWsJKoOvdRPvl", 
+            "href": "https://api.spotify.com/v1/artists/4oV5EVJ0XFWsJKoOvdRPvl", 
+            "type": "artist", 
+            "id": "4oV5EVJ0XFWsJKoOvdRPvl"
+          }
+        ], 
+        "duration_ms": 67666, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "74rmnHjsbnoejjFVoE26Sp"
+      }, 
+      {
+        "name": "Cigarette Tricks", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/69aOn8xuPRTn3PhM0zU6ME"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/737f635bf9655aaf407b41c47d15833bd229d2a2", 
+        "is_playable": true, 
+        "uri": "spotify:track:69aOn8xuPRTn3PhM0zU6ME", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/69aOn8xuPRTn3PhM0zU6ME", 
+        "artists": [
+          {
+            "name": "Guided By Voices", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl"
+            }, 
+            "uri": "spotify:artist:4oV5EVJ0XFWsJKoOvdRPvl", 
+            "href": "https://api.spotify.com/v1/artists/4oV5EVJ0XFWsJKoOvdRPvl", 
+            "type": "artist", 
+            "id": "4oV5EVJ0XFWsJKoOvdRPvl"
+          }
+        ], 
+        "duration_ms": 18466, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "69aOn8xuPRTn3PhM0zU6ME"
+      }, 
+      {
+        "name": "Pimple Zoo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/46astLfAPG4EsAVajWrrW3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2fd851a1d61124bba3fc47b72a4b66793fd3794c", 
+        "is_playable": true, 
+        "uri": "spotify:track:46astLfAPG4EsAVajWrrW3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/46astLfAPG4EsAVajWrrW3", 
+        "artists": [
+          {
+            "name": "Guided By Voices", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl"
+            }, 
+            "uri": "spotify:artist:4oV5EVJ0XFWsJKoOvdRPvl", 
+            "href": "https://api.spotify.com/v1/artists/4oV5EVJ0XFWsJKoOvdRPvl", 
+            "type": "artist", 
+            "id": "4oV5EVJ0XFWsJKoOvdRPvl"
+          }
+        ], 
+        "duration_ms": 42800, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "46astLfAPG4EsAVajWrrW3"
+      }, 
+      {
+        "name": "Big Chief Chinese Restaurant", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1LRgMRKPcCKCVhNUwC0Rsf"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d66c1ef882855f1282bf2ed5ecaced458e581553", 
+        "is_playable": true, 
+        "uri": "spotify:track:1LRgMRKPcCKCVhNUwC0Rsf", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1LRgMRKPcCKCVhNUwC0Rsf", 
+        "artists": [
+          {
+            "name": "Guided By Voices", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl"
+            }, 
+            "uri": "spotify:artist:4oV5EVJ0XFWsJKoOvdRPvl", 
+            "href": "https://api.spotify.com/v1/artists/4oV5EVJ0XFWsJKoOvdRPvl", 
+            "type": "artist", 
+            "id": "4oV5EVJ0XFWsJKoOvdRPvl"
+          }
+        ], 
+        "duration_ms": 56733, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "1LRgMRKPcCKCVhNUwC0Rsf"
+      }, 
+      {
+        "name": "Closer You Are", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2PT1DQWxcBkY7QnXuClkJn"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1c61f0a96cc338ad5044ca10c56bc2c8106c0117", 
+        "is_playable": true, 
+        "uri": "spotify:track:2PT1DQWxcBkY7QnXuClkJn", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2PT1DQWxcBkY7QnXuClkJn", 
+        "artists": [
+          {
+            "name": "Guided By Voices", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl"
+            }, 
+            "uri": "spotify:artist:4oV5EVJ0XFWsJKoOvdRPvl", 
+            "href": "https://api.spotify.com/v1/artists/4oV5EVJ0XFWsJKoOvdRPvl", 
+            "type": "artist", 
+            "id": "4oV5EVJ0XFWsJKoOvdRPvl"
+          }
+        ], 
+        "duration_ms": 116640, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "2PT1DQWxcBkY7QnXuClkJn"
+      }, 
+      {
+        "name": "Auditorium", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4o2QdJWSZrb5aNovfA5c2X"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b7c5dec6a4ff8cdbe932bdd46dfd997af656d53b", 
+        "is_playable": true, 
+        "uri": "spotify:track:4o2QdJWSZrb5aNovfA5c2X", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4o2QdJWSZrb5aNovfA5c2X", 
+        "artists": [
+          {
+            "name": "Guided By Voices", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl"
+            }, 
+            "uri": "spotify:artist:4oV5EVJ0XFWsJKoOvdRPvl", 
+            "href": "https://api.spotify.com/v1/artists/4oV5EVJ0XFWsJKoOvdRPvl", 
+            "type": "artist", 
+            "id": "4oV5EVJ0XFWsJKoOvdRPvl"
+          }
+        ], 
+        "duration_ms": 62360, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "4o2QdJWSZrb5aNovfA5c2X"
+      }, 
+      {
+        "name": "Motor Away", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5VnEY2Txn82WbrqGNTYPRA"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c6bad0072ba1edf1d1d12f1f87458845ece8a90a", 
+        "is_playable": true, 
+        "uri": "spotify:track:5VnEY2Txn82WbrqGNTYPRA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5VnEY2Txn82WbrqGNTYPRA", 
+        "artists": [
+          {
+            "name": "Guided By Voices", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl"
+            }, 
+            "uri": "spotify:artist:4oV5EVJ0XFWsJKoOvdRPvl", 
+            "href": "https://api.spotify.com/v1/artists/4oV5EVJ0XFWsJKoOvdRPvl", 
+            "type": "artist", 
+            "id": "4oV5EVJ0XFWsJKoOvdRPvl"
+          }
+        ], 
+        "duration_ms": 126800, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "5VnEY2Txn82WbrqGNTYPRA"
+      }, 
+      {
+        "name": "Hit", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1roCDY3dHntdwzCOWUj9Ed"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6f3ea2fd3d08b8d0c4a621596ae0360b095a4c83", 
+        "is_playable": true, 
+        "uri": "spotify:track:1roCDY3dHntdwzCOWUj9Ed", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1roCDY3dHntdwzCOWUj9Ed", 
+        "artists": [
+          {
+            "name": "Guided By Voices", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl"
+            }, 
+            "uri": "spotify:artist:4oV5EVJ0XFWsJKoOvdRPvl", 
+            "href": "https://api.spotify.com/v1/artists/4oV5EVJ0XFWsJKoOvdRPvl", 
+            "type": "artist", 
+            "id": "4oV5EVJ0XFWsJKoOvdRPvl"
+          }
+        ], 
+        "duration_ms": 22933, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "1roCDY3dHntdwzCOWUj9Ed"
+      }, 
+      {
+        "name": "My Valuable Hunting Knife", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5VHniN3z6PMHUU9McPDBhI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8744bcea93a9244e1d73d6a6d3c8d7a9d23c1f56", 
+        "is_playable": true, 
+        "uri": "spotify:track:5VHniN3z6PMHUU9McPDBhI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5VHniN3z6PMHUU9McPDBhI", 
+        "artists": [
+          {
+            "name": "Guided By Voices", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl"
+            }, 
+            "uri": "spotify:artist:4oV5EVJ0XFWsJKoOvdRPvl", 
+            "href": "https://api.spotify.com/v1/artists/4oV5EVJ0XFWsJKoOvdRPvl", 
+            "type": "artist", 
+            "id": "4oV5EVJ0XFWsJKoOvdRPvl"
+          }
+        ], 
+        "duration_ms": 120333, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "5VHniN3z6PMHUU9McPDBhI"
+      }, 
+      {
+        "name": "Gold Hick", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0OR0yqT8tKTgxtPaoAmU2y"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/143cdee190afd948028ad91b7e964cdb89953cf8", 
+        "is_playable": true, 
+        "uri": "spotify:track:0OR0yqT8tKTgxtPaoAmU2y", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0OR0yqT8tKTgxtPaoAmU2y", 
+        "artists": [
+          {
+            "name": "Guided By Voices", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl"
+            }, 
+            "uri": "spotify:artist:4oV5EVJ0XFWsJKoOvdRPvl", 
+            "href": "https://api.spotify.com/v1/artists/4oV5EVJ0XFWsJKoOvdRPvl", 
+            "type": "artist", 
+            "id": "4oV5EVJ0XFWsJKoOvdRPvl"
+          }
+        ], 
+        "duration_ms": 30040, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "0OR0yqT8tKTgxtPaoAmU2y"
+      }, 
+      {
+        "name": "King and Caroline", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Z2ZExynQam0Ti15hxbHyZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b9185db2d15f7d95361d1839683744c3e97d9bba", 
+        "is_playable": true, 
+        "uri": "spotify:track:0Z2ZExynQam0Ti15hxbHyZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0Z2ZExynQam0Ti15hxbHyZ", 
+        "artists": [
+          {
+            "name": "Guided By Voices", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl"
+            }, 
+            "uri": "spotify:artist:4oV5EVJ0XFWsJKoOvdRPvl", 
+            "href": "https://api.spotify.com/v1/artists/4oV5EVJ0XFWsJKoOvdRPvl", 
+            "type": "artist", 
+            "id": "4oV5EVJ0XFWsJKoOvdRPvl"
+          }
+        ], 
+        "duration_ms": 96000, 
+        "track_number": 19, 
+        "type": "track", 
+        "id": "0Z2ZExynQam0Ti15hxbHyZ"
+      }, 
+      {
+        "name": "Striped White Jets", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1DcmkOjUZavPMoQdOY7rmL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/91dac7c9cfb25f4ed037f63dd700d817df8b8a10", 
+        "is_playable": true, 
+        "uri": "spotify:track:1DcmkOjUZavPMoQdOY7rmL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1DcmkOjUZavPMoQdOY7rmL", 
+        "artists": [
+          {
+            "name": "Guided By Voices", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl"
+            }, 
+            "uri": "spotify:artist:4oV5EVJ0XFWsJKoOvdRPvl", 
+            "href": "https://api.spotify.com/v1/artists/4oV5EVJ0XFWsJKoOvdRPvl", 
+            "type": "artist", 
+            "id": "4oV5EVJ0XFWsJKoOvdRPvl"
+          }
+        ], 
+        "duration_ms": 135093, 
+        "track_number": 20, 
+        "type": "track", 
+        "id": "1DcmkOjUZavPMoQdOY7rmL"
+      }, 
+      {
+        "name": "Ex-Supermodel", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/38Vu8M1l8oEDDSlP18za5i"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/983a2411c4657b3b3b60ceee40ba758e26eddb9a", 
+        "is_playable": true, 
+        "uri": "spotify:track:38Vu8M1l8oEDDSlP18za5i", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/38Vu8M1l8oEDDSlP18za5i", 
+        "artists": [
+          {
+            "name": "Guided By Voices", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl"
+            }, 
+            "uri": "spotify:artist:4oV5EVJ0XFWsJKoOvdRPvl", 
+            "href": "https://api.spotify.com/v1/artists/4oV5EVJ0XFWsJKoOvdRPvl", 
+            "type": "artist", 
+            "id": "4oV5EVJ0XFWsJKoOvdRPvl"
+          }
+        ], 
+        "duration_ms": 66666, 
+        "track_number": 21, 
+        "type": "track", 
+        "id": "38Vu8M1l8oEDDSlP18za5i"
+      }, 
+      {
+        "name": "Blimps Go 90", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Y8DMtMUoSfQwlWxDvZJ28"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1b455df930fa69e606190152c5357071275845e5", 
+        "is_playable": true, 
+        "uri": "spotify:track:6Y8DMtMUoSfQwlWxDvZJ28", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6Y8DMtMUoSfQwlWxDvZJ28", 
+        "artists": [
+          {
+            "name": "Guided By Voices", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl"
+            }, 
+            "uri": "spotify:artist:4oV5EVJ0XFWsJKoOvdRPvl", 
+            "href": "https://api.spotify.com/v1/artists/4oV5EVJ0XFWsJKoOvdRPvl", 
+            "type": "artist", 
+            "id": "4oV5EVJ0XFWsJKoOvdRPvl"
+          }
+        ], 
+        "duration_ms": 100466, 
+        "track_number": 22, 
+        "type": "track", 
+        "id": "6Y8DMtMUoSfQwlWxDvZJ28"
+      }, 
+      {
+        "name": "Strawdogs", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7rBsGBevLf3yk2afVPTumf"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a21e48c4f49f7a9a68edfb69a8ae2269debe5c7c", 
+        "is_playable": true, 
+        "uri": "spotify:track:7rBsGBevLf3yk2afVPTumf", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7rBsGBevLf3yk2afVPTumf", 
+        "artists": [
+          {
+            "name": "Guided By Voices", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl"
+            }, 
+            "uri": "spotify:artist:4oV5EVJ0XFWsJKoOvdRPvl", 
+            "href": "https://api.spotify.com/v1/artists/4oV5EVJ0XFWsJKoOvdRPvl", 
+            "type": "artist", 
+            "id": "4oV5EVJ0XFWsJKoOvdRPvl"
+          }
+        ], 
+        "duration_ms": 77506, 
+        "track_number": 23, 
+        "type": "track", 
+        "id": "7rBsGBevLf3yk2afVPTumf"
+      }, 
+      {
+        "name": "Chicken Blows", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1knsjRP8YZFDlt2L0pMavx"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1f2422052d51f9eae86be0c8495771a9e1c0346b", 
+        "is_playable": true, 
+        "uri": "spotify:track:1knsjRP8YZFDlt2L0pMavx", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1knsjRP8YZFDlt2L0pMavx", 
+        "artists": [
+          {
+            "name": "Guided By Voices", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl"
+            }, 
+            "uri": "spotify:artist:4oV5EVJ0XFWsJKoOvdRPvl", 
+            "href": "https://api.spotify.com/v1/artists/4oV5EVJ0XFWsJKoOvdRPvl", 
+            "type": "artist", 
+            "id": "4oV5EVJ0XFWsJKoOvdRPvl"
+          }
+        ], 
+        "duration_ms": 141960, 
+        "track_number": 24, 
+        "type": "track", 
+        "id": "1knsjRP8YZFDlt2L0pMavx"
+      }, 
+      {
+        "name": "Little Whirl", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2hQZKcm1kADn6Whf5xGfob"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cce5321d8732a4dd27b31243f58c122531347026", 
+        "is_playable": true, 
+        "uri": "spotify:track:2hQZKcm1kADn6Whf5xGfob", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2hQZKcm1kADn6Whf5xGfob", 
+        "artists": [
+          {
+            "name": "Guided By Voices", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl"
+            }, 
+            "uri": "spotify:artist:4oV5EVJ0XFWsJKoOvdRPvl", 
+            "href": "https://api.spotify.com/v1/artists/4oV5EVJ0XFWsJKoOvdRPvl", 
+            "type": "artist", 
+            "id": "4oV5EVJ0XFWsJKoOvdRPvl"
+          }
+        ], 
+        "duration_ms": 106906, 
+        "track_number": 25, 
+        "type": "track", 
+        "id": "2hQZKcm1kADn6Whf5xGfob"
+      }, 
+      {
+        "name": "My Son Cool", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/42LyA6nyRbfpue7RscHJtH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/316f35633614299361b94d151a37c9c71846e1ce", 
+        "is_playable": true, 
+        "uri": "spotify:track:42LyA6nyRbfpue7RscHJtH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/42LyA6nyRbfpue7RscHJtH", 
+        "artists": [
+          {
+            "name": "Guided By Voices", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl"
+            }, 
+            "uri": "spotify:artist:4oV5EVJ0XFWsJKoOvdRPvl", 
+            "href": "https://api.spotify.com/v1/artists/4oV5EVJ0XFWsJKoOvdRPvl", 
+            "type": "artist", 
+            "id": "4oV5EVJ0XFWsJKoOvdRPvl"
+          }
+        ], 
+        "duration_ms": 101026, 
+        "track_number": 26, 
+        "type": "track", 
+        "id": "42LyA6nyRbfpue7RscHJtH"
+      }, 
+      {
+        "name": "Always Crush Me", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0wKgbtaDJ7AdSpFb3a4wwd"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6ae05580180bbe943d6232b52a81702568c2ca0e", 
+        "is_playable": true, 
+        "uri": "spotify:track:0wKgbtaDJ7AdSpFb3a4wwd", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0wKgbtaDJ7AdSpFb3a4wwd", 
+        "artists": [
+          {
+            "name": "Guided By Voices", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl"
+            }, 
+            "uri": "spotify:artist:4oV5EVJ0XFWsJKoOvdRPvl", 
+            "href": "https://api.spotify.com/v1/artists/4oV5EVJ0XFWsJKoOvdRPvl", 
+            "type": "artist", 
+            "id": "4oV5EVJ0XFWsJKoOvdRPvl"
+          }
+        ], 
+        "duration_ms": 104800, 
+        "track_number": 27, 
+        "type": "track", 
+        "id": "0wKgbtaDJ7AdSpFb3a4wwd"
+      }, 
+      {
+        "name": "Alright", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6HYlQvREGV8610eftNjGQY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/baae406fd83344da06dea65f8af2c37a39e83b1a", 
+        "is_playable": true, 
+        "uri": "spotify:track:6HYlQvREGV8610eftNjGQY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6HYlQvREGV8610eftNjGQY", 
+        "artists": [
+          {
+            "name": "Guided By Voices", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl"
+            }, 
+            "uri": "spotify:artist:4oV5EVJ0XFWsJKoOvdRPvl", 
+            "href": "https://api.spotify.com/v1/artists/4oV5EVJ0XFWsJKoOvdRPvl", 
+            "type": "artist", 
+            "id": "4oV5EVJ0XFWsJKoOvdRPvl"
+          }
+        ], 
+        "duration_ms": 176133, 
+        "track_number": 28, 
+        "type": "track", 
+        "id": "6HYlQvREGV8610eftNjGQY"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/0d72ueyZJ4Hiplg0jebzGM/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 28, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/0d72ueyZJ4Hiplg0jebzGM", 
+  "copyrights": [
+    {
+      "text": "1995 Matador Records", 
+      "type": "C"
+    }, 
+    {
+      "text": "1995 Matador Records", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Guided By Voices", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl"
+      }, 
+      "uri": "spotify:artist:4oV5EVJ0XFWsJKoOvdRPvl", 
+      "href": "https://api.spotify.com/v1/artists/4oV5EVJ0XFWsJKoOvdRPvl", 
+      "type": "artist", 
+      "id": "4oV5EVJ0XFWsJKoOvdRPvl"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/7a19691b9004ef0eb6d8a51c4c344776df8d3809", 
+      "width": 600, 
+      "height": 512
+    }, 
+    {
+      "url": "https://i.scdn.co/image/b428ee3dee6bdca09c9aceb6cc4c3c368aac09e2", 
+      "width": 300, 
+      "height": 256
+    }, 
+    {
+      "url": "https://i.scdn.co/image/c3c08ea019e9dc2754d73075e6e3f2645f09bc58", 
+      "width": 64, 
+      "height": 55
+    }
+  ], 
+  "external_ids": {
+    "upc": "744861012320"
+  }, 
+  "type": "album", 
+  "id": "0d72ueyZJ4Hiplg0jebzGM", 
+  "name": "Alien Lanes"
+}

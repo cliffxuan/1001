@@ -1,0 +1,357 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC"
+  }, 
+  "release_date": "1995-01-24", 
+  "popularity": 54, 
+  "genres": [], 
+  "uri": "spotify:album:5CnZjFfPDmxOX7KnWLLqpC", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Protection", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3kKVqFF4pv4EXeQe428zl2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8722dcbe8de6359b59dc34aa5dece6ba401a7b74", 
+        "is_playable": true, 
+        "uri": "spotify:track:3kKVqFF4pv4EXeQe428zl2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3kKVqFF4pv4EXeQe428zl2", 
+        "artists": [
+          {
+            "name": "Massive Attack", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+            }, 
+            "uri": "spotify:artist:6FXMGgJwohJLUSr5nVlf9X", 
+            "href": "https://api.spotify.com/v1/artists/6FXMGgJwohJLUSr5nVlf9X", 
+            "type": "artist", 
+            "id": "6FXMGgJwohJLUSr5nVlf9X"
+          }, 
+          {
+            "name": "Tracey Thorn", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7xFnmid57ZE6iWEXdEXO3b"
+            }, 
+            "uri": "spotify:artist:7xFnmid57ZE6iWEXdEXO3b", 
+            "href": "https://api.spotify.com/v1/artists/7xFnmid57ZE6iWEXdEXO3b", 
+            "type": "artist", 
+            "id": "7xFnmid57ZE6iWEXdEXO3b"
+          }
+        ], 
+        "duration_ms": 471560, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "3kKVqFF4pv4EXeQe428zl2"
+      }, 
+      {
+        "name": "Karmacoma", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/46bTgJAQkrkNRxMuFnpRyD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d48f8a72711234f610cc818ae21b4c2f2a625ee1", 
+        "is_playable": true, 
+        "uri": "spotify:track:46bTgJAQkrkNRxMuFnpRyD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/46bTgJAQkrkNRxMuFnpRyD", 
+        "artists": [
+          {
+            "name": "Massive Attack", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+            }, 
+            "uri": "spotify:artist:6FXMGgJwohJLUSr5nVlf9X", 
+            "href": "https://api.spotify.com/v1/artists/6FXMGgJwohJLUSr5nVlf9X", 
+            "type": "artist", 
+            "id": "6FXMGgJwohJLUSr5nVlf9X"
+          }
+        ], 
+        "duration_ms": 316440, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "46bTgJAQkrkNRxMuFnpRyD"
+      }, 
+      {
+        "name": "Three", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7FKhuZtIPchBVNIhFnNL5W"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5403d477e82273641a755f31b7d8f82b8205a892", 
+        "is_playable": true, 
+        "uri": "spotify:track:7FKhuZtIPchBVNIhFnNL5W", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7FKhuZtIPchBVNIhFnNL5W", 
+        "artists": [
+          {
+            "name": "Massive Attack", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+            }, 
+            "uri": "spotify:artist:6FXMGgJwohJLUSr5nVlf9X", 
+            "href": "https://api.spotify.com/v1/artists/6FXMGgJwohJLUSr5nVlf9X", 
+            "type": "artist", 
+            "id": "6FXMGgJwohJLUSr5nVlf9X"
+          }
+        ], 
+        "duration_ms": 229066, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "7FKhuZtIPchBVNIhFnNL5W"
+      }, 
+      {
+        "name": "Weather Storm", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4u5KFWcW1ptk0hJqp2lrCE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/dfa46ddfa688fb56e1d67d3d7b670859d3252058", 
+        "is_playable": true, 
+        "uri": "spotify:track:4u5KFWcW1ptk0hJqp2lrCE", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4u5KFWcW1ptk0hJqp2lrCE", 
+        "artists": [
+          {
+            "name": "Massive Attack", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+            }, 
+            "uri": "spotify:artist:6FXMGgJwohJLUSr5nVlf9X", 
+            "href": "https://api.spotify.com/v1/artists/6FXMGgJwohJLUSr5nVlf9X", 
+            "type": "artist", 
+            "id": "6FXMGgJwohJLUSr5nVlf9X"
+          }
+        ], 
+        "duration_ms": 299960, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "4u5KFWcW1ptk0hJqp2lrCE"
+      }, 
+      {
+        "name": "Spying Glass", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6yzqdl5qv6BGu6BlRNWIDa"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/120370fbe732ba27a5662300df7b41b05371d672", 
+        "is_playable": true, 
+        "uri": "spotify:track:6yzqdl5qv6BGu6BlRNWIDa", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6yzqdl5qv6BGu6BlRNWIDa", 
+        "artists": [
+          {
+            "name": "Massive Attack", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+            }, 
+            "uri": "spotify:artist:6FXMGgJwohJLUSr5nVlf9X", 
+            "href": "https://api.spotify.com/v1/artists/6FXMGgJwohJLUSr5nVlf9X", 
+            "type": "artist", 
+            "id": "6FXMGgJwohJLUSr5nVlf9X"
+          }
+        ], 
+        "duration_ms": 320973, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "6yzqdl5qv6BGu6BlRNWIDa"
+      }, 
+      {
+        "name": "Better Things", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4orPBWfQNUxs3RObirJwZR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fcaa7323c9650279801f422467f148ca9e91a42e", 
+        "is_playable": true, 
+        "uri": "spotify:track:4orPBWfQNUxs3RObirJwZR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4orPBWfQNUxs3RObirJwZR", 
+        "artists": [
+          {
+            "name": "Massive Attack", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+            }, 
+            "uri": "spotify:artist:6FXMGgJwohJLUSr5nVlf9X", 
+            "href": "https://api.spotify.com/v1/artists/6FXMGgJwohJLUSr5nVlf9X", 
+            "type": "artist", 
+            "id": "6FXMGgJwohJLUSr5nVlf9X"
+          }
+        ], 
+        "duration_ms": 253933, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "4orPBWfQNUxs3RObirJwZR"
+      }, 
+      {
+        "name": "Euro Child", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5LrkJFmitzUrKZnt5iXl8A"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5c44e3e81843843c07e7b2bcc77dc7f4a1db8d02", 
+        "is_playable": true, 
+        "uri": "spotify:track:5LrkJFmitzUrKZnt5iXl8A", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5LrkJFmitzUrKZnt5iXl8A", 
+        "artists": [
+          {
+            "name": "Massive Attack", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+            }, 
+            "uri": "spotify:artist:6FXMGgJwohJLUSr5nVlf9X", 
+            "href": "https://api.spotify.com/v1/artists/6FXMGgJwohJLUSr5nVlf9X", 
+            "type": "artist", 
+            "id": "6FXMGgJwohJLUSr5nVlf9X"
+          }
+        ], 
+        "duration_ms": 311160, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "5LrkJFmitzUrKZnt5iXl8A"
+      }, 
+      {
+        "name": "Sly", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7IdsIcmcti4v5VXkCJ3ou7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1f2c2ce41bb935ceb8201e3186710ad4316dc7b3", 
+        "is_playable": true, 
+        "uri": "spotify:track:7IdsIcmcti4v5VXkCJ3ou7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7IdsIcmcti4v5VXkCJ3ou7", 
+        "artists": [
+          {
+            "name": "Massive Attack", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+            }, 
+            "uri": "spotify:artist:6FXMGgJwohJLUSr5nVlf9X", 
+            "href": "https://api.spotify.com/v1/artists/6FXMGgJwohJLUSr5nVlf9X", 
+            "type": "artist", 
+            "id": "6FXMGgJwohJLUSr5nVlf9X"
+          }
+        ], 
+        "duration_ms": 324640, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "7IdsIcmcti4v5VXkCJ3ou7"
+      }, 
+      {
+        "name": "Heat Miser", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1sMr77QrXyS9LRIhcCI2el"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2df5b7ef31552b3c7d22394e3c0f4cb5317e602c", 
+        "is_playable": true, 
+        "uri": "spotify:track:1sMr77QrXyS9LRIhcCI2el", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1sMr77QrXyS9LRIhcCI2el", 
+        "artists": [
+          {
+            "name": "Massive Attack", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+            }, 
+            "uri": "spotify:artist:6FXMGgJwohJLUSr5nVlf9X", 
+            "href": "https://api.spotify.com/v1/artists/6FXMGgJwohJLUSr5nVlf9X", 
+            "type": "artist", 
+            "id": "6FXMGgJwohJLUSr5nVlf9X"
+          }
+        ], 
+        "duration_ms": 219000, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "1sMr77QrXyS9LRIhcCI2el"
+      }, 
+      {
+        "name": "Light My Fire - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1JQLVgeRWU7Hf7y8EpmOqd"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/54e779b4a82781bc4db5ec07c455cb3423f259f4", 
+        "is_playable": true, 
+        "uri": "spotify:track:1JQLVgeRWU7Hf7y8EpmOqd", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1JQLVgeRWU7Hf7y8EpmOqd", 
+        "artists": [
+          {
+            "name": "Massive Attack", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+            }, 
+            "uri": "spotify:artist:6FXMGgJwohJLUSr5nVlf9X", 
+            "href": "https://api.spotify.com/v1/artists/6FXMGgJwohJLUSr5nVlf9X", 
+            "type": "artist", 
+            "id": "6FXMGgJwohJLUSr5nVlf9X"
+          }
+        ], 
+        "duration_ms": 195493, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "1JQLVgeRWU7Hf7y8EpmOqd"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/5CnZjFfPDmxOX7KnWLLqpC/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 10, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/5CnZjFfPDmxOX7KnWLLqpC", 
+  "copyrights": [
+    {
+      "text": "(C) 1994 Virgin Records LtdThis label copy information is the subject of copyright protection. All rights reserved.(C) 1994 Virgin Records Ltd", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1994 The copyright in this sound recording is owned by Virgin Records Ltd", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Massive Attack", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+      }, 
+      "uri": "spotify:artist:6FXMGgJwohJLUSr5nVlf9X", 
+      "href": "https://api.spotify.com/v1/artists/6FXMGgJwohJLUSr5nVlf9X", 
+      "type": "artist", 
+      "id": "6FXMGgJwohJLUSr5nVlf9X"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/c8fd00465de6267eed8f9204aea75bad7d443b60", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/1946f99c0408e958f88c1811f1d9d92df0a4b16f", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/562049ffd99312eeb29f307067f9bad6475ec551", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00724383988358"
+  }, 
+  "type": "album", 
+  "id": "5CnZjFfPDmxOX7KnWLLqpC", 
+  "name": "Protection"
+}

@@ -1,0 +1,231 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2fUrnjG4BPBH52aEAv1XyA"
+  }, 
+  "release_date": "1976", 
+  "popularity": 51, 
+  "genres": [], 
+  "uri": "spotify:album:2fUrnjG4BPBH52aEAv1XyA", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Oxygene, Pt. 1", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Ym3ylwuUAAAjEO3cQYCto"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ac583d60355cad31060ce7a393e384ab25959dd7", 
+        "is_playable": true, 
+        "uri": "spotify:track:6Ym3ylwuUAAAjEO3cQYCto", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6Ym3ylwuUAAAjEO3cQYCto", 
+        "artists": [
+          {
+            "name": "Jean-Michel Jarre", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
+            }, 
+            "uri": "spotify:artist:5MhLmv7GgyjbxGqiIGasvT", 
+            "href": "https://api.spotify.com/v1/artists/5MhLmv7GgyjbxGqiIGasvT", 
+            "type": "artist", 
+            "id": "5MhLmv7GgyjbxGqiIGasvT"
+          }
+        ], 
+        "duration_ms": 460640, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "6Ym3ylwuUAAAjEO3cQYCto"
+      }, 
+      {
+        "name": "Oxygene, Pt. 2", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3sjpoP1GGQVDiqwFINUKuC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/80aa8718fdb1d035fd8cd336a6866b107fa4b4f2", 
+        "is_playable": true, 
+        "uri": "spotify:track:3sjpoP1GGQVDiqwFINUKuC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3sjpoP1GGQVDiqwFINUKuC", 
+        "artists": [
+          {
+            "name": "Jean-Michel Jarre", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
+            }, 
+            "uri": "spotify:artist:5MhLmv7GgyjbxGqiIGasvT", 
+            "href": "https://api.spotify.com/v1/artists/5MhLmv7GgyjbxGqiIGasvT", 
+            "type": "artist", 
+            "id": "5MhLmv7GgyjbxGqiIGasvT"
+          }
+        ], 
+        "duration_ms": 466306, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "3sjpoP1GGQVDiqwFINUKuC"
+      }, 
+      {
+        "name": "Oxygene, Pt. 3", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/32lYlQr3M5aSkD0fv8xC12"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5a53dbbb02fcc9ef363bf0242de4e79ed7cbef01", 
+        "is_playable": true, 
+        "uri": "spotify:track:32lYlQr3M5aSkD0fv8xC12", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/32lYlQr3M5aSkD0fv8xC12", 
+        "artists": [
+          {
+            "name": "Jean-Michel Jarre", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
+            }, 
+            "uri": "spotify:artist:5MhLmv7GgyjbxGqiIGasvT", 
+            "href": "https://api.spotify.com/v1/artists/5MhLmv7GgyjbxGqiIGasvT", 
+            "type": "artist", 
+            "id": "5MhLmv7GgyjbxGqiIGasvT"
+          }
+        ], 
+        "duration_ms": 196733, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "32lYlQr3M5aSkD0fv8xC12"
+      }, 
+      {
+        "name": "Oxygene, Pt. 4", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/36dAYKthPstq3psRX0x8MG"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3c21eb022350e255bc0d3c1e98cd30a32164e0a9", 
+        "is_playable": true, 
+        "uri": "spotify:track:36dAYKthPstq3psRX0x8MG", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/36dAYKthPstq3psRX0x8MG", 
+        "artists": [
+          {
+            "name": "Jean-Michel Jarre", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
+            }, 
+            "uri": "spotify:artist:5MhLmv7GgyjbxGqiIGasvT", 
+            "href": "https://api.spotify.com/v1/artists/5MhLmv7GgyjbxGqiIGasvT", 
+            "type": "artist", 
+            "id": "5MhLmv7GgyjbxGqiIGasvT"
+          }
+        ], 
+        "duration_ms": 246893, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "36dAYKthPstq3psRX0x8MG"
+      }, 
+      {
+        "name": "Oxygene, Pt. 5", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7fiaTfpb3vYNdsKGnLXtJl"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/acb14f9f0cb5d4b0296476413b465272dc5c1173", 
+        "is_playable": true, 
+        "uri": "spotify:track:7fiaTfpb3vYNdsKGnLXtJl", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7fiaTfpb3vYNdsKGnLXtJl", 
+        "artists": [
+          {
+            "name": "Jean-Michel Jarre", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
+            }, 
+            "uri": "spotify:artist:5MhLmv7GgyjbxGqiIGasvT", 
+            "href": "https://api.spotify.com/v1/artists/5MhLmv7GgyjbxGqiIGasvT", 
+            "type": "artist", 
+            "id": "5MhLmv7GgyjbxGqiIGasvT"
+          }
+        ], 
+        "duration_ms": 615173, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "7fiaTfpb3vYNdsKGnLXtJl"
+      }, 
+      {
+        "name": "Oxygene, Pt. 6", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2BtUPpjOQvQlv5OhiZk1s4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/50ab0d12b94bfd9b6892b09e7267ffa28b194738", 
+        "is_playable": true, 
+        "uri": "spotify:track:2BtUPpjOQvQlv5OhiZk1s4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2BtUPpjOQvQlv5OhiZk1s4", 
+        "artists": [
+          {
+            "name": "Jean-Michel Jarre", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
+            }, 
+            "uri": "spotify:artist:5MhLmv7GgyjbxGqiIGasvT", 
+            "href": "https://api.spotify.com/v1/artists/5MhLmv7GgyjbxGqiIGasvT", 
+            "type": "artist", 
+            "id": "5MhLmv7GgyjbxGqiIGasvT"
+          }
+        ], 
+        "duration_ms": 396360, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "2BtUPpjOQvQlv5OhiZk1s4"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/2fUrnjG4BPBH52aEAv1XyA/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 6, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/2fUrnjG4BPBH52aEAv1XyA", 
+  "copyrights": [
+    {
+      "text": "(P) 1976 Disques Dreyfus - BMG", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Jean-Michel Jarre", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
+      }, 
+      "uri": "spotify:artist:5MhLmv7GgyjbxGqiIGasvT", 
+      "href": "https://api.spotify.com/v1/artists/5MhLmv7GgyjbxGqiIGasvT", 
+      "type": "artist", 
+      "id": "5MhLmv7GgyjbxGqiIGasvT"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/e1a46b7b38c8770ed9e848ef5025a68b47545299", 
+      "width": 640, 
+      "height": 634
+    }, 
+    {
+      "url": "https://i.scdn.co/image/80d9e7df34db8d2c6d63239b4b42fa08b7c7ba4b", 
+      "width": 300, 
+      "height": 297
+    }, 
+    {
+      "url": "https://i.scdn.co/image/87f68921dfb2bea21e3d216908effd39e1513db3", 
+      "width": 64, 
+      "height": 63
+    }
+  ], 
+  "external_ids": {
+    "upc": "886444343770"
+  }, 
+  "type": "album", 
+  "id": "2fUrnjG4BPBH52aEAv1XyA", 
+  "name": "Oxyg\u00e8ne"
+}

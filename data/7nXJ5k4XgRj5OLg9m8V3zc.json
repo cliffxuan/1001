@@ -1,0 +1,319 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
+  }, 
+  "release_date": "1984-06-25", 
+  "popularity": 69, 
+  "genres": [], 
+  "uri": "spotify:album:7nXJ5k4XgRj5OLg9m8V3zc", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Let's Go Crazy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0QeI79sp1vS8L3JgpEO7mD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ea6524da855e71b4e39853578b919b5b5815de40", 
+        "is_playable": true, 
+        "uri": "spotify:track:0QeI79sp1vS8L3JgpEO7mD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0QeI79sp1vS8L3JgpEO7mD", 
+        "artists": [
+          {
+            "name": "Prince & The Revolution", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6C3ZGU59R9XhxQ1KRU5Q1O"
+            }, 
+            "uri": "spotify:artist:6C3ZGU59R9XhxQ1KRU5Q1O", 
+            "href": "https://api.spotify.com/v1/artists/6C3ZGU59R9XhxQ1KRU5Q1O", 
+            "type": "artist", 
+            "id": "6C3ZGU59R9XhxQ1KRU5Q1O"
+          }
+        ], 
+        "duration_ms": 280000, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "0QeI79sp1vS8L3JgpEO7mD"
+      }, 
+      {
+        "name": "Take Me With U", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/765k9tDIFOnoOfkO2cgitB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e37516178a448d0c6a9c1f52bfd14163c73637d7", 
+        "is_playable": true, 
+        "uri": "spotify:track:765k9tDIFOnoOfkO2cgitB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/765k9tDIFOnoOfkO2cgitB", 
+        "artists": [
+          {
+            "name": "Prince", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+            }, 
+            "uri": "spotify:artist:5a2EaR3hamoenG9rDuVn8j", 
+            "href": "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j", 
+            "type": "artist", 
+            "id": "5a2EaR3hamoenG9rDuVn8j"
+          }
+        ], 
+        "duration_ms": 234133, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "765k9tDIFOnoOfkO2cgitB"
+      }, 
+      {
+        "name": "The Beautiful Ones", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1BNtFSws7fjbn9aVBPA79j"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0e7adbede01b03855b82f228635f062a9cd48b32", 
+        "is_playable": true, 
+        "uri": "spotify:track:1BNtFSws7fjbn9aVBPA79j", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1BNtFSws7fjbn9aVBPA79j", 
+        "artists": [
+          {
+            "name": "Prince", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+            }, 
+            "uri": "spotify:artist:5a2EaR3hamoenG9rDuVn8j", 
+            "href": "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j", 
+            "type": "artist", 
+            "id": "5a2EaR3hamoenG9rDuVn8j"
+          }
+        ], 
+        "duration_ms": 313960, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "1BNtFSws7fjbn9aVBPA79j"
+      }, 
+      {
+        "name": "Computer Blue", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3rNCkAhv9cASYco3kC9q3D"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a391535a6a87a2665032c9ef0cde493b6b867dcd", 
+        "is_playable": true, 
+        "uri": "spotify:track:3rNCkAhv9cASYco3kC9q3D", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3rNCkAhv9cASYco3kC9q3D", 
+        "artists": [
+          {
+            "name": "Prince", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+            }, 
+            "uri": "spotify:artist:5a2EaR3hamoenG9rDuVn8j", 
+            "href": "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j", 
+            "type": "artist", 
+            "id": "5a2EaR3hamoenG9rDuVn8j"
+          }
+        ], 
+        "duration_ms": 239506, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "3rNCkAhv9cASYco3kC9q3D"
+      }, 
+      {
+        "name": "Darling Nikki", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0khi86hc79RfsRC0rrkkA2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c1689a489e65cefbb80df9b064c27e7af17cc4dc", 
+        "is_playable": true, 
+        "uri": "spotify:track:0khi86hc79RfsRC0rrkkA2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0khi86hc79RfsRC0rrkkA2", 
+        "artists": [
+          {
+            "name": "Prince", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+            }, 
+            "uri": "spotify:artist:5a2EaR3hamoenG9rDuVn8j", 
+            "href": "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j", 
+            "type": "artist", 
+            "id": "5a2EaR3hamoenG9rDuVn8j"
+          }
+        ], 
+        "duration_ms": 254493, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "0khi86hc79RfsRC0rrkkA2"
+      }, 
+      {
+        "name": "When Doves Cry", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d6abac6769100967d7f19feea109751b40bff8d0", 
+        "is_playable": true, 
+        "uri": "spotify:track:51H2y6YrNNXcy3dfc3qSbA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/51H2y6YrNNXcy3dfc3qSbA", 
+        "artists": [
+          {
+            "name": "Prince", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+            }, 
+            "uri": "spotify:artist:5a2EaR3hamoenG9rDuVn8j", 
+            "href": "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j", 
+            "type": "artist", 
+            "id": "5a2EaR3hamoenG9rDuVn8j"
+          }
+        ], 
+        "duration_ms": 352906, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "51H2y6YrNNXcy3dfc3qSbA"
+      }, 
+      {
+        "name": "I Would Die 4 U", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6fBwVe6udYdnRqwqo06if8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/caee1814790530ab515665cc933f11ccd7bf908b", 
+        "is_playable": true, 
+        "uri": "spotify:track:6fBwVe6udYdnRqwqo06if8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6fBwVe6udYdnRqwqo06if8", 
+        "artists": [
+          {
+            "name": "Prince", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+            }, 
+            "uri": "spotify:artist:5a2EaR3hamoenG9rDuVn8j", 
+            "href": "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j", 
+            "type": "artist", 
+            "id": "5a2EaR3hamoenG9rDuVn8j"
+          }
+        ], 
+        "duration_ms": 178946, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "6fBwVe6udYdnRqwqo06if8"
+      }, 
+      {
+        "name": "Baby I'm A Star", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2soBvUQBf5rbMj9HIyhzzK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/de595273043df139df426e95b3df30c6cac7c8d9", 
+        "is_playable": true, 
+        "uri": "spotify:track:2soBvUQBf5rbMj9HIyhzzK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2soBvUQBf5rbMj9HIyhzzK", 
+        "artists": [
+          {
+            "name": "Prince", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+            }, 
+            "uri": "spotify:artist:5a2EaR3hamoenG9rDuVn8j", 
+            "href": "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j", 
+            "type": "artist", 
+            "id": "5a2EaR3hamoenG9rDuVn8j"
+          }
+        ], 
+        "duration_ms": 264400, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "2soBvUQBf5rbMj9HIyhzzK"
+      }, 
+      {
+        "name": "Purple Rain", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/55fe08e66c1f7af5bb78cb7f005d983f5df7477a", 
+        "is_playable": true, 
+        "uri": "spotify:track:54X78diSLoUDI3joC2bjMz", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/54X78diSLoUDI3joC2bjMz", 
+        "artists": [
+          {
+            "name": "Prince & The Revolution", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6C3ZGU59R9XhxQ1KRU5Q1O"
+            }, 
+            "uri": "spotify:artist:6C3ZGU59R9XhxQ1KRU5Q1O", 
+            "href": "https://api.spotify.com/v1/artists/6C3ZGU59R9XhxQ1KRU5Q1O", 
+            "type": "artist", 
+            "id": "6C3ZGU59R9XhxQ1KRU5Q1O"
+          }
+        ], 
+        "duration_ms": 522293, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "54X78diSLoUDI3joC2bjMz"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/7nXJ5k4XgRj5OLg9m8V3zc/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 9, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/7nXJ5k4XgRj5OLg9m8V3zc", 
+  "copyrights": [
+    {
+      "text": "1984 NPG Records, Inc. under exclusive license to Warner Bros. Records Inc.", 
+      "type": "C"
+    }, 
+    {
+      "text": "1984 NPG Records, Inc. under exclusive license to Warner Bros. Records Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Prince", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+      }, 
+      "uri": "spotify:artist:5a2EaR3hamoenG9rDuVn8j", 
+      "href": "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j", 
+      "type": "artist", 
+      "id": "5a2EaR3hamoenG9rDuVn8j"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/d64cdeaad56a5bba451950824595e5b007124cd9", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/f6f134b51b8e88dc4be6bef65613a2142113a3e6", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/514dbc6649fb6e355dc55b871da2d4eb4cf8e020", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "603497999088"
+  }, 
+  "type": "album", 
+  "id": "7nXJ5k4XgRj5OLg9m8V3zc", 
+  "name": "Purple Rain"
+}

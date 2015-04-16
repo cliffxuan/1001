@@ -1,0 +1,539 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7m1r9h3wfPRm3Iv8uvq9vQ"
+  }, 
+  "release_date": "1996-02-12", 
+  "popularity": 61, 
+  "genres": [], 
+  "uri": "spotify:album:7m1r9h3wfPRm3Iv8uvq9vQ", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Red Intro", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0HxF2tr5T2cVx9Y1V5mcif"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/57158d7ec8cb844936f8de5c8802b437757d0cec", 
+        "is_playable": true, 
+        "uri": "spotify:track:0HxF2tr5T2cVx9Y1V5mcif", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0HxF2tr5T2cVx9Y1V5mcif", 
+        "artists": [
+          {
+            "name": "Fugees", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
+            }, 
+            "uri": "spotify:artist:2WKdxPFRD7IqZvlIAvhMgY", 
+            "href": "https://api.spotify.com/v1/artists/2WKdxPFRD7IqZvlIAvhMgY", 
+            "type": "artist", 
+            "id": "2WKdxPFRD7IqZvlIAvhMgY"
+          }
+        ], 
+        "duration_ms": 111933, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "0HxF2tr5T2cVx9Y1V5mcif"
+      }, 
+      {
+        "name": "How Many Mics", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7KYL4ZSKTKzzlLbWsGBfDM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d2c8cf562904bc57ad74ccb64f499c02f2f642a1", 
+        "is_playable": true, 
+        "uri": "spotify:track:7KYL4ZSKTKzzlLbWsGBfDM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7KYL4ZSKTKzzlLbWsGBfDM", 
+        "artists": [
+          {
+            "name": "Fugees", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
+            }, 
+            "uri": "spotify:artist:2WKdxPFRD7IqZvlIAvhMgY", 
+            "href": "https://api.spotify.com/v1/artists/2WKdxPFRD7IqZvlIAvhMgY", 
+            "type": "artist", 
+            "id": "2WKdxPFRD7IqZvlIAvhMgY"
+          }
+        ], 
+        "duration_ms": 268933, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "7KYL4ZSKTKzzlLbWsGBfDM"
+      }, 
+      {
+        "name": "Ready or Not", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4LOoPg7TavHtNmCTOfd9XQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/26f32b51af90353507a06d65813512bf542634e9", 
+        "is_playable": true, 
+        "uri": "spotify:track:4LOoPg7TavHtNmCTOfd9XQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4LOoPg7TavHtNmCTOfd9XQ", 
+        "artists": [
+          {
+            "name": "Fugees", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
+            }, 
+            "uri": "spotify:artist:2WKdxPFRD7IqZvlIAvhMgY", 
+            "href": "https://api.spotify.com/v1/artists/2WKdxPFRD7IqZvlIAvhMgY", 
+            "type": "artist", 
+            "id": "2WKdxPFRD7IqZvlIAvhMgY"
+          }
+        ], 
+        "duration_ms": 226986, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "4LOoPg7TavHtNmCTOfd9XQ"
+      }, 
+      {
+        "name": "Zealots", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4u0P5tP0MbRey5xVHWzce4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e086a9a4cac1499b0c9720781b56deed2ba4dba3", 
+        "is_playable": true, 
+        "uri": "spotify:track:4u0P5tP0MbRey5xVHWzce4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4u0P5tP0MbRey5xVHWzce4", 
+        "artists": [
+          {
+            "name": "Fugees", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
+            }, 
+            "uri": "spotify:artist:2WKdxPFRD7IqZvlIAvhMgY", 
+            "href": "https://api.spotify.com/v1/artists/2WKdxPFRD7IqZvlIAvhMgY", 
+            "type": "artist", 
+            "id": "2WKdxPFRD7IqZvlIAvhMgY"
+          }
+        ], 
+        "duration_ms": 260546, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "4u0P5tP0MbRey5xVHWzce4"
+      }, 
+      {
+        "name": "The Beast", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/19hxf4AOL9YAtnlwSQ05Ix"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ea7f7e94f40b65224ad11f6e7f44fe7c0b941c49", 
+        "is_playable": true, 
+        "uri": "spotify:track:19hxf4AOL9YAtnlwSQ05Ix", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/19hxf4AOL9YAtnlwSQ05Ix", 
+        "artists": [
+          {
+            "name": "Fugees", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
+            }, 
+            "uri": "spotify:artist:2WKdxPFRD7IqZvlIAvhMgY", 
+            "href": "https://api.spotify.com/v1/artists/2WKdxPFRD7IqZvlIAvhMgY", 
+            "type": "artist", 
+            "id": "2WKdxPFRD7IqZvlIAvhMgY"
+          }
+        ], 
+        "duration_ms": 337200, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "19hxf4AOL9YAtnlwSQ05Ix"
+      }, 
+      {
+        "name": "Fu-Gee-La", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3C09tEhYKCysPOVqmJxOTN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/56538188c4ca4c047b6420d43f2055e5ddf4c6b9", 
+        "is_playable": true, 
+        "uri": "spotify:track:3C09tEhYKCysPOVqmJxOTN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3C09tEhYKCysPOVqmJxOTN", 
+        "artists": [
+          {
+            "name": "Fugees", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
+            }, 
+            "uri": "spotify:artist:2WKdxPFRD7IqZvlIAvhMgY", 
+            "href": "https://api.spotify.com/v1/artists/2WKdxPFRD7IqZvlIAvhMgY", 
+            "type": "artist", 
+            "id": "2WKdxPFRD7IqZvlIAvhMgY"
+          }
+        ], 
+        "duration_ms": 260066, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "3C09tEhYKCysPOVqmJxOTN"
+      }, 
+      {
+        "name": "Family Business", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3csJSg3ECEi9o6SH6gwiwl"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1c3c73eb276a5db66f8a015142a7d95c3f7f84fe", 
+        "is_playable": true, 
+        "uri": "spotify:track:3csJSg3ECEi9o6SH6gwiwl", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3csJSg3ECEi9o6SH6gwiwl", 
+        "artists": [
+          {
+            "name": "Fugees", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
+            }, 
+            "uri": "spotify:artist:2WKdxPFRD7IqZvlIAvhMgY", 
+            "href": "https://api.spotify.com/v1/artists/2WKdxPFRD7IqZvlIAvhMgY", 
+            "type": "artist", 
+            "id": "2WKdxPFRD7IqZvlIAvhMgY"
+          }
+        ], 
+        "duration_ms": 343693, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "3csJSg3ECEi9o6SH6gwiwl"
+      }, 
+      {
+        "name": "Killing Me Softly with His Song", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1MAqR81Tz28IIqMJ2KUDAO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a8d1ac8bf8865361b0c54026eb1dd75305d584d0", 
+        "is_playable": true, 
+        "uri": "spotify:track:1MAqR81Tz28IIqMJ2KUDAO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1MAqR81Tz28IIqMJ2KUDAO", 
+        "artists": [
+          {
+            "name": "Fugees", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
+            }, 
+            "uri": "spotify:artist:2WKdxPFRD7IqZvlIAvhMgY", 
+            "href": "https://api.spotify.com/v1/artists/2WKdxPFRD7IqZvlIAvhMgY", 
+            "type": "artist", 
+            "id": "2WKdxPFRD7IqZvlIAvhMgY"
+          }
+        ], 
+        "duration_ms": 298773, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "1MAqR81Tz28IIqMJ2KUDAO"
+      }, 
+      {
+        "name": "The Score", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3hLQMwqFvezDC7dOFYOouJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/dc527e6bf488ac3ccd7f414eac9ab9acc698d667", 
+        "is_playable": true, 
+        "uri": "spotify:track:3hLQMwqFvezDC7dOFYOouJ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3hLQMwqFvezDC7dOFYOouJ", 
+        "artists": [
+          {
+            "name": "Fugees", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
+            }, 
+            "uri": "spotify:artist:2WKdxPFRD7IqZvlIAvhMgY", 
+            "href": "https://api.spotify.com/v1/artists/2WKdxPFRD7IqZvlIAvhMgY", 
+            "type": "artist", 
+            "id": "2WKdxPFRD7IqZvlIAvhMgY"
+          }
+        ], 
+        "duration_ms": 302066, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "3hLQMwqFvezDC7dOFYOouJ"
+      }, 
+      {
+        "name": "The Mask", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/18yfhVgUx9gCGTLtZcjjJr"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/415af5ae58dbe2e2c91f59be7f14175806f43386", 
+        "is_playable": true, 
+        "uri": "spotify:track:18yfhVgUx9gCGTLtZcjjJr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/18yfhVgUx9gCGTLtZcjjJr", 
+        "artists": [
+          {
+            "name": "Fugees", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
+            }, 
+            "uri": "spotify:artist:2WKdxPFRD7IqZvlIAvhMgY", 
+            "href": "https://api.spotify.com/v1/artists/2WKdxPFRD7IqZvlIAvhMgY", 
+            "type": "artist", 
+            "id": "2WKdxPFRD7IqZvlIAvhMgY"
+          }
+        ], 
+        "duration_ms": 290560, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "18yfhVgUx9gCGTLtZcjjJr"
+      }, 
+      {
+        "name": "Cowboys", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4qDQvVBDdnmsoGl1DFnr4s"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cc0849412f60de64e5bcbab7d6b14d153b6339ff", 
+        "is_playable": true, 
+        "uri": "spotify:track:4qDQvVBDdnmsoGl1DFnr4s", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4qDQvVBDdnmsoGl1DFnr4s", 
+        "artists": [
+          {
+            "name": "Fugees", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
+            }, 
+            "uri": "spotify:artist:2WKdxPFRD7IqZvlIAvhMgY", 
+            "href": "https://api.spotify.com/v1/artists/2WKdxPFRD7IqZvlIAvhMgY", 
+            "type": "artist", 
+            "id": "2WKdxPFRD7IqZvlIAvhMgY"
+          }
+        ], 
+        "duration_ms": 323506, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "4qDQvVBDdnmsoGl1DFnr4s"
+      }, 
+      {
+        "name": "No Woman, No Cry", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4lq1vH5qGriNFf74osamRc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/17aad101bfdbc73768e149881e22fae9d9c95965", 
+        "is_playable": true, 
+        "uri": "spotify:track:4lq1vH5qGriNFf74osamRc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4lq1vH5qGriNFf74osamRc", 
+        "artists": [
+          {
+            "name": "Fugees", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
+            }, 
+            "uri": "spotify:artist:2WKdxPFRD7IqZvlIAvhMgY", 
+            "href": "https://api.spotify.com/v1/artists/2WKdxPFRD7IqZvlIAvhMgY", 
+            "type": "artist", 
+            "id": "2WKdxPFRD7IqZvlIAvhMgY"
+          }
+        ], 
+        "duration_ms": 273093, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "4lq1vH5qGriNFf74osamRc"
+      }, 
+      {
+        "name": "Manifest/Outro", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7jiiyifAXrZoxw6eUeWu9q"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/19794904487fac8cf23456f56150a574c3576c7e", 
+        "is_playable": true, 
+        "uri": "spotify:track:7jiiyifAXrZoxw6eUeWu9q", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7jiiyifAXrZoxw6eUeWu9q", 
+        "artists": [
+          {
+            "name": "Fugees", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
+            }, 
+            "uri": "spotify:artist:2WKdxPFRD7IqZvlIAvhMgY", 
+            "href": "https://api.spotify.com/v1/artists/2WKdxPFRD7IqZvlIAvhMgY", 
+            "type": "artist", 
+            "id": "2WKdxPFRD7IqZvlIAvhMgY"
+          }
+        ], 
+        "duration_ms": 359640, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "7jiiyifAXrZoxw6eUeWu9q"
+      }, 
+      {
+        "name": "Fu-Gee-La - Refugee Camp Remix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7G2p0N0Coix7AC5iVinTUT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2312a64f8bc7c6a93278f0dafa98e1ac023a6873", 
+        "is_playable": true, 
+        "uri": "spotify:track:7G2p0N0Coix7AC5iVinTUT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7G2p0N0Coix7AC5iVinTUT", 
+        "artists": [
+          {
+            "name": "Fugees", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
+            }, 
+            "uri": "spotify:artist:2WKdxPFRD7IqZvlIAvhMgY", 
+            "href": "https://api.spotify.com/v1/artists/2WKdxPFRD7IqZvlIAvhMgY", 
+            "type": "artist", 
+            "id": "2WKdxPFRD7IqZvlIAvhMgY"
+          }
+        ], 
+        "duration_ms": 262266, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "7G2p0N0Coix7AC5iVinTUT"
+      }, 
+      {
+        "name": "Fu-Gee-La - Sly & Robbie Mix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4QYF8ePzxRfeimSYgAeYI0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/76b32e66f96642c85f39dfe6aba69837481da770", 
+        "is_playable": true, 
+        "uri": "spotify:track:4QYF8ePzxRfeimSYgAeYI0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4QYF8ePzxRfeimSYgAeYI0", 
+        "artists": [
+          {
+            "name": "Fugees", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
+            }, 
+            "uri": "spotify:artist:2WKdxPFRD7IqZvlIAvhMgY", 
+            "href": "https://api.spotify.com/v1/artists/2WKdxPFRD7IqZvlIAvhMgY", 
+            "type": "artist", 
+            "id": "2WKdxPFRD7IqZvlIAvhMgY"
+          }
+        ], 
+        "duration_ms": 327506, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "4QYF8ePzxRfeimSYgAeYI0"
+      }, 
+      {
+        "name": "Mista Mista", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0RheTSOGokhcHge0XQhfvu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b2b9b8700dcf67497f25bcbc8ee78a0dc8ab5ac0", 
+        "is_playable": true, 
+        "uri": "spotify:track:0RheTSOGokhcHge0XQhfvu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0RheTSOGokhcHge0XQhfvu", 
+        "artists": [
+          {
+            "name": "Fugees", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
+            }, 
+            "uri": "spotify:artist:2WKdxPFRD7IqZvlIAvhMgY", 
+            "href": "https://api.spotify.com/v1/artists/2WKdxPFRD7IqZvlIAvhMgY", 
+            "type": "artist", 
+            "id": "2WKdxPFRD7IqZvlIAvhMgY"
+          }
+        ], 
+        "duration_ms": 162426, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "0RheTSOGokhcHge0XQhfvu"
+      }, 
+      {
+        "name": "Fu-Gee-La - Refugee Camp Global Mix", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2I5yLqOjESSGZ6VuPYThgm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5592cb6679c723580861bbcc6828c384f10b98b9", 
+        "is_playable": true, 
+        "uri": "spotify:track:2I5yLqOjESSGZ6VuPYThgm", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2I5yLqOjESSGZ6VuPYThgm", 
+        "artists": [
+          {
+            "name": "Fugees", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
+            }, 
+            "uri": "spotify:artist:2WKdxPFRD7IqZvlIAvhMgY", 
+            "href": "https://api.spotify.com/v1/artists/2WKdxPFRD7IqZvlIAvhMgY", 
+            "type": "artist", 
+            "id": "2WKdxPFRD7IqZvlIAvhMgY"
+          }
+        ], 
+        "duration_ms": 260000, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "2I5yLqOjESSGZ6VuPYThgm"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/7m1r9h3wfPRm3Iv8uvq9vQ/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 17, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/7m1r9h3wfPRm3Iv8uvq9vQ", 
+  "copyrights": [
+    {
+      "text": "1996 Sony Music Entertainment Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Fugees", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
+      }, 
+      "uri": "spotify:artist:2WKdxPFRD7IqZvlIAvhMgY", 
+      "href": "https://api.spotify.com/v1/artists/2WKdxPFRD7IqZvlIAvhMgY", 
+      "type": "artist", 
+      "id": "2WKdxPFRD7IqZvlIAvhMgY"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/4de65291e1795f1e20e5b0c28becd1fa4fd0830a", 
+      "width": 640, 
+      "height": 639
+    }, 
+    {
+      "url": "https://i.scdn.co/image/e46633eff20c4e1e044abd854d74abdd1b064450", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/6041d74d6c748614a50af129edd2b69932a7a629", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "5099748354921"
+  }, 
+  "type": "album", 
+  "id": "7m1r9h3wfPRm3Iv8uvq9vQ", 
+  "name": "The Score"
+}

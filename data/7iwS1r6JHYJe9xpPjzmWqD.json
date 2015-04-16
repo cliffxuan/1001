@@ -1,0 +1,427 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
+  }, 
+  "release_date": "1969-05-03", 
+  "popularity": 56, 
+  "genres": [], 
+  "uri": "spotify:album:7iwS1r6JHYJe9xpPjzmWqD", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Stand!", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/68DqLs1hv7zI08EBvu53wV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e1665059a451211e51f82a93ab50ae5d9fdaeb0b", 
+        "is_playable": true, 
+        "uri": "spotify:track:68DqLs1hv7zI08EBvu53wV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/68DqLs1hv7zI08EBvu53wV", 
+        "artists": [
+          {
+            "name": "Sly & The Family Stone", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+            }, 
+            "uri": "spotify:artist:5m8H6zSadhu1j9Yi04VLqD", 
+            "href": "https://api.spotify.com/v1/artists/5m8H6zSadhu1j9Yi04VLqD", 
+            "type": "artist", 
+            "id": "5m8H6zSadhu1j9Yi04VLqD"
+          }
+        ], 
+        "duration_ms": 187533, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "68DqLs1hv7zI08EBvu53wV"
+      }, 
+      {
+        "name": "Don't Call Me Nigger, Whitey", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7EpNtcFGd3yJl0sjgJgqEe"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ed129ed8182ac67fba4e965d19f71d876bab740a", 
+        "is_playable": true, 
+        "uri": "spotify:track:7EpNtcFGd3yJl0sjgJgqEe", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7EpNtcFGd3yJl0sjgJgqEe", 
+        "artists": [
+          {
+            "name": "Sly & The Family Stone", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+            }, 
+            "uri": "spotify:artist:5m8H6zSadhu1j9Yi04VLqD", 
+            "href": "https://api.spotify.com/v1/artists/5m8H6zSadhu1j9Yi04VLqD", 
+            "type": "artist", 
+            "id": "5m8H6zSadhu1j9Yi04VLqD"
+          }
+        ], 
+        "duration_ms": 357733, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "7EpNtcFGd3yJl0sjgJgqEe"
+      }, 
+      {
+        "name": "I Want to Take You Higher", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4qpIk2rvkmxJEVvt38tepd"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e720b2370e08acf72558ea02b36450814e864f58", 
+        "is_playable": true, 
+        "uri": "spotify:track:4qpIk2rvkmxJEVvt38tepd", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4qpIk2rvkmxJEVvt38tepd", 
+        "artists": [
+          {
+            "name": "Sly & The Family Stone", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+            }, 
+            "uri": "spotify:artist:5m8H6zSadhu1j9Yi04VLqD", 
+            "href": "https://api.spotify.com/v1/artists/5m8H6zSadhu1j9Yi04VLqD", 
+            "type": "artist", 
+            "id": "5m8H6zSadhu1j9Yi04VLqD"
+          }
+        ], 
+        "duration_ms": 322360, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "4qpIk2rvkmxJEVvt38tepd"
+      }, 
+      {
+        "name": "Somebody's Watching You", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5DCAUoDMRiBiezamBZX4yt"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/15e39674cfba0ae1faba92fe3f4cb14daea15f97", 
+        "is_playable": true, 
+        "uri": "spotify:track:5DCAUoDMRiBiezamBZX4yt", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5DCAUoDMRiBiezamBZX4yt", 
+        "artists": [
+          {
+            "name": "Sly & The Family Stone", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+            }, 
+            "uri": "spotify:artist:5m8H6zSadhu1j9Yi04VLqD", 
+            "href": "https://api.spotify.com/v1/artists/5m8H6zSadhu1j9Yi04VLqD", 
+            "type": "artist", 
+            "id": "5m8H6zSadhu1j9Yi04VLqD"
+          }
+        ], 
+        "duration_ms": 200333, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "5DCAUoDMRiBiezamBZX4yt"
+      }, 
+      {
+        "name": "Sing a Simple Song - Single Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3QbfWiLvHcAMYmdRPd9WnX"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9fb669117a2bd3d04e395775bbbd156a12daa6cc", 
+        "is_playable": true, 
+        "uri": "spotify:track:3QbfWiLvHcAMYmdRPd9WnX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3QbfWiLvHcAMYmdRPd9WnX", 
+        "artists": [
+          {
+            "name": "Sly & The Family Stone", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+            }, 
+            "uri": "spotify:artist:5m8H6zSadhu1j9Yi04VLqD", 
+            "href": "https://api.spotify.com/v1/artists/5m8H6zSadhu1j9Yi04VLqD", 
+            "type": "artist", 
+            "id": "5m8H6zSadhu1j9Yi04VLqD"
+          }
+        ], 
+        "duration_ms": 235826, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "3QbfWiLvHcAMYmdRPd9WnX"
+      }, 
+      {
+        "name": "Everyday People - Single Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/142b246c04255d613d695f8a86c09ce41a0b7a02", 
+        "is_playable": true, 
+        "uri": "spotify:track:4ZVZBc5xvMyV3WzWktn8i7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4ZVZBc5xvMyV3WzWktn8i7", 
+        "artists": [
+          {
+            "name": "Sly & The Family Stone", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+            }, 
+            "uri": "spotify:artist:5m8H6zSadhu1j9Yi04VLqD", 
+            "href": "https://api.spotify.com/v1/artists/5m8H6zSadhu1j9Yi04VLqD", 
+            "type": "artist", 
+            "id": "5m8H6zSadhu1j9Yi04VLqD"
+          }
+        ], 
+        "duration_ms": 141506, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "4ZVZBc5xvMyV3WzWktn8i7"
+      }, 
+      {
+        "name": "Sex Machine", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5boXlAAauiYflhou3SrtsO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/43d17aa9708fc062ba8336fa3fdfc026558c8cc8", 
+        "is_playable": true, 
+        "uri": "spotify:track:5boXlAAauiYflhou3SrtsO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5boXlAAauiYflhou3SrtsO", 
+        "artists": [
+          {
+            "name": "Sly & The Family Stone", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+            }, 
+            "uri": "spotify:artist:5m8H6zSadhu1j9Yi04VLqD", 
+            "href": "https://api.spotify.com/v1/artists/5m8H6zSadhu1j9Yi04VLqD", 
+            "type": "artist", 
+            "id": "5m8H6zSadhu1j9Yi04VLqD"
+          }
+        ], 
+        "duration_ms": 826333, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "5boXlAAauiYflhou3SrtsO"
+      }, 
+      {
+        "name": "You Can Make It If You Try", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5yb2pWoPheGZgDCO1c6yUx"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6483a7eafeba623344cfd97068e0250b7e563318", 
+        "is_playable": true, 
+        "uri": "spotify:track:5yb2pWoPheGZgDCO1c6yUx", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5yb2pWoPheGZgDCO1c6yUx", 
+        "artists": [
+          {
+            "name": "Sly & The Family Stone", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+            }, 
+            "uri": "spotify:artist:5m8H6zSadhu1j9Yi04VLqD", 
+            "href": "https://api.spotify.com/v1/artists/5m8H6zSadhu1j9Yi04VLqD", 
+            "type": "artist", 
+            "id": "5m8H6zSadhu1j9Yi04VLqD"
+          }
+        ], 
+        "duration_ms": 218306, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "5yb2pWoPheGZgDCO1c6yUx"
+      }, 
+      {
+        "name": "Stand! - Single Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6LcBqDtVzWLWrPTMfRImsd"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/62f1d9946d8a8ef0fbeec700ab7a6dde9be4e64d", 
+        "is_playable": true, 
+        "uri": "spotify:track:6LcBqDtVzWLWrPTMfRImsd", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6LcBqDtVzWLWrPTMfRImsd", 
+        "artists": [
+          {
+            "name": "Sly & The Family Stone", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+            }, 
+            "uri": "spotify:artist:5m8H6zSadhu1j9Yi04VLqD", 
+            "href": "https://api.spotify.com/v1/artists/5m8H6zSadhu1j9Yi04VLqD", 
+            "type": "artist", 
+            "id": "5m8H6zSadhu1j9Yi04VLqD"
+          }
+        ], 
+        "duration_ms": 187866, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "6LcBqDtVzWLWrPTMfRImsd"
+      }, 
+      {
+        "name": "I Want to Take You Higher - single version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6QzDYLWEh3C2V1OXQmizg5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3d9a61d130ce26126157497e0acfca90dd66d612", 
+        "is_playable": true, 
+        "uri": "spotify:track:6QzDYLWEh3C2V1OXQmizg5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6QzDYLWEh3C2V1OXQmizg5", 
+        "artists": [
+          {
+            "name": "Sly & The Family Stone", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+            }, 
+            "uri": "spotify:artist:5m8H6zSadhu1j9Yi04VLqD", 
+            "href": "https://api.spotify.com/v1/artists/5m8H6zSadhu1j9Yi04VLqD", 
+            "type": "artist", 
+            "id": "5m8H6zSadhu1j9Yi04VLqD"
+          }
+        ], 
+        "duration_ms": 180893, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "6QzDYLWEh3C2V1OXQmizg5"
+      }, 
+      {
+        "name": "You Can Make It If You Try - Single Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7LndVNSh6zlbgVkZ9drx2b"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/98e3447c3492bb1aad4d84585a767d700a4464aa", 
+        "is_playable": true, 
+        "uri": "spotify:track:7LndVNSh6zlbgVkZ9drx2b", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7LndVNSh6zlbgVkZ9drx2b", 
+        "artists": [
+          {
+            "name": "Sly & The Family Stone", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+            }, 
+            "uri": "spotify:artist:5m8H6zSadhu1j9Yi04VLqD", 
+            "href": "https://api.spotify.com/v1/artists/5m8H6zSadhu1j9Yi04VLqD", 
+            "type": "artist", 
+            "id": "5m8H6zSadhu1j9Yi04VLqD"
+          }
+        ], 
+        "duration_ms": 218333, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "7LndVNSh6zlbgVkZ9drx2b"
+      }, 
+      {
+        "name": "Soul Clappin' II", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/75QYayPIpA6Gq0LCgDzGyE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d961e558cd442de4c8e80a4f645fa2c7550e083e", 
+        "is_playable": true, 
+        "uri": "spotify:track:75QYayPIpA6Gq0LCgDzGyE", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/75QYayPIpA6Gq0LCgDzGyE", 
+        "artists": [
+          {
+            "name": "Sly & The Family Stone", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+            }, 
+            "uri": "spotify:artist:5m8H6zSadhu1j9Yi04VLqD", 
+            "href": "https://api.spotify.com/v1/artists/5m8H6zSadhu1j9Yi04VLqD", 
+            "type": "artist", 
+            "id": "5m8H6zSadhu1j9Yi04VLqD"
+          }
+        ], 
+        "duration_ms": 206133, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "75QYayPIpA6Gq0LCgDzGyE"
+      }, 
+      {
+        "name": "My Brain (Zig-Zag) - Instrumental", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2QmiumcCtVH5xNPQJzVCMo"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7043db05771e00006fac5147370b4ea805ee9d45", 
+        "is_playable": true, 
+        "uri": "spotify:track:2QmiumcCtVH5xNPQJzVCMo", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2QmiumcCtVH5xNPQJzVCMo", 
+        "artists": [
+          {
+            "name": "Sly & The Family Stone", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+            }, 
+            "uri": "spotify:artist:5m8H6zSadhu1j9Yi04VLqD", 
+            "href": "https://api.spotify.com/v1/artists/5m8H6zSadhu1j9Yi04VLqD", 
+            "type": "artist", 
+            "id": "5m8H6zSadhu1j9Yi04VLqD"
+          }
+        ], 
+        "duration_ms": 198560, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "2QmiumcCtVH5xNPQJzVCMo"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/7iwS1r6JHYJe9xpPjzmWqD/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 13, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/7iwS1r6JHYJe9xpPjzmWqD", 
+  "copyrights": [
+    {
+      "text": "Originally released 1969. All rights reserved by SONY BMG MUSIC ENTERTAINMENT", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Sly & The Family Stone", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+      }, 
+      "uri": "spotify:artist:5m8H6zSadhu1j9Yi04VLqD", 
+      "href": "https://api.spotify.com/v1/artists/5m8H6zSadhu1j9Yi04VLqD", 
+      "type": "artist", 
+      "id": "5m8H6zSadhu1j9Yi04VLqD"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/178278f98ca9e59338bcbab3620ce8755ca78ec5", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/17be8c2064a5d0e4d9f5e5ba24d403040ffc5e29", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/b843934aa6a415b0f8dcd1bd68405ea361a0be26", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "828767591223"
+  }, 
+  "type": "album", 
+  "id": "7iwS1r6JHYJe9xpPjzmWqD", 
+  "name": "Stand"
+}

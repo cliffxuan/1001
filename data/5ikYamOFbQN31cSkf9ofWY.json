@@ -1,0 +1,394 @@
+{
+  "album_type": "compilation", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5ikYamOFbQN31cSkf9ofWY"
+  }, 
+  "release_date": "2010-05-01", 
+  "popularity": 11, 
+  "genres": [], 
+  "uri": "spotify:album:5ikYamOFbQN31cSkf9ofWY", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Oh Boy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Xuq6KVyMghjlEyN3caWtc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8829649f2837fe17209a45f2b5d6074bc18c759d", 
+        "is_playable": true, 
+        "uri": "spotify:track:1Xuq6KVyMghjlEyN3caWtc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1Xuq6KVyMghjlEyN3caWtc", 
+        "artists": [
+          {
+            "name": "Buddy Holly & The Crickets", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/15jBNfRUPUgdZOTSaNoF5l"
+            }, 
+            "uri": "spotify:artist:15jBNfRUPUgdZOTSaNoF5l", 
+            "href": "https://api.spotify.com/v1/artists/15jBNfRUPUgdZOTSaNoF5l", 
+            "type": "artist", 
+            "id": "15jBNfRUPUgdZOTSaNoF5l"
+          }
+        ], 
+        "duration_ms": 130144, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "1Xuq6KVyMghjlEyN3caWtc"
+      }, 
+      {
+        "name": "Not Fade Away", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7ukxR3gEcROVCPmE7G9ERY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ac55ac76fad4ed7f6670c426c0efbf7405ff9b1c", 
+        "is_playable": true, 
+        "uri": "spotify:track:7ukxR3gEcROVCPmE7G9ERY", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7ukxR3gEcROVCPmE7G9ERY", 
+        "artists": [
+          {
+            "name": "Buddy Holly & The Crickets", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/15jBNfRUPUgdZOTSaNoF5l"
+            }, 
+            "uri": "spotify:artist:15jBNfRUPUgdZOTSaNoF5l", 
+            "href": "https://api.spotify.com/v1/artists/15jBNfRUPUgdZOTSaNoF5l", 
+            "type": "artist", 
+            "id": "15jBNfRUPUgdZOTSaNoF5l"
+          }
+        ], 
+        "duration_ms": 144534, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "7ukxR3gEcROVCPmE7G9ERY"
+      }, 
+      {
+        "name": "Tell Me How", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4cYLYw4o4KSAGxCxCcacp3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/898a6f0436058a7c4542a3622818ed131ffc7eaf", 
+        "is_playable": true, 
+        "uri": "spotify:track:4cYLYw4o4KSAGxCxCcacp3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4cYLYw4o4KSAGxCxCcacp3", 
+        "artists": [
+          {
+            "name": "Buddy Holly & The Crickets", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/15jBNfRUPUgdZOTSaNoF5l"
+            }, 
+            "uri": "spotify:artist:15jBNfRUPUgdZOTSaNoF5l", 
+            "href": "https://api.spotify.com/v1/artists/15jBNfRUPUgdZOTSaNoF5l", 
+            "type": "artist", 
+            "id": "15jBNfRUPUgdZOTSaNoF5l"
+          }
+        ], 
+        "duration_ms": 123344, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "4cYLYw4o4KSAGxCxCcacp3"
+      }, 
+      {
+        "name": "An Empty Cup and a Broken Date", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3cR0lBg5Kb6midkEcavYwr"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0f377b4c922c91362eb5ff67d927499493b8eb34", 
+        "is_playable": true, 
+        "uri": "spotify:track:3cR0lBg5Kb6midkEcavYwr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3cR0lBg5Kb6midkEcavYwr", 
+        "artists": [
+          {
+            "name": "Buddy Holly & The Crickets", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/15jBNfRUPUgdZOTSaNoF5l"
+            }, 
+            "uri": "spotify:artist:15jBNfRUPUgdZOTSaNoF5l", 
+            "href": "https://api.spotify.com/v1/artists/15jBNfRUPUgdZOTSaNoF5l", 
+            "type": "artist", 
+            "id": "15jBNfRUPUgdZOTSaNoF5l"
+          }
+        ], 
+        "duration_ms": 139389, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "3cR0lBg5Kb6midkEcavYwr"
+      }, 
+      {
+        "name": "Maybe Baby", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1RmP2z5HO2wyfIWDtCcPgK"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/10f39103124d62eba448ec41a89e697405fbf05b", 
+        "is_playable": true, 
+        "uri": "spotify:track:1RmP2z5HO2wyfIWDtCcPgK", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1RmP2z5HO2wyfIWDtCcPgK", 
+        "artists": [
+          {
+            "name": "Buddy Holly & The Crickets", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/15jBNfRUPUgdZOTSaNoF5l"
+            }, 
+            "uri": "spotify:artist:15jBNfRUPUgdZOTSaNoF5l", 
+            "href": "https://api.spotify.com/v1/artists/15jBNfRUPUgdZOTSaNoF5l", 
+            "type": "artist", 
+            "id": "15jBNfRUPUgdZOTSaNoF5l"
+          }
+        ], 
+        "duration_ms": 121577, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "1RmP2z5HO2wyfIWDtCcPgK"
+      }, 
+      {
+        "name": "Think It Over", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0LfxsGNTC74CFe5DoGB84P"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1701f32c27f93e2f3494d7ac8b9703641938fbb4", 
+        "is_playable": true, 
+        "uri": "spotify:track:0LfxsGNTC74CFe5DoGB84P", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0LfxsGNTC74CFe5DoGB84P", 
+        "artists": [
+          {
+            "name": "Buddy Holly & The Crickets", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/15jBNfRUPUgdZOTSaNoF5l"
+            }, 
+            "uri": "spotify:artist:15jBNfRUPUgdZOTSaNoF5l", 
+            "href": "https://api.spotify.com/v1/artists/15jBNfRUPUgdZOTSaNoF5l", 
+            "type": "artist", 
+            "id": "15jBNfRUPUgdZOTSaNoF5l"
+          }
+        ], 
+        "duration_ms": 108388, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "0LfxsGNTC74CFe5DoGB84P"
+      }, 
+      {
+        "name": "That'll Be The Day", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3WHx0vcU0gPW9Na26MkfSS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/65e366ca65fb622027056879901c066ea7718929", 
+        "is_playable": true, 
+        "uri": "spotify:track:3WHx0vcU0gPW9Na26MkfSS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3WHx0vcU0gPW9Na26MkfSS", 
+        "artists": [
+          {
+            "name": "Buddy Holly & The Crickets", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/15jBNfRUPUgdZOTSaNoF5l"
+            }, 
+            "uri": "spotify:artist:15jBNfRUPUgdZOTSaNoF5l", 
+            "href": "https://api.spotify.com/v1/artists/15jBNfRUPUgdZOTSaNoF5l", 
+            "type": "artist", 
+            "id": "15jBNfRUPUgdZOTSaNoF5l"
+          }
+        ], 
+        "duration_ms": 139441, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "3WHx0vcU0gPW9Na26MkfSS"
+      }, 
+      {
+        "name": "Rock Me My Baby", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3orHaCYw6p8WlJqj9iFglj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/796591cf52aebb7e8c467e46e912ee9397262f31", 
+        "is_playable": true, 
+        "uri": "spotify:track:3orHaCYw6p8WlJqj9iFglj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3orHaCYw6p8WlJqj9iFglj", 
+        "artists": [
+          {
+            "name": "Buddy Holly & The Crickets", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/15jBNfRUPUgdZOTSaNoF5l"
+            }, 
+            "uri": "spotify:artist:15jBNfRUPUgdZOTSaNoF5l", 
+            "href": "https://api.spotify.com/v1/artists/15jBNfRUPUgdZOTSaNoF5l", 
+            "type": "artist", 
+            "id": "15jBNfRUPUgdZOTSaNoF5l"
+          }
+        ], 
+        "duration_ms": 108516, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "3orHaCYw6p8WlJqj9iFglj"
+      }, 
+      {
+        "name": "Fools Paradise", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2RGiP5dxmquA8v8RK0qb8L"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bbf261354af153b7b2366c8de3275d6d8de6ca0b", 
+        "is_playable": true, 
+        "uri": "spotify:track:2RGiP5dxmquA8v8RK0qb8L", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2RGiP5dxmquA8v8RK0qb8L", 
+        "artists": [
+          {
+            "name": "Buddy Holly & The Crickets", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/15jBNfRUPUgdZOTSaNoF5l"
+            }, 
+            "uri": "spotify:artist:15jBNfRUPUgdZOTSaNoF5l", 
+            "href": "https://api.spotify.com/v1/artists/15jBNfRUPUgdZOTSaNoF5l", 
+            "type": "artist", 
+            "id": "15jBNfRUPUgdZOTSaNoF5l"
+          }
+        ], 
+        "duration_ms": 150576, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "2RGiP5dxmquA8v8RK0qb8L"
+      }, 
+      {
+        "name": "I'm Looking For Someone To Love", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/14wEyt8ihJbH6eDaQtR8kN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/23db69cdb8745e87e65bed4dbb91006ca3bb2c06", 
+        "is_playable": true, 
+        "uri": "spotify:track:14wEyt8ihJbH6eDaQtR8kN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/14wEyt8ihJbH6eDaQtR8kN", 
+        "artists": [
+          {
+            "name": "Buddy Holly & The Crickets", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/15jBNfRUPUgdZOTSaNoF5l"
+            }, 
+            "uri": "spotify:artist:15jBNfRUPUgdZOTSaNoF5l", 
+            "href": "https://api.spotify.com/v1/artists/15jBNfRUPUgdZOTSaNoF5l", 
+            "type": "artist", 
+            "id": "15jBNfRUPUgdZOTSaNoF5l"
+          }
+        ], 
+        "duration_ms": 119070, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "14wEyt8ihJbH6eDaQtR8kN"
+      }, 
+      {
+        "name": "You've Got Love", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7JqzU05Und0aSeUrNV4QfS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c32da3ccf27d5477ade568574e255a6fb5ce684f", 
+        "is_playable": true, 
+        "uri": "spotify:track:7JqzU05Und0aSeUrNV4QfS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7JqzU05Und0aSeUrNV4QfS", 
+        "artists": [
+          {
+            "name": "Buddy Holly & The Crickets", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/15jBNfRUPUgdZOTSaNoF5l"
+            }, 
+            "uri": "spotify:artist:15jBNfRUPUgdZOTSaNoF5l", 
+            "href": "https://api.spotify.com/v1/artists/15jBNfRUPUgdZOTSaNoF5l", 
+            "type": "artist", 
+            "id": "15jBNfRUPUgdZOTSaNoF5l"
+          }
+        ], 
+        "duration_ms": 128211, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "7JqzU05Und0aSeUrNV4QfS"
+      }, 
+      {
+        "name": "Last Night", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1xc7NBVGbpwBIi5QrVYsMs"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6997daf4d364d38d355eee4bf98f9db2b457a846", 
+        "is_playable": true, 
+        "uri": "spotify:track:1xc7NBVGbpwBIi5QrVYsMs", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1xc7NBVGbpwBIi5QrVYsMs", 
+        "artists": [
+          {
+            "name": "Buddy Holly & The Crickets", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/15jBNfRUPUgdZOTSaNoF5l"
+            }, 
+            "uri": "spotify:artist:15jBNfRUPUgdZOTSaNoF5l", 
+            "href": "https://api.spotify.com/v1/artists/15jBNfRUPUgdZOTSaNoF5l", 
+            "type": "artist", 
+            "id": "15jBNfRUPUgdZOTSaNoF5l"
+          }
+        ], 
+        "duration_ms": 115440, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "1xc7NBVGbpwBIi5QrVYsMs"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/5ikYamOFbQN31cSkf9ofWY/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 12, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/5ikYamOFbQN31cSkf9ofWY", 
+  "copyrights": [], 
+  "artists": [
+    {
+      "name": "Buddy Holly & The Crickets", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/15jBNfRUPUgdZOTSaNoF5l"
+      }, 
+      "uri": "spotify:artist:15jBNfRUPUgdZOTSaNoF5l", 
+      "href": "https://api.spotify.com/v1/artists/15jBNfRUPUgdZOTSaNoF5l", 
+      "type": "artist", 
+      "id": "15jBNfRUPUgdZOTSaNoF5l"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/4b8eb8cabaec6047db72d54612e54f0939b6aea0", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/41b6d161a9f1690dfcb62e8889d79a0e17f34b8e", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/cff321cd236d432cb4116c2d50973a844821196c", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "5051509033841"
+  }, 
+  "type": "album", 
+  "id": "5ikYamOFbQN31cSkf9ofWY", 
+  "name": "Chirping Crickets"
+}

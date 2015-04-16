@@ -1,0 +1,319 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5m2MQk77aAXPhwI6Ges8X5"
+  }, 
+  "release_date": "1979-06-27", 
+  "popularity": 59, 
+  "genres": [], 
+  "uri": "spotify:album:5m2MQk77aAXPhwI6Ges8X5", 
+  "tracks": {
+    "items": [
+      {
+        "name": "My My, Hey Hey (Out Of The Blue)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4DFMZUoz6TBh8JVqmw6Drv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/38720c71629ab201090f08e502cb3186e16047e9", 
+        "is_playable": true, 
+        "uri": "spotify:track:4DFMZUoz6TBh8JVqmw6Drv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4DFMZUoz6TBh8JVqmw6Drv", 
+        "artists": [
+          {
+            "name": "Neil Young & Crazy Horse", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1jVuLlkfKibBT0hXDnzQjp"
+            }, 
+            "uri": "spotify:artist:1jVuLlkfKibBT0hXDnzQjp", 
+            "href": "https://api.spotify.com/v1/artists/1jVuLlkfKibBT0hXDnzQjp", 
+            "type": "artist", 
+            "id": "1jVuLlkfKibBT0hXDnzQjp"
+          }
+        ], 
+        "duration_ms": 227840, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "4DFMZUoz6TBh8JVqmw6Drv"
+      }, 
+      {
+        "name": "Thrasher", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0trH3YCSs8VCqY3dCW6StO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/98f44fb1771117c8e986ff23f7711e29bac1424d", 
+        "is_playable": true, 
+        "uri": "spotify:track:0trH3YCSs8VCqY3dCW6StO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0trH3YCSs8VCqY3dCW6StO", 
+        "artists": [
+          {
+            "name": "Neil Young & Crazy Horse", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1jVuLlkfKibBT0hXDnzQjp"
+            }, 
+            "uri": "spotify:artist:1jVuLlkfKibBT0hXDnzQjp", 
+            "href": "https://api.spotify.com/v1/artists/1jVuLlkfKibBT0hXDnzQjp", 
+            "type": "artist", 
+            "id": "1jVuLlkfKibBT0hXDnzQjp"
+          }
+        ], 
+        "duration_ms": 340760, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "0trH3YCSs8VCqY3dCW6StO"
+      }, 
+      {
+        "name": "Ride My Llama", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/37mEpb02jmgBWweulOmADM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e51935ec0af6a2fb13772b3865bcc4c8e235c216", 
+        "is_playable": true, 
+        "uri": "spotify:track:37mEpb02jmgBWweulOmADM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/37mEpb02jmgBWweulOmADM", 
+        "artists": [
+          {
+            "name": "Neil Young & Crazy Horse", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1jVuLlkfKibBT0hXDnzQjp"
+            }, 
+            "uri": "spotify:artist:1jVuLlkfKibBT0hXDnzQjp", 
+            "href": "https://api.spotify.com/v1/artists/1jVuLlkfKibBT0hXDnzQjp", 
+            "type": "artist", 
+            "id": "1jVuLlkfKibBT0hXDnzQjp"
+          }
+        ], 
+        "duration_ms": 150453, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "37mEpb02jmgBWweulOmADM"
+      }, 
+      {
+        "name": "Pocahontas", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7419m261oNue6vXiZ3Lahr"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d276387d4faffed98fc8379e75a6ba44bad8034d", 
+        "is_playable": true, 
+        "uri": "spotify:track:7419m261oNue6vXiZ3Lahr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7419m261oNue6vXiZ3Lahr", 
+        "artists": [
+          {
+            "name": "Neil Young & Crazy Horse", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1jVuLlkfKibBT0hXDnzQjp"
+            }, 
+            "uri": "spotify:artist:1jVuLlkfKibBT0hXDnzQjp", 
+            "href": "https://api.spotify.com/v1/artists/1jVuLlkfKibBT0hXDnzQjp", 
+            "type": "artist", 
+            "id": "1jVuLlkfKibBT0hXDnzQjp"
+          }
+        ], 
+        "duration_ms": 204186, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "7419m261oNue6vXiZ3Lahr"
+      }, 
+      {
+        "name": "Sail Away", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/15fnY7f6xL8ZlqdUNMhZUc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a3654b77ac429b8d1be4e1bb756179ee7d1f0659", 
+        "is_playable": true, 
+        "uri": "spotify:track:15fnY7f6xL8ZlqdUNMhZUc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/15fnY7f6xL8ZlqdUNMhZUc", 
+        "artists": [
+          {
+            "name": "Neil Young & Crazy Horse", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1jVuLlkfKibBT0hXDnzQjp"
+            }, 
+            "uri": "spotify:artist:1jVuLlkfKibBT0hXDnzQjp", 
+            "href": "https://api.spotify.com/v1/artists/1jVuLlkfKibBT0hXDnzQjp", 
+            "type": "artist", 
+            "id": "1jVuLlkfKibBT0hXDnzQjp"
+          }
+        ], 
+        "duration_ms": 230400, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "15fnY7f6xL8ZlqdUNMhZUc"
+      }, 
+      {
+        "name": "Powderfinger", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/300Vj1NjKB84fvcnFnmBHr"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cf5bdb28ec76c5b257b36dcd0c1bb71094a0d739", 
+        "is_playable": true, 
+        "uri": "spotify:track:300Vj1NjKB84fvcnFnmBHr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/300Vj1NjKB84fvcnFnmBHr", 
+        "artists": [
+          {
+            "name": "Neil Young & Crazy Horse", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1jVuLlkfKibBT0hXDnzQjp"
+            }, 
+            "uri": "spotify:artist:1jVuLlkfKibBT0hXDnzQjp", 
+            "href": "https://api.spotify.com/v1/artists/1jVuLlkfKibBT0hXDnzQjp", 
+            "type": "artist", 
+            "id": "1jVuLlkfKibBT0hXDnzQjp"
+          }
+        ], 
+        "duration_ms": 330720, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "300Vj1NjKB84fvcnFnmBHr"
+      }, 
+      {
+        "name": "Welfare Mothers", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0gdvC4ZbIJlRfcaFr1kRsd"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e3fa34a4bb6b7ec7a590e0167f970da5ff4fc6d8", 
+        "is_playable": true, 
+        "uri": "spotify:track:0gdvC4ZbIJlRfcaFr1kRsd", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0gdvC4ZbIJlRfcaFr1kRsd", 
+        "artists": [
+          {
+            "name": "Neil Young & Crazy Horse", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1jVuLlkfKibBT0hXDnzQjp"
+            }, 
+            "uri": "spotify:artist:1jVuLlkfKibBT0hXDnzQjp", 
+            "href": "https://api.spotify.com/v1/artists/1jVuLlkfKibBT0hXDnzQjp", 
+            "type": "artist", 
+            "id": "1jVuLlkfKibBT0hXDnzQjp"
+          }
+        ], 
+        "duration_ms": 229146, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "0gdvC4ZbIJlRfcaFr1kRsd"
+      }, 
+      {
+        "name": "Sedan Delivery", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5vwhq9u7aAVDDRhRtixYBE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/65736784f6ed0cb9932b7153eedc6c0288a378e2", 
+        "is_playable": true, 
+        "uri": "spotify:track:5vwhq9u7aAVDDRhRtixYBE", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5vwhq9u7aAVDDRhRtixYBE", 
+        "artists": [
+          {
+            "name": "Neil Young & Crazy Horse", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1jVuLlkfKibBT0hXDnzQjp"
+            }, 
+            "uri": "spotify:artist:1jVuLlkfKibBT0hXDnzQjp", 
+            "href": "https://api.spotify.com/v1/artists/1jVuLlkfKibBT0hXDnzQjp", 
+            "type": "artist", 
+            "id": "1jVuLlkfKibBT0hXDnzQjp"
+          }
+        ], 
+        "duration_ms": 279773, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "5vwhq9u7aAVDDRhRtixYBE"
+      }, 
+      {
+        "name": "Hey Hey, My My (Into The Black)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/71yqVwxmGUFUTm5CF9viEH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1aa9512ac35d095208810d07fc195683ebaf1180", 
+        "is_playable": true, 
+        "uri": "spotify:track:71yqVwxmGUFUTm5CF9viEH", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/71yqVwxmGUFUTm5CF9viEH", 
+        "artists": [
+          {
+            "name": "Neil Young & Crazy Horse", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1jVuLlkfKibBT0hXDnzQjp"
+            }, 
+            "uri": "spotify:artist:1jVuLlkfKibBT0hXDnzQjp", 
+            "href": "https://api.spotify.com/v1/artists/1jVuLlkfKibBT0hXDnzQjp", 
+            "type": "artist", 
+            "id": "1jVuLlkfKibBT0hXDnzQjp"
+          }
+        ], 
+        "duration_ms": 313386, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "71yqVwxmGUFUTm5CF9viEH"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/5m2MQk77aAXPhwI6Ges8X5/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 9, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/5m2MQk77aAXPhwI6Ges8X5", 
+  "copyrights": [
+    {
+      "text": "1979 Reprise Records", 
+      "type": "C"
+    }, 
+    {
+      "text": "1979 Reprise Records", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Neil Young & Crazy Horse", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1jVuLlkfKibBT0hXDnzQjp"
+      }, 
+      "uri": "spotify:artist:1jVuLlkfKibBT0hXDnzQjp", 
+      "href": "https://api.spotify.com/v1/artists/1jVuLlkfKibBT0hXDnzQjp", 
+      "type": "artist", 
+      "id": "1jVuLlkfKibBT0hXDnzQjp"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/0cda30e673dafdebb42793f18fa3ea112fd6b57c", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/01244d847df2e994a5474a2a8979715cc8d77a7a", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/234dec285c40e65f01f48539ead4d6bf748d8df2", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "075992724968"
+  }, 
+  "type": "album", 
+  "id": "5m2MQk77aAXPhwI6Ges8X5", 
+  "name": "Rust Never Sleeps"
+}

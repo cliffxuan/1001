@@ -1,0 +1,1271 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5iKbwJTf8URd3TSR3xlsuH"
+  }, 
+  "release_date": "2004", 
+  "popularity": 45, 
+  "genres": [], 
+  "uri": "spotify:album:5iKbwJTf8URd3TSR3xlsuH", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Roadrunner", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6KKMaySM5L8r1drPrebwN9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d2000ce7a6a5afbee0d31fd01084fa3dfe761777", 
+        "is_playable": true, 
+        "uri": "spotify:track:6KKMaySM5L8r1drPrebwN9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6KKMaySM5L8r1drPrebwN9", 
+        "artists": [
+          {
+            "name": "Jonathan Richman And The Modern Lovers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+            }, 
+            "uri": "spotify:artist:0NjdXlUziaK1qv3kgZV4Jy", 
+            "href": "https://api.spotify.com/v1/artists/0NjdXlUziaK1qv3kgZV4Jy", 
+            "type": "artist", 
+            "id": "0NjdXlUziaK1qv3kgZV4Jy"
+          }
+        ], 
+        "duration_ms": 244733, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "6KKMaySM5L8r1drPrebwN9"
+      }, 
+      {
+        "name": "Astral Plane", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0JFZHRtfnhBS4FRSBl5WW3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9aa74b5ee1b30827729a8ea42b14eeccfb966154", 
+        "is_playable": true, 
+        "uri": "spotify:track:0JFZHRtfnhBS4FRSBl5WW3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0JFZHRtfnhBS4FRSBl5WW3", 
+        "artists": [
+          {
+            "name": "Jonathan Richman And The Modern Lovers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+            }, 
+            "uri": "spotify:artist:0NjdXlUziaK1qv3kgZV4Jy", 
+            "href": "https://api.spotify.com/v1/artists/0NjdXlUziaK1qv3kgZV4Jy", 
+            "type": "artist", 
+            "id": "0NjdXlUziaK1qv3kgZV4Jy"
+          }
+        ], 
+        "duration_ms": 179280, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "0JFZHRtfnhBS4FRSBl5WW3"
+      }, 
+      {
+        "name": "Pablo Picasso", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1tbLDadaVmcGMLxQelpink"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/807a0b923cfd0e3d4191c8a50bf1e5e216a8075b", 
+        "is_playable": true, 
+        "uri": "spotify:track:1tbLDadaVmcGMLxQelpink", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1tbLDadaVmcGMLxQelpink", 
+        "artists": [
+          {
+            "name": "Jonathan Richman And The Modern Lovers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+            }, 
+            "uri": "spotify:artist:0NjdXlUziaK1qv3kgZV4Jy", 
+            "href": "https://api.spotify.com/v1/artists/0NjdXlUziaK1qv3kgZV4Jy", 
+            "type": "artist", 
+            "id": "0NjdXlUziaK1qv3kgZV4Jy"
+          }
+        ], 
+        "duration_ms": 259920, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "1tbLDadaVmcGMLxQelpink"
+      }, 
+      {
+        "name": "She Cracked", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Q3h5CE2YudlJzH4VJTRFt"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/88ed551b0fef731e4584d1a363356d71769c7c26", 
+        "is_playable": true, 
+        "uri": "spotify:track:6Q3h5CE2YudlJzH4VJTRFt", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6Q3h5CE2YudlJzH4VJTRFt", 
+        "artists": [
+          {
+            "name": "Jonathan Richman And The Modern Lovers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+            }, 
+            "uri": "spotify:artist:0NjdXlUziaK1qv3kgZV4Jy", 
+            "href": "https://api.spotify.com/v1/artists/0NjdXlUziaK1qv3kgZV4Jy", 
+            "type": "artist", 
+            "id": "0NjdXlUziaK1qv3kgZV4Jy"
+          }
+        ], 
+        "duration_ms": 173733, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "6Q3h5CE2YudlJzH4VJTRFt"
+      }, 
+      {
+        "name": "Hospital", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Yph3gvqNMawEW1mClmYbG"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/26b778b1f5b1f6cbec90d74f6510f4183b495871", 
+        "is_playable": true, 
+        "uri": "spotify:track:0Yph3gvqNMawEW1mClmYbG", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0Yph3gvqNMawEW1mClmYbG", 
+        "artists": [
+          {
+            "name": "Jonathan Richman And The Modern Lovers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+            }, 
+            "uri": "spotify:artist:0NjdXlUziaK1qv3kgZV4Jy", 
+            "href": "https://api.spotify.com/v1/artists/0NjdXlUziaK1qv3kgZV4Jy", 
+            "type": "artist", 
+            "id": "0NjdXlUziaK1qv3kgZV4Jy"
+          }
+        ], 
+        "duration_ms": 329826, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "0Yph3gvqNMawEW1mClmYbG"
+      }, 
+      {
+        "name": "Someone I Care About", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6vpOXILxjRpOytJpr1KQTx"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/31ae6a8e04f2c0d271289cdd604717e05bdfbc7e", 
+        "is_playable": true, 
+        "uri": "spotify:track:6vpOXILxjRpOytJpr1KQTx", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6vpOXILxjRpOytJpr1KQTx", 
+        "artists": [
+          {
+            "name": "Jonathan Richman And The Modern Lovers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+            }, 
+            "uri": "spotify:artist:0NjdXlUziaK1qv3kgZV4Jy", 
+            "href": "https://api.spotify.com/v1/artists/0NjdXlUziaK1qv3kgZV4Jy", 
+            "type": "artist", 
+            "id": "0NjdXlUziaK1qv3kgZV4Jy"
+          }
+        ], 
+        "duration_ms": 217253, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "6vpOXILxjRpOytJpr1KQTx"
+      }, 
+      {
+        "name": "Modern World - Alternative version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6nPju64qOQmjnH0QPYTNsA"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0ac232539c786668fc7a88d4a3c7296a5475b1f7", 
+        "is_playable": true, 
+        "uri": "spotify:track:6nPju64qOQmjnH0QPYTNsA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6nPju64qOQmjnH0QPYTNsA", 
+        "artists": [
+          {
+            "name": "Jonathan Richman And The Modern Lovers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+            }, 
+            "uri": "spotify:artist:0NjdXlUziaK1qv3kgZV4Jy", 
+            "href": "https://api.spotify.com/v1/artists/0NjdXlUziaK1qv3kgZV4Jy", 
+            "type": "artist", 
+            "id": "0NjdXlUziaK1qv3kgZV4Jy"
+          }
+        ], 
+        "duration_ms": 195120, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "6nPju64qOQmjnH0QPYTNsA"
+      }, 
+      {
+        "name": "I'm Straight", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1ubH6bQidGQPHhQC2Ty8j7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/da15d7691f96d290115d3f7334f236ef6831a8a0", 
+        "is_playable": true, 
+        "uri": "spotify:track:1ubH6bQidGQPHhQC2Ty8j7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1ubH6bQidGQPHhQC2Ty8j7", 
+        "artists": [
+          {
+            "name": "Jonathan Richman And The Modern Lovers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+            }, 
+            "uri": "spotify:artist:0NjdXlUziaK1qv3kgZV4Jy", 
+            "href": "https://api.spotify.com/v1/artists/0NjdXlUziaK1qv3kgZV4Jy", 
+            "type": "artist", 
+            "id": "0NjdXlUziaK1qv3kgZV4Jy"
+          }
+        ], 
+        "duration_ms": 256706, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "1ubH6bQidGQPHhQC2Ty8j7"
+      }, 
+      {
+        "name": "Dignified and Old", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2PPQ8JT6saS2naiGqJkgrJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c43cc5c355dc4cfab2117f463db7386dd05107d9", 
+        "is_playable": true, 
+        "uri": "spotify:track:2PPQ8JT6saS2naiGqJkgrJ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2PPQ8JT6saS2naiGqJkgrJ", 
+        "artists": [
+          {
+            "name": "Jonathan Richman And The Modern Lovers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+            }, 
+            "uri": "spotify:artist:0NjdXlUziaK1qv3kgZV4Jy", 
+            "href": "https://api.spotify.com/v1/artists/0NjdXlUziaK1qv3kgZV4Jy", 
+            "type": "artist", 
+            "id": "0NjdXlUziaK1qv3kgZV4Jy"
+          }
+        ], 
+        "duration_ms": 146800, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "2PPQ8JT6saS2naiGqJkgrJ"
+      }, 
+      {
+        "name": "Government Center", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2esDl9e1avyn4Z5SBvgIsP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/09229d0e6623180bbcb9d223892cfc4ec0bbf0df", 
+        "is_playable": true, 
+        "uri": "spotify:track:2esDl9e1avyn4Z5SBvgIsP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2esDl9e1avyn4Z5SBvgIsP", 
+        "artists": [
+          {
+            "name": "Jonathan Richman And The Modern Lovers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+            }, 
+            "uri": "spotify:artist:0NjdXlUziaK1qv3kgZV4Jy", 
+            "href": "https://api.spotify.com/v1/artists/0NjdXlUziaK1qv3kgZV4Jy", 
+            "type": "artist", 
+            "id": "0NjdXlUziaK1qv3kgZV4Jy"
+          }
+        ], 
+        "duration_ms": 135666, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "2esDl9e1avyn4Z5SBvgIsP"
+      }, 
+      {
+        "name": "The New Teller", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5JzzOvqlMNdRSGGKHZcbIS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cb1e85c275defc8ab376e15da7d7240cf8d980c8", 
+        "is_playable": true, 
+        "uri": "spotify:track:5JzzOvqlMNdRSGGKHZcbIS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5JzzOvqlMNdRSGGKHZcbIS", 
+        "artists": [
+          {
+            "name": "Jonathan Richman And The Modern Lovers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+            }, 
+            "uri": "spotify:artist:0NjdXlUziaK1qv3kgZV4Jy", 
+            "href": "https://api.spotify.com/v1/artists/0NjdXlUziaK1qv3kgZV4Jy", 
+            "type": "artist", 
+            "id": "0NjdXlUziaK1qv3kgZV4Jy"
+          }
+        ], 
+        "duration_ms": 100333, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "5JzzOvqlMNdRSGGKHZcbIS"
+      }, 
+      {
+        "name": "It Will Stand", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/63XJxCSs1rY1sAqXwyq93L"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5dceea8d062950cc1bb1686649c810ab26721e50", 
+        "is_playable": true, 
+        "uri": "spotify:track:63XJxCSs1rY1sAqXwyq93L", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/63XJxCSs1rY1sAqXwyq93L", 
+        "artists": [
+          {
+            "name": "Jonathan Richman And The Modern Lovers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+            }, 
+            "uri": "spotify:artist:0NjdXlUziaK1qv3kgZV4Jy", 
+            "href": "https://api.spotify.com/v1/artists/0NjdXlUziaK1qv3kgZV4Jy", 
+            "type": "artist", 
+            "id": "0NjdXlUziaK1qv3kgZV4Jy"
+          }
+        ], 
+        "duration_ms": 155093, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "63XJxCSs1rY1sAqXwyq93L"
+      }, 
+      {
+        "name": "Back In the U.S.A.", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5773iaH6p4urvT6TcWOxus"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/15ec7fbcbed53f37798ad7cfe95ef0a465c8ee86", 
+        "is_playable": true, 
+        "uri": "spotify:track:5773iaH6p4urvT6TcWOxus", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5773iaH6p4urvT6TcWOxus", 
+        "artists": [
+          {
+            "name": "Jonathan Richman And The Modern Lovers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+            }, 
+            "uri": "spotify:artist:0NjdXlUziaK1qv3kgZV4Jy", 
+            "href": "https://api.spotify.com/v1/artists/0NjdXlUziaK1qv3kgZV4Jy", 
+            "type": "artist", 
+            "id": "0NjdXlUziaK1qv3kgZV4Jy"
+          }
+        ], 
+        "duration_ms": 144706, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "5773iaH6p4urvT6TcWOxus"
+      }, 
+      {
+        "name": "Rockin' Shopping Center", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5FwFmUMC4R5CHAh9iUyNpx"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f87e9734dfd73dbe8f130e6b38ff3f64fac691aa", 
+        "is_playable": true, 
+        "uri": "spotify:track:5FwFmUMC4R5CHAh9iUyNpx", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5FwFmUMC4R5CHAh9iUyNpx", 
+        "artists": [
+          {
+            "name": "Jonathan Richman And The Modern Lovers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+            }, 
+            "uri": "spotify:artist:0NjdXlUziaK1qv3kgZV4Jy", 
+            "href": "https://api.spotify.com/v1/artists/0NjdXlUziaK1qv3kgZV4Jy", 
+            "type": "artist", 
+            "id": "0NjdXlUziaK1qv3kgZV4Jy"
+          }
+        ], 
+        "duration_ms": 216426, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "5FwFmUMC4R5CHAh9iUyNpx"
+      }, 
+      {
+        "name": "New England", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5pNJ2rZmlqimP2KQSWTXx7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b37b680275ff44c5b723fe41685ffa6784fb8de8", 
+        "is_playable": true, 
+        "uri": "spotify:track:5pNJ2rZmlqimP2KQSWTXx7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5pNJ2rZmlqimP2KQSWTXx7", 
+        "artists": [
+          {
+            "name": "Jonathan Richman And The Modern Lovers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+            }, 
+            "uri": "spotify:artist:0NjdXlUziaK1qv3kgZV4Jy", 
+            "href": "https://api.spotify.com/v1/artists/0NjdXlUziaK1qv3kgZV4Jy", 
+            "type": "artist", 
+            "id": "0NjdXlUziaK1qv3kgZV4Jy"
+          }
+        ], 
+        "duration_ms": 143853, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "5pNJ2rZmlqimP2KQSWTXx7"
+      }, 
+      {
+        "name": "Lonely Financial Zone", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0DkdyGywOwOOuJl5vpjjRg"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/91cf2cd51a927b997c4b49327c3c5323c638bbd2", 
+        "is_playable": true, 
+        "uri": "spotify:track:0DkdyGywOwOOuJl5vpjjRg", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0DkdyGywOwOOuJl5vpjjRg", 
+        "artists": [
+          {
+            "name": "Jonathan Richman And The Modern Lovers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+            }, 
+            "uri": "spotify:artist:0NjdXlUziaK1qv3kgZV4Jy", 
+            "href": "https://api.spotify.com/v1/artists/0NjdXlUziaK1qv3kgZV4Jy", 
+            "type": "artist", 
+            "id": "0NjdXlUziaK1qv3kgZV4Jy"
+          }
+        ], 
+        "duration_ms": 178666, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "0DkdyGywOwOOuJl5vpjjRg"
+      }, 
+      {
+        "name": "Here Come the Martian Martians", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/25iIYshYCLtvAOIPyqRDih"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/19da214d62d20d602489a0130248ab5aa2423934", 
+        "is_playable": true, 
+        "uri": "spotify:track:25iIYshYCLtvAOIPyqRDih", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/25iIYshYCLtvAOIPyqRDih", 
+        "artists": [
+          {
+            "name": "Jonathan Richman And The Modern Lovers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+            }, 
+            "uri": "spotify:artist:0NjdXlUziaK1qv3kgZV4Jy", 
+            "href": "https://api.spotify.com/v1/artists/0NjdXlUziaK1qv3kgZV4Jy", 
+            "type": "artist", 
+            "id": "0NjdXlUziaK1qv3kgZV4Jy"
+          }
+        ], 
+        "duration_ms": 193586, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "25iIYshYCLtvAOIPyqRDih"
+      }, 
+      {
+        "name": "Amazing Grace", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5nWlUaZutmqsCUL4byALi4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/98fddd04eed1c7d2330b4b892beb628e54240e79", 
+        "is_playable": true, 
+        "uri": "spotify:track:5nWlUaZutmqsCUL4byALi4", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5nWlUaZutmqsCUL4byALi4", 
+        "artists": [
+          {
+            "name": "Jonathan Richman And The Modern Lovers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+            }, 
+            "uri": "spotify:artist:0NjdXlUziaK1qv3kgZV4Jy", 
+            "href": "https://api.spotify.com/v1/artists/0NjdXlUziaK1qv3kgZV4Jy", 
+            "type": "artist", 
+            "id": "0NjdXlUziaK1qv3kgZV4Jy"
+          }
+        ], 
+        "duration_ms": 166320, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "5nWlUaZutmqsCUL4byALi4"
+      }, 
+      {
+        "name": "Rockin' Rockin' Leprechauns", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/05lsUBfMXHDJ02WhCq7dvy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e117bcb1b5aa99dde48a9e51b705a3000c7cc706", 
+        "is_playable": true, 
+        "uri": "spotify:track:05lsUBfMXHDJ02WhCq7dvy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/05lsUBfMXHDJ02WhCq7dvy", 
+        "artists": [
+          {
+            "name": "Jonathan Richman And The Modern Lovers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+            }, 
+            "uri": "spotify:artist:0NjdXlUziaK1qv3kgZV4Jy", 
+            "href": "https://api.spotify.com/v1/artists/0NjdXlUziaK1qv3kgZV4Jy", 
+            "type": "artist", 
+            "id": "0NjdXlUziaK1qv3kgZV4Jy"
+          }
+        ], 
+        "duration_ms": 131186, 
+        "track_number": 19, 
+        "type": "track", 
+        "id": "05lsUBfMXHDJ02WhCq7dvy"
+      }, 
+      {
+        "name": "Summer Morning", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7kfHNz0CU2ua2YRcgMhWjz"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/671a4f15ec46a68804f7e474209ac7ce44c06ec7", 
+        "is_playable": true, 
+        "uri": "spotify:track:7kfHNz0CU2ua2YRcgMhWjz", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7kfHNz0CU2ua2YRcgMhWjz", 
+        "artists": [
+          {
+            "name": "Jonathan Richman And The Modern Lovers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+            }, 
+            "uri": "spotify:artist:0NjdXlUziaK1qv3kgZV4Jy", 
+            "href": "https://api.spotify.com/v1/artists/0NjdXlUziaK1qv3kgZV4Jy", 
+            "type": "artist", 
+            "id": "0NjdXlUziaK1qv3kgZV4Jy"
+          }
+        ], 
+        "duration_ms": 231213, 
+        "track_number": 20, 
+        "type": "track", 
+        "id": "7kfHNz0CU2ua2YRcgMhWjz"
+      }, 
+      {
+        "name": "Afternoon", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Yt1gmwDyg129totphjht8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cf97719d48f8067308fe0a436f8ef66d494d7344", 
+        "is_playable": true, 
+        "uri": "spotify:track:0Yt1gmwDyg129totphjht8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0Yt1gmwDyg129totphjht8", 
+        "artists": [
+          {
+            "name": "Jonathan Richman And The Modern Lovers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+            }, 
+            "uri": "spotify:artist:0NjdXlUziaK1qv3kgZV4Jy", 
+            "href": "https://api.spotify.com/v1/artists/0NjdXlUziaK1qv3kgZV4Jy", 
+            "type": "artist", 
+            "id": "0NjdXlUziaK1qv3kgZV4Jy"
+          }
+        ], 
+        "duration_ms": 169800, 
+        "track_number": 21, 
+        "type": "track", 
+        "id": "0Yt1gmwDyg129totphjht8"
+      }, 
+      {
+        "name": "Egyptian Reggae", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5s5OwANDqXCS92sn2PEjNo"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fb12b91231e10cdda97878288ec2fefa80b48563", 
+        "is_playable": true, 
+        "uri": "spotify:track:5s5OwANDqXCS92sn2PEjNo", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5s5OwANDqXCS92sn2PEjNo", 
+        "artists": [
+          {
+            "name": "Jonathan Richman And The Modern Lovers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+            }, 
+            "uri": "spotify:artist:0NjdXlUziaK1qv3kgZV4Jy", 
+            "href": "https://api.spotify.com/v1/artists/0NjdXlUziaK1qv3kgZV4Jy", 
+            "type": "artist", 
+            "id": "0NjdXlUziaK1qv3kgZV4Jy"
+          }
+        ], 
+        "duration_ms": 157053, 
+        "track_number": 22, 
+        "type": "track", 
+        "id": "5s5OwANDqXCS92sn2PEjNo"
+      }, 
+      {
+        "name": "The Sweeping Wing (Kwa Ti Feng)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7rZLhdNt5AcAecOkSFfcWz"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/93288f1b5e36ad161f9ad05a73dae3fe4e04958e", 
+        "is_playable": true, 
+        "uri": "spotify:track:7rZLhdNt5AcAecOkSFfcWz", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/7rZLhdNt5AcAecOkSFfcWz", 
+        "artists": [
+          {
+            "name": "Jonathan Richman And The Modern Lovers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+            }, 
+            "uri": "spotify:artist:0NjdXlUziaK1qv3kgZV4Jy", 
+            "href": "https://api.spotify.com/v1/artists/0NjdXlUziaK1qv3kgZV4Jy", 
+            "type": "artist", 
+            "id": "0NjdXlUziaK1qv3kgZV4Jy"
+          }
+        ], 
+        "duration_ms": 121786, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "7rZLhdNt5AcAecOkSFfcWz"
+      }, 
+      {
+        "name": "Dodge Veg-O-Matic", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4HxgZXMCd9p7GqsEM9QaxQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2ff71e346d7544edb1b8ca477287d2e1ad96113b", 
+        "is_playable": true, 
+        "uri": "spotify:track:4HxgZXMCd9p7GqsEM9QaxQ", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4HxgZXMCd9p7GqsEM9QaxQ", 
+        "artists": [
+          {
+            "name": "Jonathan Richman And The Modern Lovers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+            }, 
+            "uri": "spotify:artist:0NjdXlUziaK1qv3kgZV4Jy", 
+            "href": "https://api.spotify.com/v1/artists/0NjdXlUziaK1qv3kgZV4Jy", 
+            "type": "artist", 
+            "id": "0NjdXlUziaK1qv3kgZV4Jy"
+          }
+        ], 
+        "duration_ms": 340693, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "4HxgZXMCd9p7GqsEM9QaxQ"
+      }, 
+      {
+        "name": "Fly Into Mystery", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3GTi0uQuEnnX95x0seDPgu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/20e48eddc19a50ecbb1898b451fa3703365398d8", 
+        "is_playable": true, 
+        "uri": "spotify:track:3GTi0uQuEnnX95x0seDPgu", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/3GTi0uQuEnnX95x0seDPgu", 
+        "artists": [
+          {
+            "name": "Jonathan Richman And The Modern Lovers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+            }, 
+            "uri": "spotify:artist:0NjdXlUziaK1qv3kgZV4Jy", 
+            "href": "https://api.spotify.com/v1/artists/0NjdXlUziaK1qv3kgZV4Jy", 
+            "type": "artist", 
+            "id": "0NjdXlUziaK1qv3kgZV4Jy"
+          }
+        ], 
+        "duration_ms": 197133, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "3GTi0uQuEnnX95x0seDPgu"
+      }, 
+      {
+        "name": "The Wheels On the Bus", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/697Q9GI8ESDvHS6ldoWxSY"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/eda32ccca96bc3814ce5d5171d98e45c0d9a66a9", 
+        "is_playable": true, 
+        "uri": "spotify:track:697Q9GI8ESDvHS6ldoWxSY", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/697Q9GI8ESDvHS6ldoWxSY", 
+        "artists": [
+          {
+            "name": "Jonathan Richman And The Modern Lovers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+            }, 
+            "uri": "spotify:artist:0NjdXlUziaK1qv3kgZV4Jy", 
+            "href": "https://api.spotify.com/v1/artists/0NjdXlUziaK1qv3kgZV4Jy", 
+            "type": "artist", 
+            "id": "0NjdXlUziaK1qv3kgZV4Jy"
+          }
+        ], 
+        "duration_ms": 147533, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "697Q9GI8ESDvHS6ldoWxSY"
+      }, 
+      {
+        "name": "Angels Watching Over Me", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5V9ZoTn5UylcDgZBD9yVg7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9ed53385198dd6c92a1ecbee6367b5cb9e4d2b4e", 
+        "is_playable": true, 
+        "uri": "spotify:track:5V9ZoTn5UylcDgZBD9yVg7", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5V9ZoTn5UylcDgZBD9yVg7", 
+        "artists": [
+          {
+            "name": "Jonathan Richman And The Modern Lovers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+            }, 
+            "uri": "spotify:artist:0NjdXlUziaK1qv3kgZV4Jy", 
+            "href": "https://api.spotify.com/v1/artists/0NjdXlUziaK1qv3kgZV4Jy", 
+            "type": "artist", 
+            "id": "0NjdXlUziaK1qv3kgZV4Jy"
+          }
+        ], 
+        "duration_ms": 110120, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "5V9ZoTn5UylcDgZBD9yVg7"
+      }, 
+      {
+        "name": "I'm a Little Airplane", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1erqXxMOATfmeJMvzEjroo"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2d638fdb80d0144d349d485de6044638d07580c4", 
+        "is_playable": true, 
+        "uri": "spotify:track:1erqXxMOATfmeJMvzEjroo", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1erqXxMOATfmeJMvzEjroo", 
+        "artists": [
+          {
+            "name": "Jonathan Richman And The Modern Lovers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+            }, 
+            "uri": "spotify:artist:0NjdXlUziaK1qv3kgZV4Jy", 
+            "href": "https://api.spotify.com/v1/artists/0NjdXlUziaK1qv3kgZV4Jy", 
+            "type": "artist", 
+            "id": "0NjdXlUziaK1qv3kgZV4Jy"
+          }
+        ], 
+        "duration_ms": 159426, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "1erqXxMOATfmeJMvzEjroo"
+      }, 
+      {
+        "name": "Hey There Little Insect", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3DtU8B5z6aZGA0Dhua6S3O"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2b270d68bed1cb003a34e6bb93159719d5063fa5", 
+        "is_playable": true, 
+        "uri": "spotify:track:3DtU8B5z6aZGA0Dhua6S3O", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/3DtU8B5z6aZGA0Dhua6S3O", 
+        "artists": [
+          {
+            "name": "Jonathan Richman And The Modern Lovers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+            }, 
+            "uri": "spotify:artist:0NjdXlUziaK1qv3kgZV4Jy", 
+            "href": "https://api.spotify.com/v1/artists/0NjdXlUziaK1qv3kgZV4Jy", 
+            "type": "artist", 
+            "id": "0NjdXlUziaK1qv3kgZV4Jy"
+          }
+        ], 
+        "duration_ms": 166306, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "3DtU8B5z6aZGA0Dhua6S3O"
+      }, 
+      {
+        "name": "Ice Cream Man", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/42iA6YP5Ep97nTeHQvK2Ex"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/49aea3247c162610bdbc7c66b4d606b15cff3979", 
+        "is_playable": true, 
+        "uri": "spotify:track:42iA6YP5Ep97nTeHQvK2Ex", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/42iA6YP5Ep97nTeHQvK2Ex", 
+        "artists": [
+          {
+            "name": "Jonathan Richman And The Modern Lovers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+            }, 
+            "uri": "spotify:artist:0NjdXlUziaK1qv3kgZV4Jy", 
+            "href": "https://api.spotify.com/v1/artists/0NjdXlUziaK1qv3kgZV4Jy", 
+            "type": "artist", 
+            "id": "0NjdXlUziaK1qv3kgZV4Jy"
+          }
+        ], 
+        "duration_ms": 446933, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "42iA6YP5Ep97nTeHQvK2Ex"
+      }, 
+      {
+        "name": "I'm a Little Dinosaur", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6RQm8fbPlgyMytFYcbKRQz"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/87390ac82e02662a0ce011904d39a68a83c5cf93", 
+        "is_playable": true, 
+        "uri": "spotify:track:6RQm8fbPlgyMytFYcbKRQz", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6RQm8fbPlgyMytFYcbKRQz", 
+        "artists": [
+          {
+            "name": "Jonathan Richman And The Modern Lovers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+            }, 
+            "uri": "spotify:artist:0NjdXlUziaK1qv3kgZV4Jy", 
+            "href": "https://api.spotify.com/v1/artists/0NjdXlUziaK1qv3kgZV4Jy", 
+            "type": "artist", 
+            "id": "0NjdXlUziaK1qv3kgZV4Jy"
+          }
+        ], 
+        "duration_ms": 121413, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "6RQm8fbPlgyMytFYcbKRQz"
+      }, 
+      {
+        "name": "The Morning of Our Lives", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4uaIdLY5T3ZloNnBzEaQM9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c8711d0c07e42a26e834bf9c6f42d6f3dc30683e", 
+        "is_playable": true, 
+        "uri": "spotify:track:4uaIdLY5T3ZloNnBzEaQM9", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4uaIdLY5T3ZloNnBzEaQM9", 
+        "artists": [
+          {
+            "name": "Jonathan Richman And The Modern Lovers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+            }, 
+            "uri": "spotify:artist:0NjdXlUziaK1qv3kgZV4Jy", 
+            "href": "https://api.spotify.com/v1/artists/0NjdXlUziaK1qv3kgZV4Jy", 
+            "type": "artist", 
+            "id": "0NjdXlUziaK1qv3kgZV4Jy"
+          }
+        ], 
+        "duration_ms": 326853, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "4uaIdLY5T3ZloNnBzEaQM9"
+      }, 
+      {
+        "name": "Chapel of Love", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/040mONBmhKRedMj2d7tEAS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4b721fecb455c76dadac8a333773ac14d43324f3", 
+        "is_playable": true, 
+        "uri": "spotify:track:040mONBmhKRedMj2d7tEAS", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/040mONBmhKRedMj2d7tEAS", 
+        "artists": [
+          {
+            "name": "Jonathan Richman And The Modern Lovers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+            }, 
+            "uri": "spotify:artist:0NjdXlUziaK1qv3kgZV4Jy", 
+            "href": "https://api.spotify.com/v1/artists/0NjdXlUziaK1qv3kgZV4Jy", 
+            "type": "artist", 
+            "id": "0NjdXlUziaK1qv3kgZV4Jy"
+          }
+        ], 
+        "duration_ms": 161293, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "040mONBmhKRedMj2d7tEAS"
+      }, 
+      {
+        "name": "Abdul and Cleopatra", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6x0KcFIi5VEk6vYT0wXJuF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7e2eb97c9ca648df684ea1dfb4cec1d05dfe25a1", 
+        "is_playable": true, 
+        "uri": "spotify:track:6x0KcFIi5VEk6vYT0wXJuF", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6x0KcFIi5VEk6vYT0wXJuF", 
+        "artists": [
+          {
+            "name": "Jonathan Richman And The Modern Lovers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+            }, 
+            "uri": "spotify:artist:0NjdXlUziaK1qv3kgZV4Jy", 
+            "href": "https://api.spotify.com/v1/artists/0NjdXlUziaK1qv3kgZV4Jy", 
+            "type": "artist", 
+            "id": "0NjdXlUziaK1qv3kgZV4Jy"
+          }
+        ], 
+        "duration_ms": 195720, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "6x0KcFIi5VEk6vYT0wXJuF"
+      }, 
+      {
+        "name": "Lover Please", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4FWw8E7W6IHcpkcp26a1uv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/61cbe8d148c8345a8454a81ae08c9735601c86a3", 
+        "is_playable": true, 
+        "uri": "spotify:track:4FWw8E7W6IHcpkcp26a1uv", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4FWw8E7W6IHcpkcp26a1uv", 
+        "artists": [
+          {
+            "name": "Jonathan Richman And The Modern Lovers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+            }, 
+            "uri": "spotify:artist:0NjdXlUziaK1qv3kgZV4Jy", 
+            "href": "https://api.spotify.com/v1/artists/0NjdXlUziaK1qv3kgZV4Jy", 
+            "type": "artist", 
+            "id": "0NjdXlUziaK1qv3kgZV4Jy"
+          }
+        ], 
+        "duration_ms": 115400, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "4FWw8E7W6IHcpkcp26a1uv"
+      }, 
+      {
+        "name": "Affection", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4aZIRBieym7jXkUxScnL6D"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/30238ed6619c43a332035d864097d9e4b2413ae3", 
+        "is_playable": true, 
+        "uri": "spotify:track:4aZIRBieym7jXkUxScnL6D", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4aZIRBieym7jXkUxScnL6D", 
+        "artists": [
+          {
+            "name": "Jonathan Richman And The Modern Lovers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+            }, 
+            "uri": "spotify:artist:0NjdXlUziaK1qv3kgZV4Jy", 
+            "href": "https://api.spotify.com/v1/artists/0NjdXlUziaK1qv3kgZV4Jy", 
+            "type": "artist", 
+            "id": "0NjdXlUziaK1qv3kgZV4Jy"
+          }
+        ], 
+        "duration_ms": 245666, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "4aZIRBieym7jXkUxScnL6D"
+      }, 
+      {
+        "name": "Buzz Buzz Buzz", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4FrJsqd7h2D4hVAXIoURTj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bef1ac2d6e6955783a11213e0aa82ec4f0f91e54", 
+        "is_playable": true, 
+        "uri": "spotify:track:4FrJsqd7h2D4hVAXIoURTj", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4FrJsqd7h2D4hVAXIoURTj", 
+        "artists": [
+          {
+            "name": "Jonathan Richman And The Modern Lovers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+            }, 
+            "uri": "spotify:artist:0NjdXlUziaK1qv3kgZV4Jy", 
+            "href": "https://api.spotify.com/v1/artists/0NjdXlUziaK1qv3kgZV4Jy", 
+            "type": "artist", 
+            "id": "0NjdXlUziaK1qv3kgZV4Jy"
+          }
+        ], 
+        "duration_ms": 116786, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "4FrJsqd7h2D4hVAXIoURTj"
+      }, 
+      {
+        "name": "Back In Your Life", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7FAHGFkQhoDf5gGKlVNx2N"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6efc1ef4cd435892a399f81ee3c0c27df0977792", 
+        "is_playable": true, 
+        "uri": "spotify:track:7FAHGFkQhoDf5gGKlVNx2N", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/7FAHGFkQhoDf5gGKlVNx2N", 
+        "artists": [
+          {
+            "name": "Jonathan Richman And The Modern Lovers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+            }, 
+            "uri": "spotify:artist:0NjdXlUziaK1qv3kgZV4Jy", 
+            "href": "https://api.spotify.com/v1/artists/0NjdXlUziaK1qv3kgZV4Jy", 
+            "type": "artist", 
+            "id": "0NjdXlUziaK1qv3kgZV4Jy"
+          }
+        ], 
+        "duration_ms": 132840, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "7FAHGFkQhoDf5gGKlVNx2N"
+      }, 
+      {
+        "name": "Party In the Woods Tonight", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7kmqFK33Ca2QPuEPkub3on"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f782a9752ead32b10bb94b54009c4c5709c8302a", 
+        "is_playable": true, 
+        "uri": "spotify:track:7kmqFK33Ca2QPuEPkub3on", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/7kmqFK33Ca2QPuEPkub3on", 
+        "artists": [
+          {
+            "name": "Jonathan Richman And The Modern Lovers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+            }, 
+            "uri": "spotify:artist:0NjdXlUziaK1qv3kgZV4Jy", 
+            "href": "https://api.spotify.com/v1/artists/0NjdXlUziaK1qv3kgZV4Jy", 
+            "type": "artist", 
+            "id": "0NjdXlUziaK1qv3kgZV4Jy"
+          }
+        ], 
+        "duration_ms": 180146, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "7kmqFK33Ca2QPuEPkub3on"
+      }, 
+      {
+        "name": "I'm Nature's Mosquito", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5fXgErUMTOZzhzlaiPbzn4"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/67658c000b13c909360a7041444628b1b7e81e5a", 
+        "is_playable": true, 
+        "uri": "spotify:track:5fXgErUMTOZzhzlaiPbzn4", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/5fXgErUMTOZzhzlaiPbzn4", 
+        "artists": [
+          {
+            "name": "Jonathan Richman And The Modern Lovers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+            }, 
+            "uri": "spotify:artist:0NjdXlUziaK1qv3kgZV4Jy", 
+            "href": "https://api.spotify.com/v1/artists/0NjdXlUziaK1qv3kgZV4Jy", 
+            "type": "artist", 
+            "id": "0NjdXlUziaK1qv3kgZV4Jy"
+          }
+        ], 
+        "duration_ms": 163000, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "5fXgErUMTOZzhzlaiPbzn4"
+      }, 
+      {
+        "name": "Lydia", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0ucEMFvmtTTyO9mgsWSJZa"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/55027f6975e94bd8dad0abe06e80ada25d4a46ab", 
+        "is_playable": true, 
+        "uri": "spotify:track:0ucEMFvmtTTyO9mgsWSJZa", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/0ucEMFvmtTTyO9mgsWSJZa", 
+        "artists": [
+          {
+            "name": "Jonathan Richman And The Modern Lovers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+            }, 
+            "uri": "spotify:artist:0NjdXlUziaK1qv3kgZV4Jy", 
+            "href": "https://api.spotify.com/v1/artists/0NjdXlUziaK1qv3kgZV4Jy", 
+            "type": "artist", 
+            "id": "0NjdXlUziaK1qv3kgZV4Jy"
+          }
+        ], 
+        "duration_ms": 188186, 
+        "track_number": 19, 
+        "type": "track", 
+        "id": "0ucEMFvmtTTyO9mgsWSJZa"
+      }, 
+      {
+        "name": "I Hear You Calling Me", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/66bFotid2Fw4CQuUSi1TD8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c0830683d92bf691c152cfdba425a52d41b4866c", 
+        "is_playable": true, 
+        "uri": "spotify:track:66bFotid2Fw4CQuUSi1TD8", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/66bFotid2Fw4CQuUSi1TD8", 
+        "artists": [
+          {
+            "name": "Jonathan Richman And The Modern Lovers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+            }, 
+            "uri": "spotify:artist:0NjdXlUziaK1qv3kgZV4Jy", 
+            "href": "https://api.spotify.com/v1/artists/0NjdXlUziaK1qv3kgZV4Jy", 
+            "type": "artist", 
+            "id": "0NjdXlUziaK1qv3kgZV4Jy"
+          }
+        ], 
+        "duration_ms": 169560, 
+        "track_number": 20, 
+        "type": "track", 
+        "id": "66bFotid2Fw4CQuUSi1TD8"
+      }, 
+      {
+        "name": "Roadrunner (Once)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4m8Uj8yu78liS57VosLtr1"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a56a372ef68247e7617c31f77ed793b2f75a55c9", 
+        "is_playable": true, 
+        "uri": "spotify:track:4m8Uj8yu78liS57VosLtr1", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4m8Uj8yu78liS57VosLtr1", 
+        "artists": [
+          {
+            "name": "The Modern Lovers", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2eRdPaLHWAL4d1WcNUO9Vz"
+            }, 
+            "uri": "spotify:artist:2eRdPaLHWAL4d1WcNUO9Vz", 
+            "href": "https://api.spotify.com/v1/artists/2eRdPaLHWAL4d1WcNUO9Vz", 
+            "type": "artist", 
+            "id": "2eRdPaLHWAL4d1WcNUO9Vz"
+          }
+        ], 
+        "duration_ms": 283026, 
+        "track_number": 21, 
+        "type": "track", 
+        "id": "4m8Uj8yu78liS57VosLtr1"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/5iKbwJTf8URd3TSR3xlsuH/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 43, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/5iKbwJTf8URd3TSR3xlsuH", 
+  "copyrights": [
+    {
+      "text": "2004 Sanctuary Records Group Ltd., a BMG Company, under exclusive license to [PIAS] UK Ltd.", 
+      "type": "C"
+    }, 
+    {
+      "text": "2004 Sanctuary Records Group Ltd., a BMG Company, under exclusive license to [PIAS] UK Ltd.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Jonathan Richman And The Modern Lovers", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+      }, 
+      "uri": "spotify:artist:0NjdXlUziaK1qv3kgZV4Jy", 
+      "href": "https://api.spotify.com/v1/artists/0NjdXlUziaK1qv3kgZV4Jy", 
+      "type": "artist", 
+      "id": "0NjdXlUziaK1qv3kgZV4Jy"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/9fa3c384a57f2fd3c8220775be9f15a0770ceb93", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/e93125985a9c9cbc79148be9dbbbd281cb61c999", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/845fae40fb02556d756b11ef4e4f006997314620", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "0602527752983"
+  }, 
+  "type": "album", 
+  "id": "5iKbwJTf8URd3TSR3xlsuH", 
+  "name": "Roadrunner: The Beserkley Collection"
+}

@@ -1,0 +1,571 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/05wcY4zcfSawCyoutTTxda"
+  }, 
+  "release_date": "1991-01-15", 
+  "popularity": 47, 
+  "genres": [], 
+  "uri": "spotify:album:05wcY4zcfSawCyoutTTxda", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Name Tag (Premier & The Guru)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/22xZBU2cP2tPwRdp8oPnkT"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d21f150404f919b50934cf4b6b943aacb6613ba3", 
+        "is_playable": true, 
+        "uri": "spotify:track:22xZBU2cP2tPwRdp8oPnkT", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/22xZBU2cP2tPwRdp8oPnkT", 
+        "artists": [
+          {
+            "name": "Gang Starr", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+            }, 
+            "uri": "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ", 
+            "href": "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ", 
+            "type": "artist", 
+            "id": "5cMgGlA1xGyeAB2ctYlRdZ"
+          }
+        ], 
+        "duration_ms": 36333, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "22xZBU2cP2tPwRdp8oPnkT"
+      }, 
+      {
+        "name": "Step In The Arena", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7ktOcCYTypSCkMoYppOyTe"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b675479c4e11fa9328f3a4f88d8d8e4bfb6533a1", 
+        "is_playable": true, 
+        "uri": "spotify:track:7ktOcCYTypSCkMoYppOyTe", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7ktOcCYTypSCkMoYppOyTe", 
+        "artists": [
+          {
+            "name": "Gang Starr", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+            }, 
+            "uri": "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ", 
+            "href": "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ", 
+            "type": "artist", 
+            "id": "5cMgGlA1xGyeAB2ctYlRdZ"
+          }
+        ], 
+        "duration_ms": 217360, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "7ktOcCYTypSCkMoYppOyTe"
+      }, 
+      {
+        "name": "Form Of Intellect", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3XYaIyRXzaa29EfgDa4TtA"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c104ce565fe41742a6264ef9a3d0d55e64291078", 
+        "is_playable": true, 
+        "uri": "spotify:track:3XYaIyRXzaa29EfgDa4TtA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3XYaIyRXzaa29EfgDa4TtA", 
+        "artists": [
+          {
+            "name": "Gang Starr", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+            }, 
+            "uri": "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ", 
+            "href": "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ", 
+            "type": "artist", 
+            "id": "5cMgGlA1xGyeAB2ctYlRdZ"
+          }
+        ], 
+        "duration_ms": 220000, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "3XYaIyRXzaa29EfgDa4TtA"
+      }, 
+      {
+        "name": "Execution Of A Chump", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2GLQCyOGdqpDbR9RszgKaL"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c407bce02237976d5bde7d140c0d822b14fe1c8f", 
+        "is_playable": true, 
+        "uri": "spotify:track:2GLQCyOGdqpDbR9RszgKaL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2GLQCyOGdqpDbR9RszgKaL", 
+        "artists": [
+          {
+            "name": "Gang Starr", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+            }, 
+            "uri": "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ", 
+            "href": "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ", 
+            "type": "artist", 
+            "id": "5cMgGlA1xGyeAB2ctYlRdZ"
+          }
+        ], 
+        "duration_ms": 161933, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "2GLQCyOGdqpDbR9RszgKaL"
+      }, 
+      {
+        "name": "Who's Gonna Take The Weight?", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1DjT07bjc0kg5IK6PPwPkp"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/408407fc5917c9fd37afa5c57eb299d9c857d9a0", 
+        "is_playable": true, 
+        "uri": "spotify:track:1DjT07bjc0kg5IK6PPwPkp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1DjT07bjc0kg5IK6PPwPkp", 
+        "artists": [
+          {
+            "name": "Gang Starr", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+            }, 
+            "uri": "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ", 
+            "href": "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ", 
+            "type": "artist", 
+            "id": "5cMgGlA1xGyeAB2ctYlRdZ"
+          }
+        ], 
+        "duration_ms": 236066, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "1DjT07bjc0kg5IK6PPwPkp"
+      }, 
+      {
+        "name": "Beyond Comprehension", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6XtbUGgpXbbvF2lm5N6qX7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5ace0b593c5f09dde91dddfde408ef6b619b4a05", 
+        "is_playable": true, 
+        "uri": "spotify:track:6XtbUGgpXbbvF2lm5N6qX7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6XtbUGgpXbbvF2lm5N6qX7", 
+        "artists": [
+          {
+            "name": "Gang Starr", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+            }, 
+            "uri": "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ", 
+            "href": "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ", 
+            "type": "artist", 
+            "id": "5cMgGlA1xGyeAB2ctYlRdZ"
+          }
+        ], 
+        "duration_ms": 193573, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "6XtbUGgpXbbvF2lm5N6qX7"
+      }, 
+      {
+        "name": "Check The Technique", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3OemGjbFDABaU46Rz4ZYDp"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/aad083d52fbb1c7487c9f910b6127f3a9093eb93", 
+        "is_playable": true, 
+        "uri": "spotify:track:3OemGjbFDABaU46Rz4ZYDp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3OemGjbFDABaU46Rz4ZYDp", 
+        "artists": [
+          {
+            "name": "Gang Starr", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+            }, 
+            "uri": "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ", 
+            "href": "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ", 
+            "type": "artist", 
+            "id": "5cMgGlA1xGyeAB2ctYlRdZ"
+          }
+        ], 
+        "duration_ms": 238760, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "3OemGjbFDABaU46Rz4ZYDp"
+      }, 
+      {
+        "name": "Lovesick", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6biAvuLvtDrIZI9kKKkhgC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2e0cc5222e5d142f468c7eb6a3288fa37f065e41", 
+        "is_playable": true, 
+        "uri": "spotify:track:6biAvuLvtDrIZI9kKKkhgC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6biAvuLvtDrIZI9kKKkhgC", 
+        "artists": [
+          {
+            "name": "Gang Starr", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+            }, 
+            "uri": "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ", 
+            "href": "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ", 
+            "type": "artist", 
+            "id": "5cMgGlA1xGyeAB2ctYlRdZ"
+          }
+        ], 
+        "duration_ms": 207000, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "6biAvuLvtDrIZI9kKKkhgC"
+      }, 
+      {
+        "name": "Here Today, Gone Tomorrow", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0XfSqMDKvGAchyAXwCXFlP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c38738d4440840f10ef626d1de7bd1dae89f4d05", 
+        "is_playable": true, 
+        "uri": "spotify:track:0XfSqMDKvGAchyAXwCXFlP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0XfSqMDKvGAchyAXwCXFlP", 
+        "artists": [
+          {
+            "name": "Gang Starr", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+            }, 
+            "uri": "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ", 
+            "href": "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ", 
+            "type": "artist", 
+            "id": "5cMgGlA1xGyeAB2ctYlRdZ"
+          }
+        ], 
+        "duration_ms": 138640, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "0XfSqMDKvGAchyAXwCXFlP"
+      }, 
+      {
+        "name": "Game Plan", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7seYdyzmBZPl7PYbczG5xf"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/01b49cc6dfeb110f4d62be5788ce14b5bff6516a", 
+        "is_playable": true, 
+        "uri": "spotify:track:7seYdyzmBZPl7PYbczG5xf", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7seYdyzmBZPl7PYbczG5xf", 
+        "artists": [
+          {
+            "name": "Gang Starr", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+            }, 
+            "uri": "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ", 
+            "href": "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ", 
+            "type": "artist", 
+            "id": "5cMgGlA1xGyeAB2ctYlRdZ"
+          }
+        ], 
+        "duration_ms": 68026, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "7seYdyzmBZPl7PYbczG5xf"
+      }, 
+      {
+        "name": "Take A Rest", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/37qh8b3vdrqbOMBFCCUrfh"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bee49be09d5a75010cf57025f36d8719b85c55f0", 
+        "is_playable": true, 
+        "uri": "spotify:track:37qh8b3vdrqbOMBFCCUrfh", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/37qh8b3vdrqbOMBFCCUrfh", 
+        "artists": [
+          {
+            "name": "Gang Starr", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+            }, 
+            "uri": "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ", 
+            "href": "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ", 
+            "type": "artist", 
+            "id": "5cMgGlA1xGyeAB2ctYlRdZ"
+          }
+        ], 
+        "duration_ms": 261066, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "37qh8b3vdrqbOMBFCCUrfh"
+      }, 
+      {
+        "name": "What You Want This Time?", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2rLlzHFMSsCzYZ8goTuLxh"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9f0ea0d26159c9fc3a68f48d02d73ed12620d3fe", 
+        "is_playable": true, 
+        "uri": "spotify:track:2rLlzHFMSsCzYZ8goTuLxh", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2rLlzHFMSsCzYZ8goTuLxh", 
+        "artists": [
+          {
+            "name": "Gang Starr", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+            }, 
+            "uri": "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ", 
+            "href": "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ", 
+            "type": "artist", 
+            "id": "5cMgGlA1xGyeAB2ctYlRdZ"
+          }
+        ], 
+        "duration_ms": 161573, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "2rLlzHFMSsCzYZ8goTuLxh"
+      }, 
+      {
+        "name": "Street Ministry", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4nbNPLZ9WD9dG2t1ZOt6rj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3dbabda644ec1ca68f00f26e9a4ae8b00cb0c73a", 
+        "is_playable": true, 
+        "uri": "spotify:track:4nbNPLZ9WD9dG2t1ZOt6rj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4nbNPLZ9WD9dG2t1ZOt6rj", 
+        "artists": [
+          {
+            "name": "Gang Starr", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+            }, 
+            "uri": "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ", 
+            "href": "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ", 
+            "type": "artist", 
+            "id": "5cMgGlA1xGyeAB2ctYlRdZ"
+          }
+        ], 
+        "duration_ms": 85533, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "4nbNPLZ9WD9dG2t1ZOt6rj"
+      }, 
+      {
+        "name": "Just To Get A Rep", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1jVdrIvODvfIowkGykEqfa"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/770b72c15e6c12d69bb98da9214f7ff08385a058", 
+        "is_playable": true, 
+        "uri": "spotify:track:1jVdrIvODvfIowkGykEqfa", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1jVdrIvODvfIowkGykEqfa", 
+        "artists": [
+          {
+            "name": "Gang Starr", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+            }, 
+            "uri": "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ", 
+            "href": "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ", 
+            "type": "artist", 
+            "id": "5cMgGlA1xGyeAB2ctYlRdZ"
+          }
+        ], 
+        "duration_ms": 162693, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "1jVdrIvODvfIowkGykEqfa"
+      }, 
+      {
+        "name": "Say Your Prayers", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4OemMFQjpHHaTX1fUcTKMR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/652d67050b87df1dbed80e5547f10d6350bd04f4", 
+        "is_playable": true, 
+        "uri": "spotify:track:4OemMFQjpHHaTX1fUcTKMR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4OemMFQjpHHaTX1fUcTKMR", 
+        "artists": [
+          {
+            "name": "Gang Starr", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+            }, 
+            "uri": "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ", 
+            "href": "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ", 
+            "type": "artist", 
+            "id": "5cMgGlA1xGyeAB2ctYlRdZ"
+          }
+        ], 
+        "duration_ms": 84573, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "4OemMFQjpHHaTX1fUcTKMR"
+      }, 
+      {
+        "name": "As I Read My S-A", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5gVsn9UIVKgVqe6BQxbknh"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c3a69ba7291641259f631627f41a1715f4007a71", 
+        "is_playable": true, 
+        "uri": "spotify:track:5gVsn9UIVKgVqe6BQxbknh", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5gVsn9UIVKgVqe6BQxbknh", 
+        "artists": [
+          {
+            "name": "Gang Starr", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+            }, 
+            "uri": "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ", 
+            "href": "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ", 
+            "type": "artist", 
+            "id": "5cMgGlA1xGyeAB2ctYlRdZ"
+          }
+        ], 
+        "duration_ms": 182000, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "5gVsn9UIVKgVqe6BQxbknh"
+      }, 
+      {
+        "name": "Precisely The Right Rhymes", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5pKKE2plWHy5dv6wrIQViS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/db8d4977e6ff8ac7248877eac1e2a39e83a88821", 
+        "is_playable": true, 
+        "uri": "spotify:track:5pKKE2plWHy5dv6wrIQViS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5pKKE2plWHy5dv6wrIQViS", 
+        "artists": [
+          {
+            "name": "Gang Starr", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+            }, 
+            "uri": "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ", 
+            "href": "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ", 
+            "type": "artist", 
+            "id": "5cMgGlA1xGyeAB2ctYlRdZ"
+          }
+        ], 
+        "duration_ms": 205466, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "5pKKE2plWHy5dv6wrIQViS"
+      }, 
+      {
+        "name": "The Meaning Of The Name", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5IxjWezVAwikdCXmrATATt"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/eb082790c9655abc22a46e83681d6e5304ac0a4f", 
+        "is_playable": true, 
+        "uri": "spotify:track:5IxjWezVAwikdCXmrATATt", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5IxjWezVAwikdCXmrATATt", 
+        "artists": [
+          {
+            "name": "Gang Starr", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+            }, 
+            "uri": "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ", 
+            "href": "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ", 
+            "type": "artist", 
+            "id": "5cMgGlA1xGyeAB2ctYlRdZ"
+          }
+        ], 
+        "duration_ms": 175160, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "5IxjWezVAwikdCXmrATATt"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/05wcY4zcfSawCyoutTTxda/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 18, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/05wcY4zcfSawCyoutTTxda", 
+  "copyrights": [
+    {
+      "text": "(C) 1990 Virgin Records America, Inc.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1990 Virgin Records America, Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Gang Starr", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+      }, 
+      "uri": "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ", 
+      "href": "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ", 
+      "type": "artist", 
+      "id": "5cMgGlA1xGyeAB2ctYlRdZ"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/807ad3cf5b56ab8ebff93c18181372590330c61b", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/ea337bebe52a800286bfaaab0f9902f1e4bbeb43", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/39f8b315b2316277685f68348ac8170917f28d0d", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00094632179852"
+  }, 
+  "type": "album", 
+  "id": "05wcY4zcfSawCyoutTTxda", 
+  "name": "Step In The Arena"
+}

@@ -1,0 +1,287 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
+  }, 
+  "release_date": "1975", 
+  "popularity": 65, 
+  "genres": [], 
+  "uri": "spotify:album:43YIoHKSrEw2GJsWmhZIpu", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Thunder Road", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/56lhDZNQ5J47aog6mGKeGk"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6ef469d4d2f100a849f508d6dcc53df42b11e4c2", 
+        "is_playable": true, 
+        "uri": "spotify:track:56lhDZNQ5J47aog6mGKeGk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/56lhDZNQ5J47aog6mGKeGk", 
+        "artists": [
+          {
+            "name": "Bruce Springsteen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+            }, 
+            "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT", 
+            "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT", 
+            "type": "artist", 
+            "id": "3eqjTLE0HfPfh78zjh6TqT"
+          }
+        ], 
+        "duration_ms": 288720, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "56lhDZNQ5J47aog6mGKeGk"
+      }, 
+      {
+        "name": "Tenth Avenue Freeze-Out", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Gmdm6oRVwJgsM8gYnwRoE"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/90f5a0c7ee41a8e8c5ba4f0d92cd0895a348e55d", 
+        "is_playable": true, 
+        "uri": "spotify:track:4Gmdm6oRVwJgsM8gYnwRoE", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4Gmdm6oRVwJgsM8gYnwRoE", 
+        "artists": [
+          {
+            "name": "Bruce Springsteen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+            }, 
+            "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT", 
+            "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT", 
+            "type": "artist", 
+            "id": "3eqjTLE0HfPfh78zjh6TqT"
+          }
+        ], 
+        "duration_ms": 190466, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "4Gmdm6oRVwJgsM8gYnwRoE"
+      }, 
+      {
+        "name": "Night", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/305AMS2fhp16LoYxKiYsXF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/32367839e2932ec6090bce29c44c35038d26ed5b", 
+        "is_playable": true, 
+        "uri": "spotify:track:305AMS2fhp16LoYxKiYsXF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/305AMS2fhp16LoYxKiYsXF", 
+        "artists": [
+          {
+            "name": "Bruce Springsteen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+            }, 
+            "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT", 
+            "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT", 
+            "type": "artist", 
+            "id": "3eqjTLE0HfPfh78zjh6TqT"
+          }
+        ], 
+        "duration_ms": 180226, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "305AMS2fhp16LoYxKiYsXF"
+      }, 
+      {
+        "name": "Backstreets", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4cKJsZuzbNBpdxeMC9pBQG"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ad9acc81b483d399d3ca1f7bf071e9669ac79731", 
+        "is_playable": true, 
+        "uri": "spotify:track:4cKJsZuzbNBpdxeMC9pBQG", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4cKJsZuzbNBpdxeMC9pBQG", 
+        "artists": [
+          {
+            "name": "Bruce Springsteen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+            }, 
+            "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT", 
+            "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT", 
+            "type": "artist", 
+            "id": "3eqjTLE0HfPfh78zjh6TqT"
+          }
+        ], 
+        "duration_ms": 390146, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "4cKJsZuzbNBpdxeMC9pBQG"
+      }, 
+      {
+        "name": "Born to Run", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/775dae7f5fbaa763c08b7237f97f694e7ed6bcdc", 
+        "is_playable": true, 
+        "uri": "spotify:track:6hTcuIQa0sxrrByu9wTD7s", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6hTcuIQa0sxrrByu9wTD7s", 
+        "artists": [
+          {
+            "name": "Bruce Springsteen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+            }, 
+            "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT", 
+            "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT", 
+            "type": "artist", 
+            "id": "3eqjTLE0HfPfh78zjh6TqT"
+          }
+        ], 
+        "duration_ms": 269920, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "6hTcuIQa0sxrrByu9wTD7s"
+      }, 
+      {
+        "name": "She's the One", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5St2IxnaIYOPflaomWB3Pz"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9528cff69ea552076626344638c7ba42b2f24f29", 
+        "is_playable": true, 
+        "uri": "spotify:track:5St2IxnaIYOPflaomWB3Pz", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5St2IxnaIYOPflaomWB3Pz", 
+        "artists": [
+          {
+            "name": "Bruce Springsteen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+            }, 
+            "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT", 
+            "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT", 
+            "type": "artist", 
+            "id": "3eqjTLE0HfPfh78zjh6TqT"
+          }
+        ], 
+        "duration_ms": 270266, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "5St2IxnaIYOPflaomWB3Pz"
+      }, 
+      {
+        "name": "Meeting Across the River", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/22wGmrE8HQZHvHC44n7Htm"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/61be604360a550835ff1d1327cc2d4729e2214db", 
+        "is_playable": true, 
+        "uri": "spotify:track:22wGmrE8HQZHvHC44n7Htm", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/22wGmrE8HQZHvHC44n7Htm", 
+        "artists": [
+          {
+            "name": "Bruce Springsteen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+            }, 
+            "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT", 
+            "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT", 
+            "type": "artist", 
+            "id": "3eqjTLE0HfPfh78zjh6TqT"
+          }
+        ], 
+        "duration_ms": 196706, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "22wGmrE8HQZHvHC44n7Htm"
+      }, 
+      {
+        "name": "Jungleland", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3R2q3FCnNIw2XhuEbYtYk6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8c42738ce9e12e3cca521ca0b2bd79683d08c23d", 
+        "is_playable": true, 
+        "uri": "spotify:track:3R2q3FCnNIw2XhuEbYtYk6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3R2q3FCnNIw2XhuEbYtYk6", 
+        "artists": [
+          {
+            "name": "Bruce Springsteen", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+            }, 
+            "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT", 
+            "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT", 
+            "type": "artist", 
+            "id": "3eqjTLE0HfPfh78zjh6TqT"
+          }
+        ], 
+        "duration_ms": 575653, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "3R2q3FCnNIw2XhuEbYtYk6"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/43YIoHKSrEw2GJsWmhZIpu/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 8, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/43YIoHKSrEw2GJsWmhZIpu", 
+  "copyrights": [
+    {
+      "text": "(P) 1975 Bruce Springsteen", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Bruce Springsteen", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      }, 
+      "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT", 
+      "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT", 
+      "type": "artist", 
+      "id": "3eqjTLE0HfPfh78zjh6TqT"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/38f8c2de50ea73d29418b3c7fad2287e1f5fc626", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/ae5cc1ad1b55621c1d835c08c7135bcb37f0f903", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/5d2e8f5eff8b885c07196e171ca02519b2a49738", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "884977157031"
+  }, 
+  "type": "album", 
+  "id": "43YIoHKSrEw2GJsWmhZIpu", 
+  "name": "Born To Run"
+}

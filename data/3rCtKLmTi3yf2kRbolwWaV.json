@@ -1,0 +1,399 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3rCtKLmTi3yf2kRbolwWaV"
+  }, 
+  "release_date": "1980", 
+  "popularity": 35, 
+  "genres": [], 
+  "uri": "spotify:album:3rCtKLmTi3yf2kRbolwWaV", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Dog Eat Dog", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/09OGhN53cA6F0VBbD57ycF"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d8cd2d30175fc8c374717907f355a5c80d5e74f1", 
+        "is_playable": true, 
+        "uri": "spotify:track:09OGhN53cA6F0VBbD57ycF", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/09OGhN53cA6F0VBbD57ycF", 
+        "artists": [
+          {
+            "name": "Adam & The Ants", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2DppeCnNtvrLfEobq9Pw5r"
+            }, 
+            "uri": "spotify:artist:2DppeCnNtvrLfEobq9Pw5r", 
+            "href": "https://api.spotify.com/v1/artists/2DppeCnNtvrLfEobq9Pw5r", 
+            "type": "artist", 
+            "id": "2DppeCnNtvrLfEobq9Pw5r"
+          }
+        ], 
+        "duration_ms": 189066, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "09OGhN53cA6F0VBbD57ycF"
+      }, 
+      {
+        "name": "Antmusic", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2X242D8VhTikWUT1i1nYJC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1efd04b7311d6eec79eca999103dc52b10f83340", 
+        "is_playable": true, 
+        "uri": "spotify:track:2X242D8VhTikWUT1i1nYJC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2X242D8VhTikWUT1i1nYJC", 
+        "artists": [
+          {
+            "name": "Adam & The Ants", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2DppeCnNtvrLfEobq9Pw5r"
+            }, 
+            "uri": "spotify:artist:2DppeCnNtvrLfEobq9Pw5r", 
+            "href": "https://api.spotify.com/v1/artists/2DppeCnNtvrLfEobq9Pw5r", 
+            "type": "artist", 
+            "id": "2DppeCnNtvrLfEobq9Pw5r"
+          }
+        ], 
+        "duration_ms": 216426, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "2X242D8VhTikWUT1i1nYJC"
+      }, 
+      {
+        "name": "Feed Me To The Lions", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1qKYS3NUEsr9moJYHxukAU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/32d3ff364187882e593ffb8f0fa338b7b55060bf", 
+        "is_playable": true, 
+        "uri": "spotify:track:1qKYS3NUEsr9moJYHxukAU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1qKYS3NUEsr9moJYHxukAU", 
+        "artists": [
+          {
+            "name": "Adam & The Ants", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2DppeCnNtvrLfEobq9Pw5r"
+            }, 
+            "uri": "spotify:artist:2DppeCnNtvrLfEobq9Pw5r", 
+            "href": "https://api.spotify.com/v1/artists/2DppeCnNtvrLfEobq9Pw5r", 
+            "type": "artist", 
+            "id": "2DppeCnNtvrLfEobq9Pw5r"
+          }
+        ], 
+        "duration_ms": 180400, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "1qKYS3NUEsr9moJYHxukAU"
+      }, 
+      {
+        "name": "Los Rancheros - Demo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3kJvBglZwI3FeTK2sgz3LN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/78c98f55036936a007b50b2f90355f836d0ca6f0", 
+        "is_playable": true, 
+        "uri": "spotify:track:3kJvBglZwI3FeTK2sgz3LN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3kJvBglZwI3FeTK2sgz3LN", 
+        "artists": [
+          {
+            "name": "Adam & The Ants", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2DppeCnNtvrLfEobq9Pw5r"
+            }, 
+            "uri": "spotify:artist:2DppeCnNtvrLfEobq9Pw5r", 
+            "href": "https://api.spotify.com/v1/artists/2DppeCnNtvrLfEobq9Pw5r", 
+            "type": "artist", 
+            "id": "2DppeCnNtvrLfEobq9Pw5r"
+          }
+        ], 
+        "duration_ms": 210200, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "3kJvBglZwI3FeTK2sgz3LN"
+      }, 
+      {
+        "name": "Ants Invasion", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/588TFCvzyzR4eYFv19DEkw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/406bbff6bd8a66b519e1879a6999e206c3941ac4", 
+        "is_playable": true, 
+        "uri": "spotify:track:588TFCvzyzR4eYFv19DEkw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/588TFCvzyzR4eYFv19DEkw", 
+        "artists": [
+          {
+            "name": "Adam & The Ants", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2DppeCnNtvrLfEobq9Pw5r"
+            }, 
+            "uri": "spotify:artist:2DppeCnNtvrLfEobq9Pw5r", 
+            "href": "https://api.spotify.com/v1/artists/2DppeCnNtvrLfEobq9Pw5r", 
+            "type": "artist", 
+            "id": "2DppeCnNtvrLfEobq9Pw5r"
+          }
+        ], 
+        "duration_ms": 200040, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "588TFCvzyzR4eYFv19DEkw"
+      }, 
+      {
+        "name": "Killer In The Home", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2vMUOf8aNRmN9D4XrEUGD0"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/baca1cf50e20997e56ef433ef09feb0003c385d1", 
+        "is_playable": true, 
+        "uri": "spotify:track:2vMUOf8aNRmN9D4XrEUGD0", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2vMUOf8aNRmN9D4XrEUGD0", 
+        "artists": [
+          {
+            "name": "Adam & The Ants", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2DppeCnNtvrLfEobq9Pw5r"
+            }, 
+            "uri": "spotify:artist:2DppeCnNtvrLfEobq9Pw5r", 
+            "href": "https://api.spotify.com/v1/artists/2DppeCnNtvrLfEobq9Pw5r", 
+            "type": "artist", 
+            "id": "2DppeCnNtvrLfEobq9Pw5r"
+          }
+        ], 
+        "duration_ms": 260893, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "2vMUOf8aNRmN9D4XrEUGD0"
+      }, 
+      {
+        "name": "Kings of the Wild Frontier", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2TAfGirNJe0qUOeRmWsSyk"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/293e8d3de381240de3d5fee324d53248a58c9876", 
+        "is_playable": true, 
+        "uri": "spotify:track:2TAfGirNJe0qUOeRmWsSyk", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2TAfGirNJe0qUOeRmWsSyk", 
+        "artists": [
+          {
+            "name": "Adam & The Ants", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2DppeCnNtvrLfEobq9Pw5r"
+            }, 
+            "uri": "spotify:artist:2DppeCnNtvrLfEobq9Pw5r", 
+            "href": "https://api.spotify.com/v1/artists/2DppeCnNtvrLfEobq9Pw5r", 
+            "type": "artist", 
+            "id": "2DppeCnNtvrLfEobq9Pw5r"
+          }
+        ], 
+        "duration_ms": 234066, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "2TAfGirNJe0qUOeRmWsSyk"
+      }, 
+      {
+        "name": "The Magnificent Five", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4ypsEnQBqi4lKxvUXt4Mkp"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a8cdaec25cd87fae33f78e523b68a826bfcb27d0", 
+        "is_playable": true, 
+        "uri": "spotify:track:4ypsEnQBqi4lKxvUXt4Mkp", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4ypsEnQBqi4lKxvUXt4Mkp", 
+        "artists": [
+          {
+            "name": "Adam & The Ants", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2DppeCnNtvrLfEobq9Pw5r"
+            }, 
+            "uri": "spotify:artist:2DppeCnNtvrLfEobq9Pw5r", 
+            "href": "https://api.spotify.com/v1/artists/2DppeCnNtvrLfEobq9Pw5r", 
+            "type": "artist", 
+            "id": "2DppeCnNtvrLfEobq9Pw5r"
+          }
+        ], 
+        "duration_ms": 184693, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "4ypsEnQBqi4lKxvUXt4Mkp"
+      }, 
+      {
+        "name": "Don't Be Square (Be There)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5cHg6YzMYtWBmMugjjDxIC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9d545398b4e6d15ef96f2f1e0c34e8186569ac40", 
+        "is_playable": true, 
+        "uri": "spotify:track:5cHg6YzMYtWBmMugjjDxIC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5cHg6YzMYtWBmMugjjDxIC", 
+        "artists": [
+          {
+            "name": "Adam & The Ants", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2DppeCnNtvrLfEobq9Pw5r"
+            }, 
+            "uri": "spotify:artist:2DppeCnNtvrLfEobq9Pw5r", 
+            "href": "https://api.spotify.com/v1/artists/2DppeCnNtvrLfEobq9Pw5r", 
+            "type": "artist", 
+            "id": "2DppeCnNtvrLfEobq9Pw5r"
+          }
+        ], 
+        "duration_ms": 211200, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "5cHg6YzMYtWBmMugjjDxIC"
+      }, 
+      {
+        "name": "Jolly Roger", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Y0zthRsCPBCMnbytUCJa6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/86bda194b3ca7466cb3a907ebb3d639b296a6c72", 
+        "is_playable": true, 
+        "uri": "spotify:track:2Y0zthRsCPBCMnbytUCJa6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2Y0zthRsCPBCMnbytUCJa6", 
+        "artists": [
+          {
+            "name": "Adam & The Ants", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2DppeCnNtvrLfEobq9Pw5r"
+            }, 
+            "uri": "spotify:artist:2DppeCnNtvrLfEobq9Pw5r", 
+            "href": "https://api.spotify.com/v1/artists/2DppeCnNtvrLfEobq9Pw5r", 
+            "type": "artist", 
+            "id": "2DppeCnNtvrLfEobq9Pw5r"
+          }
+        ], 
+        "duration_ms": 130266, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "2Y0zthRsCPBCMnbytUCJa6"
+      }, 
+      {
+        "name": "Making History", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5rQUlbiudOnUmQkne9s17m"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/45cf08f301fc346bdbdcf7e05b70da98eeb2ca5d", 
+        "is_playable": true, 
+        "uri": "spotify:track:5rQUlbiudOnUmQkne9s17m", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5rQUlbiudOnUmQkne9s17m", 
+        "artists": [
+          {
+            "name": "Adam Ant", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3QP0XPDwbvGivqDAaJ5f5G"
+            }, 
+            "uri": "spotify:artist:3QP0XPDwbvGivqDAaJ5f5G", 
+            "href": "https://api.spotify.com/v1/artists/3QP0XPDwbvGivqDAaJ5f5G", 
+            "type": "artist", 
+            "id": "3QP0XPDwbvGivqDAaJ5f5G"
+          }
+        ], 
+        "duration_ms": 177626, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "5rQUlbiudOnUmQkne9s17m"
+      }, 
+      {
+        "name": "The Human Beings", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/30slZzUy1K62Byccb5W8fA"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/df89236c8df3bf8a6d9567d1fd82bc34310067ec", 
+        "is_playable": true, 
+        "uri": "spotify:track:30slZzUy1K62Byccb5W8fA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/30slZzUy1K62Byccb5W8fA", 
+        "artists": [
+          {
+            "name": "Adam & The Ants", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2DppeCnNtvrLfEobq9Pw5r"
+            }, 
+            "uri": "spotify:artist:2DppeCnNtvrLfEobq9Pw5r", 
+            "href": "https://api.spotify.com/v1/artists/2DppeCnNtvrLfEobq9Pw5r", 
+            "type": "artist", 
+            "id": "2DppeCnNtvrLfEobq9Pw5r"
+          }
+        ], 
+        "duration_ms": 269733, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "30slZzUy1K62Byccb5W8fA"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/3rCtKLmTi3yf2kRbolwWaV/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 12, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/3rCtKLmTi3yf2kRbolwWaV", 
+  "copyrights": [
+    {
+      "text": "1980 Sony Music Entertainment (UK) Ltd.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Adam & The Ants", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2DppeCnNtvrLfEobq9Pw5r"
+      }, 
+      "uri": "spotify:artist:2DppeCnNtvrLfEobq9Pw5r", 
+      "href": "https://api.spotify.com/v1/artists/2DppeCnNtvrLfEobq9Pw5r", 
+      "type": "artist", 
+      "id": "2DppeCnNtvrLfEobq9Pw5r"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/28c94af0586dc5f0437b06ab5935c20abcdd96b7", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/7b0b0804847d9d5e62af68dfcfd98e4eda7e91d8", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/e09e18b73c100177814b5bcef98a18888e0976ec", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "5099747790225"
+  }, 
+  "type": "album", 
+  "id": "3rCtKLmTi3yf2kRbolwWaV", 
+  "name": "Kings Of The Wild Frontier"
+}

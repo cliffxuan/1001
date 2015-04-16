@@ -1,0 +1,515 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B"
+  }, 
+  "release_date": "1987-03-30", 
+  "popularity": 56, 
+  "genres": [], 
+  "uri": "spotify:album:1XsXHctYSQNyAd9BANCk2B", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Sign 'O' The Times", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Yenz5JZZOUiZSeyKY8bDz"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/57700f3d94fb68116b0b2e03c62316c3b5985644", 
+        "is_playable": true, 
+        "uri": "spotify:track:4Yenz5JZZOUiZSeyKY8bDz", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4Yenz5JZZOUiZSeyKY8bDz", 
+        "artists": [
+          {
+            "name": "Prince", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+            }, 
+            "uri": "spotify:artist:5a2EaR3hamoenG9rDuVn8j", 
+            "href": "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j", 
+            "type": "artist", 
+            "id": "5a2EaR3hamoenG9rDuVn8j"
+          }
+        ], 
+        "duration_ms": 302760, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "4Yenz5JZZOUiZSeyKY8bDz"
+      }, 
+      {
+        "name": "Play In The Sunshine", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7D77LwNefSS7QJoy68sKEx"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9fbe2ca4558dbd9e180ffb29095bf9781d76f7e0", 
+        "is_playable": true, 
+        "uri": "spotify:track:7D77LwNefSS7QJoy68sKEx", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7D77LwNefSS7QJoy68sKEx", 
+        "artists": [
+          {
+            "name": "Prince", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+            }, 
+            "uri": "spotify:artist:5a2EaR3hamoenG9rDuVn8j", 
+            "href": "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j", 
+            "type": "artist", 
+            "id": "5a2EaR3hamoenG9rDuVn8j"
+          }
+        ], 
+        "duration_ms": 305226, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "7D77LwNefSS7QJoy68sKEx"
+      }, 
+      {
+        "name": "Housequake", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5xP9clzYBKZ6F3u2VZUaBJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/dfd864b8900749bb05c6fe309bd62630695e424c", 
+        "is_playable": true, 
+        "uri": "spotify:track:5xP9clzYBKZ6F3u2VZUaBJ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5xP9clzYBKZ6F3u2VZUaBJ", 
+        "artists": [
+          {
+            "name": "Prince", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+            }, 
+            "uri": "spotify:artist:5a2EaR3hamoenG9rDuVn8j", 
+            "href": "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j", 
+            "type": "artist", 
+            "id": "5a2EaR3hamoenG9rDuVn8j"
+          }
+        ], 
+        "duration_ms": 282106, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "5xP9clzYBKZ6F3u2VZUaBJ"
+      }, 
+      {
+        "name": "The Ballad Of Dorothy Parker", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/13UqaNF8STsJSGKxd12rmy"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9ff28f29f27ac14bb1f1f992e6087391c3f98578", 
+        "is_playable": true, 
+        "uri": "spotify:track:13UqaNF8STsJSGKxd12rmy", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/13UqaNF8STsJSGKxd12rmy", 
+        "artists": [
+          {
+            "name": "Prince", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+            }, 
+            "uri": "spotify:artist:5a2EaR3hamoenG9rDuVn8j", 
+            "href": "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j", 
+            "type": "artist", 
+            "id": "5a2EaR3hamoenG9rDuVn8j"
+          }
+        ], 
+        "duration_ms": 235453, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "13UqaNF8STsJSGKxd12rmy"
+      }, 
+      {
+        "name": "It", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/40vxHcg3mSFalsyP2qMVCj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/13efb9d41f5a5c3da04663bd04c07673eba66166", 
+        "is_playable": true, 
+        "uri": "spotify:track:40vxHcg3mSFalsyP2qMVCj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/40vxHcg3mSFalsyP2qMVCj", 
+        "artists": [
+          {
+            "name": "Prince", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+            }, 
+            "uri": "spotify:artist:5a2EaR3hamoenG9rDuVn8j", 
+            "href": "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j", 
+            "type": "artist", 
+            "id": "5a2EaR3hamoenG9rDuVn8j"
+          }
+        ], 
+        "duration_ms": 309826, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "40vxHcg3mSFalsyP2qMVCj"
+      }, 
+      {
+        "name": "Starfish And Coffee", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0cr1UXsH8XdUfrpvxHCane"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0b15eecab361266c92141dde9461f2e62558b264", 
+        "is_playable": true, 
+        "uri": "spotify:track:0cr1UXsH8XdUfrpvxHCane", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0cr1UXsH8XdUfrpvxHCane", 
+        "artists": [
+          {
+            "name": "Prince", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+            }, 
+            "uri": "spotify:artist:5a2EaR3hamoenG9rDuVn8j", 
+            "href": "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j", 
+            "type": "artist", 
+            "id": "5a2EaR3hamoenG9rDuVn8j"
+          }
+        ], 
+        "duration_ms": 170506, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "0cr1UXsH8XdUfrpvxHCane"
+      }, 
+      {
+        "name": "Slow Love", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5NxzQznfKs9fJdoP8CbgAR"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5f70fabd392bd62f88fcfe6d00671d07a6001a1d", 
+        "is_playable": true, 
+        "uri": "spotify:track:5NxzQznfKs9fJdoP8CbgAR", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5NxzQznfKs9fJdoP8CbgAR", 
+        "artists": [
+          {
+            "name": "Prince", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+            }, 
+            "uri": "spotify:artist:5a2EaR3hamoenG9rDuVn8j", 
+            "href": "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j", 
+            "type": "artist", 
+            "id": "5a2EaR3hamoenG9rDuVn8j"
+          }
+        ], 
+        "duration_ms": 262333, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "5NxzQznfKs9fJdoP8CbgAR"
+      }, 
+      {
+        "name": "Hot Thing", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6HpPsCidc2enTdicqEmu7t"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/551eb9dd72d40df418e55b993065f450cdeb82ce", 
+        "is_playable": true, 
+        "uri": "spotify:track:6HpPsCidc2enTdicqEmu7t", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6HpPsCidc2enTdicqEmu7t", 
+        "artists": [
+          {
+            "name": "Prince", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+            }, 
+            "uri": "spotify:artist:5a2EaR3hamoenG9rDuVn8j", 
+            "href": "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j", 
+            "type": "artist", 
+            "id": "5a2EaR3hamoenG9rDuVn8j"
+          }
+        ], 
+        "duration_ms": 340706, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "6HpPsCidc2enTdicqEmu7t"
+      }, 
+      {
+        "name": "Forever In My Life", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5MULwvoltCATOJ9bZYfxxB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7f790a27b9998d5fd9079d80d2a30075cb0e1c57", 
+        "is_playable": true, 
+        "uri": "spotify:track:5MULwvoltCATOJ9bZYfxxB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5MULwvoltCATOJ9bZYfxxB", 
+        "artists": [
+          {
+            "name": "Prince", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+            }, 
+            "uri": "spotify:artist:5a2EaR3hamoenG9rDuVn8j", 
+            "href": "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j", 
+            "type": "artist", 
+            "id": "5a2EaR3hamoenG9rDuVn8j"
+          }
+        ], 
+        "duration_ms": 210506, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "5MULwvoltCATOJ9bZYfxxB"
+      }, 
+      {
+        "name": "U Got The Look", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2X6okzhnNPSzh9yxDMHHe3"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/23f58b9b9b56616a8fb7867ef3c9cc3e53655ede", 
+        "is_playable": true, 
+        "uri": "spotify:track:2X6okzhnNPSzh9yxDMHHe3", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2X6okzhnNPSzh9yxDMHHe3", 
+        "artists": [
+          {
+            "name": "Prince", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+            }, 
+            "uri": "spotify:artist:5a2EaR3hamoenG9rDuVn8j", 
+            "href": "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j", 
+            "type": "artist", 
+            "id": "5a2EaR3hamoenG9rDuVn8j"
+          }
+        ], 
+        "duration_ms": 227706, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "2X6okzhnNPSzh9yxDMHHe3"
+      }, 
+      {
+        "name": "If I Was Your Girlfriend", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6yK7QgE4H7dIzHa9EV4FKL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c5e626d40cdd81af56220b42fa336597bd3d68f6", 
+        "is_playable": true, 
+        "uri": "spotify:track:6yK7QgE4H7dIzHa9EV4FKL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6yK7QgE4H7dIzHa9EV4FKL", 
+        "artists": [
+          {
+            "name": "Prince", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+            }, 
+            "uri": "spotify:artist:5a2EaR3hamoenG9rDuVn8j", 
+            "href": "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j", 
+            "type": "artist", 
+            "id": "5a2EaR3hamoenG9rDuVn8j"
+          }
+        ], 
+        "duration_ms": 301733, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "6yK7QgE4H7dIzHa9EV4FKL"
+      }, 
+      {
+        "name": "Strange Relationship", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2WwnFbWZ1DrTetqEqI1HUQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f6e9fe6946e2731a8f20648a9fa46385ab1be23d", 
+        "is_playable": true, 
+        "uri": "spotify:track:2WwnFbWZ1DrTetqEqI1HUQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2WwnFbWZ1DrTetqEqI1HUQ", 
+        "artists": [
+          {
+            "name": "Prince", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+            }, 
+            "uri": "spotify:artist:5a2EaR3hamoenG9rDuVn8j", 
+            "href": "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j", 
+            "type": "artist", 
+            "id": "5a2EaR3hamoenG9rDuVn8j"
+          }
+        ], 
+        "duration_ms": 241133, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "2WwnFbWZ1DrTetqEqI1HUQ"
+      }, 
+      {
+        "name": "I Could Never Take The Place Of Your Man", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7Bsfh7tZyAf6L5iQti86Rq"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/dc3d5d5ce1d8504c00186583efec1141a5ee9848", 
+        "is_playable": true, 
+        "uri": "spotify:track:7Bsfh7tZyAf6L5iQti86Rq", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7Bsfh7tZyAf6L5iQti86Rq", 
+        "artists": [
+          {
+            "name": "Prince", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+            }, 
+            "uri": "spotify:artist:5a2EaR3hamoenG9rDuVn8j", 
+            "href": "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j", 
+            "type": "artist", 
+            "id": "5a2EaR3hamoenG9rDuVn8j"
+          }
+        ], 
+        "duration_ms": 220733, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "7Bsfh7tZyAf6L5iQti86Rq"
+      }, 
+      {
+        "name": "The Cross", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/60vEugO8qAECUVj1KpiQaP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1f24cceef7a84eb16356902d95a7efcee7a76c5e", 
+        "is_playable": true, 
+        "uri": "spotify:track:60vEugO8qAECUVj1KpiQaP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/60vEugO8qAECUVj1KpiQaP", 
+        "artists": [
+          {
+            "name": "Prince", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+            }, 
+            "uri": "spotify:artist:5a2EaR3hamoenG9rDuVn8j", 
+            "href": "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j", 
+            "type": "artist", 
+            "id": "5a2EaR3hamoenG9rDuVn8j"
+          }
+        ], 
+        "duration_ms": 285693, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "60vEugO8qAECUVj1KpiQaP"
+      }, 
+      {
+        "name": "It's Gonna Be A Beautiful Night - Live", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6iDNXild6D8N1iwNACGRFI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/cef3ffd1c2f3a381d6b8d2e5b995cf5adfab630b", 
+        "is_playable": true, 
+        "uri": "spotify:track:6iDNXild6D8N1iwNACGRFI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6iDNXild6D8N1iwNACGRFI", 
+        "artists": [
+          {
+            "name": "Prince", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+            }, 
+            "uri": "spotify:artist:5a2EaR3hamoenG9rDuVn8j", 
+            "href": "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j", 
+            "type": "artist", 
+            "id": "5a2EaR3hamoenG9rDuVn8j"
+          }
+        ], 
+        "duration_ms": 541733, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "6iDNXild6D8N1iwNACGRFI"
+      }, 
+      {
+        "name": "Adore", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1nXIZY6vOyQgXNtBnou1Ph"
+        }, 
+        "explicit": true, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6e2bd2943f1173cef19102e18509c1ab8aeeb0df", 
+        "is_playable": true, 
+        "uri": "spotify:track:1nXIZY6vOyQgXNtBnou1Ph", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1nXIZY6vOyQgXNtBnou1Ph", 
+        "artists": [
+          {
+            "name": "Prince", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+            }, 
+            "uri": "spotify:artist:5a2EaR3hamoenG9rDuVn8j", 
+            "href": "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j", 
+            "type": "artist", 
+            "id": "5a2EaR3hamoenG9rDuVn8j"
+          }
+        ], 
+        "duration_ms": 391400, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "1nXIZY6vOyQgXNtBnou1Ph"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/1XsXHctYSQNyAd9BANCk2B/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 16, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/1XsXHctYSQNyAd9BANCk2B", 
+  "copyrights": [
+    {
+      "text": "1987 NPG Records, Inc. under exclusive license to Warner Bros. Records Inc.", 
+      "type": "C"
+    }, 
+    {
+      "text": "1987 NPG Records, Inc. under exclusive license to Warner Bros. Records Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Prince", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+      }, 
+      "uri": "spotify:artist:5a2EaR3hamoenG9rDuVn8j", 
+      "href": "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j", 
+      "type": "artist", 
+      "id": "5a2EaR3hamoenG9rDuVn8j"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/419de70eef3d050b08020d1bca8a456bc69e95cd", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/ef092f3c3d75f8284b7f590e3ebc7d5e97bc06c6", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/aa49cb193e79499169192772c915cf3a5f3df9c6", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "603497999545"
+  }, 
+  "type": "album", 
+  "id": "1XsXHctYSQNyAd9BANCk2B", 
+  "name": "Sign 'O' The Times"
+}

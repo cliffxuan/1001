@@ -1,0 +1,627 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3a0UOgDWw2pTajw85QPMiz"
+  }, 
+  "release_date": "1973-03-01", 
+  "popularity": 76, 
+  "genres": [], 
+  "uri": "spotify:album:3a0UOgDWw2pTajw85QPMiz", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Speak To Me - 2011 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6rqhFgbbKwnb9MLmUQDhG6"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/4520e51203e552c269b7b4767843dd9768b5f5eb", 
+        "is_playable": true, 
+        "uri": "spotify:track:6rqhFgbbKwnb9MLmUQDhG6", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6rqhFgbbKwnb9MLmUQDhG6", 
+        "artists": [
+          {
+            "name": "Pink Floyd", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+            }, 
+            "uri": "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9", 
+            "href": "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9", 
+            "type": "artist", 
+            "id": "0k17h0D3J5VfsdmQ1iZtE9"
+          }
+        ], 
+        "duration_ms": 65314, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "6rqhFgbbKwnb9MLmUQDhG6"
+      }, 
+      {
+        "name": "Breathe (In The Air) [2011 - Remaster]", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4AzyYHQKBphpQonm3Hx15E"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/aef47af2a5cab5bad5031536818ad885a92e6309", 
+        "is_playable": true, 
+        "uri": "spotify:track:4AzyYHQKBphpQonm3Hx15E", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4AzyYHQKBphpQonm3Hx15E", 
+        "artists": [
+          {
+            "name": "Pink Floyd", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+            }, 
+            "uri": "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9", 
+            "href": "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9", 
+            "type": "artist", 
+            "id": "0k17h0D3J5VfsdmQ1iZtE9"
+          }
+        ], 
+        "duration_ms": 169534, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "4AzyYHQKBphpQonm3Hx15E"
+      }, 
+      {
+        "name": "On The Run - 2011 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4mMGZQFEikumG9jhC8ZxV1"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/86b7a2e28ab4260f5c187a69c875f4d2a95eab56", 
+        "is_playable": true, 
+        "uri": "spotify:track:4mMGZQFEikumG9jhC8ZxV1", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4mMGZQFEikumG9jhC8ZxV1", 
+        "artists": [
+          {
+            "name": "Pink Floyd", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+            }, 
+            "uri": "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9", 
+            "href": "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9", 
+            "type": "artist", 
+            "id": "0k17h0D3J5VfsdmQ1iZtE9"
+          }
+        ], 
+        "duration_ms": 225384, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "4mMGZQFEikumG9jhC8ZxV1"
+      }, 
+      {
+        "name": "Time - 2011 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0OOc4CWq6Cg8fTFE1vCvwS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9d34f0bfa35df1420c24d2d678617d16a2d0bdbc", 
+        "is_playable": true, 
+        "uri": "spotify:track:0OOc4CWq6Cg8fTFE1vCvwS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0OOc4CWq6Cg8fTFE1vCvwS", 
+        "artists": [
+          {
+            "name": "Pink Floyd", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+            }, 
+            "uri": "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9", 
+            "href": "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9", 
+            "type": "artist", 
+            "id": "0k17h0D3J5VfsdmQ1iZtE9"
+          }
+        ], 
+        "duration_ms": 413947, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "0OOc4CWq6Cg8fTFE1vCvwS"
+      }, 
+      {
+        "name": "The Great Gig In The Sky - 2011 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7iyr2AP7JbsactrEySUyNX"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5412441e0fb8af212adb23452e4918bdaf0f043d", 
+        "is_playable": true, 
+        "uri": "spotify:track:7iyr2AP7JbsactrEySUyNX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7iyr2AP7JbsactrEySUyNX", 
+        "artists": [
+          {
+            "name": "Pink Floyd", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+            }, 
+            "uri": "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9", 
+            "href": "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9", 
+            "type": "artist", 
+            "id": "0k17h0D3J5VfsdmQ1iZtE9"
+          }
+        ], 
+        "duration_ms": 283872, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "7iyr2AP7JbsactrEySUyNX"
+      }, 
+      {
+        "name": "Money - 2011 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3aoDEt6zSuYQ47gzarlaVo"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7345b09a764f8d02763fd7e68b52983adfe09b54", 
+        "is_playable": true, 
+        "uri": "spotify:track:3aoDEt6zSuYQ47gzarlaVo", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3aoDEt6zSuYQ47gzarlaVo", 
+        "artists": [
+          {
+            "name": "Pink Floyd", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+            }, 
+            "uri": "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9", 
+            "href": "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9", 
+            "type": "artist", 
+            "id": "0k17h0D3J5VfsdmQ1iZtE9"
+          }
+        ], 
+        "duration_ms": 382834, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "3aoDEt6zSuYQ47gzarlaVo"
+      }, 
+      {
+        "name": "Us And Them - 2011 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5a8pT7EetH5fSv7VGEz8tN"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/fac8fd122f609b02944eb41cee0f9dc7aa10536a", 
+        "is_playable": true, 
+        "uri": "spotify:track:5a8pT7EetH5fSv7VGEz8tN", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5a8pT7EetH5fSv7VGEz8tN", 
+        "artists": [
+          {
+            "name": "Pink Floyd", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+            }, 
+            "uri": "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9", 
+            "href": "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9", 
+            "type": "artist", 
+            "id": "0k17h0D3J5VfsdmQ1iZtE9"
+          }
+        ], 
+        "duration_ms": 469224, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "5a8pT7EetH5fSv7VGEz8tN"
+      }, 
+      {
+        "name": "Any Colour You Like - 2011 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6ScQOiH29VEOvkDP3UprWv"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bb3fdcdb6972d591c57247c726f9dcd28256b17f", 
+        "is_playable": true, 
+        "uri": "spotify:track:6ScQOiH29VEOvkDP3UprWv", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6ScQOiH29VEOvkDP3UprWv", 
+        "artists": [
+          {
+            "name": "Pink Floyd", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+            }, 
+            "uri": "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9", 
+            "href": "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9", 
+            "type": "artist", 
+            "id": "0k17h0D3J5VfsdmQ1iZtE9"
+          }
+        ], 
+        "duration_ms": 206429, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "6ScQOiH29VEOvkDP3UprWv"
+      }, 
+      {
+        "name": "Brain Damage - 2011 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2gCf9PqIvpKbxwfJMBWwbn"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8b4bc8ee9055fb8c6b7904db56d65ca7013feb9e", 
+        "is_playable": true, 
+        "uri": "spotify:track:2gCf9PqIvpKbxwfJMBWwbn", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2gCf9PqIvpKbxwfJMBWwbn", 
+        "artists": [
+          {
+            "name": "Pink Floyd", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+            }, 
+            "uri": "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9", 
+            "href": "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9", 
+            "type": "artist", 
+            "id": "0k17h0D3J5VfsdmQ1iZtE9"
+          }
+        ], 
+        "duration_ms": 226666, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "2gCf9PqIvpKbxwfJMBWwbn"
+      }, 
+      {
+        "name": "Eclipse - 2011 Remastered Version", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7Dla2S1irAtL9VjSUIapDO"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/389b7658bbcaa486cd66203e17496742f2352929", 
+        "is_playable": true, 
+        "uri": "spotify:track:7Dla2S1irAtL9VjSUIapDO", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7Dla2S1irAtL9VjSUIapDO", 
+        "artists": [
+          {
+            "name": "Pink Floyd", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+            }, 
+            "uri": "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9", 
+            "href": "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9", 
+            "type": "artist", 
+            "id": "0k17h0D3J5VfsdmQ1iZtE9"
+          }
+        ], 
+        "duration_ms": 130428, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "7Dla2S1irAtL9VjSUIapDO"
+      }, 
+      {
+        "name": "Speak To Me (Live At The Empire Pool, Wembley, London 1974) [2011 - Remaster]", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6EML21A4p2iDetHNhDszWU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0cc81aaad2b0d64b95212a3e2ff924b945042cfc", 
+        "is_playable": true, 
+        "uri": "spotify:track:6EML21A4p2iDetHNhDszWU", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6EML21A4p2iDetHNhDszWU", 
+        "artists": [
+          {
+            "name": "Pink Floyd", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+            }, 
+            "uri": "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9", 
+            "href": "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9", 
+            "type": "artist", 
+            "id": "0k17h0D3J5VfsdmQ1iZtE9"
+          }
+        ], 
+        "duration_ms": 165057, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "6EML21A4p2iDetHNhDszWU"
+      }, 
+      {
+        "name": "Breathe (In The Air) [Live At The Empire Pool, Wembley, London 1974] (2011 - Remaster)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4OCgELvC4FsHcK5sozvReH"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/8289acd4af4adff23094c3dabfdaa7b5f8417e88", 
+        "is_playable": true, 
+        "uri": "spotify:track:4OCgELvC4FsHcK5sozvReH", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/4OCgELvC4FsHcK5sozvReH", 
+        "artists": [
+          {
+            "name": "Pink Floyd", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+            }, 
+            "uri": "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9", 
+            "href": "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9", 
+            "type": "artist", 
+            "id": "0k17h0D3J5VfsdmQ1iZtE9"
+          }
+        ], 
+        "duration_ms": 170998, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "4OCgELvC4FsHcK5sozvReH"
+      }, 
+      {
+        "name": "On The Run (Live At The Empire Pool, Wembley, London 1974) [2011 - Remaster]", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7ebt1wJba3j5P60Q9i64oJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/017bf978a4c9e618b508185bd491a8cac175ebc6", 
+        "is_playable": true, 
+        "uri": "spotify:track:7ebt1wJba3j5P60Q9i64oJ", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/7ebt1wJba3j5P60Q9i64oJ", 
+        "artists": [
+          {
+            "name": "Pink Floyd", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+            }, 
+            "uri": "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9", 
+            "href": "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9", 
+            "type": "artist", 
+            "id": "0k17h0D3J5VfsdmQ1iZtE9"
+          }
+        ], 
+        "duration_ms": 308719, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "7ebt1wJba3j5P60Q9i64oJ"
+      }, 
+      {
+        "name": "Time (Live At The Empire Pool, Wembley, London 1974) [2011 - Remaster]", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/53gWY0fpfcGAh3gCgv5OGf"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b6f936468baa97d8b590384d3bfe925a1be8ca95", 
+        "is_playable": true, 
+        "uri": "spotify:track:53gWY0fpfcGAh3gCgv5OGf", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/53gWY0fpfcGAh3gCgv5OGf", 
+        "artists": [
+          {
+            "name": "Pink Floyd", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+            }, 
+            "uri": "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9", 
+            "href": "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9", 
+            "type": "artist", 
+            "id": "0k17h0D3J5VfsdmQ1iZtE9"
+          }
+        ], 
+        "duration_ms": 391535, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "53gWY0fpfcGAh3gCgv5OGf"
+      }, 
+      {
+        "name": "The Great Gig In The Sky (Live At The Empire Pool, Wembley, London 1974) [2011 - Remaster]", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/53kvKyajfIAyStjrYPbq7c"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/c6c8ae293cb04c2040cd83cabb4d030d70fe44ff", 
+        "is_playable": true, 
+        "uri": "spotify:track:53kvKyajfIAyStjrYPbq7c", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/53kvKyajfIAyStjrYPbq7c", 
+        "artists": [
+          {
+            "name": "Pink Floyd", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+            }, 
+            "uri": "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9", 
+            "href": "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9", 
+            "type": "artist", 
+            "id": "0k17h0D3J5VfsdmQ1iZtE9"
+          }
+        ], 
+        "duration_ms": 410052, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "53kvKyajfIAyStjrYPbq7c"
+      }, 
+      {
+        "name": "Money (Live At The Empire Pool, Wembley, London 1974) [2011 - Remaster]", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6w1sNUc48NCcBtyT3bnhau"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/aea911f532133a2deca3746b4c7eea6e46a72f39", 
+        "is_playable": true, 
+        "uri": "spotify:track:6w1sNUc48NCcBtyT3bnhau", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6w1sNUc48NCcBtyT3bnhau", 
+        "artists": [
+          {
+            "name": "Pink Floyd", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+            }, 
+            "uri": "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9", 
+            "href": "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9", 
+            "type": "artist", 
+            "id": "0k17h0D3J5VfsdmQ1iZtE9"
+          }
+        ], 
+        "duration_ms": 520998, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "6w1sNUc48NCcBtyT3bnhau"
+      }, 
+      {
+        "name": "Us And Them (Live At The Empire Pool, Wembley, London 1974) [2011 - Remaster]", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0bkoUWujVTxcHm7IrhSiHa"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/20f18b6b114a9061edda8422906e54b4177fda01", 
+        "is_playable": true, 
+        "uri": "spotify:track:0bkoUWujVTxcHm7IrhSiHa", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/0bkoUWujVTxcHm7IrhSiHa", 
+        "artists": [
+          {
+            "name": "Pink Floyd", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+            }, 
+            "uri": "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9", 
+            "href": "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9", 
+            "type": "artist", 
+            "id": "0k17h0D3J5VfsdmQ1iZtE9"
+          }
+        ], 
+        "duration_ms": 489665, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "0bkoUWujVTxcHm7IrhSiHa"
+      }, 
+      {
+        "name": "Any Colour You Like (Live At The Empire Pool, Wembley, London 1974) [2011 - Remaster]", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6cFHSqB77hxeTKnLAcgGqe"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9ac614b97edcfa237ab422be1052c4a75a2cd034", 
+        "is_playable": true, 
+        "uri": "spotify:track:6cFHSqB77hxeTKnLAcgGqe", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6cFHSqB77hxeTKnLAcgGqe", 
+        "artists": [
+          {
+            "name": "Pink Floyd", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+            }, 
+            "uri": "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9", 
+            "href": "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9", 
+            "type": "artist", 
+            "id": "0k17h0D3J5VfsdmQ1iZtE9"
+          }
+        ], 
+        "duration_ms": 490855, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "6cFHSqB77hxeTKnLAcgGqe"
+      }, 
+      {
+        "name": "Brain Damage (Live At The Empire Pool, Wembley, London 1974) [2011 - Remaster]", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1mlUbYs5sBwcLWmzJkKHsJ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/892d811f3ddf9cd95ab2bb01db461c41b02ebfab", 
+        "is_playable": true, 
+        "uri": "spotify:track:1mlUbYs5sBwcLWmzJkKHsJ", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/1mlUbYs5sBwcLWmzJkKHsJ", 
+        "artists": [
+          {
+            "name": "Pink Floyd", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+            }, 
+            "uri": "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9", 
+            "href": "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9", 
+            "type": "artist", 
+            "id": "0k17h0D3J5VfsdmQ1iZtE9"
+          }
+        ], 
+        "duration_ms": 223774, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "1mlUbYs5sBwcLWmzJkKHsJ"
+      }, 
+      {
+        "name": "Eclipse (Live At The Empire Pool, Wembley, London 1974) [2011 - Remaster]", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6u5sB4iGdJX97ldAgukpx7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/33c488bb07c936160279756d6f6ba9088266726f", 
+        "is_playable": true, 
+        "uri": "spotify:track:6u5sB4iGdJX97ldAgukpx7", 
+        "disc_number": 2, 
+        "href": "https://api.spotify.com/v1/tracks/6u5sB4iGdJX97ldAgukpx7", 
+        "artists": [
+          {
+            "name": "Pink Floyd", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+            }, 
+            "uri": "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9", 
+            "href": "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9", 
+            "type": "artist", 
+            "id": "0k17h0D3J5VfsdmQ1iZtE9"
+          }
+        ], 
+        "duration_ms": 136872, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "6u5sB4iGdJX97ldAgukpx7"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/3a0UOgDWw2pTajw85QPMiz/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 20, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/3a0UOgDWw2pTajw85QPMiz", 
+  "copyrights": [
+    {
+      "text": "2011 Pink Floyd Music Ltd/Pink Floyd (1987) Ltd under exclusive licence to Parlophone Records Ltd. This label copy information is the subject of copyright protection. All rights reserved. (C) 2011 Parlophone Records Ltd", 
+      "type": "C"
+    }, 
+    {
+      "text": "2011 Digital Remaster (P) 2011 The copyright in this sound recording is owned by Pink Floyd Music Ltd under exclusive licence to Parlophone Records Ltd", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Pink Floyd", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+      }, 
+      "uri": "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9", 
+      "href": "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9", 
+      "type": "artist", 
+      "id": "0k17h0D3J5VfsdmQ1iZtE9"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/cee9e4e565ff57f338222d8cbf05b7d19080b6e8", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/c61eee6e4322b187faf78e94b72979d831a60f4e", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/a81408cd6fd303da7c5f1fe26f5eea49a4665d60", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "5099908217059"
+  }, 
+  "type": "album", 
+  "id": "3a0UOgDWw2pTajw85QPMiz", 
+  "name": "The Dark Side Of The Moon [2011 - Remaster] (2011 Remastered Version)"
+}

@@ -1,0 +1,963 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6i5tPnXjltqPzcWemiyz8q"
+  }, 
+  "release_date": "1993", 
+  "popularity": 21, 
+  "genres": [], 
+  "uri": "spotify:album:6i5tPnXjltqPzcWemiyz8q", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Soul And Fire", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5lpEGam1Bp9Glhtq7gnybQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e3a4662afd5abf3e40eb86edd831172f96a03986", 
+        "is_playable": true, 
+        "uri": "spotify:track:5lpEGam1Bp9Glhtq7gnybQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5lpEGam1Bp9Glhtq7gnybQ", 
+        "artists": [
+          {
+            "name": "Sebadoh", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
+            }, 
+            "uri": "spotify:artist:2wrhBKGC3DTNNNDRJPaxW6", 
+            "href": "https://api.spotify.com/v1/artists/2wrhBKGC3DTNNNDRJPaxW6", 
+            "type": "artist", 
+            "id": "2wrhBKGC3DTNNNDRJPaxW6"
+          }
+        ], 
+        "duration_ms": 227213, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "5lpEGam1Bp9Glhtq7gnybQ"
+      }, 
+      {
+        "name": "Two Years Two Days", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1lMz4S5OymE0bNoO8LH2vS"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/07e0dabf7b46fac2e26c7674b42ca8eac878cc04", 
+        "is_playable": true, 
+        "uri": "spotify:track:1lMz4S5OymE0bNoO8LH2vS", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1lMz4S5OymE0bNoO8LH2vS", 
+        "artists": [
+          {
+            "name": "Sebadoh", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
+            }, 
+            "uri": "spotify:artist:2wrhBKGC3DTNNNDRJPaxW6", 
+            "href": "https://api.spotify.com/v1/artists/2wrhBKGC3DTNNNDRJPaxW6", 
+            "type": "artist", 
+            "id": "2wrhBKGC3DTNNNDRJPaxW6"
+          }
+        ], 
+        "duration_ms": 188360, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "1lMz4S5OymE0bNoO8LH2vS"
+      }, 
+      {
+        "name": "Telescopic Alchemy", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4VhndPfcEFWRca5zUiJfm5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/626dd01212a011e0034a6938e4e8141617856b35", 
+        "is_playable": true, 
+        "uri": "spotify:track:4VhndPfcEFWRca5zUiJfm5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4VhndPfcEFWRca5zUiJfm5", 
+        "artists": [
+          {
+            "name": "Sebadoh", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
+            }, 
+            "uri": "spotify:artist:2wrhBKGC3DTNNNDRJPaxW6", 
+            "href": "https://api.spotify.com/v1/artists/2wrhBKGC3DTNNNDRJPaxW6", 
+            "type": "artist", 
+            "id": "2wrhBKGC3DTNNNDRJPaxW6"
+          }
+        ], 
+        "duration_ms": 135666, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "4VhndPfcEFWRca5zUiJfm5"
+      }, 
+      {
+        "name": "Fantastic Disaster", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6bymC5zkO4tRy0BorL5jp8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7ee968fc8501934d17018319db73eedfc6c8c2b2", 
+        "is_playable": true, 
+        "uri": "spotify:track:6bymC5zkO4tRy0BorL5jp8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6bymC5zkO4tRy0BorL5jp8", 
+        "artists": [
+          {
+            "name": "Sebadoh", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
+            }, 
+            "uri": "spotify:artist:2wrhBKGC3DTNNNDRJPaxW6", 
+            "href": "https://api.spotify.com/v1/artists/2wrhBKGC3DTNNNDRJPaxW6", 
+            "type": "artist", 
+            "id": "2wrhBKGC3DTNNNDRJPaxW6"
+          }
+        ], 
+        "duration_ms": 213320, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "6bymC5zkO4tRy0BorL5jp8"
+      }, 
+      {
+        "name": "Happily Divided", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3RQdgnDgCdhOe19zsckBgt"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e8f797c428b3db3457ea8158236f3881783736b9", 
+        "is_playable": true, 
+        "uri": "spotify:track:3RQdgnDgCdhOe19zsckBgt", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3RQdgnDgCdhOe19zsckBgt", 
+        "artists": [
+          {
+            "name": "Sebadoh", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
+            }, 
+            "uri": "spotify:artist:2wrhBKGC3DTNNNDRJPaxW6", 
+            "href": "https://api.spotify.com/v1/artists/2wrhBKGC3DTNNNDRJPaxW6", 
+            "type": "artist", 
+            "id": "2wrhBKGC3DTNNNDRJPaxW6"
+          }
+        ], 
+        "duration_ms": 142693, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "3RQdgnDgCdhOe19zsckBgt"
+      }, 
+      {
+        "name": "Sister", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3VZLdxoTFYWcWBXpNHhIG2"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/da9dd4eb0240e078c5ad91f10041857fd5b4b172", 
+        "is_playable": true, 
+        "uri": "spotify:track:3VZLdxoTFYWcWBXpNHhIG2", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3VZLdxoTFYWcWBXpNHhIG2", 
+        "artists": [
+          {
+            "name": "Sebadoh", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
+            }, 
+            "uri": "spotify:artist:2wrhBKGC3DTNNNDRJPaxW6", 
+            "href": "https://api.spotify.com/v1/artists/2wrhBKGC3DTNNNDRJPaxW6", 
+            "type": "artist", 
+            "id": "2wrhBKGC3DTNNNDRJPaxW6"
+          }
+        ], 
+        "duration_ms": 163093, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "3VZLdxoTFYWcWBXpNHhIG2"
+      }, 
+      {
+        "name": "Clich\u00e9", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1d5xRHpSTjamqZ4RpWTNy9"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6a7b978a511dd57376cef438881b63c103648a82", 
+        "is_playable": true, 
+        "uri": "spotify:track:1d5xRHpSTjamqZ4RpWTNy9", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1d5xRHpSTjamqZ4RpWTNy9", 
+        "artists": [
+          {
+            "name": "Sebadoh", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
+            }, 
+            "uri": "spotify:artist:2wrhBKGC3DTNNNDRJPaxW6", 
+            "href": "https://api.spotify.com/v1/artists/2wrhBKGC3DTNNNDRJPaxW6", 
+            "type": "artist", 
+            "id": "2wrhBKGC3DTNNNDRJPaxW6"
+          }
+        ], 
+        "duration_ms": 148733, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "1d5xRHpSTjamqZ4RpWTNy9"
+      }, 
+      {
+        "name": "Sacred Attention", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1htScTIHpxcm3sOMznHWIX"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/d247c9b086a0f5d8a2977b71e6d76f24fc655269", 
+        "is_playable": true, 
+        "uri": "spotify:track:1htScTIHpxcm3sOMznHWIX", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1htScTIHpxcm3sOMznHWIX", 
+        "artists": [
+          {
+            "name": "Sebadoh", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
+            }, 
+            "uri": "spotify:artist:2wrhBKGC3DTNNNDRJPaxW6", 
+            "href": "https://api.spotify.com/v1/artists/2wrhBKGC3DTNNNDRJPaxW6", 
+            "type": "artist", 
+            "id": "2wrhBKGC3DTNNNDRJPaxW6"
+          }
+        ], 
+        "duration_ms": 168160, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "1htScTIHpxcm3sOMznHWIX"
+      }, 
+      {
+        "name": "Elixir Is Zog", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4vLNz819dyxl30ey7s7rok"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/88b7939bd8d32b1c3a19ce81e52bcfd9e75067a7", 
+        "is_playable": true, 
+        "uri": "spotify:track:4vLNz819dyxl30ey7s7rok", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4vLNz819dyxl30ey7s7rok", 
+        "artists": [
+          {
+            "name": "Sebadoh", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
+            }, 
+            "uri": "spotify:artist:2wrhBKGC3DTNNNDRJPaxW6", 
+            "href": "https://api.spotify.com/v1/artists/2wrhBKGC3DTNNNDRJPaxW6", 
+            "type": "artist", 
+            "id": "2wrhBKGC3DTNNNDRJPaxW6"
+          }
+        ], 
+        "duration_ms": 126746, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "4vLNz819dyxl30ey7s7rok"
+      }, 
+      {
+        "name": "Emma Get Wild", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3N29G69ZbBGUo7s3SUTgJn"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/053d12a23574dd3a865dbcfca7c3b43067be023f", 
+        "is_playable": true, 
+        "uri": "spotify:track:3N29G69ZbBGUo7s3SUTgJn", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3N29G69ZbBGUo7s3SUTgJn", 
+        "artists": [
+          {
+            "name": "Sebadoh", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
+            }, 
+            "uri": "spotify:artist:2wrhBKGC3DTNNNDRJPaxW6", 
+            "href": "https://api.spotify.com/v1/artists/2wrhBKGC3DTNNNDRJPaxW6", 
+            "type": "artist", 
+            "id": "2wrhBKGC3DTNNNDRJPaxW6"
+          }
+        ], 
+        "duration_ms": 81200, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "3N29G69ZbBGUo7s3SUTgJn"
+      }, 
+      {
+        "name": "Sixteen", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6vrfCrKwA5QhzKlp5YPAHl"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/66312d116b30d071ec362270951437fd8c5877e2", 
+        "is_playable": true, 
+        "uri": "spotify:track:6vrfCrKwA5QhzKlp5YPAHl", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6vrfCrKwA5QhzKlp5YPAHl", 
+        "artists": [
+          {
+            "name": "Sebadoh", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
+            }, 
+            "uri": "spotify:artist:2wrhBKGC3DTNNNDRJPaxW6", 
+            "href": "https://api.spotify.com/v1/artists/2wrhBKGC3DTNNNDRJPaxW6", 
+            "type": "artist", 
+            "id": "2wrhBKGC3DTNNNDRJPaxW6"
+          }
+        ], 
+        "duration_ms": 91613, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "6vrfCrKwA5QhzKlp5YPAHl"
+      }, 
+      {
+        "name": "Homemade", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1OWEXApmyUdy4aKQct5FvV"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/667e1d24c67d6115a7f0d38bdca60003dd552835", 
+        "is_playable": true, 
+        "uri": "spotify:track:1OWEXApmyUdy4aKQct5FvV", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1OWEXApmyUdy4aKQct5FvV", 
+        "artists": [
+          {
+            "name": "Sebadoh", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
+            }, 
+            "uri": "spotify:artist:2wrhBKGC3DTNNNDRJPaxW6", 
+            "href": "https://api.spotify.com/v1/artists/2wrhBKGC3DTNNNDRJPaxW6", 
+            "type": "artist", 
+            "id": "2wrhBKGC3DTNNNDRJPaxW6"
+          }
+        ], 
+        "duration_ms": 303240, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "1OWEXApmyUdy4aKQct5FvV"
+      }, 
+      {
+        "name": "Forced Love", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2AShac0yZuf8tvkAN3MqsA"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5d5fa58b618ad33c1539579a61a7c047f866a9cd", 
+        "is_playable": true, 
+        "uri": "spotify:track:2AShac0yZuf8tvkAN3MqsA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2AShac0yZuf8tvkAN3MqsA", 
+        "artists": [
+          {
+            "name": "Sebadoh", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
+            }, 
+            "uri": "spotify:artist:2wrhBKGC3DTNNNDRJPaxW6", 
+            "href": "https://api.spotify.com/v1/artists/2wrhBKGC3DTNNNDRJPaxW6", 
+            "type": "artist", 
+            "id": "2wrhBKGC3DTNNNDRJPaxW6"
+          }
+        ], 
+        "duration_ms": 200560, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "2AShac0yZuf8tvkAN3MqsA"
+      }, 
+      {
+        "name": "No Way Out", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4uwgftKUXpZWgbsas4QKmb"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/841291d2390fd2eecfeece606185d6a6ca96a145", 
+        "is_playable": true, 
+        "uri": "spotify:track:4uwgftKUXpZWgbsas4QKmb", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4uwgftKUXpZWgbsas4QKmb", 
+        "artists": [
+          {
+            "name": "Sebadoh", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
+            }, 
+            "uri": "spotify:artist:2wrhBKGC3DTNNNDRJPaxW6", 
+            "href": "https://api.spotify.com/v1/artists/2wrhBKGC3DTNNNDRJPaxW6", 
+            "type": "artist", 
+            "id": "2wrhBKGC3DTNNNDRJPaxW6"
+          }
+        ], 
+        "duration_ms": 136826, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "4uwgftKUXpZWgbsas4QKmb"
+      }, 
+      {
+        "name": "Bouquet For A Siren", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6MvrsJeSEkX5OlKRjzfAtr"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/313c352ae1b85e5365b5f4c65dfa7877b3fab405", 
+        "is_playable": true, 
+        "uri": "spotify:track:6MvrsJeSEkX5OlKRjzfAtr", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6MvrsJeSEkX5OlKRjzfAtr", 
+        "artists": [
+          {
+            "name": "Sebadoh", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
+            }, 
+            "uri": "spotify:artist:2wrhBKGC3DTNNNDRJPaxW6", 
+            "href": "https://api.spotify.com/v1/artists/2wrhBKGC3DTNNNDRJPaxW6", 
+            "type": "artist", 
+            "id": "2wrhBKGC3DTNNNDRJPaxW6"
+          }
+        ], 
+        "duration_ms": 177946, 
+        "track_number": 15, 
+        "type": "track", 
+        "id": "6MvrsJeSEkX5OlKRjzfAtr"
+      }, 
+      {
+        "name": "Think (Let Tomorrow Bee)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4PN1mi3c2E9zWwyWIpSTmQ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ab31cb116c89c6fec8c7303c959d1f3e41ccea11", 
+        "is_playable": true, 
+        "uri": "spotify:track:4PN1mi3c2E9zWwyWIpSTmQ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4PN1mi3c2E9zWwyWIpSTmQ", 
+        "artists": [
+          {
+            "name": "Sebadoh", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
+            }, 
+            "uri": "spotify:artist:2wrhBKGC3DTNNNDRJPaxW6", 
+            "href": "https://api.spotify.com/v1/artists/2wrhBKGC3DTNNNDRJPaxW6", 
+            "type": "artist", 
+            "id": "2wrhBKGC3DTNNNDRJPaxW6"
+          }
+        ], 
+        "duration_ms": 194320, 
+        "track_number": 16, 
+        "type": "track", 
+        "id": "4PN1mi3c2E9zWwyWIpSTmQ"
+      }, 
+      {
+        "name": "Flood", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0rP2xqMBW2YDNU7THpv8jc"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/931c0af5b8daeff5dd4af68a7155a3e31e54f23c", 
+        "is_playable": true, 
+        "uri": "spotify:track:0rP2xqMBW2YDNU7THpv8jc", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0rP2xqMBW2YDNU7THpv8jc", 
+        "artists": [
+          {
+            "name": "Sebadoh", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
+            }, 
+            "uri": "spotify:artist:2wrhBKGC3DTNNNDRJPaxW6", 
+            "href": "https://api.spotify.com/v1/artists/2wrhBKGC3DTNNNDRJPaxW6", 
+            "type": "artist", 
+            "id": "2wrhBKGC3DTNNNDRJPaxW6"
+          }
+        ], 
+        "duration_ms": 95120, 
+        "track_number": 17, 
+        "type": "track", 
+        "id": "0rP2xqMBW2YDNU7THpv8jc"
+      }, 
+      {
+        "name": "Reject", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2jmLVplvcZ6OgKYrPkS3VB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/f750ca99de79af99e89fbe685aab30bbc70d2707", 
+        "is_playable": true, 
+        "uri": "spotify:track:2jmLVplvcZ6OgKYrPkS3VB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2jmLVplvcZ6OgKYrPkS3VB", 
+        "artists": [
+          {
+            "name": "Sebadoh", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
+            }, 
+            "uri": "spotify:artist:2wrhBKGC3DTNNNDRJPaxW6", 
+            "href": "https://api.spotify.com/v1/artists/2wrhBKGC3DTNNNDRJPaxW6", 
+            "type": "artist", 
+            "id": "2wrhBKGC3DTNNNDRJPaxW6"
+          }
+        ], 
+        "duration_ms": 142986, 
+        "track_number": 18, 
+        "type": "track", 
+        "id": "2jmLVplvcZ6OgKYrPkS3VB"
+      }, 
+      {
+        "name": "Sister", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5I3q5dcPXd3FSY4cSS4tM5"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/bba3d44d73abe62792577a09aa7a63c28e405c70", 
+        "is_playable": true, 
+        "uri": "spotify:track:5I3q5dcPXd3FSY4cSS4tM5", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5I3q5dcPXd3FSY4cSS4tM5", 
+        "artists": [
+          {
+            "name": "Sebadoh", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
+            }, 
+            "uri": "spotify:artist:2wrhBKGC3DTNNNDRJPaxW6", 
+            "href": "https://api.spotify.com/v1/artists/2wrhBKGC3DTNNNDRJPaxW6", 
+            "type": "artist", 
+            "id": "2wrhBKGC3DTNNNDRJPaxW6"
+          }
+        ], 
+        "duration_ms": 132080, 
+        "track_number": 19, 
+        "type": "track", 
+        "id": "5I3q5dcPXd3FSY4cSS4tM5"
+      }, 
+      {
+        "name": "Bouquet For A Siren", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5cFikpWZjOh5U7qyZYZinZ"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/21329e12915cbeb26fb6bea8964336914d772d3a", 
+        "is_playable": true, 
+        "uri": "spotify:track:5cFikpWZjOh5U7qyZYZinZ", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5cFikpWZjOh5U7qyZYZinZ", 
+        "artists": [
+          {
+            "name": "Sebadoh", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
+            }, 
+            "uri": "spotify:artist:2wrhBKGC3DTNNNDRJPaxW6", 
+            "href": "https://api.spotify.com/v1/artists/2wrhBKGC3DTNNNDRJPaxW6", 
+            "type": "artist", 
+            "id": "2wrhBKGC3DTNNNDRJPaxW6"
+          }
+        ], 
+        "duration_ms": 127226, 
+        "track_number": 20, 
+        "type": "track", 
+        "id": "5cFikpWZjOh5U7qyZYZinZ"
+      }, 
+      {
+        "name": "Emma Get Wild", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3YIjEqshhyiyIjGrQAZq2x"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9bb6553acfe94965b28426d41e664608234684b0", 
+        "is_playable": true, 
+        "uri": "spotify:track:3YIjEqshhyiyIjGrQAZq2x", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3YIjEqshhyiyIjGrQAZq2x", 
+        "artists": [
+          {
+            "name": "Sebadoh", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
+            }, 
+            "uri": "spotify:artist:2wrhBKGC3DTNNNDRJPaxW6", 
+            "href": "https://api.spotify.com/v1/artists/2wrhBKGC3DTNNNDRJPaxW6", 
+            "type": "artist", 
+            "id": "2wrhBKGC3DTNNNDRJPaxW6"
+          }
+        ], 
+        "duration_ms": 56720, 
+        "track_number": 21, 
+        "type": "track", 
+        "id": "3YIjEqshhyiyIjGrQAZq2x"
+      }, 
+      {
+        "name": "Flood / Ken", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5YIu3bHIMA80ZMA2RIepVM"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5f67b304e0e734c6b226e1b748d833484caec2c7", 
+        "is_playable": true, 
+        "uri": "spotify:track:5YIu3bHIMA80ZMA2RIepVM", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5YIu3bHIMA80ZMA2RIepVM", 
+        "artists": [
+          {
+            "name": "Sebadoh", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
+            }, 
+            "uri": "spotify:artist:2wrhBKGC3DTNNNDRJPaxW6", 
+            "href": "https://api.spotify.com/v1/artists/2wrhBKGC3DTNNNDRJPaxW6", 
+            "type": "artist", 
+            "id": "2wrhBKGC3DTNNNDRJPaxW6"
+          }
+        ], 
+        "duration_ms": 127400, 
+        "track_number": 22, 
+        "type": "track", 
+        "id": "5YIu3bHIMA80ZMA2RIepVM"
+      }, 
+      {
+        "name": "Messin' Around", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2L2MI3tr4dDl8mUUGKK5If"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a4b8560da1d0535a0f5e2d07b14630089f7e39bc", 
+        "is_playable": true, 
+        "uri": "spotify:track:2L2MI3tr4dDl8mUUGKK5If", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2L2MI3tr4dDl8mUUGKK5If", 
+        "artists": [
+          {
+            "name": "Sebadoh", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
+            }, 
+            "uri": "spotify:artist:2wrhBKGC3DTNNNDRJPaxW6", 
+            "href": "https://api.spotify.com/v1/artists/2wrhBKGC3DTNNNDRJPaxW6", 
+            "type": "artist", 
+            "id": "2wrhBKGC3DTNNNDRJPaxW6"
+          }
+        ], 
+        "duration_ms": 97920, 
+        "track_number": 23, 
+        "type": "track", 
+        "id": "2L2MI3tr4dDl8mUUGKK5If"
+      }, 
+      {
+        "name": "Visibly Wasted II", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/12cTrBerP7P7nXLEFlPegz"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/0ce0e46778603f6d6e83cc6b087014550220f6a4", 
+        "is_playable": true, 
+        "uri": "spotify:track:12cTrBerP7P7nXLEFlPegz", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/12cTrBerP7P7nXLEFlPegz", 
+        "artists": [
+          {
+            "name": "Sebadoh", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
+            }, 
+            "uri": "spotify:artist:2wrhBKGC3DTNNNDRJPaxW6", 
+            "href": "https://api.spotify.com/v1/artists/2wrhBKGC3DTNNNDRJPaxW6", 
+            "type": "artist", 
+            "id": "2wrhBKGC3DTNNNDRJPaxW6"
+          }
+        ], 
+        "duration_ms": 91120, 
+        "track_number": 24, 
+        "type": "track", 
+        "id": "12cTrBerP7P7nXLEFlPegz"
+      }, 
+      {
+        "name": "You Are Going Down", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0wLG9DEmtOczUQStlkkLes"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e670f579cee681aa01e6f2d2fd5c7daa6d3da1bb", 
+        "is_playable": true, 
+        "uri": "spotify:track:0wLG9DEmtOczUQStlkkLes", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0wLG9DEmtOczUQStlkkLes", 
+        "artists": [
+          {
+            "name": "Sebadoh", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
+            }, 
+            "uri": "spotify:artist:2wrhBKGC3DTNNNDRJPaxW6", 
+            "href": "https://api.spotify.com/v1/artists/2wrhBKGC3DTNNNDRJPaxW6", 
+            "type": "artist", 
+            "id": "2wrhBKGC3DTNNNDRJPaxW6"
+          }
+        ], 
+        "duration_ms": 55520, 
+        "track_number": 25, 
+        "type": "track", 
+        "id": "0wLG9DEmtOczUQStlkkLes"
+      }, 
+      {
+        "name": "Old Daze", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4BffX8GPcArkgcOx1XcwwC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e568c091f8674b1630c2a7c4b58be48ab46f4967", 
+        "is_playable": true, 
+        "uri": "spotify:track:4BffX8GPcArkgcOx1XcwwC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/4BffX8GPcArkgcOx1XcwwC", 
+        "artists": [
+          {
+            "name": "Sebadoh", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
+            }, 
+            "uri": "spotify:artist:2wrhBKGC3DTNNNDRJPaxW6", 
+            "href": "https://api.spotify.com/v1/artists/2wrhBKGC3DTNNNDRJPaxW6", 
+            "type": "artist", 
+            "id": "2wrhBKGC3DTNNNDRJPaxW6"
+          }
+        ], 
+        "duration_ms": 92386, 
+        "track_number": 26, 
+        "type": "track", 
+        "id": "4BffX8GPcArkgcOx1XcwwC"
+      }, 
+      {
+        "name": "Part 1- Lou", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5c7tmdCh9XPpUWmErQCsEt"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b45591573981fc299634db524438760437d4a52d", 
+        "is_playable": true, 
+        "uri": "spotify:track:5c7tmdCh9XPpUWmErQCsEt", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5c7tmdCh9XPpUWmErQCsEt", 
+        "artists": [
+          {
+            "name": "Sebadoh", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
+            }, 
+            "uri": "spotify:artist:2wrhBKGC3DTNNNDRJPaxW6", 
+            "href": "https://api.spotify.com/v1/artists/2wrhBKGC3DTNNNDRJPaxW6", 
+            "type": "artist", 
+            "id": "2wrhBKGC3DTNNNDRJPaxW6"
+          }
+        ], 
+        "duration_ms": 268426, 
+        "track_number": 27, 
+        "type": "track", 
+        "id": "5c7tmdCh9XPpUWmErQCsEt"
+      }, 
+      {
+        "name": "Part 2 - Eric", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Ilk12O9e3uLZm8S5oZsoP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/2390c248f9d935fe61bbae7dc09a7868421d82ff", 
+        "is_playable": true, 
+        "uri": "spotify:track:5Ilk12O9e3uLZm8S5oZsoP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5Ilk12O9e3uLZm8S5oZsoP", 
+        "artists": [
+          {
+            "name": "Sebadoh", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
+            }, 
+            "uri": "spotify:artist:2wrhBKGC3DTNNNDRJPaxW6", 
+            "href": "https://api.spotify.com/v1/artists/2wrhBKGC3DTNNNDRJPaxW6", 
+            "type": "artist", 
+            "id": "2wrhBKGC3DTNNNDRJPaxW6"
+          }
+        ], 
+        "duration_ms": 129320, 
+        "track_number": 28, 
+        "type": "track", 
+        "id": "5Ilk12O9e3uLZm8S5oZsoP"
+      }, 
+      {
+        "name": "Part 3 - Eric", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3XRXKjxuPGCv3b6UDLyCdC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ed9a6c0a4510d2eb3a88ba653b0f330c45433a12", 
+        "is_playable": true, 
+        "uri": "spotify:track:3XRXKjxuPGCv3b6UDLyCdC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3XRXKjxuPGCv3b6UDLyCdC", 
+        "artists": [
+          {
+            "name": "Sebadoh", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
+            }, 
+            "uri": "spotify:artist:2wrhBKGC3DTNNNDRJPaxW6", 
+            "href": "https://api.spotify.com/v1/artists/2wrhBKGC3DTNNNDRJPaxW6", 
+            "type": "artist", 
+            "id": "2wrhBKGC3DTNNNDRJPaxW6"
+          }
+        ], 
+        "duration_ms": 104506, 
+        "track_number": 29, 
+        "type": "track", 
+        "id": "3XRXKjxuPGCv3b6UDLyCdC"
+      }, 
+      {
+        "name": "Part 4 - Jason", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2uu4vUPZQ5kEXjU3M3ZoVU"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/851edffa1e70597b208e805e786145e475347ea9", 
+        "is_playable": true, 
+        "uri": "spotify:track:2uu4vUPZQ5kEXjU3M3ZoVU", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2uu4vUPZQ5kEXjU3M3ZoVU", 
+        "artists": [
+          {
+            "name": "Sebadoh", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
+            }, 
+            "uri": "spotify:artist:2wrhBKGC3DTNNNDRJPaxW6", 
+            "href": "https://api.spotify.com/v1/artists/2wrhBKGC3DTNNNDRJPaxW6", 
+            "type": "artist", 
+            "id": "2wrhBKGC3DTNNNDRJPaxW6"
+          }
+        ], 
+        "duration_ms": 142680, 
+        "track_number": 30, 
+        "type": "track", 
+        "id": "2uu4vUPZQ5kEXjU3M3ZoVU"
+      }, 
+      {
+        "name": "Happily Divided", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/67NPgvypwtZjlLc8tLi3qa"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7c12981c901a473c53c7de52f77394c9cdec9318", 
+        "is_playable": true, 
+        "uri": "spotify:track:67NPgvypwtZjlLc8tLi3qa", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/67NPgvypwtZjlLc8tLi3qa", 
+        "artists": [
+          {
+            "name": "Sebadoh", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
+            }, 
+            "uri": "spotify:artist:2wrhBKGC3DTNNNDRJPaxW6", 
+            "href": "https://api.spotify.com/v1/artists/2wrhBKGC3DTNNNDRJPaxW6", 
+            "type": "artist", 
+            "id": "2wrhBKGC3DTNNNDRJPaxW6"
+          }
+        ], 
+        "duration_ms": 169493, 
+        "track_number": 31, 
+        "type": "track", 
+        "id": "67NPgvypwtZjlLc8tLi3qa"
+      }, 
+      {
+        "name": "Soul And Fire - Acoustic Demo", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0bvO20aqrPg3Kr8K1R2Sbu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b0e448267dd133cde9ba15b33a8f629c626e811c", 
+        "is_playable": true, 
+        "uri": "spotify:track:0bvO20aqrPg3Kr8K1R2Sbu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0bvO20aqrPg3Kr8K1R2Sbu", 
+        "artists": [
+          {
+            "name": "Sebadoh", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
+            }, 
+            "uri": "spotify:artist:2wrhBKGC3DTNNNDRJPaxW6", 
+            "href": "https://api.spotify.com/v1/artists/2wrhBKGC3DTNNNDRJPaxW6", 
+            "type": "artist", 
+            "id": "2wrhBKGC3DTNNNDRJPaxW6"
+          }
+        ], 
+        "duration_ms": 132840, 
+        "track_number": 32, 
+        "type": "track", 
+        "id": "0bvO20aqrPg3Kr8K1R2Sbu"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/6i5tPnXjltqPzcWemiyz8q/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 32, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/6i5tPnXjltqPzcWemiyz8q", 
+  "copyrights": [
+    {
+      "text": "2008 Domino Recording Co Ltd", 
+      "type": "C"
+    }, 
+    {
+      "text": "2008 Domino Recording Co Ltd", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Sebadoh", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
+      }, 
+      "uri": "spotify:artist:2wrhBKGC3DTNNNDRJPaxW6", 
+      "href": "https://api.spotify.com/v1/artists/2wrhBKGC3DTNNNDRJPaxW6", 
+      "type": "artist", 
+      "id": "2wrhBKGC3DTNNNDRJPaxW6"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/3e9e79997bd5e38e59ea945341771c6e18102df4", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/4f737237407c7a74436694e180bf2f08a8eccc57", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/e6feb539e849c70c2f93e3677e6a958664d74d42", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "5034202203759"
+  }, 
+  "type": "album", 
+  "id": "6i5tPnXjltqPzcWemiyz8q", 
+  "name": "Bubble And Scrape"
+}

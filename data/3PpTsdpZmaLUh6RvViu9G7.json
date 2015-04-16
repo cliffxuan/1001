@@ -1,0 +1,459 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "day", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3PpTsdpZmaLUh6RvViu9G7"
+  }, 
+  "release_date": "1996-05-20", 
+  "popularity": 52, 
+  "genres": [], 
+  "uri": "spotify:album:3PpTsdpZmaLUh6RvViu9G7", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Devils Haircut", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7h69nvFshbhUpesEXBPH0w"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/456ce8ed5327d46f33c4c2a707fe57770dcd0913", 
+        "is_playable": true, 
+        "uri": "spotify:track:7h69nvFshbhUpesEXBPH0w", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7h69nvFshbhUpesEXBPH0w", 
+        "artists": [
+          {
+            "name": "Beck", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+            }, 
+            "uri": "spotify:artist:3vbKDsSS70ZX9D2OcvbZmS", 
+            "href": "https://api.spotify.com/v1/artists/3vbKDsSS70ZX9D2OcvbZmS", 
+            "type": "artist", 
+            "id": "3vbKDsSS70ZX9D2OcvbZmS"
+          }
+        ], 
+        "duration_ms": 192933, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "7h69nvFshbhUpesEXBPH0w"
+      }, 
+      {
+        "name": "Hotwax", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5744tkeDwL5Hq2RNZDBuEL"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5a5f1daba79fe34b632d1d324ea40b0594455100", 
+        "is_playable": true, 
+        "uri": "spotify:track:5744tkeDwL5Hq2RNZDBuEL", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5744tkeDwL5Hq2RNZDBuEL", 
+        "artists": [
+          {
+            "name": "Beck", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+            }, 
+            "uri": "spotify:artist:3vbKDsSS70ZX9D2OcvbZmS", 
+            "href": "https://api.spotify.com/v1/artists/3vbKDsSS70ZX9D2OcvbZmS", 
+            "type": "artist", 
+            "id": "3vbKDsSS70ZX9D2OcvbZmS"
+          }
+        ], 
+        "duration_ms": 228960, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "5744tkeDwL5Hq2RNZDBuEL"
+      }, 
+      {
+        "name": "Lord Only Knows", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2iUC7Md6LYUU7OUnIQVZje"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a7f8ce0b947a15229c07a340ce0fd082831b0153", 
+        "is_playable": true, 
+        "uri": "spotify:track:2iUC7Md6LYUU7OUnIQVZje", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2iUC7Md6LYUU7OUnIQVZje", 
+        "artists": [
+          {
+            "name": "Beck", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+            }, 
+            "uri": "spotify:artist:3vbKDsSS70ZX9D2OcvbZmS", 
+            "href": "https://api.spotify.com/v1/artists/3vbKDsSS70ZX9D2OcvbZmS", 
+            "type": "artist", 
+            "id": "3vbKDsSS70ZX9D2OcvbZmS"
+          }
+        ], 
+        "duration_ms": 254026, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "2iUC7Md6LYUU7OUnIQVZje"
+      }, 
+      {
+        "name": "The New Pollution", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1flci5s2ER4nP40d5Cf4Nj"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/54ef6fa43f1f23f470a1b2b051ed7a777454fd5e", 
+        "is_playable": true, 
+        "uri": "spotify:track:1flci5s2ER4nP40d5Cf4Nj", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1flci5s2ER4nP40d5Cf4Nj", 
+        "artists": [
+          {
+            "name": "Beck", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+            }, 
+            "uri": "spotify:artist:3vbKDsSS70ZX9D2OcvbZmS", 
+            "href": "https://api.spotify.com/v1/artists/3vbKDsSS70ZX9D2OcvbZmS", 
+            "type": "artist", 
+            "id": "3vbKDsSS70ZX9D2OcvbZmS"
+          }
+        ], 
+        "duration_ms": 219506, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "1flci5s2ER4nP40d5Cf4Nj"
+      }, 
+      {
+        "name": "Derelict", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0MSwUQmUAv1E7pfE6brLE8"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/39d5e5a81a4247c76536781f6f0dbb38dc9c16a2", 
+        "is_playable": true, 
+        "uri": "spotify:track:0MSwUQmUAv1E7pfE6brLE8", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0MSwUQmUAv1E7pfE6brLE8", 
+        "artists": [
+          {
+            "name": "Beck", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+            }, 
+            "uri": "spotify:artist:3vbKDsSS70ZX9D2OcvbZmS", 
+            "href": "https://api.spotify.com/v1/artists/3vbKDsSS70ZX9D2OcvbZmS", 
+            "type": "artist", 
+            "id": "3vbKDsSS70ZX9D2OcvbZmS"
+          }
+        ], 
+        "duration_ms": 252933, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "0MSwUQmUAv1E7pfE6brLE8"
+      }, 
+      {
+        "name": "Novacane", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6vv5zU69sLK4F5h6kfGnVB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9541e9c764302177d84fe1b6931a2ad43dd8b508", 
+        "is_playable": true, 
+        "uri": "spotify:track:6vv5zU69sLK4F5h6kfGnVB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6vv5zU69sLK4F5h6kfGnVB", 
+        "artists": [
+          {
+            "name": "Beck", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+            }, 
+            "uri": "spotify:artist:3vbKDsSS70ZX9D2OcvbZmS", 
+            "href": "https://api.spotify.com/v1/artists/3vbKDsSS70ZX9D2OcvbZmS", 
+            "type": "artist", 
+            "id": "3vbKDsSS70ZX9D2OcvbZmS"
+          }
+        ], 
+        "duration_ms": 277626, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "6vv5zU69sLK4F5h6kfGnVB"
+      }, 
+      {
+        "name": "Jack-Ass", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7jPZO6Xm4opMtXZEH88XbD"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/14edfaff6764132075d76835180d3c579f0dc716", 
+        "is_playable": true, 
+        "uri": "spotify:track:7jPZO6Xm4opMtXZEH88XbD", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7jPZO6Xm4opMtXZEH88XbD", 
+        "artists": [
+          {
+            "name": "Beck", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+            }, 
+            "uri": "spotify:artist:3vbKDsSS70ZX9D2OcvbZmS", 
+            "href": "https://api.spotify.com/v1/artists/3vbKDsSS70ZX9D2OcvbZmS", 
+            "type": "artist", 
+            "id": "3vbKDsSS70ZX9D2OcvbZmS"
+          }
+        ], 
+        "duration_ms": 241173, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "7jPZO6Xm4opMtXZEH88XbD"
+      }, 
+      {
+        "name": "Where It's At - Album Version W/ Intro", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1GreGTs4rIfjDILBERxKcB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/1be87554ebf824d4fe787e8644fd06947d750cdd", 
+        "is_playable": true, 
+        "uri": "spotify:track:1GreGTs4rIfjDILBERxKcB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1GreGTs4rIfjDILBERxKcB", 
+        "artists": [
+          {
+            "name": "Beck", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+            }, 
+            "uri": "spotify:artist:3vbKDsSS70ZX9D2OcvbZmS", 
+            "href": "https://api.spotify.com/v1/artists/3vbKDsSS70ZX9D2OcvbZmS", 
+            "type": "artist", 
+            "id": "3vbKDsSS70ZX9D2OcvbZmS"
+          }
+        ], 
+        "duration_ms": 329800, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "1GreGTs4rIfjDILBERxKcB"
+      }, 
+      {
+        "name": "Minus", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3HVmL0xgBcaIwqK6O2EcIA"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/876a7e2ef05f58a020cc1958fa3c9596b407b46b", 
+        "is_playable": true, 
+        "uri": "spotify:track:3HVmL0xgBcaIwqK6O2EcIA", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/3HVmL0xgBcaIwqK6O2EcIA", 
+        "artists": [
+          {
+            "name": "Beck", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+            }, 
+            "uri": "spotify:artist:3vbKDsSS70ZX9D2OcvbZmS", 
+            "href": "https://api.spotify.com/v1/artists/3vbKDsSS70ZX9D2OcvbZmS", 
+            "type": "artist", 
+            "id": "3vbKDsSS70ZX9D2OcvbZmS"
+          }
+        ], 
+        "duration_ms": 151240, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "3HVmL0xgBcaIwqK6O2EcIA"
+      }, 
+      {
+        "name": "Sissyneck", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5GYLHNa2acW4Ajn6E7Tope"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/9979a7e17e9ced3222bd9c4baa5a3f4bbc386309", 
+        "is_playable": true, 
+        "uri": "spotify:track:5GYLHNa2acW4Ajn6E7Tope", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/5GYLHNa2acW4Ajn6E7Tope", 
+        "artists": [
+          {
+            "name": "Beck", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+            }, 
+            "uri": "spotify:artist:3vbKDsSS70ZX9D2OcvbZmS", 
+            "href": "https://api.spotify.com/v1/artists/3vbKDsSS70ZX9D2OcvbZmS", 
+            "type": "artist", 
+            "id": "3vbKDsSS70ZX9D2OcvbZmS"
+          }
+        ], 
+        "duration_ms": 232666, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "5GYLHNa2acW4Ajn6E7Tope"
+      }, 
+      {
+        "name": "Readymade", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6ooM7KiJolWpk7xIi3cEiI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/573ba24e5b699a3be01647334563148e2d848c86", 
+        "is_playable": true, 
+        "uri": "spotify:track:6ooM7KiJolWpk7xIi3cEiI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6ooM7KiJolWpk7xIi3cEiI", 
+        "artists": [
+          {
+            "name": "Beck", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+            }, 
+            "uri": "spotify:artist:3vbKDsSS70ZX9D2OcvbZmS", 
+            "href": "https://api.spotify.com/v1/artists/3vbKDsSS70ZX9D2OcvbZmS", 
+            "type": "artist", 
+            "id": "3vbKDsSS70ZX9D2OcvbZmS"
+          }
+        ], 
+        "duration_ms": 156533, 
+        "track_number": 11, 
+        "type": "track", 
+        "id": "6ooM7KiJolWpk7xIi3cEiI"
+      }, 
+      {
+        "name": "High 5 (Rock The Catskills)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1m1OdbgWb6amSmdVwGBG7s"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/a1f134aefed708e8b1a0d94bb4e6698fceb340aa", 
+        "is_playable": true, 
+        "uri": "spotify:track:1m1OdbgWb6amSmdVwGBG7s", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1m1OdbgWb6amSmdVwGBG7s", 
+        "artists": [
+          {
+            "name": "Beck", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+            }, 
+            "uri": "spotify:artist:3vbKDsSS70ZX9D2OcvbZmS", 
+            "href": "https://api.spotify.com/v1/artists/3vbKDsSS70ZX9D2OcvbZmS", 
+            "type": "artist", 
+            "id": "3vbKDsSS70ZX9D2OcvbZmS"
+          }
+        ], 
+        "duration_ms": 250733, 
+        "track_number": 12, 
+        "type": "track", 
+        "id": "1m1OdbgWb6amSmdVwGBG7s"
+      }, 
+      {
+        "name": "Ramshackle", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0E2aZMFFpUexu3Tv3JWDsw"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/90713816bf627ae40066ad52704d13d538d0e4f2", 
+        "is_playable": true, 
+        "uri": "spotify:track:0E2aZMFFpUexu3Tv3JWDsw", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0E2aZMFFpUexu3Tv3JWDsw", 
+        "artists": [
+          {
+            "name": "Beck", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+            }, 
+            "uri": "spotify:artist:3vbKDsSS70ZX9D2OcvbZmS", 
+            "href": "https://api.spotify.com/v1/artists/3vbKDsSS70ZX9D2OcvbZmS", 
+            "type": "artist", 
+            "id": "3vbKDsSS70ZX9D2OcvbZmS"
+          }
+        ], 
+        "duration_ms": 286533, 
+        "track_number": 13, 
+        "type": "track", 
+        "id": "0E2aZMFFpUexu3Tv3JWDsw"
+      }, 
+      {
+        "name": "Diskobox", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0jFEXKlB1D5vZC3vxMOzYu"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/86bbcca588279c4804490bb4333bbd2ec40db764", 
+        "is_playable": true, 
+        "uri": "spotify:track:0jFEXKlB1D5vZC3vxMOzYu", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0jFEXKlB1D5vZC3vxMOzYu", 
+        "artists": [
+          {
+            "name": "Beck", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+            }, 
+            "uri": "spotify:artist:3vbKDsSS70ZX9D2OcvbZmS", 
+            "href": "https://api.spotify.com/v1/artists/3vbKDsSS70ZX9D2OcvbZmS", 
+            "type": "artist", 
+            "id": "3vbKDsSS70ZX9D2OcvbZmS"
+          }
+        ], 
+        "duration_ms": 215160, 
+        "track_number": 14, 
+        "type": "track", 
+        "id": "0jFEXKlB1D5vZC3vxMOzYu"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/3PpTsdpZmaLUh6RvViu9G7/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 14, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/3PpTsdpZmaLUh6RvViu9G7", 
+  "copyrights": [
+    {
+      "text": "(C) 1996 Geffen Records Inc.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) 1996 Geffen Records Inc.", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Beck", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+      }, 
+      "uri": "spotify:artist:3vbKDsSS70ZX9D2OcvbZmS", 
+      "href": "https://api.spotify.com/v1/artists/3vbKDsSS70ZX9D2OcvbZmS", 
+      "type": "artist", 
+      "id": "3vbKDsSS70ZX9D2OcvbZmS"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/f2154193398708f1611d44486cdc9876022c4be3", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/1aa8e7cd9c52832e89ad0807b2b91da593ef5e20", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/95665ca5113d854b26dcce12f946e2e1d8626bf7", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00720642490822"
+  }, 
+  "type": "album", 
+  "id": "3PpTsdpZmaLUh6RvViu9G7", 
+  "name": "Odelay"
+}

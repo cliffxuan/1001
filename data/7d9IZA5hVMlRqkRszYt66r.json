@@ -1,0 +1,347 @@
+{
+  "album_type": "album", 
+  "release_date_precision": "year", 
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7d9IZA5hVMlRqkRszYt66r"
+  }, 
+  "release_date": "1969", 
+  "popularity": 36, 
+  "genres": [], 
+  "uri": "spotify:album:7d9IZA5hVMlRqkRszYt66r", 
+  "tracks": {
+    "items": [
+      {
+        "name": "Who Do You Love (Part 1)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/14hykKy6TC9y6chiptCtje"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/7676ffb5ae351d838f1fa7d269af53f10adf8ea6", 
+        "is_playable": true, 
+        "uri": "spotify:track:14hykKy6TC9y6chiptCtje", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/14hykKy6TC9y6chiptCtje", 
+        "artists": [
+          {
+            "name": "Quicksilver Messenger Service", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7DCnwoFMqGN6eZULdcLZeL"
+            }, 
+            "uri": "spotify:artist:7DCnwoFMqGN6eZULdcLZeL", 
+            "href": "https://api.spotify.com/v1/artists/7DCnwoFMqGN6eZULdcLZeL", 
+            "type": "artist", 
+            "id": "7DCnwoFMqGN6eZULdcLZeL"
+          }
+        ], 
+        "duration_ms": 212733, 
+        "track_number": 1, 
+        "type": "track", 
+        "id": "14hykKy6TC9y6chiptCtje"
+      }, 
+      {
+        "name": "When You Love", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0cNGBAQX1VpcFNm5QtS1go"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e7495039304bb7ebe6acb974b01af0d0a219fb26", 
+        "is_playable": true, 
+        "uri": "spotify:track:0cNGBAQX1VpcFNm5QtS1go", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0cNGBAQX1VpcFNm5QtS1go", 
+        "artists": [
+          {
+            "name": "Quicksilver Messenger Service", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7DCnwoFMqGN6eZULdcLZeL"
+            }, 
+            "uri": "spotify:artist:7DCnwoFMqGN6eZULdcLZeL", 
+            "href": "https://api.spotify.com/v1/artists/7DCnwoFMqGN6eZULdcLZeL", 
+            "type": "artist", 
+            "id": "7DCnwoFMqGN6eZULdcLZeL"
+          }
+        ], 
+        "duration_ms": 314373, 
+        "track_number": 2, 
+        "type": "track", 
+        "id": "0cNGBAQX1VpcFNm5QtS1go"
+      }, 
+      {
+        "name": "Where You Love", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7JXjRBxEzhEQp16FQxUol1"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/3cbb4e5393d9bce13769320bfe1c2082db5a3b4a", 
+        "is_playable": true, 
+        "uri": "spotify:track:7JXjRBxEzhEQp16FQxUol1", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/7JXjRBxEzhEQp16FQxUol1", 
+        "artists": [
+          {
+            "name": "Quicksilver Messenger Service", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7DCnwoFMqGN6eZULdcLZeL"
+            }, 
+            "uri": "spotify:artist:7DCnwoFMqGN6eZULdcLZeL", 
+            "href": "https://api.spotify.com/v1/artists/7DCnwoFMqGN6eZULdcLZeL", 
+            "type": "artist", 
+            "id": "7DCnwoFMqGN6eZULdcLZeL"
+          }
+        ], 
+        "duration_ms": 366533, 
+        "track_number": 3, 
+        "type": "track", 
+        "id": "7JXjRBxEzhEQp16FQxUol1"
+      }, 
+      {
+        "name": "How You Love", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2cWL7yCdUnaFynqA7z81QP"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/5150fd146aacb0915e0c0b92f6dce987f871105d", 
+        "is_playable": true, 
+        "uri": "spotify:track:2cWL7yCdUnaFynqA7z81QP", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/2cWL7yCdUnaFynqA7z81QP", 
+        "artists": [
+          {
+            "name": "Quicksilver Messenger Service", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7DCnwoFMqGN6eZULdcLZeL"
+            }, 
+            "uri": "spotify:artist:7DCnwoFMqGN6eZULdcLZeL", 
+            "href": "https://api.spotify.com/v1/artists/7DCnwoFMqGN6eZULdcLZeL", 
+            "type": "artist", 
+            "id": "7DCnwoFMqGN6eZULdcLZeL"
+          }
+        ], 
+        "duration_ms": 165426, 
+        "track_number": 4, 
+        "type": "track", 
+        "id": "2cWL7yCdUnaFynqA7z81QP"
+      }, 
+      {
+        "name": "Which Do You Love", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6nvqMow6jtm6nSlZw3kEQG"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/e38ac75a2860457f669872f3796e7f17ac747096", 
+        "is_playable": true, 
+        "uri": "spotify:track:6nvqMow6jtm6nSlZw3kEQG", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6nvqMow6jtm6nSlZw3kEQG", 
+        "artists": [
+          {
+            "name": "Quicksilver Messenger Service", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7DCnwoFMqGN6eZULdcLZeL"
+            }, 
+            "uri": "spotify:artist:7DCnwoFMqGN6eZULdcLZeL", 
+            "href": "https://api.spotify.com/v1/artists/7DCnwoFMqGN6eZULdcLZeL", 
+            "type": "artist", 
+            "id": "7DCnwoFMqGN6eZULdcLZeL"
+          }
+        ], 
+        "duration_ms": 109200, 
+        "track_number": 5, 
+        "type": "track", 
+        "id": "6nvqMow6jtm6nSlZw3kEQG"
+      }, 
+      {
+        "name": "Who Do You Love (Part 2)", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/24dBPoFslfqnOK1bl0s3sI"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/b8bceb030bbfb6c5934ec62ca424fdf71f352a53", 
+        "is_playable": true, 
+        "uri": "spotify:track:24dBPoFslfqnOK1bl0s3sI", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/24dBPoFslfqnOK1bl0s3sI", 
+        "artists": [
+          {
+            "name": "Quicksilver Messenger Service", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7DCnwoFMqGN6eZULdcLZeL"
+            }, 
+            "uri": "spotify:artist:7DCnwoFMqGN6eZULdcLZeL", 
+            "href": "https://api.spotify.com/v1/artists/7DCnwoFMqGN6eZULdcLZeL", 
+            "type": "artist", 
+            "id": "7DCnwoFMqGN6eZULdcLZeL"
+          }
+        ], 
+        "duration_ms": 351800, 
+        "track_number": 6, 
+        "type": "track", 
+        "id": "24dBPoFslfqnOK1bl0s3sI"
+      }, 
+      {
+        "name": "Mona", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0C097TFNj4ikTOISggfohB"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/876ffb05cc44542bc04afd7955af5e8d24c57c65", 
+        "is_playable": true, 
+        "uri": "spotify:track:0C097TFNj4ikTOISggfohB", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/0C097TFNj4ikTOISggfohB", 
+        "artists": [
+          {
+            "name": "Quicksilver Messenger Service", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7DCnwoFMqGN6eZULdcLZeL"
+            }, 
+            "uri": "spotify:artist:7DCnwoFMqGN6eZULdcLZeL", 
+            "href": "https://api.spotify.com/v1/artists/7DCnwoFMqGN6eZULdcLZeL", 
+            "type": "artist", 
+            "id": "7DCnwoFMqGN6eZULdcLZeL"
+          }
+        ], 
+        "duration_ms": 421266, 
+        "track_number": 7, 
+        "type": "track", 
+        "id": "0C097TFNj4ikTOISggfohB"
+      }, 
+      {
+        "name": "Maiden Of The Cancer Moon", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/10Zp2cRLMFCWjUq6xdeyqC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/868f063b60b601b0b2d19410b96654c1e29681c4", 
+        "is_playable": true, 
+        "uri": "spotify:track:10Zp2cRLMFCWjUq6xdeyqC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/10Zp2cRLMFCWjUq6xdeyqC", 
+        "artists": [
+          {
+            "name": "Quicksilver Messenger Service", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7DCnwoFMqGN6eZULdcLZeL"
+            }, 
+            "uri": "spotify:artist:7DCnwoFMqGN6eZULdcLZeL", 
+            "href": "https://api.spotify.com/v1/artists/7DCnwoFMqGN6eZULdcLZeL", 
+            "type": "artist", 
+            "id": "7DCnwoFMqGN6eZULdcLZeL"
+          }
+        ], 
+        "duration_ms": 171840, 
+        "track_number": 8, 
+        "type": "track", 
+        "id": "10Zp2cRLMFCWjUq6xdeyqC"
+      }, 
+      {
+        "name": "Calvary", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6jIQb6nCEJxTr5CH20BVw7"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/6aee0b97e324e2023018ef91fe238993f7d1efd0", 
+        "is_playable": true, 
+        "uri": "spotify:track:6jIQb6nCEJxTr5CH20BVw7", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/6jIQb6nCEJxTr5CH20BVw7", 
+        "artists": [
+          {
+            "name": "Quicksilver Messenger Service", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7DCnwoFMqGN6eZULdcLZeL"
+            }, 
+            "uri": "spotify:artist:7DCnwoFMqGN6eZULdcLZeL", 
+            "href": "https://api.spotify.com/v1/artists/7DCnwoFMqGN6eZULdcLZeL", 
+            "type": "artist", 
+            "id": "7DCnwoFMqGN6eZULdcLZeL"
+          }
+        ], 
+        "duration_ms": 813600, 
+        "track_number": 9, 
+        "type": "track", 
+        "id": "6jIQb6nCEJxTr5CH20BVw7"
+      }, 
+      {
+        "name": "Happy Trails", 
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1V9tRnk6ntWdANXGk25XeC"
+        }, 
+        "explicit": false, 
+        "preview_url": "https://p.scdn.co/mp3-preview/ed5894a43d26799eba0654fa927a25c627e922cb", 
+        "is_playable": true, 
+        "uri": "spotify:track:1V9tRnk6ntWdANXGk25XeC", 
+        "disc_number": 1, 
+        "href": "https://api.spotify.com/v1/tracks/1V9tRnk6ntWdANXGk25XeC", 
+        "artists": [
+          {
+            "name": "Quicksilver Messenger Service", 
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7DCnwoFMqGN6eZULdcLZeL"
+            }, 
+            "uri": "spotify:artist:7DCnwoFMqGN6eZULdcLZeL", 
+            "href": "https://api.spotify.com/v1/artists/7DCnwoFMqGN6eZULdcLZeL", 
+            "type": "artist", 
+            "id": "7DCnwoFMqGN6eZULdcLZeL"
+          }
+        ], 
+        "duration_ms": 89760, 
+        "track_number": 10, 
+        "type": "track", 
+        "id": "1V9tRnk6ntWdANXGk25XeC"
+      }
+    ], 
+    "next": null, 
+    "href": "https://api.spotify.com/v1/albums/7d9IZA5hVMlRqkRszYt66r/tracks?offset=0&limit=50&market=GB", 
+    "limit": 50, 
+    "offset": 0, 
+    "total": 10, 
+    "previous": null
+  }, 
+  "href": "https://api.spotify.com/v1/albums/7d9IZA5hVMlRqkRszYt66r", 
+  "copyrights": [
+    {
+      "text": "(C) 1988 Capitol Records, Inc.", 
+      "type": "C"
+    }, 
+    {
+      "text": "(P) (C) 1988 Capitol Records, Inc.. All rights reserved. Unauthorized reproduction is a violation of applicable laws. Manufactured by Capitol Catalog,", 
+      "type": "P"
+    }
+  ], 
+  "artists": [
+    {
+      "name": "Quicksilver Messenger Service", 
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7DCnwoFMqGN6eZULdcLZeL"
+      }, 
+      "uri": "spotify:artist:7DCnwoFMqGN6eZULdcLZeL", 
+      "href": "https://api.spotify.com/v1/artists/7DCnwoFMqGN6eZULdcLZeL", 
+      "type": "artist", 
+      "id": "7DCnwoFMqGN6eZULdcLZeL"
+    }
+  ], 
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/953b5859a21dad7bcc852aeaaa299f3376ec15b2", 
+      "width": 640, 
+      "height": 640
+    }, 
+    {
+      "url": "https://i.scdn.co/image/a258bf549c389819c7f1be84fedde2bda1e91e02", 
+      "width": 300, 
+      "height": 300
+    }, 
+    {
+      "url": "https://i.scdn.co/image/a8fcd3f1e8834913e7a639772ab439b8a74d7232", 
+      "width": 64, 
+      "height": 64
+    }
+  ], 
+  "external_ids": {
+    "upc": "00077779121557"
+  }, 
+  "type": "album", 
+  "id": "7d9IZA5hVMlRqkRszYt66r", 
+  "name": "Happy Trails"
+}
