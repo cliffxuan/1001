@@ -23,7 +23,7 @@ class Albums extends React.Component {
     return (
       <div id="albums">
         <YearMenu handleUpdate={this.handleYearUpdate.bind(this)} all_years={this.all_years} />
-        <div className="pure-g">
+        <div className="pure-g grids">
           {ids.map(id => React.createElement(Album, this.state.albums[id]))}
         </div>
       </div>
@@ -77,9 +77,9 @@ class YearMenu extends React.Component {
 
   render() {
     return (
-      <div className="pure-menu pure-menu-horizontal pure-menu-scrollable">
+      <div className="pure-menu pure-menu-horizontal fixed-top">
         <label className="pure-menu-link pure-menu-heading">Release Year</label>
-        <ul className="pure-menu-list">
+        <ul className="pure-menu-list fixed-top">
           {this.props.all_years.map(year => React.createElement(
               YearButton, {year: year, handleClick: this.handleClick.bind(this)}))}
         </ul>

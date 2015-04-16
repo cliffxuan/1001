@@ -4,10 +4,19 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
-    .center {
-        margin-left: auto;
-        margin-right: auto;
-        width: 90%;
+    .main {
+      margin-left: auto;
+      margin-right: auto;
+      width: 96%;
+    }
+    .fixed-top {
+      position: fixed;
+      top: 0;
+      margin: auto;
+      background-color: #FFFFFF;
+    }
+    .grids {
+      padding-top: 2em;
     }
     </style>
     <!-- <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css"> -->
@@ -15,7 +24,7 @@
     <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/grids-responsive-min.css">
   </head>
   <body>
-    <div id="container" class="center"></div>
+    <div id="container" class="main"></div>
     <script src="//cdnjs.cloudflare.com/ajax/libs/superagent/0.15.7/superagent.min.js"></script>
     <script src="http://fb.me/react-0.13.1.min.js"></script>
     <script src="http://fb.me/JSXTransformer-0.13.1.js"></script>
