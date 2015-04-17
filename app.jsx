@@ -51,7 +51,7 @@ class Album extends React.Component {
       .filter(x => Math.abs(x.width - 300) < 100)
       .first().value();
     if (image == null) {
-      image = {url: '/record.jpg'}
+      image = {url: '/record.jpg'};
     }
     return (
         <div className="pure-u-1 pure-u-sm-1-2 pure-u-md-1-3 pure-u-lg-1-4 pure-u-xl-1-5">
