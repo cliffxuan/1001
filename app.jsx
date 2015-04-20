@@ -4,11 +4,9 @@ class Album extends React.Component {
     this.state = {isChecked: false};
   }
   handleChange() {
-    console.log(this.state);
     this.setState({isChecked: !this.state.isChecked});
   }
   render () {
-    console.log(this.props.images);
     var image = _.chain(this.props.images)
       .filter(x => Math.abs(x.width - 300) < 100)
       .first().value();
@@ -48,7 +46,6 @@ class Albums extends React.Component {
   }
 
   handleYearUpdate (years) {
-    console.log('years: ' + years.join(', '));
     this.setState({years: years});
   }
 
