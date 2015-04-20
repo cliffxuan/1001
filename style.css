@@ -1,0 +1,110 @@
+.flip-item-wrap{
+  position:relative;
+}
+.fake-image{
+  visibility: hidden;
+}
+.flip-item{
+  display: block;
+  width:100%;
+  height:100%;
+  float:left;
+  position:absolute;
+  top:0;
+  left:0;
+  color:#fff;
+  -webkit-transform-style:preserve-3d;
+  -moz-transform-style:preserve-3d;
+  -ms-transform-style:preserve-3d;
+  -o-transform-style:preserve-3d;
+  transform-style:preserve-3d;
+  -webkit-transition:-webkit-transform 1s;
+  -moz-transition:   -moz-transform 1s;
+  -o-transition:     -o-transform 1s;
+  transition:        transform 1s;
+}
+.flip-item figure{
+  display:block;
+  position:absolute;
+  width:100%;
+  height:100%;
+  margin:0;
+  -webkit-backface-visibility:hidden;
+  -moz-backface-visibility:hidden;
+  -ms-backface-visibility:hidden;
+  -o-backface-visibility:hidden;
+  backface-visibility:hidden;
+}
+.flip-item .back{
+  width:100%;
+  display:block;
+  margin:0;
+  -webkit-transform:rotateY( 180deg );
+  -moz-transform:rotateY( 180deg );
+  -ms-transform:rotateY( 180deg );
+  -o-transform:rotateY( 180deg );
+  transform:rotateY( 180deg );
+}
+.flipper:checked + .flip-item{
+  -webkit-transform:rotateY( 180deg );
+  -moz-transform:rotateY( 180deg );
+  -ms-transform:rotateY( 180deg );
+  -o-transform:rotateY( 180deg );
+  transform:rotateY( 180deg );
+}
+.flip-item-desc{
+  width:90%;
+  height:90%;
+  padding:5%;
+  position:absolute;
+  top: 0;
+  left: 0;
+  text-shadow:1px 2px 1px rgba(0,0,0,0.9);
+  overflow:hidden;
+}
+.flip-item-title{
+  font-size: 1.5em;
+  margin: 1em 0 0.8em;
+}
+.back img {
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+
+.main {
+  margin-left: auto;
+  margin-right: auto;
+  width: 96%;
+}
+.fixed-top {
+  position:absolute;
+  top: 0;
+  margin: auto;
+  background-color: #FFFFFF;
+}
+.grids {
+  padding-top: 2em;
+}
+
+a.play-button {
+  color: #FFFFFF;
+  text-decoration: none;
+  position:absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -2em;
+  margin-top: -2em;
+}
+a.artist-link {
+  color: #FFFFFF;
+  position:absolute;
+  bottom:0;
+}
+.pure-menu-link.toggle {
+  cursor: pointer;
+}
+
+.flip-item-wrap figure {
+    margin-left: auto;
+    margin-right: auto;
+}

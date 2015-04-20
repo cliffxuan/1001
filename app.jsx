@@ -1,9 +1,44 @@
+class Album extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {isChecked: false};
+  }
+  handleChange() {
+    console.log(this.state);
+    this.setState({isChecked: !this.state.isChecked});
+  }
+  render () {
+    console.log(this.props.images);
+    var image = _.chain(this.props.images)
+      .filter(x => Math.abs(x.width - 300) < 100)
+      .first().value();
+    return (
+      <section className="pure-u-1 pure-u-sm-1-2 pure-u-md-1-3 pure-u-lg-1-4 pure-u-xl-1-5 flip-item-wrap">
+        <img className="fake-image pure-img" src="record-300.jpg" alt="" />
+        <input type="checkbox" className="flipper" id={this.props.id} onChange={this.handleChange.bind(this)} checked={this.state.isChecked} hidden />
+        <label htmlFor={this.props.id} className="flip-item">
+          <figure className="front"><img className="pure-img" src={image.url} alt=""></img></figure>
+          <figure className="back">
+            <img className="pure-img" src={image.url} alt=""></img>
+            <div className="flip-item-desc">
+              <h4 className="flip-item-title">{this.props.name}</h4>
+              <p>{new Date(Date.parse(this.props.release_date)).getFullYear()}</p>
+              <a className="artist-link" href={this.props.artists[0].uri}><p>{this.props.artists[0].name}</p></a>
+              <a className="play-button" href={this.props.uri}><i className="fa fa-play-circle-o fa-4x"></i></a>
+            </div>
+          </figure>
+        </label>
+      </section>
+    );
+  }
+}
+
 class Albums extends React.Component {
 
   constructor() {
     this.all_years = [1950, 1960, 1970, 1980, 1990, 2000, 2010];
     this.state = {years: this.all_years};
-  }  
+  }
 
   componentDidMount () {
     superagent.get(this.props.source)
@@ -15,19 +50,6 @@ class Albums extends React.Component {
   handleYearUpdate (years) {
     console.log('years: ' + years.join(', '));
     this.setState({years: years});
-  }
-
-  render() {
-    var ids = this._randomPick(this.state.albums, this.state.years, 100);
-    // console.log(ids);
-    return (
-      <div id="albums">
-        <YearMenu handleUpdate={this.handleYearUpdate.bind(this)} all_years={this.all_years} />
-        <div className="pure-g grids">
-          {ids.map(id => React.createElement(Album, this.state.albums[id]))}
-        </div>
-      </div>
-    );
   }
 
   _randomPick(albums, years, cnt) {
@@ -43,22 +65,15 @@ class Albums extends React.Component {
     return ids;
   }
 
-}
-
-class Album extends React.Component {
   render() {
-    var image = _.chain(this.props.images)
-      .filter(x => Math.abs(x.width - 300) < 100)
-      .first().value();
-    if (image == null) {
-      image = {url: '/record.jpg'};
-    }
+    var ids = this._randomPick(this.state.albums, this.state.years, 100);
     return (
-        <div className="pure-u-1 pure-u-sm-1-2 pure-u-md-1-3 pure-u-lg-1-4 pure-u-xl-1-5">
-          <a href={this.props.uri}>
-            <img className="pure-img" src={image.url} />
-          </a>
+      <div id="albums">
+        <YearMenu handleUpdate={this.handleYearUpdate.bind(this)} all_years={this.all_years} />
+        <div className="pure-g grids">
+          {ids.map(id => React.createElement(Album, this.state.albums[id]))}
         </div>
+      </div>
     );
   }
 }
@@ -78,13 +93,12 @@ class YearMenu extends React.Component {
     }
     this.props.handleUpdate(years.length > 0 ? years : this.props.all_years);
     this.setState({years: years});
-    // console.log('years: ' + years.join(', '));
   }
 
   render() {
     return (
       <div className="pure-menu pure-menu-horizontal fixed-top">
-        <label className="pure-menu-link pure-menu-heading">Release Year</label>
+        <label className="pure-menu-heading">Release Year</label>
         <ul className="pure-menu-list fixed-top">
           {this.props.all_years.map(year => React.createElement(
               YearButton, {year: year, handleClick: this.handleClick.bind(this)}))}
@@ -107,18 +121,19 @@ class YearButton extends React.Component {
   }
 
   render() {
+    var labelStyle;
     if (this.state.selected) {
-      var labelStyle = { backgroundColor: '#d8d8d8' };
+      labelStyle = { backgroundColor: '#d8d8d8' };
     } else {
-      var labelStyle = {};
+      labelStyle = {};
     }
     return (
       <li className="pure-menu-item" onChange={this.onChange.bind(this)} >
-          <label style={labelStyle} className="pure-menu-link">
-            <input name="years" type="checkbox"
-             checked={this.state.selected} value={this.props.year} hidden/>
-            {this.props.year}s
-          </label>
+        <label style={labelStyle} className="pure-menu-link toggle">
+          <input name="years" type="checkbox"
+           checked={this.state.selected} value={this.props.year} hidden/>
+          {this.props.year}s
+        </label>
       </li>
     );
   }
