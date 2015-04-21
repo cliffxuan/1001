@@ -96,7 +96,7 @@ class YearMenu extends React.Component {
     return (
       <div className="pure-menu pure-menu-horizontal fixed-top">
         <label className="pure-menu-heading">Release Year</label>
-        <ul className="pure-menu-list fixed-top">
+        <ul className="pure-menu-list">
           {this.props.all_years.map(year => React.createElement(
               YearButton, {year: year, handleClick: this.handleClick.bind(this)}))}
         </ul>
