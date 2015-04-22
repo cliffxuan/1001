@@ -11,13 +11,13 @@ class Album extends React.Component {
       .filter(x => Math.abs(x.width - 300) < 100)
       .first().value();
     return (
-      <section className="pure-u-1 pure-u-sm-1-2 pure-u-md-1-3 pure-u-lg-1-4 pure-u-xl-1-5 flip-item-wrap">
-        <img className="fake-image pure-img" src="record-300.jpg" alt="" />
+      <section className="flip-item-wrap">
+        <img className="fake-image" src="record.jpg" alt="" />
         <input type="checkbox" className="flipper" id={this.props.id} onChange={this.handleChange.bind(this)} checked={this.state.isChecked} hidden />
         <label htmlFor={this.props.id} className="flip-item">
-          <figure className="front"><img className="pure-img" src={image.url} alt=""></img></figure>
+          <figure className="front"><img src={image.url} alt=""></img></figure>
           <figure className="back">
-            <img className="pure-img" src={image.url} alt=""></img>
+            <img src={image.url} alt=""></img>
             <div className="flip-item-desc">
               <h4 className="flip-item-title">{this.props.name}</h4>
               <p>{new Date(Date.parse(this.props.release_date)).getFullYear()}</p>
@@ -63,17 +63,18 @@ class Albums extends React.Component {
   }
 
   render() {
-    var ids = this._randomPick(this.state.albums, this.state.years, 100);
+    var ids = this._randomPick(this.state.albums, [1980], 10);
     return (
       <div id="albums">
         <YearMenu handleUpdate={this.handleYearUpdate.bind(this)} all_years={this.all_years} />
-        <div className="pure-g grids">
+        <div className="grids">
           {ids.map(id => React.createElement(Album, this.state.albums[id]))}
         </div>
       </div>
     );
   }
 }
+
 
 class YearMenu extends React.Component {
 
