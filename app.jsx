@@ -63,7 +63,7 @@ class Albums extends React.Component {
   }
 
   render() {
-    var ids = this._randomPick(this.state.albums, [1980], 10);
+    var ids = this._randomPick(this.state.albums, [1980], 100);
     return (
       <div id="albums">
         <YearMenu handleUpdate={this.handleYearUpdate.bind(this)} all_years={this.all_years} />
