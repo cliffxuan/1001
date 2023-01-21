@@ -12,7 +12,7 @@ class Album extends React.Component {
       .first().value();
     return (
       <section className="flip-item-wrap">
-        <img className="fake-image" src="record.jpg" alt="" />
+        <img className="fake-image" src="static/img/record.jpg" alt="" />
         <input type="checkbox" className="flipper" id={this.props.id} onChange={this.handleChange.bind(this)} checked={this.state.isChecked} hidden />
         <label htmlFor={this.props.id} className="flip-item">
           <figure className="front"><img src={image.url} alt=""></img></figure>
